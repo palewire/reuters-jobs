@@ -18,6 +18,12 @@ pytest-env = "*"
 pytest-cov = "*"
 
 [packages]
+click = "*"
+requests = "*"
+rich = "*"
+"mastodon.py" = "*"
+python-twitter = "*"
+pytz = "*"
 
 [requires]
 python_version = "3.9"
