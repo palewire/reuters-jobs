@@ -40,7 +40,7 @@ def cli():
             country=raw_job["primary_country"],
             x=raw_job["primary_location"][0],
             y=raw_job["primary_location"][1],
-            description=markdownify(raw_job["description"]),
+            description=markdownify(raw_job["description"]).strip(),
         )
         clean_job_list.append(clean_job)
 
