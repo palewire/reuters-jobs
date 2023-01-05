@@ -18,7 +18,7 @@ def cli():
     data_dir = this_dir.parent / "data" / "raw"
 
     # Create it, if it doesn't already exist
-    data_dir.mkdir(exist_ok=True)
+    data_dir.mkdir(exist_ok=True, parents=True)
 
     # Pull the raw list
     url = "https://jobsapi-internal.m-cloud.io/api/job?sortfield=open_date&sortorder=descending&Limit=100&Organization=2279&offset=1&fuzzy=false"
