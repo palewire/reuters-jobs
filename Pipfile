@@ -28,6 +28,7 @@ python-twitter = "*"
 pytz = "*"
 markdownify = "*"
 python-dateutil = "*"
+flask = "*"
 
 [requires]
 python_version = "3.9"

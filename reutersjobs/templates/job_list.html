@@ -1,0 +1,37 @@
+<style>
+    table thead {
+        text-align: left;
+    }
+    table td,
+    table th {
+        padding: 4px 4px 4px 0;
+    }
+    table th {
+        border-bottom: 1px solid black;
+    }
+    table td {
+        border-bottom: 1px dotted gray;
+    }
+</style>
+
+<h1>All job listings</h1>
+<table>
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Ref</th>
+            <th>Category</th>
+            <th>Title</th>
+        </tr>
+    </thead>
+    <tbody>
+    {% for obj in obj_list %}
+    <tr>
+        <td>{{ obj.id }}</td>
+        <td>{{ obj.ref }}</td>
+        <td>{{ obj.category }}</td>
+        <td>{{ obj.title }}</td>
+    </tr>
+    {% endfor %}
+    </tbody>
+</table>

@@ -30,6 +30,14 @@ def write_json(data: typing.Any, path: Path, indent: int = 2):
         json.dump(data, fh, indent=2)
 
 
+def get_latest_list() -> typing.List[typing.Dict]:
+    """Open the latest jobs list."""
+    with open(DATA_DIR / "clean" / "latest.csv") as fp:
+        reader = csv.DictReader(fp)
+        row_list = list(reader)
+    return row_list
+
+
 def get_sorted_file_list(
     data_dir: Path = DATA_DIR / "clean", ext: str = ".csv"
 ) -> typing.List[Path]:
