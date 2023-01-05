@@ -31,7 +31,7 @@ jobs:
 
       - id: lint
         name: Lint Python code
-        run: pipenv run flake8 ./muckrockbot --verbose
+        run: pipenv run flake8 ./reutersjobs --verbose
         shell: bash
 
   mypy-python:
@@ -60,7 +60,7 @@ jobs:
 
       - id: mypy
         name: Run mypy
-        run: pipenv run mypy ./muckrockbot --ignore-missing-imports --verbose
+        run: pipenv run mypy ./reutersjobs --ignore-missing-imports --verbose
         shell: bash
 
   test-python:
@@ -84,7 +84,7 @@ jobs:
 
       - id: install-python-dependencies
         name: Install Python dependencies
-        run: pipenv install --dev --python=`which python`
+        run: pipenv sync --dev
         shell: bash
 
       - id: tests
