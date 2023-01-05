@@ -17,6 +17,7 @@ pytest = "*"
 pytest-env = "*"
 pytest-cov = "*"
 types-pytz = "*"
+types-Markdown = "*"
 types-python-dateutil = "*"
 
 [packages]
@@ -29,6 +30,7 @@ pytz = "*"
 markdownify = "*"
 python-dateutil = "*"
 flask = "*"
+markdown = "*"
 
 [requires]
 python_version = "3.9"

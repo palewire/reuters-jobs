@@ -1,5 +1,5 @@
 from flask import Flask, render_template, request
-from markupsafe import escape
+from markdown import markdown
 
 from . import utils
 
@@ -12,11 +12,14 @@ def job_list():
     return render_template("job_list.html", obj_list=utils.get_latest_list())
 
 
-@app.route("/jobs/")
+@app.route("/job/")
 def job_detail():
     """Serve a detail page that we'll save as an image."""
-    name = request.args.get("name", "World")
-    return f"Hello, {escape(name)}!"
+    id_ = request.args.get("id")
+    obj_list = utils.get_latest_list()
+    obj = next(o for o in obj_list if o["id"] == id_)
+    obj["html"] = markdown(obj["description"])
+    return render_template("job_detail.html", obj=obj)
 
 
 if __name__ == "__main__":

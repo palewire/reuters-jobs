@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'Knowledge';
+    src: url('/static/knowledge-regular.woff2') format('woff2-variations');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Knowledge';
+    src: url('/static/knowledge-medium.woff2') format('woff2-variations');
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'Knowledge';
+    src: url('/static/knowledge-bold.woff2') format('woff2-variations');
+    font-weight: 700;
+}
+
+body {
+    font-family: "Knowledge";
+    font-weight: 400;
+}
+
+h1 {
+    font-family: "Knowledge";
+    font-weight: 700;
+}
+
+.logo {
+  width: 300px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+i, em {
+    font-variant: normal;
+    font-style: normal;
+    font-weight: 400;
+}

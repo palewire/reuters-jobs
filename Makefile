@@ -94,6 +94,9 @@ toot: ## Toot new data
 	$(call banner,       🐘 Tooting 🐘)
 	@$(PYTHON) reutersjobs.toot
 
+serve: ## Fire up the test Flask server
+	@$(PYTHON) reutersjobs.app
+
 #
 # Tests
 #
