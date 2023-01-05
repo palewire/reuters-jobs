@@ -8,6 +8,8 @@ import click
 import pytz
 from rich import print
 
+from . import utils
+
 
 @click.command()
 def cli():
@@ -29,7 +31,7 @@ def cli():
             ref=raw_job["ref"],
             title=raw_job["title"],
             url=raw_job["employment_type"],
-            description=raw_job["description"],
+            description=utils.strip_html(raw_job["description"]),
             open_date=raw_job["open_date"],
             type=raw_job["employment_type"],
             category=raw_job["primary_category"],
