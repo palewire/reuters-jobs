@@ -15,7 +15,7 @@ def cli():
     """Download job listings from the Reuters site."""
     # Set the download directory
     this_dir = Path(__file__).parent.absolute()
-    data_dir = this_dir.parent / "data"
+    data_dir = this_dir.parent / "data" / "raw"
 
     # Create it, if it doesn't already exist
     data_dir.mkdir(exist_ok=True)
