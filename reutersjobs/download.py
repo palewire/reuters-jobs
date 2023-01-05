@@ -21,7 +21,7 @@ def cli():
     data_dir.mkdir(exist_ok=True, parents=True)
 
     # Pull the raw list
-    url = "https://jobsapi-internal.m-cloud.io/api/job?sortfield=open_date&sortorder=descending&Limit=100&Organization=2279&offset=1&fuzzy=false"
+    url = "https://jobsapi-internal.m-cloud.io/api/job?sortfield=open_date&sortorder=descending&Limit=999&Organization=2279&offset=1&fuzzy=false"
     r = requests.get(url)
     assert r.ok
     job_list = r.json()

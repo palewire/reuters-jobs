@@ -36,7 +36,7 @@ jobs:
         shell: bash
 
       - id: transform
-        name: Identify new requests
+        name: Transform
         run: make transform
         shell: bash
 
