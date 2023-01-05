@@ -81,6 +81,9 @@ transform: ## Transforming data
 	$(call banner,  🪢 Transforming data 🪢)
 	@$(PYTHON) reutersjobs.transform
 
+flag: ## Transforming data
+	$(call banner,  🚩 Flagging new data 🚩)
+	@$(PYTHON) reutersjobs.flag
 
 tweet: ## Tweet new data
 	$(call banner,       🐦 Tweeting 🐦)

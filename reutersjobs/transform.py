@@ -52,6 +52,12 @@ def cli():
     utils.write_csv(clean_job_list, DATA_DIR / "clean" / f"{now}.csv")
     utils.write_csv(clean_job_list, DATA_DIR / "clean" / "latest.csv")
 
+    # Trim the file list so it doesn't get super long
+    can_go = utils.get_sorted_file_list()[10:]
+    print(f"🗑️ Deleting {len(can_go)} old scrapes")
+    for p in can_go:
+        p.unlink()
+
 
 if __name__ == "__main__":
     cli()

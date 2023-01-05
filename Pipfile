@@ -17,6 +17,7 @@ pytest = "*"
 pytest-env = "*"
 pytest-cov = "*"
 types-pytz = "*"
+types-python-dateutil = "*"
 
 [packages]
 click = "*"
@@ -26,6 +27,7 @@ rich = "*"
 python-twitter = "*"
 pytz = "*"
 markdownify = "*"
+python-dateutil = "*"
 
 [requires]
 python_version = "3.9"

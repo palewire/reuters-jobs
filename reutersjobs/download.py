@@ -33,6 +33,12 @@ def cli():
     utils.write_json(job_list, data_dir / f"{now}.json")
     utils.write_json(job_list, data_dir / "latest.json")
 
+    # Trim the file list so it doesn't get super long
+    can_go = utils.get_sorted_file_list(data_dir=data_dir, ext=".json")[10:]
+    print(f"🗑️ Deleting {len(can_go)} old scrapes")
+    for p in can_go:
+        p.unlink()
+
 
 if __name__ == "__main__":
     cli()

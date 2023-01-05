@@ -20,25 +20,20 @@ jobs:
           python-version: '3.9'
           cache: 'pipenv'
 
-      - id: install-pipenv
-        name: Install pipenv
+      - name: Install pipenv
         run: curl https://raw.githubusercontent.com/pypa/pipenv/master/get-pipenv.py | python
-        shell: bash
 
-      - id: install-python-dependencies
-        name: Install Python dependencies
+      - name: Install Python dependencies
         run: pipenv install --dev --python=`which python`
-        shell: bash
 
-      - id: download
-        name: Download
+      - name: Download
         run: make download
-        shell: bash
 
-      - id: transform
-        name: Transform
+      - name: Transform
         run: make transform
-        shell: bash
+
+      - name: Flag
+        run: make flag
 
       # - id: twitter
       #   name: Send tweets
