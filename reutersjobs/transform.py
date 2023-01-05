@@ -1,12 +1,10 @@
-import csv
 import json
-import typing
 from datetime import datetime
 from pathlib import Path
 
 import click
 import pytz
-from rich import print
+from markdownify import markdownify
 
 from . import utils
 
@@ -31,7 +29,6 @@ def cli():
             ref=raw_job["ref"],
             title=raw_job["title"],
             url=raw_job["employment_type"],
-            description=utils.strip_html(raw_job["description"]),
             open_date=raw_job["open_date"],
             type=raw_job["employment_type"],
             category=raw_job["primary_category"],
@@ -43,6 +40,7 @@ def cli():
             country=raw_job["primary_country"],
             x=raw_job["primary_location"][0],
             y=raw_job["primary_location"][1],
+            description=markdownify(raw_job["description"]),
         )
         clean_job_list.append(clean_job)
 
@@ -51,18 +49,8 @@ def cli():
     now = datetime.now(tz=tz)
 
     # Write them out
-    write_csv(clean_job_list, DATA_DIR / "clean" / f"{now}.csv")
-    write_csv(clean_job_list, DATA_DIR / "clean" / "latest.csv")
-
-
-def write_csv(data: typing.Any, path: Path):
-    """Write JSON data to the provided path."""
-    path.parent.mkdir(parents=True, exist_ok=True)
-    print(f"📥 Writing CSV to {path}")
-    with open(path, "w") as fh:
-        writer = csv.DictWriter(fh, fieldnames=data[0].keys())
-        writer.writeheader()
-        writer.writerows(data)
+    utils.write_csv(clean_job_list, DATA_DIR / "clean" / f"{now}.csv")
+    utils.write_csv(clean_job_list, DATA_DIR / "clean" / "latest.csv")
 
 
 if __name__ == "__main__":

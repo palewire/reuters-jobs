@@ -1,29 +1,24 @@
-from html.parser import HTMLParser
-from io import StringIO
+import csv
+import json
+import typing
+from pathlib import Path
+
+from rich import print
 
 
-class MLStripper(HTMLParser):
-    """Strip HTML."""
-
-    def __init__(self):
-        """Create."""
-        super().__init__()
-        self.reset()
-        self.strict = False
-        self.convert_charrefs = True
-        self.text = StringIO()
-
-    def handle_data(self, d):
-        """Handle the provided data."""
-        self.text.write(d)
-
-    def get_data(self):
-        """Get a value."""
-        return self.text.getvalue()
+def write_csv(data: typing.Any, path: Path):
+    """Write JSON data to the provided path."""
+    path.parent.mkdir(parents=True, exist_ok=True)
+    print(f"📥 Writing CSV to {path}")
+    with open(path, "w") as fh:
+        writer = csv.DictWriter(fh, fieldnames=data[0].keys())
+        writer.writeheader()
+        writer.writerows(data)
 
 
-def strip_tags(html):
-    """Strip HTML from the provided string."""
-    s = MLStripper()
-    s.feed(html)
-    return s.get_data()
+def write_json(data: typing.Any, path: Path, indent: int = 2):
+    """Write JSON data to the provided path."""
+    path.parent.mkdir(parents=True, exist_ok=True)
+    print(f"📥 Writing JSON to {path}")
+    with open(path, "w") as fh:
+        json.dump(data, fh, indent=2)

@@ -1,13 +1,12 @@
 """Download job listings from the Reuters site."""
-import json
-import typing
 from datetime import datetime
 from pathlib import Path
 
 import click
 import pytz
 import requests
-from rich import print
+
+from . import utils
 
 
 @click.command()
@@ -31,16 +30,8 @@ def cli():
     now = datetime.now(tz=tz)
 
     # Write them out
-    write_json(job_list, data_dir / f"{now}.json")
-    write_json(job_list, data_dir / "latest.json")
-
-
-def write_json(data: typing.Any, path: Path, indent: int = 2):
-    """Write JSON data to the provided path."""
-    path.parent.mkdir(parents=True, exist_ok=True)
-    print(f"📥 Writing JSON to {path}")
-    with open(path, "w") as fh:
-        json.dump(data, fh, indent=2)
+    utils.write_json(job_list, data_dir / f"{now}.json")
+    utils.write_json(job_list, data_dir / "latest.json")
 
 
 if __name__ == "__main__":

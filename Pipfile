@@ -25,6 +25,9 @@ rich = "*"
 "mastodon.py" = "*"
 python-twitter = "*"
 pytz = "*"
+bs4 = "*"
+html5lib = "*"
+markdownify = "*"
 
 [requires]
 python_version = "3.9"
