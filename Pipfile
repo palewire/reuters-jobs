@@ -31,6 +31,8 @@ markdownify = "*"
 python-dateutil = "*"
 flask = "*"
 markdown = "*"
+bs4 = "*"
+html5lib = "*"
 
 [requires]
 python_version = "3.9"

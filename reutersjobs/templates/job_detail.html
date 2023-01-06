@@ -1,11 +1,13 @@
 <html>
   <head>
-    <title>Flask Shop</title>
+    <title>{{ obj.title }}</title>
     <link rel="stylesheet" href="/static/style.css">
   </head>
   <body>
     <h1>{{ obj.title }}</h1>
-    {{ obj.html|safe }}
+    <div class="city">{{ obj.city }}</div>
+    <div class="open_date">Posted {{ obj.open_date.strftime('%B %d, %Y') }}</div>
+    <div class="description">{{ obj.html|safe }}</div>
     <div class="logo">
         {% include "logo.svg" %}
     </div>
