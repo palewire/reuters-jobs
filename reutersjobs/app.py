@@ -11,7 +11,12 @@ app = Flask(__name__)
 @app.route("/")
 def job_list():
     """List all of the jobs in the latest clean file."""
-    return render_template("job_list.html", obj_list=utils.get_latest_list())
+    return render_template(
+        "job_list.html",
+        obj_list=[
+            o for o in utils.get_latest_list() if o["category"] == "News & Editorial"
+        ],
+    )
 
 
 @app.route("/job/")
@@ -20,9 +25,16 @@ def job_detail():
     id_ = request.args.get("id")
     obj_list = utils.get_latest_list()
     obj = next(o for o in obj_list if o["id"] == id_)
+    obj["title"] = _clean_title(obj["title"])
     obj["html"] = _prep_html(obj["description"])
     obj["open_date"] = dateparse(obj["open_date"])
     return render_template("job_detail.html", obj=obj)
+
+
+def _clean_title(t):
+    t = t.replace("- Reuters", "")
+    t = t.replace(", Reuters", "")
+    return t.strip()
 
 
 def _prep_html(s):
