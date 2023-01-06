@@ -28,7 +28,7 @@ def job_detail():
     obj_list = utils.get_latest_list()
     obj = next(o for o in obj_list if o["id"] == id_)
     obj["title"] = _clean_title(obj["title"])
-    obj["html"] = _prep_html(obj["description"])
+    # obj["html"] = _prep_html(obj["description"])
     obj["open_date"] = dateparse(obj["open_date"])
     return render_template("job_detail.html", obj=obj)
 

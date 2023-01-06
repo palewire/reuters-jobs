@@ -19,11 +19,46 @@
 body {
     font-family: "Knowledge";
     font-weight: 400;
+    height: 100vh;
+    margin: 0;
+    display: grid;
+    place-items: center;
+    background: #222;
+}
+
+.module-border-wrap {
+    width: 1200px;
+    padding: 1rem;
+    position: relative;
+    background: linear-gradient(#ff5900, orange 50%);
+    padding: 30px;
+  }
+
+.module {
+    background: white;
+    color: black;
+    padding: 30px;
+    height: 630px;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.top {
+
+}
+
+.bottom {
 }
 
 h1 {
     font-family: "Knowledge";
     font-weight: 700;
+    font-size: 120px;
+    line-height: 1.1;
+    padding: 0;
+    margin: 0;
 }
 
 .logo {
