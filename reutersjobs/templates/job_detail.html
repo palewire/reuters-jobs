@@ -7,11 +7,10 @@
     <div class="module-border-wrap">
       <div class="module">
         <div class="top">
+          <h1>{{ obj.title }}</h1>
           <div class="bugbar">
-            <div class="bug">Now hiring</div>
             <div class="bug">Posted {{ obj.open_date.strftime('%B %d, %Y') }}</div>
           </div>
-          <h1>{{ obj.title }}</h1>
         </div>
         <div class="bottom">
           <div class="logo">
