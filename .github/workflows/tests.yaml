@@ -22,17 +22,14 @@ jobs:
       - id: install-pipenv
         name: Install pipenv
         run: curl https://raw.githubusercontent.com/pypa/pipenv/master/get-pipenv.py | python
-        shell: bash
 
       - id: install-python-dependencies
         name: Install Python dependencies
         run: pipenv install --dev --python=`which python`
-        shell: bash
 
       - id: lint
         name: Lint Python code
         run: pipenv run flake8 ./reutersjobs --verbose
-        shell: bash
 
   mypy-python:
     name: Static type check
@@ -51,17 +48,14 @@ jobs:
       - id: install-pipenv
         name: Install pipenv
         run: curl https://raw.githubusercontent.com/pypa/pipenv/master/get-pipenv.py | python
-        shell: bash
 
       - id: install-python-dependencies
         name: Install Python dependencies
         run: pipenv install --dev --python=`which python`
-        shell: bash
 
       - id: mypy
         name: Run mypy
         run: pipenv run mypy ./reutersjobs --ignore-missing-imports --verbose
-        shell: bash
 
   test-python:
     name: Test
@@ -80,14 +74,15 @@ jobs:
       - id: install-pipenv
         name: Install pipenv
         run: curl https://raw.githubusercontent.com/pypa/pipenv/master/get-pipenv.py | python
-        shell: bash
 
       - id: install-python-dependencies
         name: Install Python dependencies
         run: pipenv sync --dev
-        shell: bash
 
       - id: tests
         name: Run tests
         run: make test
-        shell: bash
+
+      - id: server
+        name: Start Flask server
+        run: pipenv run python -m reutersjobs.app &
