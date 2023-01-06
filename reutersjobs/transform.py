@@ -28,7 +28,7 @@ def cli():
             id=raw_job["id"],
             ref=raw_job["ref"],
             title=raw_job["title"],
-            url=raw_job["employment_type"],
+            url=raw_job["url"],
             open_date=raw_job["open_date"],
             type=raw_job["employment_type"],
             category=raw_job["primary_category"],

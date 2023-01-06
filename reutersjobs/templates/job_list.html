@@ -28,7 +28,7 @@
     {% for obj in obj_list %}
     <tr>
         <td><a href="/job/?id={{ obj.id }}">{{ obj.id }}</a></td>
-        <td>{{ obj.ref }}</td>
+        <td><a href="{{ obj.url }}">{{ obj.ref }}</a></td>
         <td>{{ obj.title }}</td>
         <td>{{ obj.city }}</td>
     </tr>
