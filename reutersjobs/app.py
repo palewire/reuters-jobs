@@ -1,3 +1,5 @@
+import re
+
 from bs4 import BeautifulSoup
 from dateutil.parser import parse as dateparse
 from flask import Flask, render_template, request
@@ -11,12 +13,12 @@ app = Flask(__name__)
 @app.route("/")
 def job_list():
     """List all of the jobs in the latest clean file."""
-    return render_template(
-        "job_list.html",
-        obj_list=[
-            o for o in utils.get_latest_list() if o["category"] == "News & Editorial"
-        ],
-    )
+    obj_list = [
+        o for o in utils.get_latest_list() if o["category"] == "News & Editorial"
+    ]
+    for obj in obj_list:
+        obj["title"] = _clean_title(obj["title"])
+    return render_template("job_list.html", obj_list=obj_list)
 
 
 @app.route("/job/")
@@ -33,7 +35,10 @@ def job_detail():
 
 def _clean_title(t):
     t = t.replace("- Reuters", "")
+    t = t.replace("– Reuters", "")
     t = t.replace(", Reuters", "")
+    t = t.replace("Latam ", "Latin American ")
+    t = re.sub(r"\([^)]*\)", "", t)
     return t.strip()
 
 
