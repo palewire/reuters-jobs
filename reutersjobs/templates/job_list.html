@@ -21,6 +21,7 @@
             <th>ID</th>
             <th>Ref</th>
             <th>Title</th>
+            <th>City</th>
         </tr>
     </thead>
     <tbody>
@@ -29,6 +30,7 @@
         <td><a href="/job/?id={{ obj.id }}">{{ obj.id }}</a></td>
         <td>{{ obj.ref }}</td>
         <td>{{ obj.title }}</td>
+        <td>{{ obj.city }}</td>
     </tr>
     {% endfor %}
     </tbody>

@@ -1,6 +1,9 @@
 <html>
   <head>
     <title>{{ obj.title }}</title>
+    <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+    <script src="https://unpkg.com/topojson-client@3"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@observablehq/plot@0.6"></script>
     <link rel="stylesheet" href="/static/style.css">
   </head>
   <body>
@@ -8,16 +11,47 @@
       <div class="module">
         <div class="top">
           <h1>{{ obj.title }}</h1>
-          <div class="bugbar">
-            <div class="bug">Posted {{ obj.open_date.strftime('%B %d, %Y') }}</div>
-          </div>
         </div>
         <div class="bottom">
           <div class="logo">
               {% include "logo.svg" %}
           </div>
+          <div class="map">
+            <div id="plot"></div>
+            <div class="label">Based in {{ obj.city }}</div>
+          </div>
         </div>
       </div>
     </div>
+    <script>
+      const element = document.getElementById("plot");
+      const width = 200;
+      const height = 200;
+      const inset = 1;
+      const url = "/static/110m.json";
+      const graticuleColor = "#77777";
+      const landColor = "#000000";
+      const pointColor = "#ff5900";
+      const pointRadius = 7;
+      const x = {{ obj.x }};
+      const y = {{ obj.y }};
+      d3.json(url).then(function (world) {
+        const land = topojson.feature(world, world.objects.land)
+        const globe = Plot.marks([
+          Plot.graticule({ stroke: graticuleColor }),
+          Plot.geo(land, { fill: landColor }),
+          Plot.dot([[x, y]], { fill: pointColor, r: pointRadius }),
+          Plot.sphere({ stroke: landColor })
+        ])
+        const projection = ({ type: "orthographic", rotate: [x * -1, y * -1] })
+        const plot = globe.plot({
+          width,
+          height,
+          inset,
+          projection
+        })
+        element.append(plot);
+      });
+    </script>
   </body>
 </html>

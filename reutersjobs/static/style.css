@@ -31,7 +31,7 @@ body {
     padding: 1rem;
     position: relative;
     background: linear-gradient(#ff5900, orange 50%);
-    padding: 20px;
+    padding: 30px;
   }
 
 .module {
@@ -45,22 +45,12 @@ body {
     justify-content: space-between;
 }
 
-.top {
-
-}
-
 .bottom {
-}
-
-.bug {
-    text-transform: capitalize;
-    font-size: 16px;
-    font-weight: 400;
-    color: black;
-    background-color: #ccc;
-    padding: 5px;
-    display: inline-block;
-    margin-right: 5px;
+    display: flex;
+    width: 100%;
+    align-items: flex-end;
+    flex-direction: row;
+    justify-content: space-between;
 }
 
 h1 {
@@ -68,13 +58,19 @@ h1 {
     font-weight: 700;
     font-size: 120px;
     text-transform: capitalize;
-    line-height: 1.1;
+    line-height: 1;
     padding: 0;
     margin: 0 0 15px 0;
 }
 
 .logo {
   width: 300px;
+}
+
+.map .label {
+    margin-top: 5px;
+    text-align: center;
+    font-weight: 500;
 }
 
 a {
