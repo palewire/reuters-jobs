@@ -31,13 +31,13 @@ body {
     padding: 1rem;
     position: relative;
     background: linear-gradient(#ff5900, orange 50%);
-    padding: 30px;
+    padding: 20px;
   }
 
 .module {
     background: white;
     color: black;
-    padding: 30px;
+    padding: 20px;
     height: 630px;
     display: flex;
     align-items: flex-start;
@@ -52,13 +52,25 @@ body {
 .bottom {
 }
 
+.bug {
+    text-transform: capitalize;
+    font-size: 16px;
+    font-weight: 400;
+    color: black;
+    background-color: #ccc;
+    padding: 5px;
+    display: inline-block;
+    margin-right: 5px;
+}
+
 h1 {
     font-family: "Knowledge";
     font-weight: 700;
     font-size: 120px;
+    text-transform: capitalize;
     line-height: 1.1;
     padding: 0;
-    margin: 0;
+    margin: 5px 0 0 0;
 }
 
 .logo {
