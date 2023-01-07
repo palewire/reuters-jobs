@@ -17,7 +17,7 @@ def job_list():
         o for o in utils.get_latest_list() if o["category"] == "News & Editorial"
     ]
     for obj in obj_list:
-        obj["title"] = _clean_title(obj["title"])
+        obj["title"] = utils.clean_title(obj["title"])
     return render_template("job_list.html", obj_list=obj_list)
 
 
@@ -27,20 +27,10 @@ def job_detail():
     id_ = request.args.get("id")
     obj_list = utils.get_latest_list()
     obj = next(o for o in obj_list if o["id"] == id_)
-    obj["title"] = _clean_title(obj["title"])
+    obj["title"] = utils.clean_title(obj["title"])
     # obj["html"] = _prep_html(obj["description"])
     obj["open_date"] = dateparse(obj["open_date"])
     return render_template("job_detail.html", obj=obj)
-
-
-def _clean_title(t):
-    t = t.replace("- Reuters", "")
-    t = t.replace("– Reuters", "")
-    t = t.replace(", Reuters", "")
-    t = t.replace("Latam ", "Latin American ")
-    t = re.sub(r"\([^)]*\)", "", t)
-    return t.strip()
-
 
 def _prep_html(s):
     html = markdown(s)
