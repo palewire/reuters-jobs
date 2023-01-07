@@ -35,6 +35,10 @@ jobs:
       - name: Flag
         run: make flag
 
+      - id: server
+        name: Start Flask server
+        run: pipenv run python -m reutersjobs.app &
+
       # - id: twitter
       #   name: Send tweets
       #   run: make tweet
