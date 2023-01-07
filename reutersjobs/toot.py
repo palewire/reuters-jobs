@@ -21,7 +21,12 @@ def cli():
         api_base_url="https://mastodon.palewi.re",
     )
     for obj in data:
-        text = f"""{utils.clean_title(obj['title'])} in {obj['city']}\n\n {obj['url']}"""
+        print(f"Uploading {image_path}")
+        image_path = utils.DATA_DIR / "img" / f"{obj['id']}.png"
+        assert image_path.exists()
+        title = utils.clean_title(obj['title'])
+        media_obj = api.media_post(image_path, description=title)
+        text = f"""{title} in {obj['city']}\n\n {obj['url']}"""
         api.status_post(text)
         time.sleep(2)
 
