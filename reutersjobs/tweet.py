@@ -23,7 +23,7 @@ def cli():
     for obj in data:
         image_path = utils.DATA_DIR / "img" / f"{obj['id']}.png"
         assert image_path.exists()
-        media_obj = api.UploadMediaSimple(image_path)
+        media_obj = api.UploadMediaSimple(open(image_path, "rb"))
         title = utils.clean_title(obj["title"])
         api.PostMediaMetadata(media_obj, title)
         text = f"""🟠 {title} in {obj['city']} {obj['url']}"""
