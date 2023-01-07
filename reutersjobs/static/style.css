@@ -27,15 +27,15 @@ body {
 }
 
 .module-border-wrap {
-    width: 1200px;
-    height: 630px;
+    width: 1140px;
+    height: 570px;
     position: relative;
     background: linear-gradient(#ff5900, orange 50%);
     padding: 30px;
 }
 
 .module {
-    height: 590px;
+    height: 530px;
     background: white;
     color: black;
     padding: 20px;
@@ -56,7 +56,7 @@ body {
 h1 {
     font-family: "Knowledge";
     font-weight: 700;
-    font-size: 110px;
+    font-size: 95px;
     text-transform: capitalize;
     line-height: 1;
     padding: 0;
