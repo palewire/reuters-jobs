@@ -89,7 +89,6 @@ tweet: ## Tweet new data
 	$(call banner,       🐦 Tweeting 🐦)
 	@$(PYTHON) reutersjobs.tweet
 
-
 toot: ## Toot new data
 	$(call banner,       🐘 Tooting 🐘)
 	@$(PYTHON) reutersjobs.toot
