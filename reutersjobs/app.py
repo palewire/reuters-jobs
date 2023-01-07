@@ -1,5 +1,3 @@
-import re
-
 from bs4 import BeautifulSoup
 from dateutil.parser import parse as dateparse
 from flask import Flask, render_template, request
@@ -31,6 +29,7 @@ def job_detail():
     # obj["html"] = _prep_html(obj["description"])
     obj["open_date"] = dateparse(obj["open_date"])
     return render_template("job_detail.html", obj=obj)
+
 
 def _prep_html(s):
     html = markdown(s)
