@@ -24,7 +24,9 @@ jobs:
         run: curl https://raw.githubusercontent.com/pypa/pipenv/master/get-pipenv.py | python
 
       - name: Install Python dependencies
-        run: pipenv install --dev --python=`which python`
+        run: |
+          pipenv sync
+          pipenv run shot-scraper install
 
       - name: Download
         run: make download
@@ -35,9 +37,11 @@ jobs:
       - name: Flag
         run: make flag
 
-      - id: server
-        name: Start Flask server
+      - name: Start Flask server
         run: pipenv run python -m reutersjobs.app &
+
+      - name: Screenshot
+        run: pipenv run python -m reutersjobs.screenshot
 
       # - id: twitter
       #   name: Send tweets
