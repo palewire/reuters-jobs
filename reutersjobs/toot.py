@@ -1,7 +1,6 @@
 import os
 import csv
 import time
-from pathlib import Path
 
 import click
 from mastodon import Mastodon
@@ -13,7 +12,7 @@ from . import utils
 @click.command()
 def cli():
     """Post latest requests to Twitter."""
-    data = list(csv.DictReader(open(DATA_DIR / "clean" / "additions.csv", "r")))
+    data = list(csv.DictReader(open(utils.DATA_DIR / "clean" / "additions.csv", "r")))
     print(f"Tooting {len(data)} listings")
     api = Mastodon(
         client_id=os.getenv("MASTODON_CLIENT_KEY"),
