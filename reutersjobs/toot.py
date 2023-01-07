@@ -27,7 +27,7 @@ def cli():
         title = utils.clean_title(obj['title'])
         media_obj = api.media_post(image_path, description=title)
         text = f"""{title} in {obj['city']}\n\n {obj['url']}"""
-        api.status_post(text)
+        api.status_post(text, media_ids=media_obj['id'])
         time.sleep(2)
 
 
