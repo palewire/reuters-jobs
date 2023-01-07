@@ -33,6 +33,7 @@ flask = "*"
 markdown = "*"
 bs4 = "*"
 html5lib = "*"
+shot-scraper = "*"
 
 [requires]
 python_version = "3.9"
