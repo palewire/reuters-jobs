@@ -4,9 +4,10 @@ from pathlib import Path
 
 import click
 import pytz
-from markdownify import markdownify
 
 from . import utils
+
+# from markdownify import markdownify
 
 
 @click.command()
@@ -40,7 +41,7 @@ def cli():
             country=raw_job["primary_country"],
             x=raw_job["primary_location"][0],
             y=raw_job["primary_location"][1],
-            description=markdownify(raw_job["description"]).strip(),
+            # description=markdownify(raw_job["description"]).strip(),
         )
         clean_job_list.append(clean_job)
 
