@@ -21,7 +21,6 @@ def cli():
         api_base_url="https://mastodon.palewi.re",
     )
     for obj in data:
-        print(f"Uploading {image_path}")
         image_path = utils.DATA_DIR / "img" / f"{obj['id']}.png"
         assert image_path.exists()
         title = utils.clean_title(obj['title'])
