@@ -25,7 +25,7 @@ def cli():
         assert image_path.exists()
         title = utils.clean_title(obj["title"])
         media_obj = api.media_post(image_path, description=title)
-        text = f"""🟠 NEW REUTERS JOB 🟠\n\n{title} in {obj['city']}\n More: {obj['url']}"""
+        text = f"""🟠 NEW REUTERS JOB: {title} in {obj['city']}\n{obj['url']}"""
         api.status_post(text, media_ids=media_obj["id"])
         time.sleep(2)
 
