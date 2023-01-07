@@ -13,7 +13,7 @@ from . import utils
 def cli():
     """Post latest listings to Twitter."""
     data = list(csv.DictReader(open(utils.DATA_DIR / "clean" / "additions.csv")))
-    print(f"Tooting {len(data)} listings")
+    print(f"Tweeting {len(data)} listings")
     api = twitter.Api(
         consumer_key=os.getenv("TWITTER_CONSUMER_KEY"),
         consumer_secret=os.getenv("TWITTER_CONSUMER_SECRET"),
