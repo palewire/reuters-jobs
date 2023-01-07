@@ -1,6 +1,6 @@
-import re
 import csv
 import json
+import re
 import typing
 from pathlib import Path
 

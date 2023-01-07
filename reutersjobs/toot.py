@@ -1,5 +1,5 @@
-import os
 import csv
+import os
 import time
 
 import click
@@ -12,7 +12,7 @@ from . import utils
 @click.command()
 def cli():
     """Post latest requests to Twitter."""
-    data = list(csv.DictReader(open(utils.DATA_DIR / "clean" / "additions.csv", "r")))
+    data = list(csv.DictReader(open(utils.DATA_DIR / "clean" / "additions.csv")))
     print(f"Tooting {len(data)} listings")
     api = Mastodon(
         client_id=os.getenv("MASTODON_CLIENT_KEY"),
@@ -23,10 +23,10 @@ def cli():
     for obj in data:
         image_path = utils.DATA_DIR / "img" / f"{obj['id']}.png"
         assert image_path.exists()
-        title = utils.clean_title(obj['title'])
+        title = utils.clean_title(obj["title"])
         media_obj = api.media_post(image_path, description=title)
         text = f"""{title} in {obj['city']}\n\n {obj['url']}"""
-        api.status_post(text, media_ids=media_obj['id'])
+        api.status_post(text, media_ids=media_obj["id"])
         time.sleep(2)
 
 
