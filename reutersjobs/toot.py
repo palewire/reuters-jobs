@@ -7,14 +7,13 @@ import click
 from mastodon import Mastodon
 from rich import print
 
-THIS_DIR = Path(__file__).parent.absolute()
-DATA_DIR = THIS_DIR.parent / "data" / "clean"
+from . import utils
 
 
 @click.command()
 def cli():
     """Post latest requests to Twitter."""
-    data = list(csv.DictReader(open(DATA_DIR / "additions.csv", "r")))
+    data = list(csv.DictReader(open(DATA_DIR / "clean" / "additions.csv", "r")))
     print(f"Tooting {len(data)} requests")
     api = Mastodon(
         client_id=os.getenv("MASTODON_CLIENT_KEY"),
@@ -23,7 +22,7 @@ def cli():
         api_base_url="https://mastodon.palewi.re",
     )
     for obj in data:
-        text = f"""{obj['title']} in {obj['city']}\n\n {obj['url']}"""
+        text = f"""{utils.clean_title(obj['title'])} in {obj['city']}\n\n {obj['url']}"""
         api.status_post(text)
         time.sleep(2)
 
