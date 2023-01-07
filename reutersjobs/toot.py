@@ -14,7 +14,7 @@ from . import utils
 def cli():
     """Post latest requests to Twitter."""
     data = list(csv.DictReader(open(DATA_DIR / "clean" / "additions.csv", "r")))
-    print(f"Tooting {len(data)} requests")
+    print(f"Tooting {len(data)} listings")
     api = Mastodon(
         client_id=os.getenv("MASTODON_CLIENT_KEY"),
         client_secret=os.getenv("MASTODON_CLIENT_SECRET"),
