@@ -1,3 +1,4 @@
+import re
 import csv
 import json
 import typing
@@ -8,6 +9,16 @@ from rich import print
 
 THIS_DIR = Path(__file__).parent.absolute()
 DATA_DIR = THIS_DIR.parent / "data"
+
+
+def clean_title(t: str) -> str:
+    """Tidy up the title."""
+    t = t.replace("- Reuters", "")
+    t = t.replace("– Reuters", "")
+    t = t.replace(", Reuters", "")
+    t = t.replace("Latam ", "Latin American ")
+    t = re.sub(r"\([^)]*\)", "", t)
+    return t.strip()
 
 
 def write_csv(
