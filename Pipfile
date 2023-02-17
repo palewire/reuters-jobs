@@ -34,6 +34,7 @@ markdown = "*"
 bs4 = "*"
 html5lib = "*"
 shot-scraper = "*"
+python3-linkedin = "*"
 
 [requires]
 python_version = "3.9"

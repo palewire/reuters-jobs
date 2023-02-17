@@ -93,6 +93,11 @@ toot: ## Toot new data
 	$(call banner,       🐘 Tooting 🐘)
 	@$(PYTHON) reutersjobs.toot
 
+linkedin: ## Post new data to LinkedIn
+	$(call banner,      🔗 LinkedIn-ing 🔗)
+	@$(PYTHON) reutersjobs.linkedinner post
+
+
 serve: ## Fire up the test Flask server
 	@$(PYTHON) reutersjobs.app
 
