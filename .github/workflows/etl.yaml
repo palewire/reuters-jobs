@@ -5,6 +5,10 @@ on:
   schedule:
     - cron: "30 */6 * * *"
 
+permissions:
+  contents: read
+  pages: write
+
 jobs:
   run:
     name: Run
