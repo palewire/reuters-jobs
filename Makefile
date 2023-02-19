@@ -97,6 +97,9 @@ linkedin: ## Post new data to LinkedIn
 	$(call banner,      🔗 LinkedIn-ing 🔗)
 	@$(PYTHON) reutersjobs.linkedinner post
 
+rss: ## Create RSS feed
+	$(call banner,        🤖 RSS-ing 🤖)
+	@$(PYTHON) reutersjobs.rss
 
 serve: ## Fire up the test Flask server
 	@$(PYTHON) reutersjobs.app

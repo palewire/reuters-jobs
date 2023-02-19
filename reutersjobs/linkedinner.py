@@ -57,7 +57,8 @@ def post():
         asset_id = upload_image(image_path)
 
         # Draft the message
-        message = f"New job at {company_name}: {obj['title']} in {obj['city']}\n\n Apply now at {obj['url']}"
+        title = utils.clean_title(obj["title"])
+        message = f"New job at {company_name}: {title} in {obj['city']}\n\n Apply now at {obj['url']}"
 
         # Post the message
         post_data = {
@@ -87,7 +88,7 @@ def post():
                             "media": asset_id,
                             "originalUrl": obj["url"],
                             "title": {
-                                "text": f"New job at {company_name}: {obj['title']} in {obj['city']}"
+                                "text": f"New job at {company_name}: {title} in {obj['city']}"
                             },
                         }
                     ],
@@ -95,7 +96,7 @@ def post():
             },
             "visibility": {"com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"},
         }
-        print(f"Posting {obj['title']}")
+        print(f"Posting {title}")
         requests.post(api_url, headers=get_headers(access_token), json=post_data)
 
 

@@ -35,6 +35,7 @@ bs4 = "*"
 html5lib = "*"
 shot-scraper = "*"
 python3-linkedin = "*"
+feedgen = "*"
 
 [requires]
 python_version = "3.9"

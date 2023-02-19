@@ -27,11 +27,6 @@ repos:
     -   id: blacken-docs
         additional_dependencies: [black]
 
--   repo: https://github.com/timothycrosley/isort
-    rev: 5.10.1
-    hooks:
-    -   id: isort
-
 -   repo: https://github.com/pycqa/flake8
     rev: 6.0.0
     hooks:
