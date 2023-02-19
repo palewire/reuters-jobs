@@ -44,6 +44,7 @@ def cli():
         title = utils.clean_title(row["title"])
         fe.title(f"{title} in {row['city']}")
         fe.link(href=row["url"])
+        fe.pubDate(pubDate=row["open_date"])
 
     # Write it out
     fg.rss_file(utils.DATA_DIR / "clean" / "latest.rss", pretty=True)
