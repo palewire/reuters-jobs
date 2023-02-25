@@ -48,6 +48,20 @@ jobs:
       - name: Screenshot
         run: pipenv run python -m reutersjobs.screenshot
 
+      - name: Update RSS
+        run: make rss
+
+      - id: commit
+        name: Commit
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git config pull.rebase false
+          git pull origin $GITHUB_REF
+          git add ./
+          git commit -m "Added latest ETL" --author="palewire <palewire@users.noreply.github.com>" && git push || true
+        shell: bash
+
       - id: twitter
         name: Send tweets
         run: make tweet
@@ -72,20 +86,6 @@ jobs:
           MASTODON_CLIENT_KEY: ${{ secrets.MASTODON_CLIENT_KEY }}
           MASTODON_CLIENT_SECRET: ${{ secrets.MASTODON_CLIENT_SECRET }}
           MASTODON_ACCESS_TOKEN: ${{ secrets.MASTODON_ACCESS_TOKEN }}
-
-      - name: Send RSS
-        run: make rss
-
-      - id: commit
-        name: Commit
-        run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          git config pull.rebase false
-          git pull origin $GITHUB_REF
-          git add ./
-          git commit -m "Added latest ETL" --author="palewire <palewire@users.noreply.github.com>" && git push || true
-        shell: bash
 
       - name: Setup Pages
         uses: actions/configure-pages@v2
