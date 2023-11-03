@@ -17,9 +17,8 @@ def cli():
     # Parse dates
     rss_data = []
     for r in data:
-        if r["category"] == "News & Editorial":
-            r["open_date"] = dateparse(r["open_date"])
-            rss_data.append(r)
+        r["open_date"] = dateparse(r["open_date"])
+        rss_data.append(r)
 
     # Sort reverse chron
     sorted_data = sorted(rss_data, key=lambda x: x["open_date"], reverse=True)
