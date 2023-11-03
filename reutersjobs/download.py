@@ -5,6 +5,7 @@ from pathlib import Path
 import click
 import pytz
 import requests
+from rich import print
 
 from . import utils
 
@@ -19,11 +20,52 @@ def cli():
     # Create it, if it doesn't already exist
     data_dir.mkdir(exist_ok=True, parents=True)
 
-    # Pull the raw list
-    url = "https://jobsapi-internal.m-cloud.io/api/job?sortfield=open_date&sortorder=descending&Limit=500&Organization=2279&offset=1&fuzzy=false"
-    r = requests.get(url)
-    assert r.ok
-    job_list = r.json()
+    # Request the data
+    headers = {
+        "content-type": "application/json",
+    }
+    data = {
+        "lang": "en_us",
+        "deviceType": "desktop",
+        "country": "us",
+        "pageName": "search-results",
+        "ddoKey": "refineSearch",
+        "sortBy": "Most recent",
+        "subsearch": "",
+        "from": 0,
+        "jobs": True,
+        "counts": True,
+        "all_fields": [
+            "category",
+            "country",
+            "state",
+            "city",
+            "type",
+            "remote",
+        ],
+        "size": 100,
+        "clearAll": False,
+        "jdsource": "facets",
+        "isSliderEnable": False,
+        "pageId": "page21",
+        "siteType": "external",
+        "keywords": "",
+        "global": True,
+        "selected_fields": {"category": ["News & Editorial Careers"]},
+        "sort": {"order": "desc", "field": "postedDate"},
+        "locationData": {},
+    }
+
+    # Make the request
+    resp = requests.post(
+        "https://careers.thomsonreuters.com/widgets",
+        headers=headers,
+        json=data,
+    )
+
+    # Get the JSON
+    job_list = resp.json()["refineSearch"]["data"]["jobs"]
+    print(f"📥 Downloaded {len(job_list)} jobs")
 
     # Get the current time
     tz = pytz.timezone("Europe/London")

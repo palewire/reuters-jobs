@@ -22,7 +22,7 @@ def cli():
     previous_filing_ids = [d["id"] for d in previous_data]
     new_data = []
     for d in latest_data:
-        if d["id"] not in previous_filing_ids and d["category"] == "News & Editorial":
+        if d["id"] not in previous_filing_ids:
             new_data.append(d)
     print(f"🆕 {len(new_data)} new filings found")
 

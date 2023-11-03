@@ -76,7 +76,6 @@ download: ## Download data
 	$(call banner,    🔽 Downloading data 🔽)
 	@$(PYTHON) reutersjobs.download
 
-
 transform: ## Transforming data
 	$(call banner,  🪢 Transforming data 🪢)
 	@$(PYTHON) reutersjobs.transform

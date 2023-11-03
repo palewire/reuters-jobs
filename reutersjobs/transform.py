@@ -22,28 +22,22 @@ def cli():
     latest_data = json.load(open(latest_raw_path))
 
     # Trim down the data
-    raw_job_list = latest_data["queryResult"]
     clean_job_list = []
-    for raw_job in raw_job_list:
+    for raw_job in latest_data:
         clean_job = dict(
-            id=raw_job["id"],
-            ref=raw_job["ref"],
+            id=raw_job["jobId"],
             title=raw_job["title"],
-            url=raw_job["url"],
-            open_date=raw_job["open_date"],
-            type=raw_job["employment_type"],
-            category=raw_job["primary_category"],
-            department=raw_job["department"],
-            business_unit=raw_job["business_unit"],
-            industry=raw_job["industry"],
-            function=raw_job["function"],
-            city=raw_job["primary_city"],
-            country=raw_job["primary_country"],
-            x=raw_job["primary_location"][0],
-            y=raw_job["primary_location"][1],
-            # description=markdownify(raw_job["description"]).strip(),
+            url=raw_job["applyUrl"],
+            open_date=raw_job["postedDate"],
+            type=raw_job["type"],
+            city=raw_job["city"],
+            country=raw_job["country"],
+            x=raw_job["longitude"],
+            y=raw_job["latitude"],
         )
         clean_job_list.append(clean_job)
+
+    print(f"✨ Cleaned {len(clean_job_list)} jobs")
 
     # Get the current time
     tz = pytz.timezone("Europe/London")
