@@ -1,6 +1,5 @@
 import csv
 import json
-import re
 import typing
 from pathlib import Path
 
@@ -17,7 +16,6 @@ def clean_title(t: str) -> str:
     t = t.replace("– Reuters", "")
     t = t.replace(", Reuters", "")
     t = t.replace("Latam ", "Latin American ")
-    t = re.sub(r"\([^)]*\)", "", t)
     return t.strip()
 
 
