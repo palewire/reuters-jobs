@@ -11,7 +11,7 @@ from . import utils
 
 @click.command()
 def cli():
-    """Post latest requests to Twitter."""
+    """Post latest requests to Mastodon."""
     data = list(csv.DictReader(open(utils.DATA_DIR / "clean" / "additions.csv")))
     print(f"Tooting {len(data)} listings")
     api = Mastodon(

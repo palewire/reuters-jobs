@@ -85,17 +85,9 @@ flag: ## Transforming data
 	$(call banner,  🚩 Flagging new data 🚩)
 	@$(PYTHON) reutersjobs.flag
 
-tweet: ## Tweet new data
-	$(call banner,       🐦 Tweeting 🐦)
-	@$(PYTHON) reutersjobs.tweet
-
 toot: ## Toot new data
 	$(call banner,       🐘 Tooting 🐘)
 	@$(PYTHON) reutersjobs.toot
-
-linkedin: ## Post new data to LinkedIn
-	$(call banner,      🔗 LinkedIn-ing 🔗)
-	@$(PYTHON) reutersjobs.linkedinner post
 
 rss: ## Create RSS feed
 	$(call banner,        🤖 RSS-ing 🤖)
