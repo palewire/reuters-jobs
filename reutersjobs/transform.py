@@ -27,7 +27,7 @@ def cli():
         clean_job = dict(
             id=raw_job["jobId"],
             title=raw_job["title"],
-            url=raw_job["applyUrl"],
+            url=f"https://careers.thomsonreuters.com/us/en/job/{raw_job['jobId']}",
             open_date=raw_job["postedDate"],
             type=raw_job["type"],
             city=raw_job["city"],
