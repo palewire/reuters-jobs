@@ -18,7 +18,7 @@
           </div>
           <div class="map">
             <div id="plot"></div>
-            <div class="label">Based in {{ obj.city }}</div>
+            <div class="label">Based in {% if obj.city %}{{ obj.city }}{% else %}{{ obj.country }}{% endif %}</div>
           </div>
         </div>
       </div>
