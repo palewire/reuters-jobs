@@ -24,8 +24,12 @@ def cli():
         image_path = utils.DATA_DIR / "img" / f"{obj['id']}.png"
         assert image_path.exists()
         title = utils.clean_title(obj["title"])
+        if obj['city'].strip():
+            title =+ f" in {obj['city'].strip()}"
+        elif obj['country'].strip():
+            title =+ f" in {obj['country'].strip()}"
         media_obj = api.media_post(image_path, description=title)
-        text = f"""🟠 {title} in {obj['city']} {obj['url']}"""
+        text = f"""🟠 {title} {obj['url']}"""
         api.status_post(text, media_ids=media_obj["id"])
         time.sleep(2)
 
