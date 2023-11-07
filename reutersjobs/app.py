@@ -11,9 +11,7 @@ app = Flask(__name__)
 @app.route("/")
 def job_list():
     """List all of the jobs in the latest clean file."""
-    obj_list = [
-        o for o in utils.get_latest_list() if o["category"] == "News & Editorial"
-    ]
+    obj_list = utils.get_latest_list()
     for obj in obj_list:
         obj["title"] = utils.clean_title(obj["title"])
     return render_template("job_list.html", obj_list=obj_list)

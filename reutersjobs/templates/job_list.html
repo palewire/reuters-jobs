@@ -21,7 +21,7 @@
             <th>ID</th>
             <th>Ref</th>
             <th>Title</th>
-            <th>City</th>
+            <th>Location</th>
         </tr>
     </thead>
     <tbody>
@@ -30,7 +30,7 @@
         <td><a href="/job/?id={{ obj.id }}">{{ obj.id }}</a></td>
         <td><a href="{{ obj.url }}">{{ obj.ref }}</a></td>
         <td>{{ obj.title }}</td>
-        <td>{{ obj.city }}</td>
+        <td>{% if obj.city %}{{ obj.city }}{% else %}{{ obj.country }}{% endif %}</td>
     </tr>
     {% endfor %}
     </tbody>
