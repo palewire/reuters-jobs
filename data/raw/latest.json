@@ -1,5 +1,138 @@
 [
   {
+    "cityState": "Dubai",
+    "country": "United Arab Emirates",
+    "ml_skills": [
+      "arabic",
+      "arabic a",
+      "multimedia",
+      "transparency",
+      "lseg",
+      "hostile environments",
+      "go"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Work with teams to generate smart and agenda-setting story ideas. Make and cultivate contacts, producing exclusive news stories, and encourage the team to do the same. Have at least seven years of experience...",
+    "state": "Dubai",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "55.1575893",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ173394",
+    "jobId": "JREQ173394",
+    "city": "",
+    "latitude": "25.0961362",
+    "locale": "en_US",
+    "multi_location": [
+      "Dubai, United Arab Emirates"
+    ],
+    "title": "Bureau Chief, Gulf - Reuters",
+    "jobSeqNo": "THTTRUUSJREQ173394EXTERNALENUS",
+    "postedDate": "2023-11-07T00:00:00.000+0000",
+    "dateCreated": "2023-11-07T12:38:32.025+0000",
+    "cityStateCountry": "Dubai, United Arab Emirates",
+    "address": "Reuters Ltd, Office 501, Building 1, 5th Floor Dubai Media City, Dubai, United Arab Emirates",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/ARE-Dubai-Dubai-Media-City/Bureau-Chief--Gulf---Reuters_JREQ173394/apply",
+    "location": "Dubai, United Arab Emirates",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Work with teams to generate smart and agenda-setting story ideas. Make and cultivate contacts, producing exclusive news stories, and encourage the team to do the same. Have at least seven years of experience...",
+      "descriptionTeaser_first200": "Reuters is seeking an experienced journalist to lead our news coverage from the Gulf, a compelling region of profound importance to energy supplies, trade and investment flows and international security....",
+      "descriptionTeaser_keyword": "Reuters is seeking an experienced journalist to lead our news coverage from the Gulf, a compelling region of profound importance to energy supplies, trade and investment flows and international security....",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 55.1575893,
+          "lat": 25.0961362
+        },
+        "location": "Dubai, United Arab Emirates"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Bengaluru, Karnataka",
+    "country": "India",
+    "ml_skills": [
+      "multimedia",
+      "everything",
+      "journalism",
+      "mass communication",
+      "creativity",
+      "transparency"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "The multimedia news producer will work closely with Reuters' main editorial services in deciding what the top stories will be on everything from politics and policy, business, markets, sport, entertainment...",
+    "state": "Karnataka",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "77.7120655",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ166511",
+    "jobId": "JREQ166511",
+    "city": "Bengaluru",
+    "latitude": "12.9743998",
+    "locale": "en_US",
+    "multi_location": [
+      "Bengaluru, Karnataka, India"
+    ],
+    "title": "Multimedia News Producer",
+    "jobSeqNo": "THTTRUUSJREQ166511EXTERNALENUS",
+    "postedDate": "2023-11-07T00:00:00.000+0000",
+    "dateCreated": "2023-03-09T12:42:32.596+0000",
+    "cityStateCountry": "Bengaluru, Karnataka, India",
+    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/Multimedia-News-Producer_JREQ166511/apply",
+    "location": "Bengaluru, Karnataka, India",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "The multimedia news producer will work closely with Reuters' main editorial services in deciding what the top stories will be on everything from politics and policy, business, markets, sport, entertainment...",
+      "descriptionTeaser_first200": "We are looking for a multimedia journalist to join the 24X7 digital operations of Reuters, which operates one of world's largest and most credible business and news websites and an online business in...",
+      "descriptionTeaser_keyword": "We are looking for a multimedia journalist to join the 24X7 digital operations of Reuters, which operates one of world's largest and most credible business and news websites and an online business in serving...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 77.7120655,
+          "lat": 12.9743998
+        },
+        "location": "Bengaluru, Karnataka, India"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Mexico City",
     "country": "Mexico",
     "ml_skills": [
@@ -971,81 +1104,6 @@
     "badge": ""
   },
   {
-    "cityState": "Mumbai, Maharashtra",
-    "country": "India",
-    "ml_skills": [
-      "job postings",
-      "negotiating",
-      "public accounting",
-      "taxation",
-      "gathering information",
-      "tax software",
-      "financial statements",
-      "tax returns",
-      "technical background",
-      "objectivity",
-      "individual tax returns",
-      "multi state",
-      "ms office",
-      "advising",
-      "caseware software"
-    ],
-    "remote": "On-Site",
-    "type": "Full time",
-    "descriptionTeaser": "Preparation of US Individual tax returns. Knowledge on various tax technical concepts, software(s) and tools used in preparation of tax returns. Gathering information, requesting missing information, scheduling...",
-    "state": "Maharashtra",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "72.8814089",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ171454",
-    "jobId": "JREQ171454",
-    "city": "Mumbai",
-    "latitude": "19.1114368",
-    "locale": "en_US",
-    "multi_location": [
-      "Mumbai, Maharashtra, India"
-    ],
-    "title": "Process Associate",
-    "jobSeqNo": "THTTRUUSJREQ171454EXTERNALENUS",
-    "postedDate": "2023-10-18T00:00:00.000+0000",
-    "dateCreated": "2023-08-18T12:41:49.204+0000",
-    "cityStateCountry": "Mumbai, Maharashtra, India",
-    "address": "4th Flr, Dhantak Plaza, Makwana Road, Marol, Andheri East, Mumbai- 400059, Maharashtra, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Mumbai-Dhantak-Plaza/Process-Associate_JREQ171454/apply",
-    "location": "Mumbai, Maharashtra, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Preparation of US Individual tax returns. Knowledge on various tax technical concepts, software(s) and tools used in preparation of tax returns. Gathering information, requesting missing information, scheduling...",
-      "descriptionTeaser_first200": "Preparation of U.S Corporate and Partnership Federal and Multi state tax returns. Preparation of US Individual tax returns. Knowledge on various tax technical concepts, software(s) and tools used in preparation...",
-      "descriptionTeaser_keyword": "Preparation of U. S Corporate and Partnership Federal and Multi state tax returns. Preparation of US Individual tax returns. Knowledge on various tax technical concepts, software(s) and tools used in preparation...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 72.8814089,
-          "lat": 19.1114368
-        },
-        "location": "Mumbai, Maharashtra, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Gdansk",
     "country": "Poland",
     "ml_skills": [
@@ -1969,6 +2027,85 @@
     "badge": ""
   },
   {
+    "cityState": "Eagan, Minnesota",
+    "country": "United States of America",
+    "ml_skills": [
+      "grammar",
+      "self-motivated",
+      "research skills",
+      "track",
+      "technical support",
+      "product development",
+      "westlaw",
+      "line",
+      "software",
+      "communication skills",
+      "transparency"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Carry out search trawls of numerous websites and other sources using, among other things, the software application WebSite-Watcher for current developments and potential topics for legal updates and other...",
+    "state": "Minnesota",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-93.11336709999999",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ170452",
+    "jobId": "JREQ170452",
+    "city": "Eagan",
+    "latitude": "44.8250902",
+    "locale": "en_US",
+    "multi_location": [
+      "Eagan, Minnesota, United States of America",
+      "New York, New York, United States of America"
+    ],
+    "title": "Senior Associate Editor",
+    "jobSeqNo": "THTTRUUSJREQ170452EXTERNALENUS",
+    "postedDate": "2023-09-14T00:00:00.000+0000",
+    "dateCreated": "2023-07-18T16:40:10.809+0000",
+    "cityStateCountry": "Eagan, Minnesota, United States of America",
+    "address": "610 Opperman Dr, Eagan, MN 55123, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Eagan-610-Opperman-Dr/Senior-Associate-Editor_JREQ170452/apply",
+    "location": "Eagan, Minnesota, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Carry out search trawls of numerous websites and other sources using, among other things, the software application WebSite-Watcher for current developments and potential topics for legal updates and other...",
+      "descriptionTeaser_first200": "Do you enjoy applying practical experience in a highly professional environment with other experienced attorneys? Thomson Reuters is the world's leading source of intelligent information for businesses...",
+      "descriptionTeaser_keyword": "Do you enjoy applying practical experience in a highly professional environment with other experienced attorneys? Thomson Reuters is the world's leading source of intelligent information for businesses...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -93.11336709999999,
+          "lat": 44.8250902
+        },
+        "location": "Eagan, Minnesota, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -73.9866995,
+          "lat": 40.7566955
+        },
+        "location": "New York, New York, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Carrollton, Texas",
     "country": "United States of America",
     "ml_skills": [
@@ -2270,85 +2407,6 @@
         },
         "location": "Ann Arbor, Michigan, United States of America"
       },
-      {
-        "latlong": {
-          "lon": -93.11336709999999,
-          "lat": 44.8250902
-        },
-        "location": "Eagan, Minnesota, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -73.9866995,
-          "lat": 40.7566955
-        },
-        "location": "New York, New York, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Eagan, Minnesota",
-    "country": "United States of America",
-    "ml_skills": [
-      "grammar",
-      "self-motivated",
-      "research skills",
-      "track",
-      "technical support",
-      "product development",
-      "westlaw",
-      "line",
-      "software",
-      "communication skills",
-      "transparency"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Carry out search trawls of numerous websites and other sources using, among other things, the software application WebSite-Watcher for current developments and potential topics for legal updates and other...",
-    "state": "Minnesota",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-93.11336709999999",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ170452",
-    "jobId": "JREQ170452",
-    "city": "Eagan",
-    "latitude": "44.8250902",
-    "locale": "en_US",
-    "multi_location": [
-      "Eagan, Minnesota, United States of America",
-      "New York, New York, United States of America"
-    ],
-    "title": "Senior Associate Editor",
-    "jobSeqNo": "THTTRUUSJREQ170452EXTERNALENUS",
-    "postedDate": "2023-09-14T00:00:00.000+0000",
-    "dateCreated": "2023-07-18T16:40:10.809+0000",
-    "cityStateCountry": "Eagan, Minnesota, United States of America",
-    "address": "610 Opperman Dr, Eagan, MN 55123, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Eagan-610-Opperman-Dr/Senior-Associate-Editor_JREQ170452/apply",
-    "location": "Eagan, Minnesota, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Carry out search trawls of numerous websites and other sources using, among other things, the software application WebSite-Watcher for current developments and potential topics for legal updates and other...",
-      "descriptionTeaser_first200": "Do you enjoy applying practical experience in a highly professional environment with other experienced attorneys? Thomson Reuters is the world's leading source of intelligent information for businesses...",
-      "descriptionTeaser_keyword": "Do you enjoy applying practical experience in a highly professional environment with other experienced attorneys? Thomson Reuters is the world's leading source of intelligent information for businesses...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
       {
         "latlong": {
           "lon": -93.11336709999999,
