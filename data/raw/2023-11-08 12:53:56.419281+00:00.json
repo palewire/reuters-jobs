@@ -1,5 +1,419 @@
 [
   {
+    "cityState": "Dubai",
+    "country": "United Arab Emirates",
+    "ml_skills": [
+      "arabic",
+      "arabic a",
+      "multimedia",
+      "transparency",
+      "lseg",
+      "hostile environments",
+      "go"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Work with teams to generate smart and agenda-setting story ideas. Make and cultivate contacts, producing exclusive news stories, and encourage the team to do the same. Have at least seven years of experience...",
+    "state": "Dubai",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "55.1575893",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ173394",
+    "jobId": "JREQ173394",
+    "city": "",
+    "latitude": "25.0961362",
+    "locale": "en_US",
+    "multi_location": [
+      "Dubai, United Arab Emirates"
+    ],
+    "title": "Bureau Chief, Gulf - Reuters",
+    "jobSeqNo": "THTTRUUSJREQ173394EXTERNALENUS",
+    "postedDate": "2023-11-08T00:00:00.000+0000",
+    "dateCreated": "2023-11-07T12:38:32.025+0000",
+    "cityStateCountry": "Dubai, United Arab Emirates",
+    "address": "Reuters Ltd, Office 501, Building 1, 5th Floor Dubai Media City, Dubai, United Arab Emirates",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/ARE-Dubai-Dubai-Media-City/Bureau-Chief--Gulf---Reuters_JREQ173394/apply",
+    "location": "Dubai, United Arab Emirates",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Work with teams to generate smart and agenda-setting story ideas. Make and cultivate contacts, producing exclusive news stories, and encourage the team to do the same. Have at least seven years of experience...",
+      "descriptionTeaser_first200": "Reuters is seeking an experienced journalist to lead our news coverage from the Gulf, a compelling region of profound importance to energy supplies, trade and investment flows and international security....",
+      "descriptionTeaser_keyword": "Reuters is seeking an experienced journalist to lead our news coverage from the Gulf, a compelling region of profound importance to energy supplies, trade and investment flows and international security....",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 55.1575893,
+          "lat": 25.0961362
+        },
+        "location": "Dubai, United Arab Emirates"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Manila",
+    "country": "Philippines",
+    "ml_skills": [
+      "editing",
+      "software",
+      "metadata",
+      "rulebooks",
+      "education",
+      "literacy",
+      "line",
+      "transparency",
+      "computer literacy",
+      "banking",
+      "leadership development"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "The Content Editors have responsibility for daily updates and maintenance of relevant material in the products' databases. Understands Thomson Reuters publications and products related to editor\u2019s specific...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "121.0520086",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ173307",
+    "jobId": "JREQ173307",
+    "city": "Manila",
+    "latitude": "14.5344436",
+    "locale": "en_US",
+    "multi_location": [
+      "Manila, Philippines"
+    ],
+    "title": "Content Editor 1",
+    "jobSeqNo": "THTTRUUSJREQ173307EXTERNALENUS",
+    "postedDate": "2023-11-08T00:00:00.000+0000",
+    "dateCreated": "2023-10-25T16:40:06.308+0000",
+    "cityStateCountry": "Manila, Philippines",
+    "address": "20 Upper McKinley Building, Upper McKinley Road, McKinley Hill, Manila, 1634, Philippines",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/PHL-Taguig-20-Upper-McKinley-Bldg/Content-Editor-1_JREQ173307/apply",
+    "location": "Manila, Philippines",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "The Content Editors have responsibility for daily updates and maintenance of relevant material in the products' databases. Understands Thomson Reuters publications and products related to editor\u2019s specific...",
+      "descriptionTeaser_first200": "Content Editor I, Product Research. The Content Editors have responsibility for daily updates and maintenance of relevant material in the products' databases. This position will be based in Manila, utilizing...",
+      "descriptionTeaser_keyword": "Content Editor I, Product Research. The Content Editors have responsibility for daily updates and maintenance of relevant material in the products' databases. This position will be based in Manila, utilizing...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 121.0520086,
+          "lat": 14.5344436
+        },
+        "location": "Manila, Philippines"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Hong Kong",
+    "country": "Hong Kong",
+    "ml_skills": [
+      "graphics",
+      "multimedia",
+      "basic",
+      "numeracy",
+      "software",
+      "transparency",
+      "corporate finance"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "You will have a thirst for knowledge; brim with original ideas; enjoy working collegially with a regional and global team; and bring a high level of numeracy. Our industry-leading products and services...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "114.2168499",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ173696",
+    "jobId": "JREQ173696",
+    "city": "Hong Kong",
+    "latitude": "22.2876498",
+    "locale": "en_US",
+    "multi_location": [
+      "Hong Kong, Hong Kong"
+    ],
+    "title": "Asia Columnist, Reuters Breakingviews",
+    "jobSeqNo": "THTTRUUSJREQ173696EXTERNALENUS",
+    "postedDate": "2023-11-08T00:00:00.000+0000",
+    "dateCreated": "2023-11-08T08:39:50.954+0000",
+    "cityStateCountry": "Hong Kong, Hong Kong",
+    "address": "15/F, 14 Taikoo Wan Road, Taikoo Shing, Hong Kong, Hong Kong",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/HKG-Taikoo-14-Taikoo-Wan-Road/Asia-Columnist--Reuters-Breakingviews_JREQ173696-1/apply",
+    "location": "Hong Kong, Hong Kong",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "You will have a thirst for knowledge; brim with original ideas; enjoy working collegially with a regional and global team; and bring a high level of numeracy. Our industry-leading products and services...",
+      "descriptionTeaser_first200": "Asia Columnist, Reuters Breakingviews . We\u2019re looking for an original thinker with excellent analytical and writing skills to join our team in Asia. This is an opportunity to set the agenda on companies,...",
+      "descriptionTeaser_keyword": "Asia Columnist, Reuters Breakingviews. We\u2019re looking for an original thinker with excellent analytical and writing skills to join our team in Asia. This is an opportunity to set the agenda on companies,...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 114.2168499,
+          "lat": 22.2876498
+        },
+        "location": "Hong Kong, Hong Kong"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Tunis",
+    "country": "Tunisia",
+    "ml_skills": [
+      "editing",
+      "videography",
+      "visual storytelling",
+      "multimedia",
+      "script writing",
+      "breaking news",
+      "french",
+      "arabic",
+      "transparency",
+      "go",
+      "track"
+    ],
+    "remote": "Remote",
+    "type": "Full time",
+    "descriptionTeaser": "You will be part of a multimedia team and work closely with video, text and still photo counterparts across the MENA region. You will have outstanding news judgement, excellent videography and editing...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "10.1808347",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ173738",
+    "jobId": "JREQ173738",
+    "city": "Tunis",
+    "latitude": "36.8220767",
+    "locale": "en_US",
+    "multi_location": [
+      "Tunis, Tunisia"
+    ],
+    "title": "Video Journalist, Tunisia",
+    "jobSeqNo": "THTTRUUSJREQ173738EXTERNALENUS",
+    "postedDate": "2023-11-08T00:00:00.000+0000",
+    "dateCreated": "2023-11-08T12:39:37.064+0000",
+    "cityStateCountry": "Tunis, Tunisia",
+    "address": "3 Rue Ibn Rachiq, Tunis-Belvedere, 12345 Tunis, Tunisia",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/TUN-Tunis-3-Rue-Ibn-Rachiq/Video-Journalist--Tunisia_JREQ173738/apply",
+    "location": "Tunis, Tunisia",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "You will be part of a multimedia team and work closely with video, text and still photo counterparts across the MENA region. You will have outstanding news judgement, excellent videography and editing...",
+      "descriptionTeaser_first200": "Visual Journalist, Tunisia - Reuters. This position will be based in Tunisia. Reuters is looking for a video producer, editor and camera operator to join the visuals team in Tunisia. As a Visual Journalist,...",
+      "descriptionTeaser_keyword": "Visual Journalist, Tunisia - Reuters. This position will be based in Tunisia. Reuters is looking for a video producer, editor and camera operator to join the visuals team in Tunisia. As a Visual Journalist,...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 10.1808347,
+          "lat": 36.8220767
+        },
+        "location": "Tunis, Tunisia"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Washington, District of Columbia",
+    "country": "United States of America",
+    "ml_skills": [
+      "breaking news",
+      "multimedia",
+      "dslr",
+      "digital storytelling",
+      "software",
+      "track",
+      "transparency"
+    ],
+    "remote": "Remote",
+    "type": "Full time",
+    "descriptionTeaser": "Working both collaboratively and autonomously, you'll be responsible for shooting, writing, planning, and covering news and feature stories, while coordinating closely with our broader news teams based...",
+    "state": "District of Columbia",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-77.0311952",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ173620",
+    "jobId": "JREQ173620",
+    "city": "Washington",
+    "latitude": "38.9004793",
+    "locale": "en_US",
+    "multi_location": [
+      "Washington, District of Columbia, United States of America"
+    ],
+    "title": "Video Journalist/Cameraperson (Level 1 Journalist)",
+    "jobSeqNo": "THTTRUUSJREQ173620EXTERNALENUS",
+    "postedDate": "2023-11-07T00:00:00.000+0000",
+    "dateCreated": "2023-11-07T16:39:37.689+0000",
+    "cityStateCountry": "Washington, District of Columbia, United States of America",
+    "address": "1333 H Street NW, Suite 500, Washington, DC 20005, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Washington-1333-H-Street-N/Video-Journalist-Cameraperson--Level-1-Journalist-_JREQ173620/apply",
+    "location": "Washington, District of Columbia, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Working both collaboratively and autonomously, you'll be responsible for shooting, writing, planning, and covering news and feature stories, while coordinating closely with our broader news teams based...",
+      "descriptionTeaser_first200": "Video Journalist/Cameraperson - Reuters (Level 1 Journalist). This position will be based in Washington DC. Do you have a passion for digital storytelling? Want to use your strong shooting and reporting...",
+      "descriptionTeaser_keyword": "Video Journalist/Cameraperson - Reuters (Level 1 Journalist). This position will be based in Washington DC. Do you have a passion for digital storytelling? Want to use your strong shooting and reporting...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -77.0311952,
+          "lat": 38.9004793
+        },
+        "location": "Washington, District of Columbia, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Mexico City",
+    "country": "Mexico",
+    "ml_skills": [
+      "video editing",
+      "script writing",
+      "visual storytelling",
+      "breaking news",
+      "multimedia",
+      "graphics",
+      "current affairs",
+      "employer branding",
+      "line",
+      "recruiting",
+      "transparency"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Join our team and work closely with our global video teams in the UK, US, and Singapore, delivering unbiased, real-time news coverage to more than 1,000 broadcasters and hundreds of digital outlets around...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-99.1510899",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ173622",
+    "jobId": "JREQ173622",
+    "city": "Mexico City",
+    "latitude": "19.4343664",
+    "locale": "en_US",
+    "multi_location": [
+      "Mexico City, Mexico"
+    ],
+    "title": "Producer, Mexico",
+    "jobSeqNo": "THTTRUUSJREQ173622EXTERNALENUS",
+    "postedDate": "2023-11-07T00:00:00.000+0000",
+    "dateCreated": "2023-11-07T20:39:54.411+0000",
+    "cityStateCountry": "Mexico City, Mexico",
+    "address": "Av. Paseo de la Reforma #26, Floor 36th, Colonia Ju\u00e1rez, Cuauht\u00e9moc, 06600 Mexico City, Mexico",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/MEX-Distrito-Federal-Reforma-26/Producer--Mexico_JREQ173622/apply",
+    "location": "Mexico City, Mexico",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Join our team and work closely with our global video teams in the UK, US, and Singapore, delivering unbiased, real-time news coverage to more than 1,000 broadcasters and hundreds of digital outlets around...",
+      "descriptionTeaser_first200": "Producer, Mexico. Are you an enthusiastic and globally-minded video producer with experience in video editing, translation, and journalism? Do you want to be part of our newsroom in Mexico City? If yes,...",
+      "descriptionTeaser_keyword": "Producer, Mexico. Are you an enthusiastic and globally-minded video producer with experience in video editing, translation, and journalism? Do you want to be part of our newsroom in Mexico City? If yes,...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -99.1510899,
+          "lat": 19.4343664
+        },
+        "location": "Mexico City, Mexico"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Gdansk",
     "country": "Poland",
     "ml_skills": [
@@ -971,156 +1385,6 @@
     "badge": ""
   },
   {
-    "cityState": "Mumbai, Maharashtra",
-    "country": "India",
-    "ml_skills": [
-      "job postings",
-      "negotiating",
-      "public accounting",
-      "taxation",
-      "gathering information",
-      "tax software",
-      "financial statements",
-      "tax returns",
-      "technical background",
-      "objectivity",
-      "individual tax returns",
-      "multi state",
-      "ms office",
-      "advising",
-      "caseware software"
-    ],
-    "remote": "On-Site",
-    "type": "Full time",
-    "descriptionTeaser": "Preparation of US Individual tax returns. Knowledge on various tax technical concepts, software(s) and tools used in preparation of tax returns. Gathering information, requesting missing information, scheduling...",
-    "state": "Maharashtra",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "72.8814089",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ171454",
-    "jobId": "JREQ171454",
-    "city": "Mumbai",
-    "latitude": "19.1114368",
-    "locale": "en_US",
-    "multi_location": [
-      "Mumbai, Maharashtra, India"
-    ],
-    "title": "Process Associate",
-    "jobSeqNo": "THTTRUUSJREQ171454EXTERNALENUS",
-    "postedDate": "2023-10-18T00:00:00.000+0000",
-    "dateCreated": "2023-08-18T12:41:49.204+0000",
-    "cityStateCountry": "Mumbai, Maharashtra, India",
-    "address": "4th Flr, Dhantak Plaza, Makwana Road, Marol, Andheri East, Mumbai- 400059, Maharashtra, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Mumbai-Dhantak-Plaza/Process-Associate_JREQ171454/apply",
-    "location": "Mumbai, Maharashtra, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Preparation of US Individual tax returns. Knowledge on various tax technical concepts, software(s) and tools used in preparation of tax returns. Gathering information, requesting missing information, scheduling...",
-      "descriptionTeaser_first200": "Preparation of U.S Corporate and Partnership Federal and Multi state tax returns. Preparation of US Individual tax returns. Knowledge on various tax technical concepts, software(s) and tools used in preparation...",
-      "descriptionTeaser_keyword": "Preparation of U. S Corporate and Partnership Federal and Multi state tax returns. Preparation of US Individual tax returns. Knowledge on various tax technical concepts, software(s) and tools used in preparation...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 72.8814089,
-          "lat": 19.1114368
-        },
-        "location": "Mumbai, Maharashtra, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Gdansk",
-    "country": "Poland",
-    "ml_skills": [
-      "news judgment",
-      "news releases",
-      "vocabulary",
-      "translation",
-      "norwegian",
-      "regulators",
-      "danish",
-      "scanning",
-      "job postings",
-      "negotiating",
-      "gdp",
-      "advising",
-      "objectivity",
-      "swedish",
-      "high standards"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Reuters is seeking candidates who can speak fluent English and one of the Nordic languages to join its real-time news operation in Gdansk. Scanning press releases from companies and regulators in English...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "18.5752702",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ173226",
-    "jobId": "JREQ173226",
-    "city": "Gdansk",
-    "latitude": "54.4004235",
-    "locale": "en_US",
-    "multi_location": [
-      "Gdansk, Poland"
-    ],
-    "title": "News Reporter with Danish, Norwegian, Swedish, or Finnish",
-    "jobSeqNo": "THTTRUUSJREQ173226EXTERNALENUS",
-    "postedDate": "2023-10-18T00:00:00.000+0000",
-    "dateCreated": "2023-10-18T12:40:33.043+0000",
-    "cityStateCountry": "Gdansk, Poland",
-    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/News-Reporter-with-Danish--Norwegian--Swedish--or-Finnish_JREQ173226-1/apply",
-    "location": "Gdansk, Poland",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Reuters is seeking candidates who can speak fluent English and one of the Nordic languages to join its real-time news operation in Gdansk. Scanning press releases from companies and regulators in English...",
-      "descriptionTeaser_first200": "You and your team. Reuters is seeking candidates who can speak fluent English and one of the Nordic languages to join its real-time news operation in Gdansk. The reporters will work in fast-paced, international...",
-      "descriptionTeaser_keyword": "You and your team. Reuters is seeking candidates who can speak fluent English and one of the Nordic languages to join its real-time news operation in Gdansk. The reporters will work in fast-paced, international...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 18.5752702,
-          "lat": 54.4004235
-        },
-        "location": "Gdansk, Poland"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Carrollton, Texas",
     "country": "United States of America",
     "ml_skills": [
@@ -1969,6 +2233,85 @@
     "badge": ""
   },
   {
+    "cityState": "Eagan, Minnesota",
+    "country": "United States of America",
+    "ml_skills": [
+      "grammar",
+      "self-motivated",
+      "research skills",
+      "track",
+      "technical support",
+      "product development",
+      "westlaw",
+      "line",
+      "software",
+      "communication skills",
+      "transparency"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Carry out search trawls of numerous websites and other sources using, among other things, the software application WebSite-Watcher for current developments and potential topics for legal updates and other...",
+    "state": "Minnesota",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-93.11336709999999",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ170452",
+    "jobId": "JREQ170452",
+    "city": "Eagan",
+    "latitude": "44.8250902",
+    "locale": "en_US",
+    "multi_location": [
+      "Eagan, Minnesota, United States of America",
+      "New York, New York, United States of America"
+    ],
+    "title": "Senior Associate Editor",
+    "jobSeqNo": "THTTRUUSJREQ170452EXTERNALENUS",
+    "postedDate": "2023-09-14T00:00:00.000+0000",
+    "dateCreated": "2023-07-18T16:40:10.809+0000",
+    "cityStateCountry": "Eagan, Minnesota, United States of America",
+    "address": "610 Opperman Dr, Eagan, MN 55123, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Eagan-610-Opperman-Dr/Senior-Associate-Editor_JREQ170452/apply",
+    "location": "Eagan, Minnesota, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Carry out search trawls of numerous websites and other sources using, among other things, the software application WebSite-Watcher for current developments and potential topics for legal updates and other...",
+      "descriptionTeaser_first200": "Do you enjoy applying practical experience in a highly professional environment with other experienced attorneys? Thomson Reuters is the world's leading source of intelligent information for businesses...",
+      "descriptionTeaser_keyword": "Do you enjoy applying practical experience in a highly professional environment with other experienced attorneys? Thomson Reuters is the world's leading source of intelligent information for businesses...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -93.11336709999999,
+          "lat": 44.8250902
+        },
+        "location": "Eagan, Minnesota, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -73.9866995,
+          "lat": 40.7566955
+        },
+        "location": "New York, New York, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Carrollton, Texas",
     "country": "United States of America",
     "ml_skills": [
@@ -2270,85 +2613,6 @@
         },
         "location": "Ann Arbor, Michigan, United States of America"
       },
-      {
-        "latlong": {
-          "lon": -93.11336709999999,
-          "lat": 44.8250902
-        },
-        "location": "Eagan, Minnesota, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -73.9866995,
-          "lat": 40.7566955
-        },
-        "location": "New York, New York, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Eagan, Minnesota",
-    "country": "United States of America",
-    "ml_skills": [
-      "grammar",
-      "self-motivated",
-      "research skills",
-      "track",
-      "technical support",
-      "product development",
-      "westlaw",
-      "line",
-      "software",
-      "communication skills",
-      "transparency"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Carry out search trawls of numerous websites and other sources using, among other things, the software application WebSite-Watcher for current developments and potential topics for legal updates and other...",
-    "state": "Minnesota",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-93.11336709999999",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ170452",
-    "jobId": "JREQ170452",
-    "city": "Eagan",
-    "latitude": "44.8250902",
-    "locale": "en_US",
-    "multi_location": [
-      "Eagan, Minnesota, United States of America",
-      "New York, New York, United States of America"
-    ],
-    "title": "Senior Associate Editor",
-    "jobSeqNo": "THTTRUUSJREQ170452EXTERNALENUS",
-    "postedDate": "2023-09-14T00:00:00.000+0000",
-    "dateCreated": "2023-07-18T16:40:10.809+0000",
-    "cityStateCountry": "Eagan, Minnesota, United States of America",
-    "address": "610 Opperman Dr, Eagan, MN 55123, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Eagan-610-Opperman-Dr/Senior-Associate-Editor_JREQ170452/apply",
-    "location": "Eagan, Minnesota, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Carry out search trawls of numerous websites and other sources using, among other things, the software application WebSite-Watcher for current developments and potential topics for legal updates and other...",
-      "descriptionTeaser_first200": "Do you enjoy applying practical experience in a highly professional environment with other experienced attorneys? Thomson Reuters is the world's leading source of intelligent information for businesses...",
-      "descriptionTeaser_keyword": "Do you enjoy applying practical experience in a highly professional environment with other experienced attorneys? Thomson Reuters is the world's leading source of intelligent information for businesses...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
       {
         "latlong": {
           "lon": -93.11336709999999,
