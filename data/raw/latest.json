@@ -1,5 +1,136 @@
 [
   {
+    "cityState": "Mumbai, Maharashtra",
+    "country": "India",
+    "ml_skills": [
+      "public accounting",
+      "state tax",
+      "tax software",
+      "financial statements",
+      "ms office",
+      "software",
+      "caseware software"
+    ],
+    "remote": "On-Site",
+    "type": "Full time",
+    "descriptionTeaser": "Preparation of US Individual tax returns. Knowledge on various tax technical concepts, software(s) and tools used in preparation of tax returns. Gathering information, requesting missing information, scheduling...",
+    "state": "Maharashtra",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "72.8814089",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ171454",
+    "jobId": "JREQ171454",
+    "city": "Mumbai",
+    "latitude": "19.1114368",
+    "locale": "en_US",
+    "multi_location": [
+      "Mumbai, Maharashtra, India"
+    ],
+    "title": "Process Associate",
+    "jobSeqNo": "THTTRUUSJREQ171454EXTERNALENUS",
+    "postedDate": "2023-11-09T00:00:00.000+0000",
+    "dateCreated": "2023-08-18T12:41:49.204+0000",
+    "cityStateCountry": "Mumbai, Maharashtra, India",
+    "address": "4th Flr, Dhantak Plaza, Makwana Road, Marol, Andheri East, Mumbai- 400059, Maharashtra, India",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Mumbai-Dhantak-Plaza/Process-Associate_JREQ171454/apply",
+    "location": "Mumbai, Maharashtra, India",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Preparation of US Individual tax returns. Knowledge on various tax technical concepts, software(s) and tools used in preparation of tax returns. Gathering information, requesting missing information, scheduling...",
+      "descriptionTeaser_first200": "Preparation of U.S Corporate and Partnership Federal and Multi state tax returns. Preparation of US Individual tax returns. Knowledge on various tax technical concepts, software(s) and tools used in preparation...",
+      "descriptionTeaser_keyword": "Preparation of U. S Corporate and Partnership Federal and Multi state tax returns. Preparation of US Individual tax returns. Knowledge on various tax technical concepts, software(s) and tools used in preparation...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 72.8814089,
+          "lat": 19.1114368
+        },
+        "location": "Mumbai, Maharashtra, India"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "London",
+    "country": "United Kingdom",
+    "ml_skills": [
+      "editing",
+      "drawing",
+      "global perspective",
+      "track"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "They will have an ability to collaborate with all parts of the broader newsroom, and to work with Reuters\u2019 key clients to better understand the interests of readers. Set and implement a cohesive strategy...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.0185088",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ172978",
+    "jobId": "JREQ172978",
+    "city": "London",
+    "latitude": "51.5056439",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom"
+    ],
+    "title": "Editor, Reuters Commentary",
+    "jobSeqNo": "THTTRUUSJREQ172978EXTERNALENUS",
+    "postedDate": "2023-11-09T00:00:00.000+0000",
+    "dateCreated": "2023-10-12T16:43:01.897+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Editor--Reuters-Commentary_JREQ172978/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "They will have an ability to collaborate with all parts of the broader newsroom, and to work with Reuters\u2019 key clients to better understand the interests of readers. Set and implement a cohesive strategy...",
+      "descriptionTeaser_first200": "Editor, Reuters Commentary . Reuters is seeking an experienced, imaginative and highly motivated editor to lead and expand its commentary on financial markets, commodities markets, economics, and other...",
+      "descriptionTeaser_keyword": "Editor, Reuters Commentary. Reuters is seeking an experienced, imaginative and highly motivated editor to lead and expand its commentary on financial markets, commodities markets, economics, and other...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.0185088,
+          "lat": 51.5056439
+        },
+        "location": "London, United Kingdom"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Paris",
     "country": "France",
     "ml_skills": [
@@ -2132,86 +2263,6 @@
           "lat": 51.5056439
         },
         "location": "London, United Kingdom"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "S\u00e3o Paulo, S\u00e3o Paulo",
-    "country": "Brazil",
-    "ml_skills": [
-      "nova",
-      "legal",
-      "thomson reuters",
-      "excel",
-      "anal\u00edtico",
-      "accessibility",
-      "tecnologia",
-      "dos",
-      "gram\u00e1tica",
-      "editoriais",
-      "perfil",
-      "confer\u00eancia",
-      "revista",
-      "reasonable",
-      "informativo",
-      "job postings",
-      "diferencial",
-      "profissionais",
-      "folha de pagamento",
-      "acompanhamento"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Voc\u00ea busca desenvolver sua carreira e atuar como Analista de Conte\u00fado Editoriais J\u00fanior em uma empresa l\u00edder no segmento de Tecnologia? We are powered by the talents of 25,000 employees across more than...",
-    "state": "S\u00e3o Paulo",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-46.6835209",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ172435",
-    "jobId": "JREQ172435",
-    "city": "S\u00e3o Paulo",
-    "latitude": "-23.5990338",
-    "locale": "en_US",
-    "multi_location": [
-      "S\u00e3o Paulo, S\u00e3o Paulo, Brazil"
-    ],
-    "title": "Analista de Conte\u00fado Editoriais J\u00fanior",
-    "jobSeqNo": "THTTRUUSJREQ172435EXTERNALENUS",
-    "postedDate": "2023-09-20T00:00:00.000+0000",
-    "dateCreated": "2023-09-20T20:42:03.406+0000",
-    "cityStateCountry": "S\u00e3o Paulo, S\u00e3o Paulo, Brazil",
-    "address": "Av. Cardoso de Melo nr. 1855 - 13\u00ba andar, Vila Ol\u03c6mpia, S\u00e3o Paulo- SP, 04548005, Brazil",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/BRA-So-Paulo-Av-Cardoso-de-Me/Analista-de-Contedo-Editoriais-Jnior_JREQ172435/apply",
-    "location": "S\u00e3o Paulo, S\u00e3o Paulo, Brazil",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Voc\u00ea busca desenvolver sua carreira e atuar como Analista de Conte\u00fado Editoriais J\u00fanior em uma empresa l\u00edder no segmento de Tecnologia? We are powered by the talents of 25,000 employees across more than...",
-      "descriptionTeaser_keyword": "Job Description. Analista de Conte\u00fado Editoriais J\u00fanior. Voc\u00ea busca desenvolver sua carreira e atuar como Analista de Conte\u00fado Editoriais J\u00fanior em uma empresa l\u00edder no segmento de Tecnologia? Junte-se...",
-      "descriptionTeaser_first200": "Job Description. Analista de Conte\u00fado Editoriais J\u00fanior. Voc\u00ea busca desenvolver sua carreira e atuar como Analista de Conte\u00fado Editoriais J\u00fanior em uma empresa l\u00edder no segmento de Tecnologia? Junte-se...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -46.6835209,
-          "lat": -23.5990338
-        },
-        "location": "S\u00e3o Paulo, S\u00e3o Paulo, Brazil"
       }
     ],
     "isMultiCategory": true,
