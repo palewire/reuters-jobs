@@ -1,5 +1,139 @@
 [
   {
+    "cityState": "Pyrmont, New South Wales",
+    "country": "Australia",
+    "ml_skills": [
+      "sense",
+      "litigation",
+      "transparency",
+      "history",
+      "self-starter"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "You will be a self-starter who can manage your own workload, while working collaboratively within a team environment. Learning & Development,  LinkedIn Learning access; internal Talent Marketplace with...",
+    "state": "New South Wales",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "151.1915144",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ171930",
+    "jobId": "JREQ171930",
+    "city": "Pyrmont",
+    "latitude": "-33.8664432",
+    "locale": "en_US",
+    "multi_location": [
+      "Pyrmont, New South Wales, Australia"
+    ],
+    "title": "Legal Editor",
+    "jobSeqNo": "THTTRUUSJREQ171930EXTERNALENUS",
+    "postedDate": "2023-11-10T00:00:00.000+0000",
+    "dateCreated": "2023-10-03T08:42:07.434+0000",
+    "cityStateCountry": "Pyrmont, New South Wales, Australia",
+    "address": "19 Harris Street, Pyrmont NSW 2009, Australia",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/AUS-Pyrmont-19-Harris-St/Legal-Editor_JREQ171930/apply",
+    "location": "Pyrmont, New South Wales, Australia",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "You will be a self-starter who can manage your own workload, while working collaboratively within a team environment. Learning & Development,  LinkedIn Learning access; internal Talent Marketplace with...",
+      "descriptionTeaser_first200": "Do you love reading case law? We are looking for a diligent Legal Editor to join our team of experienced editors working on Westlaw and the Australian Digest. We are a close, collaborative team with a...",
+      "descriptionTeaser_keyword": "Do you love reading case law? We are looking for a diligent Legal Editor to join our team of experienced editors working on Westlaw and the Australian Digest. We are a close, collaborative team with a...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 151.1915144,
+          "lat": -33.8664432
+        },
+        "location": "Pyrmont, New South Wales, Australia"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Mexico City",
+    "country": "Mexico",
+    "ml_skills": [
+      "income tax",
+      "tax software",
+      "tax preparation",
+      "tax law",
+      "transparency",
+      "software",
+      "context",
+      "checkpoint",
+      "software development"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "In this role, you will collect, analyze, and prioritize requirements from various entities to include external taxing authorities and our internal sources to define and make required changes to the GoSystem...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-99.1510899",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ173321",
+    "jobId": "JREQ173321",
+    "city": "Mexico City",
+    "latitude": "19.4343664",
+    "locale": "en_US",
+    "multi_location": [
+      "Mexico City, Mexico"
+    ],
+    "title": "US Tax Accountant",
+    "jobSeqNo": "THTTRUUSJREQ173321EXTERNALENUS",
+    "postedDate": "2023-11-09T00:00:00.000+0000",
+    "dateCreated": "2023-10-25T20:39:58.399+0000",
+    "cityStateCountry": "Mexico City, Mexico",
+    "address": "Av. Paseo de la Reforma #26, Floor 36th, Colonia Ju\u00e1rez, Cuauht\u00e9moc, 06600 Mexico City, Mexico",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/MEX-Distrito-Federal-Reforma-26/US-Tax-Analyst_JREQ173321-1/apply",
+    "location": "Mexico City, Mexico",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "In this role, you will collect, analyze, and prioritize requirements from various entities to include external taxing authorities and our internal sources to define and make required changes to the GoSystem...",
+      "descriptionTeaser_first200": "US Tax Accountant. You will participate in the design, development, and testing of our GoSystem Tax or UltraTax using in-house development tools. In this role, you will collect, analyze, and prioritize...",
+      "descriptionTeaser_keyword": "US Tax Accountant. You will participate in the design, development, and testing of our GoSystem Tax or UltraTax using in-house development tools. In this role, you will collect, analyze, and prioritize...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -99.1510899,
+          "lat": 19.4343664
+        },
+        "location": "Mexico City, Mexico"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Mumbai, Maharashtra",
     "country": "India",
     "ml_skills": [
@@ -56,70 +190,6 @@
           "lat": 19.1114368
         },
         "location": "Mumbai, Maharashtra, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "London",
-    "country": "United Kingdom",
-    "ml_skills": [
-      "editing",
-      "drawing",
-      "global perspective",
-      "track"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "They will have an ability to collaborate with all parts of the broader newsroom, and to work with Reuters\u2019 key clients to better understand the interests of readers. Set and implement a cohesive strategy...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-0.0185088",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ172978",
-    "jobId": "JREQ172978",
-    "city": "London",
-    "latitude": "51.5056439",
-    "locale": "en_US",
-    "multi_location": [
-      "London, United Kingdom"
-    ],
-    "title": "Editor, Reuters Commentary",
-    "jobSeqNo": "THTTRUUSJREQ172978EXTERNALENUS",
-    "postedDate": "2023-11-09T00:00:00.000+0000",
-    "dateCreated": "2023-10-12T16:43:01.897+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Editor--Reuters-Commentary_JREQ172978/apply",
-    "location": "London, United Kingdom",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "They will have an ability to collaborate with all parts of the broader newsroom, and to work with Reuters\u2019 key clients to better understand the interests of readers. Set and implement a cohesive strategy...",
-      "descriptionTeaser_first200": "Editor, Reuters Commentary . Reuters is seeking an experienced, imaginative and highly motivated editor to lead and expand its commentary on financial markets, commodities markets, economics, and other...",
-      "descriptionTeaser_keyword": "Editor, Reuters Commentary. Reuters is seeking an experienced, imaginative and highly motivated editor to lead and expand its commentary on financial markets, commodities markets, economics, and other...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -0.0185088,
-          "lat": 51.5056439
-        },
-        "location": "London, United Kingdom"
       }
     ],
     "isMultiCategory": true,
@@ -662,87 +732,6 @@
           "lat": 54.4004235
         },
         "location": "Gdansk, Poland"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Mexico City",
-    "country": "Mexico",
-    "ml_skills": [
-      "us tax",
-      "tax software",
-      "linkedin",
-      "tax law",
-      "tax returns",
-      "tax forms",
-      "income tax preparation",
-      "negotiating",
-      "tax filing",
-      "thomson reuters",
-      "marketplace",
-      "client interface",
-      "objectivity",
-      "advising",
-      "technical support",
-      "checkpoint",
-      "learning & development",
-      "phone support",
-      "software development",
-      "advanced computer skills",
-      "technical implementation"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "In this role, you will collect, analyze, and prioritize requirements from various entities to include external taxing authorities and our internal sources to define and make required changes to the GoSystem...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-99.1510899",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ173321",
-    "jobId": "JREQ173321",
-    "city": "Mexico City",
-    "latitude": "19.4343664",
-    "locale": "en_US",
-    "multi_location": [
-      "Mexico City, Mexico"
-    ],
-    "title": "USA Tax Analyst",
-    "jobSeqNo": "THTTRUUSJREQ173321EXTERNALENUS",
-    "postedDate": "2023-11-06T00:00:00.000+0000",
-    "dateCreated": "2023-10-25T20:39:58.399+0000",
-    "cityStateCountry": "Mexico City, Mexico",
-    "address": "Av. Paseo de la Reforma #26, Floor 36th, Colonia Ju\u00e1rez, Cuauht\u00e9moc, 06600 Mexico City, Mexico",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/MEX-Distrito-Federal-Reforma-26/US-Tax-Analyst_JREQ173321-1/apply",
-    "location": "Mexico City, Mexico",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "In this role, you will collect, analyze, and prioritize requirements from various entities to include external taxing authorities and our internal sources to define and make required changes to the GoSystem...",
-      "descriptionTeaser_first200": "US Tax Analyst. You will participate in the design, development, and testing of our GoSystem Tax or UltraTax using in-house development tools. In this role, you will collect, analyze, and prioritize requirements...",
-      "descriptionTeaser_keyword": "US Tax Analyst. You will participate in the design, development, and testing of our GoSystem Tax or UltraTax using in-house development tools. In this role, you will collect, analyze, and prioritize requirements...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -99.1510899,
-          "lat": 19.4343664
-        },
-        "location": "Mexico City, Mexico"
       }
     ],
     "isMultiCategory": true,
@@ -1907,77 +1896,6 @@
     "badge": ""
   },
   {
-    "cityState": "Pyrmont, New South Wales",
-    "country": "Australia",
-    "ml_skills": [
-      "negotiating",
-      "litigation",
-      "thomson reuters",
-      "advising",
-      "marketplace",
-      "linkedin",
-      "strong attention to detail",
-      "objectivity",
-      "classifying",
-      "learning & development",
-      "ability to adapt quickly"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Legal Editor. Classifying cases in accordance with the Australian Digest classification key. You're a fit for the role of Legal Editor if your background includes. Strong legal research skills and familiarity...",
-    "state": "New South Wales",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "151.1915144",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ171930",
-    "jobId": "JREQ171930",
-    "city": "Pyrmont",
-    "latitude": "-33.8664432",
-    "locale": "en_US",
-    "multi_location": [
-      "Pyrmont, New South Wales, Australia"
-    ],
-    "title": "Legal Editor",
-    "jobSeqNo": "THTTRUUSJREQ171930EXTERNALENUS",
-    "postedDate": "2023-10-03T00:00:00.000+0000",
-    "dateCreated": "2023-10-03T08:42:07.434+0000",
-    "cityStateCountry": "Pyrmont, New South Wales, Australia",
-    "address": "19 Harris Street, Pyrmont NSW 2009, Australia",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/AUS-Pyrmont-19-Harris-St/Legal-Editor_JREQ171930/apply",
-    "location": "Pyrmont, New South Wales, Australia",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Legal Editor. Classifying cases in accordance with the Australian Digest classification key. You're a fit for the role of Legal Editor if your background includes. Strong legal research skills and familiarity...",
-      "descriptionTeaser_first200": "Legal Editor. Do you love reading case law? We are looking for a diligent Legal Editor to join our team of experienced editors working on Westlaw and the Australian Digest. We are a close, collaborative...",
-      "descriptionTeaser_keyword": "Legal Editor. Do you love reading case law? We are looking for a diligent Legal Editor to join our team of experienced editors working on Westlaw and the Australian Digest. We are a close, collaborative...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 151.1915144,
-          "lat": -33.8664432
-        },
-        "location": "Pyrmont, New South Wales, Australia"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Bengaluru, Karnataka",
     "country": "India",
     "ml_skills": [
@@ -2489,85 +2407,6 @@
     "badge": ""
   },
   {
-    "cityState": "Eagan, Minnesota",
-    "country": "United States of America",
-    "ml_skills": [
-      "grammar",
-      "self-motivated",
-      "research skills",
-      "track",
-      "technical support",
-      "product development",
-      "westlaw",
-      "line",
-      "software",
-      "communication skills",
-      "transparency"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Carry out search trawls of numerous websites and other sources using, among other things, the software application WebSite-Watcher for current developments and potential topics for legal updates and other...",
-    "state": "Minnesota",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-93.11336709999999",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ170452",
-    "jobId": "JREQ170452",
-    "city": "Eagan",
-    "latitude": "44.8250902",
-    "locale": "en_US",
-    "multi_location": [
-      "Eagan, Minnesota, United States of America",
-      "New York, New York, United States of America"
-    ],
-    "title": "Senior Associate Editor",
-    "jobSeqNo": "THTTRUUSJREQ170452EXTERNALENUS",
-    "postedDate": "2023-09-14T00:00:00.000+0000",
-    "dateCreated": "2023-07-18T16:40:10.809+0000",
-    "cityStateCountry": "Eagan, Minnesota, United States of America",
-    "address": "610 Opperman Dr, Eagan, MN 55123, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Eagan-610-Opperman-Dr/Senior-Associate-Editor_JREQ170452/apply",
-    "location": "Eagan, Minnesota, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Carry out search trawls of numerous websites and other sources using, among other things, the software application WebSite-Watcher for current developments and potential topics for legal updates and other...",
-      "descriptionTeaser_first200": "Do you enjoy applying practical experience in a highly professional environment with other experienced attorneys? Thomson Reuters is the world's leading source of intelligent information for businesses...",
-      "descriptionTeaser_keyword": "Do you enjoy applying practical experience in a highly professional environment with other experienced attorneys? Thomson Reuters is the world's leading source of intelligent information for businesses...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -93.11336709999999,
-          "lat": 44.8250902
-        },
-        "location": "Eagan, Minnesota, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -73.9866995,
-          "lat": 40.7566955
-        },
-        "location": "New York, New York, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Carrollton, Texas",
     "country": "United States of America",
     "ml_skills": [
@@ -2739,86 +2578,6 @@
           "lat": 1.2938815
         },
         "location": "Singapore, Singapore"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Gdansk",
-    "country": "Poland",
-    "ml_skills": [
-      "tax",
-      "tax research",
-      "linkedin",
-      "analyzing",
-      "thomson reuters",
-      "problem solving",
-      "documenting",
-      "marketplace",
-      "legal information",
-      "microsoft excel",
-      "online research",
-      "assessing risk",
-      "documentation",
-      "organising",
-      "quality assurance",
-      "caf",
-      "publications",
-      "eye for detail",
-      "learning & development",
-      "networking"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "The successful candidate will join the VAT team responsible for the analyzing, researching, interpreting and documenting laws and regulations, extensive researching and analyzing of product exemptions,...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "18.5752702",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ171856",
-    "jobId": "JREQ171856",
-    "city": "Gdansk",
-    "latitude": "54.4004235",
-    "locale": "en_US",
-    "multi_location": [
-      "Gdansk, Poland"
-    ],
-    "title": "Tax Associate",
-    "jobSeqNo": "THTTRUUSJREQ171856EXTERNALENUS",
-    "postedDate": "2023-09-04T00:00:00.000+0000",
-    "dateCreated": "2023-08-30T08:40:58.476+0000",
-    "cityStateCountry": "Gdansk, Poland",
-    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/Tax-Associate_JREQ171856-1/apply",
-    "location": "Gdansk, Poland",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "The successful candidate will join the VAT team responsible for the analyzing, researching, interpreting and documenting laws and regulations, extensive researching and analyzing of product exemptions,...",
-      "descriptionTeaser_first200": "We welcome applications to our full-time vacancies from all citizens who have been granted protection within the territory of the Republic of Poland under the EU Temporary Protection Directive*. Tax Associate....",
-      "descriptionTeaser_keyword": "We welcome applications to our full-time vacancies from all citizens who have been granted protection within the territory of the Republic of Poland under the EU Temporary Protection Directive*. Tax Associate....",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 18.5752702,
-          "lat": 54.4004235
-        },
-        "location": "Gdansk, Poland"
       }
     ],
     "isMultiCategory": true,
