@@ -1,5 +1,71 @@
 [
   {
+    "cityState": "New York, New York",
+    "country": "United States of America",
+    "ml_skills": [
+      "journalism",
+      "news photography",
+      "photojournalism",
+      "photography",
+      "basic",
+      "transparency"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "A passionate photojournalism student or working photojournalist with two years or less of experience. An international outlook and ability to work in a team and communicate across departments. How about...",
+    "state": "New York",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-73.9866995",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ173888",
+    "jobId": "JREQ173888",
+    "city": "New York",
+    "latitude": "40.7566955",
+    "locale": "en_US",
+    "multi_location": [
+      "New York, New York, United States of America"
+    ],
+    "title": "Reuters News Internship Programme 2024 \u2013 New York \u2013 Photojournalism Internship",
+    "jobSeqNo": "THTTRUUSJREQ173888EXTERNALENUS",
+    "postedDate": "2023-11-16T00:00:00.000+0000",
+    "dateCreated": "2023-11-16T08:39:40.736+0000",
+    "cityStateCountry": "New York, New York, United States of America",
+    "address": "3 Times Square, New York, NY 10036, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-New-York-3-Times-Square/Reuters-News-Internship-Programme-2023---New-York---Photojournalism-Internship_JREQ173888/apply",
+    "location": "New York, New York, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "A passionate photojournalism student or working photojournalist with two years or less of experience. An international outlook and ability to work in a team and communicate across departments. How about...",
+      "descriptionTeaser_first200": "Learn from our award-winning journalists this summer at the world\u2019s largest multimedia news provider. The Programme. Our Global Internship Programme gives you the chance to fast-track your journalism...",
+      "descriptionTeaser_keyword": "Learn from our award-winning journalists this summer at the world\u2019s largest multimedia news provider. The Programme. Our Global Internship Programme gives you the chance to fast-track your journalism career...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -73.9866995,
+          "lat": 40.7566955
+        },
+        "location": "New York, New York, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Gdansk",
     "country": "Poland",
     "ml_skills": [
