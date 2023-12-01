@@ -61,6 +61,73 @@
     "badge": ""
   },
   {
+    "cityState": "New York, New York",
+    "country": "United States of America",
+    "ml_skills": [
+      "journalism",
+      "multimedia storytelling",
+      "storytelling",
+      "fundraising",
+      "employer branding",
+      "venture capital",
+      "recruiting"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Develop a wide range of sources in the venture capital, startup and tech financing communities; demonstrate beat expertise and dominance. Experience may be gained concurrently and must include the following, ...",
+    "state": "New York",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-73.9866995",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ174411",
+    "jobId": "JREQ174411",
+    "city": "New York",
+    "latitude": "40.7566955",
+    "locale": "en_US",
+    "multi_location": [
+      "New York, New York, United States of America"
+    ],
+    "title": "Tech Financing Reporter \u2013 Level 1 Journalist (Technology Correspondent)",
+    "jobSeqNo": "THTTRUUSJREQ174411EXTERNALENUS",
+    "postedDate": "2023-11-30T00:00:00.000+0000",
+    "dateCreated": "2023-12-01T00:40:29.749+0000",
+    "cityStateCountry": "New York, New York, United States of America",
+    "address": "3 Times Square, New York, NY 10036, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-New-York-3-Times-Square/Tech-Financing-Reporter---Level-1-Journalist--Technology-Correspondent-_JREQ174411/apply",
+    "location": "New York, New York, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Develop a wide range of sources in the venture capital, startup and tech financing communities; demonstrate beat expertise and dominance. Experience may be gained concurrently and must include the following, ...",
+      "descriptionTeaser_first200": "Job Title: Tech Financing Reporter \u2013 Level 1 Journalist (Technology Correspondent) (New York, NY) Job Duties: Develop a wide range of sources in the venture capital, startups and tech financing communities...",
+      "descriptionTeaser_keyword": "Job Title,  Tech Financing Reporter \u2013 Level 1 Journalist (Technology Correspondent) (New York, NY) Job Duties,  Develop a wide range of sources in the venture capital, startups and tech financing communities...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -73.9866995,
+          "lat": 40.7566955
+        },
+        "location": "New York, New York, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Bengaluru, Karnataka",
     "country": "India",
     "ml_skills": [
