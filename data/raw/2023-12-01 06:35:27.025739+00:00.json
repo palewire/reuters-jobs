@@ -1,5 +1,133 @@
 [
   {
+    "cityState": "Chicago, Illinois",
+    "country": "United States of America",
+    "ml_skills": [
+      "graphics"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Agriculture Reporter (Level 1 Journalist), Reuters. Work together with large global teams to break news and undertake reporting projects. You're a fit for the role of Agriculture Reporter at Reuters if...",
+    "state": "Illinois",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-87.63723",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ174228",
+    "jobId": "JREQ174228",
+    "city": "Chicago",
+    "latitude": "41.87891930000001",
+    "locale": "en_US",
+    "multi_location": [
+      "Chicago, Illinois, United States of America"
+    ],
+    "title": "Agriculture Reporter (Level 1 Journalist), Reuters",
+    "jobSeqNo": "THTTRUUSJREQ174228EXTERNALENUS",
+    "postedDate": "2023-11-30T00:00:00.000+0000",
+    "dateCreated": "2023-11-29T12:43:18.616+0000",
+    "cityStateCountry": "Chicago, Illinois, United States of America",
+    "address": "200 South Wacker Drive, 31st Floor, Chicago, IL 60606, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Chicago-200-South-Wacker-Dr/Agriculture-Reporter--Level-1-Journalist---Reuters_JREQ174228/apply",
+    "location": "Chicago, Illinois, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Agriculture Reporter (Level 1 Journalist), Reuters. Work together with large global teams to break news and undertake reporting projects. You're a fit for the role of Agriculture Reporter at Reuters if...",
+      "descriptionTeaser_first200": "Agriculture Reporter (Level 1 Journalist), Reuters. This hybrid role is based in Chicago. Reuters seeks a dedicated reporter to join its Chicago-based agriculture team. With the Ukraine war upending global...",
+      "descriptionTeaser_keyword": "Agriculture Reporter (Level 1 Journalist), Reuters. This hybrid role is based in Chicago. Reuters seeks a dedicated reporter to join its Chicago-based agriculture team. With the Ukraine war upending global...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -87.63723,
+          "lat": 41.87891930000001
+        },
+        "location": "Chicago, Illinois, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "New York, New York",
+    "country": "United States of America",
+    "ml_skills": [
+      "journalism",
+      "multimedia storytelling",
+      "storytelling",
+      "fundraising",
+      "employer branding",
+      "venture capital",
+      "recruiting"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Develop a wide range of sources in the venture capital, startup and tech financing communities; demonstrate beat expertise and dominance. Experience may be gained concurrently and must include the following, ...",
+    "state": "New York",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-73.9866995",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ174411",
+    "jobId": "JREQ174411",
+    "city": "New York",
+    "latitude": "40.7566955",
+    "locale": "en_US",
+    "multi_location": [
+      "New York, New York, United States of America"
+    ],
+    "title": "Tech Financing Reporter \u2013 Level 1 Journalist (Technology Correspondent)",
+    "jobSeqNo": "THTTRUUSJREQ174411EXTERNALENUS",
+    "postedDate": "2023-11-30T00:00:00.000+0000",
+    "dateCreated": "2023-12-01T00:40:29.749+0000",
+    "cityStateCountry": "New York, New York, United States of America",
+    "address": "3 Times Square, New York, NY 10036, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-New-York-3-Times-Square/Tech-Financing-Reporter---Level-1-Journalist--Technology-Correspondent-_JREQ174411/apply",
+    "location": "New York, New York, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Develop a wide range of sources in the venture capital, startup and tech financing communities; demonstrate beat expertise and dominance. Experience may be gained concurrently and must include the following, ...",
+      "descriptionTeaser_first200": "Job Title: Tech Financing Reporter \u2013 Level 1 Journalist (Technology Correspondent) (New York, NY) Job Duties: Develop a wide range of sources in the venture capital, startups and tech financing communities...",
+      "descriptionTeaser_keyword": "Job Title,  Tech Financing Reporter \u2013 Level 1 Journalist (Technology Correspondent) (New York, NY) Job Duties,  Develop a wide range of sources in the venture capital, startups and tech financing communities...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -73.9866995,
+          "lat": 40.7566955
+        },
+        "location": "New York, New York, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Bengaluru, Karnataka",
     "country": "India",
     "ml_skills": [
@@ -130,68 +258,6 @@
     "cityState": "Bengaluru, Karnataka",
     "country": "India",
     "ml_skills": [
-      "transparency",
-      "move"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Gathers information to break news and write stories. Writes stories with accuracy and speed and in accordance with our principles and operating standards. Builds and maintains a set of contacts to break...",
-    "state": "Karnataka",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "77.7120655",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ174117",
-    "jobId": "JREQ174117",
-    "city": "Bengaluru",
-    "latitude": "12.9743998",
-    "locale": "en_US",
-    "multi_location": [
-      "Bengaluru, Karnataka, India"
-    ],
-    "title": "Polling Correspondent",
-    "jobSeqNo": "THTTRUUSJREQ174117EXTERNALENUS",
-    "postedDate": "2023-11-27T00:00:00.000+0000",
-    "dateCreated": "2023-11-27T12:40:30.713+0000",
-    "cityStateCountry": "Bengaluru, Karnataka, India",
-    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/Polling-Correspondent_JREQ174117/apply",
-    "location": "Bengaluru, Karnataka, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Gathers information to break news and write stories. Writes stories with accuracy and speed and in accordance with our principles and operating standards. Builds and maintains a set of contacts to break...",
-      "descriptionTeaser_first200": "Gathers information to break news and write stories. Writes stories with accuracy and speed and in accordance with our principles and operating standards. Builds and maintains a set of contacts to break...",
-      "descriptionTeaser_keyword": "Gathers information to break news and write stories. Writes stories with accuracy and speed and in accordance with our principles and operating standards. Builds and maintains a set of contacts to break...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 77.7120655,
-          "lat": 12.9743998
-        },
-        "location": "Bengaluru, Karnataka, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Bengaluru, Karnataka",
-    "country": "India",
-    "ml_skills": [
       "editing",
       "automation",
       "collaboration",
@@ -232,6 +298,68 @@
       "descriptionTeaser": "The EIC must excel at networking and building strong rapport with both internal and external stakeholders while ensuring smooth collaboration with all teams, especially working in close conjunction with...",
       "descriptionTeaser_first200": "Reuters is looking for an Editor in Charge to lead its Commodities & Energy team in Bangalore. The Bangalore C&E team is at the forefront of Reuters\u2019 market-moving coverage of key developments in the...",
       "descriptionTeaser_keyword": "Reuters is looking for an Editor in Charge to lead its Commodities & Energy team in Bangalore. The Bangalore C&E team is at the forefront of Reuters\u2019 market-moving coverage of key developments in the highly...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 77.7120655,
+          "lat": 12.9743998
+        },
+        "location": "Bengaluru, Karnataka, India"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Bengaluru, Karnataka",
+    "country": "India",
+    "ml_skills": [
+      "transparency",
+      "move"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Gathers information to break news and write stories. Writes stories with accuracy and speed and in accordance with our principles and operating standards. Builds and maintains a set of contacts to break...",
+    "state": "Karnataka",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "77.7120655",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ174117",
+    "jobId": "JREQ174117",
+    "city": "Bengaluru",
+    "latitude": "12.9743998",
+    "locale": "en_US",
+    "multi_location": [
+      "Bengaluru, Karnataka, India"
+    ],
+    "title": "Polling Correspondent",
+    "jobSeqNo": "THTTRUUSJREQ174117EXTERNALENUS",
+    "postedDate": "2023-11-27T00:00:00.000+0000",
+    "dateCreated": "2023-11-27T12:40:30.713+0000",
+    "cityStateCountry": "Bengaluru, Karnataka, India",
+    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/Polling-Correspondent_JREQ174117/apply",
+    "location": "Bengaluru, Karnataka, India",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Gathers information to break news and write stories. Writes stories with accuracy and speed and in accordance with our principles and operating standards. Builds and maintains a set of contacts to break...",
+      "descriptionTeaser_first200": "Gathers information to break news and write stories. Writes stories with accuracy and speed and in accordance with our principles and operating standards. Builds and maintains a set of contacts to break...",
+      "descriptionTeaser_keyword": "Gathers information to break news and write stories. Writes stories with accuracy and speed and in accordance with our principles and operating standards. Builds and maintains a set of contacts to break...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
@@ -527,6 +655,69 @@
     "badge": ""
   },
   {
+    "cityState": "Dubai",
+    "country": "United Arab Emirates",
+    "ml_skills": [
+      "transparency",
+      "editing",
+      "content strategy"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "As a Senior Specialist Legal Editor you will use your knowledge of corporate / finance law in the MENA region to provide and maintain a wide range of Practical Law content. Creating well-written, up to...",
+    "state": "Dubai",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "55.1575893",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ174106",
+    "jobId": "JREQ174106",
+    "city": "",
+    "latitude": "25.0961362",
+    "locale": "en_US",
+    "multi_location": [
+      "Dubai, United Arab Emirates"
+    ],
+    "title": "JREQ173344 Senior Specialist Legal Editor, Practical Law (MENA) - Corporate",
+    "jobSeqNo": "THTTRUUSJREQ174106EXTERNALENUS",
+    "postedDate": "2023-11-20T00:00:00.000+0000",
+    "dateCreated": "2023-11-20T00:40:11.012+0000",
+    "cityStateCountry": "Dubai, United Arab Emirates",
+    "address": "Reuters Ltd, Office 501, Building 1, 5th Floor Dubai Media City, Dubai, United Arab Emirates",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/ARE-Dubai-Dubai-Media-City/JREQ173344-Senior-Specialist-Legal-Editor--Practical-Law--MENA----Corporate_JREQ174106/apply",
+    "location": "Dubai, United Arab Emirates",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "As a Senior Specialist Legal Editor you will use your knowledge of corporate / finance law in the MENA region to provide and maintain a wide range of Practical Law content. Creating well-written, up to...",
+      "descriptionTeaser_first200": "Senior Specialist Legal Editor, Practical Law (MENA). Are you an international corporate or finance lawyer looking for a career change? We are seeking a lawyer qualified in the UK, US or another common...",
+      "descriptionTeaser_keyword": "Senior Specialist Legal Editor, Practical Law (MENA). Are you an international corporate or finance lawyer looking for a career change? We are seeking a lawyer qualified in the UK, US or another common...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 55.1575893,
+          "lat": 25.0961362
+        },
+        "location": "Dubai, United Arab Emirates"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Mumbai, Maharashtra",
     "country": "India",
     "ml_skills": [
@@ -582,69 +773,6 @@
           "lat": 19.1114368
         },
         "location": "Mumbai, Maharashtra, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Dubai",
-    "country": "United Arab Emirates",
-    "ml_skills": [
-      "transparency",
-      "editing",
-      "content strategy"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "As a Senior Specialist Legal Editor you will use your knowledge of corporate / finance law in the MENA region to provide and maintain a wide range of Practical Law content. Creating well-written, up to...",
-    "state": "Dubai",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "55.1575893",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ174106",
-    "jobId": "JREQ174106",
-    "city": "",
-    "latitude": "25.0961362",
-    "locale": "en_US",
-    "multi_location": [
-      "Dubai, United Arab Emirates"
-    ],
-    "title": "JREQ173344 Senior Specialist Legal Editor, Practical Law (MENA) - Corporate",
-    "jobSeqNo": "THTTRUUSJREQ174106EXTERNALENUS",
-    "postedDate": "2023-11-20T00:00:00.000+0000",
-    "dateCreated": "2023-11-20T00:40:11.012+0000",
-    "cityStateCountry": "Dubai, United Arab Emirates",
-    "address": "Reuters Ltd, Office 501, Building 1, 5th Floor Dubai Media City, Dubai, United Arab Emirates",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/ARE-Dubai-Dubai-Media-City/JREQ173344-Senior-Specialist-Legal-Editor--Practical-Law--MENA----Corporate_JREQ174106/apply",
-    "location": "Dubai, United Arab Emirates",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "As a Senior Specialist Legal Editor you will use your knowledge of corporate / finance law in the MENA region to provide and maintain a wide range of Practical Law content. Creating well-written, up to...",
-      "descriptionTeaser_first200": "Senior Specialist Legal Editor, Practical Law (MENA). Are you an international corporate or finance lawyer looking for a career change? We are seeking a lawyer qualified in the UK, US or another common...",
-      "descriptionTeaser_keyword": "Senior Specialist Legal Editor, Practical Law (MENA). Are you an international corporate or finance lawyer looking for a career change? We are seeking a lawyer qualified in the UK, US or another common...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 55.1575893,
-          "lat": 25.0961362
-        },
-        "location": "Dubai, United Arab Emirates"
       }
     ],
     "isMultiCategory": true,
@@ -779,73 +907,6 @@
           "lat": 40.7566955
         },
         "location": "New York, New York, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Gdansk",
-    "country": "Poland",
-    "ml_skills": [
-      "vocabulary",
-      "turkish",
-      "multimedia",
-      "freedom",
-      "transparency",
-      "financial software",
-      "financial data"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Reuters is seeking candidates who can speak fluent English and Turkish to join its real-time news operation in Gdansk. Do work that matters for our global news customers,  getting trusted information to...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "18.5752702",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ173959",
-    "jobId": "JREQ173959",
-    "city": "Gdansk",
-    "latitude": "54.4004235",
-    "locale": "en_US",
-    "multi_location": [
-      "Gdansk, Poland"
-    ],
-    "title": "News Reporter/Translator with Turkish, Reuters",
-    "jobSeqNo": "THTTRUUSJREQ173959EXTERNALENUS",
-    "postedDate": "2023-11-16T00:00:00.000+0000",
-    "dateCreated": "2023-11-16T16:39:43.159+0000",
-    "cityStateCountry": "Gdansk, Poland",
-    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/News-Reporter-Translator-with-Turkish--Reuters_JREQ173959/apply",
-    "location": "Gdansk, Poland",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Reuters is seeking candidates who can speak fluent English and Turkish to join its real-time news operation in Gdansk. Do work that matters for our global news customers,  getting trusted information to...",
-      "descriptionTeaser_first200": "You and your team. Reuters is seeking candidates who can speak fluent English and Turkish to join its real-time news operation in Gdansk. The reporters will work in fast-paced, international environment...",
-      "descriptionTeaser_keyword": "You and your team. Reuters is seeking candidates who can speak fluent English and Turkish to join its real-time news operation in Gdansk. The reporters will work in fast-paced, international environment...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 18.5752702,
-          "lat": 54.4004235
-        },
-        "location": "Gdansk, Poland"
       }
     ],
     "isMultiCategory": true,
@@ -1311,73 +1372,6 @@
           "lat": 19.4343664
         },
         "location": "Mexico City, Mexico"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Mumbai, Maharashtra",
-    "country": "India",
-    "ml_skills": [
-      "public accounting",
-      "state tax",
-      "tax software",
-      "financial statements",
-      "ms office",
-      "software",
-      "caseware software"
-    ],
-    "remote": "On-Site",
-    "type": "Full time",
-    "descriptionTeaser": "Preparation of US Individual tax returns. Knowledge on various tax technical concepts, software(s) and tools used in preparation of tax returns. Gathering information, requesting missing information, scheduling...",
-    "state": "Maharashtra",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "72.8814089",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ171454",
-    "jobId": "JREQ171454",
-    "city": "Mumbai",
-    "latitude": "19.1114368",
-    "locale": "en_US",
-    "multi_location": [
-      "Mumbai, Maharashtra, India"
-    ],
-    "title": "Process Associate",
-    "jobSeqNo": "THTTRUUSJREQ171454EXTERNALENUS",
-    "postedDate": "2023-11-09T00:00:00.000+0000",
-    "dateCreated": "2023-08-18T12:41:49.204+0000",
-    "cityStateCountry": "Mumbai, Maharashtra, India",
-    "address": "4th Flr, Dhantak Plaza, Makwana Road, Marol, Andheri East, Mumbai- 400059, Maharashtra, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Mumbai-Dhantak-Plaza/Process-Associate_JREQ171454/apply",
-    "location": "Mumbai, Maharashtra, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Preparation of US Individual tax returns. Knowledge on various tax technical concepts, software(s) and tools used in preparation of tax returns. Gathering information, requesting missing information, scheduling...",
-      "descriptionTeaser_first200": "Preparation of U.S Corporate and Partnership Federal and Multi state tax returns. Preparation of US Individual tax returns. Knowledge on various tax technical concepts, software(s) and tools used in preparation...",
-      "descriptionTeaser_keyword": "Preparation of U. S Corporate and Partnership Federal and Multi state tax returns. Preparation of US Individual tax returns. Knowledge on various tax technical concepts, software(s) and tools used in preparation...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 72.8814089,
-          "lat": 19.1114368
-        },
-        "location": "Mumbai, Maharashtra, India"
       }
     ],
     "isMultiCategory": true,
@@ -2611,111 +2605,6 @@
     "cityState": "Carrollton, Texas",
     "country": "United States of America",
     "ml_skills": [
-      "negotiating",
-      "tax calculation",
-      "indirect tax",
-      "linkedin",
-      "public accounting",
-      "accounting",
-      "cpa",
-      "customer support",
-      "publications",
-      "online research",
-      "advising",
-      "microsoft excel",
-      "detail-oriented",
-      "checkpoint",
-      "westlaw",
-      "job postings",
-      "marketplace",
-      "objectivity",
-      "thomson reuters",
-      "learning & development",
-      "caf"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Superior written and verbal communication skills, including ability to write white papers on tax and/or geography technical subjects. Our industry-leading products and services include highly specialized...",
-    "state": "Texas",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-96.8449828",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ168823",
-    "jobId": "JREQ168823",
-    "city": "Carrollton",
-    "latitude": "32.97533",
-    "locale": "en_US",
-    "multi_location": [
-      "Carrollton, Texas, United States of America",
-      "Ann Arbor, Michigan, United States of America",
-      "Eagan, Minnesota, United States of America",
-      "New York, New York, United States of America"
-    ],
-    "title": "Tax/Legal Analyst, Indirect Tax",
-    "jobSeqNo": "THTTRUUSJREQ168823EXTERNALENUS",
-    "postedDate": "2023-09-14T00:00:00.000+0000",
-    "dateCreated": "2023-05-25T00:41:39.099+0000",
-    "cityStateCountry": "Carrollton, Texas, United States of America",
-    "address": "2395 Midway Road, Carrollton, TX 75006, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Carrollton-2395-Midway-Rd/Tax-Legal-Analyst--Indirect-Tax_JREQ168823/apply",
-    "location": "Carrollton, Texas, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Superior written and verbal communication skills, including ability to write white papers on tax and/or geography technical subjects. Our industry-leading products and services include highly specialized...",
-      "descriptionTeaser_first200": "The Tax/Legal Analyst is responsible for research, configuration, ongoing maintenance and testing to ensure that ONESOURCE\u2122 applications and offerings comply with tax rules and laws. About the Role. In...",
-      "descriptionTeaser_keyword": "The Tax/Legal Analyst is responsible for research, configuration, ongoing maintenance and testing to ensure that ONESOURCE\u2122 applications and offerings comply with tax rules and laws. About the Role. In...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -96.8449828,
-          "lat": 32.97533
-        },
-        "location": "Carrollton, Texas, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -83.7267835,
-          "lat": 42.1957259
-        },
-        "location": "Ann Arbor, Michigan, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -93.11336709999999,
-          "lat": 44.8250902
-        },
-        "location": "Eagan, Minnesota, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -73.9866995,
-          "lat": 40.7566955
-        },
-        "location": "New York, New York, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Carrollton, Texas",
-    "country": "United States of America",
-    "ml_skills": [
       "tax research",
       "cpa",
       "indirect tax",
@@ -2780,6 +2669,111 @@
       "descriptionTeaser": "The Senior Tax Analyst, Indirect Tax is responsible for research, configuration, ongoing maintenance and testing to ensure that ONESOURCE\u2122 applications and offerings comply with indirect tax rules and...",
       "descriptionTeaser_first200": "The Senior Tax Analyst, Indirect Tax is responsible for research, configuration, ongoing maintenance and testing to ensure that ONESOURCE\u2122 applications and offerings comply with indirect tax rules and...",
       "descriptionTeaser_keyword": "The Senior Tax Analyst, Indirect Tax is responsible for research, configuration, ongoing maintenance and testing to ensure that ONESOURCE\u2122 applications and offerings comply with indirect tax rules and...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -96.8449828,
+          "lat": 32.97533
+        },
+        "location": "Carrollton, Texas, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -83.7267835,
+          "lat": 42.1957259
+        },
+        "location": "Ann Arbor, Michigan, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -93.11336709999999,
+          "lat": 44.8250902
+        },
+        "location": "Eagan, Minnesota, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -73.9866995,
+          "lat": 40.7566955
+        },
+        "location": "New York, New York, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Carrollton, Texas",
+    "country": "United States of America",
+    "ml_skills": [
+      "negotiating",
+      "tax calculation",
+      "indirect tax",
+      "linkedin",
+      "public accounting",
+      "accounting",
+      "cpa",
+      "customer support",
+      "publications",
+      "online research",
+      "advising",
+      "microsoft excel",
+      "detail-oriented",
+      "checkpoint",
+      "westlaw",
+      "job postings",
+      "marketplace",
+      "objectivity",
+      "thomson reuters",
+      "learning & development",
+      "caf"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Superior written and verbal communication skills, including ability to write white papers on tax and/or geography technical subjects. Our industry-leading products and services include highly specialized...",
+    "state": "Texas",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-96.8449828",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ168823",
+    "jobId": "JREQ168823",
+    "city": "Carrollton",
+    "latitude": "32.97533",
+    "locale": "en_US",
+    "multi_location": [
+      "Carrollton, Texas, United States of America",
+      "Ann Arbor, Michigan, United States of America",
+      "Eagan, Minnesota, United States of America",
+      "New York, New York, United States of America"
+    ],
+    "title": "Tax/Legal Analyst, Indirect Tax",
+    "jobSeqNo": "THTTRUUSJREQ168823EXTERNALENUS",
+    "postedDate": "2023-09-14T00:00:00.000+0000",
+    "dateCreated": "2023-05-25T00:41:39.099+0000",
+    "cityStateCountry": "Carrollton, Texas, United States of America",
+    "address": "2395 Midway Road, Carrollton, TX 75006, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Carrollton-2395-Midway-Rd/Tax-Legal-Analyst--Indirect-Tax_JREQ168823/apply",
+    "location": "Carrollton, Texas, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Superior written and verbal communication skills, including ability to write white papers on tax and/or geography technical subjects. Our industry-leading products and services include highly specialized...",
+      "descriptionTeaser_first200": "The Tax/Legal Analyst is responsible for research, configuration, ongoing maintenance and testing to ensure that ONESOURCE\u2122 applications and offerings comply with tax rules and laws. About the Role. In...",
+      "descriptionTeaser_keyword": "The Tax/Legal Analyst is responsible for research, configuration, ongoing maintenance and testing to ensure that ONESOURCE\u2122 applications and offerings comply with tax rules and laws. About the Role. In...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
