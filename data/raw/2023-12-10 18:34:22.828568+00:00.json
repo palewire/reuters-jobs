@@ -1,5 +1,131 @@
 [
   {
+    "cityState": "Gdansk",
+    "country": "Poland",
+    "ml_skills": [
+      "press releases",
+      "french",
+      "dutch"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Reuters is seeking a graduate who can speak fluent English and French to join its real-time news operation in Gdansk, Poland. Translate market reports, general, political, economic and company news st...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "18.5752702",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ173335",
+    "jobId": "JREQ173335",
+    "city": "Gdansk",
+    "latitude": "54.4004235",
+    "locale": "en_US",
+    "multi_location": [
+      "Gdansk, Poland"
+    ],
+    "title": "Graduate News Reporter, Reuters (French Speaking)",
+    "jobSeqNo": "THTTRUUSJREQ173335EXTERNALENUS",
+    "postedDate": "2023-12-08T00:00:00.000+0000",
+    "dateCreated": "2023-12-08T12:39:55.051+0000",
+    "cityStateCountry": "Gdansk, Poland",
+    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/Graduate-News-Reporter--Reuters--French-Speaking-_JREQ173335/apply",
+    "location": "Gdansk, Poland",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Reuters is seeking a graduate who can speak fluent English and French to join its real-time news operation in Gdansk, Poland. Translate market reports, general, political, economic and company news st...",
+      "descriptionTeaser_first200": "Reuters is seeking a graduate who can speak fluent English and French to join its real-time news operation in Gdansk, Poland. The reporters will work in fast paced, international environment to produce...",
+      "descriptionTeaser_keyword": "Reuters is seeking a graduate who can speak fluent English and French to join its real-time news operation in Gdansk, Poland. The reporters will work in fast paced, international environment to produc...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 18.5752702,
+          "lat": 54.4004235
+        },
+        "location": "Gdansk, Poland"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Gdansk",
+    "country": "Poland",
+    "ml_skills": [
+      "press releases",
+      "french",
+      "dutch"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Reuters is seeking candidates who can speak fluent English and French to join its real-time news operation in Gdansk, Poland. Scan press releases from companies and regulators in English and French to...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "18.5752702",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ173337",
+    "jobId": "JREQ173337",
+    "city": "Gdansk",
+    "latitude": "54.4004235",
+    "locale": "en_US",
+    "multi_location": [
+      "Gdansk, Poland"
+    ],
+    "title": "News Reporter with French,  Reuters",
+    "jobSeqNo": "THTTRUUSJREQ173337EXTERNALENUS",
+    "postedDate": "2023-12-08T00:00:00.000+0000",
+    "dateCreated": "2023-12-08T12:39:55.051+0000",
+    "cityStateCountry": "Gdansk, Poland",
+    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/News-Reporter-with-French---Reuters_JREQ173337/apply",
+    "location": "Gdansk, Poland",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Reuters is seeking candidates who can speak fluent English and French to join its real-time news operation in Gdansk, Poland. Scan press releases from companies and regulators in English and French to...",
+      "descriptionTeaser_first200": "Reuters is seeking candidates who can speak fluent English and French to join its real-time news operation in Gdansk, Poland. The reporters will work in fast paced, international environment to produce...",
+      "descriptionTeaser_keyword": "Reuters is seeking candidates who can speak fluent English and French to join its real-time news operation in Gdansk, Poland. The reporters will work in fast paced, international environment to produc...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 18.5752702,
+          "lat": 54.4004235
+        },
+        "location": "Gdansk, Poland"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "New York, New York",
     "country": "United States of America",
     "ml_skills": [
@@ -35,7 +161,7 @@
     ],
     "title": "Tax/Legal Analyst, Indirect Tax",
     "jobSeqNo": "THTTRUUSJREQ173970EXTERNALENUS",
-    "postedDate": "2023-12-07T00:00:00.000+0000",
+    "postedDate": "2023-12-08T00:00:00.000+0000",
     "dateCreated": "2023-11-15T20:39:22.301+0000",
     "cityStateCountry": "New York, New York, United States of America",
     "address": "3 Times Square, New York, NY 10036, United States of America",
@@ -81,6 +207,198 @@
           "lat": 38.9004793
         },
         "location": "Washington, District of Columbia, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Washington, District of Columbia",
+    "country": "United States of America",
+    "ml_skills": [
+      "photo editing",
+      "photography",
+      "photojournalism",
+      "editing"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Work in close collaboration with Reuters photo editors, staff photographers and editors on the Global Pictures Desk to contribute highly competitive pictures to the Reuters News Pictures file for U....",
+    "state": "District of Columbia",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-77.0311952",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ174564",
+    "jobId": "JREQ174564",
+    "city": "Washington",
+    "latitude": "38.9004793",
+    "locale": "en_US",
+    "multi_location": [
+      "Washington, District of Columbia, United States of America"
+    ],
+    "title": "Photographer (Level 1 Journalist - Temp), Reuters",
+    "jobSeqNo": "THTTRUUSJREQ174564EXTERNALENUS",
+    "postedDate": "2023-12-08T00:00:00.000+0000",
+    "dateCreated": "2023-12-08T16:41:33.537+0000",
+    "cityStateCountry": "Washington, District of Columbia, United States of America",
+    "address": "1333 H Street NW, Suite 500, Washington, DC 20005, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Washington-1333-H-Street-N/Photographer--Level-1-Journalist---Temp---Reuters_JREQ174564/apply",
+    "location": "Washington, District of Columbia, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Work in close collaboration with Reuters photo editors, staff photographers and editors on the Global Pictures Desk to contribute highly competitive pictures to the Reuters News Pictures file for U....",
+      "descriptionTeaser_first200": "Photographer (Level 1 Journalist - Temp). This Temporary assignment will be based in Washington DC. Are you an experienced Photographer looking for your next challenge? Want to cover domestic politics...",
+      "descriptionTeaser_keyword": "Photographer (Level 1 Journalist - Temp). This Temporary assignment will be based in Washington DC. Are you an experienced Photographer looking for your next challenge? Want to cover domestic politics...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -77.0311952,
+          "lat": 38.9004793
+        },
+        "location": "Washington, District of Columbia, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Frankfurt",
+    "country": "Germany",
+    "ml_skills": [
+      "editing"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Reuters are looking for an enthusiastic and news-hungry journalist with excellent organizational skills and a strong commitment to speed to join the leadership team of the Breaking News Hub for German...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "8.6528873",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ174561",
+    "jobId": "JREQ174561",
+    "city": "Frankfurt",
+    "latitude": "50.1125015",
+    "locale": "en_US",
+    "multi_location": [
+      "Frankfurt, Germany",
+      "Berlin, Germany"
+    ],
+    "title": "Breaking News Editor, Germany, Austria & Switzerland",
+    "jobSeqNo": "THTTRUUSJREQ174561EXTERNALENUS",
+    "postedDate": "2023-12-08T00:00:00.000+0000",
+    "dateCreated": "2023-12-08T20:39:45.129+0000",
+    "cityStateCountry": "Frankfurt, Germany",
+    "address": "Messeturm Friedrich-Ebert-Anlage 49, 60327 Frankfurt, Germany",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/DEU-Frankfurt-Messeturm-Friedr/Breaking-News-Editor--Germany--Austria---Switzerland_JREQ174561/apply",
+    "location": "Frankfurt, Germany",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Reuters are looking for an enthusiastic and news-hungry journalist with excellent organizational skills and a strong commitment to speed to join the leadership team of the Breaking News Hub for German...",
+      "descriptionTeaser_first200": "Breaking News Editor, Germany, Austria, Switzerland - Reuters. This position will be based in either Berlin or Frankfurt, Germany. Reuters are looking for an enthusiastic and news-hungry journalist with...",
+      "descriptionTeaser_keyword": "Breaking News Editor, Germany, Austria, Switzerland - Reuters. This position will be based in either Berlin or Frankfurt, Germany. Reuters are looking for an enthusiastic and news-hungry journalist wi...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 8.6528873,
+          "lat": 50.1125015
+        },
+        "location": "Frankfurt, Germany"
+      },
+      {
+        "latlong": {
+          "lon": 13.3754362,
+          "lat": 52.5111897
+        },
+        "location": "Berlin, Germany"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "London",
+    "country": "United Kingdom",
+    "ml_skills": [],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "In this opportunity as an Associate Editor in Practical Law, you will work in conjunction with more experienced colleagues to interpret and explain legal, practice and market developments to our custo...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.0185088",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ174524",
+    "jobId": "JREQ174524",
+    "city": "London",
+    "latitude": "51.5056439",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom"
+    ],
+    "title": "Associate Editor, Practical Law",
+    "jobSeqNo": "THTTRUUSJREQ174524EXTERNALENUS",
+    "postedDate": "2023-12-08T00:00:00.000+0000",
+    "dateCreated": "2023-12-08T16:41:33.535+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Associate-Editor--Practical-Law_JREQ174524-1/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "In this opportunity as an Associate Editor in Practical Law, you will work in conjunction with more experienced colleagues to interpret and explain legal, practice and market developments to our custo...",
+      "descriptionTeaser_first200": "We are seeking an Associate Editor to join the Practical Law team in the UK. Practical Law is a leading online know-how service providing rigorous, peer-reviewed resources, including practice notes, current...",
+      "descriptionTeaser_keyword": "We are seeking an Associate Editor to join the Practical Law team in the UK. Practical Law is a leading online know-how service providing rigorous, peer-reviewed resources, including practice notes, c...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.0185088,
+          "lat": 51.5056439
+        },
+        "location": "London, United Kingdom"
       }
     ],
     "isMultiCategory": true,
@@ -241,6 +559,68 @@
     "badge": ""
   },
   {
+    "cityState": "Bengaluru, Karnataka",
+    "country": "India",
+    "ml_skills": [
+      "storytelling",
+      "financial markets"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Develop strong relations with key sources and help expand our source lists to ensure the participants that matter most are always present on key polls. How about a team that works every day to create...",
+    "state": "Karnataka",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "77.7120655",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ174117",
+    "jobId": "JREQ174117",
+    "city": "Bengaluru",
+    "latitude": "12.9743998",
+    "locale": "en_US",
+    "multi_location": [
+      "Bengaluru, Karnataka, India"
+    ],
+    "title": "Polling Correspondent",
+    "jobSeqNo": "THTTRUUSJREQ174117EXTERNALENUS",
+    "postedDate": "2023-12-06T00:00:00.000+0000",
+    "dateCreated": "2023-11-27T12:40:30.713+0000",
+    "cityStateCountry": "Bengaluru, Karnataka, India",
+    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/Polling-Correspondent_JREQ174117/apply",
+    "location": "Bengaluru, Karnataka, India",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Develop strong relations with key sources and help expand our source lists to ensure the participants that matter most are always present on key polls. How about a team that works every day to create...",
+      "descriptionTeaser_first200": "As Polling Correspondent you will. Identify and keep up with market-moving economic events. Plan and coordinate polls effectively. Contribute to and lead regular discussions on subjects covered by the...",
+      "descriptionTeaser_keyword": "As Polling Correspondent you will. Identify and keep up with market-moving economic events. Plan and coordinate polls effectively. Contribute to and lead regular discussions on subjects covered by the...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 77.7120655,
+          "lat": 12.9743998
+        },
+        "location": "Bengaluru, Karnataka, India"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Carrollton, Texas",
     "country": "United States of America",
     "ml_skills": [
@@ -306,68 +686,6 @@
           "lat": 44.8250902
         },
         "location": "Eagan, Minnesota, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Bengaluru, Karnataka",
-    "country": "India",
-    "ml_skills": [
-      "storytelling",
-      "financial markets"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Develop strong relations with key sources and help expand our source lists to ensure the participants that matter most are always present on key polls. How about a team that works every day to create...",
-    "state": "Karnataka",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "77.7120655",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ174117",
-    "jobId": "JREQ174117",
-    "city": "Bengaluru",
-    "latitude": "12.9743998",
-    "locale": "en_US",
-    "multi_location": [
-      "Bengaluru, Karnataka, India"
-    ],
-    "title": "Polling Correspondent",
-    "jobSeqNo": "THTTRUUSJREQ174117EXTERNALENUS",
-    "postedDate": "2023-12-06T00:00:00.000+0000",
-    "dateCreated": "2023-11-27T12:40:30.713+0000",
-    "cityStateCountry": "Bengaluru, Karnataka, India",
-    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/Polling-Correspondent_JREQ174117/apply",
-    "location": "Bengaluru, Karnataka, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Develop strong relations with key sources and help expand our source lists to ensure the participants that matter most are always present on key polls. How about a team that works every day to create...",
-      "descriptionTeaser_first200": "As Polling Correspondent you will. Identify and keep up with market-moving economic events. Plan and coordinate polls effectively. Contribute to and lead regular discussions on subjects covered by the...",
-      "descriptionTeaser_keyword": "As Polling Correspondent you will. Identify and keep up with market-moving economic events. Plan and coordinate polls effectively. Contribute to and lead regular discussions on subjects covered by the...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 77.7120655,
-          "lat": 12.9743998
-        },
-        "location": "Bengaluru, Karnataka, India"
       }
     ],
     "isMultiCategory": true,
@@ -2318,6 +2636,111 @@
     "cityState": "Carrollton, Texas",
     "country": "United States of America",
     "ml_skills": [
+      "negotiating",
+      "tax calculation",
+      "indirect tax",
+      "linkedin",
+      "public accounting",
+      "accounting",
+      "cpa",
+      "customer support",
+      "publications",
+      "online research",
+      "advising",
+      "microsoft excel",
+      "detail-oriented",
+      "checkpoint",
+      "westlaw",
+      "job postings",
+      "marketplace",
+      "objectivity",
+      "thomson reuters",
+      "learning & development",
+      "caf"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Superior written and verbal communication skills, including ability to write white papers on tax and/or geography technical subjects. Our industry-leading products and services include highly specialized...",
+    "state": "Texas",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-96.8449828",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ168823",
+    "jobId": "JREQ168823",
+    "city": "Carrollton",
+    "latitude": "32.97533",
+    "locale": "en_US",
+    "multi_location": [
+      "Carrollton, Texas, United States of America",
+      "Ann Arbor, Michigan, United States of America",
+      "Eagan, Minnesota, United States of America",
+      "New York, New York, United States of America"
+    ],
+    "title": "Tax/Legal Analyst, Indirect Tax",
+    "jobSeqNo": "THTTRUUSJREQ168823EXTERNALENUS",
+    "postedDate": "2023-09-14T00:00:00.000+0000",
+    "dateCreated": "2023-05-25T00:41:39.099+0000",
+    "cityStateCountry": "Carrollton, Texas, United States of America",
+    "address": "2395 Midway Road, Carrollton, TX 75006, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Carrollton-2395-Midway-Rd/Tax-Legal-Analyst--Indirect-Tax_JREQ168823/apply",
+    "location": "Carrollton, Texas, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Superior written and verbal communication skills, including ability to write white papers on tax and/or geography technical subjects. Our industry-leading products and services include highly specialized...",
+      "descriptionTeaser_first200": "The Tax/Legal Analyst is responsible for research, configuration, ongoing maintenance and testing to ensure that ONESOURCE\u2122 applications and offerings comply with tax rules and laws. About the Role. In...",
+      "descriptionTeaser_keyword": "The Tax/Legal Analyst is responsible for research, configuration, ongoing maintenance and testing to ensure that ONESOURCE\u2122 applications and offerings comply with tax rules and laws. About the Role. In...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -96.8449828,
+          "lat": 32.97533
+        },
+        "location": "Carrollton, Texas, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -83.7267835,
+          "lat": 42.1957259
+        },
+        "location": "Ann Arbor, Michigan, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -93.11336709999999,
+          "lat": 44.8250902
+        },
+        "location": "Eagan, Minnesota, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -73.9866995,
+          "lat": 40.7566955
+        },
+        "location": "New York, New York, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Carrollton, Texas",
+    "country": "United States of America",
+    "ml_skills": [
       "tax research",
       "cpa",
       "indirect tax",
@@ -2382,111 +2805,6 @@
       "descriptionTeaser": "The Senior Tax Analyst, Indirect Tax is responsible for research, configuration, ongoing maintenance and testing to ensure that ONESOURCE\u2122 applications and offerings comply with indirect tax rules and...",
       "descriptionTeaser_first200": "The Senior Tax Analyst, Indirect Tax is responsible for research, configuration, ongoing maintenance and testing to ensure that ONESOURCE\u2122 applications and offerings comply with indirect tax rules and...",
       "descriptionTeaser_keyword": "The Senior Tax Analyst, Indirect Tax is responsible for research, configuration, ongoing maintenance and testing to ensure that ONESOURCE\u2122 applications and offerings comply with indirect tax rules and...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -96.8449828,
-          "lat": 32.97533
-        },
-        "location": "Carrollton, Texas, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -83.7267835,
-          "lat": 42.1957259
-        },
-        "location": "Ann Arbor, Michigan, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -93.11336709999999,
-          "lat": 44.8250902
-        },
-        "location": "Eagan, Minnesota, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -73.9866995,
-          "lat": 40.7566955
-        },
-        "location": "New York, New York, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Carrollton, Texas",
-    "country": "United States of America",
-    "ml_skills": [
-      "negotiating",
-      "tax calculation",
-      "indirect tax",
-      "linkedin",
-      "public accounting",
-      "accounting",
-      "cpa",
-      "customer support",
-      "publications",
-      "online research",
-      "advising",
-      "microsoft excel",
-      "detail-oriented",
-      "checkpoint",
-      "westlaw",
-      "job postings",
-      "marketplace",
-      "objectivity",
-      "thomson reuters",
-      "learning & development",
-      "caf"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Superior written and verbal communication skills, including ability to write white papers on tax and/or geography technical subjects. Our industry-leading products and services include highly specialized...",
-    "state": "Texas",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-96.8449828",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ168823",
-    "jobId": "JREQ168823",
-    "city": "Carrollton",
-    "latitude": "32.97533",
-    "locale": "en_US",
-    "multi_location": [
-      "Carrollton, Texas, United States of America",
-      "Ann Arbor, Michigan, United States of America",
-      "Eagan, Minnesota, United States of America",
-      "New York, New York, United States of America"
-    ],
-    "title": "Tax/Legal Analyst, Indirect Tax",
-    "jobSeqNo": "THTTRUUSJREQ168823EXTERNALENUS",
-    "postedDate": "2023-09-14T00:00:00.000+0000",
-    "dateCreated": "2023-05-25T00:41:39.099+0000",
-    "cityStateCountry": "Carrollton, Texas, United States of America",
-    "address": "2395 Midway Road, Carrollton, TX 75006, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Carrollton-2395-Midway-Rd/Tax-Legal-Analyst--Indirect-Tax_JREQ168823/apply",
-    "location": "Carrollton, Texas, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Superior written and verbal communication skills, including ability to write white papers on tax and/or geography technical subjects. Our industry-leading products and services include highly specialized...",
-      "descriptionTeaser_first200": "The Tax/Legal Analyst is responsible for research, configuration, ongoing maintenance and testing to ensure that ONESOURCE\u2122 applications and offerings comply with tax rules and laws. About the Role. In...",
-      "descriptionTeaser_keyword": "The Tax/Legal Analyst is responsible for research, configuration, ongoing maintenance and testing to ensure that ONESOURCE\u2122 applications and offerings comply with tax rules and laws. About the Role. In...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
