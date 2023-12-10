@@ -1,5 +1,131 @@
 [
   {
+    "cityState": "Gdansk",
+    "country": "Poland",
+    "ml_skills": [
+      "press releases",
+      "french",
+      "dutch"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Reuters is seeking a graduate who can speak fluent English and French to join its real-time news operation in Gdansk, Poland. Translate market reports, general, political, economic and company news st...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "18.5752702",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ173335",
+    "jobId": "JREQ173335",
+    "city": "Gdansk",
+    "latitude": "54.4004235",
+    "locale": "en_US",
+    "multi_location": [
+      "Gdansk, Poland"
+    ],
+    "title": "Graduate News Reporter, Reuters (French Speaking)",
+    "jobSeqNo": "THTTRUUSJREQ173335EXTERNALENUS",
+    "postedDate": "2023-12-08T00:00:00.000+0000",
+    "dateCreated": "2023-12-08T12:39:55.051+0000",
+    "cityStateCountry": "Gdansk, Poland",
+    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/Graduate-News-Reporter--Reuters--French-Speaking-_JREQ173335/apply",
+    "location": "Gdansk, Poland",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Reuters is seeking a graduate who can speak fluent English and French to join its real-time news operation in Gdansk, Poland. Translate market reports, general, political, economic and company news st...",
+      "descriptionTeaser_first200": "Reuters is seeking a graduate who can speak fluent English and French to join its real-time news operation in Gdansk, Poland. The reporters will work in fast paced, international environment to produce...",
+      "descriptionTeaser_keyword": "Reuters is seeking a graduate who can speak fluent English and French to join its real-time news operation in Gdansk, Poland. The reporters will work in fast paced, international environment to produc...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 18.5752702,
+          "lat": 54.4004235
+        },
+        "location": "Gdansk, Poland"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Gdansk",
+    "country": "Poland",
+    "ml_skills": [
+      "press releases",
+      "french",
+      "dutch"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Reuters is seeking candidates who can speak fluent English and French to join its real-time news operation in Gdansk, Poland. Scan press releases from companies and regulators in English and French to...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "18.5752702",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ173337",
+    "jobId": "JREQ173337",
+    "city": "Gdansk",
+    "latitude": "54.4004235",
+    "locale": "en_US",
+    "multi_location": [
+      "Gdansk, Poland"
+    ],
+    "title": "News Reporter with French,  Reuters",
+    "jobSeqNo": "THTTRUUSJREQ173337EXTERNALENUS",
+    "postedDate": "2023-12-08T00:00:00.000+0000",
+    "dateCreated": "2023-12-08T12:39:55.051+0000",
+    "cityStateCountry": "Gdansk, Poland",
+    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/News-Reporter-with-French---Reuters_JREQ173337/apply",
+    "location": "Gdansk, Poland",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Reuters is seeking candidates who can speak fluent English and French to join its real-time news operation in Gdansk, Poland. Scan press releases from companies and regulators in English and French to...",
+      "descriptionTeaser_first200": "Reuters is seeking candidates who can speak fluent English and French to join its real-time news operation in Gdansk, Poland. The reporters will work in fast paced, international environment to produce...",
+      "descriptionTeaser_keyword": "Reuters is seeking candidates who can speak fluent English and French to join its real-time news operation in Gdansk, Poland. The reporters will work in fast paced, international environment to produc...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 18.5752702,
+          "lat": 54.4004235
+        },
+        "location": "Gdansk, Poland"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "New York, New York",
     "country": "United States of America",
     "ml_skills": [
@@ -35,7 +161,7 @@
     ],
     "title": "Tax/Legal Analyst, Indirect Tax",
     "jobSeqNo": "THTTRUUSJREQ173970EXTERNALENUS",
-    "postedDate": "2023-12-07T00:00:00.000+0000",
+    "postedDate": "2023-12-08T00:00:00.000+0000",
     "dateCreated": "2023-11-15T20:39:22.301+0000",
     "cityStateCountry": "New York, New York, United States of America",
     "address": "3 Times Square, New York, NY 10036, United States of America",
@@ -81,6 +207,198 @@
           "lat": 38.9004793
         },
         "location": "Washington, District of Columbia, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Washington, District of Columbia",
+    "country": "United States of America",
+    "ml_skills": [
+      "photo editing",
+      "photography",
+      "photojournalism",
+      "editing"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Work in close collaboration with Reuters photo editors, staff photographers and editors on the Global Pictures Desk to contribute highly competitive pictures to the Reuters News Pictures file for U....",
+    "state": "District of Columbia",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-77.0311952",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ174564",
+    "jobId": "JREQ174564",
+    "city": "Washington",
+    "latitude": "38.9004793",
+    "locale": "en_US",
+    "multi_location": [
+      "Washington, District of Columbia, United States of America"
+    ],
+    "title": "Photographer (Level 1 Journalist - Temp), Reuters",
+    "jobSeqNo": "THTTRUUSJREQ174564EXTERNALENUS",
+    "postedDate": "2023-12-08T00:00:00.000+0000",
+    "dateCreated": "2023-12-08T16:41:33.537+0000",
+    "cityStateCountry": "Washington, District of Columbia, United States of America",
+    "address": "1333 H Street NW, Suite 500, Washington, DC 20005, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Washington-1333-H-Street-N/Photographer--Level-1-Journalist---Temp---Reuters_JREQ174564/apply",
+    "location": "Washington, District of Columbia, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Work in close collaboration with Reuters photo editors, staff photographers and editors on the Global Pictures Desk to contribute highly competitive pictures to the Reuters News Pictures file for U....",
+      "descriptionTeaser_first200": "Photographer (Level 1 Journalist - Temp). This Temporary assignment will be based in Washington DC. Are you an experienced Photographer looking for your next challenge? Want to cover domestic politics...",
+      "descriptionTeaser_keyword": "Photographer (Level 1 Journalist - Temp). This Temporary assignment will be based in Washington DC. Are you an experienced Photographer looking for your next challenge? Want to cover domestic politics...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -77.0311952,
+          "lat": 38.9004793
+        },
+        "location": "Washington, District of Columbia, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "London",
+    "country": "United Kingdom",
+    "ml_skills": [],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "In this opportunity as an Associate Editor in Practical Law, you will work in conjunction with more experienced colleagues to interpret and explain legal, practice and market developments to our custo...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.0185088",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ174524",
+    "jobId": "JREQ174524",
+    "city": "London",
+    "latitude": "51.5056439",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom"
+    ],
+    "title": "Associate Editor, Practical Law",
+    "jobSeqNo": "THTTRUUSJREQ174524EXTERNALENUS",
+    "postedDate": "2023-12-08T00:00:00.000+0000",
+    "dateCreated": "2023-12-08T16:41:33.535+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Associate-Editor--Practical-Law_JREQ174524-1/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "In this opportunity as an Associate Editor in Practical Law, you will work in conjunction with more experienced colleagues to interpret and explain legal, practice and market developments to our custo...",
+      "descriptionTeaser_first200": "We are seeking an Associate Editor to join the Practical Law team in the UK. Practical Law is a leading online know-how service providing rigorous, peer-reviewed resources, including practice notes, current...",
+      "descriptionTeaser_keyword": "We are seeking an Associate Editor to join the Practical Law team in the UK. Practical Law is a leading online know-how service providing rigorous, peer-reviewed resources, including practice notes, c...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.0185088,
+          "lat": 51.5056439
+        },
+        "location": "London, United Kingdom"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Frankfurt",
+    "country": "Germany",
+    "ml_skills": [
+      "editing"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Reuters are looking for an enthusiastic and news-hungry journalist with excellent organizational skills and a strong commitment to speed to join the leadership team of the Breaking News Hub for German...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "8.6528873",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ174561",
+    "jobId": "JREQ174561",
+    "city": "Frankfurt",
+    "latitude": "50.1125015",
+    "locale": "en_US",
+    "multi_location": [
+      "Frankfurt, Germany",
+      "Berlin, Germany"
+    ],
+    "title": "Breaking News Editor, Germany, Austria & Switzerland",
+    "jobSeqNo": "THTTRUUSJREQ174561EXTERNALENUS",
+    "postedDate": "2023-12-08T00:00:00.000+0000",
+    "dateCreated": "2023-12-08T20:39:45.129+0000",
+    "cityStateCountry": "Frankfurt, Germany",
+    "address": "Messeturm Friedrich-Ebert-Anlage 49, 60327 Frankfurt, Germany",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/DEU-Frankfurt-Messeturm-Friedr/Breaking-News-Editor--Germany--Austria---Switzerland_JREQ174561/apply",
+    "location": "Frankfurt, Germany",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Reuters are looking for an enthusiastic and news-hungry journalist with excellent organizational skills and a strong commitment to speed to join the leadership team of the Breaking News Hub for German...",
+      "descriptionTeaser_first200": "Breaking News Editor, Germany, Austria, Switzerland - Reuters. This position will be based in either Berlin or Frankfurt, Germany. Reuters are looking for an enthusiastic and news-hungry journalist with...",
+      "descriptionTeaser_keyword": "Breaking News Editor, Germany, Austria, Switzerland - Reuters. This position will be based in either Berlin or Frankfurt, Germany. Reuters are looking for an enthusiastic and news-hungry journalist wi...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 8.6528873,
+          "lat": 50.1125015
+        },
+        "location": "Frankfurt, Germany"
+      },
+      {
+        "latlong": {
+          "lon": 13.3754362,
+          "lat": 52.5111897
+        },
+        "location": "Berlin, Germany"
       }
     ],
     "isMultiCategory": true,
