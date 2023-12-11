@@ -126,6 +126,98 @@
     "badge": ""
   },
   {
+    "cityState": "New York, New York",
+    "country": "United States of America",
+    "ml_skills": [
+      "corporate tax",
+      "recruiting",
+      "microsoft excel",
+      "online research",
+      "employer branding",
+      "detail-oriented",
+      "westlaw",
+      "customer support"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Superior written and verbal communication skills, including ability to write white papers on tax and/or technical subjects. Our industry-leading products and services include highly specialized inform...",
+    "state": "New York",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-73.9866995",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ173970",
+    "jobId": "JREQ173970",
+    "city": "New York",
+    "latitude": "40.7566955",
+    "locale": "en_US",
+    "multi_location": [
+      "New York, New York, United States of America",
+      "Ann Arbor, Michigan, United States of America",
+      "Eagan, Minnesota, United States of America",
+      "Washington, District of Columbia, United States of America"
+    ],
+    "title": "Tax/Legal Analyst, Indirect Tax",
+    "jobSeqNo": "THTTRUUSJREQ173970EXTERNALENUS",
+    "postedDate": "2023-12-08T00:00:00.000+0000",
+    "dateCreated": "2023-11-15T20:39:22.301+0000",
+    "cityStateCountry": "New York, New York, United States of America",
+    "address": "3 Times Square, New York, NY 10036, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-New-York-3-Times-Square/Tax-Legal-Analyst--Indirect-Tax_JREQ173970/apply",
+    "location": "New York, New York, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Superior written and verbal communication skills, including ability to write white papers on tax and/or technical subjects. Our industry-leading products and services include highly specialized inform...",
+      "descriptionTeaser_first200": "The Tax/Legal Analyst is responsible for research, configuration, ongoing maintenance and testing to ensure that ONESOURCE\u2122 applications and offerings comply with tax laws in U.S. jurisdictions. The Tax/Legal...",
+      "descriptionTeaser_keyword": "The Tax/Legal Analyst is responsible for research, configuration, ongoing maintenance and testing to ensure that ONESOURCE\u2122 applications and offerings comply with tax laws in U. S. jurisdictions. The...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -73.9866995,
+          "lat": 40.7566955
+        },
+        "location": "New York, New York, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -83.7267835,
+          "lat": 42.1957259
+        },
+        "location": "Ann Arbor, Michigan, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -93.11336709999999,
+          "lat": 44.8250902
+        },
+        "location": "Eagan, Minnesota, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -77.0311952,
+          "lat": 38.9004793
+        },
+        "location": "Washington, District of Columbia, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Washington, District of Columbia",
     "country": "United States of America",
     "ml_skills": [
@@ -190,6 +282,75 @@
     "badge": ""
   },
   {
+    "cityState": "Frankfurt",
+    "country": "Germany",
+    "ml_skills": [
+      "editing"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Reuters are looking for an enthusiastic and news-hungry journalist with excellent organizational skills and a strong commitment to speed to join the leadership team of the Breaking News Hub for German...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "8.6528873",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ174561",
+    "jobId": "JREQ174561",
+    "city": "Frankfurt",
+    "latitude": "50.1125015",
+    "locale": "en_US",
+    "multi_location": [
+      "Frankfurt, Germany",
+      "Berlin, Germany"
+    ],
+    "title": "Breaking News Editor, Germany, Austria & Switzerland",
+    "jobSeqNo": "THTTRUUSJREQ174561EXTERNALENUS",
+    "postedDate": "2023-12-08T00:00:00.000+0000",
+    "dateCreated": "2023-12-08T20:39:45.129+0000",
+    "cityStateCountry": "Frankfurt, Germany",
+    "address": "Messeturm Friedrich-Ebert-Anlage 49, 60327 Frankfurt, Germany",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/DEU-Frankfurt-Messeturm-Friedr/Breaking-News-Editor--Germany--Austria---Switzerland_JREQ174561/apply",
+    "location": "Frankfurt, Germany",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Reuters are looking for an enthusiastic and news-hungry journalist with excellent organizational skills and a strong commitment to speed to join the leadership team of the Breaking News Hub for German...",
+      "descriptionTeaser_first200": "Breaking News Editor, Germany, Austria, Switzerland - Reuters. This position will be based in either Berlin or Frankfurt, Germany. Reuters are looking for an enthusiastic and news-hungry journalist with...",
+      "descriptionTeaser_keyword": "Breaking News Editor, Germany, Austria, Switzerland - Reuters. This position will be based in either Berlin or Frankfurt, Germany. Reuters are looking for an enthusiastic and news-hungry journalist wi...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 8.6528873,
+          "lat": 50.1125015
+        },
+        "location": "Frankfurt, Germany"
+      },
+      {
+        "latlong": {
+          "lon": 13.3754362,
+          "lat": 52.5111897
+        },
+        "location": "Berlin, Germany"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "London",
     "country": "United Kingdom",
     "ml_skills": [],
@@ -238,98 +399,6 @@
           "lat": 51.5056439
         },
         "location": "London, United Kingdom"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "New York, New York",
-    "country": "United States of America",
-    "ml_skills": [
-      "corporate tax",
-      "recruiting",
-      "microsoft excel",
-      "online research",
-      "employer branding",
-      "detail-oriented",
-      "westlaw",
-      "customer support"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Superior written and verbal communication skills, including ability to write white papers on tax and/or technical subjects. Our industry-leading products and services include highly specialized inform...",
-    "state": "New York",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-73.9866995",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ173970",
-    "jobId": "JREQ173970",
-    "city": "New York",
-    "latitude": "40.7566955",
-    "locale": "en_US",
-    "multi_location": [
-      "New York, New York, United States of America",
-      "Ann Arbor, Michigan, United States of America",
-      "Eagan, Minnesota, United States of America",
-      "Washington, District of Columbia, United States of America"
-    ],
-    "title": "Tax/Legal Analyst, Indirect Tax",
-    "jobSeqNo": "THTTRUUSJREQ173970EXTERNALENUS",
-    "postedDate": "2023-12-07T00:00:00.000+0000",
-    "dateCreated": "2023-11-15T20:39:22.301+0000",
-    "cityStateCountry": "New York, New York, United States of America",
-    "address": "3 Times Square, New York, NY 10036, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-New-York-3-Times-Square/Tax-Legal-Analyst--Indirect-Tax_JREQ173970/apply",
-    "location": "New York, New York, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Superior written and verbal communication skills, including ability to write white papers on tax and/or technical subjects. Our industry-leading products and services include highly specialized inform...",
-      "descriptionTeaser_first200": "The Tax/Legal Analyst is responsible for research, configuration, ongoing maintenance and testing to ensure that ONESOURCE\u2122 applications and offerings comply with tax laws in U.S. jurisdictions. The Tax/Legal...",
-      "descriptionTeaser_keyword": "The Tax/Legal Analyst is responsible for research, configuration, ongoing maintenance and testing to ensure that ONESOURCE\u2122 applications and offerings comply with tax laws in U. S. jurisdictions. The...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -73.9866995,
-          "lat": 40.7566955
-        },
-        "location": "New York, New York, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -83.7267835,
-          "lat": 42.1957259
-        },
-        "location": "Ann Arbor, Michigan, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -93.11336709999999,
-          "lat": 44.8250902
-        },
-        "location": "Eagan, Minnesota, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -77.0311952,
-          "lat": 38.9004793
-        },
-        "location": "Washington, District of Columbia, United States of America"
       }
     ],
     "isMultiCategory": true,
@@ -479,68 +548,6 @@
           "lat": 45.5002876
         },
         "location": "Montreal, Quebec, Canada"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Bengaluru, Karnataka",
-    "country": "India",
-    "ml_skills": [
-      "storytelling",
-      "financial markets"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Develop strong relations with key sources and help expand our source lists to ensure the participants that matter most are always present on key polls. How about a team that works every day to create...",
-    "state": "Karnataka",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "77.7120655",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ174117",
-    "jobId": "JREQ174117",
-    "city": "Bengaluru",
-    "latitude": "12.9743998",
-    "locale": "en_US",
-    "multi_location": [
-      "Bengaluru, Karnataka, India"
-    ],
-    "title": "Polling Correspondent",
-    "jobSeqNo": "THTTRUUSJREQ174117EXTERNALENUS",
-    "postedDate": "2023-12-06T00:00:00.000+0000",
-    "dateCreated": "2023-11-27T12:40:30.713+0000",
-    "cityStateCountry": "Bengaluru, Karnataka, India",
-    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/Polling-Correspondent_JREQ174117/apply",
-    "location": "Bengaluru, Karnataka, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Develop strong relations with key sources and help expand our source lists to ensure the participants that matter most are always present on key polls. How about a team that works every day to create...",
-      "descriptionTeaser_first200": "As Polling Correspondent you will. Identify and keep up with market-moving economic events. Plan and coordinate polls effectively. Contribute to and lead regular discussions on subjects covered by the...",
-      "descriptionTeaser_keyword": "As Polling Correspondent you will. Identify and keep up with market-moving economic events. Plan and coordinate polls effectively. Contribute to and lead regular discussions on subjects covered by the...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 77.7120655,
-          "lat": 12.9743998
-        },
-        "location": "Bengaluru, Karnataka, India"
       }
     ],
     "isMultiCategory": true,
@@ -986,137 +993,6 @@
       "descriptionTeaser": "The Correspondent will report across the sports file and should be a strong writer with a broad interest in sports and a passion for delivering news fast. S/he will work daily with colleagues in Europe,...",
       "descriptionTeaser_first200": "Reuters is seeking a Correspondent for its Bangalore Sports Desk. The sports team in Bangalore is an integral part of the global Reuters sports file and delivers breaking news across geographies with...",
       "descriptionTeaser_keyword": "Reuters is seeking a Correspondent for its Bangalore Sports Desk. The sports team in Bangalore is an integral part of the global Reuters sports file and delivers breaking news across geographies with the...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 77.7120655,
-          "lat": 12.9743998
-        },
-        "location": "Bengaluru, Karnataka, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Bengaluru, Karnataka",
-    "country": "India",
-    "ml_skills": [
-      "context",
-      "freedom",
-      "breaking news",
-      "storytelling",
-      "track",
-      "transparency"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "The successful candidate will work closely with the Editor in Charge, Manufacturing and will have a track record of breaking news and covering spot stories with the accuracy, speed, context and freedom...",
-    "state": "Karnataka",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "77.7120655",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ174190",
-    "jobId": "JREQ174190",
-    "city": "Bengaluru",
-    "latitude": "12.9743998",
-    "locale": "en_US",
-    "multi_location": [
-      "Bengaluru, Karnataka, India"
-    ],
-    "title": "Sector Specialist - Manufacturing",
-    "jobSeqNo": "THTTRUUSJREQ174190EXTERNALENUS",
-    "postedDate": "2023-11-27T00:00:00.000+0000",
-    "dateCreated": "2023-11-27T08:42:12.733+0000",
-    "cityStateCountry": "Bengaluru, Karnataka, India",
-    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/Sector-Specialist---Manufacturing_JREQ174190-1/apply",
-    "location": "Bengaluru, Karnataka, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "The successful candidate will work closely with the Editor in Charge, Manufacturing and will have a track record of breaking news and covering spot stories with the accuracy, speed, context and freedom...",
-      "descriptionTeaser_first200": "The manufacturing team covers a wide range of companies in sectors such as aviation, travel, freight transport, home building and of course, manufacturing. If you are interested in exploring why planemakers...",
-      "descriptionTeaser_keyword": "The manufacturing team covers a wide range of companies in sectors such as aviation, travel, freight transport, home building and of course, manufacturing. If you are interested in exploring why planemakers...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 77.7120655,
-          "lat": 12.9743998
-        },
-        "location": "Bengaluru, Karnataka, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Bengaluru, Karnataka",
-    "country": "India",
-    "ml_skills": [
-      "editing",
-      "automation",
-      "collaboration",
-      "transparency",
-      "stakeholder management"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "The EIC must excel at networking and building strong rapport with both internal and external stakeholders while ensuring smooth collaboration with all teams, especially working in close conjunction with...",
-    "state": "Karnataka",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "77.7120655",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ174192",
-    "jobId": "JREQ174192",
-    "city": "Bengaluru",
-    "latitude": "12.9743998",
-    "locale": "en_US",
-    "multi_location": [
-      "Bengaluru, Karnataka, India"
-    ],
-    "title": "Editor in Charge, Commodities & Energy",
-    "jobSeqNo": "THTTRUUSJREQ174192EXTERNALENUS",
-    "postedDate": "2023-11-27T00:00:00.000+0000",
-    "dateCreated": "2023-11-27T08:42:12.713+0000",
-    "cityStateCountry": "Bengaluru, Karnataka, India",
-    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/Editor-in-Charge--Commodities---Energy_JREQ174192/apply",
-    "location": "Bengaluru, Karnataka, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "The EIC must excel at networking and building strong rapport with both internal and external stakeholders while ensuring smooth collaboration with all teams, especially working in close conjunction with...",
-      "descriptionTeaser_first200": "Reuters is looking for an Editor in Charge to lead its Commodities & Energy team in Bangalore. The Bangalore C&E team is at the forefront of Reuters\u2019 market-moving coverage of key developments in the...",
-      "descriptionTeaser_keyword": "Reuters is looking for an Editor in Charge to lead its Commodities & Energy team in Bangalore. The Bangalore C&E team is at the forefront of Reuters\u2019 market-moving coverage of key developments in the highly...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
