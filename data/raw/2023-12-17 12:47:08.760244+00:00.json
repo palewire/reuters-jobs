@@ -1,5 +1,142 @@
 [
   {
+    "cityState": "Mexico City",
+    "country": "Mexico",
+    "ml_skills": [
+      "breaking news",
+      "multimedia",
+      "portuguese",
+      "digital video",
+      "latin",
+      "digital landscape",
+      "juggling",
+      "transparency",
+      "justice",
+      "hostile environments",
+      "performance management",
+      "team building"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Ensure our teams are positioned to deliver high-quality video at speed to all Reuters customers. Work with colleagues from text and pictures to help create a truly unified newsgathering team. Lead you...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-99.1510899",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ174530",
+    "jobId": "JREQ174530",
+    "city": "Mexico City",
+    "latitude": "19.4343664",
+    "locale": "en_US",
+    "multi_location": [
+      "Mexico City, Mexico"
+    ],
+    "title": "Latin America Editor, Reuters Video",
+    "jobSeqNo": "THTTRUUSJREQ174530EXTERNALENUS",
+    "postedDate": "2023-12-15T00:00:00.000+0000",
+    "dateCreated": "2023-12-15T16:47:01.020+0000",
+    "cityStateCountry": "Mexico City, Mexico",
+    "address": "Av. Paseo de la Reforma #26, Floor 36th, Colonia Ju\u00e1rez, Cuauht\u00e9moc, 06600 Mexico City, Mexico",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/MEX-Distrito-Federal-Reforma-26/Latin-America-Editor--Reuters-Video_JREQ174530/apply",
+    "location": "Mexico City, Mexico",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Ensure our teams are positioned to deliver high-quality video at speed to all Reuters customers. Work with colleagues from text and pictures to help create a truly unified newsgathering team. Lead you...",
+      "descriptionTeaser_first200": "Latin America Editor, Reuters Video. Reuters is seeking a strong, unifying, and experienced video leader to drive our coverage in Latin America. The candidate will be hungry to win every story in the...",
+      "descriptionTeaser_keyword": "Latin America Editor, Reuters Video. Reuters is seeking a strong, unifying, and experienced video leader to drive our coverage in Latin America. The candidate will be hungry to win every story in the...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -99.1510899,
+          "lat": 19.4343664
+        },
+        "location": "Mexico City, Mexico"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "London",
+    "country": "United Kingdom",
+    "ml_skills": [
+      "editing",
+      "drawing",
+      "global perspective",
+      "track",
+      "transparency"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "As Editor, Reuters Commentary, you will have a proven track record of commissioning and editing analysis and commentary for a financial audience, with a particular focus on drawing out clear arguments...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.0185088",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ172978",
+    "jobId": "JREQ172978",
+    "city": "London",
+    "latitude": "51.5056439",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom"
+    ],
+    "title": "Editor, Reuters Commentary",
+    "jobSeqNo": "THTTRUUSJREQ172978EXTERNALENUS",
+    "postedDate": "2023-12-15T00:00:00.000+0000",
+    "dateCreated": "2023-10-12T16:43:01.897+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Editor--Reuters-Commentary_JREQ172978/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "As Editor, Reuters Commentary, you will have a proven track record of commissioning and editing analysis and commentary for a financial audience, with a particular focus on drawing out clear arguments...",
+      "descriptionTeaser_first200": "Editor, Reuters Commentary . Reuters is seeking an experienced, imaginative and highly motivated editor to lead and expand its commentary on financial markets, commodities markets, economics, and other...",
+      "descriptionTeaser_keyword": "Editor, Reuters Commentary. Reuters is seeking an experienced, imaginative and highly motivated editor to lead and expand its commentary on financial markets, commodities markets, economics, and other...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.0185088,
+          "lat": 51.5056439
+        },
+        "location": "London, United Kingdom"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Bengaluru, Karnataka",
     "country": "India",
     "ml_skills": [
@@ -127,71 +264,6 @@
           "lat": 25.0961362
         },
         "location": "Dubai, United Arab Emirates"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "London",
-    "country": "United Kingdom",
-    "ml_skills": [
-      "editing",
-      "drawing",
-      "global perspective",
-      "track",
-      "transparency"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "As Editor, Reuters Commentary, you will have a proven track record of commissioning and editing analysis and commentary for a financial audience, with a particular focus on drawing out clear arguments...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-0.0185088",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ172978",
-    "jobId": "JREQ172978",
-    "city": "London",
-    "latitude": "51.5056439",
-    "locale": "en_US",
-    "multi_location": [
-      "London, United Kingdom"
-    ],
-    "title": "Editor, Reuters Commentary",
-    "jobSeqNo": "THTTRUUSJREQ172978EXTERNALENUS",
-    "postedDate": "2023-12-14T00:00:00.000+0000",
-    "dateCreated": "2023-10-12T16:43:01.897+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Editor--Reuters-Commentary_JREQ172978/apply",
-    "location": "London, United Kingdom",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "As Editor, Reuters Commentary, you will have a proven track record of commissioning and editing analysis and commentary for a financial audience, with a particular focus on drawing out clear arguments...",
-      "descriptionTeaser_first200": "Editor, Reuters Commentary . Reuters is seeking an experienced, imaginative and highly motivated editor to lead and expand its commentary on financial markets, commodities markets, economics, and other...",
-      "descriptionTeaser_keyword": "Editor, Reuters Commentary. Reuters is seeking an experienced, imaginative and highly motivated editor to lead and expand its commentary on financial markets, commodities markets, economics, and other...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -0.0185088,
-          "lat": 51.5056439
-        },
-        "location": "London, United Kingdom"
       }
     ],
     "isMultiCategory": true,
