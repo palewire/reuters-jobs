@@ -1,5 +1,75 @@
 [
   {
+    "cityState": "Manila",
+    "country": "Philippines",
+    "ml_skills": [
+      "journalism",
+      "online marketing",
+      "content management",
+      "content strategy",
+      "online marketing writing",
+      "grammar",
+      "english writing",
+      "work independently",
+      "software",
+      "transparency"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Research and write blog content in English that complies with internal best practices, industry standards and corporate policies. Work on multiple projects at a time across a wide range of practice ar...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "121.0520086",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ173314",
+    "jobId": "JREQ173314",
+    "city": "Manila",
+    "latitude": "14.5344436",
+    "locale": "en_US",
+    "multi_location": [
+      "Manila, Philippines"
+    ],
+    "title": "Content Marketer",
+    "jobSeqNo": "THTTRUUSJREQ173314EXTERNALENUS",
+    "postedDate": "2023-12-18T00:00:00.000+0000",
+    "dateCreated": "2023-10-25T00:39:34.284+0000",
+    "cityStateCountry": "Manila, Philippines",
+    "address": "20 Upper McKinley Building, Upper McKinley Road, McKinley Hill, Manila, 1634, Philippines",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/PHL-Taguig-20-Upper-McKinley-Bldg/Content-Marketer_JREQ173314/apply",
+    "location": "Manila, Philippines",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Research and write blog content in English that complies with internal best practices, industry standards and corporate policies. Work on multiple projects at a time across a wide range of practice ar...",
+      "descriptionTeaser_first200": "Content Marketer | Operations Customer Service & Support. Content Marketer. Are you a curious, smart, self-driven writer and content professional who thrives in a fast-paced environment? Do you enjoy...",
+      "descriptionTeaser_keyword": "Content Marketer | Operations Customer Service & Support. Content Marketer. Are you a curious, smart, self-driven writer and content professional who thrives in a fast-paced environment? Do you enjoy...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 121.0520086,
+          "lat": 14.5344436
+        },
+        "location": "Manila, Philippines"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Mexico City",
     "country": "Mexico",
     "ml_skills": [
@@ -954,65 +1024,6 @@
     "badge": ""
   },
   {
-    "cityState": "Mumbai, Maharashtra",
-    "country": "India",
-    "ml_skills": [],
-    "remote": "On-Site",
-    "type": "Full time",
-    "descriptionTeaser": "We help these professionals do their jobs better, creating more time for them to focus on the things that matter most: advising, advocating, negotiating, governing and informing. To prepare Federal, S...",
-    "state": "Maharashtra",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "72.8814089",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ174220",
-    "jobId": "JREQ174220",
-    "city": "Mumbai",
-    "latitude": "19.1114368",
-    "locale": "en_US",
-    "multi_location": [
-      "Mumbai, Maharashtra, India"
-    ],
-    "title": "Process Associate",
-    "jobSeqNo": "THTTRUUSJREQ174220EXTERNALENUS",
-    "postedDate": "2023-12-07T00:00:00.000+0000",
-    "dateCreated": "2023-12-07T08:40:51.051+0000",
-    "cityStateCountry": "Mumbai, Maharashtra, India",
-    "address": "4th Flr, Dhantak Plaza, Makwana Road, Marol, Andheri East, Mumbai- 400059, Maharashtra, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Mumbai-Dhantak-Plaza/Process-Associate_JREQ174220/apply",
-    "location": "Mumbai, Maharashtra, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "We help these professionals do their jobs better, creating more time for them to focus on the things that matter most: advising, advocating, negotiating, governing and informing. To prepare Federal, S...",
-      "descriptionTeaser_first200": "To prepare Federal, State and city returns within timeframe and accuracy To help colleagues if required. Responsibilities. To Prepare Federal, State & City tax returns within timeframe. Rectification...",
-      "descriptionTeaser_keyword": "To prepare Federal, State and city returns within timeframe and accuracy To help colleagues if required. Responsibilities. To Prepare Federal, State & City tax returns within timeframe. Rectification...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 72.8814089,
-          "lat": 19.1114368
-        },
-        "location": "Mumbai, Maharashtra, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Montreal, Quebec",
     "country": "Canada",
     "ml_skills": [
@@ -1150,76 +1161,6 @@
       "descriptionTeaser": "Relies on previous practitioner experience to provide standard tax and accounting know-how resources related to specialist practice areas to support the development and maintenance of tax and accounti...",
       "descriptionTeaser_first200": "Tax Content Analyst. Role Summary. We have an open Tax Content Analyst role on our Product/Tax Editorial team located in any of these Thomson Reuters hub locations \u2013 Carrollton or Eagan. The role of Tax...",
       "descriptionTeaser_keyword": "Tax Content Analyst. Role Summary. We have an open Tax Content Analyst role on our Product/Tax Editorial team located in any of these Thomson Reuters hub locations \u2013 Carrollton or Eagan. The role of T...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -96.8449828,
-          "lat": 32.97533
-        },
-        "location": "Carrollton, Texas, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -93.11336709999999,
-          "lat": 44.8250902
-        },
-        "location": "Eagan, Minnesota, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Carrollton, Texas",
-    "country": "United States of America",
-    "ml_skills": [
-      "editing",
-      "client service"
-    ],
-    "remote": "Remote",
-    "type": "Full time",
-    "descriptionTeaser": "Follow-up and liaises with contributors on deadlines and additional information. Work with other team members, negotiates and manages aspects of Practical Law\u2019s standard contributor copyright terms an...",
-    "state": "Texas",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-96.8449828",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ174425",
-    "jobId": "JREQ174425",
-    "city": "Carrollton",
-    "latitude": "32.97533",
-    "locale": "en_US",
-    "multi_location": [
-      "Carrollton, Texas, United States of America",
-      "Eagan, Minnesota, United States of America"
-    ],
-    "title": "Commissioning Editor",
-    "jobSeqNo": "THTTRUUSJREQ174425EXTERNALENUS",
-    "postedDate": "2023-12-05T00:00:00.000+0000",
-    "dateCreated": "2023-12-04T20:40:08.163+0000",
-    "cityStateCountry": "Carrollton, Texas, United States of America",
-    "address": "2395 Midway Road, Carrollton, TX 75006, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Carrollton-2395-Midway-Rd/Commissioning-Editor_JREQ174425/apply",
-    "location": "Carrollton, Texas, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Follow-up and liaises with contributors on deadlines and additional information. Work with other team members, negotiates and manages aspects of Practical Law\u2019s standard contributor copyright terms an...",
-      "descriptionTeaser_first200": "Commissioning Editor. Role Summary. Practical Law US is looking for a Commissioning Editor to acquire and manage all aspects of the process for externally contributed content from law firms, in-house...",
-      "descriptionTeaser_keyword": "Commissioning Editor. Role Summary. Practical Law US is looking for a Commissioning Editor to acquire and manage all aspects of the process for externally contributed content from law firms, in-house...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
@@ -1513,74 +1454,6 @@
     "badge": ""
   },
   {
-    "cityState": "Warsaw",
-    "country": "Poland",
-    "ml_skills": [
-      "journalism",
-      "news writing",
-      "breaking news",
-      "multimedia",
-      "track",
-      "macroeconomics",
-      "transparency",
-      "polish"
-    ],
-    "remote": "On-Site",
-    "type": "Full time",
-    "descriptionTeaser": "The successful candidate will have a proven record of developing sources at all levels of government and cutting through spin to lead the news agenda. Beyond a strong journalism track record and the ability...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "20.9927571",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ173989",
-    "jobId": "JREQ173989",
-    "city": "Warsaw",
-    "latitude": "52.23272189999999",
-    "locale": "en_US",
-    "multi_location": [
-      "Warsaw, Poland"
-    ],
-    "title": "Poland Political & General News Correspondent",
-    "jobSeqNo": "THTTRUUSJREQ173989EXTERNALENUS",
-    "postedDate": "2023-11-21T00:00:00.000+0000",
-    "dateCreated": "2023-11-21T16:40:34.359+0000",
-    "cityStateCountry": "Warsaw, Poland",
-    "address": "Mennica Legacy West Building, 3rd floor ul. Prosta 20, 00-850 Warsaw, Poland",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Warsaw-Mennica-Legacy/Poland-Political---General-News-Correspondent_JREQ173989/apply",
-    "location": "Warsaw, Poland",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "The successful candidate will have a proven record of developing sources at all levels of government and cutting through spin to lead the news agenda. Beyond a strong journalism track record and the ability...",
-      "descriptionTeaser_first200": "Reuters is looking for an experienced journalist to lead political and general news coverage in Poland. We want a versatile reporter who is comfortable covering breaking news as well as developing insightful...",
-      "descriptionTeaser_keyword": "Reuters is looking for an experienced journalist to lead political and general news coverage in Poland. We want a versatile reporter who is comfortable covering breaking news as well as developing insightful...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 20.9927571,
-          "lat": 52.23272189999999
-        },
-        "location": "Warsaw, Poland"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Hyderabad, Telangana",
     "country": "India",
     "ml_skills": [
@@ -1638,72 +1511,6 @@
           "lat": 17.438325
         },
         "location": "Hyderabad, Telangana, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "New York, New York",
-    "country": "United States of America",
-    "ml_skills": [
-      "journalism",
-      "news photography",
-      "photojournalism",
-      "photography",
-      "basic",
-      "transparency"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "A passionate photojournalism student or working photojournalist with two years or less of experience. An international outlook and ability to work in a team and communicate across departments. How about...",
-    "state": "New York",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-73.9866995",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ173888",
-    "jobId": "JREQ173888",
-    "city": "New York",
-    "latitude": "40.7566955",
-    "locale": "en_US",
-    "multi_location": [
-      "New York, New York, United States of America"
-    ],
-    "title": "Reuters News Internship Programme 2024 \u2013 New York \u2013 Photojournalism Internship",
-    "jobSeqNo": "THTTRUUSJREQ173888EXTERNALENUS",
-    "postedDate": "2023-11-16T00:00:00.000+0000",
-    "dateCreated": "2023-11-16T08:39:40.736+0000",
-    "cityStateCountry": "New York, New York, United States of America",
-    "address": "3 Times Square, New York, NY 10036, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-New-York-3-Times-Square/Reuters-News-Internship-Programme-2023---New-York---Photojournalism-Internship_JREQ173888/apply",
-    "location": "New York, New York, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "A passionate photojournalism student or working photojournalist with two years or less of experience. An international outlook and ability to work in a team and communicate across departments. How about...",
-      "descriptionTeaser_first200": "Learn from our award-winning journalists this summer at the world\u2019s largest multimedia news provider. The Programme. Our Global Internship Programme gives you the chance to fast-track your journalism...",
-      "descriptionTeaser_keyword": "Learn from our award-winning journalists this summer at the world\u2019s largest multimedia news provider. The Programme. Our Global Internship Programme gives you the chance to fast-track your journalism career...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -73.9866995,
-          "lat": 40.7566955
-        },
-        "location": "New York, New York, United States of America"
       }
     ],
     "isMultiCategory": true,
@@ -2150,91 +1957,6 @@
     "badge": ""
   },
   {
-    "cityState": "Manila",
-    "country": "Philippines",
-    "ml_skills": [
-      "online marketing",
-      "marketplace",
-      "content strategy",
-      "content management",
-      "online marketing writing",
-      "cms",
-      "negotiating",
-      "business systems",
-      "thomson reuters",
-      "law firm",
-      "advising",
-      "time tracking",
-      "workflow management",
-      "journalism",
-      "content writing",
-      "linkedin",
-      "smart",
-      "caf",
-      "grammar",
-      "learning & development",
-      "objectivity",
-      "english writing",
-      "great attention to detail",
-      "embraces change",
-      "work independently"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Research and write blog content in English that complies with internal best practices, industry standards and corporate policies. Work on multiple projects at a time across a wide range of practice areas....",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "121.0520086",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ173314",
-    "jobId": "JREQ173314",
-    "city": "Manila",
-    "latitude": "14.5344436",
-    "locale": "en_US",
-    "multi_location": [
-      "Manila, Philippines"
-    ],
-    "title": "Content Marketer",
-    "jobSeqNo": "THTTRUUSJREQ173314EXTERNALENUS",
-    "postedDate": "2023-10-25T00:00:00.000+0000",
-    "dateCreated": "2023-10-25T00:39:34.284+0000",
-    "cityStateCountry": "Manila, Philippines",
-    "address": "20 Upper McKinley Building, Upper McKinley Road, McKinley Hill, Manila, 1634, Philippines",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/PHL-Taguig-20-Upper-McKinley-Bldg/Content-Marketer_JREQ173314/apply",
-    "location": "Manila, Philippines",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Research and write blog content in English that complies with internal best practices, industry standards and corporate policies. Work on multiple projects at a time across a wide range of practice areas....",
-      "descriptionTeaser_first200": "Content Marketer | Operations Customer Service & Support. Content Marketer. Are you a curious, smart, self-driven writer and content professional who thrives in a fast-paced environment? Do you enjoy...",
-      "descriptionTeaser_keyword": "Content Marketer | Operations Customer Service & Support. Content Marketer. Are you a curious, smart, self-driven writer and content professional who thrives in a fast-paced environment? Do you enjoy collaborating...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 121.0520086,
-          "lat": 14.5344436
-        },
-        "location": "Manila, Philippines"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Hong Kong",
     "country": "Hong Kong",
     "ml_skills": [
@@ -2492,76 +2214,6 @@
           "lat": 14.5344436
         },
         "location": "Manila, Philippines"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Gdansk",
-    "country": "Poland",
-    "ml_skills": [
-      "news writing",
-      "news releases",
-      "ukrainian",
-      "language skills",
-      "crafting",
-      "negotiating",
-      "job postings",
-      "advising",
-      "objectivity",
-      "swift"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Work in a small team watching multiple news sources spanning Telegram channels and government news releases to Ukrainian TV stations and newspapers as well as speaking to Reuters\u2019 reporters in the field....",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "18.5752702",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ164911",
-    "jobId": "JREQ164911",
-    "city": "Gdansk",
-    "latitude": "54.4004235",
-    "locale": "en_US",
-    "multi_location": [
-      "Gdansk, Poland"
-    ],
-    "title": "Ukraine Breaking News Correspondent, Reuters",
-    "jobSeqNo": "THTTRUUSJREQ164911EXTERNALENUS",
-    "postedDate": "2023-10-10T00:00:00.000+0000",
-    "dateCreated": "2023-05-22T12:42:04.840+0000",
-    "cityStateCountry": "Gdansk, Poland",
-    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/Ukraine-Breaking-News-Correspondent--Reuters_JREQ164911/apply",
-    "location": "Gdansk, Poland",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Work in a small team watching multiple news sources spanning Telegram channels and government news releases to Ukrainian TV stations and newspapers as well as speaking to Reuters\u2019 reporters in the field....",
-      "descriptionTeaser_ats": "",
-      "descriptionTeaser_keyword": "Reuters is looking for breaking news correspondents to cover Ukraine, delivering fast and excellent coverage of one of the world\u2019s most important stories. This is a role requiring reporters who can spot...",
-      "descriptionTeaser_first200": "Reuters is looking for breaking news correspondents to cover Ukraine, delivering fast and excellent coverage of one of the world\u2019s most important stories. This is a role requiring reporters who can spot..."
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 18.5752702,
-          "lat": 54.4004235
-        },
-        "location": "Gdansk, Poland"
       }
     ],
     "isMultiCategory": true,
