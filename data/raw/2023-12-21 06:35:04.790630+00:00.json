@@ -70,6 +70,84 @@
     "badge": ""
   },
   {
+    "cityState": "Campinas, S\u00e3o Paulo",
+    "country": "Brazil",
+    "ml_skills": [
+      "relational databases",
+      "software",
+      "nosql",
+      "rdbms",
+      "data lake",
+      "sql optimization",
+      "query tuning",
+      "data modeling",
+      "nosql code",
+      "indexing",
+      "performance tuning",
+      "data modeling techniques",
+      "options",
+      "english language",
+      "technical leadership",
+      "transparency",
+      "recruiting",
+      "employer branding"
+    ],
+    "remote": "On-Site",
+    "type": "Full time",
+    "descriptionTeaser": "Performing full life cycle SQL/NoSql code and model development, including researching technical options for features, providing guidance and feedback on the findings and building proof of concepts to...",
+    "state": "S\u00e3o Paulo",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-47.0464052",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ174641",
+    "jobId": "JREQ174641",
+    "city": "Campinas",
+    "latitude": "-22.8960684",
+    "locale": "en_US",
+    "multi_location": [
+      "Campinas, S\u00e3o Paulo, Brazil"
+    ],
+    "title": "Sr. Database Engineer",
+    "jobSeqNo": "THTTRUUSJREQ174641EXTERNALENUS",
+    "postedDate": "2023-12-18T00:00:00.000+0000",
+    "dateCreated": "2023-12-18T20:40:53.997+0000",
+    "cityStateCountry": "Campinas, S\u00e3o Paulo, Brazil",
+    "address": "Rua Orlando Fagnani, 422, Nova Campinas, Campinas- SP, 13092-054, Brazil",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/BRA-Campinas-Rua-Orlando-Fagnani/Sr-Database-Engineer_JREQ174641/apply",
+    "location": "Campinas, S\u00e3o Paulo, Brazil",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Performing full life cycle SQL/NoSql code and model development, including researching technical options for features, providing guidance and feedback on the findings and building proof of concepts to...",
+      "descriptionTeaser_first200": "About the Job. Responsible for tuning complex SQL queries, procedures and indexing strategies for better performance. Identify missing indexes on the databases and implement it for better performance....",
+      "descriptionTeaser_keyword": "About the Job. Responsible for tuning complex SQL queries, procedures and indexing strategies for better performance. Identify missing indexes on the databases and implement it for better performance....",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -47.0464052,
+          "lat": -22.8960684
+        },
+        "location": "Campinas, S\u00e3o Paulo, Brazil"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Mexico City",
     "country": "Mexico",
     "ml_skills": [
@@ -412,98 +490,6 @@
     "badge": ""
   },
   {
-    "cityState": "New York, New York",
-    "country": "United States of America",
-    "ml_skills": [
-      "corporate tax",
-      "recruiting",
-      "microsoft excel",
-      "online research",
-      "employer branding",
-      "detail-oriented",
-      "westlaw",
-      "customer support"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Superior written and verbal communication skills, including ability to write white papers on tax and/or technical subjects. Our industry-leading products and services include highly specialized inform...",
-    "state": "New York",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-73.9866995",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ173970",
-    "jobId": "JREQ173970",
-    "city": "New York",
-    "latitude": "40.7566955",
-    "locale": "en_US",
-    "multi_location": [
-      "New York, New York, United States of America",
-      "Ann Arbor, Michigan, United States of America",
-      "Eagan, Minnesota, United States of America",
-      "Washington, District of Columbia, United States of America"
-    ],
-    "title": "Tax/Legal Analyst, Indirect Tax",
-    "jobSeqNo": "THTTRUUSJREQ173970EXTERNALENUS",
-    "postedDate": "2023-12-12T00:00:00.000+0000",
-    "dateCreated": "2023-11-15T20:39:22.301+0000",
-    "cityStateCountry": "New York, New York, United States of America",
-    "address": "3 Times Square, New York, NY 10036, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-New-York-3-Times-Square/Tax-Legal-Analyst--Indirect-Tax_JREQ173970/apply",
-    "location": "New York, New York, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Superior written and verbal communication skills, including ability to write white papers on tax and/or technical subjects. Our industry-leading products and services include highly specialized inform...",
-      "descriptionTeaser_first200": "The Tax/Legal Analyst is responsible for research, configuration, ongoing maintenance and testing to ensure that ONESOURCE\u2122 applications and offerings comply with tax laws in U.S. jurisdictions. The Tax/Legal...",
-      "descriptionTeaser_keyword": "The Tax/Legal Analyst is responsible for research, configuration, ongoing maintenance and testing to ensure that ONESOURCE\u2122 applications and offerings comply with tax laws in U. S. jurisdictions. The...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -73.9866995,
-          "lat": 40.7566955
-        },
-        "location": "New York, New York, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -83.7267835,
-          "lat": 42.1957259
-        },
-        "location": "Ann Arbor, Michigan, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -93.11336709999999,
-          "lat": 44.8250902
-        },
-        "location": "Eagan, Minnesota, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -77.0311952,
-          "lat": 38.9004793
-        },
-        "location": "Washington, District of Columbia, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Beijing, Beijing",
     "country": "China",
     "ml_skills": [
@@ -823,69 +809,6 @@
           "lat": 51.5056439
         },
         "location": "London, United Kingdom"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Gdansk",
-    "country": "Poland",
-    "ml_skills": [
-      "press releases",
-      "french",
-      "dutch"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Reuters is seeking a graduate who can speak fluent English and French to join its real-time news operation in Gdansk, Poland. Translate market reports, general, political, economic and company news st...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "18.5752702",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ173335",
-    "jobId": "JREQ173335",
-    "city": "Gdansk",
-    "latitude": "54.4004235",
-    "locale": "en_US",
-    "multi_location": [
-      "Gdansk, Poland"
-    ],
-    "title": "Graduate News Reporter, Reuters (French Speaking)",
-    "jobSeqNo": "THTTRUUSJREQ173335EXTERNALENUS",
-    "postedDate": "2023-12-08T00:00:00.000+0000",
-    "dateCreated": "2023-12-08T12:39:55.051+0000",
-    "cityStateCountry": "Gdansk, Poland",
-    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/Graduate-News-Reporter--Reuters--French-Speaking-_JREQ173335/apply",
-    "location": "Gdansk, Poland",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Reuters is seeking a graduate who can speak fluent English and French to join its real-time news operation in Gdansk, Poland. Translate market reports, general, political, economic and company news st...",
-      "descriptionTeaser_first200": "Reuters is seeking a graduate who can speak fluent English and French to join its real-time news operation in Gdansk, Poland. The reporters will work in fast paced, international environment to produce...",
-      "descriptionTeaser_keyword": "Reuters is seeking a graduate who can speak fluent English and French to join its real-time news operation in Gdansk, Poland. The reporters will work in fast paced, international environment to produc...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 18.5752702,
-          "lat": 54.4004235
-        },
-        "location": "Gdansk, Poland"
       }
     ],
     "isMultiCategory": true,
@@ -1319,67 +1242,6 @@
     "badge": ""
   },
   {
-    "cityState": "Chicago, Illinois",
-    "country": "United States of America",
-    "ml_skills": [
-      "graphics"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Agriculture Reporter (Level 1 Journalist), Reuters. Work together with large global teams to break news and undertake reporting projects. You're a fit for the role of Agriculture Reporter at Reuters if...",
-    "state": "Illinois",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-87.63723",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ174228",
-    "jobId": "JREQ174228",
-    "city": "Chicago",
-    "latitude": "41.87891930000001",
-    "locale": "en_US",
-    "multi_location": [
-      "Chicago, Illinois, United States of America"
-    ],
-    "title": "Agriculture Reporter (Level 1 Journalist), Reuters",
-    "jobSeqNo": "THTTRUUSJREQ174228EXTERNALENUS",
-    "postedDate": "2023-11-30T00:00:00.000+0000",
-    "dateCreated": "2023-11-29T12:43:18.616+0000",
-    "cityStateCountry": "Chicago, Illinois, United States of America",
-    "address": "200 South Wacker Drive, 31st Floor, Chicago, IL 60606, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Chicago-200-South-Wacker-Dr/Agriculture-Reporter--Level-1-Journalist---Reuters_JREQ174228/apply",
-    "location": "Chicago, Illinois, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Agriculture Reporter (Level 1 Journalist), Reuters. Work together with large global teams to break news and undertake reporting projects. You're a fit for the role of Agriculture Reporter at Reuters if...",
-      "descriptionTeaser_first200": "Agriculture Reporter (Level 1 Journalist), Reuters. This hybrid role is based in Chicago. Reuters seeks a dedicated reporter to join its Chicago-based agriculture team. With the Ukraine war upending global...",
-      "descriptionTeaser_keyword": "Agriculture Reporter (Level 1 Journalist), Reuters. This hybrid role is based in Chicago. Reuters seeks a dedicated reporter to join its Chicago-based agriculture team. With the Ukraine war upending global...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -87.63723,
-          "lat": 41.87891930000001
-        },
-        "location": "Chicago, Illinois, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Tokyo",
     "country": "Japan",
     "ml_skills": [
@@ -1645,77 +1507,6 @@
           "lat": -33.8664432
         },
         "location": "Pyrmont, New South Wales, Australia"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Manila",
-    "country": "Philippines",
-    "ml_skills": [
-      "editing",
-      "software",
-      "metadata",
-      "rulebooks",
-      "education",
-      "literacy",
-      "line",
-      "transparency",
-      "computer literacy",
-      "banking",
-      "leadership development"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "The Content Editors have responsibility for daily updates and maintenance of relevant material in the products' databases. Understands Thomson Reuters publications and products related to editor\u2019s specific...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "121.0520086",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ173307",
-    "jobId": "JREQ173307",
-    "city": "Manila",
-    "latitude": "14.5344436",
-    "locale": "en_US",
-    "multi_location": [
-      "Manila, Philippines"
-    ],
-    "title": "Content Editor 1",
-    "jobSeqNo": "THTTRUUSJREQ173307EXTERNALENUS",
-    "postedDate": "2023-11-08T00:00:00.000+0000",
-    "dateCreated": "2023-10-25T16:40:06.308+0000",
-    "cityStateCountry": "Manila, Philippines",
-    "address": "20 Upper McKinley Building, Upper McKinley Road, McKinley Hill, Manila, 1634, Philippines",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/PHL-Taguig-20-Upper-McKinley-Bldg/Content-Editor-1_JREQ173307/apply",
-    "location": "Manila, Philippines",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "The Content Editors have responsibility for daily updates and maintenance of relevant material in the products' databases. Understands Thomson Reuters publications and products related to editor\u2019s specific...",
-      "descriptionTeaser_first200": "Content Editor I, Product Research. The Content Editors have responsibility for daily updates and maintenance of relevant material in the products' databases. This position will be based in Manila, utilizing...",
-      "descriptionTeaser_keyword": "Content Editor I, Product Research. The Content Editors have responsibility for daily updates and maintenance of relevant material in the products' databases. This position will be based in Manila, utilizing...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 121.0520086,
-          "lat": 14.5344436
-        },
-        "location": "Manila, Philippines"
       }
     ],
     "isMultiCategory": true,
@@ -2519,111 +2310,6 @@
     "cityState": "Carrollton, Texas",
     "country": "United States of America",
     "ml_skills": [
-      "negotiating",
-      "tax calculation",
-      "indirect tax",
-      "linkedin",
-      "public accounting",
-      "accounting",
-      "cpa",
-      "customer support",
-      "publications",
-      "online research",
-      "advising",
-      "microsoft excel",
-      "detail-oriented",
-      "checkpoint",
-      "westlaw",
-      "job postings",
-      "marketplace",
-      "objectivity",
-      "thomson reuters",
-      "learning & development",
-      "caf"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Superior written and verbal communication skills, including ability to write white papers on tax and/or geography technical subjects. Our industry-leading products and services include highly specialized...",
-    "state": "Texas",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-96.8449828",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ168823",
-    "jobId": "JREQ168823",
-    "city": "Carrollton",
-    "latitude": "32.97533",
-    "locale": "en_US",
-    "multi_location": [
-      "Carrollton, Texas, United States of America",
-      "Ann Arbor, Michigan, United States of America",
-      "Eagan, Minnesota, United States of America",
-      "New York, New York, United States of America"
-    ],
-    "title": "Tax/Legal Analyst, Indirect Tax",
-    "jobSeqNo": "THTTRUUSJREQ168823EXTERNALENUS",
-    "postedDate": "2023-09-14T00:00:00.000+0000",
-    "dateCreated": "2023-05-25T00:41:39.099+0000",
-    "cityStateCountry": "Carrollton, Texas, United States of America",
-    "address": "2395 Midway Road, Carrollton, TX 75006, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Carrollton-2395-Midway-Rd/Tax-Legal-Analyst--Indirect-Tax_JREQ168823/apply",
-    "location": "Carrollton, Texas, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Superior written and verbal communication skills, including ability to write white papers on tax and/or geography technical subjects. Our industry-leading products and services include highly specialized...",
-      "descriptionTeaser_first200": "The Tax/Legal Analyst is responsible for research, configuration, ongoing maintenance and testing to ensure that ONESOURCE\u2122 applications and offerings comply with tax rules and laws. About the Role. In...",
-      "descriptionTeaser_keyword": "The Tax/Legal Analyst is responsible for research, configuration, ongoing maintenance and testing to ensure that ONESOURCE\u2122 applications and offerings comply with tax rules and laws. About the Role. In...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -96.8449828,
-          "lat": 32.97533
-        },
-        "location": "Carrollton, Texas, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -83.7267835,
-          "lat": 42.1957259
-        },
-        "location": "Ann Arbor, Michigan, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -93.11336709999999,
-          "lat": 44.8250902
-        },
-        "location": "Eagan, Minnesota, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -73.9866995,
-          "lat": 40.7566955
-        },
-        "location": "New York, New York, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Carrollton, Texas",
-    "country": "United States of America",
-    "ml_skills": [
       "tax research",
       "cpa",
       "indirect tax",
@@ -2853,86 +2539,6 @@
           "lat": 55.7618924
         },
         "location": "Moscow, Russian Federation"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Gdansk",
-    "country": "Poland",
-    "ml_skills": [
-      "Video Editing",
-      "Visual Storytelling",
-      "Production",
-      "Video Journalism",
-      "Graphics",
-      "Script Writing",
-      "German",
-      "Platforms",
-      "Gender Identity",
-      "Organizational Skills",
-      "Operations",
-      "Planning",
-      "Job Postings",
-      "Objectivity",
-      "Negotiating",
-      "Unbiased",
-      "Intellectual Property",
-      "Science",
-      "Advising",
-      "Financial"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "You will work closely with our global video teams in the UK, and Germany, delivering unbiased, real- time news coverage to more than 1,000 broadcasters and hundreds of digital outlets around the world....",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "18.5752702",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ165508",
-    "jobId": "JREQ165508",
-    "city": "Gdansk",
-    "latitude": "54.4004235",
-    "locale": "en_US",
-    "multi_location": [
-      "Gdansk, Poland"
-    ],
-    "title": "Video Producer (German speaker)",
-    "jobSeqNo": "THTTRUUSJREQ165508EXTERNALENUS",
-    "postedDate": "2023-03-20T00:00:00.000+0000",
-    "dateCreated": "2023-03-09T12:42:32.505+0000",
-    "cityStateCountry": "Gdansk, Poland",
-    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/Video-Producer--German-speaker-_JREQ165508/apply",
-    "location": "Gdansk, Poland",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "You will work closely with our global video teams in the UK, and Germany, delivering unbiased, real- time news coverage to more than 1,000 broadcasters and hundreds of digital outlets around the world....",
-      "descriptionTeaser_first200": "Reuters is looking for an enthusiastic graduate with experience in video journalism (or a related University degree) and strong written and spoken German and English to join our newsroom in Gdansk, Poland....",
-      "descriptionTeaser_keyword": "Reuters is looking for an enthusiastic graduate with experience in video journalism (or a related University degree) and strong written and spoken German and English to join our newsroom in Gdansk, Poland....",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 18.5752702,
-          "lat": 54.4004235
-        },
-        "location": "Gdansk, Poland"
       }
     ],
     "isMultiCategory": true,
