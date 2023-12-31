@@ -1,5 +1,145 @@
 [
   {
+    "cityState": "Eagan, Minnesota",
+    "country": "United States of America",
+    "ml_skills": [
+      "technical support",
+      "leadership development",
+      "resource allocation",
+      "publishing",
+      "product management",
+      "schedules",
+      "transparency",
+      "product lines",
+      "microsoft office",
+      "production schedules",
+      "fashion",
+      "editorial standards",
+      "microsoft office applications word"
+    ],
+    "remote": "Remote",
+    "type": "Full time",
+    "descriptionTeaser": "Works effectively with external contacts, including virtual and off-site teams/vendors or sourcing partners; coordinates and monitors the work of the global production teams, as well as content provid...",
+    "state": "Minnesota",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-93.11336709999999",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ175008",
+    "jobId": "JREQ175008",
+    "city": "Eagan",
+    "latitude": "44.8250902",
+    "locale": "en_US",
+    "multi_location": [
+      "Eagan, Minnesota, United States of America"
+    ],
+    "title": "Senior Developer",
+    "jobSeqNo": "THTTRUUSJREQ175008EXTERNALENUS",
+    "postedDate": "2023-12-29T00:00:00.000+0000",
+    "dateCreated": "2023-12-29T16:40:16.063+0000",
+    "cityStateCountry": "Eagan, Minnesota, United States of America",
+    "address": "610 Opperman Dr, Eagan, MN 55123, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Eagan-610-Opperman-Dr/Senior-Developer_JREQ175008-1/apply",
+    "location": "Eagan, Minnesota, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Works effectively with external contacts, including virtual and off-site teams/vendors or sourcing partners; coordinates and monitors the work of the global production teams, as well as content provid...",
+      "descriptionTeaser_first200": "As a Senior Developer, you will create and maintain automated document assembly content for attorneys to use in their law practice through both the Form Builder and Contract Express applications. About...",
+      "descriptionTeaser_keyword": "As a Senior Developer, you will create and maintain automated document assembly content for attorneys to use in their law practice through both the Form Builder and Contract Express applications. Abou...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -93.11336709999999,
+          "lat": 44.8250902
+        },
+        "location": "Eagan, Minnesota, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Gdansk",
+    "country": "Poland",
+    "ml_skills": [
+      "multimedia",
+      "german",
+      "short stories",
+      "freedom",
+      "austrian",
+      "transparency",
+      "financial software"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Reuters is seeking a graduate who can speak fluent English and German to join its real-time news operation in Gdansk, Poland. Write headlines and news summaries accurately, quickly and with high stand...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "18.5752702",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ173330",
+    "jobId": "JREQ173330",
+    "city": "Gdansk",
+    "latitude": "54.4004235",
+    "locale": "en_US",
+    "multi_location": [
+      "Gdansk, Poland"
+    ],
+    "title": "News Reporter, Reuters (German Speaking)",
+    "jobSeqNo": "THTTRUUSJREQ173330EXTERNALENUS",
+    "postedDate": "2023-12-29T00:00:00.000+0000",
+    "dateCreated": "2023-12-29T12:39:22.788+0000",
+    "cityStateCountry": "Gdansk, Poland",
+    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/News-Reporter--Reuters--German-Speaking-_JREQ173330/apply",
+    "location": "Gdansk, Poland",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Reuters is seeking a graduate who can speak fluent English and German to join its real-time news operation in Gdansk, Poland. Write headlines and news summaries accurately, quickly and with high stand...",
+      "descriptionTeaser_first200": "Reuters is seeking a graduate who can speak fluent English and German to join its real-time news operation in Gdansk, Poland. The reporter will work in fast-paced, international environment and get to...",
+      "descriptionTeaser_keyword": "Reuters is seeking a graduate who can speak fluent English and German to join its real-time news operation in Gdansk, Poland. The reporter will work in fast-paced, international environment and get to...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 18.5752702,
+          "lat": 54.4004235
+        },
+        "location": "Gdansk, Poland"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "S\u00e3o Paulo, S\u00e3o Paulo",
     "country": "Brazil",
     "ml_skills": [
