@@ -1,5 +1,78 @@
 [
   {
+    "cityState": "Eagan, Minnesota",
+    "country": "United States of America",
+    "ml_skills": [
+      "technical support",
+      "leadership development",
+      "resource allocation",
+      "publishing",
+      "product management",
+      "schedules",
+      "transparency",
+      "product lines",
+      "microsoft office",
+      "production schedules",
+      "fashion",
+      "editorial standards",
+      "microsoft office applications word"
+    ],
+    "remote": "Remote",
+    "type": "Full time",
+    "descriptionTeaser": "Works effectively with external contacts, including virtual and off-site teams/vendors or sourcing partners; coordinates and monitors the work of the global production teams, as well as content provid...",
+    "state": "Minnesota",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-93.11336709999999",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ175008",
+    "jobId": "JREQ175008",
+    "city": "Eagan",
+    "latitude": "44.8250902",
+    "locale": "en_US",
+    "multi_location": [
+      "Eagan, Minnesota, United States of America"
+    ],
+    "title": "Senior Developer",
+    "jobSeqNo": "THTTRUUSJREQ175008EXTERNALENUS",
+    "postedDate": "2023-12-29T00:00:00.000+0000",
+    "dateCreated": "2023-12-29T16:40:16.063+0000",
+    "cityStateCountry": "Eagan, Minnesota, United States of America",
+    "address": "610 Opperman Dr, Eagan, MN 55123, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Eagan-610-Opperman-Dr/Senior-Developer_JREQ175008-1/apply",
+    "location": "Eagan, Minnesota, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Works effectively with external contacts, including virtual and off-site teams/vendors or sourcing partners; coordinates and monitors the work of the global production teams, as well as content provid...",
+      "descriptionTeaser_first200": "As a Senior Developer, you will create and maintain automated document assembly content for attorneys to use in their law practice through both the Form Builder and Contract Express applications. About...",
+      "descriptionTeaser_keyword": "As a Senior Developer, you will create and maintain automated document assembly content for attorneys to use in their law practice through both the Form Builder and Contract Express applications. Abou...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -93.11336709999999,
+          "lat": 44.8250902
+        },
+        "location": "Eagan, Minnesota, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Gdansk",
     "country": "Poland",
     "ml_skills": [
@@ -872,71 +945,6 @@
           "lat": 19.4343664
         },
         "location": "Mexico City, Mexico"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "London",
-    "country": "United Kingdom",
-    "ml_skills": [
-      "editing",
-      "drawing",
-      "global perspective",
-      "track",
-      "transparency"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "As Editor, Reuters Commentary, you will have a proven track record of commissioning and editing analysis and commentary for a financial audience, with a particular focus on drawing out clear arguments...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-0.0185088",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ172978",
-    "jobId": "JREQ172978",
-    "city": "London",
-    "latitude": "51.5056439",
-    "locale": "en_US",
-    "multi_location": [
-      "London, United Kingdom"
-    ],
-    "title": "Editor, Reuters Commentary",
-    "jobSeqNo": "THTTRUUSJREQ172978EXTERNALENUS",
-    "postedDate": "2023-12-15T00:00:00.000+0000",
-    "dateCreated": "2023-10-12T16:43:01.897+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Editor--Reuters-Commentary_JREQ172978/apply",
-    "location": "London, United Kingdom",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "As Editor, Reuters Commentary, you will have a proven track record of commissioning and editing analysis and commentary for a financial audience, with a particular focus on drawing out clear arguments...",
-      "descriptionTeaser_first200": "Editor, Reuters Commentary . Reuters is seeking an experienced, imaginative and highly motivated editor to lead and expand its commentary on financial markets, commodities markets, economics, and other...",
-      "descriptionTeaser_keyword": "Editor, Reuters Commentary. Reuters is seeking an experienced, imaginative and highly motivated editor to lead and expand its commentary on financial markets, commodities markets, economics, and other...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -0.0185088,
-          "lat": 51.5056439
-        },
-        "location": "London, United Kingdom"
       }
     ],
     "isMultiCategory": true,
