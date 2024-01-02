@@ -1,5 +1,57 @@
 [
   {
+    "cityState": "Bengaluru, Karnataka",
+    "country": "India",
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Do you love to solve problems and find better ways of getting things done?\u00a0 Do you love asking \u2018why\u2019 about pretty much everything? And does it make you happy when things are perfectly aligned and stan",
+    "state": "Karnataka",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "77.7120655",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ174920",
+    "jobId": "JREQ174920",
+    "city": "Bengaluru",
+    "latitude": "12.9743998",
+    "locale": "en_US",
+    "multi_location": [
+      "Bengaluru, Karnataka, India"
+    ],
+    "title": "Copy Writer",
+    "jobSeqNo": "THTTRUUSJREQ174920EXTERNALENUS",
+    "postedDate": "2024-01-02T00:00:00.000+0000",
+    "dateCreated": "2024-01-02T08:39:41.488+0000",
+    "cityStateCountry": "Bengaluru, Karnataka, India",
+    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/Copy-Writer_JREQ174920/apply",
+    "location": "Bengaluru, Karnataka, India",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 77.7120655,
+          "lat": 12.9743998
+        },
+        "location": "Bengaluru, Karnataka, India"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Eagan, Minnesota",
     "country": "United States of America",
     "ml_skills": [
@@ -956,71 +1008,6 @@
     "badge": ""
   },
   {
-    "cityState": "London",
-    "country": "United Kingdom",
-    "ml_skills": [
-      "editing",
-      "drawing",
-      "global perspective",
-      "track",
-      "transparency"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "As Editor, Reuters Commentary, you will have a proven track record of commissioning and editing analysis and commentary for a financial audience, with a particular focus on drawing out clear arguments...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-0.0185088",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ172978",
-    "jobId": "JREQ172978",
-    "city": "London",
-    "latitude": "51.5056439",
-    "locale": "en_US",
-    "multi_location": [
-      "London, United Kingdom"
-    ],
-    "title": "Editor, Reuters Commentary",
-    "jobSeqNo": "THTTRUUSJREQ172978EXTERNALENUS",
-    "postedDate": "2023-12-15T00:00:00.000+0000",
-    "dateCreated": "2023-10-12T16:43:01.897+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Editor--Reuters-Commentary_JREQ172978/apply",
-    "location": "London, United Kingdom",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "As Editor, Reuters Commentary, you will have a proven track record of commissioning and editing analysis and commentary for a financial audience, with a particular focus on drawing out clear arguments...",
-      "descriptionTeaser_first200": "Editor, Reuters Commentary . Reuters is seeking an experienced, imaginative and highly motivated editor to lead and expand its commentary on financial markets, commodities markets, economics, and other...",
-      "descriptionTeaser_keyword": "Editor, Reuters Commentary. Reuters is seeking an experienced, imaginative and highly motivated editor to lead and expand its commentary on financial markets, commodities markets, economics, and other...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -0.0185088,
-          "lat": 51.5056439
-        },
-        "location": "London, United Kingdom"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Dubai",
     "country": "United Arab Emirates",
     "ml_skills": [
@@ -1278,75 +1265,6 @@
           "lat": 19.4343664
         },
         "location": "Mexico City, Mexico"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Frankfurt",
-    "country": "Germany",
-    "ml_skills": [
-      "editing"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Reuters are looking for an enthusiastic and news-hungry journalist with excellent organizational skills and a strong commitment to speed to join the leadership team of the Breaking News Hub for German...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "8.6528873",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ174561",
-    "jobId": "JREQ174561",
-    "city": "Frankfurt",
-    "latitude": "50.1125015",
-    "locale": "en_US",
-    "multi_location": [
-      "Frankfurt, Germany",
-      "Berlin, Germany"
-    ],
-    "title": "Breaking News Editor, Germany, Austria & Switzerland",
-    "jobSeqNo": "THTTRUUSJREQ174561EXTERNALENUS",
-    "postedDate": "2023-12-11T00:00:00.000+0000",
-    "dateCreated": "2023-12-08T20:39:45.129+0000",
-    "cityStateCountry": "Frankfurt, Germany",
-    "address": "Messeturm Friedrich-Ebert-Anlage 49, 60327 Frankfurt, Germany",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/DEU-Frankfurt-Messeturm-Friedr/Breaking-News-Editor--Germany--Austria---Switzerland_JREQ174561/apply",
-    "location": "Frankfurt, Germany",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Reuters are looking for an enthusiastic and news-hungry journalist with excellent organizational skills and a strong commitment to speed to join the leadership team of the Breaking News Hub for German...",
-      "descriptionTeaser_first200": "Breaking News Editor, Germany, Austria, Switzerland - Reuters. This position will be based in either Berlin or Frankfurt, Germany. Reuters are looking for an enthusiastic and news-hungry journalist with...",
-      "descriptionTeaser_keyword": "Breaking News Editor, Germany, Austria, Switzerland - Reuters. This position will be based in either Berlin or Frankfurt, Germany. Reuters are looking for an enthusiastic and news-hungry journalist wi...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 8.6528873,
-          "lat": 50.1125015
-        },
-        "location": "Frankfurt, Germany"
-      },
-      {
-        "latlong": {
-          "lon": 13.3754362,
-          "lat": 52.5111897
-        },
-        "location": "Berlin, Germany"
       }
     ],
     "isMultiCategory": true,
@@ -2260,75 +2178,6 @@
           "lat": 40.7566955
         },
         "location": "New York, New York, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Gdansk",
-    "country": "Poland",
-    "ml_skills": [
-      "news releases",
-      "german",
-      "translation",
-      "job postings",
-      "negotiating",
-      "advising",
-      "austrian",
-      "objectivity",
-      "high standards"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Reuters is seeking a graduate who can speak fluent English and German to join its real-time news operation in Gdansk, Poland. Our industry-leading products and services include highly specialized information-enabled...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "18.5752702",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ172896",
-    "jobId": "JREQ172896",
-    "city": "Gdansk",
-    "latitude": "54.4004235",
-    "locale": "en_US",
-    "multi_location": [
-      "Gdansk, Poland"
-    ],
-    "title": "Graduate News Reporter with German, Reuters",
-    "jobSeqNo": "THTTRUUSJREQ172896EXTERNALENUS",
-    "postedDate": "2023-10-04T00:00:00.000+0000",
-    "dateCreated": "2023-10-04T12:40:55.444+0000",
-    "cityStateCountry": "Gdansk, Poland",
-    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/Graduate-News-Reporter-with-German--Reuters_JREQ172896/apply",
-    "location": "Gdansk, Poland",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Reuters is seeking a graduate who can speak fluent English and German to join its real-time news operation in Gdansk, Poland. Our industry-leading products and services include highly specialized information-enabled...",
-      "descriptionTeaser_first200": "Reuters is seeking a graduate who can speak fluent English and German to join its real-time news operation in Gdansk, Poland. The reporter will work in fast-paced, international environment and get to...",
-      "descriptionTeaser_keyword": "Reuters is seeking a graduate who can speak fluent English and German to join its real-time news operation in Gdansk, Poland. The reporter will work in fast-paced, international environment and get to...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 18.5752702,
-          "lat": 54.4004235
-        },
-        "location": "Gdansk, Poland"
       }
     ],
     "isMultiCategory": true,
