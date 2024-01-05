@@ -469,6 +469,73 @@
     "badge": ""
   },
   {
+    "cityState": "Toronto, Ontario",
+    "country": "Canada",
+    "ml_skills": [
+      "video production",
+      "video editing",
+      "motion graphics",
+      "editing",
+      "multimedia",
+      "visual storytelling",
+      "transparency"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Reuters is looking for a Digital Producer with excellent editing skills and experience creating video content for online and social platforms. As a Digital Producer in our Packaged Video team, you'll...",
+    "state": "Ontario",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-79.3884094",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ175017",
+    "jobId": "JREQ175017",
+    "city": "Toronto",
+    "latitude": "43.6480117",
+    "locale": "en_US",
+    "multi_location": [
+      "Toronto, Ontario, Canada"
+    ],
+    "title": "Digital Producer (Level 1 Journalist - Temp)",
+    "jobSeqNo": "THTTRUUSJREQ175017EXTERNALENUS",
+    "postedDate": "2024-01-03T00:00:00.000+0000",
+    "dateCreated": "2024-01-03T12:39:14.113+0000",
+    "cityStateCountry": "Toronto, Ontario, Canada",
+    "address": "19 Duncan Street, Toronto, ON M5H 3G6, Canada",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CAN-Toronto-19-Duncan-Street/Digital-Producer--Level-1-Journalist---Temp-_JREQ175017/apply",
+    "location": "Toronto, Ontario, Canada",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Reuters is looking for a Digital Producer with excellent editing skills and experience creating video content for online and social platforms. As a Digital Producer in our Packaged Video team, you'll...",
+      "descriptionTeaser_first200": "Digital Producer, Reuters Packaged Video (Level 1 Temp). This TEMPORARY position is based in Toronto, Ontario. Do you want to be part of a team creating hundreds of videos a week ranging from simple soundbites,...",
+      "descriptionTeaser_keyword": "Digital Producer, Reuters Packaged Video (Level 1 Temp). This TEMPORARY position is based in Toronto, Ontario. Do you want to be part of a team creating hundreds of videos a week ranging from simple s...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -79.3884094,
+          "lat": 43.6480117
+        },
+        "location": "Toronto, Ontario, Canada"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Bengaluru, Karnataka",
     "country": "India",
     "ml_skills": [
@@ -530,73 +597,6 @@
           "lat": 12.9743998
         },
         "location": "Bengaluru, Karnataka, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Toronto, Ontario",
-    "country": "Canada",
-    "ml_skills": [
-      "video production",
-      "video editing",
-      "motion graphics",
-      "editing",
-      "multimedia",
-      "visual storytelling",
-      "transparency"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Reuters is looking for a Digital Producer with excellent editing skills and experience creating video content for online and social platforms. As a Digital Producer in our Packaged Video team, you'll...",
-    "state": "Ontario",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-79.3884094",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ175017",
-    "jobId": "JREQ175017",
-    "city": "Toronto",
-    "latitude": "43.6480117",
-    "locale": "en_US",
-    "multi_location": [
-      "Toronto, Ontario, Canada"
-    ],
-    "title": "Digital Producer (Level 1 Journalist - Temp)",
-    "jobSeqNo": "THTTRUUSJREQ175017EXTERNALENUS",
-    "postedDate": "2024-01-03T00:00:00.000+0000",
-    "dateCreated": "2024-01-03T12:39:14.113+0000",
-    "cityStateCountry": "Toronto, Ontario, Canada",
-    "address": "19 Duncan Street, Toronto, ON M5H 3G6, Canada",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CAN-Toronto-19-Duncan-Street/Digital-Producer--Level-1-Journalist---Temp-_JREQ175017/apply",
-    "location": "Toronto, Ontario, Canada",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Reuters is looking for a Digital Producer with excellent editing skills and experience creating video content for online and social platforms. As a Digital Producer in our Packaged Video team, you'll...",
-      "descriptionTeaser_first200": "Digital Producer, Reuters Packaged Video (Level 1 Temp). This TEMPORARY position is based in Toronto, Ontario. Do you want to be part of a team creating hundreds of videos a week ranging from simple soundbites,...",
-      "descriptionTeaser_keyword": "Digital Producer, Reuters Packaged Video (Level 1 Temp). This TEMPORARY position is based in Toronto, Ontario. Do you want to be part of a team creating hundreds of videos a week ranging from simple s...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -79.3884094,
-          "lat": 43.6480117
-        },
-        "location": "Toronto, Ontario, Canada"
       }
     ],
     "isMultiCategory": true,
