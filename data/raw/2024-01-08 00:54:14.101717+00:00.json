@@ -229,75 +229,6 @@
     "badge": ""
   },
   {
-    "cityState": "",
-    "country": "Korea, Republic of",
-    "ml_skills": [
-      "korean",
-      "editing",
-      "journalism",
-      "breaking news",
-      "multimedia",
-      "graphics",
-      "transparency",
-      "history",
-      "track"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "The successful candidate will lead agenda-setting coverage of Korea; set coverage priorities and provide direction to reporters; produce in-depth and distinguished journalism; and oversee breaking new...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "127.766922",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ174535",
-    "jobId": "JREQ174535",
-    "city": "",
-    "latitude": "35.907757",
-    "locale": "en_US",
-    "multi_location": [
-      "Korea, Republic of"
-    ],
-    "title": "Korea Bureau Chief",
-    "jobSeqNo": "THTTRUUSJREQ174535EXTERNALENUS",
-    "postedDate": "2024-01-04T00:00:00.000+0000",
-    "dateCreated": "2024-01-04T08:39:57.440+0000",
-    "cityStateCountry": "Korea, Republic of",
-    "address": "03185, Korea, Republic of",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/KOR-Seoul-10th-Floor-S-Tower/Korea-Bureau-Chief_JREQ174535/apply",
-    "location": "Korea, Republic of",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "The successful candidate will lead agenda-setting coverage of Korea; set coverage priorities and provide direction to reporters; produce in-depth and distinguished journalism; and oversee breaking new...",
-      "descriptionTeaser_first200": "Reuters is seeking an outstanding and enterprising newsroom leader to drive our coverage of North and South Korea, at a time of escalating security and economic challenges. The successful candidate will...",
-      "descriptionTeaser_keyword": "Reuters is seeking an outstanding and enterprising newsroom leader to drive our coverage of North and South Korea, at a time of escalating security and economic challenges. The successful candidate wi...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 127.766922,
-          "lat": 35.907757
-        },
-        "location": "Korea, Republic of"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "London",
     "country": "United Kingdom",
     "ml_skills": [
@@ -362,6 +293,75 @@
           "lat": 40.7566955
         },
         "location": "New York, New York, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "",
+    "country": "Korea, Republic of",
+    "ml_skills": [
+      "korean",
+      "editing",
+      "journalism",
+      "breaking news",
+      "multimedia",
+      "graphics",
+      "transparency",
+      "history",
+      "track"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "The successful candidate will lead agenda-setting coverage of Korea; set coverage priorities and provide direction to reporters; produce in-depth and distinguished journalism; and oversee breaking new...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "127.766922",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ174535",
+    "jobId": "JREQ174535",
+    "city": "",
+    "latitude": "35.907757",
+    "locale": "en_US",
+    "multi_location": [
+      "Korea, Republic of"
+    ],
+    "title": "Korea Bureau Chief",
+    "jobSeqNo": "THTTRUUSJREQ174535EXTERNALENUS",
+    "postedDate": "2024-01-04T00:00:00.000+0000",
+    "dateCreated": "2024-01-04T08:39:57.440+0000",
+    "cityStateCountry": "Korea, Republic of",
+    "address": "03185, Korea, Republic of",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/KOR-Seoul-10th-Floor-S-Tower/Korea-Bureau-Chief_JREQ174535/apply",
+    "location": "Korea, Republic of",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "The successful candidate will lead agenda-setting coverage of Korea; set coverage priorities and provide direction to reporters; produce in-depth and distinguished journalism; and oversee breaking new...",
+      "descriptionTeaser_first200": "Reuters is seeking an outstanding and enterprising newsroom leader to drive our coverage of North and South Korea, at a time of escalating security and economic challenges. The successful candidate will...",
+      "descriptionTeaser_keyword": "Reuters is seeking an outstanding and enterprising newsroom leader to drive our coverage of North and South Korea, at a time of escalating security and economic challenges. The successful candidate wi...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 127.766922,
+          "lat": 35.907757
+        },
+        "location": "Korea, Republic of"
       }
     ],
     "isMultiCategory": true,
