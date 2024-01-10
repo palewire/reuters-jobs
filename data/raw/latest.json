@@ -198,6 +198,177 @@
     "cityState": "London",
     "country": "United Kingdom",
     "ml_skills": [
+      "auditing",
+      "auditing standards",
+      "technical research",
+      "research skills",
+      "strategic development",
+      "transparency",
+      "customer retention",
+      "instruction",
+      "customer service",
+      "technology solutions",
+      "software development"
+    ],
+    "remote": "Remote",
+    "type": "Full time",
+    "descriptionTeaser": "This is a dynamic job that allows you to fully utilise and continuously expand your technical skills, develop information and technology solutions for auditing professionals in accounting firms across...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.0185088",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ174951",
+    "jobId": "JREQ174951",
+    "city": "London",
+    "latitude": "51.5056439",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom",
+      "Edinburgh, United Kingdom",
+      "Exmouth, Devon, United Kingdom",
+      "Newcastle Upon Tyne, United Kingdom",
+      "Willingham, Cambridgeshire, United Kingdom"
+    ],
+    "title": "Chartered Accountant Auditing Editor",
+    "jobSeqNo": "THTTRUUSJREQ174951EXTERNALENUS",
+    "postedDate": "2024-01-10T00:00:00.000+0000",
+    "dateCreated": "2024-01-10T16:42:07.188+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Chartered-Accountant-Auditing-Editor_JREQ174951/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "This is a dynamic job that allows you to fully utilise and continuously expand your technical skills, develop information and technology solutions for auditing professionals in accounting firms across...",
+      "descriptionTeaser_first200": "Chartered Accountant Auditing Editor. Looking for an excellent work-life position outside the Big 4, large or mid-sized accounting firm? Desire a professional environment without the busy season hassle?...",
+      "descriptionTeaser_keyword": "Chartered Accountant Auditing Editor. Looking for an excellent work-life position outside the Big 4, large or mid-sized accounting firm? Desire a professional environment without the busy season hassl...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.0185088,
+          "lat": 51.5056439
+        },
+        "location": "London, United Kingdom"
+      },
+      {
+        "latlong": {
+          "lon": -3.2099842,
+          "lat": 55.9481151
+        },
+        "location": "Edinburgh, United Kingdom"
+      },
+      {
+        "latlong": {
+          "lon": -3.3746209,
+          "lat": 50.6314786
+        },
+        "location": "Exmouth, Devon, United Kingdom"
+      },
+      {
+        "latlong": {
+          "lon": -1.6012023,
+          "lat": 54.9818
+        },
+        "location": "Newcastle Upon Tyne, United Kingdom"
+      },
+      {
+        "latlong": {
+          "lon": 0.0534968,
+          "lat": 52.311855
+        },
+        "location": "Willingham, Cambridgeshire, United Kingdom"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Mumbai, Maharashtra",
+    "country": "India",
+    "ml_skills": [
+      "tax research",
+      "state income tax",
+      "decision making",
+      "strategic planning",
+      "discipline",
+      "transparency",
+      "basic",
+      "gosystem"
+    ],
+    "remote": "On-Site",
+    "type": "Full time",
+    "descriptionTeaser": "Entry level professional roles requiring a discipline specific degree or the equivalent work experience that provides knowledge and exposure to fundamental theories, principles and concepts. Universit...",
+    "state": "Maharashtra",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "72.8814089",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ170346",
+    "jobId": "JREQ170346",
+    "city": "Mumbai",
+    "latitude": "19.1114368",
+    "locale": "en_US",
+    "multi_location": [
+      "Mumbai, Maharashtra, India"
+    ],
+    "title": "Sr. Tax Executive",
+    "jobSeqNo": "THTTRUUSJREQ170346EXTERNALENUS",
+    "postedDate": "2024-01-10T00:00:00.000+0000",
+    "dateCreated": "2023-07-10T12:41:49.730+0000",
+    "cityStateCountry": "Mumbai, Maharashtra, India",
+    "address": "4th Flr, Dhantak Plaza, Makwana Road, Marol, Andheri East, Mumbai- 400059, Maharashtra, India",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Mumbai-Dhantak-Plaza/Sr-Tax-Executive_JREQ170346/apply",
+    "location": "Mumbai, Maharashtra, India",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Entry level professional roles requiring a discipline specific degree or the equivalent work experience that provides knowledge and exposure to fundamental theories, principles and concepts. Universit...",
+      "descriptionTeaser_first200": "Manage tax return population including Federal and State Compliance for large corporate and international clients. Gathering information, requesting missing information, scheduling the return for preparation...",
+      "descriptionTeaser_keyword": "Manage tax return population including Federal and State Compliance for large corporate and international clients. Gathering information, requesting missing information, scheduling the return for prep...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 72.8814089,
+          "lat": 19.1114368
+        },
+        "location": "Mumbai, Maharashtra, India"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "London",
+    "country": "United Kingdom",
+    "ml_skills": [
       "case law",
       "transparency",
       "editing",
@@ -1201,6 +1372,73 @@
     "badge": ""
   },
   {
+    "cityState": "Toronto, Ontario",
+    "country": "Canada",
+    "ml_skills": [
+      "video production",
+      "video editing",
+      "motion graphics",
+      "editing",
+      "multimedia",
+      "visual storytelling",
+      "transparency"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Reuters is looking for a Digital Producer with excellent editing skills and experience creating video content for online and social platforms. As a Digital Producer in our Packaged Video team, you'll...",
+    "state": "Ontario",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-79.3884094",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ175017",
+    "jobId": "JREQ175017",
+    "city": "Toronto",
+    "latitude": "43.6480117",
+    "locale": "en_US",
+    "multi_location": [
+      "Toronto, Ontario, Canada"
+    ],
+    "title": "Digital Producer (Level 1 Journalist - Temp)",
+    "jobSeqNo": "THTTRUUSJREQ175017EXTERNALENUS",
+    "postedDate": "2024-01-03T00:00:00.000+0000",
+    "dateCreated": "2024-01-03T12:39:14.113+0000",
+    "cityStateCountry": "Toronto, Ontario, Canada",
+    "address": "19 Duncan Street, Toronto, ON M5H 3G6, Canada",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CAN-Toronto-19-Duncan-Street/Digital-Producer--Level-1-Journalist---Temp-_JREQ175017/apply",
+    "location": "Toronto, Ontario, Canada",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Reuters is looking for a Digital Producer with excellent editing skills and experience creating video content for online and social platforms. As a Digital Producer in our Packaged Video team, you'll...",
+      "descriptionTeaser_first200": "Digital Producer, Reuters Packaged Video (Level 1 Temp). This TEMPORARY position is based in Toronto, Ontario. Do you want to be part of a team creating hundreds of videos a week ranging from simple soundbites,...",
+      "descriptionTeaser_keyword": "Digital Producer, Reuters Packaged Video (Level 1 Temp). This TEMPORARY position is based in Toronto, Ontario. Do you want to be part of a team creating hundreds of videos a week ranging from simple s...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -79.3884094,
+          "lat": 43.6480117
+        },
+        "location": "Toronto, Ontario, Canada"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Bengaluru, Karnataka",
     "country": "India",
     "ml_skills": [
@@ -1262,73 +1500,6 @@
           "lat": 12.9743998
         },
         "location": "Bengaluru, Karnataka, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Toronto, Ontario",
-    "country": "Canada",
-    "ml_skills": [
-      "video production",
-      "video editing",
-      "motion graphics",
-      "editing",
-      "multimedia",
-      "visual storytelling",
-      "transparency"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Reuters is looking for a Digital Producer with excellent editing skills and experience creating video content for online and social platforms. As a Digital Producer in our Packaged Video team, you'll...",
-    "state": "Ontario",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-79.3884094",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ175017",
-    "jobId": "JREQ175017",
-    "city": "Toronto",
-    "latitude": "43.6480117",
-    "locale": "en_US",
-    "multi_location": [
-      "Toronto, Ontario, Canada"
-    ],
-    "title": "Digital Producer (Level 1 Journalist - Temp)",
-    "jobSeqNo": "THTTRUUSJREQ175017EXTERNALENUS",
-    "postedDate": "2024-01-03T00:00:00.000+0000",
-    "dateCreated": "2024-01-03T12:39:14.113+0000",
-    "cityStateCountry": "Toronto, Ontario, Canada",
-    "address": "19 Duncan Street, Toronto, ON M5H 3G6, Canada",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CAN-Toronto-19-Duncan-Street/Digital-Producer--Level-1-Journalist---Temp-_JREQ175017/apply",
-    "location": "Toronto, Ontario, Canada",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Reuters is looking for a Digital Producer with excellent editing skills and experience creating video content for online and social platforms. As a Digital Producer in our Packaged Video team, you'll...",
-      "descriptionTeaser_first200": "Digital Producer, Reuters Packaged Video (Level 1 Temp). This TEMPORARY position is based in Toronto, Ontario. Do you want to be part of a team creating hundreds of videos a week ranging from simple soundbites,...",
-      "descriptionTeaser_keyword": "Digital Producer, Reuters Packaged Video (Level 1 Temp). This TEMPORARY position is based in Toronto, Ontario. Do you want to be part of a team creating hundreds of videos a week ranging from simple s...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -79.3884094,
-          "lat": 43.6480117
-        },
-        "location": "Toronto, Ontario, Canada"
       }
     ],
     "isMultiCategory": true,
