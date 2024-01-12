@@ -65,6 +65,150 @@
     "badge": ""
   },
   {
+    "cityState": "Carrollton, Texas",
+    "country": "United States of America",
+    "ml_skills": [
+      "editing",
+      "public accounting",
+      "transparency",
+      "agile",
+      "tax research",
+      "tax compliance",
+      "edge"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "This Technical Editor position is a fantastic opportunity for CPAs who have significant practical experience, possess strong analytical and writing skills, enjoy the complexity and intricacy of tax co...",
+    "state": "Texas",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-96.8449828",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ175390",
+    "jobId": "JREQ175390",
+    "city": "Carrollton",
+    "latitude": "32.97533",
+    "locale": "en_US",
+    "multi_location": [
+      "Carrollton, Texas, United States of America",
+      "Eagan, Minnesota, United States of America"
+    ],
+    "title": "Tax Technical Editor (CPA)",
+    "jobSeqNo": "THTTRUUSJREQ175390EXTERNALENUS",
+    "postedDate": "2024-01-11T00:00:00.000+0000",
+    "dateCreated": "2024-01-11T20:40:28.988+0000",
+    "cityStateCountry": "Carrollton, Texas, United States of America",
+    "address": "2395 Midway Road, Carrollton, TX 75006, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Carrollton-2395-Midway-Rd/Tax-Technical-Editor--CPA-_JREQ175390/apply",
+    "location": "Carrollton, Texas, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "This Technical Editor position is a fantastic opportunity for CPAs who have significant practical experience, possess strong analytical and writing skills, enjoy the complexity and intricacy of tax co...",
+      "descriptionTeaser_first200": "Tax Technical Editor (CPA) . Role Summary. This Technical Editor position is a fantastic opportunity for CPAs who have significant practical experience, possess strong analytical and writing skills, enjoy...",
+      "descriptionTeaser_keyword": "Tax Technical Editor (CPA). Role Summary. This Technical Editor position is a fantastic opportunity for CPAs who have significant practical experience, possess strong analytical and writing skills, en...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -96.8449828,
+          "lat": 32.97533
+        },
+        "location": "Carrollton, Texas, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -93.11336709999999,
+          "lat": 44.8250902
+        },
+        "location": "Eagan, Minnesota, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Eagan, Minnesota",
+    "country": "United States of America",
+    "ml_skills": [
+      "publishing",
+      "westlaw",
+      "litigation",
+      "word processing",
+      "transparency",
+      "line",
+      "navigation",
+      "schedules",
+      "leadership development"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "In this role you will be required to maintain and develop legal knowledge and skills as needed to complete your work and to stay current on legal trends and developments that are related to your edito...",
+    "state": "Minnesota",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-93.11336709999999",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ175275",
+    "jobId": "JREQ175275",
+    "city": "Eagan",
+    "latitude": "44.8250902",
+    "locale": "en_US",
+    "multi_location": [
+      "Eagan, Minnesota, United States of America"
+    ],
+    "title": "Legal Content Editor",
+    "jobSeqNo": "THTTRUUSJREQ175275EXTERNALENUS",
+    "postedDate": "2024-01-11T00:00:00.000+0000",
+    "dateCreated": "2024-01-11T20:40:28.996+0000",
+    "cityStateCountry": "Eagan, Minnesota, United States of America",
+    "address": "610 Opperman Dr, Eagan, MN 55123, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Eagan-610-Opperman-Dr/Legal-Content-Editor_JREQ175275/apply",
+    "location": "Eagan, Minnesota, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "In this role you will be required to maintain and develop legal knowledge and skills as needed to complete your work and to stay current on legal trends and developments that are related to your edito...",
+      "descriptionTeaser_first200": "In this role you will provide legal interpretation in the form of identification and analysis of the interrelationship between decisions of different courts and agencies to support the development and...",
+      "descriptionTeaser_keyword": "In this role you will provide legal interpretation in the form of identification and analysis of the interrelationship between decisions of different courts and agencies to support the development and...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -93.11336709999999,
+          "lat": 44.8250902
+        },
+        "location": "Eagan, Minnesota, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Hyderabad, Telangana",
     "country": "India",
     "remote": "Hybrid",
