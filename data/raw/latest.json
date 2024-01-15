@@ -129,6 +129,71 @@
     "badge": ""
   },
   {
+    "cityState": "London",
+    "country": "United Kingdom",
+    "ml_skills": [
+      "microsoft office applications",
+      "microsoft office",
+      "communication skills",
+      "transparency",
+      "time management"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "We also make reasonable accommodations for qualified individuals with disabilities and for sincerely held religious beliefs in accordance with applicable law. Working with fellow EAs in both the UK an...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.0185088",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ174985",
+    "jobId": "JREQ174985",
+    "city": "London",
+    "latitude": "51.5056439",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom"
+    ],
+    "title": "Editorial Associate",
+    "jobSeqNo": "THTTRUUSJREQ174985EXTERNALENUS",
+    "postedDate": "2024-01-15T00:00:00.000+0000",
+    "dateCreated": "2024-01-15T16:40:28.008+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Editorial-Associate_JREQ174985/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "We also make reasonable accommodations for qualified individuals with disabilities and for sincerely held religious beliefs in accordance with applicable law. Working with fellow EAs in both the UK an...",
+      "descriptionTeaser_first200": "We are seeking an Editorial Associate (EA) to support the Practical Law editorial teams with the creation, publication, delivery, and presentation of content for Practical Law and to provide administrative...",
+      "descriptionTeaser_keyword": "We are seeking an Editorial Associate (EA) to support the Practical Law editorial teams with the creation, publication, delivery, and presentation of content for Practical Law and to provide administr...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.0185088,
+          "lat": 51.5056439
+        },
+        "location": "London, United Kingdom"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Bengaluru, Karnataka",
     "country": "India",
     "ml_skills": [
@@ -254,84 +319,6 @@
           "lat": 12.9743998
         },
         "location": "Bengaluru, Karnataka, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Buenos Aires",
-    "country": "Argentina",
-    "ml_skills": [
-      "editorial",
-      "edici\u00f3n",
-      "publicaci\u00f3n",
-      "dise\u00f1o gr\u00e1fico",
-      "notas",
-      "dise\u00f1o",
-      "papel",
-      "paquete",
-      "flex",
-      "materiales",
-      "flexibilidad",
-      "sinopsis",
-      "legal",
-      "accessibility",
-      "reasonable",
-      "job postings",
-      "an\u00e1lisis",
-      "formaci\u00f3n"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Our industry-leading products and services include highly specialized information-enabled software and tools for legal, tax, accounting and compliance professionals combined with the world\u2019s most glob...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-58.3875561",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ175457",
-    "jobId": "JREQ175457",
-    "city": "Buenos Aires",
-    "latitude": "-34.6016107",
-    "locale": "en_US",
-    "multi_location": [
-      "Buenos Aires, Argentina"
-    ],
-    "title": "Editorial Designer",
-    "jobSeqNo": "THTTRUUSJREQ175457EXTERNALENUS",
-    "postedDate": "2024-01-12T00:00:00.000+0000",
-    "dateCreated": "2024-01-12T20:41:15.431+0000",
-    "cityStateCountry": "Buenos Aires, Argentina",
-    "address": "Tucuman 1471, C1050AAB Buenos Aires, Argentina",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/ARG-Buenos-Aires-Tucuman-1471/Editorial-Designer_JREQ175457/apply",
-    "location": "Buenos Aires, Argentina",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Our industry-leading products and services include highly specialized information-enabled software and tools for legal, tax, accounting and compliance professionals combined with the world\u2019s most glob...",
-      "descriptionTeaser_keyword": "Editorial Designer para Thomson Reuters Argentina. \u00a1Queremos que seas parte de nuestro equipo de Contenido en Thomson Reuters Argentina! \u00bfCu\u00e1les son las principales responsabilidades? Maquetaci\u00f3n y di...",
-      "descriptionTeaser_first200": "Editorial Designer para Thomson Reuters Argentina. \u00a1Queremos que seas parte de nuestro equipo de Contenido en Thomson Reuters Argentina! \u00bfCu\u00e1les son las principales responsabilidades? Maquetaci\u00f3n y dise\u00f1o...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -58.3875561,
-          "lat": -34.6016107
-        },
-        "location": "Buenos Aires, Argentina"
       }
     ],
     "isMultiCategory": true,
