@@ -1,5 +1,74 @@
 [
   {
+    "cityState": "Singapore",
+    "country": "Singapore",
+    "ml_skills": [
+      "video editing",
+      "journalism",
+      "breaking news",
+      "editing",
+      "multimedia",
+      "script writing",
+      "juggling",
+      "work under pressure",
+      "transparency"
+    ],
+    "remote": "On-Site",
+    "type": "Full time",
+    "descriptionTeaser": "Work as part of our news gathering team on the Singapore desk coordinating and bringing in edited and live coverage from across the world to deliver to clients at speed. Strong video editing, script w...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "103.792796",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ166696",
+    "jobId": "JREQ166696",
+    "city": "Singapore",
+    "latitude": "1.2938815",
+    "locale": "en_US",
+    "multi_location": [
+      "Singapore, Singapore"
+    ],
+    "title": "Video Desk Producer",
+    "jobSeqNo": "THTTRUUSJREQ166696EXTERNALENUS",
+    "postedDate": "2024-01-16T00:00:00.000+0000",
+    "dateCreated": "2023-03-09T12:42:33.000+0000",
+    "cityStateCountry": "Singapore, Singapore",
+    "address": "ALICE@Mediapolis, 29 Media Circle,  #09-05, Singapore 138565, Singapore",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/SGP-Singapore-ALICEMediapolis/Technical-Producer_JREQ166696/apply",
+    "location": "Singapore, Singapore",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Work as part of our news gathering team on the Singapore desk coordinating and bringing in edited and live coverage from across the world to deliver to clients at speed. Strong video editing, script w...",
+      "descriptionTeaser_first200": "Reuters is looking for a Video Desk Producer to join our global hub in Singapore, which delivers news coverage to more than 1,000 broadcasters and hundreds of digital outlets around the world. As a producer...",
+      "descriptionTeaser_keyword": "Reuters is looking for a Video Desk Producer to join our global hub in Singapore, which delivers news coverage to more than 1,000 broadcasters and hundreds of digital outlets around the world. As a pr...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 103.792796,
+          "lat": 1.2938815
+        },
+        "location": "Singapore, Singapore"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Dubai",
     "country": "United Arab Emirates",
     "ml_skills": [
@@ -3739,81 +3808,6 @@
           "lat": 12.9743998
         },
         "location": "Bengaluru, Karnataka, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Singapore",
-    "country": "Singapore",
-    "ml_skills": [
-      "video editing",
-      "journalism",
-      "live video",
-      "news judgment",
-      "script writing",
-      "team player",
-      "video technologies",
-      "juggling",
-      "social media",
-      "work under pressure",
-      "job postings",
-      "objectivity",
-      "patience",
-      "negotiating",
-      "advising"
-    ],
-    "remote": "On-Site",
-    "type": "Full time",
-    "descriptionTeaser": "Work as part of our news gathering team on the Singapore desk coordinating and bringing in edited and live coverage from across the world to deliver to clients at speed. A clear understanding of the video...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "103.792796",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ166696",
-    "jobId": "JREQ166696",
-    "city": "Singapore",
-    "latitude": "1.2938815",
-    "locale": "en_US",
-    "multi_location": [
-      "Singapore, Singapore"
-    ],
-    "title": "Junior Video Desk Producer",
-    "jobSeqNo": "THTTRUUSJREQ166696EXTERNALENUS",
-    "postedDate": "2023-09-25T00:00:00.000+0000",
-    "dateCreated": "2023-03-09T12:42:33.000+0000",
-    "cityStateCountry": "Singapore, Singapore",
-    "address": "ALICE@Mediapolis, 29 Media Circle,  #09-05, Singapore 138565, Singapore",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/SGP-Singapore-ALICEMediapolis/Technical-Producer_JREQ166696/apply",
-    "location": "Singapore, Singapore",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Work as part of our news gathering team on the Singapore desk coordinating and bringing in edited and live coverage from across the world to deliver to clients at speed. A clear understanding of the video...",
-      "descriptionTeaser_first200": "Reuters is looking for a Junior Video Desk Producer to join our global hub in Singapore, which delivers news coverage to more than 1,000 broadcasters and hundreds of digital outlets around the world....",
-      "descriptionTeaser_keyword": "Reuters is looking for a Junior Video Desk Producer to join our global hub in Singapore, which delivers news coverage to more than 1,000 broadcasters and hundreds of digital outlets around the world. As...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 103.792796,
-          "lat": 1.2938815
-        },
-        "location": "Singapore, Singapore"
       }
     ],
     "isMultiCategory": true,
