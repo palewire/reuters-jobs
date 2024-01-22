@@ -2625,7 +2625,7 @@
     "postedDate": "2024-01-03T00:00:00.000+0000",
     "dateCreated": "2024-01-03T12:39:14.113+0000",
     "cityStateCountry": "Toronto, Ontario, Canada",
-    "address": "19 Duncan Street, Toronto, ON M5H 3G6, Canada",
+    "address": "19 Duncan Street, Toronto, ON M5H 3H1, Canada",
     "jobVisibility": [
       "external"
     ],
@@ -3213,72 +3213,6 @@
           "lat": 19.4343664
         },
         "location": "Mexico City, Mexico"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Dubai",
-    "country": "United Arab Emirates",
-    "ml_skills": [
-      "arabic",
-      "arabic a",
-      "multimedia",
-      "lseg",
-      "hostile environments",
-      "go"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Work with teams to generate smart and agenda-setting story ideas. Make and cultivate contacts, producing exclusive news stories, and encourage the team to do the same. Have at least seven years of exp...",
-    "state": "Dubai",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "55.1575893",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ173394",
-    "jobId": "JREQ173394",
-    "city": "",
-    "latitude": "25.0961362",
-    "locale": "en_US",
-    "multi_location": [
-      "Dubai, United Arab Emirates"
-    ],
-    "title": "Bureau Chief, Gulf - Reuters",
-    "jobSeqNo": "THTTRUUSJREQ173394EXTERNALENUS",
-    "postedDate": "2023-12-14T00:00:00.000+0000",
-    "dateCreated": "2023-11-07T12:38:32.025+0000",
-    "cityStateCountry": "Dubai, United Arab Emirates",
-    "address": "Reuters Ltd, Office 501, Building 1, 5th Floor Dubai Media City, Dubai, United Arab Emirates",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/ARE-Dubai-Dubai-Media-City/Bureau-Chief--Gulf---Reuters_JREQ173394/apply",
-    "location": "Dubai, United Arab Emirates",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Work with teams to generate smart and agenda-setting story ideas. Make and cultivate contacts, producing exclusive news stories, and encourage the team to do the same. Have at least seven years of exp...",
-      "descriptionTeaser_first200": "Reuters is seeking an experienced journalist to lead our news coverage from the Gulf, a compelling region of profound importance to energy supplies, trade and investment flows and international security....",
-      "descriptionTeaser_keyword": "Reuters is seeking an experienced journalist to lead our news coverage from the Gulf, a compelling region of profound importance to energy supplies, trade and investment flows and international securi...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 55.1575893,
-          "lat": 25.0961362
-        },
-        "location": "Dubai, United Arab Emirates"
       }
     ],
     "isMultiCategory": true,
