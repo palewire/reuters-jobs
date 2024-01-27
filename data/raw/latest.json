@@ -134,6 +134,71 @@
     "badge": ""
   },
   {
+    "cityState": "Chicago, Illinois",
+    "country": "United States of America",
+    "ml_skills": [
+      "breaking news",
+      "multimedia",
+      "graphics",
+      "transparency",
+      "track"
+    ],
+    "remote": "On-Site",
+    "type": "Full time",
+    "descriptionTeaser": "Agriculture Reporter (Level 1 Journalist), Reuters. Work together with large global teams to break news and undertake reporting projects. You're a fit for the role of Agriculture Reporter at Reuters i...",
+    "state": "Illinois",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-87.63723",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ175819",
+    "jobId": "JREQ175819",
+    "city": "Chicago",
+    "latitude": "41.87891930000001",
+    "locale": "en_US",
+    "multi_location": [
+      "Chicago, Illinois, United States of America"
+    ],
+    "title": "Agriculture Reporter (Level 1 Journalist), Reuters",
+    "jobSeqNo": "THTTRUUSJREQ175819EXTERNALENUS",
+    "postedDate": "2024-01-26T00:00:00.000+0000",
+    "dateCreated": "2024-01-26T20:40:46.503+0000",
+    "cityStateCountry": "Chicago, Illinois, United States of America",
+    "address": "200 South Wacker Drive, 31st Floor, Chicago, IL 60606, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Chicago-200-South-Wacker-Dr/Agriculture-Reporter--Level-1-Journalist---Reuters_JREQ175819-1/apply",
+    "location": "Chicago, Illinois, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Agriculture Reporter (Level 1 Journalist), Reuters. Work together with large global teams to break news and undertake reporting projects. You're a fit for the role of Agriculture Reporter at Reuters i...",
+      "descriptionTeaser_first200": "Agriculture Reporter (Level 1 Journalist), Reuters. This hybrid role is based in Chicago. Reuters seeks a dedicated reporter to join its Chicago-based agriculture team. With the Ukraine war upending global...",
+      "descriptionTeaser_keyword": "Agriculture Reporter (Level 1 Journalist), Reuters. This hybrid role is based in Chicago. Reuters seeks a dedicated reporter to join its Chicago-based agriculture team. With the Ukraine war upending g...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -87.63723,
+          "lat": 41.87891930000001
+        },
+        "location": "Chicago, Illinois, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Washington, District of Columbia",
     "country": "United States of America",
     "ml_skills": [
@@ -188,6 +253,70 @@
           "lat": 38.9004793
         },
         "location": "Washington, District of Columbia, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Santiago",
+    "country": "Chile",
+    "ml_skills": [
+      "breaking news",
+      "global politics",
+      "transparency",
+      "communication skills"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "This role will help evaluate the use of machine-assisted translation on the Spanish Language Service and be part of a team divided between Santiago de Chile and Mexico City. Work with a global team ov...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-70.6452395",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ175820",
+    "jobId": "JREQ175820",
+    "city": "Santiago",
+    "latitude": "-33.4381509",
+    "locale": "en_US",
+    "multi_location": [
+      "Santiago, Chile"
+    ],
+    "title": "Desk Editor",
+    "jobSeqNo": "THTTRUUSJREQ175820EXTERNALENUS",
+    "postedDate": "2024-01-26T00:00:00.000+0000",
+    "dateCreated": "2024-01-26T20:40:46.503+0000",
+    "cityStateCountry": "Santiago, Chile",
+    "address": "Miraflores 383, 1000 Santiago, Chile",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CHL-Santiago-Miraflores-383/Desk-Editor_JREQ175820/apply",
+    "location": "Santiago, Chile",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "This role will help evaluate the use of machine-assisted translation on the Spanish Language Service and be part of a team divided between Santiago de Chile and Mexico City. Work with a global team ov...",
+      "descriptionTeaser_first200": "Reuters is looking for an energetic journalist with strong news judgment to fill a temporary position on a team covering a wide range of breaking news. This role will help evaluate the use of machine-assisted...",
+      "descriptionTeaser_keyword": "Reuters is looking for an energetic journalist with strong news judgment to fill a temporary position on a team covering a wide range of breaking news. This role will help evaluate the use of machine-...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -70.6452395,
+          "lat": -33.4381509
+        },
+        "location": "Santiago, Chile"
       }
     ],
     "isMultiCategory": true,
@@ -454,76 +583,6 @@
           "lat": 54.4004235
         },
         "location": "Gdansk, Poland"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Mexico City",
-    "country": "Mexico",
-    "ml_skills": [
-      "breaking news",
-      "photography",
-      "multimedia",
-      "fact-checking",
-      "multi-tasking under",
-      "track",
-      "software",
-      "metadata",
-      "transparency",
-      "open-source intelligence"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "You will be based in our Mexico newsroom and will collaborate with video, text and photography colleagues on major global stories \u2013 working on breaking news, personal insight stories, conflicts and in...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-99.1510899",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ174542",
-    "jobId": "JREQ174542",
-    "city": "Mexico City",
-    "latitude": "19.4343664",
-    "locale": "en_US",
-    "multi_location": [
-      "Mexico City, Mexico"
-    ],
-    "title": "Visual Verification & Newsgathering Producer",
-    "jobSeqNo": "THTTRUUSJREQ174542EXTERNALENUS",
-    "postedDate": "2024-01-25T00:00:00.000+0000",
-    "dateCreated": "2023-12-12T04:41:01.309+0000",
-    "cityStateCountry": "Mexico City, Mexico",
-    "address": "Av. Paseo de la Reforma #26, Floor 36th, Colonia Ju\u00e1rez, Cuauht\u00e9moc, 06600 Mexico City, Mexico",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/MEX-Distrito-Federal-Reforma-26/Visual-Verification---Newsgathering-Producer_JREQ174542-1/apply",
-    "location": "Mexico City, Mexico",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "You will be based in our Mexico newsroom and will collaborate with video, text and photography colleagues on major global stories \u2013 working on breaking news, personal insight stories, conflicts and in...",
-      "descriptionTeaser_first200": "Visual Verification & Newsgathering Producer. Are you passionate about the chance to bring your experience to a world-class company that is market-leading for both content and technology? If yes, we are...",
-      "descriptionTeaser_keyword": "Visual Verification & Newsgathering Producer. Are you passionate about the chance to bring your experience to a world-class company that is market-leading for both content and technology? If yes, we a...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -99.1510899,
-          "lat": 19.4343664
-        },
-        "location": "Mexico City, Mexico"
       }
     ],
     "isMultiCategory": true,
