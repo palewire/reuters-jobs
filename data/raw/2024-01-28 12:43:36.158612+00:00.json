@@ -1,5 +1,134 @@
 [
   {
+    "cityState": "Chicago, Illinois",
+    "country": "United States of America",
+    "ml_skills": [
+      "breaking news",
+      "multimedia",
+      "graphics",
+      "transparency",
+      "track"
+    ],
+    "remote": "On-Site",
+    "type": "Full time",
+    "descriptionTeaser": "Agriculture Reporter (Level 1 Journalist), Reuters. Work together with large global teams to break news and undertake reporting projects. You're a fit for the role of Agriculture Reporter at Reuters i...",
+    "state": "Illinois",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-87.63723",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ175819",
+    "jobId": "JREQ175819",
+    "city": "Chicago",
+    "latitude": "41.87891930000001",
+    "locale": "en_US",
+    "multi_location": [
+      "Chicago, Illinois, United States of America"
+    ],
+    "title": "Agriculture Reporter (Level 1 Journalist), Reuters",
+    "jobSeqNo": "THTTRUUSJREQ175819EXTERNALENUS",
+    "postedDate": "2024-01-26T00:00:00.000+0000",
+    "dateCreated": "2024-01-26T20:40:46.503+0000",
+    "cityStateCountry": "Chicago, Illinois, United States of America",
+    "address": "200 South Wacker Drive, 31st Floor, Chicago, IL 60606, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Chicago-200-South-Wacker-Dr/Agriculture-Reporter--Level-1-Journalist---Reuters_JREQ175819-1/apply",
+    "location": "Chicago, Illinois, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Agriculture Reporter (Level 1 Journalist), Reuters. Work together with large global teams to break news and undertake reporting projects. You're a fit for the role of Agriculture Reporter at Reuters i...",
+      "descriptionTeaser_first200": "Agriculture Reporter (Level 1 Journalist), Reuters. This hybrid role is based in Chicago. Reuters seeks a dedicated reporter to join its Chicago-based agriculture team. With the Ukraine war upending global...",
+      "descriptionTeaser_keyword": "Agriculture Reporter (Level 1 Journalist), Reuters. This hybrid role is based in Chicago. Reuters seeks a dedicated reporter to join its Chicago-based agriculture team. With the Ukraine war upending g...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -87.63723,
+          "lat": 41.87891930000001
+        },
+        "location": "Chicago, Illinois, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Toronto, Ontario",
+    "country": "Canada",
+    "ml_skills": [
+      "japanese",
+      "machine translation",
+      "multimedia",
+      "transparency"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "As Translation Editor (Japanese Language Service), you will be instrumental in bringing global news to Reuters' Japanese-speaking audiences. Edit machine-translated English-to-Japanese articles for ac...",
+    "state": "Ontario",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-79.3884094",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ175759",
+    "jobId": "JREQ175759",
+    "city": "Toronto",
+    "latitude": "43.6480117",
+    "locale": "en_US",
+    "multi_location": [
+      "Toronto, Ontario, Canada"
+    ],
+    "title": "Translation Editor, Japanese Language Service - TEMP",
+    "jobSeqNo": "THTTRUUSJREQ175759EXTERNALENUS",
+    "postedDate": "2024-01-26T00:00:00.000+0000",
+    "dateCreated": "2024-01-26T16:40:14.597+0000",
+    "cityStateCountry": "Toronto, Ontario, Canada",
+    "address": "19 Duncan Street, Toronto, ON M5H 3H1, Canada",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CAN-Toronto-19-Duncan-Street/Translation-Editor--Japanese-Language-Service---TEMP_JREQ175759/apply",
+    "location": "Toronto, Ontario, Canada",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "As Translation Editor (Japanese Language Service), you will be instrumental in bringing global news to Reuters' Japanese-speaking audiences. Edit machine-translated English-to-Japanese articles for ac...",
+      "descriptionTeaser_first200": "Translation Editor, Japanese Language Service - Temporary Contract. This hybrid TEMPORARY position will be based in Toronto, Canada. Other locations will also be considered. Reuters is looking for a highly...",
+      "descriptionTeaser_keyword": "Translation Editor, Japanese Language Service - Temporary Contract. This hybrid TEMPORARY position will be based in Toronto, Canada. Other locations will also be considered. Reuters is looking for a h...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -79.3884094,
+          "lat": 43.6480117
+        },
+        "location": "Toronto, Ontario, Canada"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Manila",
     "country": "Philippines",
     "ml_skills": [
@@ -7,6 +136,7 @@
       "digital marketing",
       "content strategy",
       "grammar",
+      "communication skills",
       "transparency",
       "project management",
       "legal research",
@@ -45,8 +175,8 @@
     "category": "News & Editorial Careers",
     "ml_job_parser": {
       "descriptionTeaser": "Research and write compelling blog content in English for legal clients that complies with internal best practices, industry standards, and corporate policies, and eventually grow into developing cont...",
-      "descriptionTeaser_first200": "Content Marketer | Operations Customer Service & Support. Content Marketer. Are you a curious, smart, self-driven writer and content professional who thrives in a fast-paced environment? Do you enjoy collaborating...",
-      "descriptionTeaser_keyword": "Content Marketer | Operations Customer Service & Support. Content Marketer. Are you a curious, smart, self-driven writer and content professional who thrives in a fast-paced environment? Do you enjoy...",
+      "descriptionTeaser_first200": "Content Marketer | Operations Customer Service & Support. Thomson Reuters, an industry leader at the intersection of content and technology, is looking for a perceptive and self-driven professional content...",
+      "descriptionTeaser_keyword": "Content Marketer | Operations Customer Service & Support. Thomson Reuters, an industry leader at the intersection of content and technology, is looking for a perceptive and self-driven professional co...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
@@ -58,6 +188,201 @@
           "lat": 14.5344436
         },
         "location": "Manila, Philippines"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Washington, District of Columbia",
+    "country": "United States of America",
+    "ml_skills": [
+      "journalism",
+      "product management",
+      "track",
+      "transparency",
+      "tax policy"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Write news stories for daily publication on tax legislation, tax policy, Congressional oversight, and other topics of interest to tax professionals. 2+ years of experience: writing and/or editing Cong...",
+    "state": "District of Columbia",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-77.0311952",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ175586",
+    "jobId": "JREQ175586",
+    "city": "Washington",
+    "latitude": "38.9004793",
+    "locale": "en_US",
+    "multi_location": [
+      "Washington, District of Columbia, United States of America"
+    ],
+    "title": "Tax News Editor (Capitol Hill)",
+    "jobSeqNo": "THTTRUUSJREQ175586EXTERNALENUS",
+    "postedDate": "2024-01-26T00:00:00.000+0000",
+    "dateCreated": "2024-01-26T16:40:14.599+0000",
+    "cityStateCountry": "Washington, District of Columbia, United States of America",
+    "address": "1333 H Street NW, Suite 500, Washington, DC 20005, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Washington-1333-H-Street-N/Tax-News-Editor--Capitol-Hill-_JREQ175586/apply",
+    "location": "Washington, District of Columbia, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Write news stories for daily publication on tax legislation, tax policy, Congressional oversight, and other topics of interest to tax professionals. 2+ years of experience: writing and/or editing Cong...",
+      "descriptionTeaser_first200": "Tax News Editor . Thomson Reuters Checkpoint, the industry-leading tax and accounting research platform, is seeking a Tax News Editor based in Washington, DC to cover Capitol Hill for a targeted readership...",
+      "descriptionTeaser_keyword": "Tax News Editor. Thomson Reuters Checkpoint, the industry-leading tax and accounting research platform, is seeking a Tax News Editor based in Washington, DC to cover Capitol Hill for a targeted reader...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -77.0311952,
+          "lat": 38.9004793
+        },
+        "location": "Washington, District of Columbia, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Santiago",
+    "country": "Chile",
+    "ml_skills": [
+      "breaking news",
+      "global politics",
+      "transparency",
+      "communication skills"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "This role will help evaluate the use of machine-assisted translation on the Spanish Language Service and be part of a team divided between Santiago de Chile and Mexico City. Work with a global team ov...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-70.6452395",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ175820",
+    "jobId": "JREQ175820",
+    "city": "Santiago",
+    "latitude": "-33.4381509",
+    "locale": "en_US",
+    "multi_location": [
+      "Santiago, Chile"
+    ],
+    "title": "Desk Editor",
+    "jobSeqNo": "THTTRUUSJREQ175820EXTERNALENUS",
+    "postedDate": "2024-01-26T00:00:00.000+0000",
+    "dateCreated": "2024-01-26T20:40:46.503+0000",
+    "cityStateCountry": "Santiago, Chile",
+    "address": "Miraflores 383, 1000 Santiago, Chile",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CHL-Santiago-Miraflores-383/Desk-Editor_JREQ175820/apply",
+    "location": "Santiago, Chile",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "This role will help evaluate the use of machine-assisted translation on the Spanish Language Service and be part of a team divided between Santiago de Chile and Mexico City. Work with a global team ov...",
+      "descriptionTeaser_first200": "Reuters is looking for an energetic journalist with strong news judgment to fill a temporary position on a team covering a wide range of breaking news. This role will help evaluate the use of machine-assisted...",
+      "descriptionTeaser_keyword": "Reuters is looking for an energetic journalist with strong news judgment to fill a temporary position on a team covering a wide range of breaking news. This role will help evaluate the use of machine-...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -70.6452395,
+          "lat": -33.4381509
+        },
+        "location": "Santiago, Chile"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Dubai",
+    "country": "United Arab Emirates",
+    "ml_skills": [
+      "litigation",
+      "arbitration",
+      "transparency",
+      "editing",
+      "arabic",
+      "content strategy"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "As a Senior Specialist Legal Editor you will use your knowledge of litigation and arbitration law and practice in the MENA region to provide and maintain a wide range of Practical Law content. Creatin...",
+    "state": "Dubai",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "55.1575893",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ175762",
+    "jobId": "JREQ175762",
+    "city": "",
+    "latitude": "25.0961362",
+    "locale": "en_US",
+    "multi_location": [
+      "Dubai, United Arab Emirates"
+    ],
+    "title": "Snr Specialist Legal Editor, Practical Law (MENA) Litigation",
+    "jobSeqNo": "THTTRUUSJREQ175762EXTERNALENUS",
+    "postedDate": "2024-01-26T00:00:00.000+0000",
+    "dateCreated": "2024-01-26T16:40:14.616+0000",
+    "cityStateCountry": "Dubai, United Arab Emirates",
+    "address": "Reuters Ltd, Office 501, Building 1, 5th Floor Dubai Media City, Dubai, United Arab Emirates",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/ARE-Dubai-Dubai-Media-City/Snr-Specialist-Legal-Editor--Practical-Law--MENA--Litigation_JREQ175762/apply",
+    "location": "Dubai, United Arab Emirates",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "As a Senior Specialist Legal Editor you will use your knowledge of litigation and arbitration law and practice in the MENA region to provide and maintain a wide range of Practical Law content. Creatin...",
+      "descriptionTeaser_first200": "Senior Specialist Legal Editor, Practical Law (MENA) (Litigation and Arbitration). Are you a lawyer looking for a career change? We are seeking an experienced litigation and arbitration lawyer to join...",
+      "descriptionTeaser_keyword": "Senior Specialist Legal Editor, Practical Law (MENA) (Litigation and Arbitration). Are you a lawyer looking for a career change? We are seeking an experienced litigation and arbitration lawyer to join...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 55.1575893,
+          "lat": 25.0961362
+        },
+        "location": "Dubai, United Arab Emirates"
       }
     ],
     "isMultiCategory": true,
@@ -205,6 +530,213 @@
     "cityState": "Gdansk",
     "country": "Poland",
     "ml_skills": [
+      "multimedia",
+      "german",
+      "short stories",
+      "freedom",
+      "austrian",
+      "transparency",
+      "financial software"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Reuters is seeking a graduate who can speak fluent English and German to join its real-time news operation in Gdansk, Poland. Our industry-leading products and services include highly specialized info...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "18.5752702",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ173330",
+    "jobId": "JREQ173330",
+    "city": "Gdansk",
+    "latitude": "54.4004235",
+    "locale": "en_US",
+    "multi_location": [
+      "Gdansk, Poland"
+    ],
+    "title": "Graduate News Reporter, Reuters (German Speaking)",
+    "jobSeqNo": "THTTRUUSJREQ173330EXTERNALENUS",
+    "postedDate": "2024-01-25T00:00:00.000+0000",
+    "dateCreated": "2023-12-29T12:39:22.788+0000",
+    "cityStateCountry": "Gdansk, Poland",
+    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/News-Reporter--Reuters--German-Speaking-_JREQ173330/apply",
+    "location": "Gdansk, Poland",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Reuters is seeking a graduate who can speak fluent English and German to join its real-time news operation in Gdansk, Poland. Our industry-leading products and services include highly specialized info...",
+      "descriptionTeaser_first200": "Reuters is seeking a graduate who can speak fluent English and German to join its real-time news operation in Gdansk, Poland. The reporter will work in fast-paced, international environment and get to...",
+      "descriptionTeaser_keyword": "Reuters is seeking a graduate who can speak fluent English and German to join its real-time news operation in Gdansk, Poland. The reporter will work in fast-paced, international environment and get to...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 18.5752702,
+          "lat": 54.4004235
+        },
+        "location": "Gdansk, Poland"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Los Angeles, California",
+    "country": "United States of America",
+    "ml_skills": [
+      "breaking news",
+      "camera shooting",
+      "film",
+      "multimedia",
+      "dslr",
+      "track",
+      "gimbal",
+      "transparency"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Film news and entertainment events and feature stories using broadcast-quality video camera, DSLR, GoPro, and other camera equipment. Work autonomously when filming, whilst collaborating with colleagu...",
+    "state": "California",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-118.2414884",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ175832",
+    "jobId": "JREQ175832",
+    "city": "Los Angeles",
+    "latitude": "34.033736",
+    "locale": "en_US",
+    "multi_location": [
+      "Los Angeles, California, United States of America"
+    ],
+    "title": "Cameraperson (Level 1 Journalist - Temp)",
+    "jobSeqNo": "THTTRUUSJREQ175832EXTERNALENUS",
+    "postedDate": "2024-01-25T00:00:00.000+0000",
+    "dateCreated": "2024-01-25T20:40:47.810+0000",
+    "cityStateCountry": "Los Angeles, California, United States of America",
+    "address": "777 S. Alameda, 2nd Floor, Los Angeles, CA 90021, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Los-Angeles-777-S-Alameda/Cameraperson--Level-1-Journalist---Temp-_JREQ175832/apply",
+    "location": "Los Angeles, California, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Film news and entertainment events and feature stories using broadcast-quality video camera, DSLR, GoPro, and other camera equipment. Work autonomously when filming, whilst collaborating with colleagu...",
+      "descriptionTeaser_first200": "Cameraperson (Level 1 Journalist - Temp). We anticipate the successful candidate being based within commutable distance to Los Angeles, CA. Looking to use your camera shooting skills to their full potential?...",
+      "descriptionTeaser_keyword": "Cameraperson (Level 1 Journalist - Temp). We anticipate the successful candidate being based within commutable distance to Los Angeles, CA. Looking to use your camera shooting skills to their full pot...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -118.2414884,
+          "lat": 34.033736
+        },
+        "location": "Los Angeles, California, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Mexico City",
+    "country": "Mexico",
+    "ml_skills": [
+      "journalism",
+      "creative writing",
+      "internet writing",
+      "content management",
+      "grammar",
+      "content strategy",
+      "digital marketing",
+      "professional writing",
+      "work independently",
+      "transparency",
+      "performance metrics",
+      "workflow management"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "The primary responsibilities of the Spanish Content Marketer are to create content in Spanish and English that conforms to the preferred style guide and best practices for the individual medium. Resea...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-99.1510899",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ174777",
+    "jobId": "JREQ174777",
+    "city": "Mexico City",
+    "latitude": "19.4343664",
+    "locale": "en_US",
+    "multi_location": [
+      "Mexico City, Mexico"
+    ],
+    "title": "Spanish Content Marketer",
+    "jobSeqNo": "THTTRUUSJREQ174777EXTERNALENUS",
+    "postedDate": "2024-01-25T00:00:00.000+0000",
+    "dateCreated": "2024-01-11T00:40:19.372+0000",
+    "cityStateCountry": "Mexico City, Mexico",
+    "address": "Av. Paseo de la Reforma #26, Floor 36th, Colonia Ju\u00e1rez, Cuauht\u00e9moc, 06600 Mexico City, Mexico",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/MEX-Distrito-Federal-Reforma-26/Spanish-Content-Marketer_JREQ174777-1/apply",
+    "location": "Mexico City, Mexico",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "The primary responsibilities of the Spanish Content Marketer are to create content in Spanish and English that conforms to the preferred style guide and best practices for the individual medium. Resea...",
+      "descriptionTeaser_first200": "Spanish Content Marketer. Are you a curious, smart, self-driven writer and content professional who thrives in a fast-paced environment? Do you enjoy collaborating with others to deliver outstanding content...",
+      "descriptionTeaser_keyword": "Spanish Content Marketer. Are you a curious, smart, self-driven writer and content professional who thrives in a fast-paced environment? Do you enjoy collaborating with others to deliver outstanding c...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -99.1510899,
+          "lat": 19.4343664
+        },
+        "location": "Mexico City, Mexico"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Gdansk",
+    "country": "Poland",
+    "ml_skills": [
       "traductions",
       "pertinent",
       "exp\u00e9rience",
@@ -292,78 +824,11 @@
     "badge": ""
   },
   {
-    "cityState": "Gdansk",
-    "country": "Poland",
-    "ml_skills": [
-      "multimedia",
-      "german",
-      "short stories",
-      "freedom",
-      "austrian",
-      "transparency",
-      "financial software"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Reuters is seeking a graduate who can speak fluent English and German to join its real-time news operation in Gdansk, Poland. Our industry-leading products and services include highly specialized info...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "18.5752702",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ173330",
-    "jobId": "JREQ173330",
-    "city": "Gdansk",
-    "latitude": "54.4004235",
-    "locale": "en_US",
-    "multi_location": [
-      "Gdansk, Poland"
-    ],
-    "title": "Graduate News Reporter, Reuters (German Speaking)",
-    "jobSeqNo": "THTTRUUSJREQ173330EXTERNALENUS",
-    "postedDate": "2024-01-25T00:00:00.000+0000",
-    "dateCreated": "2023-12-29T12:39:22.788+0000",
-    "cityStateCountry": "Gdansk, Poland",
-    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/News-Reporter--Reuters--German-Speaking-_JREQ173330/apply",
-    "location": "Gdansk, Poland",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Reuters is seeking a graduate who can speak fluent English and German to join its real-time news operation in Gdansk, Poland. Our industry-leading products and services include highly specialized info...",
-      "descriptionTeaser_first200": "Reuters is seeking a graduate who can speak fluent English and German to join its real-time news operation in Gdansk, Poland. The reporter will work in fast-paced, international environment and get to...",
-      "descriptionTeaser_keyword": "Reuters is seeking a graduate who can speak fluent English and German to join its real-time news operation in Gdansk, Poland. The reporter will work in fast-paced, international environment and get to...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 18.5752702,
-          "lat": 54.4004235
-        },
-        "location": "Gdansk, Poland"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Bengaluru, Karnataka",
     "country": "India",
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "Do you love to solve problems and find better ways of getting things done?\u00a0 Do you love asking \u2018why\u2019 about pretty much everything? And does it make you happy when things are perfectly aligned and stan",
+    "descriptionTeaser": "Creates and/or maintains process or product specific documentation. Proficiently works on various systems, software, databases, and applications to deliver quality products. Maintains the integrity an...",
     "state": "Karnataka",
     "visibilityType": "External",
     "siteType": "external",
@@ -392,6 +857,23 @@
     "location": "Bengaluru, Karnataka, India",
     "category": "News & Editorial Careers",
     "externalApply": true,
+    "ml_skills": [
+      "content strategy",
+      "journalism",
+      "online research",
+      "content creation",
+      "digital media",
+      "production process",
+      "production schedules",
+      "business systems",
+      "transparency"
+    ],
+    "ml_job_parser": {
+      "descriptionTeaser": "Creates and/or maintains process or product specific documentation. Proficiently works on various systems, software, databases, and applications to deliver quality products. Maintains the integrity an...",
+      "descriptionTeaser_first200": "Do you love to solve problems and find better ways of getting things done? Do you love asking \u2018why\u2019 about pretty much everything? And does it make you happy when things are perfectly aligned and standardized?...",
+      "descriptionTeaser_keyword": "Do you love to solve problems and find better ways of getting things done? Do you love asking \u2018why\u2019 about pretty much everything? And does it make you happy when things are perfectly aligned and stand...",
+      "descriptionTeaser_ats": ""
+    },
     "isMultiLocation": true,
     "multi_location_array": [
       {
@@ -411,288 +893,11 @@
     "badge": ""
   },
   {
-    "cityState": "Mexico City",
-    "country": "Mexico",
-    "ml_skills": [
-      "breaking news",
-      "photography",
-      "multimedia",
-      "fact-checking",
-      "multi-tasking under",
-      "track",
-      "software",
-      "metadata",
-      "transparency",
-      "open-source intelligence"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "You will be based in our Mexico newsroom and will collaborate with video, text and photography colleagues on major global stories \u2013 working on breaking news, personal insight stories, conflicts and in...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-99.1510899",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ174542",
-    "jobId": "JREQ174542",
-    "city": "Mexico City",
-    "latitude": "19.4343664",
-    "locale": "en_US",
-    "multi_location": [
-      "Mexico City, Mexico"
-    ],
-    "title": "Visual Verification & Newsgathering Producer",
-    "jobSeqNo": "THTTRUUSJREQ174542EXTERNALENUS",
-    "postedDate": "2024-01-25T00:00:00.000+0000",
-    "dateCreated": "2023-12-12T04:41:01.309+0000",
-    "cityStateCountry": "Mexico City, Mexico",
-    "address": "Av. Paseo de la Reforma #26, Floor 36th, Colonia Ju\u00e1rez, Cuauht\u00e9moc, 06600 Mexico City, Mexico",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/MEX-Distrito-Federal-Reforma-26/Visual-Verification---Newsgathering-Producer_JREQ174542-1/apply",
-    "location": "Mexico City, Mexico",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "You will be based in our Mexico newsroom and will collaborate with video, text and photography colleagues on major global stories \u2013 working on breaking news, personal insight stories, conflicts and in...",
-      "descriptionTeaser_first200": "Visual Verification & Newsgathering Producer. Are you passionate about the chance to bring your experience to a world-class company that is market-leading for both content and technology? If yes, we are...",
-      "descriptionTeaser_keyword": "Visual Verification & Newsgathering Producer. Are you passionate about the chance to bring your experience to a world-class company that is market-leading for both content and technology? If yes, we a...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -99.1510899,
-          "lat": 19.4343664
-        },
-        "location": "Mexico City, Mexico"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Mexico City",
-    "country": "Mexico",
-    "ml_skills": [
-      "journalism",
-      "creative writing",
-      "internet writing",
-      "content management",
-      "grammar",
-      "content strategy",
-      "digital marketing",
-      "professional writing",
-      "work independently",
-      "transparency",
-      "performance metrics",
-      "workflow management"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "The primary responsibilities of the Spanish Content Marketer are to create content in Spanish and English that conforms to the preferred style guide and best practices for the individual medium. Resea...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-99.1510899",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ174777",
-    "jobId": "JREQ174777",
-    "city": "Mexico City",
-    "latitude": "19.4343664",
-    "locale": "en_US",
-    "multi_location": [
-      "Mexico City, Mexico"
-    ],
-    "title": "Spanish Content Marketer",
-    "jobSeqNo": "THTTRUUSJREQ174777EXTERNALENUS",
-    "postedDate": "2024-01-25T00:00:00.000+0000",
-    "dateCreated": "2024-01-11T00:40:19.372+0000",
-    "cityStateCountry": "Mexico City, Mexico",
-    "address": "Av. Paseo de la Reforma #26, Floor 36th, Colonia Ju\u00e1rez, Cuauht\u00e9moc, 06600 Mexico City, Mexico",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/MEX-Distrito-Federal-Reforma-26/Spanish-Content-Marketer_JREQ174777-1/apply",
-    "location": "Mexico City, Mexico",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "The primary responsibilities of the Spanish Content Marketer are to create content in Spanish and English that conforms to the preferred style guide and best practices for the individual medium. Resea...",
-      "descriptionTeaser_first200": "Spanish Content Marketer. Are you a curious, smart, self-driven writer and content professional who thrives in a fast-paced environment? Do you enjoy collaborating with others to deliver outstanding content...",
-      "descriptionTeaser_keyword": "Spanish Content Marketer. Are you a curious, smart, self-driven writer and content professional who thrives in a fast-paced environment? Do you enjoy collaborating with others to deliver outstanding c...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -99.1510899,
-          "lat": 19.4343664
-        },
-        "location": "Mexico City, Mexico"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Los Angeles, California",
-    "country": "United States of America",
-    "ml_skills": [
-      "breaking news",
-      "camera shooting",
-      "film",
-      "multimedia",
-      "dslr",
-      "track",
-      "gimbal",
-      "transparency"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Film news and entertainment events and feature stories using broadcast-quality video camera, DSLR, GoPro, and other camera equipment. Work autonomously when filming, whilst collaborating with colleagu...",
-    "state": "California",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-118.2414884",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ175832",
-    "jobId": "JREQ175832",
-    "city": "Los Angeles",
-    "latitude": "34.033736",
-    "locale": "en_US",
-    "multi_location": [
-      "Los Angeles, California, United States of America"
-    ],
-    "title": "Cameraperson (Level 1 Journalist - Temp)",
-    "jobSeqNo": "THTTRUUSJREQ175832EXTERNALENUS",
-    "postedDate": "2024-01-25T00:00:00.000+0000",
-    "dateCreated": "2024-01-25T20:40:47.810+0000",
-    "cityStateCountry": "Los Angeles, California, United States of America",
-    "address": "777 S. Alameda, 2nd Floor, Los Angeles, CA 90021, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Los-Angeles-777-S-Alameda/Cameraperson--Level-1-Journalist---Temp-_JREQ175832/apply",
-    "location": "Los Angeles, California, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Film news and entertainment events and feature stories using broadcast-quality video camera, DSLR, GoPro, and other camera equipment. Work autonomously when filming, whilst collaborating with colleagu...",
-      "descriptionTeaser_first200": "Cameraperson (Level 1 Journalist - Temp). We anticipate the successful candidate being based within commutable distance to Los Angeles, CA. Looking to use your camera shooting skills to their full potential?...",
-      "descriptionTeaser_keyword": "Cameraperson (Level 1 Journalist - Temp). We anticipate the successful candidate being based within commutable distance to Los Angeles, CA. Looking to use your camera shooting skills to their full pot...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -118.2414884,
-          "lat": 34.033736
-        },
-        "location": "Los Angeles, California, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Gdansk",
-    "country": "Poland",
-    "ml_skills": [
-      "editing",
-      "publishing",
-      "french",
-      "multimedia",
-      "honing",
-      "transparency",
-      "macroeconomics"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "The successful candidate will be part of a team that covers French companies, writes and translates key economic, business and political news for a French-speaking audience. He/she must have excellent...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "18.5752702",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ175894",
-    "jobId": "JREQ175894",
-    "city": "Gdansk",
-    "latitude": "54.4004235",
-    "locale": "en_US",
-    "multi_location": [
-      "Gdansk, Poland"
-    ],
-    "title": "Copy Editor, French File",
-    "jobSeqNo": "THTTRUUSJREQ175894EXTERNALENUS",
-    "postedDate": "2024-01-25T00:00:00.000+0000",
-    "dateCreated": "2024-01-25T16:40:42.073+0000",
-    "cityStateCountry": "Gdansk, Poland",
-    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/Copy-Editor--French-File_JREQ175894/apply",
-    "location": "Gdansk, Poland",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "The successful candidate will be part of a team that covers French companies, writes and translates key economic, business and political news for a French-speaking audience. He/she must have excellent...",
-      "descriptionTeaser_first200": "Reuters is looking a Copy Editor for the French-language team in our Gdansk newsroom. The successful candidate will be part of a team that covers French companies, writes and translates key economic,...",
-      "descriptionTeaser_keyword": "Reuters is looking a Copy Editor for the French-language team in our Gdansk newsroom. The successful candidate will be part of a team that covers French companies, writes and translates key economic,...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 18.5752702,
-          "lat": 54.4004235
-        },
-        "location": "Gdansk, Poland"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Dubai",
     "country": "United Arab Emirates",
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "Senior Specialist Legal Editor, Practical Law (MENA) (Commercial and Technology)Are you a lawyer looking for a career change? We are seeking an experienced commercial and/or technology lawyer to join ",
+    "descriptionTeaser": "As a Senior Specialist Legal Editor you will use your knowledge of commercial/ technology law in the MENA region to provide and maintain a wide range of Practical Law content (including standard contr...",
     "state": "Dubai",
     "visibilityType": "External",
     "siteType": "external",
@@ -721,6 +926,18 @@
     "location": "Dubai, United Arab Emirates",
     "category": "News & Editorial Careers",
     "externalApply": true,
+    "ml_skills": [
+      "transparency",
+      "editing",
+      "arabic",
+      "content strategy"
+    ],
+    "ml_job_parser": {
+      "descriptionTeaser": "As a Senior Specialist Legal Editor you will use your knowledge of commercial/ technology law in the MENA region to provide and maintain a wide range of Practical Law content (including standard contr...",
+      "descriptionTeaser_first200": "Senior Specialist Legal Editor, Practical Law (MENA) (Commercial and Technology). Are you a lawyer looking for a career change? We are seeking an experienced commercial and/or technology lawyer to join...",
+      "descriptionTeaser_keyword": "Senior Specialist Legal Editor, Practical Law (MENA) (Commercial and Technology). Are you a lawyer looking for a career change? We are seeking an experienced commercial and/or technology lawyer to joi...",
+      "descriptionTeaser_ats": ""
+    },
     "isMultiLocation": true,
     "multi_location_array": [
       {
@@ -793,6 +1010,73 @@
           "lat": 51.5056439
         },
         "location": "London, United Kingdom"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Gdansk",
+    "country": "Poland",
+    "ml_skills": [
+      "editing",
+      "publishing",
+      "french",
+      "multimedia",
+      "honing",
+      "transparency",
+      "macroeconomics"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "The successful candidate will be part of a team that covers French companies, writes and translates key economic, business and political news for a French-speaking audience. He/she must have excellent...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "18.5752702",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ175894",
+    "jobId": "JREQ175894",
+    "city": "Gdansk",
+    "latitude": "54.4004235",
+    "locale": "en_US",
+    "multi_location": [
+      "Gdansk, Poland"
+    ],
+    "title": "Copy Editor, French File",
+    "jobSeqNo": "THTTRUUSJREQ175894EXTERNALENUS",
+    "postedDate": "2024-01-25T00:00:00.000+0000",
+    "dateCreated": "2024-01-25T16:40:42.073+0000",
+    "cityStateCountry": "Gdansk, Poland",
+    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/Copy-Editor--French-File_JREQ175894/apply",
+    "location": "Gdansk, Poland",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "The successful candidate will be part of a team that covers French companies, writes and translates key economic, business and political news for a French-speaking audience. He/she must have excellent...",
+      "descriptionTeaser_first200": "Reuters is looking a Copy Editor for the French-language team in our Gdansk newsroom. The successful candidate will be part of a team that covers French companies, writes and translates key economic,...",
+      "descriptionTeaser_keyword": "Reuters is looking a Copy Editor for the French-language team in our Gdansk newsroom. The successful candidate will be part of a team that covers French companies, writes and translates key economic,...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 18.5752702,
+          "lat": 54.4004235
+        },
+        "location": "Gdansk, Poland"
       }
     ],
     "isMultiCategory": true,
@@ -1274,75 +1558,6 @@
           "lat": 19.1114368
         },
         "location": "Mumbai, Maharashtra, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Hong Kong",
-    "country": "Hong Kong",
-    "ml_skills": [
-      "publishing",
-      "transparency",
-      "common law",
-      "editorial",
-      "chinese",
-      "desktop publishing",
-      "microsoft office",
-      "microsoft office applications",
-      "xml"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Reporting to the Regional Law Reports Manager, the Legal Editor is responsible for the general caseload and workflow coordination of the authorised law reports series published by Sweet & Maxwell\u00ae Tho...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "114.2168499",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ175638",
-    "jobId": "JREQ175638",
-    "city": "Hong Kong",
-    "latitude": "22.2876498",
-    "locale": "en_US",
-    "multi_location": [
-      "Hong Kong, Hong Kong"
-    ],
-    "title": "Legal Editor",
-    "jobSeqNo": "THTTRUUSJREQ175638EXTERNALENUS",
-    "postedDate": "2024-01-22T00:00:00.000+0000",
-    "dateCreated": "2024-01-22T04:41:18.969+0000",
-    "cityStateCountry": "Hong Kong, Hong Kong",
-    "address": "15/F, 14 Taikoo Wan Road, Taikoo Shing, Hong Kong, Hong Kong",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/HKG-Taikoo-14-Taikoo-Wan-Road/Legal-Editor_JREQ175638/apply",
-    "location": "Hong Kong, Hong Kong",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Reporting to the Regional Law Reports Manager, the Legal Editor is responsible for the general caseload and workflow coordination of the authorised law reports series published by Sweet & Maxwell\u00ae Tho...",
-      "descriptionTeaser_first200": "We are looking for a Legal Editor in our Hong Kong team. About the Role. In this opportunity as Legal Editor, you will. Reporting to the Regional Law Reports Manager, the Legal Editor is responsible for...",
-      "descriptionTeaser_keyword": "We are looking for a Legal Editor in our Hong Kong team. About the Role. In this opportunity as Legal Editor, you will. Reporting to the Regional Law Reports Manager, the Legal Editor is responsible f...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 114.2168499,
-          "lat": 22.2876498
-        },
-        "location": "Hong Kong, Hong Kong"
       }
     ],
     "isMultiCategory": true,
