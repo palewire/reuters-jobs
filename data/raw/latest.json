@@ -1,5 +1,57 @@
 [
   {
+    "cityState": "Bengaluru, Karnataka",
+    "country": "India",
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "We are looking for a multimedia journalist to join the 24X7 digital operations of Reuters, which operates one of world's largest and most credible business and news websites and an online business in ",
+    "state": "Karnataka",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "77.7120655",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ166511",
+    "jobId": "JREQ166511",
+    "city": "Bengaluru",
+    "latitude": "12.9743998",
+    "locale": "en_US",
+    "multi_location": [
+      "Bengaluru, Karnataka, India"
+    ],
+    "title": "Multimedia News Producer",
+    "jobSeqNo": "THTTRUUSJREQ166511EXTERNALENUS",
+    "postedDate": "2024-01-29T00:00:00.000+0000",
+    "dateCreated": "2023-03-09T12:42:32.596+0000",
+    "cityStateCountry": "Bengaluru, Karnataka, India",
+    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/Multimedia-News-Producer_JREQ166511/apply",
+    "location": "Bengaluru, Karnataka, India",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 77.7120655,
+          "lat": 12.9743998
+        },
+        "location": "Bengaluru, Karnataka, India"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Chicago, Illinois",
     "country": "United States of America",
     "ml_skills": [
@@ -1696,73 +1748,6 @@
           "lat": 1.2938815
         },
         "location": "Singapore, Singapore"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "San Francisco, California",
-    "country": "United States of America",
-    "ml_skills": [
-      "breaking news",
-      "film",
-      "multimedia",
-      "dslr",
-      "track",
-      "gimbal",
-      "transparency"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "S. , including breaking news and feature stories with travel to the scene of events (largely along the West Coast). Film news events and feature stories using broadcast-quality video camera, DSLR, GoP...",
-    "state": "California",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-122.3973037",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ174423",
-    "jobId": "JREQ174423",
-    "city": "San Francisco",
-    "latitude": "37.7940487",
-    "locale": "en_US",
-    "multi_location": [
-      "San Francisco, California, United States of America"
-    ],
-    "title": "Cameraperson (Level 1 Journalist - Temp)",
-    "jobSeqNo": "THTTRUUSJREQ174423EXTERNALENUS",
-    "postedDate": "2024-01-16T00:00:00.000+0000",
-    "dateCreated": "2023-12-22T20:42:46.406+0000",
-    "cityStateCountry": "San Francisco, California, United States of America",
-    "address": "50 California Street, 3rd Floor, San Francisco, CA 94111, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-San-Francisco-California-S/Cameraperson--Level-1-Journalist---Temp-_JREQ174423/apply",
-    "location": "San Francisco, California, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "S. , including breaking news and feature stories with travel to the scene of events (largely along the West Coast). Film news events and feature stories using broadcast-quality video camera, DSLR, GoP...",
-      "descriptionTeaser_first200": "Cameraperson (Level 1 Journalist - Temp). We anticipate the successful candidate being based within commutable distance to San Francisco, CA. Looking to use your camera skills to their full potential?...",
-      "descriptionTeaser_keyword": "Cameraperson (Level 1 Journalist - Temp). We anticipate the successful candidate being based within commutable distance to San Francisco, CA. Looking to use your camera skills to their full potential?...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -122.3973037,
-          "lat": 37.7940487
-        },
-        "location": "San Francisco, California, United States of America"
       }
     ],
     "isMultiCategory": true,
