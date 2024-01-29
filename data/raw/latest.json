@@ -1,5 +1,81 @@
 [
   {
+    "cityState": "Gdansk",
+    "country": "Poland",
+    "ml_skills": [
+      "gis",
+      "spatial analysis techniques",
+      "spatial analysis",
+      "digitization",
+      "gis data production",
+      "information systems",
+      "arcgis",
+      "computer science",
+      "relational databases",
+      "sql",
+      "python",
+      "tiger",
+      "editing",
+      "transparency",
+      "ukrainian",
+      "customer support"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Written and spoken fluency in English. Ukrainian citizens and their family members residing in Ukraine before 24 February 2022. Citizens of other third countries who were permanent residents in Ukrain...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "18.5752702",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ175927",
+    "jobId": "JREQ175927",
+    "city": "Gdansk",
+    "latitude": "54.4004235",
+    "locale": "en_US",
+    "multi_location": [
+      "Gdansk, Poland"
+    ],
+    "title": "GIS Analyst",
+    "jobSeqNo": "THTTRUUSJREQ175927EXTERNALENUS",
+    "postedDate": "2024-01-29T00:00:00.000+0000",
+    "dateCreated": "2024-01-29T17:26:14.438+0000",
+    "cityStateCountry": "Gdansk, Poland",
+    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/GIS-Analyst_JREQ175927/apply",
+    "location": "Gdansk, Poland",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Written and spoken fluency in English. Ukrainian citizens and their family members residing in Ukraine before 24 February 2022. Citizens of other third countries who were permanent residents in Ukrain...",
+      "descriptionTeaser_first200": "We welcome applications to our full-time vacancies from all citizens who have been granted protection within the territory of the Republic of Poland under the EU Temporary Protection Directive*. The GIS...",
+      "descriptionTeaser_keyword": "We welcome applications to our full-time vacancies from all citizens who have been granted protection within the territory of the Republic of Poland under the EU Temporary Protection Directive*. The G...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 18.5752702,
+          "lat": 54.4004235
+        },
+        "location": "Gdansk, Poland"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Bengaluru, Karnataka",
     "country": "India",
     "remote": "Hybrid",
@@ -117,6 +193,70 @@
     "badge": ""
   },
   {
+    "cityState": "Toronto, Ontario",
+    "country": "Canada",
+    "ml_skills": [
+      "japanese",
+      "machine translation",
+      "multimedia",
+      "transparency"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "As Translation Editor (Japanese Language Service), you will be instrumental in bringing global news to Reuters' Japanese-speaking audiences. Edit machine-translated English-to-Japanese articles for ac...",
+    "state": "Ontario",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-79.3884094",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ175759",
+    "jobId": "JREQ175759",
+    "city": "Toronto",
+    "latitude": "43.6480117",
+    "locale": "en_US",
+    "multi_location": [
+      "Toronto, Ontario, Canada"
+    ],
+    "title": "Translation Editor, Japanese Language Service - TEMP",
+    "jobSeqNo": "THTTRUUSJREQ175759EXTERNALENUS",
+    "postedDate": "2024-01-26T00:00:00.000+0000",
+    "dateCreated": "2024-01-26T16:40:14.597+0000",
+    "cityStateCountry": "Toronto, Ontario, Canada",
+    "address": "19 Duncan Street, Toronto, ON M5H 3H1, Canada",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CAN-Toronto-19-Duncan-Street/Translation-Editor--Japanese-Language-Service---TEMP_JREQ175759/apply",
+    "location": "Toronto, Ontario, Canada",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "As Translation Editor (Japanese Language Service), you will be instrumental in bringing global news to Reuters' Japanese-speaking audiences. Edit machine-translated English-to-Japanese articles for ac...",
+      "descriptionTeaser_first200": "Translation Editor, Japanese Language Service - Temporary Contract. This hybrid TEMPORARY position will be based in Toronto, Canada. Other locations will also be considered. Reuters is looking for a highly...",
+      "descriptionTeaser_keyword": "Translation Editor, Japanese Language Service - Temporary Contract. This hybrid TEMPORARY position will be based in Toronto, Canada. Other locations will also be considered. Reuters is looking for a h...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -79.3884094,
+          "lat": 43.6480117
+        },
+        "location": "Toronto, Ontario, Canada"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Manila",
     "country": "Philippines",
     "ml_skills": [
@@ -176,70 +316,6 @@
           "lat": 14.5344436
         },
         "location": "Manila, Philippines"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Toronto, Ontario",
-    "country": "Canada",
-    "ml_skills": [
-      "japanese",
-      "machine translation",
-      "multimedia",
-      "transparency"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "As Translation Editor (Japanese Language Service), you will be instrumental in bringing global news to Reuters' Japanese-speaking audiences. Edit machine-translated English-to-Japanese articles for ac...",
-    "state": "Ontario",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-79.3884094",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ175759",
-    "jobId": "JREQ175759",
-    "city": "Toronto",
-    "latitude": "43.6480117",
-    "locale": "en_US",
-    "multi_location": [
-      "Toronto, Ontario, Canada"
-    ],
-    "title": "Translation Editor, Japanese Language Service - TEMP",
-    "jobSeqNo": "THTTRUUSJREQ175759EXTERNALENUS",
-    "postedDate": "2024-01-26T00:00:00.000+0000",
-    "dateCreated": "2024-01-26T16:40:14.597+0000",
-    "cityStateCountry": "Toronto, Ontario, Canada",
-    "address": "19 Duncan Street, Toronto, ON M5H 3H1, Canada",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CAN-Toronto-19-Duncan-Street/Translation-Editor--Japanese-Language-Service---TEMP_JREQ175759/apply",
-    "location": "Toronto, Ontario, Canada",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "As Translation Editor (Japanese Language Service), you will be instrumental in bringing global news to Reuters' Japanese-speaking audiences. Edit machine-translated English-to-Japanese articles for ac...",
-      "descriptionTeaser_first200": "Translation Editor, Japanese Language Service - Temporary Contract. This hybrid TEMPORARY position will be based in Toronto, Canada. Other locations will also be considered. Reuters is looking for a highly...",
-      "descriptionTeaser_keyword": "Translation Editor, Japanese Language Service - Temporary Contract. This hybrid TEMPORARY position will be based in Toronto, Canada. Other locations will also be considered. Reuters is looking for a h...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -79.3884094,
-          "lat": 43.6480117
-        },
-        "location": "Toronto, Ontario, Canada"
       }
     ],
     "isMultiCategory": true,
@@ -1483,72 +1559,6 @@
     "badge": ""
   },
   {
-    "cityState": "Mumbai, Maharashtra",
-    "country": "India",
-    "ml_skills": [
-      "public accounting",
-      "state tax",
-      "financial statements",
-      "ms office",
-      "software",
-      "caseware software"
-    ],
-    "remote": "On-Site",
-    "type": "Full time",
-    "descriptionTeaser": "Handling 1065/1120/1040/1041 Returns. Preparation of 1065/1120/1040/1041 returns. Handling Business Tax Returns. Knowledge on various tax technical concepts, software(s) and tools used in preparation...",
-    "state": "Maharashtra",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "72.8814089",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ175320",
-    "jobId": "JREQ175320",
-    "city": "Mumbai",
-    "latitude": "19.1114368",
-    "locale": "en_US",
-    "multi_location": [
-      "Mumbai, Maharashtra, India"
-    ],
-    "title": "Process Associate",
-    "jobSeqNo": "THTTRUUSJREQ175320EXTERNALENUS",
-    "postedDate": "2024-01-23T00:00:00.000+0000",
-    "dateCreated": "2024-01-23T08:41:01.672+0000",
-    "cityStateCountry": "Mumbai, Maharashtra, India",
-    "address": "4th Flr, Dhantak Plaza, Makwana Road, Marol, Andheri East, Mumbai- 400059, Maharashtra, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Mumbai-Dhantak-Plaza/Process-Associate_JREQ175320/apply",
-    "location": "Mumbai, Maharashtra, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Handling 1065/1120/1040/1041 Returns. Preparation of 1065/1120/1040/1041 returns. Handling Business Tax Returns. Knowledge on various tax technical concepts, software(s) and tools used in preparation...",
-      "descriptionTeaser_first200": "Role. Handling 1065/1120/1040/1041 Returns. Preparation of 1065/1120/1040/1041 returns. Handling Business Tax Returns. Preparation of U.S Corporate and Partnership Federal and Multi state tax returns....",
-      "descriptionTeaser_keyword": "Role. Handling 1065/1120/1040/1041 Returns. Preparation of 1065/1120/1040/1041 returns. Handling Business Tax Returns. Preparation of U. S Corporate and Partnership Federal and Multi state tax returns...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 72.8814089,
-          "lat": 19.1114368
-        },
-        "location": "Mumbai, Maharashtra, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Mexico City",
     "country": "Mexico",
     "ml_skills": [
@@ -1610,6 +1620,72 @@
           "lat": 19.4343664
         },
         "location": "Mexico City, Mexico"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Mumbai, Maharashtra",
+    "country": "India",
+    "ml_skills": [
+      "public accounting",
+      "state tax",
+      "financial statements",
+      "ms office",
+      "software",
+      "caseware software"
+    ],
+    "remote": "On-Site",
+    "type": "Full time",
+    "descriptionTeaser": "Handling 1065/1120/1040/1041 Returns. Preparation of 1065/1120/1040/1041 returns. Handling Business Tax Returns. Knowledge on various tax technical concepts, software(s) and tools used in preparation...",
+    "state": "Maharashtra",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "72.8814089",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ175320",
+    "jobId": "JREQ175320",
+    "city": "Mumbai",
+    "latitude": "19.1114368",
+    "locale": "en_US",
+    "multi_location": [
+      "Mumbai, Maharashtra, India"
+    ],
+    "title": "Process Associate",
+    "jobSeqNo": "THTTRUUSJREQ175320EXTERNALENUS",
+    "postedDate": "2024-01-23T00:00:00.000+0000",
+    "dateCreated": "2024-01-23T08:41:01.672+0000",
+    "cityStateCountry": "Mumbai, Maharashtra, India",
+    "address": "4th Flr, Dhantak Plaza, Makwana Road, Marol, Andheri East, Mumbai- 400059, Maharashtra, India",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Mumbai-Dhantak-Plaza/Process-Associate_JREQ175320/apply",
+    "location": "Mumbai, Maharashtra, India",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Handling 1065/1120/1040/1041 Returns. Preparation of 1065/1120/1040/1041 returns. Handling Business Tax Returns. Knowledge on various tax technical concepts, software(s) and tools used in preparation...",
+      "descriptionTeaser_first200": "Role. Handling 1065/1120/1040/1041 Returns. Preparation of 1065/1120/1040/1041 returns. Handling Business Tax Returns. Preparation of U.S Corporate and Partnership Federal and Multi state tax returns....",
+      "descriptionTeaser_keyword": "Role. Handling 1065/1120/1040/1041 Returns. Preparation of 1065/1120/1040/1041 returns. Handling Business Tax Returns. Preparation of U. S Corporate and Partnership Federal and Multi state tax returns...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 72.8814089,
+          "lat": 19.1114368
+        },
+        "location": "Mumbai, Maharashtra, India"
       }
     ],
     "isMultiCategory": true,
@@ -1955,6 +2031,69 @@
     "badge": ""
   },
   {
+    "cityState": "Pyrmont, New South Wales",
+    "country": "Australia",
+    "ml_skills": [
+      "editorial standards",
+      "transparency",
+      "tax law"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Designs, develops, and provides high quality reference materials for the company\u2019s products and resources using interactive content and new technologies. Design and develop high quality reference mate...",
+    "state": "New South Wales",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "151.1915144",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ175090",
+    "jobId": "JREQ175090",
+    "city": "Pyrmont",
+    "latitude": "-33.8664432",
+    "locale": "en_US",
+    "multi_location": [
+      "Pyrmont, New South Wales, Australia"
+    ],
+    "title": "Tax Writer",
+    "jobSeqNo": "THTTRUUSJREQ175090EXTERNALENUS",
+    "postedDate": "2024-01-15T00:00:00.000+0000",
+    "dateCreated": "2024-01-15T08:40:36.134+0000",
+    "cityStateCountry": "Pyrmont, New South Wales, Australia",
+    "address": "19 Harris Street, Pyrmont NSW 2009, Australia",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/AUS-Pyrmont-19-Harris-St/Tax-Writer_JREQ175090/apply",
+    "location": "Pyrmont, New South Wales, Australia",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Designs, develops, and provides high quality reference materials for the company\u2019s products and resources using interactive content and new technologies. Design and develop high quality reference mate...",
+      "descriptionTeaser_first200": "We have an exciting opportunity for a Tax Writer to join our editorial team. As a Tax Writer you will, be responsible for analyzing, reviewing, and creating content for a variety of product offerings....",
+      "descriptionTeaser_keyword": "We have an exciting opportunity for a Tax Writer to join our editorial team. As a Tax Writer you will, be responsible for analyzing, reviewing, and creating content for a variety of product offerings....",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 151.1915144,
+          "lat": -33.8664432
+        },
+        "location": "Pyrmont, New South Wales, Australia"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "London",
     "country": "United Kingdom",
     "ml_skills": [
@@ -2009,69 +2148,6 @@
           "lat": 51.5056439
         },
         "location": "London, United Kingdom"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Pyrmont, New South Wales",
-    "country": "Australia",
-    "ml_skills": [
-      "editorial standards",
-      "transparency",
-      "tax law"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Designs, develops, and provides high quality reference materials for the company\u2019s products and resources using interactive content and new technologies. Design and develop high quality reference mate...",
-    "state": "New South Wales",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "151.1915144",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ175090",
-    "jobId": "JREQ175090",
-    "city": "Pyrmont",
-    "latitude": "-33.8664432",
-    "locale": "en_US",
-    "multi_location": [
-      "Pyrmont, New South Wales, Australia"
-    ],
-    "title": "Tax Writer",
-    "jobSeqNo": "THTTRUUSJREQ175090EXTERNALENUS",
-    "postedDate": "2024-01-15T00:00:00.000+0000",
-    "dateCreated": "2024-01-15T08:40:36.134+0000",
-    "cityStateCountry": "Pyrmont, New South Wales, Australia",
-    "address": "19 Harris Street, Pyrmont NSW 2009, Australia",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/AUS-Pyrmont-19-Harris-St/Tax-Writer_JREQ175090/apply",
-    "location": "Pyrmont, New South Wales, Australia",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Designs, develops, and provides high quality reference materials for the company\u2019s products and resources using interactive content and new technologies. Design and develop high quality reference mate...",
-      "descriptionTeaser_first200": "We have an exciting opportunity for a Tax Writer to join our editorial team. As a Tax Writer you will, be responsible for analyzing, reviewing, and creating content for a variety of product offerings....",
-      "descriptionTeaser_keyword": "We have an exciting opportunity for a Tax Writer to join our editorial team. As a Tax Writer you will, be responsible for analyzing, reviewing, and creating content for a variety of product offerings....",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 151.1915144,
-          "lat": -33.8664432
-        },
-        "location": "Pyrmont, New South Wales, Australia"
       }
     ],
     "isMultiCategory": true,
