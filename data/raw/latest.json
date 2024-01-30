@@ -193,70 +193,6 @@
     "badge": ""
   },
   {
-    "cityState": "Toronto, Ontario",
-    "country": "Canada",
-    "ml_skills": [
-      "japanese",
-      "machine translation",
-      "multimedia",
-      "transparency"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "As Translation Editor (Japanese Language Service), you will be instrumental in bringing global news to Reuters' Japanese-speaking audiences. Edit machine-translated English-to-Japanese articles for ac...",
-    "state": "Ontario",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-79.3884094",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ175759",
-    "jobId": "JREQ175759",
-    "city": "Toronto",
-    "latitude": "43.6480117",
-    "locale": "en_US",
-    "multi_location": [
-      "Toronto, Ontario, Canada"
-    ],
-    "title": "Translation Editor, Japanese Language Service - TEMP",
-    "jobSeqNo": "THTTRUUSJREQ175759EXTERNALENUS",
-    "postedDate": "2024-01-26T00:00:00.000+0000",
-    "dateCreated": "2024-01-26T16:40:14.597+0000",
-    "cityStateCountry": "Toronto, Ontario, Canada",
-    "address": "19 Duncan Street, Toronto, ON M5H 3H1, Canada",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CAN-Toronto-19-Duncan-Street/Translation-Editor--Japanese-Language-Service---TEMP_JREQ175759/apply",
-    "location": "Toronto, Ontario, Canada",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "As Translation Editor (Japanese Language Service), you will be instrumental in bringing global news to Reuters' Japanese-speaking audiences. Edit machine-translated English-to-Japanese articles for ac...",
-      "descriptionTeaser_first200": "Translation Editor, Japanese Language Service - Temporary Contract. This hybrid TEMPORARY position will be based in Toronto, Canada. Other locations will also be considered. Reuters is looking for a highly...",
-      "descriptionTeaser_keyword": "Translation Editor, Japanese Language Service - Temporary Contract. This hybrid TEMPORARY position will be based in Toronto, Canada. Other locations will also be considered. Reuters is looking for a h...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -79.3884094,
-          "lat": 43.6480117
-        },
-        "location": "Toronto, Ontario, Canada"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Manila",
     "country": "Philippines",
     "ml_skills": [
@@ -316,6 +252,70 @@
           "lat": 14.5344436
         },
         "location": "Manila, Philippines"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Toronto, Ontario",
+    "country": "Canada",
+    "ml_skills": [
+      "japanese",
+      "machine translation",
+      "multimedia",
+      "transparency"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "As Translation Editor (Japanese Language Service), you will be instrumental in bringing global news to Reuters' Japanese-speaking audiences. Edit machine-translated English-to-Japanese articles for ac...",
+    "state": "Ontario",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-79.3884094",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ175759",
+    "jobId": "JREQ175759",
+    "city": "Toronto",
+    "latitude": "43.6480117",
+    "locale": "en_US",
+    "multi_location": [
+      "Toronto, Ontario, Canada"
+    ],
+    "title": "Translation Editor, Japanese Language Service - TEMP",
+    "jobSeqNo": "THTTRUUSJREQ175759EXTERNALENUS",
+    "postedDate": "2024-01-26T00:00:00.000+0000",
+    "dateCreated": "2024-01-26T16:40:14.597+0000",
+    "cityStateCountry": "Toronto, Ontario, Canada",
+    "address": "19 Duncan Street, Toronto, ON M5H 3H1, Canada",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CAN-Toronto-19-Duncan-Street/Translation-Editor--Japanese-Language-Service---TEMP_JREQ175759/apply",
+    "location": "Toronto, Ontario, Canada",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "As Translation Editor (Japanese Language Service), you will be instrumental in bringing global news to Reuters' Japanese-speaking audiences. Edit machine-translated English-to-Japanese articles for ac...",
+      "descriptionTeaser_first200": "Translation Editor, Japanese Language Service - Temporary Contract. This hybrid TEMPORARY position will be based in Toronto, Canada. Other locations will also be considered. Reuters is looking for a highly...",
+      "descriptionTeaser_keyword": "Translation Editor, Japanese Language Service - Temporary Contract. This hybrid TEMPORARY position will be based in Toronto, Canada. Other locations will also be considered. Reuters is looking for a h...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -79.3884094,
+          "lat": 43.6480117
+        },
+        "location": "Toronto, Ontario, Canada"
       }
     ],
     "isMultiCategory": true,
@@ -1559,6 +1559,72 @@
     "badge": ""
   },
   {
+    "cityState": "Mumbai, Maharashtra",
+    "country": "India",
+    "ml_skills": [
+      "public accounting",
+      "state tax",
+      "financial statements",
+      "ms office",
+      "software",
+      "caseware software"
+    ],
+    "remote": "On-Site",
+    "type": "Full time",
+    "descriptionTeaser": "Handling 1065/1120/1040/1041 Returns. Preparation of 1065/1120/1040/1041 returns. Handling Business Tax Returns. Knowledge on various tax technical concepts, software(s) and tools used in preparation...",
+    "state": "Maharashtra",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "72.8814089",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ175320",
+    "jobId": "JREQ175320",
+    "city": "Mumbai",
+    "latitude": "19.1114368",
+    "locale": "en_US",
+    "multi_location": [
+      "Mumbai, Maharashtra, India"
+    ],
+    "title": "Process Associate",
+    "jobSeqNo": "THTTRUUSJREQ175320EXTERNALENUS",
+    "postedDate": "2024-01-23T00:00:00.000+0000",
+    "dateCreated": "2024-01-23T08:41:01.672+0000",
+    "cityStateCountry": "Mumbai, Maharashtra, India",
+    "address": "4th Flr, Dhantak Plaza, Makwana Road, Marol, Andheri East, Mumbai- 400059, Maharashtra, India",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Mumbai-Dhantak-Plaza/Process-Associate_JREQ175320/apply",
+    "location": "Mumbai, Maharashtra, India",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Handling 1065/1120/1040/1041 Returns. Preparation of 1065/1120/1040/1041 returns. Handling Business Tax Returns. Knowledge on various tax technical concepts, software(s) and tools used in preparation...",
+      "descriptionTeaser_first200": "Role. Handling 1065/1120/1040/1041 Returns. Preparation of 1065/1120/1040/1041 returns. Handling Business Tax Returns. Preparation of U.S Corporate and Partnership Federal and Multi state tax returns....",
+      "descriptionTeaser_keyword": "Role. Handling 1065/1120/1040/1041 Returns. Preparation of 1065/1120/1040/1041 returns. Handling Business Tax Returns. Preparation of U. S Corporate and Partnership Federal and Multi state tax returns...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 72.8814089,
+          "lat": 19.1114368
+        },
+        "location": "Mumbai, Maharashtra, India"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Mexico City",
     "country": "Mexico",
     "ml_skills": [
@@ -1620,72 +1686,6 @@
           "lat": 19.4343664
         },
         "location": "Mexico City, Mexico"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Mumbai, Maharashtra",
-    "country": "India",
-    "ml_skills": [
-      "public accounting",
-      "state tax",
-      "financial statements",
-      "ms office",
-      "software",
-      "caseware software"
-    ],
-    "remote": "On-Site",
-    "type": "Full time",
-    "descriptionTeaser": "Handling 1065/1120/1040/1041 Returns. Preparation of 1065/1120/1040/1041 returns. Handling Business Tax Returns. Knowledge on various tax technical concepts, software(s) and tools used in preparation...",
-    "state": "Maharashtra",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "72.8814089",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ175320",
-    "jobId": "JREQ175320",
-    "city": "Mumbai",
-    "latitude": "19.1114368",
-    "locale": "en_US",
-    "multi_location": [
-      "Mumbai, Maharashtra, India"
-    ],
-    "title": "Process Associate",
-    "jobSeqNo": "THTTRUUSJREQ175320EXTERNALENUS",
-    "postedDate": "2024-01-23T00:00:00.000+0000",
-    "dateCreated": "2024-01-23T08:41:01.672+0000",
-    "cityStateCountry": "Mumbai, Maharashtra, India",
-    "address": "4th Flr, Dhantak Plaza, Makwana Road, Marol, Andheri East, Mumbai- 400059, Maharashtra, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Mumbai-Dhantak-Plaza/Process-Associate_JREQ175320/apply",
-    "location": "Mumbai, Maharashtra, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Handling 1065/1120/1040/1041 Returns. Preparation of 1065/1120/1040/1041 returns. Handling Business Tax Returns. Knowledge on various tax technical concepts, software(s) and tools used in preparation...",
-      "descriptionTeaser_first200": "Role. Handling 1065/1120/1040/1041 Returns. Preparation of 1065/1120/1040/1041 returns. Handling Business Tax Returns. Preparation of U.S Corporate and Partnership Federal and Multi state tax returns....",
-      "descriptionTeaser_keyword": "Role. Handling 1065/1120/1040/1041 Returns. Preparation of 1065/1120/1040/1041 returns. Handling Business Tax Returns. Preparation of U. S Corporate and Partnership Federal and Multi state tax returns...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 72.8814089,
-          "lat": 19.1114368
-        },
-        "location": "Mumbai, Maharashtra, India"
       }
     ],
     "isMultiCategory": true,
@@ -2094,71 +2094,6 @@
     "badge": ""
   },
   {
-    "cityState": "London",
-    "country": "United Kingdom",
-    "ml_skills": [
-      "microsoft office applications",
-      "microsoft office",
-      "communication skills",
-      "transparency",
-      "time management"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "We also make reasonable accommodations for qualified individuals with disabilities and for sincerely held religious beliefs in accordance with applicable law. Working with fellow EAs in both the UK an...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-0.0185088",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ174985",
-    "jobId": "JREQ174985",
-    "city": "London",
-    "latitude": "51.5056439",
-    "locale": "en_US",
-    "multi_location": [
-      "London, United Kingdom"
-    ],
-    "title": "Editorial Associate",
-    "jobSeqNo": "THTTRUUSJREQ174985EXTERNALENUS",
-    "postedDate": "2024-01-15T00:00:00.000+0000",
-    "dateCreated": "2024-01-15T16:40:28.008+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Editorial-Associate_JREQ174985/apply",
-    "location": "London, United Kingdom",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "We also make reasonable accommodations for qualified individuals with disabilities and for sincerely held religious beliefs in accordance with applicable law. Working with fellow EAs in both the UK an...",
-      "descriptionTeaser_first200": "We are seeking an Editorial Associate (EA) to support the Practical Law editorial teams with the creation, publication, delivery, and presentation of content for Practical Law and to provide administrative...",
-      "descriptionTeaser_keyword": "We are seeking an Editorial Associate (EA) to support the Practical Law editorial teams with the creation, publication, delivery, and presentation of content for Practical Law and to provide administr...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -0.0185088,
-          "lat": 51.5056439
-        },
-        "location": "London, United Kingdom"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Carrollton, Texas",
     "country": "United States of America",
     "ml_skills": [
@@ -2546,72 +2481,6 @@
           "lat": 35.6650759
         },
         "location": "Tokyo, Japan"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "New York, New York",
-    "country": "United States of America",
-    "ml_skills": [
-      "multimedia storytelling",
-      "multimedia",
-      "storytelling",
-      "fundraising",
-      "venture capital",
-      "transparency"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Develop a wide range of sources in the venture capital, startups and tech financing communities and write about the latest trends and deals among tech companies. Develop a wide range of sources in the...",
-    "state": "New York",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-73.9866995",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ174411",
-    "jobId": "JREQ174411",
-    "city": "New York",
-    "latitude": "40.7566955",
-    "locale": "en_US",
-    "multi_location": [
-      "New York, New York, United States of America"
-    ],
-    "title": "Tech Financing Reporter \u2013 Level 1 Journalist (Technology Correspondent)",
-    "jobSeqNo": "THTTRUUSJREQ174411EXTERNALENUS",
-    "postedDate": "2024-01-09T00:00:00.000+0000",
-    "dateCreated": "2023-12-01T00:40:29.749+0000",
-    "cityStateCountry": "New York, New York, United States of America",
-    "address": "3 Times Square, New York, NY 10036, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-New-York-3-Times-Square/Tech-Financing-Reporter---Level-1-Journalist--Technology-Correspondent-_JREQ174411/apply",
-    "location": "New York, New York, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Develop a wide range of sources in the venture capital, startups and tech financing communities and write about the latest trends and deals among tech companies. Develop a wide range of sources in the...",
-      "descriptionTeaser_first200": "Tech Financing Reporter \u2013 Level 1 Journalist (Technology Correspondent) (New York, NY). Develop a wide range of sources in the venture capital, startups and tech financing communities and write about...",
-      "descriptionTeaser_keyword": "Tech Financing Reporter \u2013 Level 1 Journalist (Technology Correspondent) (New York, NY). Develop a wide range of sources in the venture capital, startups and tech financing communities and write about...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -73.9866995,
-          "lat": 40.7566955
-        },
-        "location": "New York, New York, United States of America"
       }
     ],
     "isMultiCategory": true,
