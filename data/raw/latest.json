@@ -67,6 +67,73 @@
     "badge": ""
   },
   {
+    "cityState": "Kyiv, Kyiv",
+    "country": "Ukraine",
+    "ml_skills": [
+      "news writing",
+      "fact-checking",
+      "breaking news",
+      "current affairs",
+      "multimedia",
+      "ukrainian",
+      "transparency"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Reuters is seeking a journalist with strong research and writing skills and fluency in Ukrainian and Russian to join its global fact-checking team. As a Fact-Checking Producer, you\u2019ll identify viral c...",
+    "state": "Kyiv",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "30.5234",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ176015",
+    "jobId": "JREQ176015",
+    "city": "Kyiv",
+    "latitude": "50.4501",
+    "locale": "en_US",
+    "multi_location": [
+      "Kyiv, Kyiv, Ukraine"
+    ],
+    "title": "Fact-Checking Producer",
+    "jobSeqNo": "THTTRUUSJREQ176015EXTERNALENUS",
+    "postedDate": "2024-02-02T00:00:00.000+0000",
+    "dateCreated": "2024-02-02T16:41:07.921+0000",
+    "cityStateCountry": "Kyiv, Kyiv, Ukraine",
+    "address": "Leonardo Business Centre, Office 412-a, \u041a\u043e\u0440\u043f. 17/52-a, B.Khmelnitsky Street, Kyiv, Kyiv, 1030, Ukraine",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/UKR-Kyiv-Leonardo-Business-Cen/Fact-Checking-Producer_JREQ176015/apply",
+    "location": "Kyiv, Kyiv, Ukraine",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Reuters is seeking a journalist with strong research and writing skills and fluency in Ukrainian and Russian to join its global fact-checking team. As a Fact-Checking Producer, you\u2019ll identify viral c...",
+      "descriptionTeaser_first200": "Reuters is seeking a journalist with strong research and writing skills and fluency in Ukrainian and Russian to join its global fact-checking team. As a Fact-Checking Producer, you\u2019ll identify viral content...",
+      "descriptionTeaser_keyword": "Reuters is seeking a journalist with strong research and writing skills and fluency in Ukrainian and Russian to join its global fact-checking team. As a Fact-Checking Producer, you\u2019ll identify viral c...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 30.5234,
+          "lat": 50.4501
+        },
+        "location": "Kyiv, Kyiv, Ukraine"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Bengaluru, Karnataka",
     "country": "India",
     "ml_skills": [
