@@ -1,5 +1,421 @@
 [
   {
+    "cityState": "New Delhi, Delhi",
+    "country": "India",
+    "ml_skills": [
+      "french",
+      "multimedia",
+      "editing",
+      "transparency",
+      "swahili",
+      "hostile environments"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Generate great ideas; report, write and edit with authority across the file; and work closely with visuals colleagues to deliver stories in multiple formats. Have strong diplomatic skills, including a...",
+    "state": "Delhi",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "77.2236343",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ176104",
+    "jobId": "JREQ176104",
+    "city": "New Delhi",
+    "latitude": "28.6298791",
+    "locale": "en_US",
+    "multi_location": [
+      "New Delhi, Delhi, India"
+    ],
+    "title": "Bureau Chief, East Africa - Reuters",
+    "jobSeqNo": "THTTRUUSJREQ176104EXTERNALENUS",
+    "postedDate": "2024-02-09T00:00:00.000+0000",
+    "dateCreated": "2024-02-09T12:41:48.462+0000",
+    "cityStateCountry": "New Delhi, Delhi, India",
+    "address": "1st Floor, No-25, Birla Tower, Barakhamba Road, New Delhi- 110001, Delhi, India",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-New-Delhi-1st-Floor-Birla-Tower/Bureau-Chief--East-Africa---Reuters_JREQ176104/apply",
+    "location": "New Delhi, Delhi, India",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Generate great ideas; report, write and edit with authority across the file; and work closely with visuals colleagues to deliver stories in multiple formats. Have strong diplomatic skills, including a...",
+      "descriptionTeaser_first200": "Reuters is looking for an exceptional journalist and newsroom leader to drive our coverage of East Africa. Based in Nairobi, you will have the versatility, experience, reporting and editing skills to...",
+      "descriptionTeaser_keyword": "Reuters is looking for an exceptional journalist and newsroom leader to drive our coverage of East Africa. Based in Nairobi, you will have the versatility, experience, reporting and editing skills to...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 77.2236343,
+          "lat": 28.6298791
+        },
+        "location": "New Delhi, Delhi, India"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Toronto, Ontario",
+    "country": "Canada",
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "As Translation Editor (Japanese Language Service), you will be instrumental in bringing global news to Reuters' Japanese-speaking audiences. Edit machine-translated English-to-Japanese articles for ac...",
+    "state": "Ontario",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-79.3884094",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ175759",
+    "jobId": "JREQ175759",
+    "city": "Toronto",
+    "latitude": "43.6480117",
+    "locale": "en_US",
+    "multi_location": [
+      "Toronto, Ontario, Canada"
+    ],
+    "title": "Translation Editor, Japanese Language Service - TEMP",
+    "jobSeqNo": "THTTRUUSJREQ175759EXTERNALENUS",
+    "postedDate": "2024-02-09T00:00:00.000+0000",
+    "dateCreated": "2024-01-26T16:40:14.597+0000",
+    "cityStateCountry": "Toronto, Ontario, Canada",
+    "address": "19 Duncan Street, Toronto, ON M5H 3H1, Canada",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CAN-Toronto-19-Duncan-Street/Translation-Editor--Japanese-Language-Service---TEMP_JREQ175759/apply",
+    "location": "Toronto, Ontario, Canada",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "ml_skills": [
+      "japanese",
+      "machine translation",
+      "multimedia",
+      "transparency"
+    ],
+    "ml_job_parser": {
+      "descriptionTeaser": "As Translation Editor (Japanese Language Service), you will be instrumental in bringing global news to Reuters' Japanese-speaking audiences. Edit machine-translated English-to-Japanese articles for ac...",
+      "descriptionTeaser_first200": "Translation Editor, Japanese Language Service - Temporary Contract. This hybrid TEMPORARY position will be based in Toronto, Canada. Other locations will also be considered. Reuters is looking for a highly...",
+      "descriptionTeaser_keyword": "Translation Editor, Japanese Language Service - Temporary Contract. This hybrid TEMPORARY position will be based in Toronto, Canada. Other locations will also be considered. Reuters is looking for a h...",
+      "descriptionTeaser_ats": ""
+    },
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -79.3884094,
+          "lat": 43.6480117
+        },
+        "location": "Toronto, Ontario, Canada"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Dubai",
+    "country": "United Arab Emirates",
+    "ml_skills": [
+      "transparency",
+      "editing",
+      "arabic",
+      "content strategy"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "As a Senior Specialist Legal Editor you will use your knowledge of commercial/ technology law in the MENA region to provide and maintain a wide range of Practical Law content (including standard contr...",
+    "state": "Dubai",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "55.1575893",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ175763",
+    "jobId": "JREQ175763",
+    "city": "",
+    "latitude": "25.0961362",
+    "locale": "en_US",
+    "multi_location": [
+      "Dubai, United Arab Emirates"
+    ],
+    "title": "Snr Specialist Legal Editor, Practical Law (MENA) Commercial",
+    "jobSeqNo": "THTTRUUSJREQ175763EXTERNALENUS",
+    "postedDate": "2024-02-09T00:00:00.000+0000",
+    "dateCreated": "2024-01-25T16:40:42.088+0000",
+    "cityStateCountry": "Dubai, United Arab Emirates",
+    "address": "Reuters Ltd, Office 501, Building 1, 5th Floor Dubai Media City, Dubai, United Arab Emirates",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/ARE-Dubai-Dubai-Media-City/Snr-Specialist-Legal-Editor--Practical-Law--MENA--Commercial_JREQ175763/apply",
+    "location": "Dubai, United Arab Emirates",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "As a Senior Specialist Legal Editor you will use your knowledge of commercial/ technology law in the MENA region to provide and maintain a wide range of Practical Law content (including standard contr...",
+      "descriptionTeaser_first200": "Senior Specialist Legal Editor, Practical Law (MENA) (Commercial and Technology). Are you a lawyer looking for a career change? We are seeking an experienced commercial and/or technology lawyer to join...",
+      "descriptionTeaser_keyword": "Senior Specialist Legal Editor, Practical Law (MENA) (Commercial and Technology). Are you a lawyer looking for a career change? We are seeking an experienced commercial and/or technology lawyer to joi...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 55.1575893,
+          "lat": 25.0961362
+        },
+        "location": "Dubai, United Arab Emirates"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Mumbai, Maharashtra",
+    "country": "India",
+    "ml_skills": [
+      "public accounting",
+      "state tax",
+      "financial statements",
+      "transparency",
+      "ms office",
+      "caseware software"
+    ],
+    "remote": "On-Site",
+    "type": "Full time",
+    "descriptionTeaser": "Handling 1065/1120/1040/1041 Returns. Preparation of 1065/1120/1040/1041 returns. Handling Business Tax Returns. Knowledge on various tax technical concepts, software(s) and tools used in preparation...",
+    "state": "Maharashtra",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "72.8814089",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ175320",
+    "jobId": "JREQ175320",
+    "city": "Mumbai",
+    "latitude": "19.1114368",
+    "locale": "en_US",
+    "multi_location": [
+      "Mumbai, Maharashtra, India"
+    ],
+    "title": "Process Associate",
+    "jobSeqNo": "THTTRUUSJREQ175320EXTERNALENUS",
+    "postedDate": "2024-02-09T00:00:00.000+0000",
+    "dateCreated": "2024-01-23T08:41:01.672+0000",
+    "cityStateCountry": "Mumbai, Maharashtra, India",
+    "address": "4th Flr, Dhantak Plaza, Makwana Road, Marol, Andheri East, Mumbai- 400059, Maharashtra, India",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Mumbai-Dhantak-Plaza/Process-Associate_JREQ175320/apply",
+    "location": "Mumbai, Maharashtra, India",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Handling 1065/1120/1040/1041 Returns. Preparation of 1065/1120/1040/1041 returns. Handling Business Tax Returns. Knowledge on various tax technical concepts, software(s) and tools used in preparation...",
+      "descriptionTeaser_first200": "Role. Handling 1065/1120/1040/1041 Returns. Preparation of 1065/1120/1040/1041 returns. Handling Business Tax Returns. Preparation of U.S Corporate and Partnership Federal and Multi state tax returns....",
+      "descriptionTeaser_keyword": "Role. Handling 1065/1120/1040/1041 Returns. Preparation of 1065/1120/1040/1041 returns. Handling Business Tax Returns. Preparation of U. S Corporate and Partnership Federal and Multi state tax returns...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 72.8814089,
+          "lat": 19.1114368
+        },
+        "location": "Mumbai, Maharashtra, India"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Mumbai, Maharashtra",
+    "country": "India",
+    "ml_skills": [
+      "us accounting",
+      "state tax",
+      "tax software",
+      "income tax",
+      "financial statements",
+      "transparency"
+    ],
+    "remote": "On-Site",
+    "type": "Full time",
+    "descriptionTeaser": "Preparation of US Income Tax returns. S Corporate and Partnership Federal and State tax returns. Preparation of Individual (1040/41), Business tax, 990PF & Trust Tax return using CCH Axcess Tax softwa...",
+    "state": "Maharashtra",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "72.8814089",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ176131",
+    "jobId": "JREQ176131",
+    "city": "Mumbai",
+    "latitude": "19.1114368",
+    "locale": "en_US",
+    "multi_location": [
+      "Mumbai, Maharashtra, India"
+    ],
+    "title": "Process Associate",
+    "jobSeqNo": "THTTRUUSJREQ176131EXTERNALENUS",
+    "postedDate": "2024-02-09T00:00:00.000+0000",
+    "dateCreated": "2024-02-09T08:42:15.777+0000",
+    "cityStateCountry": "Mumbai, Maharashtra, India",
+    "address": "4th Flr, Dhantak Plaza, Makwana Road, Marol, Andheri East, Mumbai- 400059, Maharashtra, India",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Mumbai-Dhantak-Plaza/Process-Associate_JREQ176131/apply",
+    "location": "Mumbai, Maharashtra, India",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Preparation of US Income Tax returns. S Corporate and Partnership Federal and State tax returns. Preparation of Individual (1040/41), Business tax, 990PF & Trust Tax return using CCH Axcess Tax softwa...",
+      "descriptionTeaser_first200": "Thomson Reuters is looking to add a Process Associate. This challenging position requires someone to think independently, work well collaboratively across multiple disciplines, including working with...",
+      "descriptionTeaser_keyword": "Thomson Reuters is looking to add a Process Associate. This challenging position requires someone to think independently, work well collaboratively across multiple disciplines, including working with...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 72.8814089,
+          "lat": 19.1114368
+        },
+        "location": "Mumbai, Maharashtra, India"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "S\u00e3o Paulo, S\u00e3o Paulo",
+    "country": "Brazil",
+    "ml_skills": [
+      "conformidade fiscal",
+      "linkedin",
+      "determina\u00e7\u00e3o",
+      "recursos",
+      "accounting",
+      "reasonable",
+      "job postings",
+      "oportunidades",
+      "thomson reuters",
+      "governan\u00e7a",
+      "impacto social",
+      "analisar",
+      "excel",
+      "esg",
+      "concluir",
+      "nas",
+      "dos",
+      "requisitos",
+      "altera",
+      "pacote",
+      "legal",
+      "profissionais",
+      "nos",
+      "h\u00edbrido",
+      "atividades",
+      "accessibility",
+      "voluntariado",
+      "projetos",
+      "internet",
+      "publica\u00e7\u00f5es"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "We help these professionals do their jobs better, creating more time for them to focus on the things that matter most: advising, advocating, negotiating, governing and informing. We are powered by the...",
+    "state": "S\u00e3o Paulo",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-46.6835209",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ175075",
+    "jobId": "JREQ175075",
+    "city": "S\u00e3o Paulo",
+    "latitude": "-23.5990338",
+    "locale": "en_US",
+    "multi_location": [
+      "S\u00e3o Paulo, S\u00e3o Paulo, Brazil"
+    ],
+    "title": "Tax Analyst - Vaga afirmativa PCD",
+    "jobSeqNo": "THTTRUUSJREQ175075EXTERNALENUS",
+    "postedDate": "2024-02-09T00:00:00.000+0000",
+    "dateCreated": "2023-12-23T00:39:56.280+0000",
+    "cityStateCountry": "S\u00e3o Paulo, S\u00e3o Paulo, Brazil",
+    "address": "Av. Cardoso de Melo nr. 1855 - 13\u00ba andar, Vila Ol\u03c6mpia, S\u00e3o Paulo- SP, 04548005, Brazil",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/BRA-So-Paulo-Av-Cardoso-de-Me/Tax-Analyst---Vaga-afirmativa-PCD_JREQ175075/apply",
+    "location": "S\u00e3o Paulo, S\u00e3o Paulo, Brazil",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "We help these professionals do their jobs better, creating more time for them to focus on the things that matter most: advising, advocating, negotiating, governing and informing. We are powered by the...",
+      "descriptionTeaser_keyword": "Tax Analyst - Vaga afirmativa PCD - H\u00edbrido ou Remoto. Voc\u00ea busca desenvolver sua carreira e atuar como Tax Analyst em uma empresa l\u00edder no segmento de Tecnologia? Junte-se a n\u00f3s! A Thomson Reuters co...",
+      "descriptionTeaser_first200": "Tax Analyst - Vaga afirmativa PCD - H\u00edbrido ou Remoto. Voc\u00ea busca desenvolver sua carreira e atuar como Tax Analyst em uma empresa l\u00edder no segmento de Tecnologia? Junte-se a n\u00f3s! A Thomson Reuters combina...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -46.6835209,
+          "lat": -23.5990338
+        },
+        "location": "S\u00e3o Paulo, S\u00e3o Paulo, Brazil"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "London",
     "country": "United Kingdom",
     "ml_skills": [
@@ -176,75 +592,6 @@
       "descriptionTeaser": "We need producers who can think on their feet, and value accuracy and speed. You're a fit for the role of Multimedia News Producer if your background includes. Strong news judgement. Strong team playe...",
       "descriptionTeaser_first200": "Multimedia News Producer. Are you a journalist who desires to be part of a news production team that can reach millions of readers in a matter of seconds. Digital Desk at Reuters in Bangalore does exactly...",
       "descriptionTeaser_keyword": "Multimedia News Producer. Are you a journalist who desires to be part of a news production team that can reach millions of readers in a matter of seconds. Digital Desk at Reuters in Bangalore does exa...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 77.7120655,
-          "lat": 12.9743998
-        },
-        "location": "Bengaluru, Karnataka, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Bengaluru, Karnataka",
-    "country": "India",
-    "ml_skills": [
-      "content strategy",
-      "journalism",
-      "online research",
-      "content creation",
-      "digital media",
-      "production process",
-      "production schedules",
-      "business systems",
-      "transparency"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Creates and/or maintains process or product specific documentation. Proficiently works on various systems, software, databases, and applications to deliver quality products. Maintains the integrity an...",
-    "state": "Karnataka",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "77.7120655",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ174920",
-    "jobId": "JREQ174920",
-    "city": "Bengaluru",
-    "latitude": "12.9743998",
-    "locale": "en_US",
-    "multi_location": [
-      "Bengaluru, Karnataka, India"
-    ],
-    "title": "Copy Writer",
-    "jobSeqNo": "THTTRUUSJREQ174920EXTERNALENUS",
-    "postedDate": "2024-02-07T00:00:00.000+0000",
-    "dateCreated": "2024-01-02T08:39:41.488+0000",
-    "cityStateCountry": "Bengaluru, Karnataka, India",
-    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/Copy-Writer_JREQ174920/apply",
-    "location": "Bengaluru, Karnataka, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Creates and/or maintains process or product specific documentation. Proficiently works on various systems, software, databases, and applications to deliver quality products. Maintains the integrity an...",
-      "descriptionTeaser_first200": "Do you love to solve problems and find better ways of getting things done? Do you love asking \u2018why\u2019 about pretty much everything? And does it make you happy when things are perfectly aligned and standardized?...",
-      "descriptionTeaser_keyword": "Do you love to solve problems and find better ways of getting things done? Do you love asking \u2018why\u2019 about pretty much everything? And does it make you happy when things are perfectly aligned and stand...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
@@ -866,71 +1213,6 @@
     "badge": ""
   },
   {
-    "cityState": "Bengaluru, Karnataka",
-    "country": "India",
-    "ml_skills": [
-      "economic indicators",
-      "data analysis",
-      "financial markets",
-      "transparency",
-      "automation"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Which includes coverage of companies across eight regions, snapping of crucial economic indicators and writing detailed financial market reports. The ideal candidates will be initiated to economic ind...",
-    "state": "Karnataka",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "77.7120655",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ174132",
-    "jobId": "JREQ174132",
-    "city": "Bengaluru",
-    "latitude": "12.9743998",
-    "locale": "en_US",
-    "multi_location": [
-      "Bengaluru, Karnataka, India"
-    ],
-    "title": "Sector Specialist- Asia Headline News",
-    "jobSeqNo": "THTTRUUSJREQ174132EXTERNALENUS",
-    "postedDate": "2024-02-05T00:00:00.000+0000",
-    "dateCreated": "2024-01-30T08:44:03.877+0000",
-    "cityStateCountry": "Bengaluru, Karnataka, India",
-    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/Sector-Specialist--Asia-Headline-News_JREQ174132/apply",
-    "location": "Bengaluru, Karnataka, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Which includes coverage of companies across eight regions, snapping of crucial economic indicators and writing detailed financial market reports. The ideal candidates will be initiated to economic ind...",
-      "descriptionTeaser_first200": "Sector Specialist- Asia Headline News. Reuters is seeking Sector Specialists, Asia Headline News to assist in leading the Asia-Pacific financial file in Bangalore. which includes coverage of companies...",
-      "descriptionTeaser_keyword": "Sector Specialist- Asia Headline News. Reuters is seeking Sector Specialists, Asia Headline News to assist in leading the Asia-Pacific financial file in Bangalore. which includes coverage of companies...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 77.7120655,
-          "lat": 12.9743998
-        },
-        "location": "Bengaluru, Karnataka, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Eagan, Minnesota",
     "country": "United States of America",
     "ml_skills": [
@@ -988,71 +1270,6 @@
           "lat": 44.8527611
         },
         "location": "Eagan, Minnesota, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Bengaluru, Karnataka",
-    "country": "India",
-    "ml_skills": [
-      "economic indicators",
-      "data analysis",
-      "financial markets",
-      "transparency",
-      "automation"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Which includes coverage of companies across eight regions, snapping of crucial economic indicators and writing detailed financial market reports. The ideal candidates will be initiated to economic ind...",
-    "state": "Karnataka",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "77.7120655",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ174133",
-    "jobId": "JREQ174133",
-    "city": "Bengaluru",
-    "latitude": "12.9743998",
-    "locale": "en_US",
-    "multi_location": [
-      "Bengaluru, Karnataka, India"
-    ],
-    "title": "Sector Specialist, Asia Headline News",
-    "jobSeqNo": "THTTRUUSJREQ174133EXTERNALENUS",
-    "postedDate": "2024-02-05T00:00:00.000+0000",
-    "dateCreated": "2023-12-05T08:40:09.543+0000",
-    "cityStateCountry": "Bengaluru, Karnataka, India",
-    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/Sector-Specialist--Asia-Headline-News_JREQ174133/apply",
-    "location": "Bengaluru, Karnataka, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Which includes coverage of companies across eight regions, snapping of crucial economic indicators and writing detailed financial market reports. The ideal candidates will be initiated to economic ind...",
-      "descriptionTeaser_first200": "Sector Specialist, Asia Headline News. Reuters is seeking Sector Specialists, Asia Headline News to assist in leading the Asia-Pacific financial file in Bangalore. which includes coverage of companies...",
-      "descriptionTeaser_keyword": "Sector Specialist, Asia Headline News. Reuters is seeking Sector Specialists, Asia Headline News to assist in leading the Asia-Pacific financial file in Bangalore. which includes coverage of companies...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 77.7120655,
-          "lat": 12.9743998
-        },
-        "location": "Bengaluru, Karnataka, India"
       }
     ],
     "isMultiCategory": true,
@@ -2906,135 +3123,6 @@
     "badge": ""
   },
   {
-    "cityState": "Toronto, Ontario",
-    "country": "Canada",
-    "ml_skills": [
-      "japanese",
-      "machine translation",
-      "multimedia",
-      "transparency"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "As Translation Editor (Japanese Language Service), you will be instrumental in bringing global news to Reuters' Japanese-speaking audiences. Edit machine-translated English-to-Japanese articles for ac...",
-    "state": "Ontario",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-79.3884094",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ175759",
-    "jobId": "JREQ175759",
-    "city": "Toronto",
-    "latitude": "43.6480117",
-    "locale": "en_US",
-    "multi_location": [
-      "Toronto, Ontario, Canada"
-    ],
-    "title": "Translation Editor, Japanese Language Service - TEMP",
-    "jobSeqNo": "THTTRUUSJREQ175759EXTERNALENUS",
-    "postedDate": "2024-01-26T00:00:00.000+0000",
-    "dateCreated": "2024-01-26T16:40:14.597+0000",
-    "cityStateCountry": "Toronto, Ontario, Canada",
-    "address": "19 Duncan Street, Toronto, ON M5H 3H1, Canada",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CAN-Toronto-19-Duncan-Street/Translation-Editor--Japanese-Language-Service---TEMP_JREQ175759/apply",
-    "location": "Toronto, Ontario, Canada",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "As Translation Editor (Japanese Language Service), you will be instrumental in bringing global news to Reuters' Japanese-speaking audiences. Edit machine-translated English-to-Japanese articles for ac...",
-      "descriptionTeaser_first200": "Translation Editor, Japanese Language Service - Temporary Contract. This hybrid TEMPORARY position will be based in Toronto, Canada. Other locations will also be considered. Reuters is looking for a highly...",
-      "descriptionTeaser_keyword": "Translation Editor, Japanese Language Service - Temporary Contract. This hybrid TEMPORARY position will be based in Toronto, Canada. Other locations will also be considered. Reuters is looking for a h...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -79.3884094,
-          "lat": 43.6480117
-        },
-        "location": "Toronto, Ontario, Canada"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Chicago, Illinois",
-    "country": "United States of America",
-    "ml_skills": [
-      "breaking news",
-      "multimedia",
-      "graphics",
-      "transparency",
-      "track"
-    ],
-    "remote": "On-Site",
-    "type": "Full time",
-    "descriptionTeaser": "Agriculture Reporter (Level 1 Journalist), Reuters. Work together with large global teams to break news and undertake reporting projects. You're a fit for the role of Agriculture Reporter at Reuters i...",
-    "state": "Illinois",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-87.63723",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ175819",
-    "jobId": "JREQ175819",
-    "city": "Chicago",
-    "latitude": "41.87891930000001",
-    "locale": "en_US",
-    "multi_location": [
-      "Chicago, Illinois, United States of America"
-    ],
-    "title": "Agriculture Reporter (Level 1 Journalist), Reuters",
-    "jobSeqNo": "THTTRUUSJREQ175819EXTERNALENUS",
-    "postedDate": "2024-01-26T00:00:00.000+0000",
-    "dateCreated": "2024-01-26T20:40:46.503+0000",
-    "cityStateCountry": "Chicago, Illinois, United States of America",
-    "address": "200 South Wacker Drive, 31st Floor, Chicago, IL 60606, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Chicago-200-South-Wacker-Dr/Agriculture-Reporter--Level-1-Journalist---Reuters_JREQ175819-1/apply",
-    "location": "Chicago, Illinois, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Agriculture Reporter (Level 1 Journalist), Reuters. Work together with large global teams to break news and undertake reporting projects. You're a fit for the role of Agriculture Reporter at Reuters i...",
-      "descriptionTeaser_first200": "Agriculture Reporter (Level 1 Journalist), Reuters. This hybrid role is based in Chicago. Reuters seeks a dedicated reporter to join its Chicago-based agriculture team. With the Ukraine war upending global...",
-      "descriptionTeaser_keyword": "Agriculture Reporter (Level 1 Journalist), Reuters. This hybrid role is based in Chicago. Reuters seeks a dedicated reporter to join its Chicago-based agriculture team. With the Ukraine war upending g...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -87.63723,
-          "lat": 41.87891930000001
-        },
-        "location": "Chicago, Illinois, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Washington, District of Columbia",
     "country": "United States of America",
     "ml_skills": [
@@ -3594,70 +3682,6 @@
     "badge": ""
   },
   {
-    "cityState": "Dubai",
-    "country": "United Arab Emirates",
-    "ml_skills": [
-      "transparency",
-      "editing",
-      "arabic",
-      "content strategy"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "As a Senior Specialist Legal Editor you will use your knowledge of commercial/ technology law in the MENA region to provide and maintain a wide range of Practical Law content (including standard contr...",
-    "state": "Dubai",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "55.1575893",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ175763",
-    "jobId": "JREQ175763",
-    "city": "",
-    "latitude": "25.0961362",
-    "locale": "en_US",
-    "multi_location": [
-      "Dubai, United Arab Emirates"
-    ],
-    "title": "Snr Specialist Legal Editor, Practical Law (MENA) Commercial",
-    "jobSeqNo": "THTTRUUSJREQ175763EXTERNALENUS",
-    "postedDate": "2024-01-25T00:00:00.000+0000",
-    "dateCreated": "2024-01-25T16:40:42.088+0000",
-    "cityStateCountry": "Dubai, United Arab Emirates",
-    "address": "Reuters Ltd, Office 501, Building 1, 5th Floor Dubai Media City, Dubai, United Arab Emirates",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/ARE-Dubai-Dubai-Media-City/Snr-Specialist-Legal-Editor--Practical-Law--MENA--Commercial_JREQ175763/apply",
-    "location": "Dubai, United Arab Emirates",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "As a Senior Specialist Legal Editor you will use your knowledge of commercial/ technology law in the MENA region to provide and maintain a wide range of Practical Law content (including standard contr...",
-      "descriptionTeaser_ats": "",
-      "descriptionTeaser_keyword": "Senior Specialist Legal Editor, Practical Law (MENA) (Commercial and Technology). Are you a lawyer looking for a career change? We are seeking an experienced commercial and/or technology lawyer to joi...",
-      "descriptionTeaser_first200": "Senior Specialist Legal Editor, Practical Law (MENA) (Commercial and Technology). Are you a lawyer looking for a career change? We are seeking an experienced commercial and/or technology lawyer to join..."
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 55.1575893,
-          "lat": 25.0961362
-        },
-        "location": "Dubai, United Arab Emirates"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Gdansk",
     "country": "Poland",
     "ml_skills": [
@@ -3714,77 +3738,6 @@
           "lat": 54.4004235
         },
         "location": "Gdansk, Poland"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Minneapolis, Minnesota",
-    "country": "United States of America",
-    "ml_skills": [
-      "legal research",
-      "publishing",
-      "westlaw",
-      "word processing",
-      "transparency",
-      "context",
-      "analytical skills",
-      "line",
-      "navigation",
-      "schedules",
-      "leadership development"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Legal Research, Analysis and Enhancement of Primary Law Content: Create editorial enhancements to help customers understand the context and developments of the law, classify legal information in the f...",
-    "state": "Minnesota",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-93.11319449999999",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ175422",
-    "jobId": "JREQ175422",
-    "city": "Minneapolis",
-    "latitude": "44.8253064",
-    "locale": "en_US",
-    "multi_location": [
-      "Minneapolis, Minnesota, United States of America"
-    ],
-    "title": "Attorney Editor",
-    "jobSeqNo": "THTTRUUSJREQ175422EXTERNALENUS",
-    "postedDate": "2024-01-24T00:00:00.000+0000",
-    "dateCreated": "2024-01-13T00:40:11.854+0000",
-    "cityStateCountry": "Minneapolis, Minnesota, United States of America",
-    "address": "Thomson Reuters, Minneapolis, MN 55111, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Minneapolis-Minnesota/Attorney-Editor_JREQ175422/apply",
-    "location": "Minneapolis, Minnesota, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Legal Research, Analysis and Enhancement of Primary Law Content: Create editorial enhancements to help customers understand the context and developments of the law, classify legal information in the f...",
-      "descriptionTeaser_first200": "Want to work with a team of attorney editors to provide world-class annotated statutory and regulatory information for legal professionals using Thomson Reuters\u2019 Westlaw, ProView and print products? Attorney...",
-      "descriptionTeaser_keyword": "Want to work with a team of attorney editors to provide world-class annotated statutory and regulatory information for legal professionals using Thomson Reuters\u2019 Westlaw, ProView and print products? A...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -93.11319449999999,
-          "lat": 44.8253064
-        },
-        "location": "Minneapolis, Minnesota, United States of America"
       }
     ],
     "isMultiCategory": true,
