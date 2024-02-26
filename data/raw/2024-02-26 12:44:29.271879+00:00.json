@@ -1,5 +1,68 @@
 [
   {
+    "cityState": "Cairo",
+    "country": "Egypt",
+    "ml_skills": [
+      "breaking news",
+      "arabic",
+      "transparency"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "The hub is in charge of producing real-time financial, energy and general news alerts and briefs and quick updates in English from a variety of sources, including TV broadcasts, news conferences, spee...",
+    "state": "Cairo",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "31.2357116",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ176481",
+    "jobId": "JREQ176481",
+    "city": "",
+    "latitude": "30.0444196",
+    "locale": "en_US",
+    "multi_location": [
+      "Cairo, Egypt"
+    ],
+    "title": "Deputy Middle East Breaking News Editor, Reuters",
+    "jobSeqNo": "THTTRUUSJREQ176481EXTERNALENUS",
+    "postedDate": "2024-02-26T00:00:00.000+0000",
+    "dateCreated": "2024-02-22T16:41:37.285+0000",
+    "cityStateCountry": "Cairo, Egypt",
+    "address": "Nile City Towers, 2005c, Corniche El Nile, Nile City, Cairo, 11221, Egypt",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/EGY-Cairo-Nile-City-Towers/Deputy-Middle-East-Breaking-News-Editor--Reuters_JREQ176481/apply",
+    "location": "Cairo, Egypt",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "The hub is in charge of producing real-time financial, energy and general news alerts and briefs and quick updates in English from a variety of sources, including TV broadcasts, news conferences, spee...",
+      "descriptionTeaser_first200": "Reuters is seeking an experienced, dynamic journalist to join its Middle East Breaking News Hub in Dubai. The hub is in charge of producing real-time financial, energy and general news alerts and briefs...",
+      "descriptionTeaser_keyword": "Reuters is seeking an experienced, dynamic journalist to join its Middle East Breaking News Hub in Dubai. The hub is in charge of producing real-time financial, energy and general news alerts and brie...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 31.2357116,
+          "lat": 30.0444196
+        },
+        "location": "Cairo, Egypt"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Los Angeles, California",
     "country": "United States of America",
     "ml_skills": [
@@ -135,6 +198,69 @@
     "badge": ""
   },
   {
+    "cityState": "Bengaluru, Karnataka",
+    "country": "India",
+    "ml_skills": [
+      "virtual learning",
+      "recruiting",
+      "transparency"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Reuters is looking for a Senior Learning Specialist with a strong background in news to help journalists in the Bangalore bureau develop the skills required to deliver quality journalism, at speed....",
+    "state": "Karnataka",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "77.7120655",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ174118",
+    "jobId": "JREQ174118",
+    "city": "Bengaluru",
+    "latitude": "12.9743998",
+    "locale": "en_US",
+    "multi_location": [
+      "Bengaluru, Karnataka, India"
+    ],
+    "title": "Senior Learning Specialist",
+    "jobSeqNo": "THTTRUUSJREQ174118EXTERNALENUS",
+    "postedDate": "2024-02-23T00:00:00.000+0000",
+    "dateCreated": "2024-01-30T12:41:28.803+0000",
+    "cityStateCountry": "Bengaluru, Karnataka, India",
+    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/Senior-Learning-Specialist_JREQ174118/apply",
+    "location": "Bengaluru, Karnataka, India",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Reuters is looking for a Senior Learning Specialist with a strong background in news to help journalists in the Bangalore bureau develop the skills required to deliver quality journalism, at speed....",
+      "descriptionTeaser_first200": "Senior Learning Specialist. Reuters is looking for a Senior Learning Specialist with a strong background in news to help journalists in the Bangalore bureau develop the skills required to deliver quality...",
+      "descriptionTeaser_keyword": "Senior Learning Specialist. Reuters is looking for a Senior Learning Specialist with a strong background in news to help journalists in the Bangalore bureau develop the skills required to deliver qual...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 77.7120655,
+          "lat": 12.9743998
+        },
+        "location": "Bengaluru, Karnataka, India"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Manila",
     "country": "Philippines",
     "ml_skills": [
@@ -189,69 +315,6 @@
           "lat": 14.5344436
         },
         "location": "Manila, Philippines"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Bengaluru, Karnataka",
-    "country": "India",
-    "ml_skills": [
-      "virtual learning",
-      "recruiting",
-      "transparency"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Reuters is looking for a Senior Learning Specialist with a strong background in news to help journalists in the Bangalore bureau develop the skills required to deliver quality journalism, at speed....",
-    "state": "Karnataka",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "77.7120655",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ174118",
-    "jobId": "JREQ174118",
-    "city": "Bengaluru",
-    "latitude": "12.9743998",
-    "locale": "en_US",
-    "multi_location": [
-      "Bengaluru, Karnataka, India"
-    ],
-    "title": "Senior Learning Specialist",
-    "jobSeqNo": "THTTRUUSJREQ174118EXTERNALENUS",
-    "postedDate": "2024-02-23T00:00:00.000+0000",
-    "dateCreated": "2024-01-30T12:41:28.803+0000",
-    "cityStateCountry": "Bengaluru, Karnataka, India",
-    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/Senior-Learning-Specialist_JREQ174118/apply",
-    "location": "Bengaluru, Karnataka, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Reuters is looking for a Senior Learning Specialist with a strong background in news to help journalists in the Bangalore bureau develop the skills required to deliver quality journalism, at speed....",
-      "descriptionTeaser_first200": "Senior Learning Specialist. Reuters is looking for a Senior Learning Specialist with a strong background in news to help journalists in the Bangalore bureau develop the skills required to deliver quality...",
-      "descriptionTeaser_keyword": "Senior Learning Specialist. Reuters is looking for a Senior Learning Specialist with a strong background in news to help journalists in the Bangalore bureau develop the skills required to deliver qual...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 77.7120655,
-          "lat": 12.9743998
-        },
-        "location": "Bengaluru, Karnataka, India"
       }
     ],
     "isMultiCategory": true,
@@ -560,108 +623,6 @@
     "badge": ""
   },
   {
-    "cityState": "London",
-    "country": "United Kingdom",
-    "ml_skills": [
-      "auditing",
-      "auditing standards",
-      "technical research",
-      "research skills",
-      "strategic development",
-      "transparency",
-      "customer retention",
-      "customer service",
-      "technology solutions",
-      "software development"
-    ],
-    "remote": "Remote",
-    "type": "Full time",
-    "descriptionTeaser": "This is a dynamic job that allows you to fully utilise and continuously expand your technical skills, develop information and technology solutions for auditing professionals in accounting firms across...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-0.0185088",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ174951",
-    "jobId": "JREQ174951",
-    "city": "London",
-    "latitude": "51.5056439",
-    "locale": "en_US",
-    "multi_location": [
-      "London, United Kingdom",
-      "Edinburgh, United Kingdom",
-      "Exmouth, Devon, United Kingdom",
-      "Newcastle Upon Tyne, United Kingdom",
-      "Willingham, Cambridgeshire, United Kingdom"
-    ],
-    "title": "Chartered Accountant Auditing Editor",
-    "jobSeqNo": "THTTRUUSJREQ174951EXTERNALENUS",
-    "postedDate": "2024-02-22T00:00:00.000+0000",
-    "dateCreated": "2024-01-10T16:42:07.188+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Chartered-Accountant-Auditing-Editor_JREQ174951/apply",
-    "location": "London, United Kingdom",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "This is a dynamic job that allows you to fully utilise and continuously expand your technical skills, develop information and technology solutions for auditing professionals in accounting firms across...",
-      "descriptionTeaser_first200": "Chartered Accountant Auditing Editor. Looking for an excellent work-life position outside the Big 4, large or mid-sized accounting firm? Desire a professional environment without the busy season hassle?...",
-      "descriptionTeaser_keyword": "Chartered Accountant Auditing Editor. Looking for an excellent work-life position outside the Big 4, large or mid-sized accounting firm? Desire a professional environment without the busy season hassl...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -0.0185088,
-          "lat": 51.5056439
-        },
-        "location": "London, United Kingdom"
-      },
-      {
-        "latlong": {
-          "lon": -3.2099842,
-          "lat": 55.9481151
-        },
-        "location": "Edinburgh, United Kingdom"
-      },
-      {
-        "latlong": {
-          "lon": -3.3746209,
-          "lat": 50.6314786
-        },
-        "location": "Exmouth, Devon, United Kingdom"
-      },
-      {
-        "latlong": {
-          "lon": -1.6012023,
-          "lat": 54.9818
-        },
-        "location": "Newcastle Upon Tyne, United Kingdom"
-      },
-      {
-        "latlong": {
-          "lon": 0.0534968,
-          "lat": 52.311855
-        },
-        "location": "Willingham, Cambridgeshire, United Kingdom"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Gdansk",
     "country": "Poland",
     "ml_skills": [
@@ -808,69 +769,6 @@
           "lat": 54.4004235
         },
         "location": "Gdansk, Poland"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Cairo",
-    "country": "Egypt",
-    "ml_skills": [
-      "breaking news",
-      "arabic",
-      "transparency"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "The hub is in charge of producing real-time financial, energy and general news alerts and briefs and quick updates in English from a variety of sources, including TV broadcasts, news conferences, spee...",
-    "state": "Cairo",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "31.2357116",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ176481",
-    "jobId": "JREQ176481",
-    "city": "",
-    "latitude": "30.0444196",
-    "locale": "en_US",
-    "multi_location": [
-      "Cairo, Egypt"
-    ],
-    "title": "Deputy Middle East Breaking News Editor, Reuters",
-    "jobSeqNo": "THTTRUUSJREQ176481EXTERNALENUS",
-    "postedDate": "2024-02-22T00:00:00.000+0000",
-    "dateCreated": "2024-02-22T16:41:37.285+0000",
-    "cityStateCountry": "Cairo, Egypt",
-    "address": "Nile City Towers, 2005c, Corniche El Nile, Nile City, Cairo, 11221, Egypt",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/EGY-Cairo-Nile-City-Towers/Deputy-Middle-East-Breaking-News-Editor--Reuters_JREQ176481/apply",
-    "location": "Cairo, Egypt",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "The hub is in charge of producing real-time financial, energy and general news alerts and briefs and quick updates in English from a variety of sources, including TV broadcasts, news conferences, spee...",
-      "descriptionTeaser_first200": "Reuters is seeking an experienced, dynamic journalist to join its Middle East Breaking News Hub in Dubai. The hub is in charge of producing real-time financial, energy and general news alerts and briefs...",
-      "descriptionTeaser_keyword": "Reuters is seeking an experienced, dynamic journalist to join its Middle East Breaking News Hub in Dubai. The hub is in charge of producing real-time financial, energy and general news alerts and brie...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 31.2357116,
-          "lat": 30.0444196
-        },
-        "location": "Cairo, Egypt"
       }
     ],
     "isMultiCategory": true,
