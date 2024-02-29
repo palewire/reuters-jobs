@@ -1,5 +1,71 @@
 [
   {
+    "cityState": "London",
+    "country": "United Kingdom",
+    "ml_skills": [
+      "video editing",
+      "multimedia",
+      "digital newsroom",
+      "artificial intelligence",
+      "geopolitics",
+      "transparency"
+    ],
+    "remote": "On-Site",
+    "type": "Full time",
+    "descriptionTeaser": "You would also be working with a team of similar professionals, collaborating on the creation of special online reports for Reuters. Script, present to camera and edit daily stock market and specialis...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.0185088",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ176737",
+    "jobId": "JREQ176737",
+    "city": "London",
+    "latitude": "51.5056439",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom"
+    ],
+    "title": "Markets Video Reporter/Producer",
+    "jobSeqNo": "THTTRUUSJREQ176737EXTERNALENUS",
+    "postedDate": "2024-02-29T00:00:00.000+0000",
+    "dateCreated": "2024-02-28T12:40:46.391+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Markets-Video-Reporter-Producer_JREQ176737/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "You would also be working with a team of similar professionals, collaborating on the creation of special online reports for Reuters. Script, present to camera and edit daily stock market and specialis...",
+      "descriptionTeaser_first200": "Markets Video Reporter/Producer \u2013 Reuters. Reuters is seeking an experienced business new reporter to produce daily financial market videos for Reuters.com and the London Stock Exchange Group. The successful...",
+      "descriptionTeaser_keyword": "Markets Video Reporter/Producer \u2013 Reuters. Reuters is seeking an experienced business new reporter to produce daily financial market videos for Reuters. com and the London Stock Exchange Group. The su...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.0185088,
+          "lat": 51.5056439
+        },
+        "location": "London, United Kingdom"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Jakarta",
     "country": "Indonesia",
     "ml_skills": [
@@ -58,6 +124,73 @@
           "lat": -6.1989715
         },
         "location": "Jakarta, Indonesia"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Rome, Roma",
+    "country": "Italy",
+    "ml_skills": [
+      "breaking news",
+      "multimedia reporting",
+      "multimedia",
+      "italian",
+      "doctrine",
+      "transparency",
+      "theology"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Have knowledge of Vatican affairs, Catholic doctrine and global religious matters. Have a proven track record in delivering breaking news and delivering impactful longer form initiative work. We help...",
+    "state": "Roma",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "12.49584",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ176846",
+    "jobId": "JREQ176846",
+    "city": "Rome",
+    "latitude": "41.9111508",
+    "locale": "en_US",
+    "multi_location": [
+      "Rome, Roma, Italy"
+    ],
+    "title": "Vatican Correspondent",
+    "jobSeqNo": "THTTRUUSJREQ176846EXTERNALENUS",
+    "postedDate": "2024-02-29T00:00:00.000+0000",
+    "dateCreated": "2024-02-29T16:42:08.945+0000",
+    "cityStateCountry": "Rome, Roma, Italy",
+    "address": "Corso d'italia 39, 00198 Rome RM, Italy",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/ITA-Rome-Corso-ditalia-39/Vatican-Correspondent_JREQ176846/apply",
+    "location": "Rome, Roma, Italy",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Have knowledge of Vatican affairs, Catholic doctrine and global religious matters. Have a proven track record in delivering breaking news and delivering impactful longer form initiative work. We help...",
+      "descriptionTeaser_first200": "Reuters is seeking an outstanding journalist to cover the Pope, the Vatican and the workings of the Catholic Church around the world. This correspondent will report on stories ranging from changes to...",
+      "descriptionTeaser_keyword": "Reuters is seeking an outstanding journalist to cover the Pope, the Vatican and the workings of the Catholic Church around the world. This correspondent will report on stories ranging from changes to...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 12.49584,
+          "lat": 41.9111508
+        },
+        "location": "Rome, Roma, Italy"
       }
     ],
     "isMultiCategory": true,
@@ -202,72 +335,6 @@
           "lat": 12.9743998
         },
         "location": "Bengaluru, Karnataka, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "London",
-    "country": "United Kingdom",
-    "ml_skills": [
-      "video editing",
-      "multimedia",
-      "digital newsroom",
-      "artificial intelligence",
-      "geopolitics",
-      "transparency"
-    ],
-    "remote": "On-Site",
-    "type": "Full time",
-    "descriptionTeaser": "You would also be working with a team of similar professionals, collaborating on the creation of special online reports for Reuters. Script, present to camera and edit daily stock market and specialis...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-0.0185088",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ176737",
-    "jobId": "JREQ176737",
-    "city": "London",
-    "latitude": "51.5056439",
-    "locale": "en_US",
-    "multi_location": [
-      "London, United Kingdom"
-    ],
-    "title": "Markets Video Reporter/Producer",
-    "jobSeqNo": "THTTRUUSJREQ176737EXTERNALENUS",
-    "postedDate": "2024-02-28T00:00:00.000+0000",
-    "dateCreated": "2024-02-28T12:40:46.391+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Markets-Video-Reporter-Producer_JREQ176737/apply",
-    "location": "London, United Kingdom",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "You would also be working with a team of similar professionals, collaborating on the creation of special online reports for Reuters. Script, present to camera and edit daily stock market and specialis...",
-      "descriptionTeaser_first200": "Markets Video Reporter/Producer \u2013 Reuters. Reuters is seeking an experienced business new reporter to produce daily financial market videos for Reuters.com and the London Stock Exchange Group. The successful...",
-      "descriptionTeaser_keyword": "Markets Video Reporter/Producer \u2013 Reuters. Reuters is seeking an experienced business new reporter to produce daily financial market videos for Reuters. com and the London Stock Exchange Group. The su...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -0.0185088,
-          "lat": 51.5056439
-        },
-        "location": "London, United Kingdom"
       }
     ],
     "isMultiCategory": true,
