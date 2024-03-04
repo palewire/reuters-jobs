@@ -3,6 +3,74 @@
     "cityState": "Gdansk",
     "country": "Poland",
     "ml_skills": [
+      "vocabulary",
+      "multimedia",
+      "short stories",
+      "romanian",
+      "freedom",
+      "czech",
+      "transparency",
+      "hungarian"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Reuters is looking for a candidate who can speak fluent English and Polish to join its real-time news operation in Gdansk. Writing headlines and news summaries accurately, quickly and with high standa...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "18.5752702",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ175125",
+    "jobId": "JREQ175125",
+    "city": "Gdansk",
+    "latitude": "54.4004235",
+    "locale": "en_US",
+    "multi_location": [
+      "Gdansk, Poland"
+    ],
+    "title": "News Reporter with Polish and English",
+    "jobSeqNo": "THTTRUUSJREQ175125EXTERNALENUS",
+    "postedDate": "2024-03-01T00:00:00.000+0000",
+    "dateCreated": "2024-01-25T12:40:52.060+0000",
+    "cityStateCountry": "Gdansk, Poland",
+    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/News-Reporter-with-Polish-and-English_JREQ175125/apply",
+    "location": "Gdansk, Poland",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Reuters is looking for a candidate who can speak fluent English and Polish to join its real-time news operation in Gdansk. Writing headlines and news summaries accurately, quickly and with high standa...",
+      "descriptionTeaser_first200": "Reuters is looking for a candidate who can speak fluent English and Polish to join its real-time news operation in Gdansk. The reporter will get to produce headlines and write short stories about companies...",
+      "descriptionTeaser_keyword": "Reuters is looking for a candidate who can speak fluent English and Polish to join its real-time news operation in Gdansk. The reporter will get to produce headlines and write short stories about comp...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 18.5752702,
+          "lat": 54.4004235
+        },
+        "location": "Gdansk, Poland"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Gdansk",
+    "country": "Poland",
+    "ml_skills": [
       "press releases",
       "vocabulary",
       "multimedia",
@@ -55,6 +123,69 @@
           "lat": 54.4004235
         },
         "location": "Gdansk, Poland"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Washington, District of Columbia",
+    "country": "United States of America",
+    "ml_skills": [
+      "breaking news",
+      "graphics",
+      "transparency"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "This role involves breaking news on legislative dealmaking on Capitol Hill and helping to cover the congressional and presidential election campaigns with a focus on policies and the people who make t...",
+    "state": "District of Columbia",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-77.0311952",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ176785",
+    "jobId": "JREQ176785",
+    "city": "Washington",
+    "latitude": "38.9004793",
+    "locale": "en_US",
+    "multi_location": [
+      "Washington, District of Columbia, United States of America"
+    ],
+    "title": "U.S. Political Correspondent  (Level 1 Journalist)",
+    "jobSeqNo": "THTTRUUSJREQ176785EXTERNALENUS",
+    "postedDate": "2024-03-01T00:00:00.000+0000",
+    "dateCreated": "2024-03-01T20:40:23.936+0000",
+    "cityStateCountry": "Washington, District of Columbia, United States of America",
+    "address": "1333 H Street NW, Suite 500, Washington, DC 20005, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Washington-1333-H-Street-N/US-Political-Correspondent---Level-1-Journalist-_JREQ176785/apply",
+    "location": "Washington, District of Columbia, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "This role involves breaking news on legislative dealmaking on Capitol Hill and helping to cover the congressional and presidential election campaigns with a focus on policies and the people who make t...",
+      "descriptionTeaser_first200": "U.S. Political Correspondent (Level 1 Journalist). Reuters is looking for a talented correspondent to join our team covering U.S. politics and Congress. This role involves breaking news on legislative...",
+      "descriptionTeaser_keyword": "U. S. Political Correspondent (Level 1 Journalist). Reuters is looking for a talented correspondent to join our team covering U. S. politics and Congress. This role involves breaking news on legislati...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -77.0311952,
+          "lat": 38.9004793
+        },
+        "location": "Washington, District of Columbia, United States of America"
       }
     ],
     "isMultiCategory": true,
@@ -1906,76 +2037,6 @@
           "lat": 19.1114368
         },
         "location": "Mumbai, Maharashtra, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Carrollton, Texas",
-    "country": "United States of America",
-    "ml_skills": [
-      "business requirements",
-      "project development",
-      "cost management",
-      "risk management",
-      "transparency",
-      "analytical skills",
-      "performance management",
-      "product leadership",
-      "strategic direction",
-      "growth strategies"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Demonstrates strong cross-team/group/org collaboration skills; ability to foresee and analyze project risks, develop a risk management plan, and mitigate subsequent issues. Excellent cost management s...",
-    "state": "Texas",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-96.8449828",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ176291",
-    "jobId": "JREQ176291",
-    "city": "Carrollton",
-    "latitude": "32.97533",
-    "locale": "en_US",
-    "multi_location": [
-      "Carrollton, Texas, United States of America"
-    ],
-    "title": "Tax Project Manager",
-    "jobSeqNo": "THTTRUUSJREQ176291EXTERNALENUS",
-    "postedDate": "2024-02-14T00:00:00.000+0000",
-    "dateCreated": "2024-02-14T20:41:02.690+0000",
-    "cityStateCountry": "Carrollton, Texas, United States of America",
-    "address": "2395 Midway Road, Carrollton, TX 75006, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Carrollton-2395-Midway-Rd/Tax-Project-Manager_JREQ176291/apply",
-    "location": "Carrollton, Texas, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Demonstrates strong cross-team/group/org collaboration skills; ability to foresee and analyze project risks, develop a risk management plan, and mitigate subsequent issues. Excellent cost management s...",
-      "descriptionTeaser_first200": "Thomson Reuters is looking for a Tax Project Manager who will be,. Providing day-to-day leadership for the tax content process for assigned functional areas and associated staff. Responsible for the quality...",
-      "descriptionTeaser_keyword": "Thomson Reuters is looking for a Tax Project Manager who will be,. Providing day-to-day leadership for the tax content process for assigned functional areas and associated staff. Responsible for the q...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -96.8449828,
-          "lat": 32.97533
-        },
-        "location": "Carrollton, Texas, United States of America"
       }
     ],
     "isMultiCategory": true,
@@ -4028,71 +4089,6 @@
           "lat": 14.5344436
         },
         "location": "Manila, Philippines"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Washington, District of Columbia",
-    "country": "United States of America",
-    "ml_skills": [
-      "journalism",
-      "product management",
-      "track",
-      "transparency",
-      "tax policy"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Write news stories for daily publication on tax legislation, tax policy, Congressional oversight, and other topics of interest to tax professionals. 2+ years of experience: writing and/or editing Cong...",
-    "state": "District of Columbia",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-77.0311952",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ175586",
-    "jobId": "JREQ175586",
-    "city": "Washington",
-    "latitude": "38.9004793",
-    "locale": "en_US",
-    "multi_location": [
-      "Washington, District of Columbia, United States of America"
-    ],
-    "title": "Tax News Editor (Capitol Hill)",
-    "jobSeqNo": "THTTRUUSJREQ175586EXTERNALENUS",
-    "postedDate": "2024-01-26T00:00:00.000+0000",
-    "dateCreated": "2024-01-26T16:40:14.599+0000",
-    "cityStateCountry": "Washington, District of Columbia, United States of America",
-    "address": "1333 H Street NW, Suite 500, Washington, DC 20005, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Washington-1333-H-Street-N/Tax-News-Editor--Capitol-Hill-_JREQ175586/apply",
-    "location": "Washington, District of Columbia, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Write news stories for daily publication on tax legislation, tax policy, Congressional oversight, and other topics of interest to tax professionals. 2+ years of experience: writing and/or editing Cong...",
-      "descriptionTeaser_first200": "Tax News Editor . Thomson Reuters Checkpoint, the industry-leading tax and accounting research platform, is seeking a Tax News Editor based in Washington, DC to cover Capitol Hill for a targeted readership...",
-      "descriptionTeaser_keyword": "Tax News Editor. Thomson Reuters Checkpoint, the industry-leading tax and accounting research platform, is seeking a Tax News Editor based in Washington, DC to cover Capitol Hill for a targeted reader...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -77.0311952,
-          "lat": 38.9004793
-        },
-        "location": "Washington, District of Columbia, United States of America"
       }
     ],
     "isMultiCategory": true,
