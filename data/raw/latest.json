@@ -1,5 +1,74 @@
 [
   {
+    "cityState": "Jakarta",
+    "country": "Indonesia",
+    "ml_skills": [
+      "multimedia storytelling",
+      "photography",
+      "bahasa",
+      "multimedia",
+      "social media platforms",
+      "storytelling",
+      "bahasa indonesia",
+      "transparency",
+      "budgeting"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Pitch, research and write deeply reported stories from Indonesia and the broader Southeast Asia region covering climate, socio-economic inequality, digital rights and data privacy. Collaborate with th...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "106.8235779",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ176662",
+    "jobId": "JREQ176662",
+    "city": "Jakarta",
+    "latitude": "-6.1989715",
+    "locale": "en_US",
+    "multi_location": [
+      "Jakarta, Indonesia"
+    ],
+    "title": "Southeast Asia Correspondent",
+    "jobSeqNo": "THTTRUUSJREQ176662EXTERNALENUS",
+    "postedDate": "2024-03-05T00:00:00.000+0000",
+    "dateCreated": "2024-02-29T04:41:51.811+0000",
+    "cityStateCountry": "Jakarta, Indonesia",
+    "address": "The City Tower 9th Floor, Jl MH Thamrin No.81, Jakarta 10310, Indonesia",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IDN-Jakarta--City-Tower-9-Flr/Southeast-Asia-Correspondent_JREQ176662/apply",
+    "location": "Jakarta, Indonesia",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Pitch, research and write deeply reported stories from Indonesia and the broader Southeast Asia region covering climate, socio-economic inequality, digital rights and data privacy. Collaborate with th...",
+      "descriptionTeaser_first200": "We are seeking a talented and experienced journalist in Indonesia to join the Thomson Reuters Foundation's global team and cover issues that are core to the 3 areas of coverage on our award-winning news...",
+      "descriptionTeaser_keyword": "We are seeking a talented and experienced journalist in Indonesia to join the Thomson Reuters Foundation's global team and cover issues that are core to the 3 areas of coverage on our award-winning ne...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 106.8235779,
+          "lat": -6.1989715
+        },
+        "location": "Jakarta, Indonesia"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Manila",
     "country": "Philippines",
     "ml_skills": [
@@ -55,75 +124,6 @@
           "lat": 14.5344436
         },
         "location": "Manila, Philippines"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Jakarta",
-    "country": "Indonesia",
-    "ml_skills": [
-      "multimedia storytelling",
-      "photography",
-      "bahasa",
-      "multimedia",
-      "social media platforms",
-      "storytelling",
-      "bahasa indonesia",
-      "transparency",
-      "budgeting"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Pitch, research and write deeply reported stories from Indonesia and the broader Southeast Asia region covering climate, socio-economic inequality, digital rights and data privacy. Pitch, report and p...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "106.8235779",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ176662",
-    "jobId": "JREQ176662",
-    "city": "Jakarta",
-    "latitude": "-6.1989715",
-    "locale": "en_US",
-    "multi_location": [
-      "Jakarta, Indonesia"
-    ],
-    "title": "Southeast Asia Correspondent",
-    "jobSeqNo": "THTTRUUSJREQ176662EXTERNALENUS",
-    "postedDate": "2024-03-04T00:00:00.000+0000",
-    "dateCreated": "2024-02-29T04:41:51.811+0000",
-    "cityStateCountry": "Jakarta, Indonesia",
-    "address": "The City Tower 9th Floor, Jl MH Thamrin No.81, Jakarta 10310, Indonesia",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IDN-Jakarta--City-Tower-9-Flr/Southeast-Asia-Correspondent_JREQ176662/apply",
-    "location": "Jakarta, Indonesia",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Pitch, research and write deeply reported stories from Indonesia and the broader Southeast Asia region covering climate, socio-economic inequality, digital rights and data privacy. Pitch, report and p...",
-      "descriptionTeaser_first200": "We are seeking a talented and experienced journalist in Indonesia to join the Thomson Reuters Foundation's global team and cover issues that are core to the 3 areas of coverage on our award-winning news...",
-      "descriptionTeaser_keyword": "We are seeking a talented and experienced journalist in Indonesia to join the Thomson Reuters Foundation's global team and cover issues that are core to the 3 areas of coverage on our award-winning ne...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 106.8235779,
-          "lat": -6.1989715
-        },
-        "location": "Jakarta, Indonesia"
       }
     ],
     "isMultiCategory": true,
@@ -999,6 +999,80 @@
     "badge": ""
   },
   {
+    "cityState": "Hyderabad, Telangana",
+    "country": "India",
+    "ml_skills": [
+      "accessibility testing",
+      "testing tools",
+      "defect tracking",
+      "azure devops",
+      "information science",
+      "product engineering",
+      "computer science",
+      "information design",
+      "logging",
+      "assistive technologies",
+      "assistive technology",
+      "transparency",
+      "product management",
+      "product development"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "To be effective in this role, you must have an understanding of accessibility and the Web Content Accessibility Guidelines (WCAG), knowledge of assistive technology, automated testing tools, and demon...",
+    "state": "Telangana",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "78.3847282",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ176222",
+    "jobId": "JREQ176222",
+    "city": "Hyderabad",
+    "latitude": "17.438325",
+    "locale": "en_US",
+    "multi_location": [
+      "Hyderabad, Telangana, India"
+    ],
+    "title": "Accessibility Tester",
+    "jobSeqNo": "THTTRUUSJREQ176222EXTERNALENUS",
+    "postedDate": "2024-02-22T00:00:00.000+0000",
+    "dateCreated": "2024-02-22T08:40:27.779+0000",
+    "cityStateCountry": "Hyderabad, Telangana, India",
+    "address": "Floor 12, 13 & 14, Building 11, Raheja Mindspace, Madhapur, Hyderabad- 500081, Telangana, India",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Hyderabad-Raheja-Mindspace/Accessibility-Tester_JREQ176222/apply",
+    "location": "Hyderabad, Telangana, India",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "To be effective in this role, you must have an understanding of accessibility and the Web Content Accessibility Guidelines (WCAG), knowledge of assistive technology, automated testing tools, and demon...",
+      "descriptionTeaser_first200": "Accessibility Tester. Are you a curious, smart, self-driven experienced tester who has a passion for accessibility and loves working in collaboration to deliver moments of delight for customers? Are you...",
+      "descriptionTeaser_keyword": "Accessibility Tester. Are you a curious, smart, self-driven experienced tester who has a passion for accessibility and loves working in collaboration to deliver moments of delight for customers? Are y...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 78.3847282,
+          "lat": 17.438325
+        },
+        "location": "Hyderabad, Telangana, India"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Eagan, Minnesota",
     "country": "United States of America",
     "ml_skills": [
@@ -1067,80 +1141,6 @@
           "lat": 33.083351
         },
         "location": "Dallas, Texas, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Hyderabad, Telangana",
-    "country": "India",
-    "ml_skills": [
-      "accessibility testing",
-      "testing tools",
-      "defect tracking",
-      "azure devops",
-      "information science",
-      "product engineering",
-      "computer science",
-      "information design",
-      "logging",
-      "assistive technologies",
-      "assistive technology",
-      "transparency",
-      "product management",
-      "product development"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "To be effective in this role, you must have an understanding of accessibility and the Web Content Accessibility Guidelines (WCAG), knowledge of assistive technology, automated testing tools, and demon...",
-    "state": "Telangana",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "78.3847282",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ176222",
-    "jobId": "JREQ176222",
-    "city": "Hyderabad",
-    "latitude": "17.438325",
-    "locale": "en_US",
-    "multi_location": [
-      "Hyderabad, Telangana, India"
-    ],
-    "title": "Accessibility Tester",
-    "jobSeqNo": "THTTRUUSJREQ176222EXTERNALENUS",
-    "postedDate": "2024-02-22T00:00:00.000+0000",
-    "dateCreated": "2024-02-22T08:40:27.779+0000",
-    "cityStateCountry": "Hyderabad, Telangana, India",
-    "address": "Floor 12, 13 & 14, Building 11, Raheja Mindspace, Madhapur, Hyderabad- 500081, Telangana, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Hyderabad-Raheja-Mindspace/Accessibility-Tester_JREQ176222/apply",
-    "location": "Hyderabad, Telangana, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "To be effective in this role, you must have an understanding of accessibility and the Web Content Accessibility Guidelines (WCAG), knowledge of assistive technology, automated testing tools, and demon...",
-      "descriptionTeaser_first200": "Accessibility Tester. Are you a curious, smart, self-driven experienced tester who has a passion for accessibility and loves working in collaboration to deliver moments of delight for customers? Are you...",
-      "descriptionTeaser_keyword": "Accessibility Tester. Are you a curious, smart, self-driven experienced tester who has a passion for accessibility and loves working in collaboration to deliver moments of delight for customers? Are y...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 78.3847282,
-          "lat": 17.438325
-        },
-        "location": "Hyderabad, Telangana, India"
       }
     ],
     "isMultiCategory": true,
@@ -2766,6 +2766,69 @@
     "country": "India",
     "ml_skills": [
       "context",
+      "transparency",
+      "investment decisions"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Adept at performing quickly under pressure as they work with reporters and news editors to produce compelling stories that appeal both to professional clients who rely on Reuters to help make investme...",
+    "state": "Karnataka",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "77.7120655",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ174174",
+    "jobId": "JREQ174174",
+    "city": "Bengaluru",
+    "latitude": "12.9743998",
+    "locale": "en_US",
+    "multi_location": [
+      "Bengaluru, Karnataka, India"
+    ],
+    "title": "Desk Editor",
+    "jobSeqNo": "THTTRUUSJREQ174174EXTERNALENUS",
+    "postedDate": "2024-02-01T00:00:00.000+0000",
+    "dateCreated": "2024-01-17T12:40:46.838+0000",
+    "cityStateCountry": "Bengaluru, Karnataka, India",
+    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/Desk-Editor_JREQ174174/apply",
+    "location": "Bengaluru, Karnataka, India",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Adept at performing quickly under pressure as they work with reporters and news editors to produce compelling stories that appeal both to professional clients who rely on Reuters to help make investme...",
+      "descriptionTeaser_first200": "Desk Editor, Reuters Bangalore. The Reuters Bangalore bureau, the largest Reuters news operation in the world, has set a global benchmark for producing real-time company and markets news at speed. The...",
+      "descriptionTeaser_keyword": "Desk Editor, Reuters Bangalore. The Reuters Bangalore bureau, the largest Reuters news operation in the world, has set a global benchmark for producing real-time company and markets news at speed. The...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 77.7120655,
+          "lat": 12.9743998
+        },
+        "location": "Bengaluru, Karnataka, India"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Bengaluru, Karnataka",
+    "country": "India",
+    "ml_skills": [
+      "context",
       "multi-tasking on",
       "latin",
       "freedom",
@@ -2866,69 +2929,6 @@
       "descriptionTeaser": "Acting as the number 2 to our Markets Editor, you will write or help drive the writing of. The Correspondent will be expected to work hand-in-hand with the stock markets team and editors in New York a...",
       "descriptionTeaser_first200": "Correspondent, Markets:Reuters is seeking a Correspondent for the Markets team to take on one of the most important writing and reporting roles in our Bangalore newsroom. This is an excellent opportunity...",
       "descriptionTeaser_keyword": "Correspondent, Markets:Reuters is seeking a Correspondent for the Markets team to take on one of the most important writing and reporting roles in our Bangalore newsroom. This is an excellent opportun...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 77.7120655,
-          "lat": 12.9743998
-        },
-        "location": "Bengaluru, Karnataka, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Bengaluru, Karnataka",
-    "country": "India",
-    "ml_skills": [
-      "context",
-      "transparency",
-      "investment decisions"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Adept at performing quickly under pressure as they work with reporters and news editors to produce compelling stories that appeal both to professional clients who rely on Reuters to help make investme...",
-    "state": "Karnataka",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "77.7120655",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ174174",
-    "jobId": "JREQ174174",
-    "city": "Bengaluru",
-    "latitude": "12.9743998",
-    "locale": "en_US",
-    "multi_location": [
-      "Bengaluru, Karnataka, India"
-    ],
-    "title": "Desk Editor",
-    "jobSeqNo": "THTTRUUSJREQ174174EXTERNALENUS",
-    "postedDate": "2024-02-01T00:00:00.000+0000",
-    "dateCreated": "2024-01-17T12:40:46.838+0000",
-    "cityStateCountry": "Bengaluru, Karnataka, India",
-    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/Desk-Editor_JREQ174174/apply",
-    "location": "Bengaluru, Karnataka, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Adept at performing quickly under pressure as they work with reporters and news editors to produce compelling stories that appeal both to professional clients who rely on Reuters to help make investme...",
-      "descriptionTeaser_first200": "Desk Editor, Reuters Bangalore. The Reuters Bangalore bureau, the largest Reuters news operation in the world, has set a global benchmark for producing real-time company and markets news at speed. The...",
-      "descriptionTeaser_keyword": "Desk Editor, Reuters Bangalore. The Reuters Bangalore bureau, the largest Reuters news operation in the world, has set a global benchmark for producing real-time company and markets news at speed. The...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
@@ -3862,82 +3862,6 @@
           "lat": 12.9743998
         },
         "location": "Bengaluru, Karnataka, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Gdansk",
-    "country": "Poland",
-    "ml_skills": [
-      "gis",
-      "spatial analysis techniques",
-      "spatial analysis",
-      "digitization",
-      "gis data production",
-      "information systems",
-      "arcgis",
-      "computer science",
-      "relational databases",
-      "sql",
-      "python",
-      "tiger",
-      "editing",
-      "transparency",
-      "ukrainian",
-      "customer support"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Written and spoken fluency in English. Ukrainian citizens and their family members residing in Ukraine before 24 February 2022. Citizens of other third countries who were permanent residents in Ukrain...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "18.5752702",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ175927",
-    "jobId": "JREQ175927",
-    "city": "Gdansk",
-    "latitude": "54.4004235",
-    "locale": "en_US",
-    "multi_location": [
-      "Gdansk, Poland"
-    ],
-    "title": "GIS Analyst",
-    "jobSeqNo": "THTTRUUSJREQ175927EXTERNALENUS",
-    "postedDate": "2024-01-29T00:00:00.000+0000",
-    "dateCreated": "2024-01-29T17:26:14.438+0000",
-    "cityStateCountry": "Gdansk, Poland",
-    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/GIS-Analyst_JREQ175927/apply",
-    "location": "Gdansk, Poland",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Written and spoken fluency in English. Ukrainian citizens and their family members residing in Ukraine before 24 February 2022. Citizens of other third countries who were permanent residents in Ukrain...",
-      "descriptionTeaser_first200": "We welcome applications to our full-time vacancies from all citizens who have been granted protection within the territory of the Republic of Poland under the EU Temporary Protection Directive*. The GIS...",
-      "descriptionTeaser_keyword": "We welcome applications to our full-time vacancies from all citizens who have been granted protection within the territory of the Republic of Poland under the EU Temporary Protection Directive*. The G...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 18.5752702,
-          "lat": 54.4004235
-        },
-        "location": "Gdansk, Poland"
       }
     ],
     "isMultiCategory": true,
