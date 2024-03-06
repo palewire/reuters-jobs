@@ -1,57 +1,5 @@
 [
   {
-    "cityState": "",
-    "country": "South Africa",
-    "remote": "On-Site",
-    "type": "Full time",
-    "descriptionTeaser": "Reuters is looking for a journalist with strong\u00a0news\u00a0judgement and a passion for speed and accuracy to join our\u00a0Breaking\u00a0News\u00a0team in\u00a0Sub-Saharan\u00a0Africa. Based in Johannesburg, the successful candidat",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "28.0535995",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ176960",
-    "jobId": "JREQ176960",
-    "city": "",
-    "latitude": "-26.1069543",
-    "locale": "en_US",
-    "multi_location": [
-      "South Africa"
-    ],
-    "title": "Breaking News Correspondent, Sub-Saharan Africa (fixed-term)",
-    "jobSeqNo": "THTTRUUSJREQ176960EXTERNALENUS",
-    "postedDate": "2024-03-05T00:00:00.000+0000",
-    "dateCreated": "2024-03-05T16:42:03.700+0000",
-    "cityStateCountry": "South Africa",
-    "address": "2 Maude Street, Sandton, Johannesburg, 2196, South Africa",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/ZAF-Johannesburg-2-Maude-Street/Breaking-News-Correspondent--Sub-Saharan-Africa--fixed-term-_JREQ176960/apply",
-    "location": "South Africa",
-    "category": "News & Editorial Careers",
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 28.0535995,
-          "lat": -26.1069543
-        },
-        "location": "South Africa"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Eagan, Minnesota",
     "country": "United States of America",
     "ml_skills": [
@@ -121,6 +69,70 @@
           "lat": 33.083351
         },
         "location": "Dallas, Texas, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "",
+    "country": "South Africa",
+    "remote": "On-Site",
+    "type": "Full time",
+    "descriptionTeaser": "Reuters is looking for a journalist with strong news judgement and a passion for speed and accuracy to join our Breaking News team in Sub-Saharan Africa. They will work under the direction of the Brea...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "28.0535995",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ176960",
+    "jobId": "JREQ176960",
+    "city": "",
+    "latitude": "-26.1069543",
+    "locale": "en_US",
+    "multi_location": [
+      "South Africa"
+    ],
+    "title": "Breaking News Correspondent, Sub-Saharan Africa (fixed-term)",
+    "jobSeqNo": "THTTRUUSJREQ176960EXTERNALENUS",
+    "postedDate": "2024-03-05T00:00:00.000+0000",
+    "dateCreated": "2024-03-05T16:42:03.700+0000",
+    "cityStateCountry": "South Africa",
+    "address": "2 Maude Street, Sandton, Johannesburg, 2196, South Africa",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/ZAF-Johannesburg-2-Maude-Street/Breaking-News-Correspondent--Sub-Saharan-Africa--fixed-term-_JREQ176960/apply",
+    "location": "South Africa",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "ml_skills": [
+      "breaking news",
+      "french",
+      "portuguese",
+      "transparency"
+    ],
+    "ml_job_parser": {
+      "descriptionTeaser": "Reuters is looking for a journalist with strong news judgement and a passion for speed and accuracy to join our Breaking News team in Sub-Saharan Africa. They will work under the direction of the Brea...",
+      "descriptionTeaser_first200": "Reuters is looking for a journalist with strong news judgement and a passion for speed and accuracy to join our Breaking News team in Sub-Saharan Africa. Based in Johannesburg, the successful candidate...",
+      "descriptionTeaser_keyword": "Reuters is looking for a journalist with strong news judgement and a passion for speed and accuracy to join our Breaking News team in Sub-Saharan Africa. Based in Johannesburg, the successful candidat...",
+      "descriptionTeaser_ats": ""
+    },
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 28.0535995,
+          "lat": -26.1069543
+        },
+        "location": "South Africa"
       }
     ],
     "isMultiCategory": true,
