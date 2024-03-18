@@ -1,5 +1,69 @@
 [
   {
+    "cityState": "Beijing, Beijing",
+    "country": "China",
+    "ml_skills": [
+      "breaking news",
+      "mandarin",
+      "multimedia",
+      "transparency"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Reuters is seeking an outstanding journalist and inspiring leader with a strong track record covering energy, agriculture and/or metals to head our China Commodities & Energy team. As Chief China C&E...",
+    "state": "Beijing",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "116.40108",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ174529",
+    "jobId": "JREQ174529",
+    "city": "Beijing",
+    "latitude": "39.9515199",
+    "locale": "en_US",
+    "multi_location": [
+      "Beijing, Beijing, China"
+    ],
+    "title": "Chief Correspondent, China Commodities and Energy",
+    "jobSeqNo": "THTTRUUSJREQ174529EXTERNALENUS",
+    "postedDate": "2024-03-18T00:00:00.000+0000",
+    "dateCreated": "2023-12-12T12:41:01.023+0000",
+    "cityStateCountry": "Beijing, Beijing, China",
+    "address": "Units 5-12, 18F / 20F, Office Tower E1 of Oriental Plaza, No.1, East Chang An Avenue, Dong Cheng District, Beijing, 100738 Beijing, China",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CHN-Beijing-Oriental-Plaza/Chief-Correspondent--China-Commodities-and-Energy_JREQ174529/apply",
+    "location": "Beijing, Beijing, China",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Reuters is seeking an outstanding journalist and inspiring leader with a strong track record covering energy, agriculture and/or metals to head our China Commodities & Energy team. As Chief China C&E...",
+      "descriptionTeaser_first200": "Chief China C&E Correspondent. Reuters is seeking an outstanding journalist and inspiring leader with a strong track record covering energy, agriculture and/or metals to head our China Commodities & Energy...",
+      "descriptionTeaser_keyword": "Chief China C&E Correspondent. Reuters is seeking an outstanding journalist and inspiring leader with a strong track record covering energy, agriculture and/or metals to head our China Commodities & E...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 116.40108,
+          "lat": 39.9515199
+        },
+        "location": "Beijing, Beijing, China"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Eagan, Minnesota",
     "country": "United States of America",
     "ml_skills": [
@@ -4471,71 +4535,6 @@
           "lat": 19.4343664
         },
         "location": "Mexico City, Mexico"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Beijing, Beijing",
-    "country": "China",
-    "ml_skills": [
-      "breaking news",
-      "mandarin",
-      "multimedia",
-      "track",
-      "transparency"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Reuters is seeking an outstanding journalist and inspiring leader with a strong track record covering energy, agriculture and/or metals to head our China Commodities & Energy team. As Chief China C&E...",
-    "state": "Beijing",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "116.40108",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ174529",
-    "jobId": "JREQ174529",
-    "city": "Beijing",
-    "latitude": "39.9515199",
-    "locale": "en_US",
-    "multi_location": [
-      "Beijing, Beijing, China"
-    ],
-    "title": "Chief Correspondent, China Commodities and Energy",
-    "jobSeqNo": "THTTRUUSJREQ174529EXTERNALENUS",
-    "postedDate": "2023-12-12T00:00:00.000+0000",
-    "dateCreated": "2023-12-12T12:41:01.023+0000",
-    "cityStateCountry": "Beijing, Beijing, China",
-    "address": "Units 5-12, 18F / 20F, Office Tower E1 of Oriental Plaza, No.1, East Chang An Avenue, Dong Cheng District, Beijing, 100738 Beijing, China",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CHN-Beijing-Oriental-Plaza/Chief-Correspondent--China-Commodities-and-Energy_JREQ174529/apply",
-    "location": "Beijing, Beijing, China",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Reuters is seeking an outstanding journalist and inspiring leader with a strong track record covering energy, agriculture and/or metals to head our China Commodities & Energy team. As Chief China C&E...",
-      "descriptionTeaser_first200": "Chief China C&E Correspondent. Reuters is seeking an outstanding journalist and inspiring leader with a strong track record covering energy, agriculture and/or metals to head our China Commodities & Energy...",
-      "descriptionTeaser_keyword": "Chief China C&E Correspondent. Reuters is seeking an outstanding journalist and inspiring leader with a strong track record covering energy, agriculture and/or metals to head our China Commodities & E...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 116.40108,
-          "lat": 39.9515199
-        },
-        "location": "Beijing, Beijing, China"
       }
     ],
     "isMultiCategory": true,
