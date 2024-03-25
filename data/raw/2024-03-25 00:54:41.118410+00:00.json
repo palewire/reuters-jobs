@@ -67,6 +67,72 @@
     "badge": ""
   },
   {
+    "cityState": "Gdansk",
+    "country": "Poland",
+    "ml_skills": [
+      "vocabulary",
+      "multimedia",
+      "short stories",
+      "romanian",
+      "czech",
+      "hungarian"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Reuters is looking for a candidate who can speak fluent English and Polish to join its real-time news operation in Gdansk. Writing headlines and news summaries accurately, quickly and with high standa...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "18.5752702",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ177272",
+    "jobId": "JREQ177272",
+    "city": "Gdansk",
+    "latitude": "54.4004235",
+    "locale": "en_US",
+    "multi_location": [
+      "Gdansk, Poland"
+    ],
+    "title": "Graduate News Reporter with Polish and English",
+    "jobSeqNo": "THTTRUUSJREQ177272EXTERNALENUS",
+    "postedDate": "2024-03-22T00:00:00.000+0000",
+    "dateCreated": "2024-03-22T12:40:27.402+0000",
+    "cityStateCountry": "Gdansk, Poland",
+    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/Graduate-News-Reporter-with-Polish-and-English_JREQ177272-1/apply",
+    "location": "Gdansk, Poland",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Reuters is looking for a candidate who can speak fluent English and Polish to join its real-time news operation in Gdansk. Writing headlines and news summaries accurately, quickly and with high standa...",
+      "descriptionTeaser_first200": "Reuters is looking for a candidate who can speak fluent English and Polish to join its real-time news operation in Gdansk. The reporter will get to produce headlines and write short stories about companies...",
+      "descriptionTeaser_keyword": "Reuters is looking for a candidate who can speak fluent English and Polish to join its real-time news operation in Gdansk. The reporter will get to produce headlines and write short stories about comp...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 18.5752702,
+          "lat": 54.4004235
+        },
+        "location": "Gdansk, Poland"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Minneapolis, Minnesota",
     "country": "United States of America",
     "ml_skills": [
@@ -123,72 +189,6 @@
           "lat": 44.8253064
         },
         "location": "Minneapolis, Minnesota, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Gdansk",
-    "country": "Poland",
-    "ml_skills": [
-      "vocabulary",
-      "multimedia",
-      "short stories",
-      "romanian",
-      "czech",
-      "hungarian"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Reuters is looking for a candidate who can speak fluent English and Polish to join its real-time news operation in Gdansk. Writing headlines and news summaries accurately, quickly and with high standa...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "18.5752702",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ177272",
-    "jobId": "JREQ177272",
-    "city": "Gdansk",
-    "latitude": "54.4004235",
-    "locale": "en_US",
-    "multi_location": [
-      "Gdansk, Poland"
-    ],
-    "title": "Graduate News Reporter with Polish and English",
-    "jobSeqNo": "THTTRUUSJREQ177272EXTERNALENUS",
-    "postedDate": "2024-03-22T00:00:00.000+0000",
-    "dateCreated": "2024-03-22T12:40:27.402+0000",
-    "cityStateCountry": "Gdansk, Poland",
-    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/Graduate-News-Reporter-with-Polish-and-English_JREQ177272-1/apply",
-    "location": "Gdansk, Poland",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Reuters is looking for a candidate who can speak fluent English and Polish to join its real-time news operation in Gdansk. Writing headlines and news summaries accurately, quickly and with high standa...",
-      "descriptionTeaser_first200": "Reuters is looking for a candidate who can speak fluent English and Polish to join its real-time news operation in Gdansk. The reporter will get to produce headlines and write short stories about companies...",
-      "descriptionTeaser_keyword": "Reuters is looking for a candidate who can speak fluent English and Polish to join its real-time news operation in Gdansk. The reporter will get to produce headlines and write short stories about comp...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 18.5752702,
-          "lat": 54.4004235
-        },
-        "location": "Gdansk, Poland"
       }
     ],
     "isMultiCategory": true,
@@ -3154,79 +3154,6 @@
           "lat": 19.1114368
         },
         "location": "Mumbai, Maharashtra, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Gdansk",
-    "country": "Poland",
-    "ml_skills": [
-      "journalism",
-      "french",
-      "german",
-      "danish",
-      "portuguese",
-      "multimedia",
-      "norwegian",
-      "finnish",
-      "greek",
-      "communication skills",
-      "transparency",
-      "gdp",
-      "financial markets"
-    ],
-    "remote": "On-Site",
-    "type": "Full time",
-    "descriptionTeaser": "How to translate market reports, general, political, economic and company news stories from English at speed (French, German, Spanish, Portuguese, Polish, Finnish, Norwegian, Danish, Swedish, Greek)....",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "18.5752702",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ176330",
-    "jobId": "JREQ176330",
-    "city": "Gdansk",
-    "latitude": "54.4004235",
-    "locale": "en_US",
-    "multi_location": [
-      "Gdansk, Poland"
-    ],
-    "title": "Reuters News Summer Internship Programme (Gdansk, Poland)",
-    "jobSeqNo": "THTTRUUSJREQ176330EXTERNALENUS",
-    "postedDate": "2024-02-13T00:00:00.000+0000",
-    "dateCreated": "2024-02-13T12:42:02.604+0000",
-    "cityStateCountry": "Gdansk, Poland",
-    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/Reuters-News-Summer-Internship-Programme--Gdansk--Poland-_JREQ176330/apply",
-    "location": "Gdansk, Poland",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "How to translate market reports, general, political, economic and company news stories from English at speed (French, German, Spanish, Portuguese, Polish, Finnish, Norwegian, Danish, Swedish, Greek)....",
-      "descriptionTeaser_first200": "Reuters is seeking ambitious, energetic graduates and/or final year students with excellent language skills to join its real-time news operation in Gdansk, Poland, for a three-month internship. Successful...",
-      "descriptionTeaser_keyword": "Reuters is seeking ambitious, energetic graduates and/or final year students with excellent language skills to join its real-time news operation in Gdansk, Poland, for a three-month internship. Succes...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 18.5752702,
-          "lat": 54.4004235
-        },
-        "location": "Gdansk, Poland"
       }
     ],
     "isMultiCategory": true,
