@@ -1,5 +1,155 @@
 [
   {
+    "cityState": "Washington, District of Columbia",
+    "country": "United States of America",
+    "ml_skills": [
+      "breaking news",
+      "multimedia",
+      "dslr"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Produce, edit, write, and deliver compelling and creative video stories and live coverage on breaking news stories. Work closely with multimedia and video packaging teams to produce comprehensive repo...",
+    "state": "District of Columbia",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-77.0311952",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ177548",
+    "jobId": "JREQ177548",
+    "city": "Washington",
+    "latitude": "38.9004793",
+    "locale": "en_US",
+    "multi_location": [
+      "Washington, District of Columbia, United States of America"
+    ],
+    "title": "VJ/Cameraperson (Level 1 Journalist - Temp Guild)",
+    "jobSeqNo": "THTTRUUSJREQ177548EXTERNALENUS",
+    "postedDate": "2024-03-26T00:00:00.000+0000",
+    "dateCreated": "2024-03-26T20:41:39.205+0000",
+    "cityStateCountry": "Washington, District of Columbia, United States of America",
+    "address": "1333 H Street NW, Suite 500, Washington, DC 20005, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Washington-1333-H-Street-N/VJ-Cameraperson--Level-1-Journalist---Temp-Guild-_JREQ177548/apply",
+    "location": "Washington, District of Columbia, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Produce, edit, write, and deliver compelling and creative video stories and live coverage on breaking news stories. Work closely with multimedia and video packaging teams to produce comprehensive repo...",
+      "descriptionTeaser_first200": "VJ/Cameraperson (Level 1 Journalist - Temp Guild). Reuters Video News is looking for dynamic and talented Video Journalist/Cameraperson for a TEMPORARY position based in Atlanta, Georgia. About the Role....",
+      "descriptionTeaser_keyword": "VJ/Cameraperson (Level 1 Journalist - Temp Guild). Reuters Video News is looking for dynamic and talented Video Journalist/Cameraperson for a TEMPORARY position based in Atlanta, Georgia. About the Ro...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -77.0311952,
+          "lat": 38.9004793
+        },
+        "location": "Washington, District of Columbia, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Eagan, Minnesota",
+    "country": "United States of America",
+    "ml_skills": [
+      "state tax",
+      "business english",
+      "editing"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "The role of State Tax Attorney Editor relies on previous state and local tax (SALT) practitioner experience to provide standard state tax know-how resources to support the development and maintenance...",
+    "state": "Minnesota",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-93.10808019999999",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ176547",
+    "jobId": "JREQ176547",
+    "city": "Eagan",
+    "latitude": "44.8527611",
+    "locale": "en_US",
+    "multi_location": [
+      "Eagan, Minnesota, United States of America",
+      "Ann Arbor, Michigan, United States of America",
+      "Dallas, Texas, United States of America",
+      "New York, New York, United States of America"
+    ],
+    "title": "State Tax Editor/Author",
+    "jobSeqNo": "THTTRUUSJREQ176547EXTERNALENUS",
+    "postedDate": "2024-03-26T00:00:00.000+0000",
+    "dateCreated": "2024-02-20T20:40:42.074+0000",
+    "cityStateCountry": "Eagan, Minnesota, United States of America",
+    "address": "2900 Ames Crossing Road, Ste 100, Eagan, MN 55121, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MSP-2900-Ames-Crossing-Road/Sr-T-A-Editor_JREQ176547/apply",
+    "location": "Eagan, Minnesota, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "The role of State Tax Attorney Editor relies on previous state and local tax (SALT) practitioner experience to provide standard state tax know-how resources to support the development and maintenance...",
+      "descriptionTeaser_first200": "State Tax Attorney Editor \u2013 Product/Tax Editorial. Role Summary. Want to use your State Tax expertise and writing skills to create valuable tax research content and tools for the award-winning Thomson...",
+      "descriptionTeaser_keyword": "State Tax Attorney Editor \u2013 Product/Tax Editorial. Role Summary. Want to use your State Tax expertise and writing skills to create valuable tax research content and tools for the award-winning Thomson...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -93.10808019999999,
+          "lat": 44.8527611
+        },
+        "location": "Eagan, Minnesota, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -83.7267835,
+          "lat": 42.1957259
+        },
+        "location": "Ann Arbor, Michigan, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -96.82291699999999,
+          "lat": 33.083351
+        },
+        "location": "Dallas, Texas, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -73.9866995,
+          "lat": 40.7566955
+        },
+        "location": "New York, New York, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Tokyo",
     "country": "Japan",
     "ml_skills": [
@@ -127,6 +277,74 @@
           "lat": 19.4343664
         },
         "location": "Mexico City, Mexico"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Eagan, Minnesota",
+    "country": "United States of America",
+    "ml_skills": [
+      "legal research",
+      "publishing",
+      "westlaw",
+      "word processing",
+      "navigation",
+      "leadership development",
+      "electronic products",
+      "production processes"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Create editorial enhancements to help customers understand the context and developments of the law, classify legal information in the form of headnotes and other text, maintain up-to-date and accurate...",
+    "state": "Minnesota",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-93.11336709999999",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ177577",
+    "jobId": "JREQ177577",
+    "city": "Eagan",
+    "latitude": "44.8250902",
+    "locale": "en_US",
+    "multi_location": [
+      "Eagan, Minnesota, United States of America"
+    ],
+    "title": "Attorney Editor",
+    "jobSeqNo": "THTTRUUSJREQ177577EXTERNALENUS",
+    "postedDate": "2024-03-26T00:00:00.000+0000",
+    "dateCreated": "2024-03-25T20:40:25.229+0000",
+    "cityStateCountry": "Eagan, Minnesota, United States of America",
+    "address": "610 Opperman Dr, Eagan, MN 55123, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Eagan-610-Opperman-Dr/Attorney-Editor_JREQ177577/apply",
+    "location": "Eagan, Minnesota, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Create editorial enhancements to help customers understand the context and developments of the law, classify legal information in the form of headnotes and other text, maintain up-to-date and accurate...",
+      "descriptionTeaser_first200": "Attorney Editor. Attorney Editors provide legal interpretation in the form of research, analysis, and writing to support the development and maintenance of information in all media. As well as ensure...",
+      "descriptionTeaser_keyword": "Attorney Editor. Attorney Editors provide legal interpretation in the form of research, analysis, and writing to support the development and maintenance of information in all media. As well as ensure...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -93.11336709999999,
+          "lat": 44.8250902
+        },
+        "location": "Eagan, Minnesota, United States of America"
       }
     ],
     "isMultiCategory": true,
@@ -392,74 +610,6 @@
           "lat": 51.5056439
         },
         "location": "London, United Kingdom"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Eagan, Minnesota",
-    "country": "United States of America",
-    "ml_skills": [
-      "legal research",
-      "publishing",
-      "westlaw",
-      "word processing",
-      "navigation",
-      "leadership development",
-      "electronic products",
-      "production processes"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Create editorial enhancements to help customers understand the context and developments of the law, classify legal information in the form of headnotes and other text, maintain up-to-date and accurate...",
-    "state": "Minnesota",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-93.11336709999999",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ177577",
-    "jobId": "JREQ177577",
-    "city": "Eagan",
-    "latitude": "44.8250902",
-    "locale": "en_US",
-    "multi_location": [
-      "Eagan, Minnesota, United States of America"
-    ],
-    "title": "Attorney Editor",
-    "jobSeqNo": "THTTRUUSJREQ177577EXTERNALENUS",
-    "postedDate": "2024-03-25T00:00:00.000+0000",
-    "dateCreated": "2024-03-25T20:40:25.229+0000",
-    "cityStateCountry": "Eagan, Minnesota, United States of America",
-    "address": "610 Opperman Dr, Eagan, MN 55123, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Eagan-610-Opperman-Dr/Attorney-Editor_JREQ177577/apply",
-    "location": "Eagan, Minnesota, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Create editorial enhancements to help customers understand the context and developments of the law, classify legal information in the form of headnotes and other text, maintain up-to-date and accurate...",
-      "descriptionTeaser_first200": "Attorney Editor. Attorney Editors provide legal interpretation in the form of research, analysis, and writing to support the development and maintenance of information in all media. As well as ensure...",
-      "descriptionTeaser_keyword": "Attorney Editor. Attorney Editors provide legal interpretation in the form of research, analysis, and writing to support the development and maintenance of information in all media. As well as ensure...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -93.11336709999999,
-          "lat": 44.8250902
-        },
-        "location": "Eagan, Minnesota, United States of America"
       }
     ],
     "isMultiCategory": true,
@@ -1259,86 +1409,6 @@
           "lat": 39.9515199
         },
         "location": "Beijing, Beijing, China"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Eagan, Minnesota",
-    "country": "United States of America",
-    "ml_skills": [
-      "state tax",
-      "transparency",
-      "business english",
-      "editing"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "The role of State Tax Attorney Editor relies on previous state and local tax (SALT) practitioner experience to provide standard state tax know-how resources to support the development and maintenance...",
-    "state": "Minnesota",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-93.10808019999999",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ176547",
-    "jobId": "JREQ176547",
-    "city": "Eagan",
-    "latitude": "44.8527611",
-    "locale": "en_US",
-    "multi_location": [
-      "Eagan, Minnesota, United States of America",
-      "Ann Arbor, Michigan, United States of America",
-      "Dallas, Texas, United States of America"
-    ],
-    "title": "State Tax Editor/Author",
-    "jobSeqNo": "THTTRUUSJREQ176547EXTERNALENUS",
-    "postedDate": "2024-03-14T00:00:00.000+0000",
-    "dateCreated": "2024-02-20T20:40:42.074+0000",
-    "cityStateCountry": "Eagan, Minnesota, United States of America",
-    "address": "2900 Ames Crossing Road, Ste 100, Eagan, MN 55121, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MSP-2900-Ames-Crossing-Road/Sr-T-A-Editor_JREQ176547/apply",
-    "location": "Eagan, Minnesota, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "The role of State Tax Attorney Editor relies on previous state and local tax (SALT) practitioner experience to provide standard state tax know-how resources to support the development and maintenance...",
-      "descriptionTeaser_first200": "State Tax Attorney Editor \u2013 Product/Tax Editorial. Role Summary. Want to use your State Tax expertise and writing skills to create valuable tax research content and tools for the award-winning Thomson...",
-      "descriptionTeaser_keyword": "State Tax Attorney Editor \u2013 Product/Tax Editorial. Role Summary. Want to use your State Tax expertise and writing skills to create valuable tax research content and tools for the award-winning Thomson...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -93.10808019999999,
-          "lat": 44.8527611
-        },
-        "location": "Eagan, Minnesota, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -83.7267835,
-          "lat": 42.1957259
-        },
-        "location": "Ann Arbor, Michigan, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -96.82291699999999,
-          "lat": 33.083351
-        },
-        "location": "Dallas, Texas, United States of America"
       }
     ],
     "isMultiCategory": true,
