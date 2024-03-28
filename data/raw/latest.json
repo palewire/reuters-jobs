@@ -1,5 +1,88 @@
 [
   {
+    "cityState": "Carrollton, Texas",
+    "country": "United States of America",
+    "ml_skills": [
+      "public accounting",
+      "technical accounting",
+      "auditing",
+      "research skills",
+      "strategic development",
+      "customer retention",
+      "customer service"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Design, develop, and update unique audit and accounting solutions relied upon by accounting professionals in CPA firms or corporations throughout the U. The ability to execute assignments in a timely,...",
+    "state": "Texas",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-96.8449828",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ177538",
+    "jobId": "JREQ177538",
+    "city": "Carrollton",
+    "latitude": "32.97533",
+    "locale": "en_US",
+    "multi_location": [
+      "Carrollton, Texas, United States of America",
+      "Ann Arbor, Michigan, United States of America",
+      "Eagan, Minnesota, United States of America"
+    ],
+    "title": "Accounting & Auditing CPA Editor",
+    "jobSeqNo": "THTTRUUSJREQ177538EXTERNALENUS",
+    "postedDate": "2024-03-27T00:00:00.000+0000",
+    "dateCreated": "2024-03-27T20:40:44.709+0000",
+    "cityStateCountry": "Carrollton, Texas, United States of America",
+    "address": "2395 Midway Road, Carrollton, TX 75006, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Carrollton-2395-Midway-Rd/Accounting---Auditing-CPA-Editor_JREQ177538/apply",
+    "location": "Carrollton, Texas, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Design, develop, and update unique audit and accounting solutions relied upon by accounting professionals in CPA firms or corporations throughout the U. The ability to execute assignments in a timely,...",
+      "descriptionTeaser_first200": "Accounting & Auditing CPA Editor. Role Summary. Looking for an excellent work-life position outside the Big 4, large or mid-sized accounting firms? Desire a professional environment without the busy season...",
+      "descriptionTeaser_keyword": "Accounting & Auditing CPA Editor. Role Summary. Looking for an excellent work-life position outside the Big 4, large or mid-sized accounting firms? Desire a professional environment without the busy s...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -96.8449828,
+          "lat": 32.97533
+        },
+        "location": "Carrollton, Texas, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -83.7267835,
+          "lat": 42.1957259
+        },
+        "location": "Ann Arbor, Michigan, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -93.11336709999999,
+          "lat": 44.8250902
+        },
+        "location": "Eagan, Minnesota, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Tokyo",
     "country": "Japan",
     "ml_skills": [
@@ -333,6 +416,69 @@
           "lat": 41.87891930000001
         },
         "location": "Chicago, Illinois, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "London",
+    "country": "United Kingdom",
+    "ml_skills": [
+      "grammar",
+      "research skills",
+      "plc writing"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "In this opportunity as Assistant Editor, you will use your legal knowledge and experience to help to produce the magazine on schedule in hard copy and online each month. Commission contributions for w...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.0185088",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ177352",
+    "jobId": "JREQ177352",
+    "city": "London",
+    "latitude": "51.5056439",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom"
+    ],
+    "title": "Assistant Editor, PLC Magazine, Practical Law",
+    "jobSeqNo": "THTTRUUSJREQ177352EXTERNALENUS",
+    "postedDate": "2024-03-27T00:00:00.000+0000",
+    "dateCreated": "2024-03-25T20:40:25.229+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Assistant-Editor--PLC-Magazine--Practical-Law_JREQ177352/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "In this opportunity as Assistant Editor, you will use your legal knowledge and experience to help to produce the magazine on schedule in hard copy and online each month. Commission contributions for w...",
+      "descriptionTeaser_first200": "We are seeking an assistant editor to join the PLC Magazine editorial team. PLC Magazine is the leading monthly magazine for business lawyers advising companies active in the UK, published by Practical...",
+      "descriptionTeaser_keyword": "We are seeking an assistant editor to join the PLC Magazine editorial team. PLC Magazine is the leading monthly magazine for business lawyers advising companies active in the UK, published by Practica...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.0185088,
+          "lat": 51.5056439
+        },
+        "location": "London, United Kingdom"
       }
     ],
     "isMultiCategory": true,
@@ -949,69 +1095,6 @@
           "lat": 38.9004793
         },
         "location": "Washington, District of Columbia, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "London",
-    "country": "United Kingdom",
-    "ml_skills": [
-      "grammar",
-      "research skills",
-      "plc writing"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "In this opportunity as Assistant Editor, you will use your legal knowledge and experience to help to produce the magazine on schedule in hard copy and online each month. Commission contributions for w...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-0.0185088",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ177352",
-    "jobId": "JREQ177352",
-    "city": "London",
-    "latitude": "51.5056439",
-    "locale": "en_US",
-    "multi_location": [
-      "London, United Kingdom"
-    ],
-    "title": "Assistant Editor, PLC Magazine, Practical Law",
-    "jobSeqNo": "THTTRUUSJREQ177352EXTERNALENUS",
-    "postedDate": "2024-03-25T00:00:00.000+0000",
-    "dateCreated": "2024-03-25T20:40:25.229+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Assistant-Editor--PLC-Magazine--Practical-Law_JREQ177352/apply",
-    "location": "London, United Kingdom",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "In this opportunity as Assistant Editor, you will use your legal knowledge and experience to help to produce the magazine on schedule in hard copy and online each month. Commission contributions for w...",
-      "descriptionTeaser_first200": "We are seeking an assistant editor to join the PLC Magazine editorial team. PLC Magazine is the leading monthly magazine for business lawyers advising companies active in the UK, published by Practical...",
-      "descriptionTeaser_keyword": "We are seeking an assistant editor to join the PLC Magazine editorial team. PLC Magazine is the leading monthly magazine for business lawyers advising companies active in the UK, published by Practica...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -0.0185088,
-          "lat": 51.5056439
-        },
-        "location": "London, United Kingdom"
       }
     ],
     "isMultiCategory": true,
@@ -4341,70 +4424,6 @@
           "lat": 14.5344436
         },
         "location": "Manila, Philippines"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "London",
-    "country": "United Kingdom",
-    "ml_skills": [
-      "case law",
-      "transparency",
-      "editing",
-      "public sector"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "As a Senior Specialist Legal Editor in Practical Law, you will use your specialist legal knowledge of public procurement law to provide and maintain a wide range of Practical Law content. Creating wel...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-0.0185088",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ167719",
-    "jobId": "JREQ167719",
-    "city": "London",
-    "latitude": "51.5056439",
-    "locale": "en_US",
-    "multi_location": [
-      "London, United Kingdom"
-    ],
-    "title": "Senior Specialist Legal Editor, Practical Law Public Sector",
-    "jobSeqNo": "THTTRUUSJREQ167719EXTERNALENUS",
-    "postedDate": "2024-01-25T00:00:00.000+0000",
-    "dateCreated": "2023-04-19T16:42:23.497+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Senior-Legal-Editor--Practical-Law-Public-Sector_JREQ167719/apply",
-    "location": "London, United Kingdom",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "As a Senior Specialist Legal Editor in Practical Law, you will use your specialist legal knowledge of public procurement law to provide and maintain a wide range of Practical Law content. Creating wel...",
-      "descriptionTeaser_first200": "We are seeking an experienced public procurement lawyer to join the Practical Law Public Sector team in the UK. Practical Law is a leading online know-how service providing rigorous, peer-reviewed resources,...",
-      "descriptionTeaser_keyword": "We are seeking an experienced public procurement lawyer to join the Practical Law Public Sector team in the UK. Practical Law is a leading online know-how service providing rigorous, peer-reviewed res...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -0.0185088,
-          "lat": 51.5056439
-        },
-        "location": "London, United Kingdom"
       }
     ],
     "isMultiCategory": true,
