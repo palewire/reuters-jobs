@@ -1,5 +1,67 @@
 [
   {
+    "cityState": "San Francisco, California",
+    "country": "United States of America",
+    "ml_skills": [
+      "multimedia",
+      "graphics"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "You will break agenda-setting news and help us shape coverage in a rapidly expanding new field. You have proven abilities at reporting and writing distinctive, ambitious, agenda-setting stories. How a...",
+    "state": "California",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-122.3973037",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ177567",
+    "jobId": "JREQ177567",
+    "city": "San Francisco",
+    "latitude": "37.7940487",
+    "locale": "en_US",
+    "multi_location": [
+      "San Francisco, California, United States of America"
+    ],
+    "title": "US Technology Correspondent, Reuters (Level 1 Journalist)",
+    "jobSeqNo": "THTTRUUSJREQ177567EXTERNALENUS",
+    "postedDate": "2024-03-29T00:00:00.000+0000",
+    "dateCreated": "2024-03-29T16:40:35.003+0000",
+    "cityStateCountry": "San Francisco, California, United States of America",
+    "address": "50 California Street, 3rd Floor, San Francisco, CA 94111, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-San-Francisco-California-S/US-Technology-Correspondent--Reuters--Level-1-Journalist-_JREQ177567/apply",
+    "location": "San Francisco, California, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "You will break agenda-setting news and help us shape coverage in a rapidly expanding new field. You have proven abilities at reporting and writing distinctive, ambitious, agenda-setting stories. How a...",
+      "descriptionTeaser_first200": "US Technology Correspondent, Reuters (Level 1 Journalist). This position will be based in San Francisco, California. Reuters is seeking a Technology Correspondent to take on one of the most important...",
+      "descriptionTeaser_keyword": "US Technology Correspondent, Reuters (Level 1 Journalist). This position will be based in San Francisco, California. Reuters is seeking a Technology Correspondent to take on one of the most important...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -122.3973037,
+          "lat": 37.7940487
+        },
+        "location": "San Francisco, California, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Dakar",
     "country": "Senegal",
     "ml_skills": [
