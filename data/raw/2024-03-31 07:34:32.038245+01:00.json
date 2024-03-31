@@ -1,5 +1,67 @@
 [
   {
+    "cityState": "San Francisco, California",
+    "country": "United States of America",
+    "ml_skills": [
+      "multimedia",
+      "graphics"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "You will break agenda-setting news and help us shape coverage in a rapidly expanding new field. You have proven abilities at reporting and writing distinctive, ambitious, agenda-setting stories. How a...",
+    "state": "California",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-122.3973037",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ177567",
+    "jobId": "JREQ177567",
+    "city": "San Francisco",
+    "latitude": "37.7940487",
+    "locale": "en_US",
+    "multi_location": [
+      "San Francisco, California, United States of America"
+    ],
+    "title": "US Technology Correspondent, Reuters (Level 1 Journalist)",
+    "jobSeqNo": "THTTRUUSJREQ177567EXTERNALENUS",
+    "postedDate": "2024-03-29T00:00:00.000+0000",
+    "dateCreated": "2024-03-29T16:40:35.003+0000",
+    "cityStateCountry": "San Francisco, California, United States of America",
+    "address": "50 California Street, 3rd Floor, San Francisco, CA 94111, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-San-Francisco-California-S/US-Technology-Correspondent--Reuters--Level-1-Journalist-_JREQ177567/apply",
+    "location": "San Francisco, California, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "You will break agenda-setting news and help us shape coverage in a rapidly expanding new field. You have proven abilities at reporting and writing distinctive, ambitious, agenda-setting stories. How a...",
+      "descriptionTeaser_first200": "US Technology Correspondent, Reuters (Level 1 Journalist). This position will be based in San Francisco, California. Reuters is seeking a Technology Correspondent to take on one of the most important...",
+      "descriptionTeaser_keyword": "US Technology Correspondent, Reuters (Level 1 Journalist). This position will be based in San Francisco, California. Reuters is seeking a Technology Correspondent to take on one of the most important...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -122.3973037,
+          "lat": 37.7940487
+        },
+        "location": "San Francisco, California, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Dakar",
     "country": "Senegal",
     "ml_skills": [
@@ -54,6 +116,69 @@
           "lat": 14.7016344
         },
         "location": "Dakar, Senegal"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Washington, District of Columbia",
+    "country": "United States of America",
+    "ml_skills": [
+      "breaking news",
+      "multimedia",
+      "dslr"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Produce, edit, write, and deliver compelling and creative video stories and live coverage on breaking news stories. Work closely with multimedia and video packaging teams to produce comprehensive repo...",
+    "state": "District of Columbia",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-77.0311952",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ177548",
+    "jobId": "JREQ177548",
+    "city": "Washington",
+    "latitude": "38.9004793",
+    "locale": "en_US",
+    "multi_location": [
+      "Washington, District of Columbia, United States of America"
+    ],
+    "title": "VJ/Cameraperson, Atlanta (Level 1 Journalist - Temp Guild)",
+    "jobSeqNo": "THTTRUUSJREQ177548EXTERNALENUS",
+    "postedDate": "2024-03-28T00:00:00.000+0000",
+    "dateCreated": "2024-03-26T20:41:39.205+0000",
+    "cityStateCountry": "Washington, District of Columbia, United States of America",
+    "address": "1333 H Street NW, Suite 500, Washington, DC 20005, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Washington-1333-H-Street-N/VJ-Cameraperson--Level-1-Journalist---Temp-Guild-_JREQ177548/apply",
+    "location": "Washington, District of Columbia, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Produce, edit, write, and deliver compelling and creative video stories and live coverage on breaking news stories. Work closely with multimedia and video packaging teams to produce comprehensive repo...",
+      "descriptionTeaser_first200": "VJ/Cameraperson, Atlanta (Level 1 Journalist - Temp Guild). Reuters Video News is looking for dynamic and talented Video Journalist/Cameraperson for a TEMPORARY position based in Atlanta, Georgia. About...",
+      "descriptionTeaser_keyword": "VJ/Cameraperson, Atlanta (Level 1 Journalist - Temp Guild). Reuters Video News is looking for dynamic and talented Video Journalist/Cameraperson for a TEMPORARY position based in Atlanta, Georgia. Abo...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -77.0311952,
+          "lat": 38.9004793
+        },
+        "location": "Washington, District of Columbia, United States of America"
       }
     ],
     "isMultiCategory": true,
@@ -841,69 +966,6 @@
     "badge": ""
   },
   {
-    "cityState": "Washington, District of Columbia",
-    "country": "United States of America",
-    "ml_skills": [
-      "breaking news",
-      "multimedia",
-      "dslr"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Produce, edit, write, and deliver compelling and creative video stories and live coverage on breaking news stories. Work closely with multimedia and video packaging teams to produce comprehensive repo...",
-    "state": "District of Columbia",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-77.0311952",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ177548",
-    "jobId": "JREQ177548",
-    "city": "Washington",
-    "latitude": "38.9004793",
-    "locale": "en_US",
-    "multi_location": [
-      "Washington, District of Columbia, United States of America"
-    ],
-    "title": "VJ/Cameraperson (Level 1 Journalist - Temp Guild)",
-    "jobSeqNo": "THTTRUUSJREQ177548EXTERNALENUS",
-    "postedDate": "2024-03-26T00:00:00.000+0000",
-    "dateCreated": "2024-03-26T20:41:39.205+0000",
-    "cityStateCountry": "Washington, District of Columbia, United States of America",
-    "address": "1333 H Street NW, Suite 500, Washington, DC 20005, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Washington-1333-H-Street-N/VJ-Cameraperson--Level-1-Journalist---Temp-Guild-_JREQ177548/apply",
-    "location": "Washington, District of Columbia, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Produce, edit, write, and deliver compelling and creative video stories and live coverage on breaking news stories. Work closely with multimedia and video packaging teams to produce comprehensive repo...",
-      "descriptionTeaser_first200": "VJ/Cameraperson (Level 1 Journalist - Temp Guild). Reuters Video News is looking for dynamic and talented Video Journalist/Cameraperson for a TEMPORARY position based in Atlanta, Georgia. About the Role....",
-      "descriptionTeaser_keyword": "VJ/Cameraperson (Level 1 Journalist - Temp Guild). Reuters Video News is looking for dynamic and talented Video Journalist/Cameraperson for a TEMPORARY position based in Atlanta, Georgia. About the Ro...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -77.0311952,
-          "lat": 38.9004793
-        },
-        "location": "Washington, District of Columbia, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Mexico City",
     "country": "Mexico",
     "ml_skills": [
@@ -1370,73 +1432,6 @@
     "badge": ""
   },
   {
-    "cityState": "Bengaluru, Karnataka",
-    "country": "India",
-    "ml_skills": [
-      "web publishing",
-      "content creation",
-      "content management systems",
-      "business systems",
-      "digital marketing",
-      "digital media",
-      "microsoft office suite"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Manage administrative work related to Web publishing. ). Should be familiar with Web technologies and Digital marketing, and preferably have experience with content management systems in a Windows env...",
-    "state": "Karnataka",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "77.7120655",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ177432",
-    "jobId": "JREQ177432",
-    "city": "Bengaluru",
-    "latitude": "12.9743998",
-    "locale": "en_US",
-    "multi_location": [
-      "Bengaluru, Karnataka, India"
-    ],
-    "title": "Associate Content Analyst",
-    "jobSeqNo": "THTTRUUSJREQ177432EXTERNALENUS",
-    "postedDate": "2024-03-25T00:00:00.000+0000",
-    "dateCreated": "2024-03-25T08:41:28.268+0000",
-    "cityStateCountry": "Bengaluru, Karnataka, India",
-    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/Associate-Content-Analyst_JREQ177432/apply",
-    "location": "Bengaluru, Karnataka, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Manage administrative work related to Web publishing. ). Should be familiar with Web technologies and Digital marketing, and preferably have experience with content management systems in a Windows env...",
-      "descriptionTeaser_first200": "Do you love to solve problems and find better ways of getting things done? Do you love asking \u2018why\u2019 about pretty much everything? And does it make you happy when things are perfectly aligned and standardized?...",
-      "descriptionTeaser_keyword": "Do you love to solve problems and find better ways of getting things done? Do you love asking \u2018why\u2019 about pretty much everything? And does it make you happy when things are perfectly aligned and stand...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 77.7120655,
-          "lat": 12.9743998
-        },
-        "location": "Bengaluru, Karnataka, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Gdansk",
     "country": "Poland",
     "ml_skills": [
@@ -1751,72 +1746,6 @@
       "descriptionTeaser": "The Analyst \u2013 Global Trade Content is responsible for the accurate compilation and in-depth understanding of Harmonized Tariff Schedule (HS) Tariff with a focus on sourcing, verification, conversion,...",
       "descriptionTeaser_first200": "Analyst - Global Trade Content. The Analyst \u2013 Global Trade Content is responsible for the accurate compilation and in-depth understanding of Harmonized Tariff Schedule (HS) Tariff with a focus on sourcing,...",
       "descriptionTeaser_keyword": "Analyst - Global Trade Content. The Analyst \u2013 Global Trade Content is responsible for the accurate compilation and in-depth understanding of Harmonized Tariff Schedule (HS) Tariff with a focus on sour...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 78.3847282,
-          "lat": 17.438325
-        },
-        "location": "Hyderabad, Telangana, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Hyderabad, Telangana",
-    "country": "India",
-    "ml_skills": [
-      "dita authoring",
-      "content creation",
-      "adobe experience manager",
-      "snagit",
-      "google analytics",
-      "transparency"
-    ],
-    "remote": "On-Site",
-    "type": "Full time",
-    "descriptionTeaser": "Work with various stakeholders to gather content \u2013 work in a collaborative team-oriented environment, share information, value diverse ideas and partner with cross functional and remote teams. ). Expe...",
-    "state": "Telangana",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "78.3847282",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ175978",
-    "jobId": "JREQ175978",
-    "city": "Hyderabad",
-    "latitude": "17.438325",
-    "locale": "en_US",
-    "multi_location": [
-      "Hyderabad, Telangana, India"
-    ],
-    "title": "Sr Technical Writer",
-    "jobSeqNo": "THTTRUUSJREQ175978EXTERNALENUS",
-    "postedDate": "2024-03-19T00:00:00.000+0000",
-    "dateCreated": "2024-02-08T12:44:22.418+0000",
-    "cityStateCountry": "Hyderabad, Telangana, India",
-    "address": "Floor 12, 13 & 14, Building 11, Raheja Mindspace, Madhapur, Hyderabad- 500081, Telangana, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Hyderabad-Raheja-Mindspace/Sr-Technical-Writer_JREQ175978/apply",
-    "location": "Hyderabad, Telangana, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Work with various stakeholders to gather content \u2013 work in a collaborative team-oriented environment, share information, value diverse ideas and partner with cross functional and remote teams. ). Expe...",
-      "descriptionTeaser_first200": "Sr Technical Writer, Documentation Team. Are you passionate about the chance to bring your experience to a world-class company that is market leading for both content and technology? We're looking for...",
-      "descriptionTeaser_keyword": "Sr Technical Writer, Documentation Team. Are you passionate about the chance to bring your experience to a world-class company that is market leading for both content and technology? We're looking for...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
