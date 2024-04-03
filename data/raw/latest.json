@@ -64,65 +64,6 @@
     "badge": ""
   },
   {
-    "cityState": "Mumbai, Maharashtra",
-    "country": "India",
-    "ml_skills": [],
-    "remote": "On-Site",
-    "type": "Full time",
-    "descriptionTeaser": "This challenging position requires someone to think independently, work well collaboratively across multiple disciplines, including working with a variety of tax domains. To help team members in resol...",
-    "state": "Maharashtra",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "72.8814089",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ177489",
-    "jobId": "JREQ177489",
-    "city": "Mumbai",
-    "latitude": "19.1114368",
-    "locale": "en_US",
-    "multi_location": [
-      "Mumbai, Maharashtra, India"
-    ],
-    "title": "Process Associate",
-    "jobSeqNo": "THTTRUUSJREQ177489EXTERNALENUS",
-    "postedDate": "2024-04-02T00:00:00.000+0000",
-    "dateCreated": "2024-04-02T08:40:56.868+0000",
-    "cityStateCountry": "Mumbai, Maharashtra, India",
-    "address": "4th Flr, Dhantak Plaza, Makwana Road, Marol, Andheri East, Mumbai- 400059, Maharashtra, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Mumbai-Dhantak-Plaza/Process-Associate_JREQ177489/apply",
-    "location": "Mumbai, Maharashtra, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "This challenging position requires someone to think independently, work well collaboratively across multiple disciplines, including working with a variety of tax domains. To help team members in resol...",
-      "descriptionTeaser_first200": "Job Description. Thomson Reuters is looking to add a Process Associate. This challenging position requires someone to think independently, work well collaboratively across multiple disciplines, including...",
-      "descriptionTeaser_keyword": "Job Description. Thomson Reuters is looking to add a Process Associate. This challenging position requires someone to think independently, work well collaboratively across multiple disciplines, includ...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 72.8814089,
-          "lat": 19.1114368
-        },
-        "location": "Mumbai, Maharashtra, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Hyderabad, Telangana",
     "country": "India",
     "ml_skills": [
@@ -179,6 +120,65 @@
           "lat": 17.438325
         },
         "location": "Hyderabad, Telangana, India"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Mumbai, Maharashtra",
+    "country": "India",
+    "ml_skills": [],
+    "remote": "On-Site",
+    "type": "Full time",
+    "descriptionTeaser": "This challenging position requires someone to think independently, work well collaboratively across multiple disciplines, including working with a variety of tax domains. To help team members in resol...",
+    "state": "Maharashtra",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "72.8814089",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ177489",
+    "jobId": "JREQ177489",
+    "city": "Mumbai",
+    "latitude": "19.1114368",
+    "locale": "en_US",
+    "multi_location": [
+      "Mumbai, Maharashtra, India"
+    ],
+    "title": "Process Associate",
+    "jobSeqNo": "THTTRUUSJREQ177489EXTERNALENUS",
+    "postedDate": "2024-04-02T00:00:00.000+0000",
+    "dateCreated": "2024-04-02T08:40:56.868+0000",
+    "cityStateCountry": "Mumbai, Maharashtra, India",
+    "address": "4th Flr, Dhantak Plaza, Makwana Road, Marol, Andheri East, Mumbai- 400059, Maharashtra, India",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Mumbai-Dhantak-Plaza/Process-Associate_JREQ177489/apply",
+    "location": "Mumbai, Maharashtra, India",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "This challenging position requires someone to think independently, work well collaboratively across multiple disciplines, including working with a variety of tax domains. To help team members in resol...",
+      "descriptionTeaser_first200": "Job Description. Thomson Reuters is looking to add a Process Associate. This challenging position requires someone to think independently, work well collaboratively across multiple disciplines, including...",
+      "descriptionTeaser_keyword": "Job Description. Thomson Reuters is looking to add a Process Associate. This challenging position requires someone to think independently, work well collaboratively across multiple disciplines, includ...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 72.8814089,
+          "lat": 19.1114368
+        },
+        "location": "Mumbai, Maharashtra, India"
       }
     ],
     "isMultiCategory": true,
