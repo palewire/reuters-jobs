@@ -1,49 +1,49 @@
 [
   {
-    "cityState": "Manila",
-    "country": "Philippines",
+    "cityState": "Wellington",
+    "country": "New Zealand",
     "ml_skills": [
-      "content management",
-      "publishing",
-      "editing",
-      "computer literacy",
-      "performance management",
-      "performance management process"
+      "copy editing",
+      "breaking news",
+      "seo",
+      "multimedia",
+      "ai"
     ],
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "Acts as primary resource for the team\u2019s work, products and processes. Provides day-to-day supervision of work activities to meet product and quality standards and targets. Ability to work collaborativ...",
+    "descriptionTeaser": "Write and edit breaking news stories from around the globe whilst producing clean, engaging stories at speed. Have strong digital and multimedia expertise and familiarity with the needs of a digital a...",
     "state": "",
     "visibilityType": "External",
     "siteType": "external",
-    "longitude": "121.0520086",
+    "longitude": "174.7743618",
     "multi_category": [
       "News & Editorial Careers"
     ],
-    "reqId": "JREQ177765",
-    "jobId": "JREQ177765",
-    "city": "Manila",
-    "latitude": "14.5344436",
+    "reqId": "JREQ177251",
+    "jobId": "JREQ177251",
+    "city": "Wellington",
+    "latitude": "-41.2859199",
     "locale": "en_US",
     "multi_location": [
+      "Wellington, New Zealand",
       "Manila, Philippines"
     ],
-    "title": "Team Lead, Editorial - Specialty Content",
-    "jobSeqNo": "THTTRUUSJREQ177765EXTERNALENUS",
-    "postedDate": "2024-04-06T00:00:00.000+0000",
-    "dateCreated": "2024-04-06T00:40:14.382+0000",
-    "cityStateCountry": "Manila, Philippines",
-    "address": "20 Upper McKinley Building, Upper McKinley Road, McKinley Hill, Manila, 1634, Philippines",
+    "title": "Editor, Global News Desk",
+    "jobSeqNo": "THTTRUUSJREQ177251EXTERNALENUS",
+    "postedDate": "2024-04-08T00:00:00.000+0000",
+    "dateCreated": "2024-04-08T00:40:59.249+0000",
+    "cityStateCountry": "Wellington, New Zealand",
+    "address": "Level 19, Plimmer Towers, 2-6 Gilmer Terrace, Wellington 6011, New Zealand",
     "jobVisibility": [
       "external"
     ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/PHL-Taguig-20-Upper-McKinley-Bldg/Team-Lead--Editorial---Specialty-Content_JREQ177765/apply",
-    "location": "Manila, Philippines",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/NZL-Wellington-Plimmer-Towers/Editor--Global-News-Desk_JREQ177251/apply",
+    "location": "Wellington, New Zealand",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "Acts as primary resource for the team\u2019s work, products and processes. Provides day-to-day supervision of work activities to meet product and quality standards and targets. Ability to work collaborativ...",
-      "descriptionTeaser_first200": "Team Lead, Editorial - Speciality Content, Product - Research. About the Role. In this opportunity as Team Lead, Editorial - Specialty Content, you will. Supervises, coaches and develops staff. Ensures...",
-      "descriptionTeaser_keyword": "Team Lead, Editorial - Speciality Content, Product - Research. About the Role. In this opportunity as Team Lead, Editorial - Specialty Content, you will. Supervises, coaches and develops staff. Ensure...",
+      "descriptionTeaser": "Write and edit breaking news stories from around the globe whilst producing clean, engaging stories at speed. Have strong digital and multimedia expertise and familiarity with the needs of a digital a...",
+      "descriptionTeaser_first200": "Reuters is looking for an ambitious Editor for our fast-paced, round-the-clock Global News Desk. Expect to work alongside award-winning journalists in a global news organization long recognized for its...",
+      "descriptionTeaser_keyword": "Reuters is looking for an ambitious Editor for our fast-paced, round-the-clock Global News Desk. Expect to work alongside award-winning journalists in a global news organization long recognized for it...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
@@ -51,8 +51,15 @@
     "multi_location_array": [
       {
         "latlong": {
-          "lon": 121.0520086,
-          "lat": 14.5344436
+          "lon": 174.7743618,
+          "lat": -41.2859199
+        },
+        "location": "Wellington, New Zealand"
+      },
+      {
+        "latlong": {
+          "lon": 121.0210166,
+          "lat": 14.5558723
         },
         "location": "Manila, Philippines"
       }
@@ -111,6 +118,72 @@
       "descriptionTeaser": "Experience in legal or financial journalism, news, or other writing environment. Ability to prioritize concurrent projects and adhere to challenging deadlines. We help these professionals do their job...",
       "descriptionTeaser_first200": "Legal Writer, Product Research. About the Role. In this opportunity as Legal Writer, you will. Research, write, and edit high-quality articles daily. Prioritize concurrent projects to meet challenging...",
       "descriptionTeaser_keyword": "Legal Writer, Product Research. About the Role. In this opportunity as Legal Writer, you will. Research, write, and edit high-quality articles daily. Prioritize concurrent projects to meet challenging...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 121.0520086,
+          "lat": 14.5344436
+        },
+        "location": "Manila, Philippines"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Manila",
+    "country": "Philippines",
+    "ml_skills": [
+      "content management",
+      "publishing",
+      "editing",
+      "computer literacy",
+      "performance management",
+      "performance management process"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Acts as primary resource for the team\u2019s work, products and processes. Provides day-to-day supervision of work activities to meet product and quality standards and targets. Ability to work collaborativ...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "121.0520086",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ177765",
+    "jobId": "JREQ177765",
+    "city": "Manila",
+    "latitude": "14.5344436",
+    "locale": "en_US",
+    "multi_location": [
+      "Manila, Philippines"
+    ],
+    "title": "Team Lead, Editorial - Specialty Content",
+    "jobSeqNo": "THTTRUUSJREQ177765EXTERNALENUS",
+    "postedDate": "2024-04-06T00:00:00.000+0000",
+    "dateCreated": "2024-04-06T00:40:14.382+0000",
+    "cityStateCountry": "Manila, Philippines",
+    "address": "20 Upper McKinley Building, Upper McKinley Road, McKinley Hill, Manila, 1634, Philippines",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/PHL-Taguig-20-Upper-McKinley-Bldg/Team-Lead--Editorial---Specialty-Content_JREQ177765/apply",
+    "location": "Manila, Philippines",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Acts as primary resource for the team\u2019s work, products and processes. Provides day-to-day supervision of work activities to meet product and quality standards and targets. Ability to work collaborativ...",
+      "descriptionTeaser_first200": "Team Lead, Editorial - Speciality Content, Product - Research. About the Role. In this opportunity as Team Lead, Editorial - Specialty Content, you will. Supervises, coaches and develops staff. Ensures...",
+      "descriptionTeaser_keyword": "Team Lead, Editorial - Speciality Content, Product - Research. About the Role. In this opportunity as Team Lead, Editorial - Specialty Content, you will. Supervises, coaches and develops staff. Ensure...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
@@ -430,6 +503,72 @@
     "badge": ""
   },
   {
+    "cityState": "Gdansk",
+    "country": "Poland",
+    "ml_skills": [
+      "french",
+      "ukrainian",
+      "portuguese",
+      "german",
+      "italian",
+      "transparency"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Create timely alerts by summarizing regulatory documents and translating non-English language content into English where necessary. Ability to work collaboratively across teams and assists others to a...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "18.5752702",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ177133",
+    "jobId": "JREQ177133",
+    "city": "Gdansk",
+    "latitude": "54.4004235",
+    "locale": "en_US",
+    "multi_location": [
+      "Gdansk, Poland"
+    ],
+    "title": "Content Editor with German or Spanish",
+    "jobSeqNo": "THTTRUUSJREQ177133EXTERNALENUS",
+    "postedDate": "2024-04-04T00:00:00.000+0000",
+    "dateCreated": "2024-03-19T16:41:01.440+0000",
+    "cityStateCountry": "Gdansk, Poland",
+    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/Content-Editor-with-German-or-Spanish_JREQ177133-1/apply",
+    "location": "Gdansk, Poland",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Create timely alerts by summarizing regulatory documents and translating non-English language content into English where necessary. Ability to work collaboratively across teams and assists others to a...",
+      "descriptionTeaser_first200": "We welcome applications to our full-time vacancies from all citizens who have been granted protection within the territory of the Republic of Poland under the EU Temporary Protection Directive*. Thomson...",
+      "descriptionTeaser_keyword": "We welcome applications to our full-time vacancies from all citizens who have been granted protection within the territory of the Republic of Poland under the EU Temporary Protection Directive*. Thoms...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 18.5752702,
+          "lat": 54.4004235
+        },
+        "location": "Gdansk, Poland"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Eagan, Minnesota",
     "country": "United States of America",
     "ml_skills": [
@@ -486,72 +625,6 @@
           "lat": 44.8527611
         },
         "location": "Eagan, Minnesota, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Gdansk",
-    "country": "Poland",
-    "ml_skills": [
-      "french",
-      "ukrainian",
-      "portuguese",
-      "german",
-      "italian",
-      "transparency"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Create timely alerts by summarizing regulatory documents and translating non-English language content into English where necessary. Ability to work collaboratively across teams and assists others to a...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "18.5752702",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ177133",
-    "jobId": "JREQ177133",
-    "city": "Gdansk",
-    "latitude": "54.4004235",
-    "locale": "en_US",
-    "multi_location": [
-      "Gdansk, Poland"
-    ],
-    "title": "Content Editor with German or Spanish",
-    "jobSeqNo": "THTTRUUSJREQ177133EXTERNALENUS",
-    "postedDate": "2024-04-04T00:00:00.000+0000",
-    "dateCreated": "2024-03-19T16:41:01.440+0000",
-    "cityStateCountry": "Gdansk, Poland",
-    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/Content-Editor-with-German-or-Spanish_JREQ177133-1/apply",
-    "location": "Gdansk, Poland",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Create timely alerts by summarizing regulatory documents and translating non-English language content into English where necessary. Ability to work collaboratively across teams and assists others to a...",
-      "descriptionTeaser_first200": "We welcome applications to our full-time vacancies from all citizens who have been granted protection within the territory of the Republic of Poland under the EU Temporary Protection Directive*. Thomson...",
-      "descriptionTeaser_keyword": "We welcome applications to our full-time vacancies from all citizens who have been granted protection within the territory of the Republic of Poland under the EU Temporary Protection Directive*. Thoms...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 18.5752702,
-          "lat": 54.4004235
-        },
-        "location": "Gdansk, Poland"
       }
     ],
     "isMultiCategory": true,
@@ -693,6 +766,69 @@
     "badge": ""
   },
   {
+    "cityState": "Manila",
+    "country": "Philippines",
+    "ml_skills": [
+      "publishing",
+      "word processing",
+      "microsoft 365"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Provide legal interpretation through analysis and research to develop and review content for customers. Maintain and develop legal knowledge and skills training as needed to complete your work and to...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "121.0520086",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ177559",
+    "jobId": "JREQ177559",
+    "city": "Manila",
+    "latitude": "14.5344436",
+    "locale": "en_US",
+    "multi_location": [
+      "Manila, Philippines"
+    ],
+    "title": "UK Legislation Editor",
+    "jobSeqNo": "THTTRUUSJREQ177559EXTERNALENUS",
+    "postedDate": "2024-04-03T00:00:00.000+0000",
+    "dateCreated": "2024-04-03T08:41:53.448+0000",
+    "cityStateCountry": "Manila, Philippines",
+    "address": "20 Upper McKinley Building, Upper McKinley Road, McKinley Hill, Manila, 1634, Philippines",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/PHL-Taguig-20-Upper-McKinley-Bldg/UK-Legislation-Editor_JREQ177559/apply",
+    "location": "Manila, Philippines",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Provide legal interpretation through analysis and research to develop and review content for customers. Maintain and develop legal knowledge and skills training as needed to complete your work and to...",
+      "descriptionTeaser_first200": "UK Legislation Editor - Product Research. About the Role. In this opportunity as UK Legislation Editor, you will. Provide legal interpretation through analysis and research to develop and review content...",
+      "descriptionTeaser_keyword": "UK Legislation Editor - Product Research. About the Role. In this opportunity as UK Legislation Editor, you will. Provide legal interpretation through analysis and research to develop and review conte...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 121.0520086,
+          "lat": 14.5344436
+        },
+        "location": "Manila, Philippines"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Gdansk",
     "country": "Poland",
     "ml_skills": [
@@ -746,69 +882,6 @@
           "lat": 54.4004235
         },
         "location": "Gdansk, Poland"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Manila",
-    "country": "Philippines",
-    "ml_skills": [
-      "publishing",
-      "word processing",
-      "microsoft 365"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Provide legal interpretation through analysis and research to develop and review content for customers. Maintain and develop legal knowledge and skills training as needed to complete your work and to...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "121.0520086",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ177559",
-    "jobId": "JREQ177559",
-    "city": "Manila",
-    "latitude": "14.5344436",
-    "locale": "en_US",
-    "multi_location": [
-      "Manila, Philippines"
-    ],
-    "title": "UK Legislation Editor",
-    "jobSeqNo": "THTTRUUSJREQ177559EXTERNALENUS",
-    "postedDate": "2024-04-03T00:00:00.000+0000",
-    "dateCreated": "2024-04-03T08:41:53.448+0000",
-    "cityStateCountry": "Manila, Philippines",
-    "address": "20 Upper McKinley Building, Upper McKinley Road, McKinley Hill, Manila, 1634, Philippines",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/PHL-Taguig-20-Upper-McKinley-Bldg/UK-Legislation-Editor_JREQ177559/apply",
-    "location": "Manila, Philippines",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Provide legal interpretation through analysis and research to develop and review content for customers. Maintain and develop legal knowledge and skills training as needed to complete your work and to...",
-      "descriptionTeaser_first200": "UK Legislation Editor - Product Research. About the Role. In this opportunity as UK Legislation Editor, you will. Provide legal interpretation through analysis and research to develop and review content...",
-      "descriptionTeaser_keyword": "UK Legislation Editor - Product Research. About the Role. In this opportunity as UK Legislation Editor, you will. Provide legal interpretation through analysis and research to develop and review conte...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 121.0520086,
-          "lat": 14.5344436
-        },
-        "location": "Manila, Philippines"
       }
     ],
     "isMultiCategory": true,
@@ -1860,6 +1933,69 @@
     "cityState": "London",
     "country": "United Kingdom",
     "ml_skills": [
+      "grammar",
+      "research skills",
+      "plc writing"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "In this opportunity as Assistant Editor, you will use your legal knowledge and experience to help to produce the magazine on schedule in hard copy and online each month. Commission contributions for w...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.0185088",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ177352",
+    "jobId": "JREQ177352",
+    "city": "London",
+    "latitude": "51.5056439",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom"
+    ],
+    "title": "Assistant Editor, PLC Magazine, Practical Law",
+    "jobSeqNo": "THTTRUUSJREQ177352EXTERNALENUS",
+    "postedDate": "2024-03-27T00:00:00.000+0000",
+    "dateCreated": "2024-03-25T20:40:25.229+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Assistant-Editor--PLC-Magazine--Practical-Law_JREQ177352/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "In this opportunity as Assistant Editor, you will use your legal knowledge and experience to help to produce the magazine on schedule in hard copy and online each month. Commission contributions for w...",
+      "descriptionTeaser_first200": "We are seeking an assistant editor to join the PLC Magazine editorial team. PLC Magazine is the leading monthly magazine for business lawyers advising companies active in the UK, published by Practical...",
+      "descriptionTeaser_keyword": "We are seeking an assistant editor to join the PLC Magazine editorial team. PLC Magazine is the leading monthly magazine for business lawyers advising companies active in the UK, published by Practica...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.0185088,
+          "lat": 51.5056439
+        },
+        "location": "London, United Kingdom"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "London",
+    "country": "United Kingdom",
+    "ml_skills": [
       "photojournalism",
       "editing",
       "news photography",
@@ -1902,69 +2038,6 @@
       "descriptionTeaser": "You will work closely with the Chief Photographer and the entire bureau, including text and TV, to ensure that global and national news of interest to Reuters editorial customers is covered in a timel...",
       "descriptionTeaser_first200": "This hybrid role will be based in our London newsroom in Canary Wharf. We are looking to expand our picture desk and looking for a Weekend Photo Assignment Editor to help assign and coordinate our photo...",
       "descriptionTeaser_keyword": "This hybrid role will be based in our London newsroom in Canary Wharf. We are looking to expand our picture desk and looking for a Weekend Photo Assignment Editor to help assign and coordinate our pho...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -0.0185088,
-          "lat": 51.5056439
-        },
-        "location": "London, United Kingdom"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "London",
-    "country": "United Kingdom",
-    "ml_skills": [
-      "grammar",
-      "research skills",
-      "plc writing"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "In this opportunity as Assistant Editor, you will use your legal knowledge and experience to help to produce the magazine on schedule in hard copy and online each month. Commission contributions for w...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-0.0185088",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ177352",
-    "jobId": "JREQ177352",
-    "city": "London",
-    "latitude": "51.5056439",
-    "locale": "en_US",
-    "multi_location": [
-      "London, United Kingdom"
-    ],
-    "title": "Assistant Editor, PLC Magazine, Practical Law",
-    "jobSeqNo": "THTTRUUSJREQ177352EXTERNALENUS",
-    "postedDate": "2024-03-27T00:00:00.000+0000",
-    "dateCreated": "2024-03-25T20:40:25.229+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Assistant-Editor--PLC-Magazine--Practical-Law_JREQ177352/apply",
-    "location": "London, United Kingdom",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "In this opportunity as Assistant Editor, you will use your legal knowledge and experience to help to produce the magazine on schedule in hard copy and online each month. Commission contributions for w...",
-      "descriptionTeaser_first200": "We are seeking an assistant editor to join the PLC Magazine editorial team. PLC Magazine is the leading monthly magazine for business lawyers advising companies active in the UK, published by Practical...",
-      "descriptionTeaser_keyword": "We are seeking an assistant editor to join the PLC Magazine editorial team. PLC Magazine is the leading monthly magazine for business lawyers advising companies active in the UK, published by Practica...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
@@ -2277,72 +2350,6 @@
     "badge": ""
   },
   {
-    "cityState": "Bengaluru, Karnataka",
-    "country": "India",
-    "ml_skills": [
-      "multimedia",
-      "editing",
-      "journalism",
-      "mass communication",
-      "creativity",
-      "transparency"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "In this opportunity as Multimedia News Producer (Global Online Desk), you will be part of the India digital desk in Bangalore, sub-editing/localising and filing stories with relevant multimedia assets...",
-    "state": "Karnataka",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "77.7120655",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ165639",
-    "jobId": "JREQ165639",
-    "city": "Bengaluru",
-    "latitude": "12.9743998",
-    "locale": "en_US",
-    "multi_location": [
-      "Bengaluru, Karnataka, India"
-    ],
-    "title": "Multimedia News Producer - Global Online Desk",
-    "jobSeqNo": "THTTRUUSJREQ165639EXTERNALENUS",
-    "postedDate": "2024-03-25T00:00:00.000+0000",
-    "dateCreated": "2023-03-09T12:42:32.517+0000",
-    "cityStateCountry": "Bengaluru, Karnataka, India",
-    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/Multimedia-News-Producer---Global-Online-Desk_JREQ165639/apply",
-    "location": "Bengaluru, Karnataka, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "In this opportunity as Multimedia News Producer (Global Online Desk), you will be part of the India digital desk in Bangalore, sub-editing/localising and filing stories with relevant multimedia assets...",
-      "descriptionTeaser_first200": "Multimedia News Producer. Entice with a question, leverage the Thomson Reuters brand, and then introduce the role, on our unit/segment/product on the team in location. Then, provide a summary of the role...",
-      "descriptionTeaser_keyword": "Multimedia News Producer. Entice with a question, leverage the Thomson Reuters brand, and then introduce the role, on our unit/segment/product on the team in location. Then, provide a summary of the r...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 77.7120655,
-          "lat": 12.9743998
-        },
-        "location": "Bengaluru, Karnataka, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "London",
     "country": "United Kingdom",
     "ml_skills": [
@@ -2403,6 +2410,72 @@
           "lat": 51.5056439
         },
         "location": "London, United Kingdom"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Bengaluru, Karnataka",
+    "country": "India",
+    "ml_skills": [
+      "multimedia",
+      "editing",
+      "journalism",
+      "mass communication",
+      "creativity",
+      "transparency"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "In this opportunity as Multimedia News Producer (Global Online Desk), you will be part of the India digital desk in Bangalore, sub-editing/localising and filing stories with relevant multimedia assets...",
+    "state": "Karnataka",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "77.7120655",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ165639",
+    "jobId": "JREQ165639",
+    "city": "Bengaluru",
+    "latitude": "12.9743998",
+    "locale": "en_US",
+    "multi_location": [
+      "Bengaluru, Karnataka, India"
+    ],
+    "title": "Multimedia News Producer - Global Online Desk",
+    "jobSeqNo": "THTTRUUSJREQ165639EXTERNALENUS",
+    "postedDate": "2024-03-25T00:00:00.000+0000",
+    "dateCreated": "2023-03-09T12:42:32.517+0000",
+    "cityStateCountry": "Bengaluru, Karnataka, India",
+    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/Multimedia-News-Producer---Global-Online-Desk_JREQ165639/apply",
+    "location": "Bengaluru, Karnataka, India",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "In this opportunity as Multimedia News Producer (Global Online Desk), you will be part of the India digital desk in Bangalore, sub-editing/localising and filing stories with relevant multimedia assets...",
+      "descriptionTeaser_first200": "Multimedia News Producer. Entice with a question, leverage the Thomson Reuters brand, and then introduce the role, on our unit/segment/product on the team in location. Then, provide a summary of the role...",
+      "descriptionTeaser_keyword": "Multimedia News Producer. Entice with a question, leverage the Thomson Reuters brand, and then introduce the role, on our unit/segment/product on the team in location. Then, provide a summary of the r...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 77.7120655,
+          "lat": 12.9743998
+        },
+        "location": "Bengaluru, Karnataka, India"
       }
     ],
     "isMultiCategory": true,
@@ -2544,72 +2617,6 @@
     "badge": ""
   },
   {
-    "cityState": "Gdansk",
-    "country": "Poland",
-    "ml_skills": [
-      "vocabulary",
-      "multimedia",
-      "short stories",
-      "romanian",
-      "czech",
-      "hungarian"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Reuters is looking for a candidate who can speak fluent English and Polish to join its real-time news operation in Gdansk. Writing headlines and news summaries accurately, quickly and with high standa...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "18.5752702",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ177272",
-    "jobId": "JREQ177272",
-    "city": "Gdansk",
-    "latitude": "54.4004235",
-    "locale": "en_US",
-    "multi_location": [
-      "Gdansk, Poland"
-    ],
-    "title": "Graduate News Reporter with Polish and English",
-    "jobSeqNo": "THTTRUUSJREQ177272EXTERNALENUS",
-    "postedDate": "2024-03-22T00:00:00.000+0000",
-    "dateCreated": "2024-03-22T12:40:27.402+0000",
-    "cityStateCountry": "Gdansk, Poland",
-    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/Graduate-News-Reporter-with-Polish-and-English_JREQ177272-1/apply",
-    "location": "Gdansk, Poland",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Reuters is looking for a candidate who can speak fluent English and Polish to join its real-time news operation in Gdansk. Writing headlines and news summaries accurately, quickly and with high standa...",
-      "descriptionTeaser_first200": "Reuters is looking for a candidate who can speak fluent English and Polish to join its real-time news operation in Gdansk. The reporter will get to produce headlines and write short stories about companies...",
-      "descriptionTeaser_keyword": "Reuters is looking for a candidate who can speak fluent English and Polish to join its real-time news operation in Gdansk. The reporter will get to produce headlines and write short stories about comp...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 18.5752702,
-          "lat": 54.4004235
-        },
-        "location": "Gdansk, Poland"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Minneapolis, Minnesota",
     "country": "United States of America",
     "ml_skills": [
@@ -2666,6 +2673,72 @@
           "lat": 44.8253064
         },
         "location": "Minneapolis, Minnesota, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Gdansk",
+    "country": "Poland",
+    "ml_skills": [
+      "vocabulary",
+      "multimedia",
+      "short stories",
+      "romanian",
+      "czech",
+      "hungarian"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Reuters is looking for a candidate who can speak fluent English and Polish to join its real-time news operation in Gdansk. Writing headlines and news summaries accurately, quickly and with high standa...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "18.5752702",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ177272",
+    "jobId": "JREQ177272",
+    "city": "Gdansk",
+    "latitude": "54.4004235",
+    "locale": "en_US",
+    "multi_location": [
+      "Gdansk, Poland"
+    ],
+    "title": "Graduate News Reporter with Polish and English",
+    "jobSeqNo": "THTTRUUSJREQ177272EXTERNALENUS",
+    "postedDate": "2024-03-22T00:00:00.000+0000",
+    "dateCreated": "2024-03-22T12:40:27.402+0000",
+    "cityStateCountry": "Gdansk, Poland",
+    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/Graduate-News-Reporter-with-Polish-and-English_JREQ177272-1/apply",
+    "location": "Gdansk, Poland",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Reuters is looking for a candidate who can speak fluent English and Polish to join its real-time news operation in Gdansk. Writing headlines and news summaries accurately, quickly and with high standa...",
+      "descriptionTeaser_first200": "Reuters is looking for a candidate who can speak fluent English and Polish to join its real-time news operation in Gdansk. The reporter will get to produce headlines and write short stories about companies...",
+      "descriptionTeaser_keyword": "Reuters is looking for a candidate who can speak fluent English and Polish to join its real-time news operation in Gdansk. The reporter will get to produce headlines and write short stories about comp...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 18.5752702,
+          "lat": 54.4004235
+        },
+        "location": "Gdansk, Poland"
       }
     ],
     "isMultiCategory": true,
@@ -3134,71 +3207,6 @@
     "badge": ""
   },
   {
-    "cityState": "Dubai",
-    "country": "United Arab Emirates",
-    "ml_skills": [
-      "litigation",
-      "transparency",
-      "editing",
-      "arabic",
-      "content strategy"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "As part of the role, the Senior Specialist Legal Editors will help to define the jurisdiction\u2019s content strategy and be responsible for drafting high quality content, which meets our customers\u2019 needs....",
-    "state": "Dubai",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "55.1575893",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ175762",
-    "jobId": "JREQ175762",
-    "city": "",
-    "latitude": "25.0961362",
-    "locale": "en_US",
-    "multi_location": [
-      "Dubai, United Arab Emirates"
-    ],
-    "title": "Snr Specialist Legal Editor, Practical Law (ME) Litigation",
-    "jobSeqNo": "THTTRUUSJREQ175762EXTERNALENUS",
-    "postedDate": "2024-03-12T00:00:00.000+0000",
-    "dateCreated": "2024-01-26T16:40:14.616+0000",
-    "cityStateCountry": "Dubai, United Arab Emirates",
-    "address": "Reuters Ltd, Office 501, Building 1, 5th Floor Dubai Media City, Dubai, United Arab Emirates",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/ARE-Dubai-Dubai-Media-City/Snr-Specialist-Legal-Editor--Practical-Law--MENA--Litigation_JREQ175762/apply",
-    "location": "Dubai, United Arab Emirates",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "As part of the role, the Senior Specialist Legal Editors will help to define the jurisdiction\u2019s content strategy and be responsible for drafting high quality content, which meets our customers\u2019 needs....",
-      "descriptionTeaser_first200": "Senior Specialist Legal Editor, Practical Law (Middle East) (Litigation). Are you a lawyer looking for a career change? We are seeking an experienced litigation lawyer to join the Practical Law Middle...",
-      "descriptionTeaser_keyword": "Senior Specialist Legal Editor, Practical Law (Middle East) (Litigation). Are you a lawyer looking for a career change? We are seeking an experienced litigation lawyer to join the Practical Law Middle...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 55.1575893,
-          "lat": 25.0961362
-        },
-        "location": "Dubai, United Arab Emirates"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Bengaluru, Karnataka",
     "country": "India",
     "ml_skills": [
@@ -3331,48 +3339,49 @@
     "badge": ""
   },
   {
-    "cityState": "London",
-    "country": "United Kingdom",
+    "cityState": "Dubai",
+    "country": "United Arab Emirates",
     "ml_skills": [
-      "publishing",
+      "litigation",
       "transparency",
-      "microsoft office applications",
-      "microsoft office"
+      "editing",
+      "arabic",
+      "content strategy"
     ],
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "In this opportunity as an Associate Editor in Practical Law, you will work in conjunction with more experienced colleagues to interpret and explain legal, practice and market developments to our custo...",
-    "state": "",
+    "descriptionTeaser": "As part of the role, the Senior Specialist Legal Editors will help to define the jurisdiction\u2019s content strategy and be responsible for drafting high quality content, which meets our customers\u2019 needs....",
+    "state": "Dubai",
     "visibilityType": "External",
     "siteType": "external",
-    "longitude": "-0.0185088",
+    "longitude": "55.1575893",
     "multi_category": [
       "News & Editorial Careers"
     ],
-    "reqId": "JREQ176970",
-    "jobId": "JREQ176970",
-    "city": "London",
-    "latitude": "51.5056439",
+    "reqId": "JREQ175762",
+    "jobId": "JREQ175762",
+    "city": "",
+    "latitude": "25.0961362",
     "locale": "en_US",
     "multi_location": [
-      "London, United Kingdom"
+      "Dubai, United Arab Emirates"
     ],
-    "title": "Associate Editor, Practical Law",
-    "jobSeqNo": "THTTRUUSJREQ176970EXTERNALENUS",
-    "postedDate": "2024-03-11T00:00:00.000+0000",
-    "dateCreated": "2024-03-12T00:40:21.238+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "title": "Snr Specialist Legal Editor, Practical Law (ME) Litigation",
+    "jobSeqNo": "THTTRUUSJREQ175762EXTERNALENUS",
+    "postedDate": "2024-03-12T00:00:00.000+0000",
+    "dateCreated": "2024-01-26T16:40:14.616+0000",
+    "cityStateCountry": "Dubai, United Arab Emirates",
+    "address": "Reuters Ltd, Office 501, Building 1, 5th Floor Dubai Media City, Dubai, United Arab Emirates",
     "jobVisibility": [
       "external"
     ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Associate-Editor--Practical-Law_JREQ176970/apply",
-    "location": "London, United Kingdom",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/ARE-Dubai-Dubai-Media-City/Snr-Specialist-Legal-Editor--Practical-Law--MENA--Litigation_JREQ175762/apply",
+    "location": "Dubai, United Arab Emirates",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "In this opportunity as an Associate Editor in Practical Law, you will work in conjunction with more experienced colleagues to interpret and explain legal, practice and market developments to our custo...",
-      "descriptionTeaser_first200": "We are seeking an Associate Editor to join the Practical Law team in the UK. Practical Law is a leading online know-how service providing rigorous, peer-reviewed resources, including practice notes, current...",
-      "descriptionTeaser_keyword": "We are seeking an Associate Editor to join the Practical Law team in the UK. Practical Law is a leading online know-how service providing rigorous, peer-reviewed resources, including practice notes, c...",
+      "descriptionTeaser": "As part of the role, the Senior Specialist Legal Editors will help to define the jurisdiction\u2019s content strategy and be responsible for drafting high quality content, which meets our customers\u2019 needs....",
+      "descriptionTeaser_first200": "Senior Specialist Legal Editor, Practical Law (Middle East) (Litigation). Are you a lawyer looking for a career change? We are seeking an experienced litigation lawyer to join the Practical Law Middle...",
+      "descriptionTeaser_keyword": "Senior Specialist Legal Editor, Practical Law (Middle East) (Litigation). Are you a lawyer looking for a career change? We are seeking an experienced litigation lawyer to join the Practical Law Middle...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
@@ -3380,10 +3389,10 @@
     "multi_location_array": [
       {
         "latlong": {
-          "lon": -0.0185088,
-          "lat": 51.5056439
+          "lon": 55.1575893,
+          "lat": 25.0961362
         },
-        "location": "London, United Kingdom"
+        "location": "Dubai, United Arab Emirates"
       }
     ],
     "isMultiCategory": true,
@@ -3514,70 +3523,6 @@
           "lat": 34.1642783
         },
         "location": "North Hollywood, California, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Mexico City",
-    "country": "Mexico",
-    "ml_skills": [
-      "fact-checking",
-      "news reporting",
-      "current affairs",
-      "transparency"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "S. politics or other topical issues and conducting research to establish the facts behind the claims. Work as part of our friendly, collaborative, and global fact-checking team. At least two years of...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-99.1510899",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ176726",
-    "jobId": "JREQ176726",
-    "city": "Mexico City",
-    "latitude": "19.4343664",
-    "locale": "en_US",
-    "multi_location": [
-      "Mexico City, Mexico"
-    ],
-    "title": "Fact-Checking Producer, Mexico (Temporary - Fixed Term)",
-    "jobSeqNo": "THTTRUUSJREQ176726EXTERNALENUS",
-    "postedDate": "2024-02-29T00:00:00.000+0000",
-    "dateCreated": "2024-02-27T20:40:26.817+0000",
-    "cityStateCountry": "Mexico City, Mexico",
-    "address": "Av. Paseo de la Reforma #26, Floor 36th, Colonia Ju\u00e1rez, Cuauht\u00e9moc, 06600 Mexico City, Mexico",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/MEX-Distrito-Federal-Reforma-26/Fact-Checking-Producer--Mexico--Temporary---Fixed-Term-_JREQ176726/apply",
-    "location": "Mexico City, Mexico",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "S. politics or other topical issues and conducting research to establish the facts behind the claims. Work as part of our friendly, collaborative, and global fact-checking team. At least two years of...",
-      "descriptionTeaser_first200": "Fact-Checking Producer, Mexico (Temporary - Fixed Term). Join our team! Reuters is seeking journalists in Mexico to join our dynamic fact-checking team. You will have a passion for politics and current...",
-      "descriptionTeaser_keyword": "Fact-Checking Producer, Mexico (Temporary - Fixed Term). Join our team! Reuters is seeking journalists in Mexico to join our dynamic fact-checking team. You will have a passion for politics and curren...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -99.1510899,
-          "lat": 19.4343664
-        },
-        "location": "Mexico City, Mexico"
       }
     ],
     "isMultiCategory": true,
@@ -3985,69 +3930,6 @@
     "badge": ""
   },
   {
-    "cityState": "London",
-    "country": "United Kingdom",
-    "ml_skills": [
-      "publishing",
-      "transparency",
-      "communication skills"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "In this opportunity as an Associate Editor in Practical Law, you will work in conjunction with more experienced colleagues to interpret and explain legal, practice and market developments to our custo...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-0.0185088",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ176306",
-    "jobId": "JREQ176306",
-    "city": "London",
-    "latitude": "51.5056439",
-    "locale": "en_US",
-    "multi_location": [
-      "London, United Kingdom"
-    ],
-    "title": "Associate Editor, Practical Law",
-    "jobSeqNo": "THTTRUUSJREQ176306EXTERNALENUS",
-    "postedDate": "2024-02-13T00:00:00.000+0000",
-    "dateCreated": "2024-02-13T16:42:09.499+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Associate-Editor--Practical-Law_JREQ176306-1/apply",
-    "location": "London, United Kingdom",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "In this opportunity as an Associate Editor in Practical Law, you will work in conjunction with more experienced colleagues to interpret and explain legal, practice and market developments to our custo...",
-      "descriptionTeaser_first200": "We are seeking an Associate Editor to join the Practical Law team in the UK. Practical Law is a leading online know-how service providing rigorous, peer-reviewed resources, including practice notes, current...",
-      "descriptionTeaser_keyword": "We are seeking an Associate Editor to join the Practical Law team in the UK. Practical Law is a leading online know-how service providing rigorous, peer-reviewed resources, including practice notes, c...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -0.0185088,
-          "lat": 51.5056439
-        },
-        "location": "London, United Kingdom"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Dubai",
     "country": "United Arab Emirates",
     "ml_skills": [
@@ -4177,6 +4059,67 @@
     "cityState": "Bengaluru, Karnataka",
     "country": "India",
     "ml_skills": [
+      "numbers"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Acting as the number 2 to our Markets Editor, you will write or help drive the writing of. The Correspondent will be expected to work hand-in-hand with the stock markets team and editors in New York a...",
+    "state": "Karnataka",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "77.7120655",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ174195",
+    "jobId": "JREQ174195",
+    "city": "Bengaluru",
+    "latitude": "12.9743998",
+    "locale": "en_US",
+    "multi_location": [
+      "Bengaluru, Karnataka, India"
+    ],
+    "title": "Correspondent, Markets",
+    "jobSeqNo": "THTTRUUSJREQ174195EXTERNALENUS",
+    "postedDate": "2024-02-01T00:00:00.000+0000",
+    "dateCreated": "2024-01-02T16:40:03.410+0000",
+    "cityStateCountry": "Bengaluru, Karnataka, India",
+    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/Correspondent--Markets_JREQ174195-1/apply",
+    "location": "Bengaluru, Karnataka, India",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Acting as the number 2 to our Markets Editor, you will write or help drive the writing of. The Correspondent will be expected to work hand-in-hand with the stock markets team and editors in New York a...",
+      "descriptionTeaser_first200": "Correspondent, Markets:Reuters is seeking a Correspondent for the Markets team to take on one of the most important writing and reporting roles in our Bangalore newsroom. This is an excellent opportunity...",
+      "descriptionTeaser_keyword": "Correspondent, Markets:Reuters is seeking a Correspondent for the Markets team to take on one of the most important writing and reporting roles in our Bangalore newsroom. This is an excellent opportun...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 77.7120655,
+          "lat": 12.9743998
+        },
+        "location": "Bengaluru, Karnataka, India"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Bengaluru, Karnataka",
+    "country": "India",
+    "ml_skills": [
       "context",
       "transparency",
       "investment decisions"
@@ -4215,67 +4158,6 @@
       "descriptionTeaser": "Adept at performing quickly under pressure as they work with reporters and news editors to produce compelling stories that appeal both to professional clients who rely on Reuters to help make investme...",
       "descriptionTeaser_first200": "Desk Editor, Reuters Bangalore. The Reuters Bangalore bureau, the largest Reuters news operation in the world, has set a global benchmark for producing real-time company and markets news at speed. The...",
       "descriptionTeaser_keyword": "Desk Editor, Reuters Bangalore. The Reuters Bangalore bureau, the largest Reuters news operation in the world, has set a global benchmark for producing real-time company and markets news at speed. The...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 77.7120655,
-          "lat": 12.9743998
-        },
-        "location": "Bengaluru, Karnataka, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Bengaluru, Karnataka",
-    "country": "India",
-    "ml_skills": [
-      "numbers"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Acting as the number 2 to our Markets Editor, you will write or help drive the writing of. The Correspondent will be expected to work hand-in-hand with the stock markets team and editors in New York a...",
-    "state": "Karnataka",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "77.7120655",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ174195",
-    "jobId": "JREQ174195",
-    "city": "Bengaluru",
-    "latitude": "12.9743998",
-    "locale": "en_US",
-    "multi_location": [
-      "Bengaluru, Karnataka, India"
-    ],
-    "title": "Correspondent, Markets",
-    "jobSeqNo": "THTTRUUSJREQ174195EXTERNALENUS",
-    "postedDate": "2024-02-01T00:00:00.000+0000",
-    "dateCreated": "2024-01-02T16:40:03.410+0000",
-    "cityStateCountry": "Bengaluru, Karnataka, India",
-    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/Correspondent--Markets_JREQ174195-1/apply",
-    "location": "Bengaluru, Karnataka, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Acting as the number 2 to our Markets Editor, you will write or help drive the writing of. The Correspondent will be expected to work hand-in-hand with the stock markets team and editors in New York a...",
-      "descriptionTeaser_first200": "Correspondent, Markets:Reuters is seeking a Correspondent for the Markets team to take on one of the most important writing and reporting roles in our Bangalore newsroom. This is an excellent opportunity...",
-      "descriptionTeaser_keyword": "Correspondent, Markets:Reuters is seeking a Correspondent for the Markets team to take on one of the most important writing and reporting roles in our Bangalore newsroom. This is an excellent opportun...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
