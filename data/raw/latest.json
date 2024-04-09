@@ -145,51 +145,53 @@
     "badge": ""
   },
   {
-    "cityState": "Manila",
-    "country": "Philippines",
+    "cityState": "North Hollywood, California",
+    "country": "United States of America",
     "ml_skills": [
+      "legal research",
       "publishing",
       "westlaw",
-      "journalism",
-      "financial journalism",
-      "product development",
-      "checkpoint",
-      "content management systems"
+      "case law",
+      "editing",
+      "continuing legal education",
+      "grammar",
+      "recruiting",
+      "employer branding"
     ],
-    "remote": "Hybrid",
+    "remote": "Remote",
     "type": "Full time",
-    "descriptionTeaser": "Experience in legal or financial journalism, news, or other writing environment. Ability to prioritize concurrent projects and adhere to challenging deadlines. We help these professionals do their job...",
-    "state": "",
+    "descriptionTeaser": "In this position, you will perform legal research, analysis and writing to support the development and maintenance of The Rutter Group\u2019s premier legal content as reflected in its Practice Guides. Deve...",
+    "state": "California",
     "visibilityType": "External",
     "siteType": "external",
-    "longitude": "121.0520086",
+    "longitude": "-118.3747284",
     "multi_category": [
       "News & Editorial Careers"
     ],
-    "reqId": "JREQ177773",
-    "jobId": "JREQ177773",
-    "city": "Manila",
-    "latitude": "14.5344436",
+    "reqId": "JREQ175343",
+    "jobId": "JREQ175343",
+    "city": "North Hollywood",
+    "latitude": "34.1642783",
     "locale": "en_US",
     "multi_location": [
-      "Manila, Philippines"
+      "North Hollywood, California, United States of America"
     ],
-    "title": "Legal Writer",
-    "jobSeqNo": "THTTRUUSJREQ177773EXTERNALENUS",
-    "postedDate": "2024-04-06T00:00:00.000+0000",
-    "dateCreated": "2024-04-06T00:40:14.383+0000",
-    "cityStateCountry": "Manila, Philippines",
-    "address": "20 Upper McKinley Building, Upper McKinley Road, McKinley Hill, Manila, 1634, Philippines",
+    "title": "Senior Attorney Editor",
+    "jobSeqNo": "THTTRUUSJREQ175343EXTERNALENUS",
+    "postedDate": "2024-04-08T00:00:00.000+0000",
+    "dateCreated": "2024-04-08T20:39:49.547+0000",
+    "cityStateCountry": "North Hollywood, California, United States of America",
+    "address": "5161 Lankershim Blvd, North Hollywood, CA 91601, United States of America",
     "jobVisibility": [
       "external"
     ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/PHL-Taguig-20-Upper-McKinley-Bldg/Legal-Writer_JREQ177773/apply",
-    "location": "Manila, Philippines",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-North-Hollywood-5161-Lankershim-Blvd/Senior-Attorney-Editor_JREQ175343-1/apply",
+    "location": "North Hollywood, California, United States of America",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "Experience in legal or financial journalism, news, or other writing environment. Ability to prioritize concurrent projects and adhere to challenging deadlines. We help these professionals do their job...",
-      "descriptionTeaser_first200": "Legal Writer, Product Research. About the Role. In this opportunity as Legal Writer, you will. Research, write, and edit high-quality articles daily. Prioritize concurrent projects to meet challenging...",
-      "descriptionTeaser_keyword": "Legal Writer, Product Research. About the Role. In this opportunity as Legal Writer, you will. Research, write, and edit high-quality articles daily. Prioritize concurrent projects to meet challenging...",
+      "descriptionTeaser": "In this position, you will perform legal research, analysis and writing to support the development and maintenance of The Rutter Group\u2019s premier legal content as reflected in its Practice Guides. Deve...",
+      "descriptionTeaser_first200": "Job Description. In this position, you will perform legal research, analysis and writing to support the development and maintenance of The Rutter Group\u2019s premier legal content as reflected in its Practice...",
+      "descriptionTeaser_keyword": "Job Description. In this position, you will perform legal research, analysis and writing to support the development and maintenance of The Rutter Group\u2019s premier legal content as reflected in its Prac...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
@@ -197,10 +199,10 @@
     "multi_location_array": [
       {
         "latlong": {
-          "lon": 121.0520086,
-          "lat": 14.5344436
+          "lon": -118.3747284,
+          "lat": 34.1642783
         },
-        "location": "Manila, Philippines"
+        "location": "North Hollywood, California, United States of America"
       }
     ],
     "isMultiCategory": true,
@@ -256,6 +258,73 @@
       "descriptionTeaser": "Acts as primary resource for the team\u2019s work, products and processes. Provides day-to-day supervision of work activities to meet product and quality standards and targets. Ability to work collaborativ...",
       "descriptionTeaser_first200": "Team Lead, Editorial - Speciality Content, Product - Research. About the Role. In this opportunity as Team Lead, Editorial - Specialty Content, you will. Supervises, coaches and develops staff. Ensures...",
       "descriptionTeaser_keyword": "Team Lead, Editorial - Speciality Content, Product - Research. About the Role. In this opportunity as Team Lead, Editorial - Specialty Content, you will. Supervises, coaches and develops staff. Ensure...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 121.0520086,
+          "lat": 14.5344436
+        },
+        "location": "Manila, Philippines"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Manila",
+    "country": "Philippines",
+    "ml_skills": [
+      "publishing",
+      "westlaw",
+      "journalism",
+      "financial journalism",
+      "product development",
+      "checkpoint",
+      "content management systems"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Experience in legal or financial journalism, news, or other writing environment. Ability to prioritize concurrent projects and adhere to challenging deadlines. We help these professionals do their job...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "121.0520086",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ177773",
+    "jobId": "JREQ177773",
+    "city": "Manila",
+    "latitude": "14.5344436",
+    "locale": "en_US",
+    "multi_location": [
+      "Manila, Philippines"
+    ],
+    "title": "Legal Writer",
+    "jobSeqNo": "THTTRUUSJREQ177773EXTERNALENUS",
+    "postedDate": "2024-04-06T00:00:00.000+0000",
+    "dateCreated": "2024-04-06T00:40:14.383+0000",
+    "cityStateCountry": "Manila, Philippines",
+    "address": "20 Upper McKinley Building, Upper McKinley Road, McKinley Hill, Manila, 1634, Philippines",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/PHL-Taguig-20-Upper-McKinley-Bldg/Legal-Writer_JREQ177773/apply",
+    "location": "Manila, Philippines",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Experience in legal or financial journalism, news, or other writing environment. Ability to prioritize concurrent projects and adhere to challenging deadlines. We help these professionals do their job...",
+      "descriptionTeaser_first200": "Legal Writer, Product Research. About the Role. In this opportunity as Legal Writer, you will. Research, write, and edit high-quality articles daily. Prioritize concurrent projects to meet challenging...",
+      "descriptionTeaser_keyword": "Legal Writer, Product Research. About the Role. In this opportunity as Legal Writer, you will. Research, write, and edit high-quality articles daily. Prioritize concurrent projects to meet challenging...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
@@ -3329,72 +3398,6 @@
           "lat": 25.0961362
         },
         "location": "Dubai, United Arab Emirates"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "North Hollywood, California",
-    "country": "United States of America",
-    "ml_skills": [
-      "publishing",
-      "legal research",
-      "transparency",
-      "case law",
-      "editing",
-      "continuing legal education"
-    ],
-    "remote": "Remote",
-    "type": "Full time",
-    "descriptionTeaser": "In this position, you will perform legal research, analysis and writing to support the development and maintenance of The Rutter Group\u2019s premier legal content as reflected in its Practice Guides. Deve...",
-    "state": "California",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-118.3747284",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ177014",
-    "jobId": "JREQ177014",
-    "city": "North Hollywood",
-    "latitude": "34.1642783",
-    "locale": "en_US",
-    "multi_location": [
-      "North Hollywood, California, United States of America"
-    ],
-    "title": "Senior Attorney Editor",
-    "jobSeqNo": "THTTRUUSJREQ177014EXTERNALENUS",
-    "postedDate": "2024-03-06T00:00:00.000+0000",
-    "dateCreated": "2024-03-06T20:40:54.670+0000",
-    "cityStateCountry": "North Hollywood, California, United States of America",
-    "address": "5161 Lankershim Blvd, North Hollywood, CA 91601, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-North-Hollywood-5161-Lankershim-Blvd/Senior-Attorney-Editor_JREQ177014/apply",
-    "location": "North Hollywood, California, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "In this position, you will perform legal research, analysis and writing to support the development and maintenance of The Rutter Group\u2019s premier legal content as reflected in its Practice Guides. Deve...",
-      "descriptionTeaser_first200": "Senior Attorney Editor, Legal Commentary Editorial, The Rutter Group Editorial Team. Do you want to be a part of the team that produces the go-to resource for practicing California attorney? The Rutter...",
-      "descriptionTeaser_keyword": "Senior Attorney Editor, Legal Commentary Editorial, The Rutter Group Editorial Team. Do you want to be a part of the team that produces the go-to resource for practicing California attorney? The Rutte...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -118.3747284,
-          "lat": 34.1642783
-        },
-        "location": "North Hollywood, California, United States of America"
       }
     ],
     "isMultiCategory": true,
