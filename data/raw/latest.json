@@ -3,10 +3,10 @@
     "cityState": "Wellington",
     "country": "New Zealand",
     "ml_skills": [
-      "copy editing",
       "breaking news",
       "seo",
       "multimedia",
+      "newsletters",
       "ai"
     ],
     "remote": "Hybrid",
@@ -25,12 +25,11 @@
     "latitude": "-41.2859199",
     "locale": "en_US",
     "multi_location": [
-      "Wellington, New Zealand",
-      "Manila, Philippines"
+      "Wellington, New Zealand"
     ],
     "title": "Editor, Global News Desk",
     "jobSeqNo": "THTTRUUSJREQ177251EXTERNALENUS",
-    "postedDate": "2024-04-08T00:00:00.000+0000",
+    "postedDate": "2024-04-09T00:00:00.000+0000",
     "dateCreated": "2024-04-08T00:40:59.249+0000",
     "cityStateCountry": "Wellington, New Zealand",
     "address": "Level 19, Plimmer Towers, 2-6 Gilmer Terrace, Wellington 6011, New Zealand",
@@ -55,13 +54,6 @@
           "lat": -41.2859199
         },
         "location": "Wellington, New Zealand"
-      },
-      {
-        "latlong": {
-          "lon": 121.0210166,
-          "lat": 14.5558723
-        },
-        "location": "Manila, Philippines"
       }
     ],
     "isMultiCategory": true,
