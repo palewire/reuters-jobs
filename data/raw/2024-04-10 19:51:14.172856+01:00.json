@@ -3,10 +3,10 @@
     "cityState": "Wellington",
     "country": "New Zealand",
     "ml_skills": [
-      "copy editing",
       "breaking news",
       "seo",
       "multimedia",
+      "newsletters",
       "ai"
     ],
     "remote": "Hybrid",
@@ -25,12 +25,11 @@
     "latitude": "-41.2859199",
     "locale": "en_US",
     "multi_location": [
-      "Wellington, New Zealand",
-      "Manila, Philippines"
+      "Wellington, New Zealand"
     ],
     "title": "Editor, Global News Desk",
     "jobSeqNo": "THTTRUUSJREQ177251EXTERNALENUS",
-    "postedDate": "2024-04-08T00:00:00.000+0000",
+    "postedDate": "2024-04-09T00:00:00.000+0000",
     "dateCreated": "2024-04-08T00:40:59.249+0000",
     "cityStateCountry": "Wellington, New Zealand",
     "address": "Level 19, Plimmer Towers, 2-6 Gilmer Terrace, Wellington 6011, New Zealand",
@@ -55,13 +54,147 @@
           "lat": -41.2859199
         },
         "location": "Wellington, New Zealand"
-      },
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "North Hollywood, California",
+    "country": "United States of America",
+    "ml_skills": [
+      "legal research",
+      "publishing",
+      "westlaw",
+      "case law",
+      "editing",
+      "continuing legal education",
+      "grammar",
+      "recruiting",
+      "employer branding"
+    ],
+    "remote": "Remote",
+    "type": "Full time",
+    "descriptionTeaser": "In this position, you will perform legal research, analysis and writing to support the development and maintenance of The Rutter Group\u2019s premier legal content as reflected in its Practice Guides. Deve...",
+    "state": "California",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-118.3747284",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ175343",
+    "jobId": "JREQ175343",
+    "city": "North Hollywood",
+    "latitude": "34.1642783",
+    "locale": "en_US",
+    "multi_location": [
+      "North Hollywood, California, United States of America"
+    ],
+    "title": "Senior Attorney Editor",
+    "jobSeqNo": "THTTRUUSJREQ175343EXTERNALENUS",
+    "postedDate": "2024-04-08T00:00:00.000+0000",
+    "dateCreated": "2024-04-08T20:39:49.547+0000",
+    "cityStateCountry": "North Hollywood, California, United States of America",
+    "address": "5161 Lankershim Blvd, North Hollywood, CA 91601, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-North-Hollywood-5161-Lankershim-Blvd/Senior-Attorney-Editor_JREQ175343-1/apply",
+    "location": "North Hollywood, California, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "In this position, you will perform legal research, analysis and writing to support the development and maintenance of The Rutter Group\u2019s premier legal content as reflected in its Practice Guides. Deve...",
+      "descriptionTeaser_first200": "Job Description. In this position, you will perform legal research, analysis and writing to support the development and maintenance of The Rutter Group\u2019s premier legal content as reflected in its Practice...",
+      "descriptionTeaser_keyword": "Job Description. In this position, you will perform legal research, analysis and writing to support the development and maintenance of The Rutter Group\u2019s premier legal content as reflected in its Prac...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
       {
         "latlong": {
-          "lon": 121.0210166,
-          "lat": 14.5558723
+          "lon": -118.3747284,
+          "lat": 34.1642783
         },
-        "location": "Manila, Philippines"
+        "location": "North Hollywood, California, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "London",
+    "country": "United Kingdom",
+    "ml_skills": [
+      "current affairs",
+      "editing",
+      "journalism",
+      "seo",
+      "multimedia",
+      "publishing",
+      "film",
+      "audience analytics",
+      "seo-led writing",
+      "audio production",
+      "storytelling",
+      "social media platforms"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Champion collaboration across Context's regional editorial teams and areas of coverage. Solid knowledge of news, current affairs, developing stories, trends and issues relating to Context\u2019s areas of c...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.0185088",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ177853",
+    "jobId": "JREQ177853",
+    "city": "London",
+    "latitude": "51.5056439",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom"
+    ],
+    "title": "EMEA Editor - Thomson Reuters Foundation",
+    "jobSeqNo": "THTTRUUSJREQ177853EXTERNALENUS",
+    "postedDate": "2024-04-08T00:00:00.000+0000",
+    "dateCreated": "2024-04-08T12:40:28.531+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/EMEA-Editor---Thomson-Reuters-Foundation_JREQ177853/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Champion collaboration across Context's regional editorial teams and areas of coverage. Solid knowledge of news, current affairs, developing stories, trends and issues relating to Context\u2019s areas of c...",
+      "descriptionTeaser_first200": "At the Thomson Reuters Foundation, we are seeking an experienced, multi-skilled and multimedia-savvy EMEA Editor to lead our coverage in Europe, Middle East and Africa for our award-winning digital news...",
+      "descriptionTeaser_keyword": "At the Thomson Reuters Foundation, we are seeking an experienced, multi-skilled and multimedia-savvy EMEA Editor to lead our coverage in Europe, Middle East and Africa for our award-winning digital ne...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.0185088,
+          "lat": 51.5056439
+        },
+        "location": "London, United Kingdom"
       }
     ],
     "isMultiCategory": true,
@@ -946,73 +1079,6 @@
           "lat": 14.5344436
         },
         "location": "Manila, Philippines"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Bengaluru, Karnataka",
-    "country": "India",
-    "ml_skills": [
-      "web publishing",
-      "content creation",
-      "content management systems",
-      "business systems",
-      "digital marketing",
-      "digital media",
-      "microsoft office suite"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Manage administrative work related to Web publishing. ). Should be familiar with Web technologies and Digital marketing, and preferably have experience with content management systems in a Windows env...",
-    "state": "Karnataka",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "77.7120655",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ177432",
-    "jobId": "JREQ177432",
-    "city": "Bengaluru",
-    "latitude": "12.9743998",
-    "locale": "en_US",
-    "multi_location": [
-      "Bengaluru, Karnataka, India"
-    ],
-    "title": "Associate Content Analyst",
-    "jobSeqNo": "THTTRUUSJREQ177432EXTERNALENUS",
-    "postedDate": "2024-04-03T00:00:00.000+0000",
-    "dateCreated": "2024-03-25T08:41:28.268+0000",
-    "cityStateCountry": "Bengaluru, Karnataka, India",
-    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/Associate-Content-Analyst_JREQ177432/apply",
-    "location": "Bengaluru, Karnataka, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Manage administrative work related to Web publishing. ). Should be familiar with Web technologies and Digital marketing, and preferably have experience with content management systems in a Windows env...",
-      "descriptionTeaser_first200": "Do you love to solve problems and find better ways of getting things done? Do you love asking \u2018why\u2019 about pretty much everything? And does it make you happy when things are perfectly aligned and standardized?...",
-      "descriptionTeaser_keyword": "Do you love to solve problems and find better ways of getting things done? Do you love asking \u2018why\u2019 about pretty much everything? And does it make you happy when things are perfectly aligned and stand...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 77.7120655,
-          "lat": 12.9743998
-        },
-        "location": "Bengaluru, Karnataka, India"
       }
     ],
     "isMultiCategory": true,
@@ -2350,143 +2416,6 @@
     "badge": ""
   },
   {
-    "cityState": "Bengaluru, Karnataka",
-    "country": "India",
-    "ml_skills": [
-      "multimedia",
-      "editing",
-      "journalism",
-      "mass communication",
-      "creativity",
-      "transparency"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "In this opportunity as Multimedia News Producer (Global Online Desk), you will be part of the India digital desk in Bangalore, sub-editing/localising and filing stories with relevant multimedia assets...",
-    "state": "Karnataka",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "77.7120655",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ165639",
-    "jobId": "JREQ165639",
-    "city": "Bengaluru",
-    "latitude": "12.9743998",
-    "locale": "en_US",
-    "multi_location": [
-      "Bengaluru, Karnataka, India"
-    ],
-    "title": "Multimedia News Producer - Global Online Desk",
-    "jobSeqNo": "THTTRUUSJREQ165639EXTERNALENUS",
-    "postedDate": "2024-03-25T00:00:00.000+0000",
-    "dateCreated": "2023-03-09T12:42:32.517+0000",
-    "cityStateCountry": "Bengaluru, Karnataka, India",
-    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/Multimedia-News-Producer---Global-Online-Desk_JREQ165639/apply",
-    "location": "Bengaluru, Karnataka, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "In this opportunity as Multimedia News Producer (Global Online Desk), you will be part of the India digital desk in Bangalore, sub-editing/localising and filing stories with relevant multimedia assets...",
-      "descriptionTeaser_first200": "Multimedia News Producer. Entice with a question, leverage the Thomson Reuters brand, and then introduce the role, on our unit/segment/product on the team in location. Then, provide a summary of the role...",
-      "descriptionTeaser_keyword": "Multimedia News Producer. Entice with a question, leverage the Thomson Reuters brand, and then introduce the role, on our unit/segment/product on the team in location. Then, provide a summary of the r...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 77.7120655,
-          "lat": 12.9743998
-        },
-        "location": "Bengaluru, Karnataka, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "London",
-    "country": "United Kingdom",
-    "ml_skills": [
-      "copywriting",
-      "publishing",
-      "graphics",
-      "twitter",
-      "video editing",
-      "video editing tools",
-      "team management",
-      "analytics tools",
-      "transparency",
-      "performance analysis",
-      "kpis"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "As the Social Media Lead, News, at Thomson Reuters Foundation, your key responsibilities will include. Managing team content output: Oversee your team in the creation and delivery of native content ac...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-0.0185088",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ176339",
-    "jobId": "JREQ176339",
-    "city": "London",
-    "latitude": "51.5056439",
-    "locale": "en_US",
-    "multi_location": [
-      "London, United Kingdom"
-    ],
-    "title": "Social Media Lead, News - Thomson Reuters Foundation",
-    "jobSeqNo": "THTTRUUSJREQ176339EXTERNALENUS",
-    "postedDate": "2024-03-25T00:00:00.000+0000",
-    "dateCreated": "2024-02-19T12:41:27.534+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Social-Media-Lead--News---Thomson-Reuters-Foundation_JREQ176339/apply",
-    "location": "London, United Kingdom",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "As the Social Media Lead, News, at Thomson Reuters Foundation, your key responsibilities will include. Managing team content output: Oversee your team in the creation and delivery of native content ac...",
-      "descriptionTeaser_first200": "Social Media Lead, News - Thomson Reuters Foundation. We are the corporate foundation of Thomson Reuters, the global news and. information services company. As an independent charity, registered in the...",
-      "descriptionTeaser_keyword": "Social Media Lead, News - Thomson Reuters Foundation. We are the corporate foundation of Thomson Reuters, the global news and. information services company. As an independent charity, registered in th...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -0.0185088,
-          "lat": 51.5056439
-        },
-        "location": "London, United Kingdom"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Gdansk",
     "country": "Poland",
     "ml_skills": [
@@ -3229,72 +3158,6 @@
     "multi_category": [
       "News & Editorial Careers"
     ],
-    "reqId": "JREQ174120",
-    "jobId": "JREQ174120",
-    "city": "Bengaluru",
-    "latitude": "12.9743998",
-    "locale": "en_US",
-    "multi_location": [
-      "Bengaluru, Karnataka, India"
-    ],
-    "title": "Multimedia News Producer",
-    "jobSeqNo": "THTTRUUSJREQ174120EXTERNALENUS",
-    "postedDate": "2024-03-12T00:00:00.000+0000",
-    "dateCreated": "2024-01-10T12:40:01.473+0000",
-    "cityStateCountry": "Bengaluru, Karnataka, India",
-    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/Multimedia-News-Producer_JREQ174120/apply",
-    "location": "Bengaluru, Karnataka, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "You're a fit for the role of Multimedia News Producer if your background includes. Strong team player, good communication skills. Our industry-leading products and services include highly specialized...",
-      "descriptionTeaser_first200": "Multimedia News Producer. Are you a journalist who desires to be part of a news production team that can reach millions of readers in a matter of seconds. Digital Desk at Reuters in Bangalore does exactly...",
-      "descriptionTeaser_keyword": "Multimedia News Producer. Are you a journalist who desires to be part of a news production team that can reach millions of readers in a matter of seconds. Digital Desk at Reuters in Bangalore does exa...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 77.7120655,
-          "lat": 12.9743998
-        },
-        "location": "Bengaluru, Karnataka, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Bengaluru, Karnataka",
-    "country": "India",
-    "ml_skills": [
-      "entertainment multimedia",
-      "multimedia",
-      "journalism",
-      "mass communication",
-      "creativity",
-      "transparency"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "You're a fit for the role of Multimedia News Producer if your background includes. Strong team player, good communication skills. Our industry-leading products and services include highly specialized...",
-    "state": "Karnataka",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "77.7120655",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
     "reqId": "JREQ174123",
     "jobId": "JREQ174123",
     "city": "Bengaluru",
@@ -3394,72 +3257,6 @@
           "lat": 25.0961362
         },
         "location": "Dubai, United Arab Emirates"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "North Hollywood, California",
-    "country": "United States of America",
-    "ml_skills": [
-      "publishing",
-      "legal research",
-      "transparency",
-      "case law",
-      "editing",
-      "continuing legal education"
-    ],
-    "remote": "Remote",
-    "type": "Full time",
-    "descriptionTeaser": "In this position, you will perform legal research, analysis and writing to support the development and maintenance of The Rutter Group\u2019s premier legal content as reflected in its Practice Guides. Deve...",
-    "state": "California",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-118.3747284",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ177014",
-    "jobId": "JREQ177014",
-    "city": "North Hollywood",
-    "latitude": "34.1642783",
-    "locale": "en_US",
-    "multi_location": [
-      "North Hollywood, California, United States of America"
-    ],
-    "title": "Senior Attorney Editor",
-    "jobSeqNo": "THTTRUUSJREQ177014EXTERNALENUS",
-    "postedDate": "2024-03-06T00:00:00.000+0000",
-    "dateCreated": "2024-03-06T20:40:54.670+0000",
-    "cityStateCountry": "North Hollywood, California, United States of America",
-    "address": "5161 Lankershim Blvd, North Hollywood, CA 91601, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-North-Hollywood-5161-Lankershim-Blvd/Senior-Attorney-Editor_JREQ177014/apply",
-    "location": "North Hollywood, California, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "In this position, you will perform legal research, analysis and writing to support the development and maintenance of The Rutter Group\u2019s premier legal content as reflected in its Practice Guides. Deve...",
-      "descriptionTeaser_first200": "Senior Attorney Editor, Legal Commentary Editorial, The Rutter Group Editorial Team. Do you want to be a part of the team that produces the go-to resource for practicing California attorney? The Rutter...",
-      "descriptionTeaser_keyword": "Senior Attorney Editor, Legal Commentary Editorial, The Rutter Group Editorial Team. Do you want to be a part of the team that produces the go-to resource for practicing California attorney? The Rutte...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -118.3747284,
-          "lat": 34.1642783
-        },
-        "location": "North Hollywood, California, United States of America"
       }
     ],
     "isMultiCategory": true,
