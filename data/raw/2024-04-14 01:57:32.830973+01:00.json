@@ -1,5 +1,68 @@
 [
   {
+    "cityState": "Berlin",
+    "country": "Germany",
+    "ml_skills": [
+      "case law",
+      "editing",
+      "public sector"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "As a Senior Specialist Legal Editor in Practical Law, you will use your specialist legal knowledge of public procurement law to provide and maintain a wide range of Practical Law content. Creating wel...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "13.3754362",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ167719",
+    "jobId": "JREQ167719",
+    "city": "Berlin",
+    "latitude": "52.5111897",
+    "locale": "en_US",
+    "multi_location": [
+      "Berlin, Germany"
+    ],
+    "title": "Senior Specialist Legal Editor, Practical Law Public Sector",
+    "jobSeqNo": "THTTRUUSJREQ167719EXTERNALENUS",
+    "postedDate": "2024-04-12T00:00:00.000+0000",
+    "dateCreated": "2023-04-19T16:42:23.497+0000",
+    "cityStateCountry": "Berlin, Germany",
+    "address": "Berliner Freiheit 2, 10785 Berlin, Germany",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/DEU-Berlin-Berliner-Freiheit-2/Senior-Legal-Editor--Practical-Law-Public-Sector_JREQ167719/apply",
+    "location": "Berlin, Germany",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "As a Senior Specialist Legal Editor in Practical Law, you will use your specialist legal knowledge of public procurement law to provide and maintain a wide range of Practical Law content. Creating wel...",
+      "descriptionTeaser_first200": "We are seeking an experienced public procurement lawyer to join the Practical Law Public Sector team in the UK. Practical Law is a leading online know-how service providing rigorous, peer-reviewed resources,...",
+      "descriptionTeaser_keyword": "We are seeking an experienced public procurement lawyer to join the Practical Law Public Sector team in the UK. Practical Law is a leading online know-how service providing rigorous, peer-reviewed res...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 13.3754362,
+          "lat": 52.5111897
+        },
+        "location": "Berlin, Germany"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Singapore",
     "country": "Singapore",
     "ml_skills": [
@@ -129,6 +192,69 @@
           "lat": 31.24097799999999
         },
         "location": "Shanghai, Shanghai, China"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "London",
+    "country": "United Kingdom",
+    "ml_skills": [
+      "case law",
+      "editing",
+      "cpo process"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Creating well-written, up to date content for online publication that reflects current law and practice and is of the quality and scope to meet business objectives and customer needs. Assist with deve...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.0185088",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ177500",
+    "jobId": "JREQ177500",
+    "city": "London",
+    "latitude": "51.5056439",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom"
+    ],
+    "title": "Senior Specialist Legal Editor, Practical Law \u2013 Planning",
+    "jobSeqNo": "THTTRUUSJREQ177500EXTERNALENUS",
+    "postedDate": "2024-04-11T00:00:00.000+0000",
+    "dateCreated": "2024-04-11T16:40:18.150+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Senior-Specialist-Legal-Editor--Practical-Law---Planning_JREQ177500/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Creating well-written, up to date content for online publication that reflects current law and practice and is of the quality and scope to meet business objectives and customer needs. Assist with deve...",
+      "descriptionTeaser_first200": "Senior Specialist Legal Editor, Practical Law \u2013 Planning. We are seeking an experienced planning lawyer to join the Practical Law Property team in the UK. Practical Law is a leading online know-how service...",
+      "descriptionTeaser_keyword": "Senior Specialist Legal Editor, Practical Law \u2013 Planning. We are seeking an experienced planning lawyer to join the Practical Law Property team in the UK. Practical Law is a leading online know-how se...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.0185088,
+          "lat": 51.5056439
+        },
+        "location": "London, United Kingdom"
       }
     ],
     "isMultiCategory": true,
@@ -903,72 +1029,6 @@
           "lat": 48.869761
         },
         "location": "Paris, France"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Gdansk",
-    "country": "Poland",
-    "ml_skills": [
-      "french",
-      "ukrainian",
-      "portuguese",
-      "german",
-      "italian",
-      "transparency"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Create timely alerts by summarizing regulatory documents and translating non-English language content into English where necessary. Ability to work collaboratively across teams and assists others to a...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "18.5752702",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ177133",
-    "jobId": "JREQ177133",
-    "city": "Gdansk",
-    "latitude": "54.4004235",
-    "locale": "en_US",
-    "multi_location": [
-      "Gdansk, Poland"
-    ],
-    "title": "Content Editor with German or Spanish",
-    "jobSeqNo": "THTTRUUSJREQ177133EXTERNALENUS",
-    "postedDate": "2024-04-04T00:00:00.000+0000",
-    "dateCreated": "2024-03-19T16:41:01.440+0000",
-    "cityStateCountry": "Gdansk, Poland",
-    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/Content-Editor-with-German-or-Spanish_JREQ177133-1/apply",
-    "location": "Gdansk, Poland",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Create timely alerts by summarizing regulatory documents and translating non-English language content into English where necessary. Ability to work collaboratively across teams and assists others to a...",
-      "descriptionTeaser_first200": "We welcome applications to our full-time vacancies from all citizens who have been granted protection within the territory of the Republic of Poland under the EU Temporary Protection Directive*. Thomson...",
-      "descriptionTeaser_keyword": "We welcome applications to our full-time vacancies from all citizens who have been granted protection within the territory of the Republic of Poland under the EU Temporary Protection Directive*. Thoms...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 18.5752702,
-          "lat": 54.4004235
-        },
-        "location": "Gdansk, Poland"
       }
     ],
     "isMultiCategory": true,
@@ -1936,69 +1996,6 @@
     "badge": ""
   },
   {
-    "cityState": "Berlin",
-    "country": "Germany",
-    "ml_skills": [
-      "case law",
-      "editing",
-      "public sector"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "As a Senior Specialist Legal Editor in Practical Law, you will use your specialist legal knowledge of public procurement law to provide and maintain a wide range of Practical Law content. Creating wel...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "13.3754362",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ167719",
-    "jobId": "JREQ167719",
-    "city": "Berlin",
-    "latitude": "52.5111897",
-    "locale": "en_US",
-    "multi_location": [
-      "Berlin, Germany"
-    ],
-    "title": "Senior Specialist Legal Editor, Practical Law Public Sector",
-    "jobSeqNo": "THTTRUUSJREQ167719EXTERNALENUS",
-    "postedDate": "2024-03-28T00:00:00.000+0000",
-    "dateCreated": "2023-04-19T16:42:23.497+0000",
-    "cityStateCountry": "Berlin, Germany",
-    "address": "Berliner Freiheit 2, 10785 Berlin, Germany",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/DEU-Berlin-Berliner-Freiheit-2/Senior-Legal-Editor--Practical-Law-Public-Sector_JREQ167719/apply",
-    "location": "Berlin, Germany",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "As a Senior Specialist Legal Editor in Practical Law, you will use your specialist legal knowledge of public procurement law to provide and maintain a wide range of Practical Law content. Creating wel...",
-      "descriptionTeaser_first200": "We are seeking an experienced public procurement lawyer to join the Practical Law Public Sector team in the UK. Practical Law is a leading online know-how service providing rigorous, peer-reviewed resources,...",
-      "descriptionTeaser_keyword": "We are seeking an experienced public procurement lawyer to join the Practical Law Public Sector team in the UK. Practical Law is a leading online know-how service providing rigorous, peer-reviewed res...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 13.3754362,
-          "lat": 52.5111897
-        },
-        "location": "Berlin, Germany"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Tokyo",
     "country": "Japan",
     "ml_skills": [
@@ -2696,73 +2693,6 @@
     "badge": ""
   },
   {
-    "cityState": "Minneapolis, Minnesota",
-    "country": "United States of America",
-    "ml_skills": [
-      "legal research",
-      "publishing",
-      "westlaw",
-      "word processing",
-      "navigation",
-      "leadership development",
-      "electronic products"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Legal Research, Analysis and Enhancement of Primary Law Content: Create editorial enhancements to help customers understand the context and developments of the law, classify legal information in the f...",
-    "state": "Minnesota",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-93.11319449999999",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ177535",
-    "jobId": "JREQ177535",
-    "city": "Minneapolis",
-    "latitude": "44.8253064",
-    "locale": "en_US",
-    "multi_location": [
-      "Minneapolis, Minnesota, United States of America"
-    ],
-    "title": "Attorney Editor",
-    "jobSeqNo": "THTTRUUSJREQ177535EXTERNALENUS",
-    "postedDate": "2024-03-22T00:00:00.000+0000",
-    "dateCreated": "2024-03-21T20:40:08.888+0000",
-    "cityStateCountry": "Minneapolis, Minnesota, United States of America",
-    "address": "Thomson Reuters, Minneapolis, MN 55111, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Minneapolis-Minnesota/Attorney-Editor_JREQ177535/apply",
-    "location": "Minneapolis, Minnesota, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Legal Research, Analysis and Enhancement of Primary Law Content: Create editorial enhancements to help customers understand the context and developments of the law, classify legal information in the f...",
-      "descriptionTeaser_first200": "Want to work with a team of attorney editors to provide world-class annotated statutory and regulatory information for legal professionals using Thomson Reuters\u2019 Westlaw, ProView and print products? Attorney...",
-      "descriptionTeaser_keyword": "Want to work with a team of attorney editors to provide world-class annotated statutory and regulatory information for legal professionals using Thomson Reuters\u2019 Westlaw, ProView and print products? A...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -93.11319449999999,
-          "lat": 44.8253064
-        },
-        "location": "Minneapolis, Minnesota, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Gdansk",
     "country": "Poland",
     "ml_skills": [
@@ -3341,135 +3271,6 @@
           "lat": 12.9743998
         },
         "location": "Bengaluru, Karnataka, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Dubai",
-    "country": "United Arab Emirates",
-    "ml_skills": [
-      "litigation",
-      "transparency",
-      "editing",
-      "arabic",
-      "content strategy"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "As part of the role, the Senior Specialist Legal Editors will help to define the jurisdiction\u2019s content strategy and be responsible for drafting high quality content, which meets our customers\u2019 needs....",
-    "state": "Dubai",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "55.1575893",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ175762",
-    "jobId": "JREQ175762",
-    "city": "",
-    "latitude": "25.0961362",
-    "locale": "en_US",
-    "multi_location": [
-      "Dubai, United Arab Emirates"
-    ],
-    "title": "Snr Specialist Legal Editor, Practical Law (ME) Litigation",
-    "jobSeqNo": "THTTRUUSJREQ175762EXTERNALENUS",
-    "postedDate": "2024-03-12T00:00:00.000+0000",
-    "dateCreated": "2024-01-26T16:40:14.616+0000",
-    "cityStateCountry": "Dubai, United Arab Emirates",
-    "address": "Reuters Ltd, Office 501, Building 1, 5th Floor Dubai Media City, Dubai, United Arab Emirates",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/ARE-Dubai-Dubai-Media-City/Snr-Specialist-Legal-Editor--Practical-Law--MENA--Litigation_JREQ175762/apply",
-    "location": "Dubai, United Arab Emirates",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "As part of the role, the Senior Specialist Legal Editors will help to define the jurisdiction\u2019s content strategy and be responsible for drafting high quality content, which meets our customers\u2019 needs....",
-      "descriptionTeaser_first200": "Senior Specialist Legal Editor, Practical Law (Middle East) (Litigation). Are you a lawyer looking for a career change? We are seeking an experienced litigation lawyer to join the Practical Law Middle...",
-      "descriptionTeaser_keyword": "Senior Specialist Legal Editor, Practical Law (Middle East) (Litigation). Are you a lawyer looking for a career change? We are seeking an experienced litigation lawyer to join the Practical Law Middle...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 55.1575893,
-          "lat": 25.0961362
-        },
-        "location": "Dubai, United Arab Emirates"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Dubai",
-    "country": "United Arab Emirates",
-    "ml_skills": [
-      "transparency",
-      "editing",
-      "content strategy",
-      "arabic"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "As part of the role, the Senior Specialist Legal Editors will help to define the jurisdiction\u2019s content strategy and be responsible for drafting high quality content, which meets our customers\u2019 needs....",
-    "state": "Dubai",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "55.1575893",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ173710",
-    "jobId": "JREQ173710",
-    "city": "",
-    "latitude": "25.0961362",
-    "locale": "en_US",
-    "multi_location": [
-      "Dubai, United Arab Emirates"
-    ],
-    "title": "Senior Specialist Legal Editor, Practical Law (MENA) - Employment",
-    "jobSeqNo": "THTTRUUSJREQ173710EXTERNALENUS",
-    "postedDate": "2024-03-11T00:00:00.000+0000",
-    "dateCreated": "2023-11-03T16:39:47.672+0000",
-    "cityStateCountry": "Dubai, United Arab Emirates",
-    "address": "Reuters Ltd, Office 501, Building 1, 5th Floor Dubai Media City, Dubai, United Arab Emirates",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/ARE-Dubai-Dubai-Media-City/Senior-Specialist-Legal-Editor--Practical-Law--MENA-_JREQ173710/apply",
-    "location": "Dubai, United Arab Emirates",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "As part of the role, the Senior Specialist Legal Editors will help to define the jurisdiction\u2019s content strategy and be responsible for drafting high quality content, which meets our customers\u2019 needs....",
-      "descriptionTeaser_first200": "Are you an Employment lawyer looking for a career change? We are seeking an experienced Labour law lawyer to join the Practical Law MENA team based in the United Arab Emirates. Practical Law is a leading...",
-      "descriptionTeaser_keyword": "Are you an Employment lawyer looking for a career change? We are seeking an experienced Labour law lawyer to join the Practical Law MENA team based in the United Arab Emirates. Practical Law is a lead...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 55.1575893,
-          "lat": 25.0961362
-        },
-        "location": "Dubai, United Arab Emirates"
       }
     ],
     "isMultiCategory": true,
