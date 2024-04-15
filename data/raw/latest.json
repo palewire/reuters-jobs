@@ -1,5 +1,71 @@
 [
   {
+    "cityState": "Cairo",
+    "country": "Egypt",
+    "ml_skills": [
+      "news writing",
+      "breaking news",
+      "news reporting",
+      "arabic",
+      "arabic is",
+      "persistence"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "The successful candidate will have the skill to handle breaking news, the determination to build contacts and the proven ability to generate story ideas in a country where the government is sensitive...",
+    "state": "Cairo",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "31.2357116",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ177919",
+    "jobId": "JREQ177919",
+    "city": "",
+    "latitude": "30.0444196",
+    "locale": "en_US",
+    "multi_location": [
+      "Cairo, Egypt"
+    ],
+    "title": "Egypt Correspondent, Reuters",
+    "jobSeqNo": "THTTRUUSJREQ177919EXTERNALENUS",
+    "postedDate": "2024-04-15T00:00:00.000+0000",
+    "dateCreated": "2024-04-15T16:39:35.445+0000",
+    "cityStateCountry": "Cairo, Egypt",
+    "address": "Nile City Towers, 2005c, Corniche El Nile, Nile City, Cairo, 11221, Egypt",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/EGY-Cairo-Nile-City-Towers/Egypt-Correspondent--Reuters_JREQ177919/apply",
+    "location": "Cairo, Egypt",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "The successful candidate will have the skill to handle breaking news, the determination to build contacts and the proven ability to generate story ideas in a country where the government is sensitive...",
+      "descriptionTeaser_first200": "Reuters is seeking a resourceful and energetic correspondent in Egypt to help break news and deliver initiative stories to deepen our financial, business and commodities file at an interesting moment...",
+      "descriptionTeaser_keyword": "Reuters is seeking a resourceful and energetic correspondent in Egypt to help break news and deliver initiative stories to deepen our financial, business and commodities file at an interesting moment...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 31.2357116,
+          "lat": 30.0444196
+        },
+        "location": "Cairo, Egypt"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "London",
     "country": "United Kingdom",
     "ml_skills": [
