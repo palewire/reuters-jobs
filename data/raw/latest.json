@@ -1,5 +1,67 @@
 [
   {
+    "cityState": "New York, New York",
+    "country": "United States of America",
+    "ml_skills": [
+      "breaking news",
+      "financial services"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "We would prefer some experience of reporting the insurance or at least financial services sector, but of greater importance is a demonstrable track record of picking up reporting beats involving techn...",
+    "state": "New York",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-73.9866995",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ177920",
+    "jobId": "JREQ177920",
+    "city": "New York",
+    "latitude": "40.7566955",
+    "locale": "en_US",
+    "multi_location": [
+      "New York, New York, United States of America"
+    ],
+    "title": "U.S. Reporter (Level 1 Journalist), The Insurer, Reuters",
+    "jobSeqNo": "THTTRUUSJREQ177920EXTERNALENUS",
+    "postedDate": "2024-04-16T00:00:00.000+0000",
+    "dateCreated": "2024-04-16T12:39:05.368+0000",
+    "cityStateCountry": "New York, New York, United States of America",
+    "address": "3 Times Square, New York, NY 10036, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-New-York-3-Times-Square/US-Reporter--Level-1-Journalist---The-Insurer--Reuters_JREQ177920/apply",
+    "location": "New York, New York, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "We would prefer some experience of reporting the insurance or at least financial services sector, but of greater importance is a demonstrable track record of picking up reporting beats involving techn...",
+      "descriptionTeaser_first200": "U.S. Reporter (Level 1 Journalist), The Insurer, Reuters. Looking for a new challenge? Want to cover a vibrant segment of the financial services sector as part of the Thomson Reuters organization? If...",
+      "descriptionTeaser_keyword": "U. S. Reporter (Level 1 Journalist), The Insurer, Reuters. Looking for a new challenge? Want to cover a vibrant segment of the financial services sector as part of the Thomson Reuters organization? If...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -73.9866995,
+          "lat": 40.7566955
+        },
+        "location": "New York, New York, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Cairo",
     "country": "Egypt",
     "ml_skills": [
@@ -3405,70 +3467,6 @@
           "lat": 19.1114368
         },
         "location": "Mumbai, Maharashtra, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Dubai",
-    "country": "United Arab Emirates",
-    "ml_skills": [
-      "transparency",
-      "editing",
-      "arabic",
-      "content strategy"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "As a Senior Specialist Legal Editor you will use your knowledge of commercial/ technology law in the MENA region to provide and maintain a wide range of Practical Law content (including standard contr...",
-    "state": "Dubai",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "55.1575893",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ175763",
-    "jobId": "JREQ175763",
-    "city": "",
-    "latitude": "25.0961362",
-    "locale": "en_US",
-    "multi_location": [
-      "Dubai, United Arab Emirates"
-    ],
-    "title": "Snr Specialist Legal Editor, Practical Law (MENA) Commercial",
-    "jobSeqNo": "THTTRUUSJREQ175763EXTERNALENUS",
-    "postedDate": "2024-02-09T00:00:00.000+0000",
-    "dateCreated": "2024-01-25T16:40:42.088+0000",
-    "cityStateCountry": "Dubai, United Arab Emirates",
-    "address": "Reuters Ltd, Office 501, Building 1, 5th Floor Dubai Media City, Dubai, United Arab Emirates",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/ARE-Dubai-Dubai-Media-City/Snr-Specialist-Legal-Editor--Practical-Law--MENA--Commercial_JREQ175763/apply",
-    "location": "Dubai, United Arab Emirates",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "As a Senior Specialist Legal Editor you will use your knowledge of commercial/ technology law in the MENA region to provide and maintain a wide range of Practical Law content (including standard contr...",
-      "descriptionTeaser_first200": "Senior Specialist Legal Editor, Practical Law (MENA) (Commercial and Technology). Are you a lawyer looking for a career change? We are seeking an experienced commercial and/or technology lawyer to join...",
-      "descriptionTeaser_keyword": "Senior Specialist Legal Editor, Practical Law (MENA) (Commercial and Technology). Are you a lawyer looking for a career change? We are seeking an experienced commercial and/or technology lawyer to joi...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 55.1575893,
-          "lat": 25.0961362
-        },
-        "location": "Dubai, United Arab Emirates"
       }
     ],
     "isMultiCategory": true,
