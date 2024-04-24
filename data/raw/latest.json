@@ -135,70 +135,6 @@
     "badge": ""
   },
   {
-    "cityState": "Hyderabad, Telangana",
-    "country": "India",
-    "ml_skills": [
-      "quality assurance",
-      "regression testing",
-      "xml",
-      "tax software"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Would be working on the testing of software by creating various scenarios through locators and generates the output in xml. Should be working on the mapping with various codes/attributes in the XSD sc...",
-    "state": "Telangana",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "78.3847282",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ177686",
-    "jobId": "JREQ177686",
-    "city": "Hyderabad",
-    "latitude": "17.438325",
-    "locale": "en_US",
-    "multi_location": [
-      "Hyderabad, Telangana, India"
-    ],
-    "title": "Associate Quality Assurance & Efile Analyst",
-    "jobSeqNo": "THTTRUUSJREQ177686EXTERNALENUS",
-    "postedDate": "2024-04-23T00:00:00.000+0000",
-    "dateCreated": "2024-04-23T08:40:32.760+0000",
-    "cityStateCountry": "Hyderabad, Telangana, India",
-    "address": "Floor 12, 13 & 14, Building 11, Raheja Mindspace, Madhapur, Hyderabad- 500081, Telangana, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Hyderabad-Raheja-Mindspace/Associate-Quality-Assurance---Efile-Analyst_JREQ177686/apply",
-    "location": "Hyderabad, Telangana, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Would be working on the testing of software by creating various scenarios through locators and generates the output in xml. Should be working on the mapping with various codes/attributes in the XSD sc...",
-      "descriptionTeaser_first200": "Associate Quality Assurance & E-file Analyst. Looking forward to advance your career in US Taxation? We are growing and we are hiring, come join us! About the Role. In this opportunity as Associate Quality...",
-      "descriptionTeaser_keyword": "Associate Quality Assurance & E-file Analyst. Looking forward to advance your career in US Taxation? We are growing and we are hiring, come join us! About the Role. In this opportunity as Associate Qu...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 78.3847282,
-          "lat": 17.438325
-        },
-        "location": "Hyderabad, Telangana, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Toronto, Ontario",
     "country": "Canada",
     "ml_skills": [
@@ -259,6 +195,70 @@
           "lat": 43.6480117
         },
         "location": "Toronto, Ontario, Canada"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Hyderabad, Telangana",
+    "country": "India",
+    "ml_skills": [
+      "quality assurance",
+      "regression testing",
+      "xml",
+      "tax software"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Would be working on the testing of software by creating various scenarios through locators and generates the output in xml. Should be working on the mapping with various codes/attributes in the XSD sc...",
+    "state": "Telangana",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "78.3847282",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ177686",
+    "jobId": "JREQ177686",
+    "city": "Hyderabad",
+    "latitude": "17.438325",
+    "locale": "en_US",
+    "multi_location": [
+      "Hyderabad, Telangana, India"
+    ],
+    "title": "Associate Quality Assurance & Efile Analyst",
+    "jobSeqNo": "THTTRUUSJREQ177686EXTERNALENUS",
+    "postedDate": "2024-04-23T00:00:00.000+0000",
+    "dateCreated": "2024-04-23T08:40:32.760+0000",
+    "cityStateCountry": "Hyderabad, Telangana, India",
+    "address": "Floor 12, 13 & 14, Building 11, Raheja Mindspace, Madhapur, Hyderabad- 500081, Telangana, India",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Hyderabad-Raheja-Mindspace/Associate-Quality-Assurance---Efile-Analyst_JREQ177686/apply",
+    "location": "Hyderabad, Telangana, India",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Would be working on the testing of software by creating various scenarios through locators and generates the output in xml. Should be working on the mapping with various codes/attributes in the XSD sc...",
+      "descriptionTeaser_first200": "Associate Quality Assurance & E-file Analyst. Looking forward to advance your career in US Taxation? We are growing and we are hiring, come join us! About the Role. In this opportunity as Associate Quality...",
+      "descriptionTeaser_keyword": "Associate Quality Assurance & E-file Analyst. Looking forward to advance your career in US Taxation? We are growing and we are hiring, come join us! About the Role. In this opportunity as Associate Qu...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 78.3847282,
+          "lat": 17.438325
+        },
+        "location": "Hyderabad, Telangana, India"
       }
     ],
     "isMultiCategory": true,
