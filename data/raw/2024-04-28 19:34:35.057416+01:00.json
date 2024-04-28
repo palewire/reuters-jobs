@@ -1,5 +1,136 @@
 [
   {
+    "cityState": "Manila",
+    "country": "Philippines",
+    "ml_skills": [
+      "breaking news",
+      "seo",
+      "multimedia",
+      "newsletters"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Write and edit breaking news stories from around the globe whilst producing clean, engaging stories at speed. Have strong news judgment and ability to shape a story by asking smart questions and chall...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "121.0210166",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ178493",
+    "jobId": "JREQ178493",
+    "city": "Manila",
+    "latitude": "14.5558723",
+    "locale": "en_US",
+    "multi_location": [
+      "Manila, Philippines"
+    ],
+    "title": "Editor, Global News Desk",
+    "jobSeqNo": "THTTRUUSJREQ178493EXTERNALENUS",
+    "postedDate": "2024-04-26T00:00:00.000+0000",
+    "dateCreated": "2024-04-26T12:40:17.002+0000",
+    "cityStateCountry": "Manila, Philippines",
+    "address": "18/F Tower 1, The Enterprise Centre, 6766 Ayala Ave, cor. Paseo de Roxas, Makati City, Manila, 1226, Philippines",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/PHL-Makati-City-The-Enterprise/Editor--Global-News-Desk_JREQ178493-1/apply",
+    "location": "Manila, Philippines",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Write and edit breaking news stories from around the globe whilst producing clean, engaging stories at speed. Have strong news judgment and ability to shape a story by asking smart questions and chall...",
+      "descriptionTeaser_first200": "About the Role. As Editor, Global News Desk you will. Write and edit breaking news stories from around the globe whilst producing clean, engaging stories at speed. Copy edits longer initiative stories...",
+      "descriptionTeaser_keyword": "About the Role. As Editor, Global News Desk you will. Write and edit breaking news stories from around the globe whilst producing clean, engaging stories at speed. Copy edits longer initiative stories...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 121.0210166,
+          "lat": 14.5558723
+        },
+        "location": "Manila, Philippines"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Minneapolis, Minnesota",
+    "country": "United States of America",
+    "ml_skills": [
+      "legal research",
+      "publishing",
+      "westlaw",
+      "word processing",
+      "navigation",
+      "leadership development",
+      "electronic products"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Legal Research, Analysis and Enhancement of Primary Law Content: Create editorial enhancements to help customers understand the context and developments of the law, classify legal information in the f...",
+    "state": "Minnesota",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-93.11319449999999",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ177535",
+    "jobId": "JREQ177535",
+    "city": "Minneapolis",
+    "latitude": "44.8253064",
+    "locale": "en_US",
+    "multi_location": [
+      "Minneapolis, Minnesota, United States of America"
+    ],
+    "title": "Attorney Editor",
+    "jobSeqNo": "THTTRUUSJREQ177535EXTERNALENUS",
+    "postedDate": "2024-04-26T00:00:00.000+0000",
+    "dateCreated": "2024-03-21T20:40:08.888+0000",
+    "cityStateCountry": "Minneapolis, Minnesota, United States of America",
+    "address": "Thomson Reuters, Minneapolis, MN 55111, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Minneapolis-Minnesota/Attorney-Editor_JREQ177535/apply",
+    "location": "Minneapolis, Minnesota, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Legal Research, Analysis and Enhancement of Primary Law Content: Create editorial enhancements to help customers understand the context and developments of the law, classify legal information in the f...",
+      "descriptionTeaser_first200": "Want to work with a team of attorney editors to provide world-class annotated statutory and regulatory information for legal professionals using Thomson Reuters\u2019 Westlaw, ProView and print products? Attorney...",
+      "descriptionTeaser_keyword": "Want to work with a team of attorney editors to provide world-class annotated statutory and regulatory information for legal professionals using Thomson Reuters\u2019 Westlaw, ProView and print products? A...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -93.11319449999999,
+          "lat": 44.8253064
+        },
+        "location": "Minneapolis, Minnesota, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Wellington",
     "country": "New Zealand",
     "ml_skills": [
@@ -110,77 +241,6 @@
       "descriptionTeaser": "As Deputy Editor, Funded Projects, you will work with regional editors and our global, award-winning team of correspondents to shape the editorial direction of projects ranging from the interaction be...",
       "descriptionTeaser_first200": "At the Thomson Reuters Foundation, we are seeking a talented and experienced editor for our digital news platform, Context, to direct and manage our donor-funded editorial projects that align with our...",
       "descriptionTeaser_keyword": "At the Thomson Reuters Foundation, we are seeking a talented and experienced editor for our digital news platform, Context, to direct and manage our donor-funded editorial projects that align with our...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -0.0185088,
-          "lat": 51.5056439
-        },
-        "location": "London, United Kingdom"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "London",
-    "country": "United Kingdom",
-    "ml_skills": [
-      "editing",
-      "breaking news",
-      "graphics",
-      "video editing software",
-      "publishing",
-      "video editing",
-      "multimedia",
-      "web publishing",
-      "content management",
-      "captions",
-      "web publishing software"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Work on combining and/or creating text, video, photo and graphics posts, and editing as needed. Be a resourceful researcher who on days when no Live Page is published can news plan and generate ideas...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-0.0185088",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ177624",
-    "jobId": "JREQ177624",
-    "city": "London",
-    "latitude": "51.5056439",
-    "locale": "en_US",
-    "multi_location": [
-      "London, United Kingdom"
-    ],
-    "title": "Live Pages Journalist, Reuters",
-    "jobSeqNo": "THTTRUUSJREQ177624EXTERNALENUS",
-    "postedDate": "2024-04-24T00:00:00.000+0000",
-    "dateCreated": "2024-04-24T08:40:24.234+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Live-Pages-Journalist--Reuters_JREQ177624/apply",
-    "location": "London, United Kingdom",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Work on combining and/or creating text, video, photo and graphics posts, and editing as needed. Be a resourceful researcher who on days when no Live Page is published can news plan and generate ideas...",
-      "descriptionTeaser_first200": "Are you a versatile multimedia journalist with excellent writing skills? Do you have a startup mindset? If so, you might be an ideal candidate to join the newly created Live Coverage team at Reuters....",
-      "descriptionTeaser_keyword": "Are you a versatile multimedia journalist with excellent writing skills? Do you have a startup mindset? If so, you might be an ideal candidate to join the newly created Live Coverage team at Reuters....",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
@@ -324,6 +384,77 @@
           "lat": 54.4004235
         },
         "location": "Gdansk, Poland"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "London",
+    "country": "United Kingdom",
+    "ml_skills": [
+      "editing",
+      "breaking news",
+      "graphics",
+      "video editing software",
+      "publishing",
+      "video editing",
+      "multimedia",
+      "web publishing",
+      "content management",
+      "captions",
+      "web publishing software"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Work on combining and/or creating text, video, photo and graphics posts, and editing as needed. Be a resourceful researcher who on days when no Live Page is published can news plan and generate ideas...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.0185088",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ177624",
+    "jobId": "JREQ177624",
+    "city": "London",
+    "latitude": "51.5056439",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom"
+    ],
+    "title": "Live Pages Journalist, Reuters",
+    "jobSeqNo": "THTTRUUSJREQ177624EXTERNALENUS",
+    "postedDate": "2024-04-24T00:00:00.000+0000",
+    "dateCreated": "2024-04-24T08:40:24.234+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Live-Pages-Journalist--Reuters_JREQ177624/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Work on combining and/or creating text, video, photo and graphics posts, and editing as needed. Be a resourceful researcher who on days when no Live Page is published can news plan and generate ideas...",
+      "descriptionTeaser_first200": "Are you a versatile multimedia journalist with excellent writing skills? Do you have a startup mindset? If so, you might be an ideal candidate to join the newly created Live Coverage team at Reuters....",
+      "descriptionTeaser_keyword": "Are you a versatile multimedia journalist with excellent writing skills? Do you have a startup mindset? If so, you might be an ideal candidate to join the newly created Live Coverage team at Reuters....",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.0185088,
+          "lat": 51.5056439
+        },
+        "location": "London, United Kingdom"
       }
     ],
     "isMultiCategory": true,
@@ -2532,69 +2663,6 @@
     "cityState": "London",
     "country": "United Kingdom",
     "ml_skills": [
-      "grammar",
-      "research skills",
-      "plc writing"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "In this opportunity as Assistant Editor, you will use your legal knowledge and experience to help to produce the magazine on schedule in hard copy and online each month. Commission contributions for w...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-0.0185088",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ177352",
-    "jobId": "JREQ177352",
-    "city": "London",
-    "latitude": "51.5056439",
-    "locale": "en_US",
-    "multi_location": [
-      "London, United Kingdom"
-    ],
-    "title": "Assistant Editor, PLC Magazine, Practical Law",
-    "jobSeqNo": "THTTRUUSJREQ177352EXTERNALENUS",
-    "postedDate": "2024-03-27T00:00:00.000+0000",
-    "dateCreated": "2024-03-25T20:40:25.229+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Assistant-Editor--PLC-Magazine--Practical-Law_JREQ177352/apply",
-    "location": "London, United Kingdom",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "In this opportunity as Assistant Editor, you will use your legal knowledge and experience to help to produce the magazine on schedule in hard copy and online each month. Commission contributions for w...",
-      "descriptionTeaser_first200": "We are seeking an assistant editor to join the PLC Magazine editorial team. PLC Magazine is the leading monthly magazine for business lawyers advising companies active in the UK, published by Practical...",
-      "descriptionTeaser_keyword": "We are seeking an assistant editor to join the PLC Magazine editorial team. PLC Magazine is the leading monthly magazine for business lawyers advising companies active in the UK, published by Practica...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -0.0185088,
-          "lat": 51.5056439
-        },
-        "location": "London, United Kingdom"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "London",
-    "country": "United Kingdom",
-    "ml_skills": [
       "photojournalism",
       "editing",
       "news photography",
@@ -2637,6 +2705,69 @@
       "descriptionTeaser": "You will work closely with the Chief Photographer and the entire bureau, including text and TV, to ensure that global and national news of interest to Reuters editorial customers is covered in a timel...",
       "descriptionTeaser_first200": "This hybrid role will be based in our London newsroom in Canary Wharf. We are looking to expand our picture desk and looking for a Weekend Photo Assignment Editor to help assign and coordinate our photo...",
       "descriptionTeaser_keyword": "This hybrid role will be based in our London newsroom in Canary Wharf. We are looking to expand our picture desk and looking for a Weekend Photo Assignment Editor to help assign and coordinate our pho...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.0185088,
+          "lat": 51.5056439
+        },
+        "location": "London, United Kingdom"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "London",
+    "country": "United Kingdom",
+    "ml_skills": [
+      "grammar",
+      "research skills",
+      "plc writing"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "In this opportunity as Assistant Editor, you will use your legal knowledge and experience to help to produce the magazine on schedule in hard copy and online each month. Commission contributions for w...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.0185088",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ177352",
+    "jobId": "JREQ177352",
+    "city": "London",
+    "latitude": "51.5056439",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom"
+    ],
+    "title": "Assistant Editor, PLC Magazine, Practical Law",
+    "jobSeqNo": "THTTRUUSJREQ177352EXTERNALENUS",
+    "postedDate": "2024-03-27T00:00:00.000+0000",
+    "dateCreated": "2024-03-25T20:40:25.229+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Assistant-Editor--PLC-Magazine--Practical-Law_JREQ177352/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "In this opportunity as Assistant Editor, you will use your legal knowledge and experience to help to produce the magazine on schedule in hard copy and online each month. Commission contributions for w...",
+      "descriptionTeaser_first200": "We are seeking an assistant editor to join the PLC Magazine editorial team. PLC Magazine is the leading monthly magazine for business lawyers advising companies active in the UK, published by Practical...",
+      "descriptionTeaser_keyword": "We are seeking an assistant editor to join the PLC Magazine editorial team. PLC Magazine is the leading monthly magazine for business lawyers advising companies active in the UK, published by Practica...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
@@ -3860,71 +3991,6 @@
           "lat": 35.6650759
         },
         "location": "Tokyo, Japan"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Mexico City",
-    "country": "Mexico",
-    "ml_skills": [
-      "publishing",
-      "editing",
-      "content delivery",
-      "transparency",
-      "legislative information system"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Actively participating in the improvement of editorial and product processes by effectively communicating with project team members and other departments, if necessary, to ensure workflow enhancement...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-99.1510899",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ175182",
-    "jobId": "JREQ175182",
-    "city": "Mexico City",
-    "latitude": "19.4343664",
-    "locale": "en_US",
-    "multi_location": [
-      "Mexico City, Mexico"
-    ],
-    "title": "Senior Tax Editor",
-    "jobSeqNo": "THTTRUUSJREQ175182EXTERNALENUS",
-    "postedDate": "2023-12-28T00:00:00.000+0000",
-    "dateCreated": "2023-12-28T20:39:41.896+0000",
-    "cityStateCountry": "Mexico City, Mexico",
-    "address": "Av. Paseo de la Reforma #26, Floor 36th, Colonia Ju\u00e1rez, Cuauht\u00e9moc, 06600 Mexico City, Mexico",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/MEX-Distrito-Federal-Reforma-26/Senior-Tax-Editor_JREQ175182/apply",
-    "location": "Mexico City, Mexico",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Actively participating in the improvement of editorial and product processes by effectively communicating with project team members and other departments, if necessary, to ensure workflow enhancement...",
-      "descriptionTeaser_first200": "Senior Tax Editor. Are you passionate about the chance to bring your editorial experience to a world-class company that is market-leading or both content and technology? If yes, we\u2019re looking for you....",
-      "descriptionTeaser_keyword": "Senior Tax Editor. Are you passionate about the chance to bring your editorial experience to a world-class company that is market-leading or both content and technology? If yes, we\u2019re looking for you....",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -99.1510899,
-          "lat": 19.4343664
-        },
-        "location": "Mexico City, Mexico"
       }
     ],
     "isMultiCategory": true,
