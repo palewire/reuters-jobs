@@ -263,6 +263,77 @@
     "badge": ""
   },
   {
+    "cityState": "London",
+    "country": "United Kingdom",
+    "ml_skills": [
+      "editing",
+      "breaking news",
+      "graphics",
+      "video editing software",
+      "publishing",
+      "video editing",
+      "multimedia",
+      "web publishing",
+      "content management",
+      "captions",
+      "web publishing software"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Work on combining and/or creating text, video, photo and graphics posts, and editing as needed. Be a resourceful researcher who on days when no Live Page is published can news plan and generate ideas...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.0185088",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ177624",
+    "jobId": "JREQ177624",
+    "city": "London",
+    "latitude": "51.5056439",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom"
+    ],
+    "title": "Live Pages Journalist, Reuters",
+    "jobSeqNo": "THTTRUUSJREQ177624EXTERNALENUS",
+    "postedDate": "2024-04-24T00:00:00.000+0000",
+    "dateCreated": "2024-04-24T08:40:24.234+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Live-Pages-Journalist--Reuters_JREQ177624/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Work on combining and/or creating text, video, photo and graphics posts, and editing as needed. Be a resourceful researcher who on days when no Live Page is published can news plan and generate ideas...",
+      "descriptionTeaser_first200": "Are you a versatile multimedia journalist with excellent writing skills? Do you have a startup mindset? If so, you might be an ideal candidate to join the newly created Live Coverage team at Reuters....",
+      "descriptionTeaser_keyword": "Are you a versatile multimedia journalist with excellent writing skills? Do you have a startup mindset? If so, you might be an ideal candidate to join the newly created Live Coverage team at Reuters....",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.0185088,
+          "lat": 51.5056439
+        },
+        "location": "London, United Kingdom"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Eagan, Minnesota",
     "country": "United States of America",
     "ml_skills": [
@@ -384,77 +455,6 @@
           "lat": 54.4004235
         },
         "location": "Gdansk, Poland"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "London",
-    "country": "United Kingdom",
-    "ml_skills": [
-      "editing",
-      "breaking news",
-      "graphics",
-      "video editing software",
-      "publishing",
-      "video editing",
-      "multimedia",
-      "web publishing",
-      "content management",
-      "captions",
-      "web publishing software"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Work on combining and/or creating text, video, photo and graphics posts, and editing as needed. Be a resourceful researcher who on days when no Live Page is published can news plan and generate ideas...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-0.0185088",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ177624",
-    "jobId": "JREQ177624",
-    "city": "London",
-    "latitude": "51.5056439",
-    "locale": "en_US",
-    "multi_location": [
-      "London, United Kingdom"
-    ],
-    "title": "Live Pages Journalist, Reuters",
-    "jobSeqNo": "THTTRUUSJREQ177624EXTERNALENUS",
-    "postedDate": "2024-04-24T00:00:00.000+0000",
-    "dateCreated": "2024-04-24T08:40:24.234+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Live-Pages-Journalist--Reuters_JREQ177624/apply",
-    "location": "London, United Kingdom",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Work on combining and/or creating text, video, photo and graphics posts, and editing as needed. Be a resourceful researcher who on days when no Live Page is published can news plan and generate ideas...",
-      "descriptionTeaser_first200": "Are you a versatile multimedia journalist with excellent writing skills? Do you have a startup mindset? If so, you might be an ideal candidate to join the newly created Live Coverage team at Reuters....",
-      "descriptionTeaser_keyword": "Are you a versatile multimedia journalist with excellent writing skills? Do you have a startup mindset? If so, you might be an ideal candidate to join the newly created Live Coverage team at Reuters....",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -0.0185088,
-          "lat": 51.5056439
-        },
-        "location": "London, United Kingdom"
       }
     ],
     "isMultiCategory": true,
@@ -2663,6 +2663,69 @@
     "cityState": "London",
     "country": "United Kingdom",
     "ml_skills": [
+      "grammar",
+      "research skills",
+      "plc writing"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "In this opportunity as Assistant Editor, you will use your legal knowledge and experience to help to produce the magazine on schedule in hard copy and online each month. Commission contributions for w...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.0185088",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ177352",
+    "jobId": "JREQ177352",
+    "city": "London",
+    "latitude": "51.5056439",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom"
+    ],
+    "title": "Assistant Editor, PLC Magazine, Practical Law",
+    "jobSeqNo": "THTTRUUSJREQ177352EXTERNALENUS",
+    "postedDate": "2024-03-27T00:00:00.000+0000",
+    "dateCreated": "2024-03-25T20:40:25.229+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Assistant-Editor--PLC-Magazine--Practical-Law_JREQ177352/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "In this opportunity as Assistant Editor, you will use your legal knowledge and experience to help to produce the magazine on schedule in hard copy and online each month. Commission contributions for w...",
+      "descriptionTeaser_first200": "We are seeking an assistant editor to join the PLC Magazine editorial team. PLC Magazine is the leading monthly magazine for business lawyers advising companies active in the UK, published by Practical...",
+      "descriptionTeaser_keyword": "We are seeking an assistant editor to join the PLC Magazine editorial team. PLC Magazine is the leading monthly magazine for business lawyers advising companies active in the UK, published by Practica...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.0185088,
+          "lat": 51.5056439
+        },
+        "location": "London, United Kingdom"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "London",
+    "country": "United Kingdom",
+    "ml_skills": [
       "photojournalism",
       "editing",
       "news photography",
@@ -2705,69 +2768,6 @@
       "descriptionTeaser": "You will work closely with the Chief Photographer and the entire bureau, including text and TV, to ensure that global and national news of interest to Reuters editorial customers is covered in a timel...",
       "descriptionTeaser_first200": "This hybrid role will be based in our London newsroom in Canary Wharf. We are looking to expand our picture desk and looking for a Weekend Photo Assignment Editor to help assign and coordinate our photo...",
       "descriptionTeaser_keyword": "This hybrid role will be based in our London newsroom in Canary Wharf. We are looking to expand our picture desk and looking for a Weekend Photo Assignment Editor to help assign and coordinate our pho...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -0.0185088,
-          "lat": 51.5056439
-        },
-        "location": "London, United Kingdom"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "London",
-    "country": "United Kingdom",
-    "ml_skills": [
-      "grammar",
-      "research skills",
-      "plc writing"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "In this opportunity as Assistant Editor, you will use your legal knowledge and experience to help to produce the magazine on schedule in hard copy and online each month. Commission contributions for w...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-0.0185088",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ177352",
-    "jobId": "JREQ177352",
-    "city": "London",
-    "latitude": "51.5056439",
-    "locale": "en_US",
-    "multi_location": [
-      "London, United Kingdom"
-    ],
-    "title": "Assistant Editor, PLC Magazine, Practical Law",
-    "jobSeqNo": "THTTRUUSJREQ177352EXTERNALENUS",
-    "postedDate": "2024-03-27T00:00:00.000+0000",
-    "dateCreated": "2024-03-25T20:40:25.229+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Assistant-Editor--PLC-Magazine--Practical-Law_JREQ177352/apply",
-    "location": "London, United Kingdom",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "In this opportunity as Assistant Editor, you will use your legal knowledge and experience to help to produce the magazine on schedule in hard copy and online each month. Commission contributions for w...",
-      "descriptionTeaser_first200": "We are seeking an assistant editor to join the PLC Magazine editorial team. PLC Magazine is the leading monthly magazine for business lawyers advising companies active in the UK, published by Practical...",
-      "descriptionTeaser_keyword": "We are seeking an assistant editor to join the PLC Magazine editorial team. PLC Magazine is the leading monthly magazine for business lawyers advising companies active in the UK, published by Practica...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
