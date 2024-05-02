@@ -1,51 +1,56 @@
 [
   {
-    "cityState": "Eagan, Minnesota",
-    "country": "United States of America",
+    "cityState": "Montreal, Quebec",
+    "country": "Canada",
     "ml_skills": [
-      "legal research",
-      "publishing",
-      "westlaw",
-      "word processing",
-      "navigation",
-      "leadership development",
-      "electronic products",
-      "production processes"
+      "reasonable",
+      "anglais",
+      "detail",
+      "plan",
+      "formation",
+      "esg",
+      "linkedin",
+      "legal",
+      "job postings",
+      "editorial",
+      "accessibility",
+      "r\u00e9daction",
+      "learning"
     ],
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "Create editorial enhancements to help customers understand the context and developments of the law, classify legal information in the form of headnotes and other text, maintain up-to-date and accurate...",
-    "state": "Minnesota",
+    "descriptionTeaser": "Les \u00c9ditions Yvon Blais, filiale de Thomson Reuters, est \u00e0 la recherche d\u2019un r\u00e9dacteur pour r\u00e9sumer avec exactitude les jugements s\u00e9lectionn\u00e9s en mati\u00e8re de sentences arbitrales et de ressources humai...",
+    "state": "Quebec",
     "visibilityType": "External",
     "siteType": "external",
-    "longitude": "-93.10808019999999",
+    "longitude": "-73.57233",
     "multi_category": [
       "News & Editorial Careers"
     ],
-    "reqId": "JREQ177577",
-    "jobId": "JREQ177577",
-    "city": "Eagan",
-    "latitude": "44.8527611",
+    "reqId": "JREQ178545",
+    "jobId": "JREQ178545",
+    "city": "Montreal",
+    "latitude": "45.5002876",
     "locale": "en_US",
     "multi_location": [
-      "Eagan, Minnesota, United States of America"
+      "Montreal, Quebec, Canada"
     ],
-    "title": "Attorney Editor",
-    "jobSeqNo": "THTTRUUSJREQ177577EXTERNALENUS",
-    "postedDate": "2024-04-29T00:00:00.000+0000",
-    "dateCreated": "2024-03-25T20:40:25.229+0000",
-    "cityStateCountry": "Eagan, Minnesota, United States of America",
-    "address": "2900 Ames Crossing Road, Ste 100, Eagan, MN 55121, United States of America",
+    "title": "R\u00e9dacteur juridique",
+    "jobSeqNo": "THTTRUUSJREQ178545EXTERNALENUS",
+    "postedDate": "2024-05-01T00:00:00.000+0000",
+    "dateCreated": "2024-05-01T16:40:13.515+0000",
+    "cityStateCountry": "Montreal, Quebec, Canada",
+    "address": "1010 rue Ste-Catherine Ouest, Suite 200, Montreal, QC H3B 5L1, Canada",
     "jobVisibility": [
       "external"
     ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MSP-2900-Ames-Crossing-Road/Attorney-Editor_JREQ177577/apply",
-    "location": "Eagan, Minnesota, United States of America",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CAN-Montreal-1010-rue-Ste-Catherine-O/Rdacteur-juridique_JREQ178545/apply",
+    "location": "Montreal, Quebec, Canada",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "Create editorial enhancements to help customers understand the context and developments of the law, classify legal information in the form of headnotes and other text, maintain up-to-date and accurate...",
-      "descriptionTeaser_first200": "Attorney Editor. Attorney Editors provide legal interpretation in the form of research, analysis, and writing to support the development and maintenance of information in all media. As well as ensure...",
-      "descriptionTeaser_keyword": "Attorney Editor. Attorney Editors provide legal interpretation in the form of research, analysis, and writing to support the development and maintenance of information in all media. As well as ensure...",
+      "descriptionTeaser": "Les \u00c9ditions Yvon Blais, filiale de Thomson Reuters, est \u00e0 la recherche d\u2019un r\u00e9dacteur pour r\u00e9sumer avec exactitude les jugements s\u00e9lectionn\u00e9s en mati\u00e8re de sentences arbitrales et de ressources humai...",
+      "descriptionTeaser_keyword": "R\u00e9dacteur juridique. Les \u00c9ditions Yvon Blais, filiale de Thomson Reuters, est \u00e0 la recherche d\u2019un r\u00e9dacteur pour r\u00e9sumer avec exactitude les jugements s\u00e9lectionn\u00e9s en mati\u00e8re de sentences arbitrales e...",
+      "descriptionTeaser_first200": "R\u00e9dacteur juridique. Les \u00c9ditions Yvon Blais, filiale de Thomson Reuters, est \u00e0 la recherche d\u2019un r\u00e9dacteur pour r\u00e9sumer avec exactitude les jugements s\u00e9lectionn\u00e9s en mati\u00e8re de sentences arbitrales et...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
@@ -53,10 +58,270 @@
     "multi_location_array": [
       {
         "latlong": {
-          "lon": -93.10808019999999,
-          "lat": 44.8527611
+          "lon": -73.57233,
+          "lat": 45.5002876
         },
-        "location": "Eagan, Minnesota, United States of America"
+        "location": "Montreal, Quebec, Canada"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "London",
+    "country": "United Kingdom",
+    "ml_skills": [
+      "newsletters",
+      "editing",
+      "business development",
+      "a/b testing",
+      "funding"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "You must be someone who has a track record for creating and growing well-read newsletters, enjoys collaborating across teams, has excellent story judgment, editing skills. Develop newsletter partnersh...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.0185088",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ178518",
+    "jobId": "JREQ178518",
+    "city": "London",
+    "latitude": "51.5056439",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom"
+    ],
+    "title": "Deputy Editor, Newsletters - Thomson Reuters Foundation",
+    "jobSeqNo": "THTTRUUSJREQ178518EXTERNALENUS",
+    "postedDate": "2024-04-30T00:00:00.000+0000",
+    "dateCreated": "2024-04-29T16:40:22.306+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Deputy-Editor--Newsletters_JREQ178518/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "You must be someone who has a track record for creating and growing well-read newsletters, enjoys collaborating across teams, has excellent story judgment, editing skills. Develop newsletter partnersh...",
+      "descriptionTeaser_first200": "We are looking for a talented journalism and product leader to join the Thomson Reuters Foundation\u2019s digital news platform, Context, as Deputy Editor, Newsletters. This critical role will be tasked with...",
+      "descriptionTeaser_keyword": "We are looking for a talented journalism and product leader to join the Thomson Reuters Foundation\u2019s digital news platform, Context, as Deputy Editor, Newsletters. This critical role will be tasked wi...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.0185088,
+          "lat": 51.5056439
+        },
+        "location": "London, United Kingdom"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Mumbai, Maharashtra",
+    "country": "India",
+    "ml_skills": [
+      "us accounting",
+      "state tax",
+      "tax software",
+      "income tax",
+      "financial statements"
+    ],
+    "remote": "On-Site",
+    "type": "Full time",
+    "descriptionTeaser": "Preparation of US Income Tax returns. S Corporate and Partnership Federal and State tax returns. Preparation of Individual (1040/41), Business tax, 990PF & Trust Tax return using CCH Access Tax softwa...",
+    "state": "Maharashtra",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "72.8814089",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ178363",
+    "jobId": "JREQ178363",
+    "city": "Mumbai",
+    "latitude": "19.1114368",
+    "locale": "en_US",
+    "multi_location": [
+      "Mumbai, Maharashtra, India"
+    ],
+    "title": "Process Associate",
+    "jobSeqNo": "THTTRUUSJREQ178363EXTERNALENUS",
+    "postedDate": "2024-04-30T00:00:00.000+0000",
+    "dateCreated": "2024-04-30T12:39:27.313+0000",
+    "cityStateCountry": "Mumbai, Maharashtra, India",
+    "address": "4th Flr, Dhantak Plaza, Makwana Road, Marol, Andheri East, Mumbai- 400059, Maharashtra, India",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Mumbai-Dhantak-Plaza/Process-Associate_JREQ178363/apply",
+    "location": "Mumbai, Maharashtra, India",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Preparation of US Income Tax returns. S Corporate and Partnership Federal and State tax returns. Preparation of Individual (1040/41), Business tax, 990PF & Trust Tax return using CCH Access Tax softwa...",
+      "descriptionTeaser_first200": "Thomson Reuters is looking to add a Process Associate. This challenging position requires someone to think independently, work well collaboratively across multiple disciplines, including working with...",
+      "descriptionTeaser_keyword": "Thomson Reuters is looking to add a Process Associate. This challenging position requires someone to think independently, work well collaboratively across multiple disciplines, including working with...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 72.8814089,
+          "lat": 19.1114368
+        },
+        "location": "Mumbai, Maharashtra, India"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "London",
+    "country": "United Kingdom",
+    "ml_skills": [
+      "commercial law",
+      "contract law",
+      "editing"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "As a Senior Specialist Legal Editor in Practical Law, you will use your specialist legal knowledge of corporate-commercial law to provide and maintain a wide range of Practical Law content. Creating w...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.0185088",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ177820",
+    "jobId": "JREQ177820",
+    "city": "London",
+    "latitude": "51.5056439",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom"
+    ],
+    "title": "Senior Editor, Practical Law Corporate Commercial (Scots)",
+    "jobSeqNo": "THTTRUUSJREQ177820EXTERNALENUS",
+    "postedDate": "2024-04-30T00:00:00.000+0000",
+    "dateCreated": "2024-04-30T16:40:20.396+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Senior-Editor--Practical-Law-Corporate-Commercial--Scots-_JREQ177820/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "As a Senior Specialist Legal Editor in Practical Law, you will use your specialist legal knowledge of corporate-commercial law to provide and maintain a wide range of Practical Law content. Creating w...",
+      "descriptionTeaser_first200": "Senior Specialist Legal Editor, Practical Law Corporate-Commercial (English and Scots law) . We are seeking an experienced corporate-commercial lawyer to join the Practical Law Corporate and Commercial...",
+      "descriptionTeaser_keyword": "Senior Specialist Legal Editor, Practical Law Corporate-Commercial (English and Scots law). We are seeking an experienced corporate-commercial lawyer to join the Practical Law Corporate and Commercial...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.0185088,
+          "lat": 51.5056439
+        },
+        "location": "London, United Kingdom"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "London",
+    "country": "United Kingdom",
+    "ml_skills": [
+      "editing",
+      "journalism",
+      "multimedia",
+      "audience analytics",
+      "storytelling",
+      "social media platforms",
+      "entrepreneurship"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "As Deputy Editor, Funded Projects, you will work with regional editors and our global, award-winning team of correspondents to shape the editorial direction of projects ranging from the interaction be...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.0185088",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ178353",
+    "jobId": "JREQ178353",
+    "city": "London",
+    "latitude": "51.5056439",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom"
+    ],
+    "title": "Deputy Editor, Funded Projects - Thomson Reuters Foundation",
+    "jobSeqNo": "THTTRUUSJREQ178353EXTERNALENUS",
+    "postedDate": "2024-04-30T00:00:00.000+0000",
+    "dateCreated": "2024-04-25T16:39:41.220+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Deputy-Editor--Funded-Projects_JREQ178353/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "As Deputy Editor, Funded Projects, you will work with regional editors and our global, award-winning team of correspondents to shape the editorial direction of projects ranging from the interaction be...",
+      "descriptionTeaser_first200": "At the Thomson Reuters Foundation, we are seeking a talented and experienced editor for our digital news platform, Context, to direct and manage our donor-funded editorial projects that align with our...",
+      "descriptionTeaser_keyword": "At the Thomson Reuters Foundation, we are seeking a talented and experienced editor for our digital news platform, Context, to direct and manage our donor-funded editorial projects that align with our...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.0185088,
+          "lat": 51.5056439
+        },
+        "location": "London, United Kingdom"
       }
     ],
     "isMultiCategory": true,
@@ -253,73 +518,6 @@
           "lat": -41.2859199
         },
         "location": "Wellington, New Zealand"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "London",
-    "country": "United Kingdom",
-    "ml_skills": [
-      "editing",
-      "journalism",
-      "multimedia",
-      "audience analytics",
-      "storytelling",
-      "social media platforms",
-      "entrepreneurship"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "As Deputy Editor, Funded Projects, you will work with regional editors and our global, award-winning team of correspondents to shape the editorial direction of projects ranging from the interaction be...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-0.0185088",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ178353",
-    "jobId": "JREQ178353",
-    "city": "London",
-    "latitude": "51.5056439",
-    "locale": "en_US",
-    "multi_location": [
-      "London, United Kingdom"
-    ],
-    "title": "Deputy Editor, Funded Projects",
-    "jobSeqNo": "THTTRUUSJREQ178353EXTERNALENUS",
-    "postedDate": "2024-04-25T00:00:00.000+0000",
-    "dateCreated": "2024-04-25T16:39:41.220+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Deputy-Editor--Funded-Projects_JREQ178353/apply",
-    "location": "London, United Kingdom",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "As Deputy Editor, Funded Projects, you will work with regional editors and our global, award-winning team of correspondents to shape the editorial direction of projects ranging from the interaction be...",
-      "descriptionTeaser_first200": "At the Thomson Reuters Foundation, we are seeking a talented and experienced editor for our digital news platform, Context, to direct and manage our donor-funded editorial projects that align with our...",
-      "descriptionTeaser_keyword": "At the Thomson Reuters Foundation, we are seeking a talented and experienced editor for our digital news platform, Context, to direct and manage our donor-funded editorial projects that align with our...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -0.0185088,
-          "lat": 51.5056439
-        },
-        "location": "London, United Kingdom"
       }
     ],
     "isMultiCategory": true,
@@ -1323,72 +1521,6 @@
           "lat": 40.7566955
         },
         "location": "New York, New York, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Cairo",
-    "country": "Egypt",
-    "ml_skills": [
-      "news writing",
-      "breaking news",
-      "news reporting",
-      "arabic",
-      "arabic is",
-      "persistence"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "The successful candidate will have the skill to handle breaking news, the determination to build contacts and the proven ability to generate story ideas in a country where the government is sensitive...",
-    "state": "Cairo",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "31.2357116",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ177919",
-    "jobId": "JREQ177919",
-    "city": "",
-    "latitude": "30.0444196",
-    "locale": "en_US",
-    "multi_location": [
-      "Cairo, Egypt"
-    ],
-    "title": "Egypt Correspondent, Reuters",
-    "jobSeqNo": "THTTRUUSJREQ177919EXTERNALENUS",
-    "postedDate": "2024-04-15T00:00:00.000+0000",
-    "dateCreated": "2024-04-15T16:39:35.445+0000",
-    "cityStateCountry": "Cairo, Egypt",
-    "address": "Nile City Towers, 2005c, Corniche El Nile, Nile City, Cairo, 11221, Egypt",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/EGY-Cairo-Nile-City-Towers/Egypt-Correspondent--Reuters_JREQ177919/apply",
-    "location": "Cairo, Egypt",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "The successful candidate will have the skill to handle breaking news, the determination to build contacts and the proven ability to generate story ideas in a country where the government is sensitive...",
-      "descriptionTeaser_first200": "Reuters is seeking a resourceful and energetic correspondent in Egypt to help break news and deliver initiative stories to deepen our financial, business and commodities file at an interesting moment...",
-      "descriptionTeaser_keyword": "Reuters is seeking a resourceful and energetic correspondent in Egypt to help break news and deliver initiative stories to deepen our financial, business and commodities file at an interesting moment...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 31.2357116,
-          "lat": 30.0444196
-        },
-        "location": "Cairo, Egypt"
       }
     ],
     "isMultiCategory": true,
@@ -2663,73 +2795,6 @@
     "cityState": "London",
     "country": "United Kingdom",
     "ml_skills": [
-      "photojournalism",
-      "editing",
-      "news photography",
-      "breaking news",
-      "photography",
-      "multimedia",
-      "microsoft excel"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "You will work closely with the Chief Photographer and the entire bureau, including text and TV, to ensure that global and national news of interest to Reuters editorial customers is covered in a timel...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-0.0185088",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ177569",
-    "jobId": "JREQ177569",
-    "city": "London",
-    "latitude": "51.5056439",
-    "locale": "en_US",
-    "multi_location": [
-      "London, United Kingdom"
-    ],
-    "title": "UKI Weekend Photo Assignment Editor - Reuters",
-    "jobSeqNo": "THTTRUUSJREQ177569EXTERNALENUS",
-    "postedDate": "2024-03-27T00:00:00.000+0000",
-    "dateCreated": "2024-03-27T16:40:31.163+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/UKI-Weekend-Photo-Assignment-Editor---Reuters_JREQ177569/apply",
-    "location": "London, United Kingdom",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "You will work closely with the Chief Photographer and the entire bureau, including text and TV, to ensure that global and national news of interest to Reuters editorial customers is covered in a timel...",
-      "descriptionTeaser_first200": "This hybrid role will be based in our London newsroom in Canary Wharf. We are looking to expand our picture desk and looking for a Weekend Photo Assignment Editor to help assign and coordinate our photo...",
-      "descriptionTeaser_keyword": "This hybrid role will be based in our London newsroom in Canary Wharf. We are looking to expand our picture desk and looking for a Weekend Photo Assignment Editor to help assign and coordinate our pho...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -0.0185088,
-          "lat": 51.5056439
-        },
-        "location": "London, United Kingdom"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "London",
-    "country": "United Kingdom",
-    "ml_skills": [
       "grammar",
       "research skills",
       "plc writing"
@@ -3310,72 +3375,6 @@
       "external"
     ],
     "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/Multimedia-News-Producer_JREQ174122/apply",
-    "location": "Bengaluru, Karnataka, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "You're a fit for the role of Multimedia News Producer if your background includes. Strong team player, good communication skills. Our industry-leading products and services include highly specialized...",
-      "descriptionTeaser_first200": "Multimedia News Producer. Are you a journalist who desires to be part of a news production team that can reach millions of readers in a matter of seconds? Digital Desk at Reuters in Bangalore does exactly...",
-      "descriptionTeaser_keyword": "Multimedia News Producer. Are you a journalist who desires to be part of a news production team that can reach millions of readers in a matter of seconds? Digital Desk at Reuters in Bangalore does exa...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 77.7120655,
-          "lat": 12.9743998
-        },
-        "location": "Bengaluru, Karnataka, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Bengaluru, Karnataka",
-    "country": "India",
-    "ml_skills": [
-      "entertainment multimedia",
-      "multimedia",
-      "journalism",
-      "mass communication",
-      "creativity",
-      "transparency"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "You're a fit for the role of Multimedia News Producer if your background includes. Strong team player, good communication skills. Our industry-leading products and services include highly specialized...",
-    "state": "Karnataka",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "77.7120655",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ174127",
-    "jobId": "JREQ174127",
-    "city": "Bengaluru",
-    "latitude": "12.9743998",
-    "locale": "en_US",
-    "multi_location": [
-      "Bengaluru, Karnataka, India"
-    ],
-    "title": "Multimedia News Producer",
-    "jobSeqNo": "THTTRUUSJREQ174127EXTERNALENUS",
-    "postedDate": "2024-03-12T00:00:00.000+0000",
-    "dateCreated": "2024-01-17T12:40:46.889+0000",
-    "cityStateCountry": "Bengaluru, Karnataka, India",
-    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/Multimedia-News-Producer_JREQ174127/apply",
     "location": "Bengaluru, Karnataka, India",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
