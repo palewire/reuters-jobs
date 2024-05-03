@@ -1,5 +1,163 @@
 [
   {
+    "cityState": "London",
+    "country": "United Kingdom",
+    "ml_skills": [
+      "editing",
+      "multimedia",
+      "journalism",
+      "publishing",
+      "current affairs",
+      "seo",
+      "audience analytics",
+      "film",
+      "seo-led writing",
+      "audio production",
+      "storytelling",
+      "social media platforms"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Champion collaboration across Context's regional editorial teams and areas of coverage. Solid knowledge of news, current affairs, developing stories, trends and issues relating to Context\u2019s areas of c...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.0185088",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ178531",
+    "jobId": "JREQ178531",
+    "city": "London",
+    "latitude": "51.5056439",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom"
+    ],
+    "title": "Americas Editor - Thomson Reuters Foundation",
+    "jobSeqNo": "THTTRUUSJREQ178531EXTERNALENUS",
+    "postedDate": "2024-05-02T00:00:00.000+0000",
+    "dateCreated": "2024-05-02T20:39:05.184+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Americas-Editor---Thomson-Reuters-Foundation_JREQ178531/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Champion collaboration across Context's regional editorial teams and areas of coverage. Solid knowledge of news, current affairs, developing stories, trends and issues relating to Context\u2019s areas of c...",
+      "descriptionTeaser_first200": "At the Thomson Reuters Foundation, we are seeking an experienced, multi-skilled and multimedia-savvy editor to lead our coverage of the Americas for our award-winning digital news platform, Context. Our...",
+      "descriptionTeaser_keyword": "At the Thomson Reuters Foundation, we are seeking an experienced, multi-skilled and multimedia-savvy editor to lead our coverage of the Americas for our award-winning digital news platform, Context. O...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.0185088,
+          "lat": 51.5056439
+        },
+        "location": "London, United Kingdom"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Frisco, Texas",
+    "country": "United States of America",
+    "ml_skills": [
+      "tax software",
+      "tax preparation",
+      "income tax",
+      "tax law",
+      "filing",
+      "checkpoint",
+      "csv",
+      "json",
+      "xml",
+      "xml file"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "In this role, you will analyze data files and tax software changes to make corresponding import products. You will be responsible for updating internal databases with tax changes, deploying new files...",
+    "state": "Texas",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-96.833545",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ178642",
+    "jobId": "JREQ178642",
+    "city": "Frisco",
+    "latitude": "33.1073049",
+    "locale": "en_US",
+    "multi_location": [
+      "Frisco, Texas, United States of America",
+      "Ann Arbor, Michigan, United States of America",
+      "Eagan, Minnesota, United States of America"
+    ],
+    "title": "Tax Analyst",
+    "jobSeqNo": "THTTRUUSJREQ178642EXTERNALENUS",
+    "postedDate": "2024-05-02T00:00:00.000+0000",
+    "dateCreated": "2024-05-02T20:39:05.183+0000",
+    "cityStateCountry": "Frisco, Texas, United States of America",
+    "address": "6160 Warren Parkway, Frisco, TX 75034, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Frisco-6160-Warren-Parkway/Tax-Analyst_JREQ178642-1/apply",
+    "location": "Frisco, Texas, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "In this role, you will analyze data files and tax software changes to make corresponding import products. You will be responsible for updating internal databases with tax changes, deploying new files...",
+      "descriptionTeaser_first200": "Tax Analyst. Role Summary. As a Tax Analyst you will participate in the development and testing of our tax import products using in-house development tools. In this role, you will analyze data files and...",
+      "descriptionTeaser_keyword": "Tax Analyst. Role Summary. As a Tax Analyst you will participate in the development and testing of our tax import products using in-house development tools. In this role, you will analyze data files a...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -96.833545,
+          "lat": 33.1073049
+        },
+        "location": "Frisco, Texas, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -83.7267835,
+          "lat": 42.1957259
+        },
+        "location": "Ann Arbor, Michigan, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -93.10808019999999,
+          "lat": 44.8527611
+        },
+        "location": "Eagan, Minnesota, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Mumbai, Maharashtra",
     "country": "India",
     "ml_skills": [],
@@ -790,70 +948,6 @@
     "badge": ""
   },
   {
-    "cityState": "Eagan, Minnesota",
-    "country": "United States of America",
-    "ml_skills": [
-      "content creation",
-      "synopsis",
-      "quality control",
-      "troubleshooting"
-    ],
-    "remote": "Remote",
-    "type": "Full time",
-    "descriptionTeaser": "The Compliance Editor/Attorney Editor provides regulatory and compliance interpretation in the form of analysis, writing, and research, to support the acquisition and/or production of compliance infor...",
-    "state": "Minnesota",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-93.10808019999999",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ178168",
-    "jobId": "JREQ178168",
-    "city": "Eagan",
-    "latitude": "44.8527611",
-    "locale": "en_US",
-    "multi_location": [
-      "Eagan, Minnesota, United States of America"
-    ],
-    "title": "Compliance Attorney Editor/Compliance Editor",
-    "jobSeqNo": "THTTRUUSJREQ178168EXTERNALENUS",
-    "postedDate": "2024-04-24T00:00:00.000+0000",
-    "dateCreated": "2024-04-24T16:39:05.384+0000",
-    "cityStateCountry": "Eagan, Minnesota, United States of America",
-    "address": "2900 Ames Crossing Road, Ste 100, Eagan, MN 55121, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MSP-2900-Ames-Crossing-Road/Compliance-Attorney-Editor-Compliance-Editor_JREQ178168/apply",
-    "location": "Eagan, Minnesota, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "The Compliance Editor/Attorney Editor provides regulatory and compliance interpretation in the form of analysis, writing, and research, to support the acquisition and/or production of compliance infor...",
-      "descriptionTeaser_first200": "Thomson Reuters is a global leader in providing essential information to the world's businesses and professionals in Law, Financial Services, Tax and Corporates. With our deep expertise and understanding...",
-      "descriptionTeaser_keyword": "Thomson Reuters is a global leader in providing essential information to the world's businesses and professionals in Law, Financial Services, Tax and Corporates. With our deep expertise and understand...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -93.10808019999999,
-          "lat": 44.8527611
-        },
-        "location": "Eagan, Minnesota, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Gdansk",
     "country": "Poland",
     "ml_skills": [
@@ -911,6 +1005,70 @@
           "lat": 54.4004235
         },
         "location": "Gdansk, Poland"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Eagan, Minnesota",
+    "country": "United States of America",
+    "ml_skills": [
+      "content creation",
+      "synopsis",
+      "quality control",
+      "troubleshooting"
+    ],
+    "remote": "Remote",
+    "type": "Full time",
+    "descriptionTeaser": "The Compliance Editor/Attorney Editor provides regulatory and compliance interpretation in the form of analysis, writing, and research, to support the acquisition and/or production of compliance infor...",
+    "state": "Minnesota",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-93.10808019999999",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ178168",
+    "jobId": "JREQ178168",
+    "city": "Eagan",
+    "latitude": "44.8527611",
+    "locale": "en_US",
+    "multi_location": [
+      "Eagan, Minnesota, United States of America"
+    ],
+    "title": "Compliance Attorney Editor/Compliance Editor",
+    "jobSeqNo": "THTTRUUSJREQ178168EXTERNALENUS",
+    "postedDate": "2024-04-24T00:00:00.000+0000",
+    "dateCreated": "2024-04-24T16:39:05.384+0000",
+    "cityStateCountry": "Eagan, Minnesota, United States of America",
+    "address": "2900 Ames Crossing Road, Ste 100, Eagan, MN 55121, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MSP-2900-Ames-Crossing-Road/Compliance-Attorney-Editor-Compliance-Editor_JREQ178168/apply",
+    "location": "Eagan, Minnesota, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "The Compliance Editor/Attorney Editor provides regulatory and compliance interpretation in the form of analysis, writing, and research, to support the acquisition and/or production of compliance infor...",
+      "descriptionTeaser_first200": "Thomson Reuters is a global leader in providing essential information to the world's businesses and professionals in Law, Financial Services, Tax and Corporates. With our deep expertise and understanding...",
+      "descriptionTeaser_keyword": "Thomson Reuters is a global leader in providing essential information to the world's businesses and professionals in Law, Financial Services, Tax and Corporates. With our deep expertise and understand...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -93.10808019999999,
+          "lat": 44.8527611
+        },
+        "location": "Eagan, Minnesota, United States of America"
       }
     ],
     "isMultiCategory": true,
