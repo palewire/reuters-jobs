@@ -1,5 +1,135 @@
 [
   {
+    "cityState": "Toronto, Ontario",
+    "country": "Canada",
+    "ml_skills": [
+      "publishing",
+      "seo",
+      "multimedia",
+      "google analytics",
+      "analytics tools"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Experience working in a role that requires a good understanding of audience needs (including experience with SEO or digital audience behavior, and the ability to interpret and respond to data). Use da...",
+    "state": "Ontario",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-79.3884094",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ178670",
+    "jobId": "JREQ178670",
+    "city": "Toronto",
+    "latitude": "43.6480117",
+    "locale": "en_US",
+    "multi_location": [
+      "Toronto, Ontario, Canada"
+    ],
+    "title": "Audience Producer",
+    "jobSeqNo": "THTTRUUSJREQ178670EXTERNALENUS",
+    "postedDate": "2024-05-09T00:00:00.000+0000",
+    "dateCreated": "2024-05-09T16:40:01.653+0000",
+    "cityStateCountry": "Toronto, Ontario, Canada",
+    "address": "19 Duncan Street, Toronto, ON M5H 3H1, Canada",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CAN-Toronto-19-Duncan-Street/Audience-Producer_JREQ178670/apply",
+    "location": "Toronto, Ontario, Canada",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Experience working in a role that requires a good understanding of audience needs (including experience with SEO or digital audience behavior, and the ability to interpret and respond to data). Use da...",
+      "descriptionTeaser_first200": "The Reuters Audience team is hiring a team of Audience Producers around the world to contribute to the growth of international readership to Reuters.com and the Reuters app. This role will be responsible...",
+      "descriptionTeaser_keyword": "The Reuters Audience team is hiring a team of Audience Producers around the world to contribute to the growth of international readership to Reuters. com and the Reuters app. This role will be respons...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -79.3884094,
+          "lat": 43.6480117
+        },
+        "location": "Toronto, Ontario, Canada"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "London",
+    "country": "United Kingdom",
+    "ml_skills": [
+      "publishing",
+      "seo",
+      "multimedia",
+      "google analytics",
+      "analytics tools"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Use data and analytics tools to develop a deeper understanding of the current Reuters audience, and create regular data reports with actionable insights. Experience working in a role that requires a g...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.0185088",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ178674",
+    "jobId": "JREQ178674",
+    "city": "London",
+    "latitude": "51.5056439",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom"
+    ],
+    "title": "Audience Producer",
+    "jobSeqNo": "THTTRUUSJREQ178674EXTERNALENUS",
+    "postedDate": "2024-05-09T00:00:00.000+0000",
+    "dateCreated": "2024-05-09T16:40:01.660+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Audience-Producer_JREQ178674-1/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Use data and analytics tools to develop a deeper understanding of the current Reuters audience, and create regular data reports with actionable insights. Experience working in a role that requires a g...",
+      "descriptionTeaser_first200": "The Reuters Audience team is hiring a team of Audience Producers around the world to contribute to the growth of international readership to Reuters.com and the Reuters app. This role will be responsible...",
+      "descriptionTeaser_keyword": "The Reuters Audience team is hiring a team of Audience Producers around the world to contribute to the growth of international readership to Reuters. com and the Reuters app. This role will be respons...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.0185088,
+          "lat": 51.5056439
+        },
+        "location": "London, United Kingdom"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Bengaluru, Karnataka",
     "country": "India",
     "ml_skills": [
@@ -169,6 +299,77 @@
           "lat": 54.4004235
         },
         "location": "Gdansk, Poland"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "London",
+    "country": "United Kingdom",
+    "ml_skills": [
+      "digital media",
+      "editing",
+      "multimedia"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "The Newsletter Producer \u2013 which sits within the Audience team \u2013 will also work on giving newsletter guidance to authors and editors. Analyze relevant data and metrics of newsletters on a regular basis...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.0185088",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ178568",
+    "jobId": "JREQ178568",
+    "city": "London",
+    "latitude": "51.5056439",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom",
+      "Bengaluru, Karnataka, India"
+    ],
+    "title": "Audience Producer, Newsletters & Notifications",
+    "jobSeqNo": "THTTRUUSJREQ178568EXTERNALENUS",
+    "postedDate": "2024-05-09T00:00:00.000+0000",
+    "dateCreated": "2024-05-09T16:40:01.654+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Audience-Producer--Newsletters---Notifications_JREQ178568/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "The Newsletter Producer \u2013 which sits within the Audience team \u2013 will also work on giving newsletter guidance to authors and editors. Analyze relevant data and metrics of newsletters on a regular basis...",
+      "descriptionTeaser_first200": "With a portfolio of 18 newsletters and hundreds of thousands of subscribers, Reuters has a growing audience of readers finding our journalism in their inboxes. The Newsletter & Notification Producer will...",
+      "descriptionTeaser_keyword": "With a portfolio of 18 newsletters and hundreds of thousands of subscribers, Reuters has a growing audience of readers finding our journalism in their inboxes. The Newsletter & Notification Producer w...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.0185088,
+          "lat": 51.5056439
+        },
+        "location": "London, United Kingdom"
+      },
+      {
+        "latlong": {
+          "lon": 77.7120655,
+          "lat": 12.9743998
+        },
+        "location": "Bengaluru, Karnataka, India"
       }
     ],
     "isMultiCategory": true,
@@ -2393,78 +2594,6 @@
     "badge": ""
   },
   {
-    "cityState": "Shanghai, Shanghai",
-    "country": "China",
-    "ml_skills": [
-      "visual journalism",
-      "photography",
-      "editing",
-      "photojournalism",
-      "multimedia",
-      "breaking news",
-      "video shooting",
-      "english is",
-      "chinese",
-      "mandarin",
-      "digital visual technologies",
-      "storytelling"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Reuters Pictures is looking for a dynamic and talented Visual Journalist experienced in photojournalism and with video skills or the desire to learn, to be based in Shanghai, China, one of Asia\u2019s most...",
-    "state": "Shanghai",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "121.504161",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ177568",
-    "jobId": "JREQ177568",
-    "city": "Shanghai",
-    "latitude": "31.24097799999999",
-    "locale": "en_US",
-    "multi_location": [
-      "Shanghai, Shanghai, China"
-    ],
-    "title": "Visual Journalist, China - Reuters",
-    "jobSeqNo": "THTTRUUSJREQ177568EXTERNALENUS",
-    "postedDate": "2024-04-11T00:00:00.000+0000",
-    "dateCreated": "2024-04-11T08:40:00.753+0000",
-    "cityStateCountry": "Shanghai, Shanghai, China",
-    "address": "Unit 4, 30th Floor Azia Centre, 1233 Lujiazui Ring Road Lujiazui Huan Road, Shanghai, 200120 Shanghai, China",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CHN-Shanghai-Azia-Centre-30F/Visual-Journalist--China---Reuters_JREQ177568/apply",
-    "location": "Shanghai, Shanghai, China",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Reuters Pictures is looking for a dynamic and talented Visual Journalist experienced in photojournalism and with video skills or the desire to learn, to be based in Shanghai, China, one of Asia\u2019s most...",
-      "descriptionTeaser_first200": "Visual Journalist. Reuters Pictures is looking for a dynamic and talented Visual Journalist experienced in photojournalism and with video skills or the desire to learn, to be based in Shanghai, China,...",
-      "descriptionTeaser_keyword": "Visual Journalist. Reuters Pictures is looking for a dynamic and talented Visual Journalist experienced in photojournalism and with video skills or the desire to learn, to be based in Shanghai, China,...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 121.504161,
-          "lat": 31.24097799999999
-        },
-        "location": "Shanghai, Shanghai, China"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "London",
     "country": "United Kingdom",
     "ml_skills": [
@@ -2517,6 +2646,78 @@
           "lat": 51.5056439
         },
         "location": "London, United Kingdom"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Shanghai, Shanghai",
+    "country": "China",
+    "ml_skills": [
+      "visual journalism",
+      "photography",
+      "editing",
+      "photojournalism",
+      "multimedia",
+      "breaking news",
+      "video shooting",
+      "english is",
+      "chinese",
+      "mandarin",
+      "digital visual technologies",
+      "storytelling"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Reuters Pictures is looking for a dynamic and talented Visual Journalist experienced in photojournalism and with video skills or the desire to learn, to be based in Shanghai, China, one of Asia\u2019s most...",
+    "state": "Shanghai",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "121.504161",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ177568",
+    "jobId": "JREQ177568",
+    "city": "Shanghai",
+    "latitude": "31.24097799999999",
+    "locale": "en_US",
+    "multi_location": [
+      "Shanghai, Shanghai, China"
+    ],
+    "title": "Visual Journalist, China - Reuters",
+    "jobSeqNo": "THTTRUUSJREQ177568EXTERNALENUS",
+    "postedDate": "2024-04-11T00:00:00.000+0000",
+    "dateCreated": "2024-04-11T08:40:00.753+0000",
+    "cityStateCountry": "Shanghai, Shanghai, China",
+    "address": "Azia Centre, 11F, Unit 1105A & 1106, No. 1233 Lujiazui Ring Rd, Pudong, Shanghai, 200120 Shanghai, China",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CHN-Shanghai-Azia-Centre/Visual-Journalist--China---Reuters_JREQ177568/apply",
+    "location": "Shanghai, Shanghai, China",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Reuters Pictures is looking for a dynamic and talented Visual Journalist experienced in photojournalism and with video skills or the desire to learn, to be based in Shanghai, China, one of Asia\u2019s most...",
+      "descriptionTeaser_first200": "Visual Journalist. Reuters Pictures is looking for a dynamic and talented Visual Journalist experienced in photojournalism and with video skills or the desire to learn, to be based in Shanghai, China,...",
+      "descriptionTeaser_keyword": "Visual Journalist. Reuters Pictures is looking for a dynamic and talented Visual Journalist experienced in photojournalism and with video skills or the desire to learn, to be based in Shanghai, China,...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 121.504161,
+          "lat": 31.24097799999999
+        },
+        "location": "Shanghai, Shanghai, China"
       }
     ],
     "isMultiCategory": true,
