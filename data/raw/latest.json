@@ -1,5 +1,70 @@
 [
   {
+    "cityState": "Singapore",
+    "country": "Singapore",
+    "ml_skills": [
+      "publishing",
+      "seo",
+      "multimedia",
+      "google analytics",
+      "analytics tools"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Use data and analytics tools to develop a deeper understanding of the current Reuters audience, and create regular data reports with actionable insights. Experience working in a role that requires a g...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "103.792796",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ178668",
+    "jobId": "JREQ178668",
+    "city": "Singapore",
+    "latitude": "1.2938815",
+    "locale": "en_US",
+    "multi_location": [
+      "Singapore, Singapore"
+    ],
+    "title": "Audience Producer",
+    "jobSeqNo": "THTTRUUSJREQ178668EXTERNALENUS",
+    "postedDate": "2024-05-09T00:00:00.000+0000",
+    "dateCreated": "2024-05-09T04:40:16.293+0000",
+    "cityStateCountry": "Singapore, Singapore",
+    "address": "ALICE@Mediapolis, 29 Media Circle,  #09-05, Singapore 138565, Singapore",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/SGP-Singapore-ALICEMediapolis/Audience-Producer_JREQ178668/apply",
+    "location": "Singapore, Singapore",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Use data and analytics tools to develop a deeper understanding of the current Reuters audience, and create regular data reports with actionable insights. Experience working in a role that requires a g...",
+      "descriptionTeaser_first200": "The Reuters Audience team is hiring a team of Audience Producers around the world to contribute to the growth of international readership to Reuters.com and the Reuters app. This Asia-based role will...",
+      "descriptionTeaser_keyword": "The Reuters Audience team is hiring a team of Audience Producers around the world to contribute to the growth of international readership to Reuters. com and the Reuters app. This Asia-based role will...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 103.792796,
+          "lat": 1.2938815
+        },
+        "location": "Singapore, Singapore"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Hyderabad, Telangana",
     "country": "India",
     "ml_skills": [
