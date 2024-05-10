@@ -327,58 +327,6 @@
     "badge": ""
   },
   {
-    "cityState": "Gdansk",
-    "country": "Poland",
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "You and your team: Reuters is seeking candidates who can speak fluent English and Spanish to join its real-time news operation in Gdansk. The reporters will work in fast-paced, international environme",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "18.5752702",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ177274",
-    "jobId": "JREQ177274",
-    "city": "Gdansk",
-    "latitude": "54.4004235",
-    "locale": "en_US",
-    "multi_location": [
-      "Gdansk, Poland"
-    ],
-    "title": "News Reporter/Translator with Spanish",
-    "jobSeqNo": "THTTRUUSJREQ177274EXTERNALENUS",
-    "postedDate": "2024-05-09T00:00:00.000+0000",
-    "dateCreated": "2024-03-14T12:40:36.534+0000",
-    "cityStateCountry": "Gdansk, Poland",
-    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/News-Reporter-Translator-with-Spanish_JREQ177274/apply",
-    "location": "Gdansk, Poland",
-    "category": "News & Editorial Careers",
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 18.5752702,
-          "lat": 54.4004235
-        },
-        "location": "Gdansk, Poland"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "London",
     "country": "United Kingdom",
     "ml_skills": [
@@ -439,6 +387,71 @@
           "lat": 12.9743998
         },
         "location": "Bengaluru, Karnataka, India"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Gdansk",
+    "country": "Poland",
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Reuters is seeking candidates who can speak fluent English and Spanish to join its real-time news operation in Gdansk. Translating market reports, stories from English to Spanish. Writing headlines an...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "18.5752702",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ177274",
+    "jobId": "JREQ177274",
+    "city": "Gdansk",
+    "latitude": "54.4004235",
+    "locale": "en_US",
+    "multi_location": [
+      "Gdansk, Poland"
+    ],
+    "title": "News Reporter/Translator with Spanish",
+    "jobSeqNo": "THTTRUUSJREQ177274EXTERNALENUS",
+    "postedDate": "2024-05-09T00:00:00.000+0000",
+    "dateCreated": "2024-03-14T12:40:36.534+0000",
+    "cityStateCountry": "Gdansk, Poland",
+    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/News-Reporter-Translator-with-Spanish_JREQ177274/apply",
+    "location": "Gdansk, Poland",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "ml_skills": [
+      "vocabulary",
+      "graphics",
+      "multimedia",
+      "financial data",
+      "financial software"
+    ],
+    "ml_job_parser": {
+      "descriptionTeaser": "Reuters is seeking candidates who can speak fluent English and Spanish to join its real-time news operation in Gdansk. Translating market reports, stories from English to Spanish. Writing headlines an...",
+      "descriptionTeaser_keyword": "You and your team. Reuters is seeking candidates who can speak fluent English and Spanish to join its real-time news operation in Gdansk. The reporters will work in fast-paced, international environme...",
+      "descriptionTeaser_ats": "",
+      "descriptionTeaser_first200": "You and your team. Reuters is seeking candidates who can speak fluent English and Spanish to join its real-time news operation in Gdansk. The reporters will work in fast-paced, international environment..."
+    },
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 18.5752702,
+          "lat": 54.4004235
+        },
+        "location": "Gdansk, Poland"
       }
     ],
     "isMultiCategory": true,
