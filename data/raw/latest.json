@@ -527,6 +527,68 @@
     "badge": ""
   },
   {
+    "cityState": "Dubai",
+    "country": "United Arab Emirates",
+    "ml_skills": [
+      "arabic",
+      "research skills"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "As part of our Middle East expansion, we are seeking a legal editor with business level written Arabic and knowledge of UAE law to join the Practical Law team in Dubai. Liaising with others in the tea...",
+    "state": "Dubai",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "55.1575893",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ178636",
+    "jobId": "JREQ178636",
+    "city": "",
+    "latitude": "25.0961362",
+    "locale": "en_US",
+    "multi_location": [
+      "Dubai, United Arab Emirates"
+    ],
+    "title": "Legal Editor",
+    "jobSeqNo": "THTTRUUSJREQ178636EXTERNALENUS",
+    "postedDate": "2024-05-07T00:00:00.000+0000",
+    "dateCreated": "2024-05-07T12:39:48.973+0000",
+    "cityStateCountry": "Dubai, United Arab Emirates",
+    "address": "Reuters Ltd, Office 501, Building 1, 5th Floor Dubai Media City, Dubai, United Arab Emirates",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/ARE-Dubai-Dubai-Media-City/Legal-Editor_JREQ178636/apply",
+    "location": "Dubai, United Arab Emirates",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "As part of our Middle East expansion, we are seeking a legal editor with business level written Arabic and knowledge of UAE law to join the Practical Law team in Dubai. Liaising with others in the tea...",
+      "descriptionTeaser_first200": "LEGAL EDITOR. As part of our Middle East expansion, we are seeking a legal editor with business level written Arabic and knowledge of UAE law to join the Practical Law team in Dubai. Practical Law is...",
+      "descriptionTeaser_keyword": "LEGAL EDITOR. As part of our Middle East expansion, we are seeking a legal editor with business level written Arabic and knowledge of UAE law to join the Practical Law team in Dubai. Practical Law is...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 55.1575893,
+          "lat": 25.0961362
+        },
+        "location": "Dubai, United Arab Emirates"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Hyderabad, Telangana",
     "country": "India",
     "ml_skills": [
@@ -580,68 +642,6 @@
           "lat": 17.438325
         },
         "location": "Hyderabad, Telangana, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Dubai",
-    "country": "United Arab Emirates",
-    "ml_skills": [
-      "arabic",
-      "research skills"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "As part of our Middle East expansion, we are seeking a legal editor with business level written Arabic and knowledge of UAE law to join the Practical Law team in Dubai. Liaising with others in the tea...",
-    "state": "Dubai",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "55.1575893",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ178636",
-    "jobId": "JREQ178636",
-    "city": "",
-    "latitude": "25.0961362",
-    "locale": "en_US",
-    "multi_location": [
-      "Dubai, United Arab Emirates"
-    ],
-    "title": "Legal Editor",
-    "jobSeqNo": "THTTRUUSJREQ178636EXTERNALENUS",
-    "postedDate": "2024-05-07T00:00:00.000+0000",
-    "dateCreated": "2024-05-07T12:39:48.973+0000",
-    "cityStateCountry": "Dubai, United Arab Emirates",
-    "address": "Reuters Ltd, Office 501, Building 1, 5th Floor Dubai Media City, Dubai, United Arab Emirates",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/ARE-Dubai-Dubai-Media-City/Legal-Editor_JREQ178636/apply",
-    "location": "Dubai, United Arab Emirates",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "As part of our Middle East expansion, we are seeking a legal editor with business level written Arabic and knowledge of UAE law to join the Practical Law team in Dubai. Liaising with others in the tea...",
-      "descriptionTeaser_first200": "LEGAL EDITOR. As part of our Middle East expansion, we are seeking a legal editor with business level written Arabic and knowledge of UAE law to join the Practical Law team in Dubai. Practical Law is...",
-      "descriptionTeaser_keyword": "LEGAL EDITOR. As part of our Middle East expansion, we are seeking a legal editor with business level written Arabic and knowledge of UAE law to join the Practical Law team in Dubai. Practical Law is...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 55.1575893,
-          "lat": 25.0961362
-        },
-        "location": "Dubai, United Arab Emirates"
       }
     ],
     "isMultiCategory": true,
