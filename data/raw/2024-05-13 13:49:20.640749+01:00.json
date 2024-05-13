@@ -1,5 +1,68 @@
 [
   {
+    "cityState": "Washington, District of Columbia",
+    "country": "United States of America",
+    "ml_skills": [
+      "breaking news",
+      "multimedia",
+      "dslr"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Produce, edit, write, and deliver compelling and creative video stories and live coverage on breaking news stories. Work closely with multimedia and video packaging teams to produce comprehensive repo...",
+    "state": "District of Columbia",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-77.0311952",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ177548",
+    "jobId": "JREQ177548",
+    "city": "Washington",
+    "latitude": "38.9004793",
+    "locale": "en_US",
+    "multi_location": [
+      "Washington, District of Columbia, United States of America"
+    ],
+    "title": "VJ/Cameraperson, Atlanta (Level 1 Journalist - Temp Guild)",
+    "jobSeqNo": "THTTRUUSJREQ177548EXTERNALENUS",
+    "postedDate": "2024-05-13T00:00:00.000+0000",
+    "dateCreated": "2024-03-26T20:41:39.205+0000",
+    "cityStateCountry": "Washington, District of Columbia, United States of America",
+    "address": "1333 H Street NW, Suite 500, Washington, DC 20005, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Washington-1333-H-Street-N/VJ-Cameraperson--Level-1-Journalist---Temp-Guild-_JREQ177548/apply",
+    "location": "Washington, District of Columbia, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Produce, edit, write, and deliver compelling and creative video stories and live coverage on breaking news stories. Work closely with multimedia and video packaging teams to produce comprehensive repo...",
+      "descriptionTeaser_first200": "VJ/Cameraperson, Atlanta (Level 1 Journalist - Temp Guild). Reuters Video News is looking for dynamic and talented Video Journalist/Cameraperson for a TEMPORARY position based in Atlanta, Georgia. About...",
+      "descriptionTeaser_keyword": "VJ/Cameraperson, Atlanta (Level 1 Journalist - Temp Guild). Reuters Video News is looking for dynamic and talented Video Journalist/Cameraperson for a TEMPORARY position based in Atlanta, Georgia. Abo...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -77.0311952,
+          "lat": 38.9004793
+        },
+        "location": "Washington, District of Columbia, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "S\u00e3o Paulo, S\u00e3o Paulo",
     "country": "Brazil",
     "ml_skills": [
@@ -527,68 +590,6 @@
     "badge": ""
   },
   {
-    "cityState": "Dubai",
-    "country": "United Arab Emirates",
-    "ml_skills": [
-      "arabic",
-      "research skills"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "As part of our Middle East expansion, we are seeking a legal editor with business level written Arabic and knowledge of UAE law to join the Practical Law team in Dubai. Liaising with others in the tea...",
-    "state": "Dubai",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "55.1575893",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ178636",
-    "jobId": "JREQ178636",
-    "city": "",
-    "latitude": "25.0961362",
-    "locale": "en_US",
-    "multi_location": [
-      "Dubai, United Arab Emirates"
-    ],
-    "title": "Legal Editor",
-    "jobSeqNo": "THTTRUUSJREQ178636EXTERNALENUS",
-    "postedDate": "2024-05-07T00:00:00.000+0000",
-    "dateCreated": "2024-05-07T12:39:48.973+0000",
-    "cityStateCountry": "Dubai, United Arab Emirates",
-    "address": "Reuters Ltd, Office 501, Building 1, 5th Floor Dubai Media City, Dubai, United Arab Emirates",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/ARE-Dubai-Dubai-Media-City/Legal-Editor_JREQ178636/apply",
-    "location": "Dubai, United Arab Emirates",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "As part of our Middle East expansion, we are seeking a legal editor with business level written Arabic and knowledge of UAE law to join the Practical Law team in Dubai. Liaising with others in the tea...",
-      "descriptionTeaser_first200": "LEGAL EDITOR. As part of our Middle East expansion, we are seeking a legal editor with business level written Arabic and knowledge of UAE law to join the Practical Law team in Dubai. Practical Law is...",
-      "descriptionTeaser_keyword": "LEGAL EDITOR. As part of our Middle East expansion, we are seeking a legal editor with business level written Arabic and knowledge of UAE law to join the Practical Law team in Dubai. Practical Law is...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 55.1575893,
-          "lat": 25.0961362
-        },
-        "location": "Dubai, United Arab Emirates"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Hyderabad, Telangana",
     "country": "India",
     "ml_skills": [
@@ -642,6 +643,68 @@
           "lat": 17.438325
         },
         "location": "Hyderabad, Telangana, India"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Dubai",
+    "country": "United Arab Emirates",
+    "ml_skills": [
+      "arabic",
+      "research skills"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "As part of our Middle East expansion, we are seeking a legal editor with business level written Arabic and knowledge of UAE law to join the Practical Law team in Dubai. Liaising with others in the tea...",
+    "state": "Dubai",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "55.1575893",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ178636",
+    "jobId": "JREQ178636",
+    "city": "",
+    "latitude": "25.0961362",
+    "locale": "en_US",
+    "multi_location": [
+      "Dubai, United Arab Emirates"
+    ],
+    "title": "Legal Editor",
+    "jobSeqNo": "THTTRUUSJREQ178636EXTERNALENUS",
+    "postedDate": "2024-05-07T00:00:00.000+0000",
+    "dateCreated": "2024-05-07T12:39:48.973+0000",
+    "cityStateCountry": "Dubai, United Arab Emirates",
+    "address": "Reuters Ltd, Office 501, Building 1, 5th Floor Dubai Media City, Dubai, United Arab Emirates",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/ARE-Dubai-Dubai-Media-City/Legal-Editor_JREQ178636/apply",
+    "location": "Dubai, United Arab Emirates",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "As part of our Middle East expansion, we are seeking a legal editor with business level written Arabic and knowledge of UAE law to join the Practical Law team in Dubai. Liaising with others in the tea...",
+      "descriptionTeaser_first200": "LEGAL EDITOR. As part of our Middle East expansion, we are seeking a legal editor with business level written Arabic and knowledge of UAE law to join the Practical Law team in Dubai. Practical Law is...",
+      "descriptionTeaser_keyword": "LEGAL EDITOR. As part of our Middle East expansion, we are seeking a legal editor with business level written Arabic and knowledge of UAE law to join the Practical Law team in Dubai. Practical Law is...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 55.1575893,
+          "lat": 25.0961362
+        },
+        "location": "Dubai, United Arab Emirates"
       }
     ],
     "isMultiCategory": true,
@@ -908,77 +971,6 @@
           "lat": 44.8527611
         },
         "location": "Eagan, Minnesota, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "London",
-    "country": "United Kingdom",
-    "ml_skills": [
-      "editing",
-      "breaking news",
-      "graphics",
-      "video editing software",
-      "publishing",
-      "video editing",
-      "multimedia",
-      "web publishing",
-      "content management",
-      "captions",
-      "web publishing software"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Work on combining and/or creating text, video, photo and graphics posts, and editing as needed. Be a resourceful researcher who on days when no Live Page is published can news plan and generate ideas...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-0.0185088",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ177624",
-    "jobId": "JREQ177624",
-    "city": "London",
-    "latitude": "51.5056439",
-    "locale": "en_US",
-    "multi_location": [
-      "London, United Kingdom"
-    ],
-    "title": "Live Pages Journalist, Reuters",
-    "jobSeqNo": "THTTRUUSJREQ177624EXTERNALENUS",
-    "postedDate": "2024-05-03T00:00:00.000+0000",
-    "dateCreated": "2024-04-24T08:40:24.234+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Live-Pages-Journalist--Reuters_JREQ177624/apply",
-    "location": "London, United Kingdom",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Work on combining and/or creating text, video, photo and graphics posts, and editing as needed. Be a resourceful researcher who on days when no Live Page is published can news plan and generate ideas...",
-      "descriptionTeaser_first200": "Are you a versatile multimedia journalist with excellent writing skills? Do you have a startup mindset? If so, you might be an ideal candidate to join the newly created Live Coverage team at Reuters....",
-      "descriptionTeaser_keyword": "Are you a versatile multimedia journalist with excellent writing skills? Do you have a startup mindset? If so, you might be an ideal candidate to join the newly created Live Coverage team at Reuters....",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -0.0185088,
-          "lat": 51.5056439
-        },
-        "location": "London, United Kingdom"
       }
     ],
     "isMultiCategory": true,
@@ -2243,69 +2235,6 @@
     "multi_category": [
       "News & Editorial Careers"
     ],
-    "reqId": "JREQ170342",
-    "jobId": "JREQ170342",
-    "city": "Mumbai",
-    "latitude": "19.1114368",
-    "locale": "en_US",
-    "multi_location": [
-      "Mumbai, Maharashtra, India"
-    ],
-    "title": "Sr. Tax Executive",
-    "jobSeqNo": "THTTRUUSJREQ170342EXTERNALENUS",
-    "postedDate": "2024-04-18T00:00:00.000+0000",
-    "dateCreated": "2023-07-13T08:41:23.157+0000",
-    "cityStateCountry": "Mumbai, Maharashtra, India",
-    "address": "4th Flr, Dhantak Plaza, Makwana Road, Marol, Andheri East, Mumbai- 400059, Maharashtra, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Mumbai-Dhantak-Plaza/Sr-Tax-Executive_JREQ170342/apply",
-    "location": "Mumbai, Maharashtra, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Entry level professional roles requiring a discipline specific degree or the equivalent work experience that provides knowledge and exposure to fundamental theories, principles and concepts. General p...",
-      "descriptionTeaser_first200": "Thomson Reuters is looking to add a Senior Tax Executive. This challenging position requires someone to think independently, work well collaboratively across multiple disciplines, including working with...",
-      "descriptionTeaser_keyword": "Thomson Reuters is looking to add a Senior Tax Executive. This challenging position requires someone to think independently, work well collaboratively across multiple disciplines, including working wi...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 72.8814089,
-          "lat": 19.1114368
-        },
-        "location": "Mumbai, Maharashtra, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Mumbai, Maharashtra",
-    "country": "India",
-    "ml_skills": [
-      "tax research",
-      "state income tax",
-      "gosystem"
-    ],
-    "remote": "On-Site",
-    "type": "Full time",
-    "descriptionTeaser": "Entry level professional roles requiring a discipline specific degree or the equivalent work experience that provides knowledge and exposure to fundamental theories, principles and concepts. General p...",
-    "state": "Maharashtra",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "72.8814089",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
     "reqId": "JREQ170346",
     "jobId": "JREQ170346",
     "city": "Mumbai",
@@ -2471,68 +2400,6 @@
           "lat": 54.4004235
         },
         "location": "Gdansk, Poland"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "New York, New York",
-    "country": "United States of America",
-    "ml_skills": [
-      "breaking news",
-      "financial services"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "We would prefer some experience of reporting the insurance or at least financial services sector, but of greater importance is a demonstrable track record of picking up reporting beats involving techn...",
-    "state": "New York",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-73.9866995",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ177920",
-    "jobId": "JREQ177920",
-    "city": "New York",
-    "latitude": "40.7566955",
-    "locale": "en_US",
-    "multi_location": [
-      "New York, New York, United States of America"
-    ],
-    "title": "U.S. Reporter (Level 1 Journalist), The Insurer, Reuters",
-    "jobSeqNo": "THTTRUUSJREQ177920EXTERNALENUS",
-    "postedDate": "2024-04-16T00:00:00.000+0000",
-    "dateCreated": "2024-04-16T12:39:05.368+0000",
-    "cityStateCountry": "New York, New York, United States of America",
-    "address": "3 Times Square, New York, NY 10036, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-New-York-3-Times-Square/US-Reporter--Level-1-Journalist---The-Insurer--Reuters_JREQ177920/apply",
-    "location": "New York, New York, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "We would prefer some experience of reporting the insurance or at least financial services sector, but of greater importance is a demonstrable track record of picking up reporting beats involving techn...",
-      "descriptionTeaser_first200": "U.S. Reporter (Level 1 Journalist), The Insurer, Reuters. Looking for a new challenge? Want to cover a vibrant segment of the financial services sector as part of the Thomson Reuters organization? If...",
-      "descriptionTeaser_keyword": "U. S. Reporter (Level 1 Journalist), The Insurer, Reuters. Looking for a new challenge? Want to cover a vibrant segment of the financial services sector as part of the Thomson Reuters organization? If...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -73.9866995,
-          "lat": 40.7566955
-        },
-        "location": "New York, New York, United States of America"
       }
     ],
     "isMultiCategory": true,
@@ -2739,78 +2606,6 @@
     "badge": ""
   },
   {
-    "cityState": "Shanghai, Shanghai",
-    "country": "China",
-    "ml_skills": [
-      "visual journalism",
-      "photography",
-      "editing",
-      "photojournalism",
-      "multimedia",
-      "breaking news",
-      "video shooting",
-      "english is",
-      "chinese",
-      "mandarin",
-      "digital visual technologies",
-      "storytelling"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Reuters Pictures is looking for a dynamic and talented Visual Journalist experienced in photojournalism and with video skills or the desire to learn, to be based in Shanghai, China, one of Asia\u2019s most...",
-    "state": "Shanghai",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "121.504161",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ177568",
-    "jobId": "JREQ177568",
-    "city": "Shanghai",
-    "latitude": "31.24097799999999",
-    "locale": "en_US",
-    "multi_location": [
-      "Shanghai, Shanghai, China"
-    ],
-    "title": "Visual Journalist, China - Reuters",
-    "jobSeqNo": "THTTRUUSJREQ177568EXTERNALENUS",
-    "postedDate": "2024-04-11T00:00:00.000+0000",
-    "dateCreated": "2024-04-11T08:40:00.753+0000",
-    "cityStateCountry": "Shanghai, Shanghai, China",
-    "address": "Azia Centre, 11F, Unit 1105A & 1106, No. 1233 Lujiazui Ring Rd, Pudong, Shanghai, 200120 Shanghai, China",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CHN-Shanghai-Azia-Centre/Visual-Journalist--China---Reuters_JREQ177568/apply",
-    "location": "Shanghai, Shanghai, China",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Reuters Pictures is looking for a dynamic and talented Visual Journalist experienced in photojournalism and with video skills or the desire to learn, to be based in Shanghai, China, one of Asia\u2019s most...",
-      "descriptionTeaser_first200": "Visual Journalist. Reuters Pictures is looking for a dynamic and talented Visual Journalist experienced in photojournalism and with video skills or the desire to learn, to be based in Shanghai, China,...",
-      "descriptionTeaser_keyword": "Visual Journalist. Reuters Pictures is looking for a dynamic and talented Visual Journalist experienced in photojournalism and with video skills or the desire to learn, to be based in Shanghai, China,...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 121.504161,
-          "lat": 31.24097799999999
-        },
-        "location": "Shanghai, Shanghai, China"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "London",
     "country": "United Kingdom",
     "ml_skills": [
@@ -2872,75 +2667,6 @@
           "lat": 51.5056439
         },
         "location": "London, United Kingdom"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "North Hollywood, California",
-    "country": "United States of America",
-    "ml_skills": [
-      "legal research",
-      "publishing",
-      "westlaw",
-      "case law",
-      "editing",
-      "continuing legal education",
-      "grammar",
-      "recruiting",
-      "employer branding"
-    ],
-    "remote": "Remote",
-    "type": "Full time",
-    "descriptionTeaser": "In this position, you will perform legal research, analysis and writing to support the development and maintenance of The Rutter Group\u2019s premier legal content as reflected in its Practice Guides. Deve...",
-    "state": "California",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-118.3747284",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ175343",
-    "jobId": "JREQ175343",
-    "city": "North Hollywood",
-    "latitude": "34.1642783",
-    "locale": "en_US",
-    "multi_location": [
-      "North Hollywood, California, United States of America"
-    ],
-    "title": "Senior Attorney Editor",
-    "jobSeqNo": "THTTRUUSJREQ175343EXTERNALENUS",
-    "postedDate": "2024-04-08T00:00:00.000+0000",
-    "dateCreated": "2024-04-08T20:39:49.547+0000",
-    "cityStateCountry": "North Hollywood, California, United States of America",
-    "address": "5161 Lankershim Blvd, North Hollywood, CA 91601, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-North-Hollywood-5161-Lankershim-Blvd/Senior-Attorney-Editor_JREQ175343-1/apply",
-    "location": "North Hollywood, California, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "In this position, you will perform legal research, analysis and writing to support the development and maintenance of The Rutter Group\u2019s premier legal content as reflected in its Practice Guides. Deve...",
-      "descriptionTeaser_first200": "Job Description. In this position, you will perform legal research, analysis and writing to support the development and maintenance of The Rutter Group\u2019s premier legal content as reflected in its Practice...",
-      "descriptionTeaser_keyword": "Job Description. In this position, you will perform legal research, analysis and writing to support the development and maintenance of The Rutter Group\u2019s premier legal content as reflected in its Prac...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -118.3747284,
-          "lat": 34.1642783
-        },
-        "location": "North Hollywood, California, United States of America"
       }
     ],
     "isMultiCategory": true,
@@ -3331,137 +3057,6 @@
           "lat": 14.5344436
         },
         "location": "Manila, Philippines"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Hyderabad, Telangana",
-    "country": "India",
-    "ml_skills": [
-      "content creation",
-      "microsoft office",
-      "microsoft office applications",
-      "time management"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Excellent organizational and time-management skills. Support the editorial teams in creating and updating the content in accordance with the specified instructions. Verify own work for accuracy and co...",
-    "state": "Telangana",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "78.3847282",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ176225",
-    "jobId": "JREQ176225",
-    "city": "Hyderabad",
-    "latitude": "17.438325",
-    "locale": "en_US",
-    "multi_location": [
-      "Hyderabad, Telangana, India"
-    ],
-    "title": "Editorial Support Associate",
-    "jobSeqNo": "THTTRUUSJREQ176225EXTERNALENUS",
-    "postedDate": "2024-04-02T00:00:00.000+0000",
-    "dateCreated": "2024-02-22T08:40:27.781+0000",
-    "cityStateCountry": "Hyderabad, Telangana, India",
-    "address": "Floor 12, 13 & 14, Building 11, Raheja Mindspace, Madhapur, Hyderabad- 500081, Telangana, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Hyderabad-Raheja-Mindspace/Editorial-Support-Associate_JREQ176225/apply",
-    "location": "Hyderabad, Telangana, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Excellent organizational and time-management skills. Support the editorial teams in creating and updating the content in accordance with the specified instructions. Verify own work for accuracy and co...",
-      "descriptionTeaser_first200": "We are seeking multiple Editorial Associates (EAs) to support the Practical Law editorial teams with the creation, publication, delivery, and presentation of content for Practical Law and to provide administrative...",
-      "descriptionTeaser_keyword": "We are seeking multiple Editorial Associates (EAs) to support the Practical Law editorial teams with the creation, publication, delivery, and presentation of content for Practical Law and to provide a...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 78.3847282,
-          "lat": 17.438325
-        },
-        "location": "Hyderabad, Telangana, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Hyderabad, Telangana",
-    "country": "India",
-    "ml_skills": [
-      "publishing",
-      "editing",
-      "spreadsheets",
-      "content creation",
-      "microsoft office applications",
-      "microsoft office",
-      "time management"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Help identify content that needs review and ensure the review process takes place, liaising where appropriate with colleagues and external contributors. Experience with UK and US legal systems strongl...",
-    "state": "Telangana",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "78.3847282",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ176605",
-    "jobId": "JREQ176605",
-    "city": "Hyderabad",
-    "latitude": "17.438325",
-    "locale": "en_US",
-    "multi_location": [
-      "Hyderabad, Telangana, India"
-    ],
-    "title": "Legal Editorial Associate - Practical Law",
-    "jobSeqNo": "THTTRUUSJREQ176605EXTERNALENUS",
-    "postedDate": "2024-04-02T00:00:00.000+0000",
-    "dateCreated": "2024-02-23T12:42:16.600+0000",
-    "cityStateCountry": "Hyderabad, Telangana, India",
-    "address": "Floor 12, 13 & 14, Building 11, Raheja Mindspace, Madhapur, Hyderabad- 500081, Telangana, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Hyderabad-Raheja-Mindspace/Legal-Editorial-Associate---Practical-Law_JREQ176605/apply",
-    "location": "Hyderabad, Telangana, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Help identify content that needs review and ensure the review process takes place, liaising where appropriate with colleagues and external contributors. Experience with UK and US legal systems strongl...",
-      "descriptionTeaser_first200": "We are seeking Legal Editorial Associates (LEAs) to support the Practical Law editorial teams with the creation, publication, delivery, and presentation of content for Practical Law. About the role. Collaborating...",
-      "descriptionTeaser_keyword": "We are seeking Legal Editorial Associates (LEAs) to support the Practical Law editorial teams with the creation, publication, delivery, and presentation of content for Practical Law. About the role. C...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 78.3847282,
-          "lat": 17.438325
-        },
-        "location": "Hyderabad, Telangana, India"
       }
     ],
     "isMultiCategory": true,
