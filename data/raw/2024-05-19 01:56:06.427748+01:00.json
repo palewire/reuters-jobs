@@ -1,5 +1,139 @@
 [
   {
+    "cityState": "Cairo",
+    "country": "Egypt",
+    "ml_skills": [
+      "breaking news",
+      "arabic language",
+      "arabic"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Write breaking news alerts and newsbreaks from financial/energy statements, speeches, tweets, TV broadcast. To be Middle East and North Africa Breaking News Correspondent, you will likely have. An abi...",
+    "state": "Cairo",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "31.2357116",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ178263",
+    "jobId": "JREQ178263",
+    "city": "",
+    "latitude": "30.0444196",
+    "locale": "en_US",
+    "multi_location": [
+      "Cairo, Egypt"
+    ],
+    "title": "Breaking News Correspondent, Middle East and North Africa",
+    "jobSeqNo": "THTTRUUSJREQ178263EXTERNALENUS",
+    "postedDate": "2024-05-17T00:00:00.000+0000",
+    "dateCreated": "2024-05-17T12:39:55.650+0000",
+    "cityStateCountry": "Cairo, Egypt",
+    "address": "Nile City Towers, 2005c, Corniche El Nile, Nile City, Cairo, 11221, Egypt",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/EGY-Cairo-Nile-City-Towers/Breaking-News-Correspondent--Middle-East-and-North-Africa_JREQ178263/apply",
+    "location": "Cairo, Egypt",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Write breaking news alerts and newsbreaks from financial/energy statements, speeches, tweets, TV broadcast. To be Middle East and North Africa Breaking News Correspondent, you will likely have. An abi...",
+      "descriptionTeaser_first200": "Reuters is seeking a journalist to join its Middle East Breaking News Hub operation. The Hub is in charge of producing real-time news alerts and stories in in English and Arabic from a variety of sources,...",
+      "descriptionTeaser_keyword": "Reuters is seeking a journalist to join its Middle East Breaking News Hub operation. The Hub is in charge of producing real-time news alerts and stories in in English and Arabic from a variety of sour...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 31.2357116,
+          "lat": 30.0444196
+        },
+        "location": "Cairo, Egypt"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "London",
+    "country": "United Kingdom",
+    "ml_skills": [
+      "editing",
+      "breaking news",
+      "graphics",
+      "video editing software",
+      "publishing",
+      "video editing",
+      "multimedia",
+      "web publishing",
+      "content management",
+      "captions",
+      "web publishing software"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Be a resourceful researcher who on days when no Live Page is published can news plan and generate ideas to create posts for future Live Pages, drawing on Reuters immense archives and the collective ex...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.0185088",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ177624",
+    "jobId": "JREQ177624",
+    "city": "London",
+    "latitude": "51.5056439",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom"
+    ],
+    "title": "Live Pages Journalist, Reuters",
+    "jobSeqNo": "THTTRUUSJREQ177624EXTERNALENUS",
+    "postedDate": "2024-05-17T00:00:00.000+0000",
+    "dateCreated": "2024-04-24T08:40:24.234+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Live-Pages-Journalist--Reuters_JREQ177624/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Be a resourceful researcher who on days when no Live Page is published can news plan and generate ideas to create posts for future Live Pages, drawing on Reuters immense archives and the collective ex...",
+      "descriptionTeaser_first200": "Are you a versatile multimedia journalist with excellent writing skills? Do you have a startup mindset? If so, you might be an ideal candidate to join the newly created Live Coverage team at Reuters....",
+      "descriptionTeaser_keyword": "Are you a versatile multimedia journalist with excellent writing skills? Do you have a startup mindset? If so, you might be an ideal candidate to join the newly created Live Coverage team at Reuters....",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.0185088,
+          "lat": 51.5056439
+        },
+        "location": "London, United Kingdom"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Mumbai, Maharashtra",
     "country": "India",
     "ml_skills": [
@@ -54,71 +188,6 @@
           "lat": 19.1114368
         },
         "location": "Mumbai, Maharashtra, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Dakar",
-    "country": "Senegal",
-    "ml_skills": [
-      "journalism",
-      "breaking news",
-      "french",
-      "multimedia",
-      "hostile environments"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Some experience in managing a news team. Have experience working in hostile environments and/or emerging markets; knowledge of commodities and energy markets would be a plus. How about a team that wor...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-17.4582799",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ177566",
-    "jobId": "JREQ177566",
-    "city": "Dakar",
-    "latitude": "14.7016344",
-    "locale": "en_US",
-    "multi_location": [
-      "Dakar, Senegal"
-    ],
-    "title": "West and Central Africa Chief Correspondent, Reuters",
-    "jobSeqNo": "THTTRUUSJREQ177566EXTERNALENUS",
-    "postedDate": "2024-05-16T00:00:00.000+0000",
-    "dateCreated": "2024-03-28T12:40:56.928+0000",
-    "cityStateCountry": "Dakar, Senegal",
-    "address": "Rue des Ecrivains angle Rue G, Point E, 45541 Dakar, Senegal",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/SEN-Dakar-Rue-des-Ecrivains/West-and-Central-Africa-Chief-Correspondent--Reuters_JREQ177566/apply",
-    "location": "Dakar, Senegal",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Some experience in managing a news team. Have experience working in hostile environments and/or emerging markets; knowledge of commodities and energy markets would be a plus. How about a team that wor...",
-      "descriptionTeaser_first200": "Reuters is seeking an experienced journalist to lead its initiative reporting in West and Central Africa. Based in Dakar, the successful candidate will have a deep understanding of a vibrant region covering...",
-      "descriptionTeaser_keyword": "Reuters is seeking an experienced journalist to lead its initiative reporting in West and Central Africa. Based in Dakar, the successful candidate will have a deep understanding of a vibrant region co...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -17.4582799,
-          "lat": 14.7016344
-        },
-        "location": "Dakar, Senegal"
       }
     ],
     "isMultiCategory": true,
@@ -249,6 +318,204 @@
           "lat": 25.0961362
         },
         "location": "Dubai, United Arab Emirates"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Toronto, Ontario",
+    "country": "Canada",
+    "ml_skills": [
+      "editing",
+      "breaking news",
+      "graphics",
+      "video editing software",
+      "publishing",
+      "video editing",
+      "multimedia",
+      "web publishing",
+      "content management",
+      "captions",
+      "web publishing software"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Be a resourceful researcher who on days when no Live Page is published can news plan and generate ideas to create posts for future Live Pages, drawing on Reuters immense archives and the collective ex...",
+    "state": "Ontario",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-79.3884094",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ177623",
+    "jobId": "JREQ177623",
+    "city": "Toronto",
+    "latitude": "43.6480117",
+    "locale": "en_US",
+    "multi_location": [
+      "Toronto, Ontario, Canada"
+    ],
+    "title": "Live Pages Journalist, Reuters",
+    "jobSeqNo": "THTTRUUSJREQ177623EXTERNALENUS",
+    "postedDate": "2024-05-16T00:00:00.000+0000",
+    "dateCreated": "2024-04-23T16:39:38.895+0000",
+    "cityStateCountry": "Toronto, Ontario, Canada",
+    "address": "19 Duncan Street, Toronto, ON M5H 3H1, Canada",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CAN-Toronto-19-Duncan-Street/Live-Pages-Journalist--Reuters_JREQ177623/apply",
+    "location": "Toronto, Ontario, Canada",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Be a resourceful researcher who on days when no Live Page is published can news plan and generate ideas to create posts for future Live Pages, drawing on Reuters immense archives and the collective ex...",
+      "descriptionTeaser_first200": "Are you a versatile multimedia journalist with excellent writing skills? Do you have a startup mindset? If so, you might be an ideal candidate to join the newly created Live Coverage team at Reuters....",
+      "descriptionTeaser_keyword": "Are you a versatile multimedia journalist with excellent writing skills? Do you have a startup mindset? If so, you might be an ideal candidate to join the newly created Live Coverage team at Reuters....",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -79.3884094,
+          "lat": 43.6480117
+        },
+        "location": "Toronto, Ontario, Canada"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "London",
+    "country": "United Kingdom",
+    "ml_skills": [
+      "python",
+      "spreadsheets",
+      "sql",
+      "financial services",
+      "quantitative data"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "As part of this new position, you'll work as part of a wider news and research team and will use data to help uncover key trends impacting the (re)insurance market. Use data to illuminate and identify...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.0779547",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ178883",
+    "jobId": "JREQ178883",
+    "city": "London",
+    "latitude": "51.516899",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom"
+    ],
+    "title": "Data Journalist, The Insurer, Reuters",
+    "jobSeqNo": "THTTRUUSJREQ178883EXTERNALENUS",
+    "postedDate": "2024-05-16T00:00:00.000+0000",
+    "dateCreated": "2024-05-16T16:40:06.575+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "8 Devonshire Square, Office 04-110, London, EC2M4YJ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-8-Devonshire-Square/Data-Journalist--The-Insurer--Reuters_JREQ178883/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "As part of this new position, you'll work as part of a wider news and research team and will use data to help uncover key trends impacting the (re)insurance market. Use data to illuminate and identify...",
+      "descriptionTeaser_first200": "Data Journalist, The Insurer (Reuters). This hybrid position is based in London with hybrid working available. Want to use data to tell insightful news stories about complex, technical issues? Want to...",
+      "descriptionTeaser_keyword": "Data Journalist, The Insurer (Reuters). This hybrid position is based in London with hybrid working available. Want to use data to tell insightful news stories about complex, technical issues? Want to...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.0779547,
+          "lat": 51.516899
+        },
+        "location": "London, United Kingdom"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "London",
+    "country": "United Kingdom",
+    "ml_skills": [
+      "financial services",
+      "insurance industry"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "You'll set the pace for our reporting team, setting the standard for delivering exclusive content and helping guide reporters on our London newsdesk. You will ideally have previous experience of repor...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.0779547",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ178768",
+    "jobId": "JREQ178768",
+    "city": "London",
+    "latitude": "51.516899",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom"
+    ],
+    "title": "Chief Reporter, UK & Europe, The Insurer - Reuters",
+    "jobSeqNo": "THTTRUUSJREQ178768EXTERNALENUS",
+    "postedDate": "2024-05-16T00:00:00.000+0000",
+    "dateCreated": "2024-05-14T12:39:40.748+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "8 Devonshire Square, Office 04-110, London, EC2M4YJ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-8-Devonshire-Square/Chief-Reporter--UK---Europe--The-Insurer---Reuters_JREQ178768/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "You'll set the pace for our reporting team, setting the standard for delivering exclusive content and helping guide reporters on our London newsdesk. You will ideally have previous experience of repor...",
+      "descriptionTeaser_first200": "Chief Reporter, UK & Europe, The Insurer - Reuters. This hybrid position will be based in London. Are you an experienced scoop-driven news journalist looking for your next opportunity? The Insurer \u2013 now...",
+      "descriptionTeaser_keyword": "Chief Reporter, UK & Europe, The Insurer - Reuters. This hybrid position will be based in London. Are you an experienced scoop-driven news journalist looking for your next opportunity? The Insurer \u2013 n...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.0779547,
+          "lat": 51.516899
+        },
+        "location": "London, United Kingdom"
       }
     ],
     "isMultiCategory": true,
@@ -543,131 +810,6 @@
     "badge": ""
   },
   {
-    "cityState": "London",
-    "country": "United Kingdom",
-    "ml_skills": [
-      "financial services",
-      "insurance industry"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "You'll set the pace for our reporting team, setting the standard for delivering exclusive content and helping guide reporters on our London newsdesk. You will ideally have previous experience of repor...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-0.0779547",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ178768",
-    "jobId": "JREQ178768",
-    "city": "London",
-    "latitude": "51.516899",
-    "locale": "en_US",
-    "multi_location": [
-      "London, United Kingdom"
-    ],
-    "title": "Chief Reporter, UK & Europe, The Insurer - Reuters",
-    "jobSeqNo": "THTTRUUSJREQ178768EXTERNALENUS",
-    "postedDate": "2024-05-14T00:00:00.000+0000",
-    "dateCreated": "2024-05-14T12:39:40.748+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "address": "8 Devonshire Square, Office 04-110, London, EC2M4YJ, United Kingdom",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-8-Devonshire-Square/Chief-Reporter--UK---Europe--The-Insurer---Reuters_JREQ178768/apply",
-    "location": "London, United Kingdom",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "You'll set the pace for our reporting team, setting the standard for delivering exclusive content and helping guide reporters on our London newsdesk. You will ideally have previous experience of repor...",
-      "descriptionTeaser_first200": "Chief Reporter, UK & Europe, The Insurer - Reuters. This hybrid position will be based in London. Are you an experienced scoop-driven news journalist looking for your next opportunity? If so, this might...",
-      "descriptionTeaser_keyword": "Chief Reporter, UK & Europe, The Insurer - Reuters. This hybrid position will be based in London. Are you an experienced scoop-driven news journalist looking for your next opportunity? If so, this mig...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -0.0779547,
-          "lat": 51.516899
-        },
-        "location": "London, United Kingdom"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Washington, District of Columbia",
-    "country": "United States of America",
-    "ml_skills": [
-      "breaking news",
-      "multimedia",
-      "dslr"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Produce, edit, write, and deliver compelling and creative video stories and live coverage on breaking news stories. Work closely with multimedia and video packaging teams to produce comprehensive repo...",
-    "state": "District of Columbia",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-77.0311952",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ177548",
-    "jobId": "JREQ177548",
-    "city": "Washington",
-    "latitude": "38.9004793",
-    "locale": "en_US",
-    "multi_location": [
-      "Washington, District of Columbia, United States of America"
-    ],
-    "title": "VJ/Cameraperson, Atlanta (Level 1 Journalist - Temp Guild)",
-    "jobSeqNo": "THTTRUUSJREQ177548EXTERNALENUS",
-    "postedDate": "2024-05-13T00:00:00.000+0000",
-    "dateCreated": "2024-03-26T20:41:39.205+0000",
-    "cityStateCountry": "Washington, District of Columbia, United States of America",
-    "address": "1333 H Street NW, Suite 500, Washington, DC 20005, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Washington-1333-H-Street-N/VJ-Cameraperson--Level-1-Journalist---Temp-Guild-_JREQ177548/apply",
-    "location": "Washington, District of Columbia, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Produce, edit, write, and deliver compelling and creative video stories and live coverage on breaking news stories. Work closely with multimedia and video packaging teams to produce comprehensive repo...",
-      "descriptionTeaser_first200": "VJ/Cameraperson, Atlanta (Level 1 Journalist - Temp Guild). Reuters Video News is looking for dynamic and talented Video Journalist/Cameraperson for a TEMPORARY position based in Atlanta, Georgia. About...",
-      "descriptionTeaser_keyword": "VJ/Cameraperson, Atlanta (Level 1 Journalist - Temp Guild). Reuters Video News is looking for dynamic and talented Video Journalist/Cameraperson for a TEMPORARY position based in Atlanta, Georgia. Abo...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -77.0311952,
-          "lat": 38.9004793
-        },
-        "location": "Washington, District of Columbia, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Toronto, Ontario",
     "country": "Canada",
     "ml_skills": [
@@ -920,69 +1062,6 @@
           "lat": 51.5056439
         },
         "location": "London, United Kingdom"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Bengaluru, Karnataka",
-    "country": "India",
-    "ml_skills": [
-      "breaking news",
-      "social issues",
-      "transparency"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "The ideal candidate is an excellent reporter and storyteller, with sound news judgment and the ability to write lucid, engaging copy. Develop sources and break exclusive news. - Deliver supplementary...",
-    "state": "Karnataka",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "77.7120655",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ174179",
-    "jobId": "JREQ174179",
-    "city": "Bengaluru",
-    "latitude": "12.9743998",
-    "locale": "en_US",
-    "multi_location": [
-      "Bengaluru, Karnataka, India"
-    ],
-    "title": "Sports Correspondent",
-    "jobSeqNo": "THTTRUUSJREQ174179EXTERNALENUS",
-    "postedDate": "2024-05-09T00:00:00.000+0000",
-    "dateCreated": "2023-11-28T08:42:04.993+0000",
-    "cityStateCountry": "Bengaluru, Karnataka, India",
-    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/Sports-Correspondent_JREQ174179/apply",
-    "location": "Bengaluru, Karnataka, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "The ideal candidate is an excellent reporter and storyteller, with sound news judgment and the ability to write lucid, engaging copy. Develop sources and break exclusive news. - Deliver supplementary...",
-      "descriptionTeaser_first200": "Sports News Correspondent. Reuters is seeking a Sport News Correspondent for its Bangalore Sports Desk. The Sports News Correspondent is a senior reporter with a track record of developing sources and...",
-      "descriptionTeaser_keyword": "Sports News Correspondent. Reuters is seeking a Sport News Correspondent for its Bangalore Sports Desk. The Sports News Correspondent is a senior reporter with a track record of developing sources and...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 77.7120655,
-          "lat": 12.9743998
-        },
-        "location": "Bengaluru, Karnataka, India"
       }
     ],
     "isMultiCategory": true,
@@ -1511,78 +1590,6 @@
           "lat": 44.8527611
         },
         "location": "Eagan, Minnesota, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "London",
-    "country": "United Kingdom",
-    "ml_skills": [
-      "editing",
-      "multimedia",
-      "journalism",
-      "publishing",
-      "current affairs",
-      "seo",
-      "audience analytics",
-      "film",
-      "seo-led writing",
-      "audio production",
-      "storytelling",
-      "social media platforms"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Champion collaboration across Context's regional editorial teams and areas of coverage. Solid knowledge of news, current affairs, developing stories, trends and issues relating to Context\u2019s areas of c...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-0.0185088",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ178531",
-    "jobId": "JREQ178531",
-    "city": "London",
-    "latitude": "51.5056439",
-    "locale": "en_US",
-    "multi_location": [
-      "London, United Kingdom"
-    ],
-    "title": "Americas Editor - Thomson Reuters Foundation",
-    "jobSeqNo": "THTTRUUSJREQ178531EXTERNALENUS",
-    "postedDate": "2024-05-02T00:00:00.000+0000",
-    "dateCreated": "2024-05-02T20:39:05.184+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Americas-Editor---Thomson-Reuters-Foundation_JREQ178531/apply",
-    "location": "London, United Kingdom",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Champion collaboration across Context's regional editorial teams and areas of coverage. Solid knowledge of news, current affairs, developing stories, trends and issues relating to Context\u2019s areas of c...",
-      "descriptionTeaser_first200": "At the Thomson Reuters Foundation, we are seeking an experienced, multi-skilled and multimedia-savvy editor to lead our coverage of the Americas for our award-winning digital news platform, Context. Our...",
-      "descriptionTeaser_keyword": "At the Thomson Reuters Foundation, we are seeking an experienced, multi-skilled and multimedia-savvy editor to lead our coverage of the Americas for our award-winning digital news platform, Context. O...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -0.0185088,
-          "lat": 51.5056439
-        },
-        "location": "London, United Kingdom"
       }
     ],
     "isMultiCategory": true,
@@ -2135,209 +2142,6 @@
           "lat": 54.4004235
         },
         "location": "Gdansk, Poland"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Eagan, Minnesota",
-    "country": "United States of America",
-    "ml_skills": [
-      "content creation",
-      "synopsis",
-      "quality control",
-      "troubleshooting"
-    ],
-    "remote": "Remote",
-    "type": "Full time",
-    "descriptionTeaser": "The Compliance Editor/Attorney Editor provides regulatory and compliance interpretation in the form of analysis, writing, and research, to support the acquisition and/or production of compliance infor...",
-    "state": "Minnesota",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-93.10808019999999",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ178168",
-    "jobId": "JREQ178168",
-    "city": "Eagan",
-    "latitude": "44.8527611",
-    "locale": "en_US",
-    "multi_location": [
-      "Eagan, Minnesota, United States of America"
-    ],
-    "title": "Compliance Attorney Editor/Compliance Editor",
-    "jobSeqNo": "THTTRUUSJREQ178168EXTERNALENUS",
-    "postedDate": "2024-04-24T00:00:00.000+0000",
-    "dateCreated": "2024-04-24T16:39:05.384+0000",
-    "cityStateCountry": "Eagan, Minnesota, United States of America",
-    "address": "2900 Ames Crossing Road, Ste 100, Eagan, MN 55121, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MSP-2900-Ames-Crossing-Road/Compliance-Attorney-Editor-Compliance-Editor_JREQ178168/apply",
-    "location": "Eagan, Minnesota, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "The Compliance Editor/Attorney Editor provides regulatory and compliance interpretation in the form of analysis, writing, and research, to support the acquisition and/or production of compliance infor...",
-      "descriptionTeaser_first200": "Thomson Reuters is a global leader in providing essential information to the world's businesses and professionals in Law, Financial Services, Tax and Corporates. With our deep expertise and understanding...",
-      "descriptionTeaser_keyword": "Thomson Reuters is a global leader in providing essential information to the world's businesses and professionals in Law, Financial Services, Tax and Corporates. With our deep expertise and understand...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -93.10808019999999,
-          "lat": 44.8527611
-        },
-        "location": "Eagan, Minnesota, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Toronto, Ontario",
-    "country": "Canada",
-    "ml_skills": [
-      "editing",
-      "breaking news",
-      "graphics",
-      "video editing software",
-      "publishing",
-      "video editing",
-      "multimedia",
-      "web publishing",
-      "content management",
-      "captions",
-      "web publishing software"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Be a resourceful researcher who on days when no Live Page is published can news plan and generate ideas to create posts for future Live Pages, drawing on Reuters immense archives and the collective ex...",
-    "state": "Ontario",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-79.3884094",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ177623",
-    "jobId": "JREQ177623",
-    "city": "Toronto",
-    "latitude": "43.6480117",
-    "locale": "en_US",
-    "multi_location": [
-      "Toronto, Ontario, Canada"
-    ],
-    "title": "Live Pages Journalist, Reuters",
-    "jobSeqNo": "THTTRUUSJREQ177623EXTERNALENUS",
-    "postedDate": "2024-04-24T00:00:00.000+0000",
-    "dateCreated": "2024-04-23T16:39:38.895+0000",
-    "cityStateCountry": "Toronto, Ontario, Canada",
-    "address": "19 Duncan Street, Toronto, ON M5H 3H1, Canada",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CAN-Toronto-19-Duncan-Street/Live-Pages-Journalist--Reuters_JREQ177623/apply",
-    "location": "Toronto, Ontario, Canada",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Be a resourceful researcher who on days when no Live Page is published can news plan and generate ideas to create posts for future Live Pages, drawing on Reuters immense archives and the collective ex...",
-      "descriptionTeaser_first200": "Are you a versatile multimedia journalist with excellent writing skills? Do you have a startup mindset? If so, you might be an ideal candidate to join the newly created Live Coverage team at Reuters....",
-      "descriptionTeaser_keyword": "Are you a versatile multimedia journalist with excellent writing skills? Do you have a startup mindset? If so, you might be an ideal candidate to join the newly created Live Coverage team at Reuters....",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -79.3884094,
-          "lat": 43.6480117
-        },
-        "location": "Toronto, Ontario, Canada"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Bengaluru, Karnataka",
-    "country": "India",
-    "ml_skills": [
-      "journalism",
-      "publishing",
-      "newsletters",
-      "mass communication",
-      "geography",
-      "communication skills",
-      "curating",
-      "transparency"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "The news publishing specialist will work with Reuters' editors in deciding top stories and packages and present them on real-time basis to clients. Work experience of 1-4 years in journalism or in a f...",
-    "state": "Karnataka",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "77.7120655",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ174173",
-    "jobId": "JREQ174173",
-    "city": "Bengaluru",
-    "latitude": "12.9743998",
-    "locale": "en_US",
-    "multi_location": [
-      "Bengaluru, Karnataka, India"
-    ],
-    "title": "News Publishing Specialist",
-    "jobSeqNo": "THTTRUUSJREQ174173EXTERNALENUS",
-    "postedDate": "2024-04-23T00:00:00.000+0000",
-    "dateCreated": "2023-12-26T08:39:34.593+0000",
-    "cityStateCountry": "Bengaluru, Karnataka, India",
-    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/News-Publishing-Specialist_JREQ174173/apply",
-    "location": "Bengaluru, Karnataka, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "The news publishing specialist will work with Reuters' editors in deciding top stories and packages and present them on real-time basis to clients. Work experience of 1-4 years in journalism or in a f...",
-      "descriptionTeaser_first200": "News Publishing Specialist, Publishing Team. Do you enjoy reading global news, and can discern the most important stories of the day? Are you interested in being the person that decides which stories...",
-      "descriptionTeaser_keyword": "News Publishing Specialist, Publishing Team. Do you enjoy reading global news, and can discern the most important stories of the day? Are you interested in being the person that decides which stories...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 77.7120655,
-          "lat": 12.9743998
-        },
-        "location": "Bengaluru, Karnataka, India"
       }
     ],
     "isMultiCategory": true,
