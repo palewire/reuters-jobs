@@ -129,6 +129,70 @@
     "badge": ""
   },
   {
+    "cityState": "London",
+    "country": "United Kingdom",
+    "ml_skills": [
+      "graphics",
+      "financial journalism",
+      "multimedia",
+      "decisiveness"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "You will combine a demonstrated ability to build and lead a talented team of journalists with experience growing a digital operation. Manage interactions with the commercial team to ensure they can co...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.0185088",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ179073",
+    "jobId": "JREQ179073",
+    "city": "London",
+    "latitude": "51.5056439",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom"
+    ],
+    "title": "Global Editor, The Insurer, Reuters",
+    "jobSeqNo": "THTTRUUSJREQ179073EXTERNALENUS",
+    "postedDate": "2024-05-20T00:00:00.000+0000",
+    "dateCreated": "2024-05-20T16:39:37.346+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Global-Editor--The-Insurer--Reuters_JREQ179073/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "You will combine a demonstrated ability to build and lead a talented team of journalists with experience growing a digital operation. Manage interactions with the commercial team to ensure they can co...",
+      "descriptionTeaser_first200": "Reuters is seeking an energetic and experienced leader with gravitas and tenure in financial journalism to oversee the global newsrooms of The Insurer, our market-leading specialty (re)insurance news,...",
+      "descriptionTeaser_keyword": "Reuters is seeking an energetic and experienced leader with gravitas and tenure in financial journalism to oversee the global newsrooms of The Insurer, our market-leading specialty (re)insurance news,...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.0185088,
+          "lat": 51.5056439
+        },
+        "location": "London, United Kingdom"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Bangkok",
     "country": "Thailand",
     "ml_skills": [
