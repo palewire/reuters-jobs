@@ -66,6 +66,152 @@
     "badge": ""
   },
   {
+    "cityState": "London",
+    "country": "United Kingdom",
+    "ml_skills": [
+      "editing",
+      "multimedia",
+      "journalism",
+      "publishing",
+      "current affairs",
+      "seo",
+      "audience analytics",
+      "film",
+      "seo-led writing",
+      "audio production",
+      "storytelling",
+      "social media platforms"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Champion collaboration across Context's regional editorial teams and areas of coverage. Solid knowledge of news, current affairs, developing stories, trends and issues relating to Context\u2019s areas of c...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.0185088",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ178531",
+    "jobId": "JREQ178531",
+    "city": "London",
+    "latitude": "51.5056439",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom"
+    ],
+    "title": "Americas Editor - Thomson Reuters Foundation",
+    "jobSeqNo": "THTTRUUSJREQ178531EXTERNALENUS",
+    "postedDate": "2024-05-21T00:00:00.000+0000",
+    "dateCreated": "2024-05-02T20:39:05.184+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Americas-Editor---Thomson-Reuters-Foundation_JREQ178531/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Champion collaboration across Context's regional editorial teams and areas of coverage. Solid knowledge of news, current affairs, developing stories, trends and issues relating to Context\u2019s areas of c...",
+      "descriptionTeaser_first200": "At the Thomson Reuters Foundation, we are seeking an experienced, multi-skilled and multimedia-savvy editor to lead our coverage of the Americas for our award-winning digital news platform, Context. Our...",
+      "descriptionTeaser_keyword": "At the Thomson Reuters Foundation, we are seeking an experienced, multi-skilled and multimedia-savvy editor to lead our coverage of the Americas for our award-winning digital news platform, Context. O...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.0185088,
+          "lat": 51.5056439
+        },
+        "location": "London, United Kingdom"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "New York, New York",
+    "country": "United States of America",
+    "ml_skills": [
+      "editing",
+      "publishing",
+      "copy editing",
+      "graphics",
+      "breaking news",
+      "content management",
+      "multimedia",
+      "newsletters",
+      "adobe creative cloud",
+      "editorial standards",
+      "adobe creative cloud software",
+      "indesign",
+      "content management systems",
+      "workflow management"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "This is a role that requires a broad range of production and copy-editing skills, working closely with our reporting team in the US as well as our London-based production team. Work with our editors a...",
+    "state": "New York",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-73.9866995",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ178980",
+    "jobId": "JREQ178980",
+    "city": "New York",
+    "latitude": "40.7566955",
+    "locale": "en_US",
+    "multi_location": [
+      "New York, New York, United States of America"
+    ],
+    "title": "Production Editor (Level 1 Journalist), The Insurer, Reuters",
+    "jobSeqNo": "THTTRUUSJREQ178980EXTERNALENUS",
+    "postedDate": "2024-05-21T00:00:00.000+0000",
+    "dateCreated": "2024-05-21T16:39:48.746+0000",
+    "cityStateCountry": "New York, New York, United States of America",
+    "address": "3 Times Square, New York, NY 10036, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-New-York-3-Times-Square/Production-Editor--Level-1-Journalist---The-Insurer--Reuters_JREQ178980/apply",
+    "location": "New York, New York, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "This is a role that requires a broad range of production and copy-editing skills, working closely with our reporting team in the US as well as our London-based production team. Work with our editors a...",
+      "descriptionTeaser_first200": "Looking for a new challenge? Want to bring your production and copy-editing skills to a growing editorial team covering a vibrant segment of the financial services sector as part of the Thomson Reuters...",
+      "descriptionTeaser_keyword": "Looking for a new challenge? Want to bring your production and copy-editing skills to a growing editorial team covering a vibrant segment of the financial services sector as part of the Thomson Reuter...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -73.9866995,
+          "lat": 40.7566955
+        },
+        "location": "New York, New York, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Bengaluru, Karnataka",
     "country": "India",
     "ml_skills": [
@@ -121,6 +267,72 @@
           "lat": 12.9743998
         },
         "location": "Bengaluru, Karnataka, India"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "West Yorkshire",
+    "country": "United Kingdom",
+    "ml_skills": [
+      "web publishing",
+      "web publishing system",
+      "product development",
+      "project management",
+      "microsoft office",
+      "legal setting"
+    ],
+    "remote": "Remote",
+    "type": "Part time",
+    "descriptionTeaser": "As Copy Editor in Practical Law, you will use your specialist legal knowledge edit Practical Law content to ensure that it is clear, correct, concise and consistent, and is written in Practical Law ho...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-1.9835226",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ178675",
+    "jobId": "JREQ178675",
+    "city": "West Yorkshire",
+    "latitude": "53.7278503",
+    "locale": "en_US",
+    "multi_location": [
+      "West Yorkshire, United Kingdom"
+    ],
+    "title": "Copy Editor",
+    "jobSeqNo": "THTTRUUSJREQ178675EXTERNALENUS",
+    "postedDate": "2024-05-21T00:00:00.000+0000",
+    "dateCreated": "2024-05-21T16:39:48.748+0000",
+    "cityStateCountry": "West Yorkshire, United Kingdom",
+    "address": "The Hatchery, Hall Bank Ln, Mytholmroyd, Hebden Bridge, West Yorkshire, HX75HQ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-Hebden-Bridge-The-Hatchery/Copy-Editor_JREQ178675/apply",
+    "location": "West Yorkshire, United Kingdom",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "As Copy Editor in Practical Law, you will use your specialist legal knowledge edit Practical Law content to ensure that it is clear, correct, concise and consistent, and is written in Practical Law ho...",
+      "descriptionTeaser_first200": "We are seeking a legal copy editor to join the Practical Law team in the UK. Practical Law is a leading online know-how service providing rigorous, peer-reviewed resources, such as practice notes, current...",
+      "descriptionTeaser_keyword": "We are seeking a legal copy editor to join the Practical Law team in the UK. Practical Law is a leading online know-how service providing rigorous, peer-reviewed resources, such as practice notes, cur...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -1.9835226,
+          "lat": 53.7278503
+        },
+        "location": "West Yorkshire, United Kingdom"
       }
     ],
     "isMultiCategory": true,
