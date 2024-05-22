@@ -134,6 +134,58 @@
     "badge": ""
   },
   {
+    "cityState": "Toronto, Ontario",
+    "country": "Canada",
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "PublisherDo you enjoy delivering high-quality content? The Publisher, as a member of the Global Commentary team, is responsible for sourcing, editing, updating and maintaining commentary content withi",
+    "state": "Ontario",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-79.3884094",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ178976",
+    "jobId": "JREQ178976",
+    "city": "Toronto",
+    "latitude": "43.6480117",
+    "locale": "en_US",
+    "multi_location": [
+      "Toronto, Ontario, Canada"
+    ],
+    "title": "Publisher",
+    "jobSeqNo": "THTTRUUSJREQ178976EXTERNALENUS",
+    "postedDate": "2024-05-22T00:00:00.000+0000",
+    "dateCreated": "2024-05-22T16:40:57.124+0000",
+    "cityStateCountry": "Toronto, Ontario, Canada",
+    "address": "19 Duncan Street, Toronto, ON M5H 3H1, Canada",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CAN-Toronto-19-Duncan-Street/Publisher_JREQ178976/apply",
+    "location": "Toronto, Ontario, Canada",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -79.3884094,
+          "lat": 43.6480117
+        },
+        "location": "Toronto, Ontario, Canada"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "London",
     "country": "United Kingdom",
     "ml_skills": [
