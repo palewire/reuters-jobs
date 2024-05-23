@@ -138,7 +138,7 @@
     "country": "Canada",
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "PublisherDo you enjoy delivering high-quality content? The Publisher, as a member of the Global Commentary team, is responsible for sourcing, editing, updating and maintaining commentary content withi",
+    "descriptionTeaser": "Source, review, update and maintain commentary content within assigned portfolio, in alignment with the content strategy as defined by product management team. Maintains and develops legal knowledge a...",
     "state": "Ontario",
     "visibilityType": "External",
     "siteType": "external",
@@ -167,6 +167,20 @@
     "location": "Toronto, Ontario, Canada",
     "category": "News & Editorial Careers",
     "externalApply": true,
+    "ml_skills": [
+      "content strategy",
+      "french",
+      "content relationship management",
+      "product management",
+      "proview",
+      "quality control"
+    ],
+    "ml_job_parser": {
+      "descriptionTeaser": "Source, review, update and maintain commentary content within assigned portfolio, in alignment with the content strategy as defined by product management team. Maintains and develops legal knowledge a...",
+      "descriptionTeaser_keyword": "Publisher. Do you enjoy delivering high-quality content? The Publisher, as a member of the Global Commentary team, is responsible for sourcing, editing, updating and maintaining commentary content wit...",
+      "descriptionTeaser_ats": "",
+      "descriptionTeaser_first200": "Publisher. Do you enjoy delivering high-quality content? The Publisher, as a member of the Global Commentary team, is responsible for sourcing, editing, updating and maintaining commentary content within..."
+    },
     "isMultiLocation": true,
     "multi_location_array": [
       {
@@ -387,72 +401,6 @@
           "lat": 12.9743998
         },
         "location": "Bengaluru, Karnataka, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "West Yorkshire",
-    "country": "United Kingdom",
-    "ml_skills": [
-      "web publishing",
-      "web publishing system",
-      "product development",
-      "project management",
-      "microsoft office",
-      "legal setting"
-    ],
-    "remote": "Remote",
-    "type": "Part time",
-    "descriptionTeaser": "As Copy Editor in Practical Law, you will use your specialist legal knowledge edit Practical Law content to ensure that it is clear, correct, concise and consistent, and is written in Practical Law ho...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-1.9835226",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ178675",
-    "jobId": "JREQ178675",
-    "city": "West Yorkshire",
-    "latitude": "53.7278503",
-    "locale": "en_US",
-    "multi_location": [
-      "West Yorkshire, United Kingdom"
-    ],
-    "title": "Copy Editor",
-    "jobSeqNo": "THTTRUUSJREQ178675EXTERNALENUS",
-    "postedDate": "2024-05-21T00:00:00.000+0000",
-    "dateCreated": "2024-05-21T16:39:48.748+0000",
-    "cityStateCountry": "West Yorkshire, United Kingdom",
-    "address": "The Hatchery, Hall Bank Ln, Mytholmroyd, Hebden Bridge, West Yorkshire, HX75HQ, United Kingdom",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-Hebden-Bridge-The-Hatchery/Copy-Editor_JREQ178675/apply",
-    "location": "West Yorkshire, United Kingdom",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "As Copy Editor in Practical Law, you will use your specialist legal knowledge edit Practical Law content to ensure that it is clear, correct, concise and consistent, and is written in Practical Law ho...",
-      "descriptionTeaser_first200": "We are seeking a legal copy editor to join the Practical Law team in the UK. Practical Law is a leading online know-how service providing rigorous, peer-reviewed resources, such as practice notes, current...",
-      "descriptionTeaser_keyword": "We are seeking a legal copy editor to join the Practical Law team in the UK. Practical Law is a leading online know-how service providing rigorous, peer-reviewed resources, such as practice notes, cur...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -1.9835226,
-          "lat": 53.7278503
-        },
-        "location": "West Yorkshire, United Kingdom"
       }
     ],
     "isMultiCategory": true,
@@ -1933,70 +1881,6 @@
     "badge": ""
   },
   {
-    "cityState": "Hyderabad, Telangana",
-    "country": "India",
-    "ml_skills": [
-      "quality assurance",
-      "regression testing",
-      "xml",
-      "tax software"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Would be working on the testing of software by creating various scenarios through locators and generates the output in xml. Should be able to independently update to the developers about any bugs foun...",
-    "state": "Telangana",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "78.3847282",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ175092",
-    "jobId": "JREQ175092",
-    "city": "Hyderabad",
-    "latitude": "17.438325",
-    "locale": "en_US",
-    "multi_location": [
-      "Hyderabad, Telangana, India"
-    ],
-    "title": "Associate Quality Assurance & E-file Analyst",
-    "jobSeqNo": "THTTRUUSJREQ175092EXTERNALENUS",
-    "postedDate": "2024-05-07T00:00:00.000+0000",
-    "dateCreated": "2024-05-07T12:39:48.983+0000",
-    "cityStateCountry": "Hyderabad, Telangana, India",
-    "address": "Floor 12, 13 & 14, Building 11, Raheja Mindspace, Madhapur, Hyderabad- 500081, Telangana, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Hyderabad-Raheja-Mindspace/Associate-Quality-Assurance---E-file-Analyst_JREQ175092/apply",
-    "location": "Hyderabad, Telangana, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Would be working on the testing of software by creating various scenarios through locators and generates the output in xml. Should be able to independently update to the developers about any bugs foun...",
-      "descriptionTeaser_first200": "Job Description. Associate Quality Assurance & E-file Analyst. Looking forward to advance your career in US Taxation? We are growing and we are hiring, come join us! About the Role. In this opportunity...",
-      "descriptionTeaser_keyword": "Job Description. Associate Quality Assurance & E-file Analyst. Looking forward to advance your career in US Taxation? We are growing and we are hiring, come join us! About the Role. In this opportunit...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 78.3847282,
-          "lat": 17.438325
-        },
-        "location": "Hyderabad, Telangana, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Dubai",
     "country": "United Arab Emirates",
     "ml_skills": [
@@ -3271,70 +3155,6 @@
           "lat": 54.4004235
         },
         "location": "Gdansk, Poland"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "London",
-    "country": "United Kingdom",
-    "ml_skills": [
-      "publishing",
-      "eu law",
-      "research skills",
-      "attention to detail"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "In this opportunity as a Legal Editor in Practical Law EU, you will use your legal knowledge of EU law to provide and maintain a wide range of content. Working in a supportive team of highly experienc...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-0.0185088",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ177140",
-    "jobId": "JREQ177140",
-    "city": "London",
-    "latitude": "51.5056439",
-    "locale": "en_US",
-    "multi_location": [
-      "London, United Kingdom"
-    ],
-    "title": "Legal Editor, Practical Law (EU)",
-    "jobSeqNo": "THTTRUUSJREQ177140EXTERNALENUS",
-    "postedDate": "2024-04-15T00:00:00.000+0000",
-    "dateCreated": "2024-04-11T12:40:40.714+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Legal-Editor--Practical-Law--EU-_JREQ177140/apply",
-    "location": "London, United Kingdom",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "In this opportunity as a Legal Editor in Practical Law EU, you will use your legal knowledge of EU law to provide and maintain a wide range of content. Working in a supportive team of highly experienc...",
-      "descriptionTeaser_first200": "We are seeking a legal editor with knowledge about EU law to join the Practical Law EU team in the UK on a 12 months fixed term contract (maternity cover). Practical Law is a leading online know-how service...",
-      "descriptionTeaser_keyword": "We are seeking a legal editor with knowledge about EU law to join the Practical Law EU team in the UK on a 12 months fixed term contract (maternity cover). Practical Law is a leading online know-how s...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -0.0185088,
-          "lat": 51.5056439
-        },
-        "location": "London, United Kingdom"
       }
     ],
     "isMultiCategory": true,
