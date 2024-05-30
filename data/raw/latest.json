@@ -71,7 +71,7 @@
     "country": "United States of America",
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "Summary of the Role:You will participate in the design, development, and testing of our GoSystem Tax using in-house development tools. \u00a0In this role, you will collect, analyze, and prioritize requirem",
+    "descriptionTeaser": "Utilizing project management skills including analyzing changes in tax code and the resulting software changes required; scoping the impact of the product enhancements and tax code changes on the soft...",
     "state": "Texas",
     "visibilityType": "External",
     "siteType": "external",
@@ -100,6 +100,22 @@
     "location": "Frisco, Texas, United States of America",
     "category": "News & Editorial Careers",
     "externalApply": true,
+    "ml_skills": [
+      "project management",
+      "software development",
+      "checkpoint",
+      "software development information",
+      "tax software",
+      "filing",
+      "technical writing",
+      "tax analysis"
+    ],
+    "ml_job_parser": {
+      "descriptionTeaser": "Utilizing project management skills including analyzing changes in tax code and the resulting software changes required; scoping the impact of the product enhancements and tax code changes on the soft...",
+      "descriptionTeaser_keyword": "Summary of the Role. You will participate in the design, development, and testing of our GoSystem Tax using in-house development tools. In this role, you will collect, analyze, and prioritize requirem...",
+      "descriptionTeaser_ats": "",
+      "descriptionTeaser_first200": "Summary of the Role. You will participate in the design, development, and testing of our GoSystem Tax using in-house development tools. In this role, you will collect, analyze, and prioritize requirements..."
+    },
     "isMultiLocation": true,
     "multi_location_array": [
       {
