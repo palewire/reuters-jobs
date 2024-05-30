@@ -1,5 +1,70 @@
 [
   {
+    "cityState": "Brussels",
+    "country": "Belgium",
+    "ml_skills": [
+      "breaking news",
+      "journalism",
+      "french",
+      "multimedia",
+      "international relations"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Cover news relating to European security. Operate in a team focused on Europe\u2019s relations with the rest of the world. A track record as an all-round journalist who can write strong copy in English at...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "4.3640778",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ179434",
+    "jobId": "JREQ179434",
+    "city": "Brussels",
+    "latitude": "50.8391241",
+    "locale": "en_US",
+    "multi_location": [
+      "Brussels, Belgium"
+    ],
+    "title": "European Security Correspondent, Reuters",
+    "jobSeqNo": "THTTRUUSJREQ179434EXTERNALENUS",
+    "postedDate": "2024-05-30T00:00:00.000+0000",
+    "dateCreated": "2024-05-30T12:40:17.749+0000",
+    "cityStateCountry": "Brussels, Belgium",
+    "address": "Marnixlaan 17, Avenue Marnix, 1000 Brussels, Belgium",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/BEL-Brussels-Avenue-Marnix/European-Security-Correspondent--Reuters_JREQ179434/apply",
+    "location": "Brussels, Belgium",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Cover news relating to European security. Operate in a team focused on Europe\u2019s relations with the rest of the world. A track record as an all-round journalist who can write strong copy in English at...",
+      "descriptionTeaser_first200": "European Security Correspondent, Reuters. This position is based in Brussels, Belgium. Reuters is looking for an outstanding journalist to cover European security during a critical moment for the region....",
+      "descriptionTeaser_keyword": "European Security Correspondent, Reuters. This position is based in Brussels, Belgium. Reuters is looking for an outstanding journalist to cover European security during a critical moment for the regi...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 4.3640778,
+          "lat": 50.8391241
+        },
+        "location": "Brussels, Belgium"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Los Angeles, California",
     "country": "United States of America",
     "ml_skills": [
