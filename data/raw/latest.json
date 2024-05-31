@@ -66,6 +66,86 @@
     "badge": ""
   },
   {
+    "cityState": "Washington, District of Columbia",
+    "country": "United States of America",
+    "ml_skills": [
+      "fact-checking",
+      "news writing",
+      "current affairs",
+      "multimedia"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Reuters is looking for a journalist with strong research and writing skills to join its dynamic fact-checking team. Proactively pitch fact-check articles addressing misinformation. Be part of our glob...",
+    "state": "District of Columbia",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-77.0311952",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ179497",
+    "jobId": "JREQ179497",
+    "city": "Washington",
+    "latitude": "38.9004793",
+    "locale": "en_US",
+    "multi_location": [
+      "Washington, District of Columbia, United States of America",
+      "Toronto, Ontario, Canada",
+      "New York, New York, United States of America"
+    ],
+    "title": "Fact-Checking Producer (Level 1 Journalist - Temp)",
+    "jobSeqNo": "THTTRUUSJREQ179497EXTERNALENUS",
+    "postedDate": "2024-05-31T00:00:00.000+0000",
+    "dateCreated": "2024-05-31T16:40:31.257+0000",
+    "cityStateCountry": "Washington, District of Columbia, United States of America",
+    "address": "1333 H Street NW, Suite 500, Washington, DC 20005, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Washington-1333-H-Street-N/Fact-Checking-Producer--Level-1-Journalist---Temp-_JREQ179497-1/apply",
+    "location": "Washington, District of Columbia, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Reuters is looking for a journalist with strong research and writing skills to join its dynamic fact-checking team. Proactively pitch fact-check articles addressing misinformation. Be part of our glob...",
+      "descriptionTeaser_first200": "Reuters is looking for a journalist with strong research and writing skills to join its dynamic fact-checking team. This position will involve identifying viral content relating to misinformation topics...",
+      "descriptionTeaser_keyword": "Reuters is looking for a journalist with strong research and writing skills to join its dynamic fact-checking team. This position will involve identifying viral content relating to misinformation topi...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -77.0311952,
+          "lat": 38.9004793
+        },
+        "location": "Washington, District of Columbia, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -79.38052069999999,
+          "lat": 43.6503406
+        },
+        "location": "Toronto, Ontario, Canada"
+      },
+      {
+        "latlong": {
+          "lon": -73.9866995,
+          "lat": 40.7566955
+        },
+        "location": "New York, New York, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Brussels",
     "country": "Belgium",
     "ml_skills": [
@@ -3184,73 +3264,6 @@
           "lat": 51.5056439
         },
         "location": "London, United Kingdom"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Eagan, Minnesota",
-    "country": "United States of America",
-    "ml_skills": [
-      "westlaw",
-      "publishing",
-      "legal research",
-      "word processing",
-      "analytical thinker",
-      "proview",
-      "leadership development"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Complete your work and in order to stay current on legal trends and developments that are related to your editorial responsibilities. To be most effective at your job, you will develop knowledge of Th...",
-    "state": "Minnesota",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-93.10808019999999",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ177916",
-    "jobId": "JREQ177916",
-    "city": "Eagan",
-    "latitude": "44.8527611",
-    "locale": "en_US",
-    "multi_location": [
-      "Eagan, Minnesota, United States of America"
-    ],
-    "title": "Attorney Editor",
-    "jobSeqNo": "THTTRUUSJREQ177916EXTERNALENUS",
-    "postedDate": "2024-05-06T00:00:00.000+0000",
-    "dateCreated": "2024-04-04T20:40:27.361+0000",
-    "cityStateCountry": "Eagan, Minnesota, United States of America",
-    "address": "2900 Ames Crossing Road, Ste 100, Eagan, MN 55121, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MSP-2900-Ames-Crossing-Road/Attorney-Editor_JREQ177916/apply",
-    "location": "Eagan, Minnesota, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Complete your work and in order to stay current on legal trends and developments that are related to your editorial responsibilities. To be most effective at your job, you will develop knowledge of Th...",
-      "descriptionTeaser_first200": "Commentary Law: As a member of the Global Commentary team you will work closely with authors to create and edit Commentary content for Westlaw, print, and Proview. Relationship management, meeting deadlines,...",
-      "descriptionTeaser_keyword": "Commentary Law: As a member of the Global Commentary team you will work closely with authors to create and edit Commentary content for Westlaw, print, and Proview. Relationship management, meeting dea...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -93.10808019999999,
-          "lat": 44.8527611
-        },
-        "location": "Eagan, Minnesota, United States of America"
       }
     ],
     "isMultiCategory": true,
