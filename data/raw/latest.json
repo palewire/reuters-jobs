@@ -271,192 +271,47 @@
     "badge": ""
   },
   {
-    "cityState": "Gdansk",
-    "country": "Poland",
-    "ml_skills": [
-      "commerce",
-      "french",
-      "ukrainian",
-      "portuguese",
-      "german",
-      "italian",
-      "arabic",
-      "dutch"
-    ],
+    "cityState": "Minneapolis, Minnesota",
+    "country": "United States of America",
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "Ability to work with minimal supervision. Create timely alerts by summarizing regulatory documents and translating non-English language content into English where necessary. Responsible and mature app...",
-    "state": "",
+    "descriptionTeaser": "Want to work with a team of attorney editors to provide world-class annotated statutory and regulatory information for legal professionals using Thomson Reuters\u2019 Westlaw, ProView and print products?At",
+    "state": "Minnesota",
     "visibilityType": "External",
     "siteType": "external",
-    "longitude": "18.5752702",
+    "longitude": "-93.11319449999999",
     "multi_category": [
       "News & Editorial Careers"
     ],
-    "reqId": "JREQ179662",
-    "jobId": "JREQ179662",
-    "city": "Gdansk",
-    "latitude": "54.4004235",
+    "reqId": "JREQ179330",
+    "jobId": "JREQ179330",
+    "city": "Minneapolis",
+    "latitude": "44.8253064",
     "locale": "en_US",
     "multi_location": [
-      "Gdansk, Poland"
+      "Minneapolis, Minnesota, United States of America"
     ],
-    "title": "Content Editor with German or Arabic",
-    "jobSeqNo": "THTTRUUSJREQ179662EXTERNALENUS",
+    "title": "Attorney Editor",
+    "jobSeqNo": "THTTRUUSJREQ179330EXTERNALENUS",
     "postedDate": "2024-06-04T00:00:00.000+0000",
-    "dateCreated": "2024-06-04T08:39:23.886+0000",
-    "cityStateCountry": "Gdansk, Poland",
-    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
+    "dateCreated": "2024-06-04T16:40:17.915+0000",
+    "cityStateCountry": "Minneapolis, Minnesota, United States of America",
+    "address": "Thomson Reuters, Minneapolis, MN 55111, United States of America",
     "jobVisibility": [
       "external"
     ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/Content-Editor-with-German-or-Arabic_JREQ179662/apply",
-    "location": "Gdansk, Poland",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Minneapolis-Minnesota/Attorney-Editor_JREQ179330/apply",
+    "location": "Minneapolis, Minnesota, United States of America",
     "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Ability to work with minimal supervision. Create timely alerts by summarizing regulatory documents and translating non-English language content into English where necessary. Responsible and mature app...",
-      "descriptionTeaser_first200": "We welcome applications to our full-time vacancies from all citizens who have been granted protection within the territory of the Republic of Poland under the EU Temporary Protection Directive*. Thomson...",
-      "descriptionTeaser_keyword": "We welcome applications to our full-time vacancies from all citizens who have been granted protection within the territory of the Republic of Poland under the EU Temporary Protection Directive*. Thoms...",
-      "descriptionTeaser_ats": ""
-    },
     "externalApply": true,
     "isMultiLocation": true,
     "multi_location_array": [
       {
         "latlong": {
-          "lon": 18.5752702,
-          "lat": 54.4004235
+          "lon": -93.11319449999999,
+          "lat": 44.8253064
         },
-        "location": "Gdansk, Poland"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Gdansk",
-    "country": "Poland",
-    "ml_skills": [
-      "vocabulary",
-      "multimedia",
-      "graphics"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Reuters is seeking a candidate who can speak fluent English and Italian to join its real-time news operation in Gdansk, Poland. Write headlines and news summaries accurately, quickly and with high sta...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "18.5752702",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ179408",
-    "jobId": "JREQ179408",
-    "city": "Gdansk",
-    "latitude": "54.4004235",
-    "locale": "en_US",
-    "multi_location": [
-      "Gdansk, Poland"
-    ],
-    "title": "News Reporter with Italian, Reuters",
-    "jobSeqNo": "THTTRUUSJREQ179408EXTERNALENUS",
-    "postedDate": "2024-06-04T00:00:00.000+0000",
-    "dateCreated": "2024-06-04T08:39:23.877+0000",
-    "cityStateCountry": "Gdansk, Poland",
-    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/News-Reporter-with-Italian--Reuters_JREQ179408/apply",
-    "location": "Gdansk, Poland",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Reuters is seeking a candidate who can speak fluent English and Italian to join its real-time news operation in Gdansk, Poland. Write headlines and news summaries accurately, quickly and with high sta...",
-      "descriptionTeaser_first200": "Reuters is seeking a candidate who can speak fluent English and Italian to join its real-time news operation in Gdansk, Poland. The reporter will work in fast-paced, international environment and get...",
-      "descriptionTeaser_keyword": "Reuters is seeking a candidate who can speak fluent English and Italian to join its real-time news operation in Gdansk, Poland. The reporter will work in fast-paced, international environment and get...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 18.5752702,
-          "lat": 54.4004235
-        },
-        "location": "Gdansk, Poland"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "London",
-    "country": "United Kingdom",
-    "ml_skills": [
-      "breaking news",
-      "broadcast television",
-      "multimedia",
-      "photography",
-      "digital landscape",
-      "digital visual technologies"
-    ],
-    "remote": "On-Site",
-    "type": "Full time",
-    "descriptionTeaser": "This job will give you responsibility for overseeing a daily news file and shaping the priorities of a team of staff tasked with delivering fast, accurate and original coverage to our diverse global c...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-0.0185088",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ179510",
-    "jobId": "JREQ179510",
-    "city": "London",
-    "latitude": "51.5056439",
-    "locale": "en_US",
-    "multi_location": [
-      "London, United Kingdom"
-    ],
-    "title": "Duty Editor, Reuters",
-    "jobSeqNo": "THTTRUUSJREQ179510EXTERNALENUS",
-    "postedDate": "2024-06-04T00:00:00.000+0000",
-    "dateCreated": "2024-06-04T12:40:01.489+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Duty-Editor--Reuters_JREQ179510-1/apply",
-    "location": "London, United Kingdom",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "This job will give you responsibility for overseeing a daily news file and shaping the priorities of a team of staff tasked with delivering fast, accurate and original coverage to our diverse global c...",
-      "descriptionTeaser_first200": "Duty Editor, Reuters. This position will be based in London with hybrid working available. Reuters is looking for an accomplished news editor to run our video news intake desk in our London global news...",
-      "descriptionTeaser_keyword": "Duty Editor, Reuters. This position will be based in London with hybrid working available. Reuters is looking for an accomplished news editor to run our video news intake desk in our London global new...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -0.0185088,
-          "lat": 51.5056439
-        },
-        "location": "London, United Kingdom"
+        "location": "Minneapolis, Minnesota, United States of America"
       }
     ],
     "isMultiCategory": true,
@@ -598,17 +453,150 @@
     "badge": ""
   },
   {
-    "cityState": "London",
-    "country": "United Kingdom",
+    "cityState": "Gdansk",
+    "country": "Poland",
     "ml_skills": [
-      "newsletters",
-      "editing",
+      "vocabulary",
       "multimedia",
-      "business development"
+      "graphics"
     ],
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "You must be someone who has a track record for creating and growing well-read newsletters, enjoys collaborating across teams, has excellent story judgment, editing skills. Ability to collaborate acros...",
+    "descriptionTeaser": "Reuters is seeking a candidate who can speak fluent English and Italian to join its real-time news operation in Gdansk, Poland. Write headlines and news summaries accurately, quickly and with high sta...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "18.5752702",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ179408",
+    "jobId": "JREQ179408",
+    "city": "Gdansk",
+    "latitude": "54.4004235",
+    "locale": "en_US",
+    "multi_location": [
+      "Gdansk, Poland"
+    ],
+    "title": "News Reporter with Italian, Reuters",
+    "jobSeqNo": "THTTRUUSJREQ179408EXTERNALENUS",
+    "postedDate": "2024-06-04T00:00:00.000+0000",
+    "dateCreated": "2024-06-04T08:39:23.877+0000",
+    "cityStateCountry": "Gdansk, Poland",
+    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/News-Reporter-with-Italian--Reuters_JREQ179408/apply",
+    "location": "Gdansk, Poland",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Reuters is seeking a candidate who can speak fluent English and Italian to join its real-time news operation in Gdansk, Poland. Write headlines and news summaries accurately, quickly and with high sta...",
+      "descriptionTeaser_first200": "Reuters is seeking a candidate who can speak fluent English and Italian to join its real-time news operation in Gdansk, Poland. The reporter will work in fast-paced, international environment and get...",
+      "descriptionTeaser_keyword": "Reuters is seeking a candidate who can speak fluent English and Italian to join its real-time news operation in Gdansk, Poland. The reporter will work in fast-paced, international environment and get...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 18.5752702,
+          "lat": 54.4004235
+        },
+        "location": "Gdansk, Poland"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Gdansk",
+    "country": "Poland",
+    "ml_skills": [
+      "commerce",
+      "french",
+      "ukrainian",
+      "portuguese",
+      "german",
+      "italian",
+      "arabic",
+      "dutch"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Ability to work with minimal supervision. Create timely alerts by summarizing regulatory documents and translating non-English language content into English where necessary. Responsible and mature app...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "18.5752702",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ179662",
+    "jobId": "JREQ179662",
+    "city": "Gdansk",
+    "latitude": "54.4004235",
+    "locale": "en_US",
+    "multi_location": [
+      "Gdansk, Poland"
+    ],
+    "title": "Content Editor with German or Arabic",
+    "jobSeqNo": "THTTRUUSJREQ179662EXTERNALENUS",
+    "postedDate": "2024-06-04T00:00:00.000+0000",
+    "dateCreated": "2024-06-04T08:39:23.886+0000",
+    "cityStateCountry": "Gdansk, Poland",
+    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/Content-Editor-with-German-or-Arabic_JREQ179662/apply",
+    "location": "Gdansk, Poland",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Ability to work with minimal supervision. Create timely alerts by summarizing regulatory documents and translating non-English language content into English where necessary. Responsible and mature app...",
+      "descriptionTeaser_first200": "We welcome applications to our full-time vacancies from all citizens who have been granted protection within the territory of the Republic of Poland under the EU Temporary Protection Directive*. Thomson...",
+      "descriptionTeaser_keyword": "We welcome applications to our full-time vacancies from all citizens who have been granted protection within the territory of the Republic of Poland under the EU Temporary Protection Directive*. Thoms...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 18.5752702,
+          "lat": 54.4004235
+        },
+        "location": "Gdansk, Poland"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "London",
+    "country": "United Kingdom",
+    "ml_skills": [
+      "breaking news",
+      "broadcast television",
+      "multimedia",
+      "photography",
+      "digital landscape",
+      "digital visual technologies"
+    ],
+    "remote": "On-Site",
+    "type": "Full time",
+    "descriptionTeaser": "This job will give you responsibility for overseeing a daily news file and shaping the priorities of a team of staff tasked with delivering fast, accurate and original coverage to our diverse global c...",
     "state": "",
     "visibilityType": "External",
     "siteType": "external",
@@ -616,30 +604,30 @@
     "multi_category": [
       "News & Editorial Careers"
     ],
-    "reqId": "JREQ178518",
-    "jobId": "JREQ178518",
+    "reqId": "JREQ179510",
+    "jobId": "JREQ179510",
     "city": "London",
     "latitude": "51.5056439",
     "locale": "en_US",
     "multi_location": [
       "London, United Kingdom"
     ],
-    "title": "Deputy Editor, Newsletters - Thomson Reuters Foundation",
-    "jobSeqNo": "THTTRUUSJREQ178518EXTERNALENUS",
-    "postedDate": "2024-06-03T00:00:00.000+0000",
-    "dateCreated": "2024-04-29T16:40:22.306+0000",
+    "title": "Duty Editor, Reuters",
+    "jobSeqNo": "THTTRUUSJREQ179510EXTERNALENUS",
+    "postedDate": "2024-06-04T00:00:00.000+0000",
+    "dateCreated": "2024-06-04T12:40:01.489+0000",
     "cityStateCountry": "London, United Kingdom",
     "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
     "jobVisibility": [
       "external"
     ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Deputy-Editor--Newsletters_JREQ178518/apply",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Duty-Editor--Reuters_JREQ179510-1/apply",
     "location": "London, United Kingdom",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "You must be someone who has a track record for creating and growing well-read newsletters, enjoys collaborating across teams, has excellent story judgment, editing skills. Ability to collaborate acros...",
-      "descriptionTeaser_first200": "We are looking for a talented journalism and product leader to join the Thomson Reuters Foundation\u2019s digital news platform, Context, as Deputy Editor, Newsletters. This critical role will be tasked with...",
-      "descriptionTeaser_keyword": "We are looking for a talented journalism and product leader to join the Thomson Reuters Foundation\u2019s digital news platform, Context, as Deputy Editor, Newsletters. This critical role will be tasked wi...",
+      "descriptionTeaser": "This job will give you responsibility for overseeing a daily news file and shaping the priorities of a team of staff tasked with delivering fast, accurate and original coverage to our diverse global c...",
+      "descriptionTeaser_first200": "Duty Editor, Reuters. This position will be based in London with hybrid working available. Reuters is looking for an accomplished news editor to run our video news intake desk in our London global news...",
+      "descriptionTeaser_keyword": "Duty Editor, Reuters. This position will be based in London with hybrid working available. Reuters is looking for an accomplished news editor to run our video news intake desk in our London global new...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
@@ -651,6 +639,58 @@
           "lat": 51.5056439
         },
         "location": "London, United Kingdom"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "North Hollywood, California",
+    "country": "United States of America",
+    "remote": "Remote",
+    "type": "Full time",
+    "descriptionTeaser": "Senior Attorney Editor, Legal Commentary Editorial, The Rutter Group Editorial TeamDo you want to be a part of the team that produces the go-to resource for practicing California attorneys? The Rutter",
+    "state": "California",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-118.3747284",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ175343",
+    "jobId": "JREQ175343",
+    "city": "North Hollywood",
+    "latitude": "34.1642783",
+    "locale": "en_US",
+    "multi_location": [
+      "North Hollywood, California, United States of America"
+    ],
+    "title": "Senior Attorney Editor",
+    "jobSeqNo": "THTTRUUSJREQ175343EXTERNALENUS",
+    "postedDate": "2024-06-04T00:00:00.000+0000",
+    "dateCreated": "2024-04-08T20:39:49.547+0000",
+    "cityStateCountry": "North Hollywood, California, United States of America",
+    "address": "5161 Lankershim Blvd, North Hollywood, CA 91601, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-North-Hollywood-5161-Lankershim-Blvd/Senior-Attorney-Editor_JREQ175343-1/apply",
+    "location": "North Hollywood, California, United States of America",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -118.3747284,
+          "lat": 34.1642783
+        },
+        "location": "North Hollywood, California, United States of America"
       }
     ],
     "isMultiCategory": true,
@@ -715,6 +755,70 @@
           "lat": 43.6480117
         },
         "location": "Toronto, Ontario, Canada"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "London",
+    "country": "United Kingdom",
+    "ml_skills": [
+      "newsletters",
+      "editing",
+      "multimedia",
+      "business development"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "You must be someone who has a track record for creating and growing well-read newsletters, enjoys collaborating across teams, has excellent story judgment, editing skills. Ability to collaborate acros...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.0185088",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ178518",
+    "jobId": "JREQ178518",
+    "city": "London",
+    "latitude": "51.5056439",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom"
+    ],
+    "title": "Deputy Editor, Newsletters - Thomson Reuters Foundation",
+    "jobSeqNo": "THTTRUUSJREQ178518EXTERNALENUS",
+    "postedDate": "2024-06-03T00:00:00.000+0000",
+    "dateCreated": "2024-04-29T16:40:22.306+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Deputy-Editor--Newsletters_JREQ178518/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "You must be someone who has a track record for creating and growing well-read newsletters, enjoys collaborating across teams, has excellent story judgment, editing skills. Ability to collaborate acros...",
+      "descriptionTeaser_first200": "We are looking for a talented journalism and product leader to join the Thomson Reuters Foundation\u2019s digital news platform, Context, as Deputy Editor, Newsletters. This critical role will be tasked with...",
+      "descriptionTeaser_keyword": "We are looking for a talented journalism and product leader to join the Thomson Reuters Foundation\u2019s digital news platform, Context, as Deputy Editor, Newsletters. This critical role will be tasked wi...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.0185088,
+          "lat": 51.5056439
+        },
+        "location": "London, United Kingdom"
       }
     ],
     "isMultiCategory": true,
