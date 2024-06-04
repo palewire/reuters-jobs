@@ -1,69 +1,5 @@
 [
   {
-    "cityState": "London",
-    "country": "United Kingdom",
-    "ml_skills": [
-      "newsletters",
-      "editing",
-      "multimedia",
-      "business development"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "You must be someone who has a track record for creating and growing well-read newsletters, enjoys collaborating across teams, has excellent story judgment, editing skills. Ability to collaborate acros...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-0.0185088",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ178518",
-    "jobId": "JREQ178518",
-    "city": "London",
-    "latitude": "51.5056439",
-    "locale": "en_US",
-    "multi_location": [
-      "London, United Kingdom"
-    ],
-    "title": "Deputy Editor, Newsletters - Thomson Reuters Foundation",
-    "jobSeqNo": "THTTRUUSJREQ178518EXTERNALENUS",
-    "postedDate": "2024-06-03T00:00:00.000+0000",
-    "dateCreated": "2024-04-29T16:40:22.306+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Deputy-Editor--Newsletters_JREQ178518/apply",
-    "location": "London, United Kingdom",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "You must be someone who has a track record for creating and growing well-read newsletters, enjoys collaborating across teams, has excellent story judgment, editing skills. Ability to collaborate acros...",
-      "descriptionTeaser_first200": "We are looking for a talented journalism and product leader to join the Thomson Reuters Foundation\u2019s digital news platform, Context, as Deputy Editor, Newsletters. This critical role will be tasked with...",
-      "descriptionTeaser_keyword": "We are looking for a talented journalism and product leader to join the Thomson Reuters Foundation\u2019s digital news platform, Context, as Deputy Editor, Newsletters. This critical role will be tasked wi...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -0.0185088,
-          "lat": 51.5056439
-        },
-        "location": "London, United Kingdom"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Toronto, Ontario",
     "country": "Canada",
     "ml_skills": [
@@ -131,6 +67,70 @@
     "cityState": "London",
     "country": "United Kingdom",
     "ml_skills": [
+      "newsletters",
+      "editing",
+      "multimedia",
+      "business development"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "You must be someone who has a track record for creating and growing well-read newsletters, enjoys collaborating across teams, has excellent story judgment, editing skills. Ability to collaborate acros...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.0185088",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ178518",
+    "jobId": "JREQ178518",
+    "city": "London",
+    "latitude": "51.5056439",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom"
+    ],
+    "title": "Deputy Editor, Newsletters - Thomson Reuters Foundation",
+    "jobSeqNo": "THTTRUUSJREQ178518EXTERNALENUS",
+    "postedDate": "2024-06-03T00:00:00.000+0000",
+    "dateCreated": "2024-04-29T16:40:22.306+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Deputy-Editor--Newsletters_JREQ178518/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "You must be someone who has a track record for creating and growing well-read newsletters, enjoys collaborating across teams, has excellent story judgment, editing skills. Ability to collaborate acros...",
+      "descriptionTeaser_first200": "We are looking for a talented journalism and product leader to join the Thomson Reuters Foundation\u2019s digital news platform, Context, as Deputy Editor, Newsletters. This critical role will be tasked with...",
+      "descriptionTeaser_keyword": "We are looking for a talented journalism and product leader to join the Thomson Reuters Foundation\u2019s digital news platform, Context, as Deputy Editor, Newsletters. This critical role will be tasked wi...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.0185088,
+          "lat": 51.5056439
+        },
+        "location": "London, United Kingdom"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "London",
+    "country": "United Kingdom",
+    "ml_skills": [
       "justice",
       "publishing",
       "editing",
@@ -170,72 +170,6 @@
       "descriptionTeaser": "In this opportunity as Manager, Central Editorial (UK), you will be responsible for the organization and supervision of a team of editors that you will help build. Work with PL Editorial management an...",
       "descriptionTeaser_first200": "About the role. In this opportunity as Manager, Central Editorial (UK), you will be responsible for the organization and supervision of a team of editors that you will help build. Working with other teams...",
       "descriptionTeaser_keyword": "About the role. In this opportunity as Manager, Central Editorial (UK), you will be responsible for the organization and supervision of a team of editors that you will help build. Working with other t...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -0.0185088,
-          "lat": 51.5056439
-        },
-        "location": "London, United Kingdom"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "London",
-    "country": "United Kingdom",
-    "ml_skills": [
-      "video production",
-      "video editing",
-      "motion graphics",
-      "multimedia",
-      "digital newsroom",
-      "visual storytelling"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Reuters is looking for digital producers with excellent video editing skills and experience creating video content for online and social platforms. Edit and deliver video content as directed by the te...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-0.0185088",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ178696",
-    "jobId": "JREQ178696",
-    "city": "London",
-    "latitude": "51.5056439",
-    "locale": "en_US",
-    "multi_location": [
-      "London, United Kingdom"
-    ],
-    "title": "Digital Producer, Reuters Packaged Video",
-    "jobSeqNo": "THTTRUUSJREQ178696EXTERNALENUS",
-    "postedDate": "2024-06-03T00:00:00.000+0000",
-    "dateCreated": "2024-05-20T12:40:17.766+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Digital-Producer--Reuters-Packaged-Video_JREQ178696/apply",
-    "location": "London, United Kingdom",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Reuters is looking for digital producers with excellent video editing skills and experience creating video content for online and social platforms. Edit and deliver video content as directed by the te...",
-      "descriptionTeaser_first200": "Digital Producer, Reuters Packaged Video, London. Do you want to be part of a team creating innovative video features, explainers and special reports for the world\u2019s largest international multimedia news...",
-      "descriptionTeaser_keyword": "Digital Producer, Reuters Packaged Video, London. Do you want to be part of a team creating innovative video features, explainers and special reports for the world\u2019s largest international multimedia n...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
