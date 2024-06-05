@@ -1,5 +1,72 @@
 [
   {
+    "cityState": "Eagan, Minnesota",
+    "country": "United States of America",
+    "ml_skills": [
+      "westlaw",
+      "publishing",
+      "legal research",
+      "word processing",
+      "analytical thinker",
+      "proview",
+      "leadership development"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "In this role you will provide legal interpretation in the form of research, analysis, and writing to support the development and maintenance of Thomson Reuters Legal information in all media. To be mo...",
+    "state": "Minnesota",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-93.10808019999999",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ178044",
+    "jobId": "JREQ178044",
+    "city": "Eagan",
+    "latitude": "44.8527611",
+    "locale": "en_US",
+    "multi_location": [
+      "Eagan, Minnesota, United States of America"
+    ],
+    "title": "Attorney Editor",
+    "jobSeqNo": "THTTRUUSJREQ178044EXTERNALENUS",
+    "postedDate": "2024-06-05T00:00:00.000+0000",
+    "dateCreated": "2024-06-05T16:39:33.941+0000",
+    "cityStateCountry": "Eagan, Minnesota, United States of America",
+    "address": "2900 Ames Crossing Road, Ste 100, Eagan, MN 55121, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MSP-2900-Ames-Crossing-Road/Attorney-Editor_JREQ178044/apply",
+    "location": "Eagan, Minnesota, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "In this role you will provide legal interpretation in the form of research, analysis, and writing to support the development and maintenance of Thomson Reuters Legal information in all media. To be mo...",
+      "descriptionTeaser_first200": "Commentary Law: As a member of the Global Commentary team you will work closely with authors to create and edit Commentary content for Westlaw, print, and Proview. Relationship management, meeting deadlines,...",
+      "descriptionTeaser_keyword": "Commentary Law: As a member of the Global Commentary team you will work closely with authors to create and edit Commentary content for Westlaw, print, and Proview. Relationship management, meeting dea...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -93.10808019999999,
+          "lat": 44.8527611
+        },
+        "location": "Eagan, Minnesota, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "London",
     "country": "United Kingdom",
     "ml_skills": [
@@ -267,73 +334,6 @@
     "badge": ""
   },
   {
-    "cityState": "Gdansk",
-    "country": "Poland",
-    "ml_skills": [
-      "journalism",
-      "vocabulary",
-      "multimedia",
-      "norwegian",
-      "danish",
-      "equities",
-      "icelandic"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "An ability to write clearly and quickly to meet Reuters reporting standards and principles. # Write headlines and news summaries accurately, quickly and with high standards of credibility, in accordan...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "18.5752702",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ179416",
-    "jobId": "JREQ179416",
-    "city": "Gdansk",
-    "latitude": "54.4004235",
-    "locale": "en_US",
-    "multi_location": [
-      "Gdansk, Poland"
-    ],
-    "title": "News Reporter, Reuters (Nordic Language Speaking)",
-    "jobSeqNo": "THTTRUUSJREQ179416EXTERNALENUS",
-    "postedDate": "2024-06-04T00:00:00.000+0000",
-    "dateCreated": "2024-06-04T12:40:01.489+0000",
-    "cityStateCountry": "Gdansk, Poland",
-    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/News-Reporter--Reuters--Nordic-Language-Speaking-_JREQ179416/apply",
-    "location": "Gdansk, Poland",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "An ability to write clearly and quickly to meet Reuters reporting standards and principles. # Write headlines and news summaries accurately, quickly and with high standards of credibility, in accordan...",
-      "descriptionTeaser_first200": "Join the Reuters real-time news operation producing headlines and news summaries based on companies from around the world, with a strong focus on Denmark, Sweden, Iceland, Finland and Norway coverage....",
-      "descriptionTeaser_keyword": "Join the Reuters real-time news operation producing headlines and news summaries based on companies from around the world, with a strong focus on Denmark, Sweden, Iceland, Finland and Norway coverage....",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 18.5752702,
-          "lat": 54.4004235
-        },
-        "location": "Gdansk, Poland"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Minneapolis, Minnesota",
     "country": "United States of America",
     "remote": "Hybrid",
@@ -392,6 +392,73 @@
           "lat": 44.8253064
         },
         "location": "Minneapolis, Minnesota, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Gdansk",
+    "country": "Poland",
+    "ml_skills": [
+      "journalism",
+      "vocabulary",
+      "multimedia",
+      "norwegian",
+      "danish",
+      "equities",
+      "icelandic"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "An ability to write clearly and quickly to meet Reuters reporting standards and principles. # Write headlines and news summaries accurately, quickly and with high standards of credibility, in accordan...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "18.5752702",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ179416",
+    "jobId": "JREQ179416",
+    "city": "Gdansk",
+    "latitude": "54.4004235",
+    "locale": "en_US",
+    "multi_location": [
+      "Gdansk, Poland"
+    ],
+    "title": "News Reporter, Reuters (Nordic Language Speaking)",
+    "jobSeqNo": "THTTRUUSJREQ179416EXTERNALENUS",
+    "postedDate": "2024-06-04T00:00:00.000+0000",
+    "dateCreated": "2024-06-04T12:40:01.489+0000",
+    "cityStateCountry": "Gdansk, Poland",
+    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/News-Reporter--Reuters--Nordic-Language-Speaking-_JREQ179416/apply",
+    "location": "Gdansk, Poland",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "An ability to write clearly and quickly to meet Reuters reporting standards and principles. # Write headlines and news summaries accurately, quickly and with high standards of credibility, in accordan...",
+      "descriptionTeaser_first200": "Join the Reuters real-time news operation producing headlines and news summaries based on companies from around the world, with a strong focus on Denmark, Sweden, Iceland, Finland and Norway coverage....",
+      "descriptionTeaser_keyword": "Join the Reuters real-time news operation producing headlines and news summaries based on companies from around the world, with a strong focus on Denmark, Sweden, Iceland, Finland and Norway coverage....",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 18.5752702,
+          "lat": 54.4004235
+        },
+        "location": "Gdansk, Poland"
       }
     ],
     "isMultiCategory": true,
