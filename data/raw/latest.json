@@ -662,6 +662,73 @@
     "badge": ""
   },
   {
+    "cityState": "Gdansk",
+    "country": "Poland",
+    "ml_skills": [
+      "journalism",
+      "vocabulary",
+      "multimedia",
+      "norwegian",
+      "danish",
+      "equities",
+      "icelandic"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "An ability to write clearly and quickly to meet Reuters reporting standards and principles. # Write headlines and news summaries accurately, quickly and with high standards of credibility, in accordan...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "18.5752702",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ179416",
+    "jobId": "JREQ179416",
+    "city": "Gdansk",
+    "latitude": "54.4004235",
+    "locale": "en_US",
+    "multi_location": [
+      "Gdansk, Poland"
+    ],
+    "title": "News Reporter, Reuters (Nordic Language Speaking)",
+    "jobSeqNo": "THTTRUUSJREQ179416EXTERNALENUS",
+    "postedDate": "2024-06-04T00:00:00.000+0000",
+    "dateCreated": "2024-06-04T12:40:01.489+0000",
+    "cityStateCountry": "Gdansk, Poland",
+    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/News-Reporter--Reuters--Nordic-Language-Speaking-_JREQ179416/apply",
+    "location": "Gdansk, Poland",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "An ability to write clearly and quickly to meet Reuters reporting standards and principles. # Write headlines and news summaries accurately, quickly and with high standards of credibility, in accordan...",
+      "descriptionTeaser_first200": "Join the Reuters real-time news operation producing headlines and news summaries based on companies from around the world, with a strong focus on Denmark, Sweden, Iceland, Finland and Norway coverage....",
+      "descriptionTeaser_keyword": "Join the Reuters real-time news operation producing headlines and news summaries based on companies from around the world, with a strong focus on Denmark, Sweden, Iceland, Finland and Norway coverage....",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 18.5752702,
+          "lat": 54.4004235
+        },
+        "location": "Gdansk, Poland"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Minneapolis, Minnesota",
     "country": "United States of America",
     "remote": "Hybrid",
@@ -720,73 +787,6 @@
           "lat": 44.8253064
         },
         "location": "Minneapolis, Minnesota, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Gdansk",
-    "country": "Poland",
-    "ml_skills": [
-      "journalism",
-      "vocabulary",
-      "multimedia",
-      "norwegian",
-      "danish",
-      "equities",
-      "icelandic"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "An ability to write clearly and quickly to meet Reuters reporting standards and principles. # Write headlines and news summaries accurately, quickly and with high standards of credibility, in accordan...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "18.5752702",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ179416",
-    "jobId": "JREQ179416",
-    "city": "Gdansk",
-    "latitude": "54.4004235",
-    "locale": "en_US",
-    "multi_location": [
-      "Gdansk, Poland"
-    ],
-    "title": "News Reporter, Reuters (Nordic Language Speaking)",
-    "jobSeqNo": "THTTRUUSJREQ179416EXTERNALENUS",
-    "postedDate": "2024-06-04T00:00:00.000+0000",
-    "dateCreated": "2024-06-04T12:40:01.489+0000",
-    "cityStateCountry": "Gdansk, Poland",
-    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/News-Reporter--Reuters--Nordic-Language-Speaking-_JREQ179416/apply",
-    "location": "Gdansk, Poland",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "An ability to write clearly and quickly to meet Reuters reporting standards and principles. # Write headlines and news summaries accurately, quickly and with high standards of credibility, in accordan...",
-      "descriptionTeaser_first200": "Join the Reuters real-time news operation producing headlines and news summaries based on companies from around the world, with a strong focus on Denmark, Sweden, Iceland, Finland and Norway coverage....",
-      "descriptionTeaser_keyword": "Join the Reuters real-time news operation producing headlines and news summaries based on companies from around the world, with a strong focus on Denmark, Sweden, Iceland, Finland and Norway coverage....",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 18.5752702,
-          "lat": 54.4004235
-        },
-        "location": "Gdansk, Poland"
       }
     ],
     "isMultiCategory": true,
@@ -1059,73 +1059,6 @@
     "badge": ""
   },
   {
-    "cityState": "North Hollywood, California",
-    "country": "United States of America",
-    "remote": "Remote",
-    "type": "Full time",
-    "descriptionTeaser": "In this position, you will perform legal research, analysis and writing to support the development and maintenance of The Rutter Group\u2019s premier legal content as reflected in its Practice Guides. Deve...",
-    "state": "California",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-118.3747284",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ175343",
-    "jobId": "JREQ175343",
-    "city": "North Hollywood",
-    "latitude": "34.1642783",
-    "locale": "en_US",
-    "multi_location": [
-      "North Hollywood, California, United States of America"
-    ],
-    "title": "Senior Attorney Editor",
-    "jobSeqNo": "THTTRUUSJREQ175343EXTERNALENUS",
-    "postedDate": "2024-06-04T00:00:00.000+0000",
-    "dateCreated": "2024-04-08T20:39:49.547+0000",
-    "cityStateCountry": "North Hollywood, California, United States of America",
-    "address": "5161 Lankershim Blvd, North Hollywood, CA 91601, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-North-Hollywood-5161-Lankershim-Blvd/Senior-Attorney-Editor_JREQ175343-1/apply",
-    "location": "North Hollywood, California, United States of America",
-    "category": "News & Editorial Careers",
-    "externalApply": true,
-    "ml_skills": [
-      "publishing",
-      "legal research",
-      "justice",
-      "case law",
-      "commerce",
-      "editing",
-      "continuing legal education"
-    ],
-    "ml_job_parser": {
-      "descriptionTeaser": "In this position, you will perform legal research, analysis and writing to support the development and maintenance of The Rutter Group\u2019s premier legal content as reflected in its Practice Guides. Deve...",
-      "descriptionTeaser_keyword": "Senior Attorney Editor, Legal Commentary Editorial, The Rutter Group Editorial Team. Do you want to be a part of the team that produces the go-to resource for practicing California attorneys? The Rutt...",
-      "descriptionTeaser_ats": "",
-      "descriptionTeaser_first200": "Senior Attorney Editor, Legal Commentary Editorial, The Rutter Group Editorial Team. Do you want to be a part of the team that produces the go-to resource for practicing California attorneys? The Rutter..."
-    },
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -118.3747284,
-          "lat": 34.1642783
-        },
-        "location": "North Hollywood, California, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "S\u00e3o Paulo, S\u00e3o Paulo",
     "country": "Brazil",
     "ml_skills": [
@@ -1183,6 +1116,73 @@
           "lat": -23.5990338
         },
         "location": "S\u00e3o Paulo, S\u00e3o Paulo, Brazil"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "North Hollywood, California",
+    "country": "United States of America",
+    "remote": "Remote",
+    "type": "Full time",
+    "descriptionTeaser": "In this position, you will perform legal research, analysis and writing to support the development and maintenance of The Rutter Group\u2019s premier legal content as reflected in its Practice Guides. Deve...",
+    "state": "California",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-118.3747284",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ175343",
+    "jobId": "JREQ175343",
+    "city": "North Hollywood",
+    "latitude": "34.1642783",
+    "locale": "en_US",
+    "multi_location": [
+      "North Hollywood, California, United States of America"
+    ],
+    "title": "Senior Attorney Editor",
+    "jobSeqNo": "THTTRUUSJREQ175343EXTERNALENUS",
+    "postedDate": "2024-06-04T00:00:00.000+0000",
+    "dateCreated": "2024-04-08T20:39:49.547+0000",
+    "cityStateCountry": "North Hollywood, California, United States of America",
+    "address": "5161 Lankershim Blvd, North Hollywood, CA 91601, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-North-Hollywood-5161-Lankershim-Blvd/Senior-Attorney-Editor_JREQ175343-1/apply",
+    "location": "North Hollywood, California, United States of America",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "ml_skills": [
+      "publishing",
+      "legal research",
+      "justice",
+      "case law",
+      "commerce",
+      "editing",
+      "continuing legal education"
+    ],
+    "ml_job_parser": {
+      "descriptionTeaser": "In this position, you will perform legal research, analysis and writing to support the development and maintenance of The Rutter Group\u2019s premier legal content as reflected in its Practice Guides. Deve...",
+      "descriptionTeaser_keyword": "Senior Attorney Editor, Legal Commentary Editorial, The Rutter Group Editorial Team. Do you want to be a part of the team that produces the go-to resource for practicing California attorneys? The Rutt...",
+      "descriptionTeaser_ats": "",
+      "descriptionTeaser_first200": "Senior Attorney Editor, Legal Commentary Editorial, The Rutter Group Editorial Team. Do you want to be a part of the team that produces the go-to resource for practicing California attorneys? The Rutter..."
+    },
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -118.3747284,
+          "lat": 34.1642783
+        },
+        "location": "North Hollywood, California, United States of America"
       }
     ],
     "isMultiCategory": true,
@@ -1453,14 +1453,12 @@
     "cityState": "Manila",
     "country": "Philippines",
     "ml_skills": [
-      "justice",
-      "german",
       "french",
       "portuguese",
+      "german",
       "italian",
-      "quality control",
-      "dutch",
-      "arabic"
+      "arabic",
+      "dutch"
     ],
     "remote": "Hybrid",
     "type": "Full time",
