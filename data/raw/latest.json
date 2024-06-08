@@ -202,6 +202,143 @@
     "cityState": "London",
     "country": "United Kingdom",
     "ml_skills": [
+      "editing",
+      "fact-checking",
+      "global news writing",
+      "news writing",
+      "french",
+      "editorial standards",
+      "multimedia",
+      "digital verification techniques",
+      "constructive feedback",
+      "juggling",
+      "osint",
+      "business development"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "As our Fact-Checking Editor, EU, you'll take the lead on highly-visible projects with major clients whilst juggling the demands of both our editorial standards and business development within our fact...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.0185088",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ179632",
+    "jobId": "JREQ179632",
+    "city": "London",
+    "latitude": "51.5056439",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom"
+    ],
+    "title": "Fact-Checking Editor, EU",
+    "jobSeqNo": "THTTRUUSJREQ179632EXTERNALENUS",
+    "postedDate": "2024-06-07T00:00:00.000+0000",
+    "dateCreated": "2024-06-07T20:40:14.046+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Fact-Checking-Editor--EU_JREQ179632/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "As our Fact-Checking Editor, EU, you'll take the lead on highly-visible projects with major clients whilst juggling the demands of both our editorial standards and business development within our fact...",
+      "descriptionTeaser_first200": "Fact-Checking Editor, EU. This hybrid position will likely be based in London. Other locations within Europe will also be considered. Looking to use your editing skills to control the spread of misinformation...",
+      "descriptionTeaser_keyword": "Fact-Checking Editor, EU. This hybrid position will likely be based in London. Other locations within Europe will also be considered. Looking to use your editing skills to control the spread of misinf...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.0185088,
+          "lat": 51.5056439
+        },
+        "location": "London, United Kingdom"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "New York, New York",
+    "country": "United States of America",
+    "ml_skills": [
+      "foreign exchange",
+      "macroeconomics",
+      "fundamental analysis",
+      "financial markets",
+      "technical analysis"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "The successful candidate will have a deep understanding of foreign exchange and other financial markets, technical analysis as well as factors that influence currencies, including interest rates, comm...",
+    "state": "New York",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-73.9866995",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ179680",
+    "jobId": "JREQ179680",
+    "city": "New York",
+    "latitude": "40.7566955",
+    "locale": "en_US",
+    "multi_location": [
+      "New York, New York, United States of America"
+    ],
+    "title": "U.S. Senior FX Analyst, FXBuzz",
+    "jobSeqNo": "THTTRUUSJREQ179680EXTERNALENUS",
+    "postedDate": "2024-06-07T00:00:00.000+0000",
+    "dateCreated": "2024-06-07T20:40:14.043+0000",
+    "cityStateCountry": "New York, New York, United States of America",
+    "address": "3 Times Square, New York, NY 10036, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-New-York-3-Times-Square/US-Senior-FX-Analyst--FXBuzz_JREQ179680/apply",
+    "location": "New York, New York, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "The successful candidate will have a deep understanding of foreign exchange and other financial markets, technical analysis as well as factors that influence currencies, including interest rates, comm...",
+      "descriptionTeaser_first200": "Reuters is looking for an experienced trader or analyst to cover the foreign exchange market for professional clients of the Reuters FXBuzz service as part of a global team. We\u2019re seeking someone who...",
+      "descriptionTeaser_keyword": "Reuters is looking for an experienced trader or analyst to cover the foreign exchange market for professional clients of the Reuters FXBuzz service as part of a global team. We\u2019re seeking someone who...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -73.9866995,
+          "lat": 40.7566955
+        },
+        "location": "New York, New York, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "London",
+    "country": "United Kingdom",
+    "ml_skills": [
       "breaking news",
       "broadcast television",
       "multimedia",
@@ -1986,74 +2123,6 @@
     "badge": ""
   },
   {
-    "cityState": "Frisco, Texas",
-    "country": "United States of America",
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Utilizing project management skills including analyzing changes in tax code and the resulting software changes required; scoping the impact of the product enhancements and tax code changes on the soft...",
-    "state": "Texas",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-96.833545",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ179217",
-    "jobId": "JREQ179217",
-    "city": "Frisco",
-    "latitude": "33.1073049",
-    "locale": "en_US",
-    "multi_location": [
-      "Frisco, Texas, United States of America"
-    ],
-    "title": "Product Tax Analyst",
-    "jobSeqNo": "THTTRUUSJREQ179217EXTERNALENUS",
-    "postedDate": "2024-05-29T00:00:00.000+0000",
-    "dateCreated": "2024-05-29T16:41:05.971+0000",
-    "cityStateCountry": "Frisco, Texas, United States of America",
-    "address": "6160 Warren Parkway, Frisco, TX 75034, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Frisco-6160-Warren-Parkway/Product-Tax-Analyst_JREQ179217/apply",
-    "location": "Frisco, Texas, United States of America",
-    "category": "News & Editorial Careers",
-    "externalApply": true,
-    "ml_skills": [
-      "project management",
-      "software development",
-      "checkpoint",
-      "software development information",
-      "tax software",
-      "filing",
-      "technical writing",
-      "tax analysis"
-    ],
-    "ml_job_parser": {
-      "descriptionTeaser": "Utilizing project management skills including analyzing changes in tax code and the resulting software changes required; scoping the impact of the product enhancements and tax code changes on the soft...",
-      "descriptionTeaser_keyword": "Summary of the Role. You will participate in the design, development, and testing of our GoSystem Tax using in-house development tools. In this role, you will collect, analyze, and prioritize requirem...",
-      "descriptionTeaser_ats": "",
-      "descriptionTeaser_first200": "Summary of the Role. You will participate in the design, development, and testing of our GoSystem Tax using in-house development tools. In this role, you will collect, analyze, and prioritize requirements..."
-    },
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -96.833545,
-          "lat": 33.1073049
-        },
-        "location": "Frisco, Texas, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Gdansk",
     "country": "Poland",
     "ml_skills": [
@@ -3568,77 +3637,6 @@
     "badge": ""
   },
   {
-    "cityState": "Toronto, Ontario",
-    "country": "Canada",
-    "ml_skills": [
-      "editing",
-      "breaking news",
-      "graphics",
-      "video editing software",
-      "publishing",
-      "video editing",
-      "multimedia",
-      "web publishing",
-      "content management",
-      "captions",
-      "web publishing software"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Be a resourceful researcher who on days when no Live Page is published can news plan and generate ideas to create posts for future Live Pages, drawing on Reuters immense archives and the collective ex...",
-    "state": "Ontario",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-79.3884094",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ177623",
-    "jobId": "JREQ177623",
-    "city": "Toronto",
-    "latitude": "43.6480117",
-    "locale": "en_US",
-    "multi_location": [
-      "Toronto, Ontario, Canada"
-    ],
-    "title": "Live Pages Journalist, Reuters",
-    "jobSeqNo": "THTTRUUSJREQ177623EXTERNALENUS",
-    "postedDate": "2024-05-16T00:00:00.000+0000",
-    "dateCreated": "2024-04-23T16:39:38.895+0000",
-    "cityStateCountry": "Toronto, Ontario, Canada",
-    "address": "19 Duncan Street, Toronto, ON M5H 3H1, Canada",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CAN-Toronto-19-Duncan-Street/Live-Pages-Journalist--Reuters_JREQ177623/apply",
-    "location": "Toronto, Ontario, Canada",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Be a resourceful researcher who on days when no Live Page is published can news plan and generate ideas to create posts for future Live Pages, drawing on Reuters immense archives and the collective ex...",
-      "descriptionTeaser_first200": "Are you a versatile multimedia journalist with excellent writing skills? Do you have a startup mindset? If so, you might be an ideal candidate to join the newly created Live Coverage team at Reuters....",
-      "descriptionTeaser_keyword": "Are you a versatile multimedia journalist with excellent writing skills? Do you have a startup mindset? If so, you might be an ideal candidate to join the newly created Live Coverage team at Reuters....",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -79.3884094,
-          "lat": 43.6480117
-        },
-        "location": "Toronto, Ontario, Canada"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Singapore",
     "country": "Singapore",
     "ml_skills": [
@@ -3909,142 +3907,6 @@
           "lat": 43.6480117
         },
         "location": "Toronto, Ontario, Canada"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "London",
-    "country": "United Kingdom",
-    "ml_skills": [
-      "publishing",
-      "seo",
-      "multimedia",
-      "google analytics",
-      "analytics tools"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Use data and analytics tools to develop a deeper understanding of the current Reuters audience, and create regular data reports with actionable insights. Experience working in a role that requires a g...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-0.0185088",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ178674",
-    "jobId": "JREQ178674",
-    "city": "London",
-    "latitude": "51.5056439",
-    "locale": "en_US",
-    "multi_location": [
-      "London, United Kingdom"
-    ],
-    "title": "Audience Producer",
-    "jobSeqNo": "THTTRUUSJREQ178674EXTERNALENUS",
-    "postedDate": "2024-05-09T00:00:00.000+0000",
-    "dateCreated": "2024-05-09T16:40:01.660+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Audience-Producer_JREQ178674-1/apply",
-    "location": "London, United Kingdom",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Use data and analytics tools to develop a deeper understanding of the current Reuters audience, and create regular data reports with actionable insights. Experience working in a role that requires a g...",
-      "descriptionTeaser_first200": "The Reuters Audience team is hiring a team of Audience Producers around the world to contribute to the growth of international readership to Reuters.com and the Reuters app. This role will be responsible...",
-      "descriptionTeaser_keyword": "The Reuters Audience team is hiring a team of Audience Producers around the world to contribute to the growth of international readership to Reuters. com and the Reuters app. This role will be respons...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -0.0185088,
-          "lat": 51.5056439
-        },
-        "location": "London, United Kingdom"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "London",
-    "country": "United Kingdom",
-    "ml_skills": [
-      "digital media",
-      "editing",
-      "multimedia"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "The Newsletter Producer \u2013 which sits within the Audience team \u2013 will also work on giving newsletter guidance to authors and editors. Analyze relevant data and metrics of newsletters on a regular basis...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-0.0185088",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ178568",
-    "jobId": "JREQ178568",
-    "city": "London",
-    "latitude": "51.5056439",
-    "locale": "en_US",
-    "multi_location": [
-      "London, United Kingdom",
-      "Bengaluru, Karnataka, India"
-    ],
-    "title": "Audience Producer, Newsletters & Notifications",
-    "jobSeqNo": "THTTRUUSJREQ178568EXTERNALENUS",
-    "postedDate": "2024-05-09T00:00:00.000+0000",
-    "dateCreated": "2024-05-09T16:40:01.654+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Audience-Producer--Newsletters---Notifications_JREQ178568/apply",
-    "location": "London, United Kingdom",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "The Newsletter Producer \u2013 which sits within the Audience team \u2013 will also work on giving newsletter guidance to authors and editors. Analyze relevant data and metrics of newsletters on a regular basis...",
-      "descriptionTeaser_first200": "With a portfolio of 18 newsletters and hundreds of thousands of subscribers, Reuters has a growing audience of readers finding our journalism in their inboxes. The Newsletter & Notification Producer will...",
-      "descriptionTeaser_keyword": "With a portfolio of 18 newsletters and hundreds of thousands of subscribers, Reuters has a growing audience of readers finding our journalism in their inboxes. The Newsletter & Notification Producer w...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -0.0185088,
-          "lat": 51.5056439
-        },
-        "location": "London, United Kingdom"
-      },
-      {
-        "latlong": {
-          "lon": 77.7120655,
-          "lat": 12.9743998
-        },
-        "location": "Bengaluru, Karnataka, India"
       }
     ],
     "isMultiCategory": true,
