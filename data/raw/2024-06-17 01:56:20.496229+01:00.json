@@ -183,6 +183,138 @@
     "badge": ""
   },
   {
+    "cityState": "London",
+    "country": "United Kingdom",
+    "ml_skills": [
+      "multimedia",
+      "financial services",
+      "reinsurance",
+      "insurance industry"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "In this vital role, you'll be out and about within the London market \u2013 the leading global insurance specialty hub \u2013 sourcing exclusive news and scoops through the book of contacts you will build from...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.0779547",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ178768",
+    "jobId": "JREQ178768",
+    "city": "London",
+    "latitude": "51.516899",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom"
+    ],
+    "title": "Chief Reporter - UK & Europe, The Insurer",
+    "jobSeqNo": "THTTRUUSJREQ178768EXTERNALENUS",
+    "postedDate": "2024-06-14T00:00:00.000+0000",
+    "dateCreated": "2024-05-14T12:39:40.748+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "8 Devonshire Square, Office 04-110, London, EC2M4YJ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-8-Devonshire-Square/Chief-Reporter--UK---Europe--The-Insurer---Reuters_JREQ178768/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "In this vital role, you'll be out and about within the London market \u2013 the leading global insurance specialty hub \u2013 sourcing exclusive news and scoops through the book of contacts you will build from...",
+      "descriptionTeaser_first200": "Chief Reporter, UK & Europe, The Insurer - Reuters. This hybrid position will be based in London. Are you an experienced scoop-driven news journalist looking for your next opportunity? Want to break key...",
+      "descriptionTeaser_keyword": "Chief Reporter, UK & Europe, The Insurer - Reuters. This hybrid position will be based in London. Are you an experienced scoop-driven news journalist looking for your next opportunity? Want to break k...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.0779547,
+          "lat": 51.516899
+        },
+        "location": "London, United Kingdom"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Bengaluru, Karnataka",
+    "country": "India",
+    "ml_skills": [
+      "digital marketing",
+      "web publishing",
+      "digital media",
+      "content creation",
+      "content management systems",
+      "microsoft office suite",
+      "customer services operation",
+      "business systems"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Create online content of attorney and their firms and restructure custom content written for law firm Web sites. ( Should be familiar with Web technologies and Digital marketing, and preferably have e...",
+    "state": "Karnataka",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "77.7120655",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ179203",
+    "jobId": "JREQ179203",
+    "city": "Bengaluru",
+    "latitude": "12.9743998",
+    "locale": "en_US",
+    "multi_location": [
+      "Bengaluru, Karnataka, India"
+    ],
+    "title": "Copy Writer",
+    "jobSeqNo": "THTTRUUSJREQ179203EXTERNALENUS",
+    "postedDate": "2024-06-14T00:00:00.000+0000",
+    "dateCreated": "2024-06-16T06:18:39.806+0000",
+    "cityStateCountry": "Bengaluru, Karnataka, India",
+    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/Copy-Writer_JREQ179203-1/apply",
+    "location": "Bengaluru, Karnataka, India",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Create online content of attorney and their firms and restructure custom content written for law firm Web sites. ( Should be familiar with Web technologies and Digital marketing, and preferably have e...",
+      "descriptionTeaser_first200": "Do you love to solve problems and find better ways of getting things done? Do you love asking \u2018why\u2019 about pretty much everything? And does it make you happy when things are perfectly aligned and standardized?...",
+      "descriptionTeaser_keyword": "Do you love to solve problems and find better ways of getting things done? Do you love asking \u2018why\u2019 about pretty much everything? And does it make you happy when things are perfectly aligned and stand...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 77.7120655,
+          "lat": 12.9743998
+        },
+        "location": "Bengaluru, Karnataka, India"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Pyrmont, New South Wales",
     "country": "Australia",
     "ml_skills": [
@@ -238,73 +370,6 @@
           "lat": -33.8664432
         },
         "location": "Pyrmont, New South Wales, Australia"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Manila",
-    "country": "Philippines",
-    "ml_skills": [
-      "digital marketing",
-      "content strategy",
-      "project management",
-      "journalism",
-      "grammar",
-      "project management tools",
-      "legal research"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Research and write compelling blog content in English for legal clients that complies with internal best practices, industry standards, and corporate policies, and eventually grow into developing cont...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "121.0520086",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ172868",
-    "jobId": "JREQ172868",
-    "city": "Manila",
-    "latitude": "14.5344436",
-    "locale": "en_US",
-    "multi_location": [
-      "Manila, Philippines"
-    ],
-    "title": "Content Marketer",
-    "jobSeqNo": "THTTRUUSJREQ172868EXTERNALENUS",
-    "postedDate": "2024-06-13T00:00:00.000+0000",
-    "dateCreated": "2023-10-10T08:41:54.918+0000",
-    "cityStateCountry": "Manila, Philippines",
-    "address": "20 Upper McKinley Building, Upper McKinley Road, McKinley Hill, Manila, 1634, Philippines",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/PHL-Taguig-20-Upper-McKinley-Bldg/Content-Marketer_JREQ172868/apply",
-    "location": "Manila, Philippines",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Research and write compelling blog content in English for legal clients that complies with internal best practices, industry standards, and corporate policies, and eventually grow into developing cont...",
-      "descriptionTeaser_first200": "Content Marketer | Operations Customer Service & Support. Thomson Reuters, an industry leader at the intersection of content and technology, is looking for a perceptive and self-driven professional content...",
-      "descriptionTeaser_keyword": "Content Marketer | Operations Customer Service & Support. Thomson Reuters, an industry leader at the intersection of content and technology, is looking for a perceptive and self-driven professional co...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 121.0520086,
-          "lat": 14.5344436
-        },
-        "location": "Manila, Philippines"
       }
     ],
     "isMultiCategory": true,
@@ -546,6 +611,75 @@
     "badge": ""
   },
   {
+    "cityState": "Manila",
+    "country": "Philippines",
+    "ml_skills": [
+      "digital marketing",
+      "commerce",
+      "content strategy",
+      "project management",
+      "journalism",
+      "justice",
+      "grammar",
+      "project management tools",
+      "legal research"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Research and write compelling blog content in English for legal clients that complies with internal best practices, industry standards, and corporate policies, and eventually grow into developing cont...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "121.0520086",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ172868",
+    "jobId": "JREQ172868",
+    "city": "Manila",
+    "latitude": "14.5344436",
+    "locale": "en_US",
+    "multi_location": [
+      "Manila, Philippines"
+    ],
+    "title": "Content Marketer",
+    "jobSeqNo": "THTTRUUSJREQ172868EXTERNALENUS",
+    "postedDate": "2024-06-13T00:00:00.000+0000",
+    "dateCreated": "2023-10-10T08:41:54.918+0000",
+    "cityStateCountry": "Manila, Philippines",
+    "address": "20 Upper McKinley Building, Upper McKinley Road, McKinley Hill, Manila, 1634, Philippines",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/PHL-Taguig-20-Upper-McKinley-Bldg/Content-Marketer_JREQ172868/apply",
+    "location": "Manila, Philippines",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Research and write compelling blog content in English for legal clients that complies with internal best practices, industry standards, and corporate policies, and eventually grow into developing cont...",
+      "descriptionTeaser_first200": "Content Marketer | Operations Customer Service & Support. Thomson Reuters, an industry leader at the intersection of content and technology, is looking for a perceptive and self-driven professional content...",
+      "descriptionTeaser_keyword": "Content Marketer | Operations Customer Service & Support. Thomson Reuters, an industry leader at the intersection of content and technology, is looking for a perceptive and self-driven professional co...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 121.0520086,
+          "lat": 14.5344436
+        },
+        "location": "Manila, Philippines"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Washington, District of Columbia",
     "country": "United States of America",
     "ml_skills": [
@@ -685,7 +819,7 @@
     "country": "Brazil",
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "Voc\u00ea ir\u00e1 se juntar a uma empresa com ambiente de trabalho inclusivo, comprometida com seu desenvolvimento profissional e pessoal por meio de. Aprendizado e desenvolvimento: Acesso ao LinkedIn Learning...",
+    "descriptionTeaser": "Voc\u00ea ir\u00e1 se juntar a uma empresa com ambiente de trabalho inclusivo e comprometida com seu desenvolvimento profissional e pessoal atrav\u00e9s de. Aprendizado e desenvolvimento: Acesso ao LinkedIn Learning...",
     "state": "S\u00e3o Paulo",
     "visibilityType": "External",
     "siteType": "external",
@@ -738,7 +872,7 @@
       "diversidade"
     ],
     "ml_job_parser": {
-      "descriptionTeaser": "Voc\u00ea ir\u00e1 se juntar a uma empresa com ambiente de trabalho inclusivo, comprometida com seu desenvolvimento profissional e pessoal por meio de. Aprendizado e desenvolvimento: Acesso ao LinkedIn Learning...",
+      "descriptionTeaser": "Voc\u00ea ir\u00e1 se juntar a uma empresa com ambiente de trabalho inclusivo e comprometida com seu desenvolvimento profissional e pessoal atrav\u00e9s de. Aprendizado e desenvolvimento: Acesso ao LinkedIn Learning...",
       "descriptionTeaser_keyword": "Analista de Suporte Editorial J\u00fanior. Voc\u00ea busca desenvolver sua carreira e atuar como Analista de Suporte Editorial J\u00fanior em uma empresa l\u00edder no segmento de Tecnologia? Junte-se a n\u00f3s! A Thomson Re...",
       "descriptionTeaser_first200": "Analista de Suporte Editorial J\u00fanior. Voc\u00ea busca desenvolver sua carreira e atuar como Analista de Suporte Editorial J\u00fanior em uma empresa l\u00edder no segmento de Tecnologia? Junte-se a n\u00f3s! A Thomson Reuters...",
       "descriptionTeaser_ats": ""
@@ -4169,67 +4303,6 @@
     "badge": ""
   },
   {
-    "cityState": "Washington, District of Columbia",
-    "country": "United States of America",
-    "ml_skills": [
-      "journalism"
-    ],
-    "remote": "Remote",
-    "type": "Full time",
-    "descriptionTeaser": "S. Aerospace Correspondent will be part of an experienced global team covering the world\u2019s airlines, defense contractors and space companies. Work closely with team members on stories about airlines,...",
-    "state": "District of Columbia",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-77.0311952",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ179270",
-    "jobId": "JREQ179270",
-    "city": "Washington",
-    "latitude": "38.9004793",
-    "locale": "en_US",
-    "multi_location": [
-      "Washington, District of Columbia, United States of America"
-    ],
-    "title": "U.S. Aerospace Correspondent (Level 1 Journalist)",
-    "jobSeqNo": "THTTRUUSJREQ179270EXTERNALENUS",
-    "postedDate": "2024-05-28T00:00:00.000+0000",
-    "dateCreated": "2024-05-28T16:41:30.286+0000",
-    "cityStateCountry": "Washington, District of Columbia, United States of America",
-    "address": "1333 H Street NW, Suite 500, Washington, DC 20005, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Washington-1333-H-Street-N/US-Aerospace-Correspondent--Level-1-Journalist-_JREQ179270/apply",
-    "location": "Washington, District of Columbia, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "S. Aerospace Correspondent will be part of an experienced global team covering the world\u2019s airlines, defense contractors and space companies. Work closely with team members on stories about airlines,...",
-      "descriptionTeaser_first200": "Reuters is looking for a dynamic and ambitious U.S. Aerospace Correspondent (Level 1 Journalist) to lead our coverage of Boeing at a critical moment for the 107-year-old plane manufacturer. Since the...",
-      "descriptionTeaser_keyword": "Reuters is looking for a dynamic and ambitious U. S. Aerospace Correspondent (Level 1 Journalist) to lead our coverage of Boeing at a critical moment for the 107-year-old plane manufacturer. Since the...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -77.0311952,
-          "lat": 38.9004793
-        },
-        "location": "Washington, District of Columbia, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Hyderabad, Telangana",
     "country": "India",
     "ml_skills": [
@@ -4975,133 +5048,6 @@
     "badge": ""
   },
   {
-    "cityState": "London",
-    "country": "United Kingdom",
-    "ml_skills": [
-      "graphics",
-      "financial journalism",
-      "multimedia",
-      "decisiveness"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "You will combine a demonstrated ability to build and lead a talented team of journalists with experience growing a digital operation. Manage interactions with the commercial team to ensure they can co...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-0.0185088",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ179073",
-    "jobId": "JREQ179073",
-    "city": "London",
-    "latitude": "51.5056439",
-    "locale": "en_US",
-    "multi_location": [
-      "London, United Kingdom"
-    ],
-    "title": "Global Editor, The Insurer, Reuters",
-    "jobSeqNo": "THTTRUUSJREQ179073EXTERNALENUS",
-    "postedDate": "2024-05-20T00:00:00.000+0000",
-    "dateCreated": "2024-05-20T16:39:37.346+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Global-Editor--The-Insurer--Reuters_JREQ179073/apply",
-    "location": "London, United Kingdom",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "You will combine a demonstrated ability to build and lead a talented team of journalists with experience growing a digital operation. Manage interactions with the commercial team to ensure they can co...",
-      "descriptionTeaser_first200": "Reuters is seeking an energetic and experienced leader with gravitas and tenure in financial journalism to oversee the global newsrooms of The Insurer, our market-leading specialty (re)insurance news,...",
-      "descriptionTeaser_keyword": "Reuters is seeking an energetic and experienced leader with gravitas and tenure in financial journalism to oversee the global newsrooms of The Insurer, our market-leading specialty (re)insurance news,...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -0.0185088,
-          "lat": 51.5056439
-        },
-        "location": "London, United Kingdom"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Cairo",
-    "country": "Egypt",
-    "ml_skills": [
-      "breaking news",
-      "arabic language",
-      "arabic"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Write breaking news alerts and newsbreaks from financial/energy statements, speeches, tweets, TV broadcast. To be Middle East and North Africa Breaking News Correspondent, you will likely have. An abi...",
-    "state": "Cairo",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "31.2357116",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ178263",
-    "jobId": "JREQ178263",
-    "city": "",
-    "latitude": "30.0444196",
-    "locale": "en_US",
-    "multi_location": [
-      "Cairo, Egypt"
-    ],
-    "title": "Breaking News Correspondent, Middle East and North Africa",
-    "jobSeqNo": "THTTRUUSJREQ178263EXTERNALENUS",
-    "postedDate": "2024-05-17T00:00:00.000+0000",
-    "dateCreated": "2024-05-17T12:39:55.650+0000",
-    "cityStateCountry": "Cairo, Egypt",
-    "address": "Nile City Towers, 2005c, Corniche El Nile, Nile City, Cairo, 11221, Egypt",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/EGY-Cairo-Nile-City-Towers/Breaking-News-Correspondent--Middle-East-and-North-Africa_JREQ178263/apply",
-    "location": "Cairo, Egypt",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Write breaking news alerts and newsbreaks from financial/energy statements, speeches, tweets, TV broadcast. To be Middle East and North Africa Breaking News Correspondent, you will likely have. An abi...",
-      "descriptionTeaser_first200": "Reuters is seeking a journalist to join its Middle East Breaking News Hub operation. The Hub is in charge of producing real-time news alerts and stories in in English and Arabic from a variety of sources,...",
-      "descriptionTeaser_keyword": "Reuters is seeking a journalist to join its Middle East Breaking News Hub operation. The Hub is in charge of producing real-time news alerts and stories in in English and Arabic from a variety of sour...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 31.2357116,
-          "lat": 30.0444196
-        },
-        "location": "Cairo, Egypt"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Dubai",
     "country": "United Arab Emirates",
     "ml_skills": [
@@ -5783,79 +5729,6 @@
           "lat": 17.438325
         },
         "location": "Hyderabad, Telangana, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Montreal, Quebec",
-    "country": "Canada",
-    "ml_skills": [
-      "reasonable",
-      "anglais",
-      "detail",
-      "plan",
-      "formation",
-      "esg",
-      "linkedin",
-      "legal",
-      "job postings",
-      "editorial",
-      "accessibility",
-      "r\u00e9daction",
-      "learning"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Les \u00c9ditions Yvon Blais, filiale de Thomson Reuters, est \u00e0 la recherche d\u2019un r\u00e9dacteur pour r\u00e9sumer avec exactitude les jugements s\u00e9lectionn\u00e9s en mati\u00e8re de sentences arbitrales et de ressources humai...",
-    "state": "Quebec",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-73.57233",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ178545",
-    "jobId": "JREQ178545",
-    "city": "Montreal",
-    "latitude": "45.5002876",
-    "locale": "en_US",
-    "multi_location": [
-      "Montreal, Quebec, Canada"
-    ],
-    "title": "R\u00e9dacteur juridique",
-    "jobSeqNo": "THTTRUUSJREQ178545EXTERNALENUS",
-    "postedDate": "2024-05-01T00:00:00.000+0000",
-    "dateCreated": "2024-05-01T16:40:13.515+0000",
-    "cityStateCountry": "Montreal, Quebec, Canada",
-    "address": "1010 rue Ste-Catherine Ouest, Suite 200, Montreal, QC H3B 5L1, Canada",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CAN-Montreal-1010-rue-Ste-Catherine-O/Rdacteur-juridique_JREQ178545/apply",
-    "location": "Montreal, Quebec, Canada",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Les \u00c9ditions Yvon Blais, filiale de Thomson Reuters, est \u00e0 la recherche d\u2019un r\u00e9dacteur pour r\u00e9sumer avec exactitude les jugements s\u00e9lectionn\u00e9s en mati\u00e8re de sentences arbitrales et de ressources humai...",
-      "descriptionTeaser_keyword": "R\u00e9dacteur juridique. Les \u00c9ditions Yvon Blais, filiale de Thomson Reuters, est \u00e0 la recherche d\u2019un r\u00e9dacteur pour r\u00e9sumer avec exactitude les jugements s\u00e9lectionn\u00e9s en mati\u00e8re de sentences arbitrales e...",
-      "descriptionTeaser_first200": "R\u00e9dacteur juridique. Les \u00c9ditions Yvon Blais, filiale de Thomson Reuters, est \u00e0 la recherche d\u2019un r\u00e9dacteur pour r\u00e9sumer avec exactitude les jugements s\u00e9lectionn\u00e9s en mati\u00e8re de sentences arbitrales et...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -73.57233,
-          "lat": 45.5002876
-        },
-        "location": "Montreal, Quebec, Canada"
       }
     ],
     "isMultiCategory": true,
@@ -6645,6 +6518,138 @@
           "lat": 39.9515199
         },
         "location": "Beijing, Beijing, China"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Bengaluru, Karnataka",
+    "country": "India",
+    "ml_skills": [
+      "entertainment multimedia",
+      "multimedia",
+      "journalism",
+      "mass communication",
+      "creativity",
+      "transparency"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "You're a fit for the role of Multimedia News Producer if your background includes. Strong team player, good communication skills. Our industry-leading products and services include highly specialized...",
+    "state": "Karnataka",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "77.7120655",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ174122",
+    "jobId": "JREQ174122",
+    "city": "Bengaluru",
+    "latitude": "12.9743998",
+    "locale": "en_US",
+    "multi_location": [
+      "Bengaluru, Karnataka, India"
+    ],
+    "title": "Multimedia News Producer",
+    "jobSeqNo": "THTTRUUSJREQ174122EXTERNALENUS",
+    "postedDate": "2024-03-12T00:00:00.000+0000",
+    "dateCreated": "2024-01-10T12:40:01.455+0000",
+    "cityStateCountry": "Bengaluru, Karnataka, India",
+    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/Multimedia-News-Producer_JREQ174122/apply",
+    "location": "Bengaluru, Karnataka, India",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "You're a fit for the role of Multimedia News Producer if your background includes. Strong team player, good communication skills. Our industry-leading products and services include highly specialized...",
+      "descriptionTeaser_first200": "Multimedia News Producer. Are you a journalist who desires to be part of a news production team that can reach millions of readers in a matter of seconds? Digital Desk at Reuters in Bangalore does exactly...",
+      "descriptionTeaser_keyword": "Multimedia News Producer. Are you a journalist who desires to be part of a news production team that can reach millions of readers in a matter of seconds? Digital Desk at Reuters in Bangalore does exa...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 77.7120655,
+          "lat": 12.9743998
+        },
+        "location": "Bengaluru, Karnataka, India"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Bengaluru, Karnataka",
+    "country": "India",
+    "ml_skills": [
+      "entertainment multimedia",
+      "multimedia",
+      "journalism",
+      "mass communication",
+      "creativity",
+      "transparency"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "You're a fit for the role of Multimedia News Producer if your background includes. Strong team player, good communication skills. Our industry-leading products and services include highly specialized...",
+    "state": "Karnataka",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "77.7120655",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ174123",
+    "jobId": "JREQ174123",
+    "city": "Bengaluru",
+    "latitude": "12.9743998",
+    "locale": "en_US",
+    "multi_location": [
+      "Bengaluru, Karnataka, India"
+    ],
+    "title": "Multimedia News Producer",
+    "jobSeqNo": "THTTRUUSJREQ174123EXTERNALENUS",
+    "postedDate": "2024-03-12T00:00:00.000+0000",
+    "dateCreated": "2024-01-10T12:40:01.459+0000",
+    "cityStateCountry": "Bengaluru, Karnataka, India",
+    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/Multimedia-News-Producer_JREQ174123/apply",
+    "location": "Bengaluru, Karnataka, India",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "You're a fit for the role of Multimedia News Producer if your background includes. Strong team player, good communication skills. Our industry-leading products and services include highly specialized...",
+      "descriptionTeaser_first200": "Multimedia News Producer. Are you a journalist who desires to be part of a news production team that can reach millions of readers in a matter of seconds? Digital Desk at Reuters in Bangalore does exactly...",
+      "descriptionTeaser_keyword": "Multimedia News Producer. Are you a journalist who desires to be part of a news production team that can reach millions of readers in a matter of seconds? Digital Desk at Reuters in Bangalore does exa...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 77.7120655,
+          "lat": 12.9743998
+        },
+        "location": "Bengaluru, Karnataka, India"
       }
     ],
     "isMultiCategory": true,
