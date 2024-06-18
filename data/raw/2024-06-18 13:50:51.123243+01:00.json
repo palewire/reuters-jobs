@@ -1,11 +1,153 @@
 [
   {
+    "cityState": "Wellington",
+    "country": "New Zealand",
+    "ml_skills": [
+      "podcasting",
+      "audio editing",
+      "multimedia",
+      "current affairs",
+      "adobe audition",
+      "pro tools",
+      "storytelling"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "You should be an avid news consumer with excellent audio editing skills and a clear understanding of news and current affairs podcasting. Record, edit and deliver audio content as directed by the team...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "174.7743618",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ179229",
+    "jobId": "JREQ179229",
+    "city": "Wellington",
+    "latitude": "-41.2859199",
+    "locale": "en_US",
+    "multi_location": [
+      "Wellington, New Zealand",
+      "Manila, Philippines"
+    ],
+    "title": "Podcast Producer",
+    "jobSeqNo": "THTTRUUSJREQ179229EXTERNALENUS",
+    "postedDate": "2024-06-18T00:00:00.000+0000",
+    "dateCreated": "2024-06-18T06:32:09.963+0000",
+    "cityStateCountry": "Wellington, New Zealand",
+    "address": "Level 19, Plimmer Towers, 2-6 Gilmer Terrace, Wellington 6011, New Zealand",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/NZL-Wellington-Plimmer-Towers/Podcast-Producer_JREQ179229/apply",
+    "location": "Wellington, New Zealand",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "You should be an avid news consumer with excellent audio editing skills and a clear understanding of news and current affairs podcasting. Record, edit and deliver audio content as directed by the team...",
+      "descriptionTeaser_first200": "Reuters is looking for an experienced Podcast Producer to join the team responsible for Reuters World News, our fast-growing daily show, and help shape our expansion of audio programming. In this position,...",
+      "descriptionTeaser_keyword": "Reuters is looking for an experienced Podcast Producer to join the team responsible for Reuters World News, our fast-growing daily show, and help shape our expansion of audio programming. In this posi...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 174.7743618,
+          "lat": -41.2859199
+        },
+        "location": "Wellington, New Zealand"
+      },
+      {
+        "latlong": {
+          "lon": 121.0210166,
+          "lat": 14.5558723
+        },
+        "location": "Manila, Philippines"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Beijing, Beijing",
+    "country": "China",
+    "ml_skills": [
+      "breaking news",
+      "chinese",
+      "mandarin",
+      "multimedia"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Reuters is looking for a journalist with strong news judgement and at least five years\u2019 experience working in a news organisation to join our Greater China Breaking News Hub in Beijing. Have strong ne...",
+    "state": "Beijing",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "116.40108",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ179207",
+    "jobId": "JREQ179207",
+    "city": "Beijing",
+    "latitude": "39.9515199",
+    "locale": "en_US",
+    "multi_location": [
+      "Beijing, Beijing, China"
+    ],
+    "title": "Breaking News Correspondent, Greater China",
+    "jobSeqNo": "THTTRUUSJREQ179207EXTERNALENUS",
+    "postedDate": "2024-06-18T00:00:00.000+0000",
+    "dateCreated": "2024-06-18T06:32:09.965+0000",
+    "cityStateCountry": "Beijing, Beijing, China",
+    "address": "Units 5-12, 18F / 20F, Office Tower E1 of Oriental Plaza, No.1, East Chang An Avenue, Dong Cheng District, Beijing, 100738 Beijing, China",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CHN-Beijing-Oriental-Plaza/Breaking-News-Correspondent--Greater-China_JREQ179207/apply",
+    "location": "Beijing, Beijing, China",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Reuters is looking for a journalist with strong news judgement and at least five years\u2019 experience working in a news organisation to join our Greater China Breaking News Hub in Beijing. Have strong ne...",
+      "descriptionTeaser_first200": "Breaking News Correspondent, Greater China. Reuters is looking for a journalist with strong news judgement and at least five years\u2019 experience working in a news organisation to join our Greater China Breaking...",
+      "descriptionTeaser_keyword": "Breaking News Correspondent, Greater China. Reuters is looking for a journalist with strong news judgement and at least five years\u2019 experience working in a news organisation to join our Greater China...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 116.40108,
+          "lat": 39.9515199
+        },
+        "location": "Beijing, Beijing, China"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Mumbai, Maharashtra",
     "country": "India",
-    "ml_skills": [],
+    "ml_skills": [
+      "tax software",
+      "information security"
+    ],
     "remote": "On-Site",
     "type": "Full time",
-    "descriptionTeaser": "Create, design, prepare and deliver complex legal and/or tax forms and information for use in various media platforms. May provide leadership and work direction to team or workgroup. May assign and mo...",
+    "descriptionTeaser": "B. Com/M. Com/CA/CPA/EA. # This challenging position requires someone to think independently, work well collaboratively across multiple disciplines, including working with a variety of tax domains. Gu...",
     "state": "Maharashtra",
     "visibilityType": "External",
     "siteType": "external",
@@ -13,8 +155,8 @@
     "multi_category": [
       "News & Editorial Careers"
     ],
-    "reqId": "JREQ179064",
-    "jobId": "JREQ179064",
+    "reqId": "JREQ179665",
+    "jobId": "JREQ179665",
     "city": "Mumbai",
     "latitude": "19.1114368",
     "locale": "en_US",
@@ -22,21 +164,297 @@
       "Mumbai, Maharashtra, India"
     ],
     "title": "Tax Specialist",
-    "jobSeqNo": "THTTRUUSJREQ179064EXTERNALENUS",
-    "postedDate": "2024-06-14T00:00:00.000+0000",
-    "dateCreated": "2024-06-14T07:41:47.637+0000",
+    "jobSeqNo": "THTTRUUSJREQ179665EXTERNALENUS",
+    "postedDate": "2024-06-18T00:00:00.000+0000",
+    "dateCreated": "2024-06-18T06:32:09.948+0000",
     "cityStateCountry": "Mumbai, Maharashtra, India",
     "address": "4th Flr, Dhantak Plaza, Makwana Road, Marol, Andheri East, Mumbai- 400059, Maharashtra, India",
     "jobVisibility": [
       "external"
     ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Mumbai-Dhantak-Plaza/Tax-Specialist_JREQ179064/apply",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Mumbai-Dhantak-Plaza/Tax-Specialist_JREQ179665-1/apply",
     "location": "Mumbai, Maharashtra, India",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "Create, design, prepare and deliver complex legal and/or tax forms and information for use in various media platforms. May provide leadership and work direction to team or workgroup. May assign and mo...",
-      "descriptionTeaser_first200": "Create, design, prepare and deliver complex legal and/or tax forms and information for use in various media platforms. May provide leadership and work direction to team or workgroup. About the role. Designs...",
-      "descriptionTeaser_keyword": "Create, design, prepare and deliver complex legal and/or tax forms and information for use in various media platforms. May provide leadership and work direction to team or workgroup. About the role. D...",
+      "descriptionTeaser": "B. Com/M. Com/CA/CPA/EA. # This challenging position requires someone to think independently, work well collaboratively across multiple disciplines, including working with a variety of tax domains. Gu...",
+      "descriptionTeaser_first200": "Job Description. Thomson Reuters is looking to add a Senior Tax Specialist. This challenging position requires someone to think independently, work well collaboratively across multiple disciplines, including...",
+      "descriptionTeaser_keyword": "Job Description. Thomson Reuters is looking to add a Senior Tax Specialist. This challenging position requires someone to think independently, work well collaboratively across multiple disciplines, in...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 72.8814089,
+          "lat": 19.1114368
+        },
+        "location": "Mumbai, Maharashtra, India"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Frisco, Texas",
+    "country": "United States of America",
+    "ml_skills": [
+      "corporate tax",
+      "microsoft excel",
+      "online research",
+      "checkpoint",
+      "geography",
+      "westlaw",
+      "customer support"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "The Tax/Legal Analyst is responsible for research, configuration, ongoing maintenance, and testing to ensure that ONESOURCE\u2122 applications and offerings comply with tax rules and laws. Superior written...",
+    "state": "Texas",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-96.833545",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ179799",
+    "jobId": "JREQ179799",
+    "city": "Frisco",
+    "latitude": "33.1073049",
+    "locale": "en_US",
+    "multi_location": [
+      "Frisco, Texas, United States of America",
+      "Ann Arbor, Michigan, United States of America",
+      "Eagan, Minnesota, United States of America",
+      "New York, New York, United States of America"
+    ],
+    "title": "Tax/Legal Analyst, Indirect Tax",
+    "jobSeqNo": "THTTRUUSJREQ179799EXTERNALENUS",
+    "postedDate": "2024-06-17T00:00:00.000+0000",
+    "dateCreated": "2024-06-11T16:41:37.092+0000",
+    "cityStateCountry": "Frisco, Texas, United States of America",
+    "address": "6160 Warren Parkway, Frisco, TX 75034, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Frisco-6160-Warren-Parkway/Tax-Legal-Analyst--Indirect-Tax_JREQ179799/apply",
+    "location": "Frisco, Texas, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "The Tax/Legal Analyst is responsible for research, configuration, ongoing maintenance, and testing to ensure that ONESOURCE\u2122 applications and offerings comply with tax rules and laws. Superior written...",
+      "descriptionTeaser_first200": "The Tax/Legal Analyst is responsible for research, configuration, ongoing maintenance, and testing to ensure that ONESOURCE\u2122 applications and offerings comply with tax rules and laws. About the Role. In...",
+      "descriptionTeaser_keyword": "The Tax/Legal Analyst is responsible for research, configuration, ongoing maintenance, and testing to ensure that ONESOURCE\u2122 applications and offerings comply with tax rules and laws. About the Role....",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -96.833545,
+          "lat": 33.1073049
+        },
+        "location": "Frisco, Texas, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -83.7267835,
+          "lat": 42.1957259
+        },
+        "location": "Ann Arbor, Michigan, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -93.10808019999999,
+          "lat": 44.8527611
+        },
+        "location": "Eagan, Minnesota, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -73.9866995,
+          "lat": 40.7566955
+        },
+        "location": "New York, New York, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Mumbai, Maharashtra",
+    "country": "India",
+    "ml_skills": [
+      "tax software",
+      "information security"
+    ],
+    "remote": "On-Site",
+    "type": "Full time",
+    "descriptionTeaser": "Submit completed tax returns and related work within scheduled time. To complete the work related with various projects as per requirements of the Organization. Quick familiarization with the amendmen...",
+    "state": "Maharashtra",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "72.8814089",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ179377",
+    "jobId": "JREQ179377",
+    "city": "Mumbai",
+    "latitude": "19.1114368",
+    "locale": "en_US",
+    "multi_location": [
+      "Mumbai, Maharashtra, India"
+    ],
+    "title": "Senior Process Associate",
+    "jobSeqNo": "THTTRUUSJREQ179377EXTERNALENUS",
+    "postedDate": "2024-06-17T00:00:00.000+0000",
+    "dateCreated": "2024-06-18T06:32:09.949+0000",
+    "cityStateCountry": "Mumbai, Maharashtra, India",
+    "address": "4th Flr, Dhantak Plaza, Makwana Road, Marol, Andheri East, Mumbai- 400059, Maharashtra, India",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Mumbai-Dhantak-Plaza/Senior-Process-Associate_JREQ179377/apply",
+    "location": "Mumbai, Maharashtra, India",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Submit completed tax returns and related work within scheduled time. To complete the work related with various projects as per requirements of the Organization. Quick familiarization with the amendmen...",
+      "descriptionTeaser_first200": "Job Description. Thomson Reuters is looking to add a Senior Tax Specialist. This challenging position requires someone to think independently, work well collaboratively across multiple disciplines, including...",
+      "descriptionTeaser_keyword": "Job Description. Thomson Reuters is looking to add a Senior Tax Specialist. This challenging position requires someone to think independently, work well collaboratively across multiple disciplines, in...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 72.8814089,
+          "lat": 19.1114368
+        },
+        "location": "Mumbai, Maharashtra, India"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Gdansk",
+    "country": "Poland",
+    "ml_skills": [
+      "press releases",
+      "vocabulary",
+      "multimedia",
+      "dutch"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Reuters is seeking candidates who can speak fluent French to join its real-time news operation in Gdansk, Poland. Scan press releases from companies and regulators in French and English to quickly ide...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "18.5752702",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ175890",
+    "jobId": "JREQ175890",
+    "city": "Gdansk",
+    "latitude": "54.4004235",
+    "locale": "en_US",
+    "multi_location": [
+      "Gdansk, Poland"
+    ],
+    "title": "Graduate News Reporter with French",
+    "jobSeqNo": "THTTRUUSJREQ175890EXTERNALENUS",
+    "postedDate": "2024-06-17T00:00:00.000+0000",
+    "dateCreated": "2024-03-01T12:41:52.455+0000",
+    "cityStateCountry": "Gdansk, Poland",
+    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/News-Reporter-with-French_JREQ175890/apply",
+    "location": "Gdansk, Poland",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Reuters is seeking candidates who can speak fluent French to join its real-time news operation in Gdansk, Poland. Scan press releases from companies and regulators in French and English to quickly ide...",
+      "descriptionTeaser_first200": "Reuters is seeking candidates who can speak fluent French to join its real-time news operation in Gdansk, Poland. The reporters will work in fast paced, international environment to produce headlines,...",
+      "descriptionTeaser_keyword": "Reuters is seeking candidates who can speak fluent French to join its real-time news operation in Gdansk, Poland. The reporters will work in fast paced, international environment to produce headlines,...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 18.5752702,
+          "lat": 54.4004235
+        },
+        "location": "Gdansk, Poland"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Mumbai, Maharashtra",
+    "country": "India",
+    "ml_skills": [],
+    "remote": "On-Site",
+    "type": "Full time",
+    "descriptionTeaser": "Create, design, prepare and deliver complex legal and/or tax forms and information for use in various media platforms. To Prepare Federal, State & City tax returns within timeframe. To help team membe...",
+    "state": "Maharashtra",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "72.8814089",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ179387",
+    "jobId": "JREQ179387",
+    "city": "Mumbai",
+    "latitude": "19.1114368",
+    "locale": "en_US",
+    "multi_location": [
+      "Mumbai, Maharashtra, India"
+    ],
+    "title": "Sr. Process Associate",
+    "jobSeqNo": "THTTRUUSJREQ179387EXTERNALENUS",
+    "postedDate": "2024-06-17T00:00:00.000+0000",
+    "dateCreated": "2024-06-17T12:05:29.702+0000",
+    "cityStateCountry": "Mumbai, Maharashtra, India",
+    "address": "4th Flr, Dhantak Plaza, Makwana Road, Marol, Andheri East, Mumbai- 400059, Maharashtra, India",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Mumbai-Dhantak-Plaza/Sr-Process-Associate_JREQ179387/apply",
+    "location": "Mumbai, Maharashtra, India",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Create, design, prepare and deliver complex legal and/or tax forms and information for use in various media platforms. To Prepare Federal, State & City tax returns within timeframe. To help team membe...",
+      "descriptionTeaser_first200": "Create, design, prepare and deliver complex legal and/or tax forms and information for use in various media platforms. May provide leadership and work direction to team or workgroup. About the role. To...",
+      "descriptionTeaser_keyword": "Create, design, prepare and deliver complex legal and/or tax forms and information for use in various media platforms. May provide leadership and work direction to team or workgroup. About the role. T...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
@@ -183,46 +601,48 @@
     "badge": ""
   },
   {
-    "cityState": "Toronto, Ontario",
-    "country": "Canada",
+    "cityState": "London",
+    "country": "United Kingdom",
     "ml_skills": [
       "multimedia",
-      "multimedia news planning"
+      "financial services",
+      "reinsurance",
+      "insurance industry"
     ],
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "Direct Reuters coverage of economic, business, financial, political, social and cultural news across Canada. Represent the bureau and Reuters. Excellent news judgment, strong communication skills, at...",
-    "state": "Ontario",
+    "descriptionTeaser": "In this vital role, you'll be out and about within the London market \u2013 the leading global insurance specialty hub \u2013 sourcing exclusive news and scoops through the book of contacts you will build from...",
+    "state": "",
     "visibilityType": "External",
     "siteType": "external",
-    "longitude": "-79.3884094",
+    "longitude": "-0.0779547",
     "multi_category": [
       "News & Editorial Careers"
     ],
-    "reqId": "JREQ179449",
-    "jobId": "JREQ179449",
-    "city": "Toronto",
-    "latitude": "43.6480117",
+    "reqId": "JREQ178768",
+    "jobId": "JREQ178768",
+    "city": "London",
+    "latitude": "51.516899",
     "locale": "en_US",
     "multi_location": [
-      "Toronto, Ontario, Canada"
+      "London, United Kingdom"
     ],
-    "title": "Bureau Chief, Canada",
-    "jobSeqNo": "THTTRUUSJREQ179449EXTERNALENUS",
-    "postedDate": "2024-06-13T00:00:00.000+0000",
-    "dateCreated": "2024-06-01T16:42:36.067+0000",
-    "cityStateCountry": "Toronto, Ontario, Canada",
-    "address": "19 Duncan Street, Toronto, ON M5H 3H1, Canada",
+    "title": "Chief Reporter - UK & Europe, The Insurer",
+    "jobSeqNo": "THTTRUUSJREQ178768EXTERNALENUS",
+    "postedDate": "2024-06-14T00:00:00.000+0000",
+    "dateCreated": "2024-05-14T12:39:40.748+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "8 Devonshire Square, Office 04-110, London, EC2M4YJ, United Kingdom",
     "jobVisibility": [
       "external"
     ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CAN-Toronto-19-Duncan-Street/Bureau-Chief--Canada_JREQ179449/apply",
-    "location": "Toronto, Ontario, Canada",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-8-Devonshire-Square/Chief-Reporter--UK---Europe--The-Insurer---Reuters_JREQ178768/apply",
+    "location": "London, United Kingdom",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "Direct Reuters coverage of economic, business, financial, political, social and cultural news across Canada. Represent the bureau and Reuters. Excellent news judgment, strong communication skills, at...",
-      "descriptionTeaser_first200": "Reuters is seeking an excellent journalist to be its Canada Bureau Chief. As a G7 economy, Canada is at the table whenever global powers make key decisions, be it funding for Ukraine or imposing sanctions....",
-      "descriptionTeaser_keyword": "Reuters is seeking an excellent journalist to be its Canada Bureau Chief. As a G7 economy, Canada is at the table whenever global powers make key decisions, be it funding for Ukraine or imposing sanct...",
+      "descriptionTeaser": "In this vital role, you'll be out and about within the London market \u2013 the leading global insurance specialty hub \u2013 sourcing exclusive news and scoops through the book of contacts you will build from...",
+      "descriptionTeaser_first200": "Chief Reporter, UK & Europe, The Insurer - Reuters. This hybrid position will be based in London. Are you an experienced scoop-driven news journalist looking for your next opportunity? Want to break key...",
+      "descriptionTeaser_keyword": "Chief Reporter, UK & Europe, The Insurer - Reuters. This hybrid position will be based in London. Are you an experienced scoop-driven news journalist looking for your next opportunity? Want to break k...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
@@ -230,10 +650,10 @@
     "multi_location_array": [
       {
         "latlong": {
-          "lon": -79.3884094,
-          "lat": 43.6480117
+          "lon": -0.0779547,
+          "lat": 51.516899
         },
-        "location": "Toronto, Ontario, Canada"
+        "location": "London, United Kingdom"
       }
     ],
     "isMultiCategory": true,
@@ -245,54 +665,52 @@
     "badge": ""
   },
   {
-    "cityState": "London",
-    "country": "United Kingdom",
+    "cityState": "Bengaluru, Karnataka",
+    "country": "India",
     "ml_skills": [
-      "regulatory compliance",
-      "publishing",
-      "banking",
+      "digital marketing",
+      "web publishing",
+      "digital media",
       "content creation",
-      "employee evaluation",
-      "leadership development",
-      "legal research",
-      "synopsis",
-      "quality control",
-      "troubleshooting"
+      "content management systems",
+      "microsoft office suite",
+      "customer services operation",
+      "business systems"
     ],
-    "remote": "Remote",
+    "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "In this opportunity as Regulatory Compliance Writer, your responsibilities include research and analysis to support content creation and preparation, monitoring of trends and developments within assig...",
-    "state": "",
+    "descriptionTeaser": "Create online content of attorney and their firms and restructure custom content written for law firm Web sites. ( Should be familiar with Web technologies and Digital marketing, and preferably have e...",
+    "state": "Karnataka",
     "visibilityType": "External",
     "siteType": "external",
-    "longitude": "-0.0185088",
+    "longitude": "77.7120655",
     "multi_category": [
       "News & Editorial Careers"
     ],
-    "reqId": "JREQ179515",
-    "jobId": "JREQ179515",
-    "city": "London",
-    "latitude": "51.5056439",
+    "reqId": "JREQ179203",
+    "jobId": "JREQ179203",
+    "city": "Bengaluru",
+    "latitude": "12.9743998",
     "locale": "en_US",
     "multi_location": [
-      "London, United Kingdom"
+      "Bengaluru, Karnataka, India"
     ],
-    "title": "Regulatory Guidance Summary Editor",
-    "jobSeqNo": "THTTRUUSJREQ179515EXTERNALENUS",
-    "postedDate": "2024-06-13T00:00:00.000+0000",
-    "dateCreated": "2024-06-13T12:43:41.300+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "title": "Copy Writer",
+    "jobSeqNo": "THTTRUUSJREQ179203EXTERNALENUS",
+    "postedDate": "2024-06-14T00:00:00.000+0000",
+    "dateCreated": "2024-06-16T06:18:39.806+0000",
+    "cityStateCountry": "Bengaluru, Karnataka, India",
+    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
     "jobVisibility": [
       "external"
     ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Regulatory-Guidance-Summary-Editor_JREQ179515/apply",
-    "location": "London, United Kingdom",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/Copy-Writer_JREQ179203-1/apply",
+    "location": "Bengaluru, Karnataka, India",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "In this opportunity as Regulatory Compliance Writer, your responsibilities include research and analysis to support content creation and preparation, monitoring of trends and developments within assig...",
-      "descriptionTeaser_first200": "Thomson Reuters is a global leader in providing essential information to the world's businesses and professionals in Law, Financial Services, Tax and Corporates. With our deep expertise and understanding...",
-      "descriptionTeaser_keyword": "Thomson Reuters is a global leader in providing essential information to the world's businesses and professionals in Law, Financial Services, Tax and Corporates. With our deep expertise and understand...",
+      "descriptionTeaser": "Create online content of attorney and their firms and restructure custom content written for law firm Web sites. ( Should be familiar with Web technologies and Digital marketing, and preferably have e...",
+      "descriptionTeaser_first200": "Do you love to solve problems and find better ways of getting things done? Do you love asking \u2018why\u2019 about pretty much everything? And does it make you happy when things are perfectly aligned and standardized?...",
+      "descriptionTeaser_keyword": "Do you love to solve problems and find better ways of getting things done? Do you love asking \u2018why\u2019 about pretty much everything? And does it make you happy when things are perfectly aligned and stand...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
@@ -300,10 +718,10 @@
     "multi_location_array": [
       {
         "latlong": {
-          "lon": -0.0185088,
-          "lat": 51.5056439
+          "lon": 77.7120655,
+          "lat": 12.9743998
         },
-        "location": "London, United Kingdom"
+        "location": "Bengaluru, Karnataka, India"
       }
     ],
     "isMultiCategory": true,
@@ -479,53 +897,46 @@
     "badge": ""
   },
   {
-    "cityState": "Manila",
-    "country": "Philippines",
+    "cityState": "Toronto, Ontario",
+    "country": "Canada",
     "ml_skills": [
-      "digital marketing",
-      "commerce",
-      "content strategy",
-      "project management",
-      "journalism",
-      "justice",
-      "grammar",
-      "project management tools",
-      "legal research"
+      "multimedia",
+      "multimedia news planning"
     ],
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "Research and write compelling blog content in English for legal clients that complies with internal best practices, industry standards, and corporate policies, and eventually grow into developing cont...",
-    "state": "",
+    "descriptionTeaser": "Direct Reuters coverage of economic, business, financial, political, social and cultural news across Canada. Represent the bureau and Reuters. Excellent news judgment, strong communication skills, at...",
+    "state": "Ontario",
     "visibilityType": "External",
     "siteType": "external",
-    "longitude": "121.0520086",
+    "longitude": "-79.3884094",
     "multi_category": [
       "News & Editorial Careers"
     ],
-    "reqId": "JREQ172868",
-    "jobId": "JREQ172868",
-    "city": "Manila",
-    "latitude": "14.5344436",
+    "reqId": "JREQ179449",
+    "jobId": "JREQ179449",
+    "city": "Toronto",
+    "latitude": "43.6480117",
     "locale": "en_US",
     "multi_location": [
-      "Manila, Philippines"
+      "Toronto, Ontario, Canada"
     ],
-    "title": "Content Marketer",
-    "jobSeqNo": "THTTRUUSJREQ172868EXTERNALENUS",
+    "title": "Bureau Chief, Canada",
+    "jobSeqNo": "THTTRUUSJREQ179449EXTERNALENUS",
     "postedDate": "2024-06-13T00:00:00.000+0000",
-    "dateCreated": "2023-10-10T08:41:54.918+0000",
-    "cityStateCountry": "Manila, Philippines",
-    "address": "20 Upper McKinley Building, Upper McKinley Road, McKinley Hill, Manila, 1634, Philippines",
+    "dateCreated": "2024-06-01T16:42:36.067+0000",
+    "cityStateCountry": "Toronto, Ontario, Canada",
+    "address": "19 Duncan Street, Toronto, ON M5H 3H1, Canada",
     "jobVisibility": [
       "external"
     ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/PHL-Taguig-20-Upper-McKinley-Bldg/Content-Marketer_JREQ172868/apply",
-    "location": "Manila, Philippines",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CAN-Toronto-19-Duncan-Street/Bureau-Chief--Canada_JREQ179449/apply",
+    "location": "Toronto, Ontario, Canada",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "Research and write compelling blog content in English for legal clients that complies with internal best practices, industry standards, and corporate policies, and eventually grow into developing cont...",
-      "descriptionTeaser_first200": "Content Marketer | Operations Customer Service & Support. Thomson Reuters, an industry leader at the intersection of content and technology, is looking for a perceptive and self-driven professional content...",
-      "descriptionTeaser_keyword": "Content Marketer | Operations Customer Service & Support. Thomson Reuters, an industry leader at the intersection of content and technology, is looking for a perceptive and self-driven professional co...",
+      "descriptionTeaser": "Direct Reuters coverage of economic, business, financial, political, social and cultural news across Canada. Represent the bureau and Reuters. Excellent news judgment, strong communication skills, at...",
+      "descriptionTeaser_first200": "Reuters is seeking an excellent journalist to be its Canada Bureau Chief. As a G7 economy, Canada is at the table whenever global powers make key decisions, be it funding for Ukraine or imposing sanctions....",
+      "descriptionTeaser_keyword": "Reuters is seeking an excellent journalist to be its Canada Bureau Chief. As a G7 economy, Canada is at the table whenever global powers make key decisions, be it funding for Ukraine or imposing sanct...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
@@ -533,10 +944,80 @@
     "multi_location_array": [
       {
         "latlong": {
-          "lon": 121.0520086,
-          "lat": 14.5344436
+          "lon": -79.3884094,
+          "lat": 43.6480117
         },
-        "location": "Manila, Philippines"
+        "location": "Toronto, Ontario, Canada"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "London",
+    "country": "United Kingdom",
+    "ml_skills": [
+      "regulatory compliance",
+      "publishing",
+      "banking",
+      "content creation",
+      "employee evaluation",
+      "leadership development",
+      "legal research",
+      "synopsis",
+      "quality control",
+      "troubleshooting"
+    ],
+    "remote": "Remote",
+    "type": "Full time",
+    "descriptionTeaser": "In this opportunity as Regulatory Compliance Writer, your responsibilities include research and analysis to support content creation and preparation, monitoring of trends and developments within assig...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.0185088",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ179515",
+    "jobId": "JREQ179515",
+    "city": "London",
+    "latitude": "51.5056439",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom"
+    ],
+    "title": "Regulatory Guidance Summary Editor",
+    "jobSeqNo": "THTTRUUSJREQ179515EXTERNALENUS",
+    "postedDate": "2024-06-13T00:00:00.000+0000",
+    "dateCreated": "2024-06-13T12:43:41.300+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Regulatory-Guidance-Summary-Editor_JREQ179515/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "In this opportunity as Regulatory Compliance Writer, your responsibilities include research and analysis to support content creation and preparation, monitoring of trends and developments within assig...",
+      "descriptionTeaser_first200": "Thomson Reuters is a global leader in providing essential information to the world's businesses and professionals in Law, Financial Services, Tax and Corporates. With our deep expertise and understanding...",
+      "descriptionTeaser_keyword": "Thomson Reuters is a global leader in providing essential information to the world's businesses and professionals in Law, Financial Services, Tax and Corporates. With our deep expertise and understand...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.0185088,
+          "lat": 51.5056439
+        },
+        "location": "London, United Kingdom"
       }
     ],
     "isMultiCategory": true,
@@ -615,52 +1096,53 @@
     "badge": ""
   },
   {
-    "cityState": "Gdansk",
-    "country": "Poland",
+    "cityState": "Manila",
+    "country": "Philippines",
     "ml_skills": [
+      "digital marketing",
       "commerce",
-      "french",
-      "ukrainian",
-      "portuguese",
-      "german",
-      "italian",
-      "arabic",
-      "dutch"
+      "content strategy",
+      "project management",
+      "journalism",
+      "justice",
+      "grammar",
+      "project management tools",
+      "legal research"
     ],
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "Ability to work with minimal supervision. Create timely alerts by summarizing regulatory documents and translating non-English language content into English where necessary. Responsible and mature app...",
+    "descriptionTeaser": "Research and write compelling blog content in English for legal clients that complies with internal best practices, industry standards, and corporate policies, and eventually grow into developing cont...",
     "state": "",
     "visibilityType": "External",
     "siteType": "external",
-    "longitude": "18.5752702",
+    "longitude": "121.0520086",
     "multi_category": [
       "News & Editorial Careers"
     ],
-    "reqId": "JREQ179662",
-    "jobId": "JREQ179662",
-    "city": "Gdansk",
-    "latitude": "54.4004235",
+    "reqId": "JREQ172868",
+    "jobId": "JREQ172868",
+    "city": "Manila",
+    "latitude": "14.5344436",
     "locale": "en_US",
     "multi_location": [
-      "Gdansk, Poland"
+      "Manila, Philippines"
     ],
-    "title": "Content Editor with German or Arabic",
-    "jobSeqNo": "THTTRUUSJREQ179662EXTERNALENUS",
+    "title": "Content Marketer",
+    "jobSeqNo": "THTTRUUSJREQ172868EXTERNALENUS",
     "postedDate": "2024-06-13T00:00:00.000+0000",
-    "dateCreated": "2024-06-04T08:39:23.886+0000",
-    "cityStateCountry": "Gdansk, Poland",
-    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
+    "dateCreated": "2023-10-10T08:41:54.918+0000",
+    "cityStateCountry": "Manila, Philippines",
+    "address": "20 Upper McKinley Building, Upper McKinley Road, McKinley Hill, Manila, 1634, Philippines",
     "jobVisibility": [
       "external"
     ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/Content-Editor-with-German-or-Arabic_JREQ179662/apply",
-    "location": "Gdansk, Poland",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/PHL-Taguig-20-Upper-McKinley-Bldg/Content-Marketer_JREQ172868/apply",
+    "location": "Manila, Philippines",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "Ability to work with minimal supervision. Create timely alerts by summarizing regulatory documents and translating non-English language content into English where necessary. Responsible and mature app...",
-      "descriptionTeaser_first200": "We welcome applications to our full-time vacancies from all citizens who have been granted protection within the territory of the Republic of Poland under the EU Temporary Protection Directive*. Thomson...",
-      "descriptionTeaser_keyword": "We welcome applications to our full-time vacancies from all citizens who have been granted protection within the territory of the Republic of Poland under the EU Temporary Protection Directive*. Thoms...",
+      "descriptionTeaser": "Research and write compelling blog content in English for legal clients that complies with internal best practices, industry standards, and corporate policies, and eventually grow into developing cont...",
+      "descriptionTeaser_first200": "Content Marketer | Operations Customer Service & Support. Thomson Reuters, an industry leader at the intersection of content and technology, is looking for a perceptive and self-driven professional content...",
+      "descriptionTeaser_keyword": "Content Marketer | Operations Customer Service & Support. Thomson Reuters, an industry leader at the intersection of content and technology, is looking for a perceptive and self-driven professional co...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
@@ -668,10 +1150,10 @@
     "multi_location_array": [
       {
         "latlong": {
-          "lon": 18.5752702,
-          "lat": 54.4004235
+          "lon": 121.0520086,
+          "lat": 14.5344436
         },
-        "location": "Gdansk, Poland"
+        "location": "Manila, Philippines"
       }
     ],
     "isMultiCategory": true,
@@ -753,6 +1235,74 @@
           "lat": -22.8960684
         },
         "location": "Campinas, S\u00e3o Paulo, Brazil"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Gdansk",
+    "country": "Poland",
+    "ml_skills": [
+      "commerce",
+      "french",
+      "ukrainian",
+      "portuguese",
+      "german",
+      "italian",
+      "arabic",
+      "dutch"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Ability to work with minimal supervision. Create timely alerts by summarizing regulatory documents and translating non-English language content into English where necessary. Responsible and mature app...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "18.5752702",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ179662",
+    "jobId": "JREQ179662",
+    "city": "Gdansk",
+    "latitude": "54.4004235",
+    "locale": "en_US",
+    "multi_location": [
+      "Gdansk, Poland"
+    ],
+    "title": "Content Editor with German or Arabic",
+    "jobSeqNo": "THTTRUUSJREQ179662EXTERNALENUS",
+    "postedDate": "2024-06-13T00:00:00.000+0000",
+    "dateCreated": "2024-06-04T08:39:23.886+0000",
+    "cityStateCountry": "Gdansk, Poland",
+    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/Content-Editor-with-German-or-Arabic_JREQ179662/apply",
+    "location": "Gdansk, Poland",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Ability to work with minimal supervision. Create timely alerts by summarizing regulatory documents and translating non-English language content into English where necessary. Responsible and mature app...",
+      "descriptionTeaser_first200": "We welcome applications to our full-time vacancies from all citizens who have been granted protection within the territory of the Republic of Poland under the EU Temporary Protection Directive*. Thomson...",
+      "descriptionTeaser_keyword": "We welcome applications to our full-time vacancies from all citizens who have been granted protection within the territory of the Republic of Poland under the EU Temporary Protection Directive*. Thoms...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 18.5752702,
+          "lat": 54.4004235
+        },
+        "location": "Gdansk, Poland"
       }
     ],
     "isMultiCategory": true,
@@ -1204,217 +1754,6 @@
     "badge": ""
   },
   {
-    "cityState": "Frisco, Texas",
-    "country": "United States of America",
-    "ml_skills": [
-      "corporate tax",
-      "commerce",
-      "microsoft excel",
-      "online research",
-      "justice",
-      "checkpoint",
-      "westlaw",
-      "geography",
-      "customer support"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Superior written and verbal communication skills, including the ability to write white papers on tax and/or geography technical subjects. Our industry-leading products and services include highly spec...",
-    "state": "Texas",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-96.833545",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ179799",
-    "jobId": "JREQ179799",
-    "city": "Frisco",
-    "latitude": "33.1073049",
-    "locale": "en_US",
-    "multi_location": [
-      "Frisco, Texas, United States of America",
-      "Ann Arbor, Michigan, United States of America",
-      "Eagan, Minnesota, United States of America",
-      "New York, New York, United States of America"
-    ],
-    "title": "Tax/Legal Analyst, Indirect Tax",
-    "jobSeqNo": "THTTRUUSJREQ179799EXTERNALENUS",
-    "postedDate": "2024-06-11T00:00:00.000+0000",
-    "dateCreated": "2024-06-11T16:41:37.092+0000",
-    "cityStateCountry": "Frisco, Texas, United States of America",
-    "address": "6160 Warren Parkway, Frisco, TX 75034, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Frisco-6160-Warren-Parkway/Tax-Legal-Analyst--Indirect-Tax_JREQ179799/apply",
-    "location": "Frisco, Texas, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Superior written and verbal communication skills, including the ability to write white papers on tax and/or geography technical subjects. Our industry-leading products and services include highly spec...",
-      "descriptionTeaser_first200": "The Tax/Legal Analyst is responsible for research, configuration, ongoing maintenance, and testing to ensure that ONESOURCE\u2122 applications and offerings comply with tax rules and laws. About the Role. In...",
-      "descriptionTeaser_keyword": "The Tax/Legal Analyst is responsible for research, configuration, ongoing maintenance, and testing to ensure that ONESOURCE\u2122 applications and offerings comply with tax rules and laws. About the Role....",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -96.833545,
-          "lat": 33.1073049
-        },
-        "location": "Frisco, Texas, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -83.7267835,
-          "lat": 42.1957259
-        },
-        "location": "Ann Arbor, Michigan, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -93.10808019999999,
-          "lat": 44.8527611
-        },
-        "location": "Eagan, Minnesota, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -73.9866995,
-          "lat": 40.7566955
-        },
-        "location": "New York, New York, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Mumbai, Maharashtra",
-    "country": "India",
-    "ml_skills": [],
-    "remote": "On-Site",
-    "type": "Full time",
-    "descriptionTeaser": "This challenging position requires someone to think independently, work well collaboratively across multiple disciplines, including working with a variety of tax domains. To help team members in resol...",
-    "state": "Maharashtra",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "72.8814089",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ179068",
-    "jobId": "JREQ179068",
-    "city": "Mumbai",
-    "latitude": "19.1114368",
-    "locale": "en_US",
-    "multi_location": [
-      "Mumbai, Maharashtra, India"
-    ],
-    "title": "Senior Process Associate",
-    "jobSeqNo": "THTTRUUSJREQ179068EXTERNALENUS",
-    "postedDate": "2024-06-10T00:00:00.000+0000",
-    "dateCreated": "2024-06-10T12:41:10.222+0000",
-    "cityStateCountry": "Mumbai, Maharashtra, India",
-    "address": "4th Flr, Dhantak Plaza, Makwana Road, Marol, Andheri East, Mumbai- 400059, Maharashtra, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Mumbai-Dhantak-Plaza/Senior-Process-Associate_JREQ179068-1/apply",
-    "location": "Mumbai, Maharashtra, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "This challenging position requires someone to think independently, work well collaboratively across multiple disciplines, including working with a variety of tax domains. To help team members in resol...",
-      "descriptionTeaser_first200": "Thomson Reuters is looking to add a Senior Process Associate. This challenging position requires someone to think independently, work well collaboratively across multiple disciplines, including working...",
-      "descriptionTeaser_keyword": "Thomson Reuters is looking to add a Senior Process Associate. This challenging position requires someone to think independently, work well collaboratively across multiple disciplines, including workin...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 72.8814089,
-          "lat": 19.1114368
-        },
-        "location": "Mumbai, Maharashtra, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Mumbai, Maharashtra",
-    "country": "India",
-    "ml_skills": [],
-    "remote": "On-Site",
-    "type": "Full time",
-    "descriptionTeaser": "Create, design, prepare and deliver complex legal and/or tax forms and information for use in various media platforms. May provide leadership and work direction to team or workgroup. May assign and mo...",
-    "state": "Maharashtra",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "72.8814089",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ179479",
-    "jobId": "JREQ179479",
-    "city": "Mumbai",
-    "latitude": "19.1114368",
-    "locale": "en_US",
-    "multi_location": [
-      "Mumbai, Maharashtra, India"
-    ],
-    "title": "Tax Specialist",
-    "jobSeqNo": "THTTRUUSJREQ179479EXTERNALENUS",
-    "postedDate": "2024-06-10T00:00:00.000+0000",
-    "dateCreated": "2024-06-10T16:42:15.884+0000",
-    "cityStateCountry": "Mumbai, Maharashtra, India",
-    "address": "4th Flr, Dhantak Plaza, Makwana Road, Marol, Andheri East, Mumbai- 400059, Maharashtra, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Mumbai-Dhantak-Plaza/Tax-Specialist_JREQ179479/apply",
-    "location": "Mumbai, Maharashtra, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Create, design, prepare and deliver complex legal and/or tax forms and information for use in various media platforms. May provide leadership and work direction to team or workgroup. May assign and mo...",
-      "descriptionTeaser_first200": "Create, design, prepare and deliver complex legal and/or tax forms and information for use in various media platforms. May provide leadership and work direction to team or workgroup. About the role. Designs...",
-      "descriptionTeaser_keyword": "Create, design, prepare and deliver complex legal and/or tax forms and information for use in various media platforms. May provide leadership and work direction to team or workgroup. About the role. D...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 72.8814089,
-          "lat": 19.1114368
-        },
-        "location": "Mumbai, Maharashtra, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Cairo",
     "country": "Egypt",
     "ml_skills": [
@@ -1605,65 +1944,6 @@
   {
     "cityState": "Mumbai, Maharashtra",
     "country": "India",
-    "ml_skills": [],
-    "remote": "On-Site",
-    "type": "Full time",
-    "descriptionTeaser": "This challenging position requires someone to think independently, work well collaboratively across multiple disciplines, including working with a variety of tax domains. To help team members in resol...",
-    "state": "Maharashtra",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "72.8814089",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ179069",
-    "jobId": "JREQ179069",
-    "city": "Mumbai",
-    "latitude": "19.1114368",
-    "locale": "en_US",
-    "multi_location": [
-      "Mumbai, Maharashtra, India"
-    ],
-    "title": "Senior Process Associate",
-    "jobSeqNo": "THTTRUUSJREQ179069EXTERNALENUS",
-    "postedDate": "2024-06-10T00:00:00.000+0000",
-    "dateCreated": "2024-06-10T12:41:10.225+0000",
-    "cityStateCountry": "Mumbai, Maharashtra, India",
-    "address": "4th Flr, Dhantak Plaza, Makwana Road, Marol, Andheri East, Mumbai- 400059, Maharashtra, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Mumbai-Dhantak-Plaza/Senior-Process-Associate_JREQ179069-1/apply",
-    "location": "Mumbai, Maharashtra, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "This challenging position requires someone to think independently, work well collaboratively across multiple disciplines, including working with a variety of tax domains. To help team members in resol...",
-      "descriptionTeaser_first200": "Thomson Reuters is looking to add a Senior Process Associate. This challenging position requires someone to think independently, work well collaboratively across multiple disciplines, including working...",
-      "descriptionTeaser_keyword": "Thomson Reuters is looking to add a Senior Process Associate. This challenging position requires someone to think independently, work well collaboratively across multiple disciplines, including workin...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 72.8814089,
-          "lat": 19.1114368
-        },
-        "location": "Mumbai, Maharashtra, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Mumbai, Maharashtra",
-    "country": "India",
     "ml_skills": [
       "tax software",
       "information security"
@@ -1702,65 +1982,6 @@
       "descriptionTeaser": "Submit completed tax returns and related work within scheduled time. To complete the work related with various projects as per requirements of the Organization. Quick familiarization with the amendmen...",
       "descriptionTeaser_first200": "Job Description. Thomson Reuters is looking to add a Senior Tax Specialist. This challenging position requires someone to think independently, work well collaboratively across multiple disciplines, including...",
       "descriptionTeaser_keyword": "Job Description. Thomson Reuters is looking to add a Senior Tax Specialist. This challenging position requires someone to think independently, work well collaboratively across multiple disciplines, in...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 72.8814089,
-          "lat": 19.1114368
-        },
-        "location": "Mumbai, Maharashtra, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Mumbai, Maharashtra",
-    "country": "India",
-    "ml_skills": [],
-    "remote": "On-Site",
-    "type": "Full time",
-    "descriptionTeaser": "Create, design, prepare and deliver complex legal and/or tax forms and information for use in various media platforms. May provide leadership and work direction to team or workgroup. May assign and mo...",
-    "state": "Maharashtra",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "72.8814089",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ179490",
-    "jobId": "JREQ179490",
-    "city": "Mumbai",
-    "latitude": "19.1114368",
-    "locale": "en_US",
-    "multi_location": [
-      "Mumbai, Maharashtra, India"
-    ],
-    "title": "Tax Specialist",
-    "jobSeqNo": "THTTRUUSJREQ179490EXTERNALENUS",
-    "postedDate": "2024-06-10T00:00:00.000+0000",
-    "dateCreated": "2024-06-10T16:42:15.880+0000",
-    "cityStateCountry": "Mumbai, Maharashtra, India",
-    "address": "4th Flr, Dhantak Plaza, Makwana Road, Marol, Andheri East, Mumbai- 400059, Maharashtra, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Mumbai-Dhantak-Plaza/Tax-Specialist_JREQ179490/apply",
-    "location": "Mumbai, Maharashtra, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Create, design, prepare and deliver complex legal and/or tax forms and information for use in various media platforms. May provide leadership and work direction to team or workgroup. May assign and mo...",
-      "descriptionTeaser_first200": "Create, design, prepare and deliver complex legal and/or tax forms and information for use in various media platforms. May provide leadership and work direction to team or workgroup. About the role. Designs...",
-      "descriptionTeaser_keyword": "Create, design, prepare and deliver complex legal and/or tax forms and information for use in various media platforms. May provide leadership and work direction to team or workgroup. About the role. D...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
@@ -1907,187 +2128,6 @@
     "cityState": "Mumbai, Maharashtra",
     "country": "India",
     "ml_skills": [
-      "tax research",
-      "state income tax",
-      "gosystem"
-    ],
-    "remote": "On-Site",
-    "type": "Full time",
-    "descriptionTeaser": "Entry level professional roles requiring a discipline specific degree or the equivalent work experience that provides knowledge and exposure to fundamental theories, principles and concepts. General p...",
-    "state": "Maharashtra",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "72.8814089",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ170346",
-    "jobId": "JREQ170346",
-    "city": "Mumbai",
-    "latitude": "19.1114368",
-    "locale": "en_US",
-    "multi_location": [
-      "Mumbai, Maharashtra, India"
-    ],
-    "title": "Sr. Tax Executive",
-    "jobSeqNo": "THTTRUUSJREQ170346EXTERNALENUS",
-    "postedDate": "2024-06-10T00:00:00.000+0000",
-    "dateCreated": "2023-07-10T12:41:49.730+0000",
-    "cityStateCountry": "Mumbai, Maharashtra, India",
-    "address": "4th Flr, Dhantak Plaza, Makwana Road, Marol, Andheri East, Mumbai- 400059, Maharashtra, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Mumbai-Dhantak-Plaza/Sr-Tax-Executive_JREQ170346/apply",
-    "location": "Mumbai, Maharashtra, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Entry level professional roles requiring a discipline specific degree or the equivalent work experience that provides knowledge and exposure to fundamental theories, principles and concepts. General p...",
-      "descriptionTeaser_first200": "Thomson Reuters is looking to add a Senior Tax Executive. This challenging position requires someone to think independently, work well collaboratively across multiple disciplines, including working with...",
-      "descriptionTeaser_keyword": "Thomson Reuters is looking to add a Senior Tax Executive. This challenging position requires someone to think independently, work well collaboratively across multiple disciplines, including working wi...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 72.8814089,
-          "lat": 19.1114368
-        },
-        "location": "Mumbai, Maharashtra, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Mumbai, Maharashtra",
-    "country": "India",
-    "ml_skills": [],
-    "remote": "On-Site",
-    "type": "Full time",
-    "descriptionTeaser": "This challenging position requires someone to think independently, work well collaboratively across multiple disciplines, including working with a variety of tax domains. To help team members in resol...",
-    "state": "Maharashtra",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "72.8814089",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ179386",
-    "jobId": "JREQ179386",
-    "city": "Mumbai",
-    "latitude": "19.1114368",
-    "locale": "en_US",
-    "multi_location": [
-      "Mumbai, Maharashtra, India"
-    ],
-    "title": "Senior Process Associate",
-    "jobSeqNo": "THTTRUUSJREQ179386EXTERNALENUS",
-    "postedDate": "2024-06-10T00:00:00.000+0000",
-    "dateCreated": "2024-06-10T12:41:10.221+0000",
-    "cityStateCountry": "Mumbai, Maharashtra, India",
-    "address": "4th Flr, Dhantak Plaza, Makwana Road, Marol, Andheri East, Mumbai- 400059, Maharashtra, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Mumbai-Dhantak-Plaza/Senior-Process-Associate_JREQ179386/apply",
-    "location": "Mumbai, Maharashtra, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "This challenging position requires someone to think independently, work well collaboratively across multiple disciplines, including working with a variety of tax domains. To help team members in resol...",
-      "descriptionTeaser_first200": "Thomson Reuters is looking to add a Senior Process Associate. This challenging position requires someone to think independently, work well collaboratively across multiple disciplines, including working...",
-      "descriptionTeaser_keyword": "Thomson Reuters is looking to add a Senior Process Associate. This challenging position requires someone to think independently, work well collaboratively across multiple disciplines, including workin...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 72.8814089,
-          "lat": 19.1114368
-        },
-        "location": "Mumbai, Maharashtra, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Mumbai, Maharashtra",
-    "country": "India",
-    "ml_skills": [],
-    "remote": "On-Site",
-    "type": "Full time",
-    "descriptionTeaser": "Create, design, prepare and deliver complex legal and/or tax forms and information for use in various media platforms. May provide leadership and work direction to team or workgroup. May assign and mo...",
-    "state": "Maharashtra",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "72.8814089",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ179661",
-    "jobId": "JREQ179661",
-    "city": "Mumbai",
-    "latitude": "19.1114368",
-    "locale": "en_US",
-    "multi_location": [
-      "Mumbai, Maharashtra, India"
-    ],
-    "title": "Tax Specialist",
-    "jobSeqNo": "THTTRUUSJREQ179661EXTERNALENUS",
-    "postedDate": "2024-06-10T00:00:00.000+0000",
-    "dateCreated": "2024-06-10T12:41:10.223+0000",
-    "cityStateCountry": "Mumbai, Maharashtra, India",
-    "address": "4th Flr, Dhantak Plaza, Makwana Road, Marol, Andheri East, Mumbai- 400059, Maharashtra, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Mumbai-Dhantak-Plaza/Tax-Specialist_JREQ179661-1/apply",
-    "location": "Mumbai, Maharashtra, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Create, design, prepare and deliver complex legal and/or tax forms and information for use in various media platforms. May provide leadership and work direction to team or workgroup. May assign and mo...",
-      "descriptionTeaser_first200": "Create, design, prepare and deliver complex legal and/or tax forms and information for use in various media platforms. May provide leadership and work direction to team or workgroup. About the role. Designs...",
-      "descriptionTeaser_keyword": "Create, design, prepare and deliver complex legal and/or tax forms and information for use in various media platforms. May provide leadership and work direction to team or workgroup. About the role. D...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 72.8814089,
-          "lat": 19.1114368
-        },
-        "location": "Mumbai, Maharashtra, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Mumbai, Maharashtra",
-    "country": "India",
-    "ml_skills": [
       "tax software",
       "information security"
     ],
@@ -2147,164 +2187,53 @@
     "badge": ""
   },
   {
-    "cityState": "Mumbai, Maharashtra",
-    "country": "India",
-    "ml_skills": [],
-    "remote": "On-Site",
-    "type": "Full time",
-    "descriptionTeaser": "Create, design, prepare and deliver complex legal and/or tax forms and information for use in various media platforms. May provide leadership and work direction to team or workgroup. May assign and mo...",
-    "state": "Maharashtra",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "72.8814089",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ179493",
-    "jobId": "JREQ179493",
-    "city": "Mumbai",
-    "latitude": "19.1114368",
-    "locale": "en_US",
-    "multi_location": [
-      "Mumbai, Maharashtra, India"
-    ],
-    "title": "Tax Specialist",
-    "jobSeqNo": "THTTRUUSJREQ179493EXTERNALENUS",
-    "postedDate": "2024-06-10T00:00:00.000+0000",
-    "dateCreated": "2024-06-10T16:42:15.882+0000",
-    "cityStateCountry": "Mumbai, Maharashtra, India",
-    "address": "4th Flr, Dhantak Plaza, Makwana Road, Marol, Andheri East, Mumbai- 400059, Maharashtra, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Mumbai-Dhantak-Plaza/Tax-Specialist_JREQ179493/apply",
-    "location": "Mumbai, Maharashtra, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Create, design, prepare and deliver complex legal and/or tax forms and information for use in various media platforms. May provide leadership and work direction to team or workgroup. May assign and mo...",
-      "descriptionTeaser_first200": "Create, design, prepare and deliver complex legal and/or tax forms and information for use in various media platforms. May provide leadership and work direction to team or workgroup. About the role. Designs...",
-      "descriptionTeaser_keyword": "Create, design, prepare and deliver complex legal and/or tax forms and information for use in various media platforms. May provide leadership and work direction to team or workgroup. About the role. D...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 72.8814089,
-          "lat": 19.1114368
-        },
-        "location": "Mumbai, Maharashtra, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Mumbai, Maharashtra",
-    "country": "India",
-    "ml_skills": [],
-    "remote": "On-Site",
-    "type": "Full time",
-    "descriptionTeaser": "This challenging position requires someone to think independently, work well collaboratively across multiple disciplines, including working with a variety of tax domains. To help team members in resol...",
-    "state": "Maharashtra",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "72.8814089",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ179394",
-    "jobId": "JREQ179394",
-    "city": "Mumbai",
-    "latitude": "19.1114368",
-    "locale": "en_US",
-    "multi_location": [
-      "Mumbai, Maharashtra, India"
-    ],
-    "title": "Senior Process Associate",
-    "jobSeqNo": "THTTRUUSJREQ179394EXTERNALENUS",
-    "postedDate": "2024-06-10T00:00:00.000+0000",
-    "dateCreated": "2024-06-10T12:41:10.215+0000",
-    "cityStateCountry": "Mumbai, Maharashtra, India",
-    "address": "4th Flr, Dhantak Plaza, Makwana Road, Marol, Andheri East, Mumbai- 400059, Maharashtra, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Mumbai-Dhantak-Plaza/Senior-Process-Associate_JREQ179394/apply",
-    "location": "Mumbai, Maharashtra, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "This challenging position requires someone to think independently, work well collaboratively across multiple disciplines, including working with a variety of tax domains. To help team members in resol...",
-      "descriptionTeaser_first200": "Thomson Reuters is looking to add a Senior Process Associate. This challenging position requires someone to think independently, work well collaboratively across multiple disciplines, including working...",
-      "descriptionTeaser_keyword": "Thomson Reuters is looking to add a Senior Process Associate. This challenging position requires someone to think independently, work well collaboratively across multiple disciplines, including workin...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 72.8814089,
-          "lat": 19.1114368
-        },
-        "location": "Mumbai, Maharashtra, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Mumbai, Maharashtra",
-    "country": "India",
+    "cityState": "Hong Kong",
+    "country": "Hong Kong",
     "ml_skills": [
-      "commerce",
-      "justice"
+      "stakeholder management",
+      "new product development",
+      "brand management",
+      "project management",
+      "product development",
+      "publishing",
+      "project oversight",
+      "workload management",
+      "editing"
     ],
-    "remote": "On-Site",
+    "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "May provide leadership and work direction to team or workgroup. May develop and learn new tools to use for creation, tracking, assigning and coordinating work. Learning & Development: LinkedIn Learnin...",
-    "state": "Maharashtra",
+    "descriptionTeaser": "Provide project oversight to third party editing, and liaise internally on product set-up and pathway management to launch content on Westlaw Asia. Identify and manage derivative and secondary revenue...",
+    "state": "",
     "visibilityType": "External",
     "siteType": "external",
-    "longitude": "72.8814089",
+    "longitude": "114.2168499",
     "multi_category": [
       "News & Editorial Careers"
     ],
-    "reqId": "JREQ179067",
-    "jobId": "JREQ179067",
-    "city": "Mumbai",
-    "latitude": "19.1114368",
+    "reqId": "JREQ179396",
+    "jobId": "JREQ179396",
+    "city": "Hong Kong",
+    "latitude": "22.2876498",
     "locale": "en_US",
     "multi_location": [
-      "Mumbai, Maharashtra, India"
+      "Hong Kong, Hong Kong"
     ],
-    "title": "Tax Specialist",
-    "jobSeqNo": "THTTRUUSJREQ179067EXTERNALENUS",
-    "postedDate": "2024-06-10T00:00:00.000+0000",
-    "dateCreated": "2024-06-10T16:42:15.881+0000",
-    "cityStateCountry": "Mumbai, Maharashtra, India",
-    "address": "4th Flr, Dhantak Plaza, Makwana Road, Marol, Andheri East, Mumbai- 400059, Maharashtra, India",
+    "title": "Senior Publisher",
+    "jobSeqNo": "THTTRUUSJREQ179396EXTERNALENUS",
+    "postedDate": "2024-06-07T00:00:00.000+0000",
+    "dateCreated": "2024-06-07T04:41:00.666+0000",
+    "cityStateCountry": "Hong Kong, Hong Kong",
+    "address": "15/F, 14 Taikoo Wan Road, Taikoo Shing, Hong Kong, Hong Kong",
     "jobVisibility": [
       "external"
     ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Mumbai-Dhantak-Plaza/Tax-Specialist_JREQ179067/apply",
-    "location": "Mumbai, Maharashtra, India",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/HKG-Taikoo-14-Taikoo-Wan-Road/Senior-Publisher_JREQ179396/apply",
+    "location": "Hong Kong, Hong Kong",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "May provide leadership and work direction to team or workgroup. May develop and learn new tools to use for creation, tracking, assigning and coordinating work. Learning & Development: LinkedIn Learnin...",
-      "descriptionTeaser_first200": "Create, design, prepare and deliver complex legal and/or tax forms and information for use in various media platforms. May provide leadership and work direction to team or workgroup. About the role. Designs...",
-      "descriptionTeaser_keyword": "Create, design, prepare and deliver complex legal and/or tax forms and information for use in various media platforms. May provide leadership and work direction to team or workgroup. About the role. D...",
+      "descriptionTeaser": "Provide project oversight to third party editing, and liaise internally on product set-up and pathway management to launch content on Westlaw Asia. Identify and manage derivative and secondary revenue...",
+      "descriptionTeaser_first200": "SENIOR PUBLISHER, PRINT / NEW PRODUCT DEVELOPMENT. Whilst the reporting line for this role is to the AEM Print business unit, it will operate under an \u201cOnline First\u201d publishing model. The role is to develop...",
+      "descriptionTeaser_keyword": "SENIOR PUBLISHER, PRINT / NEW PRODUCT DEVELOPMENT. Whilst the reporting line for this role is to the AEM Print business unit, it will operate under an \u201cOnline First\u201d publishing model. The role is to d...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
@@ -2312,69 +2241,10 @@
     "multi_location_array": [
       {
         "latlong": {
-          "lon": 72.8814089,
-          "lat": 19.1114368
+          "lon": 114.2168499,
+          "lat": 22.2876498
         },
-        "location": "Mumbai, Maharashtra, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Mumbai, Maharashtra",
-    "country": "India",
-    "ml_skills": [],
-    "remote": "On-Site",
-    "type": "Full time",
-    "descriptionTeaser": "Create, design, prepare and deliver complex legal and/or tax forms and information for use in various media platforms. May provide leadership and work direction to team or workgroup. May assign and mo...",
-    "state": "Maharashtra",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "72.8814089",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ179491",
-    "jobId": "JREQ179491",
-    "city": "Mumbai",
-    "latitude": "19.1114368",
-    "locale": "en_US",
-    "multi_location": [
-      "Mumbai, Maharashtra, India"
-    ],
-    "title": "Tax Specialist",
-    "jobSeqNo": "THTTRUUSJREQ179491EXTERNALENUS",
-    "postedDate": "2024-06-10T00:00:00.000+0000",
-    "dateCreated": "2024-06-10T12:41:10.214+0000",
-    "cityStateCountry": "Mumbai, Maharashtra, India",
-    "address": "4th Flr, Dhantak Plaza, Makwana Road, Marol, Andheri East, Mumbai- 400059, Maharashtra, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Mumbai-Dhantak-Plaza/Tax-Specialist_JREQ179491-1/apply",
-    "location": "Mumbai, Maharashtra, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Create, design, prepare and deliver complex legal and/or tax forms and information for use in various media platforms. May provide leadership and work direction to team or workgroup. May assign and mo...",
-      "descriptionTeaser_first200": "Create, design, prepare and deliver complex legal and/or tax forms and information for use in various media platforms. May provide leadership and work direction to team or workgroup. About the role. Designs...",
-      "descriptionTeaser_keyword": "Create, design, prepare and deliver complex legal and/or tax forms and information for use in various media platforms. May provide leadership and work direction to team or workgroup. About the role. D...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 72.8814089,
-          "lat": 19.1114368
-        },
-        "location": "Mumbai, Maharashtra, India"
+        "location": "Hong Kong, Hong Kong"
       }
     ],
     "isMultiCategory": true,
@@ -2508,75 +2378,6 @@
           "lat": 17.438325
         },
         "location": "Hyderabad, Telangana, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Hong Kong",
-    "country": "Hong Kong",
-    "ml_skills": [
-      "stakeholder management",
-      "new product development",
-      "brand management",
-      "project management",
-      "product development",
-      "publishing",
-      "project oversight",
-      "workload management",
-      "editing"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Provide project oversight to third party editing, and liaise internally on product set-up and pathway management to launch content on Westlaw Asia. Identify and manage derivative and secondary revenue...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "114.2168499",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ179396",
-    "jobId": "JREQ179396",
-    "city": "Hong Kong",
-    "latitude": "22.2876498",
-    "locale": "en_US",
-    "multi_location": [
-      "Hong Kong, Hong Kong"
-    ],
-    "title": "Senior Publisher",
-    "jobSeqNo": "THTTRUUSJREQ179396EXTERNALENUS",
-    "postedDate": "2024-06-07T00:00:00.000+0000",
-    "dateCreated": "2024-06-07T04:41:00.666+0000",
-    "cityStateCountry": "Hong Kong, Hong Kong",
-    "address": "15/F, 14 Taikoo Wan Road, Taikoo Shing, Hong Kong, Hong Kong",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/HKG-Taikoo-14-Taikoo-Wan-Road/Senior-Publisher_JREQ179396/apply",
-    "location": "Hong Kong, Hong Kong",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Provide project oversight to third party editing, and liaise internally on product set-up and pathway management to launch content on Westlaw Asia. Identify and manage derivative and secondary revenue...",
-      "descriptionTeaser_first200": "SENIOR PUBLISHER, PRINT / NEW PRODUCT DEVELOPMENT. Whilst the reporting line for this role is to the AEM Print business unit, it will operate under an \u201cOnline First\u201d publishing model. The role is to develop...",
-      "descriptionTeaser_keyword": "SENIOR PUBLISHER, PRINT / NEW PRODUCT DEVELOPMENT. Whilst the reporting line for this role is to the AEM Print business unit, it will operate under an \u201cOnline First\u201d publishing model. The role is to d...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 114.2168499,
-          "lat": 22.2876498
-        },
-        "location": "Hong Kong, Hong Kong"
       }
     ],
     "isMultiCategory": true,
@@ -3383,70 +3184,6 @@
     "cityState": "London",
     "country": "United Kingdom",
     "ml_skills": [
-      "newsletters",
-      "editing",
-      "multimedia",
-      "business development"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "You must be someone who has a track record for creating and growing well-read newsletters, enjoys collaborating across teams, has excellent story judgment, editing skills. Ability to collaborate acros...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-0.0185088",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ178518",
-    "jobId": "JREQ178518",
-    "city": "London",
-    "latitude": "51.5056439",
-    "locale": "en_US",
-    "multi_location": [
-      "London, United Kingdom"
-    ],
-    "title": "Deputy Editor, Newsletters - Thomson Reuters Foundation",
-    "jobSeqNo": "THTTRUUSJREQ178518EXTERNALENUS",
-    "postedDate": "2024-06-03T00:00:00.000+0000",
-    "dateCreated": "2024-04-29T16:40:22.306+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Deputy-Editor--Newsletters_JREQ178518/apply",
-    "location": "London, United Kingdom",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "You must be someone who has a track record for creating and growing well-read newsletters, enjoys collaborating across teams, has excellent story judgment, editing skills. Ability to collaborate acros...",
-      "descriptionTeaser_first200": "We are looking for a talented journalism and product leader to join the Thomson Reuters Foundation\u2019s digital news platform, Context, as Deputy Editor, Newsletters. This critical role will be tasked with...",
-      "descriptionTeaser_keyword": "We are looking for a talented journalism and product leader to join the Thomson Reuters Foundation\u2019s digital news platform, Context, as Deputy Editor, Newsletters. This critical role will be tasked wi...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -0.0185088,
-          "lat": 51.5056439
-        },
-        "location": "London, United Kingdom"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "London",
-    "country": "United Kingdom",
-    "ml_skills": [
       "multimedia",
       "visual journalism",
       "seo",
@@ -3512,14 +3249,14 @@
     "cityState": "London",
     "country": "United Kingdom",
     "ml_skills": [
-      "fact-checking",
-      "news writing",
-      "current affairs",
-      "multimedia"
+      "newsletters",
+      "editing",
+      "multimedia",
+      "business development"
     ],
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "Reuters is looking for a journalist with strong research and writing skills to join its dynamic fact-checking team. Proactively pitch fact-check articles addressing misinformation. Be part of our glob...",
+    "descriptionTeaser": "You must be someone who has a track record for creating and growing well-read newsletters, enjoys collaborating across teams, has excellent story judgment, editing skills. Ability to collaborate acros...",
     "state": "",
     "visibilityType": "External",
     "siteType": "external",
@@ -3527,30 +3264,30 @@
     "multi_category": [
       "News & Editorial Careers"
     ],
-    "reqId": "JREQ179636",
-    "jobId": "JREQ179636",
+    "reqId": "JREQ178518",
+    "jobId": "JREQ178518",
     "city": "London",
     "latitude": "51.5056439",
     "locale": "en_US",
     "multi_location": [
       "London, United Kingdom"
     ],
-    "title": "Fact-Checking Producer (Temp)",
-    "jobSeqNo": "THTTRUUSJREQ179636EXTERNALENUS",
+    "title": "Deputy Editor, Newsletters - Thomson Reuters Foundation",
+    "jobSeqNo": "THTTRUUSJREQ178518EXTERNALENUS",
     "postedDate": "2024-06-03T00:00:00.000+0000",
-    "dateCreated": "2024-06-03T16:40:49.512+0000",
+    "dateCreated": "2024-04-29T16:40:22.306+0000",
     "cityStateCountry": "London, United Kingdom",
     "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
     "jobVisibility": [
       "external"
     ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Fact-Checking-Producer--Temp-_JREQ179636/apply",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Deputy-Editor--Newsletters_JREQ178518/apply",
     "location": "London, United Kingdom",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "Reuters is looking for a journalist with strong research and writing skills to join its dynamic fact-checking team. Proactively pitch fact-check articles addressing misinformation. Be part of our glob...",
-      "descriptionTeaser_first200": "Reuters is looking for a journalist with strong research and writing skills to join its dynamic fact-checking team. This position will involve identifying viral content relating to misinformation topics...",
-      "descriptionTeaser_keyword": "Reuters is looking for a journalist with strong research and writing skills to join its dynamic fact-checking team. This position will involve identifying viral content relating to misinformation topi...",
+      "descriptionTeaser": "You must be someone who has a track record for creating and growing well-read newsletters, enjoys collaborating across teams, has excellent story judgment, editing skills. Ability to collaborate acros...",
+      "descriptionTeaser_first200": "We are looking for a talented journalism and product leader to join the Thomson Reuters Foundation\u2019s digital news platform, Context, as Deputy Editor, Newsletters. This critical role will be tasked with...",
+      "descriptionTeaser_keyword": "We are looking for a talented journalism and product leader to join the Thomson Reuters Foundation\u2019s digital news platform, Context, as Deputy Editor, Newsletters. This critical role will be tasked wi...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
@@ -3628,6 +3365,70 @@
           "lat": 14.5344436
         },
         "location": "Manila, Philippines"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "London",
+    "country": "United Kingdom",
+    "ml_skills": [
+      "fact-checking",
+      "news writing",
+      "current affairs",
+      "multimedia"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Reuters is looking for a journalist with strong research and writing skills to join its dynamic fact-checking team. Proactively pitch fact-check articles addressing misinformation. Be part of our glob...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.0185088",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ179636",
+    "jobId": "JREQ179636",
+    "city": "London",
+    "latitude": "51.5056439",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom"
+    ],
+    "title": "Fact-Checking Producer (Temp)",
+    "jobSeqNo": "THTTRUUSJREQ179636EXTERNALENUS",
+    "postedDate": "2024-06-03T00:00:00.000+0000",
+    "dateCreated": "2024-06-03T16:40:49.512+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Fact-Checking-Producer--Temp-_JREQ179636/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Reuters is looking for a journalist with strong research and writing skills to join its dynamic fact-checking team. Proactively pitch fact-check articles addressing misinformation. Be part of our glob...",
+      "descriptionTeaser_first200": "Reuters is looking for a journalist with strong research and writing skills to join its dynamic fact-checking team. This position will involve identifying viral content relating to misinformation topics...",
+      "descriptionTeaser_keyword": "Reuters is looking for a journalist with strong research and writing skills to join its dynamic fact-checking team. This position will involve identifying viral content relating to misinformation topi...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.0185088,
+          "lat": 51.5056439
+        },
+        "location": "London, United Kingdom"
       }
     ],
     "isMultiCategory": true,
@@ -4096,195 +3897,6 @@
           "lat": 51.5056439
         },
         "location": "London, United Kingdom"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Gdansk",
-    "country": "Poland",
-    "ml_skills": [
-      "press releases",
-      "vocabulary",
-      "multimedia",
-      "dutch"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Reuters is seeking candidates who can speak fluent English and French to join its real-time news operation in Gdansk, Poland. Scan press releases from companies and regulators in English and French to...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "18.5752702",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ175890",
-    "jobId": "JREQ175890",
-    "city": "Gdansk",
-    "latitude": "54.4004235",
-    "locale": "en_US",
-    "multi_location": [
-      "Gdansk, Poland"
-    ],
-    "title": "Graduate News Reporter with French",
-    "jobSeqNo": "THTTRUUSJREQ175890EXTERNALENUS",
-    "postedDate": "2024-05-28T00:00:00.000+0000",
-    "dateCreated": "2024-03-01T12:41:52.455+0000",
-    "cityStateCountry": "Gdansk, Poland",
-    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/News-Reporter-with-French_JREQ175890/apply",
-    "location": "Gdansk, Poland",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Reuters is seeking candidates who can speak fluent English and French to join its real-time news operation in Gdansk, Poland. Scan press releases from companies and regulators in English and French to...",
-      "descriptionTeaser_first200": "Reuters is seeking candidates who can speak fluent English and French to join its real-time news operation in Gdansk, Poland. The reporters will work in fast paced, international environment to produce...",
-      "descriptionTeaser_keyword": "Reuters is seeking candidates who can speak fluent English and French to join its real-time news operation in Gdansk, Poland. The reporters will work in fast paced, international environment to produc...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 18.5752702,
-          "lat": 54.4004235
-        },
-        "location": "Gdansk, Poland"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Washington, District of Columbia",
-    "country": "United States of America",
-    "ml_skills": [
-      "journalism"
-    ],
-    "remote": "Remote",
-    "type": "Full time",
-    "descriptionTeaser": "S. Aerospace Correspondent will be part of an experienced global team covering the world\u2019s airlines, defense contractors and space companies. Work closely with team members on stories about airlines,...",
-    "state": "District of Columbia",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-77.0311952",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ179270",
-    "jobId": "JREQ179270",
-    "city": "Washington",
-    "latitude": "38.9004793",
-    "locale": "en_US",
-    "multi_location": [
-      "Washington, District of Columbia, United States of America"
-    ],
-    "title": "U.S. Aerospace Correspondent (Level 1 Journalist)",
-    "jobSeqNo": "THTTRUUSJREQ179270EXTERNALENUS",
-    "postedDate": "2024-05-28T00:00:00.000+0000",
-    "dateCreated": "2024-05-28T16:41:30.286+0000",
-    "cityStateCountry": "Washington, District of Columbia, United States of America",
-    "address": "1333 H Street NW, Suite 500, Washington, DC 20005, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Washington-1333-H-Street-N/US-Aerospace-Correspondent--Level-1-Journalist-_JREQ179270/apply",
-    "location": "Washington, District of Columbia, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "S. Aerospace Correspondent will be part of an experienced global team covering the world\u2019s airlines, defense contractors and space companies. Work closely with team members on stories about airlines,...",
-      "descriptionTeaser_first200": "Reuters is looking for a dynamic and ambitious U.S. Aerospace Correspondent (Level 1 Journalist) to lead our coverage of Boeing at a critical moment for the 107-year-old plane manufacturer. Since the...",
-      "descriptionTeaser_keyword": "Reuters is looking for a dynamic and ambitious U. S. Aerospace Correspondent (Level 1 Journalist) to lead our coverage of Boeing at a critical moment for the 107-year-old plane manufacturer. Since the...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -77.0311952,
-          "lat": 38.9004793
-        },
-        "location": "Washington, District of Columbia, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Hyderabad, Telangana",
-    "country": "India",
-    "ml_skills": [
-      "quality assurance",
-      "regression testing",
-      "xml",
-      "tax software"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Would be working on the testing of software by creating various scenarios through locators and generates the output in xml. Should be able to independently update to the developers about any bugs foun...",
-    "state": "Telangana",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "78.3847282",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ175917",
-    "jobId": "JREQ175917",
-    "city": "Hyderabad",
-    "latitude": "17.438325",
-    "locale": "en_US",
-    "multi_location": [
-      "Hyderabad, Telangana, India"
-    ],
-    "title": "Associate Quality Assurance & E-file Analyst",
-    "jobSeqNo": "THTTRUUSJREQ175917EXTERNALENUS",
-    "postedDate": "2024-05-27T00:00:00.000+0000",
-    "dateCreated": "2024-05-27T12:40:02.186+0000",
-    "cityStateCountry": "Hyderabad, Telangana, India",
-    "address": "Floor 12, 13 & 14, Building 11, Raheja Mindspace, Madhapur, Hyderabad- 500081, Telangana, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Hyderabad-Raheja-Mindspace/Associate-Quality-Assurance---E-file-Analyst_JREQ175917-1/apply",
-    "location": "Hyderabad, Telangana, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Would be working on the testing of software by creating various scenarios through locators and generates the output in xml. Should be able to independently update to the developers about any bugs foun...",
-      "descriptionTeaser_first200": "Associate Quality Assurance & E-file Analyst. Looking forward to advance your career in US Taxation? We are growing and we are hiring, come join us! About the Role. In this opportunity as Associate Quality...",
-      "descriptionTeaser_keyword": "Associate Quality Assurance & E-file Analyst. Looking forward to advance your career in US Taxation? We are growing and we are hiring, come join us! About the Role. In this opportunity as Associate Qu...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 78.3847282,
-          "lat": 17.438325
-        },
-        "location": "Hyderabad, Telangana, India"
       }
     ],
     "isMultiCategory": true,
@@ -4839,71 +4451,6 @@
     "badge": ""
   },
   {
-    "cityState": "Bengaluru, Karnataka",
-    "country": "India",
-    "ml_skills": [
-      "grammar",
-      "captions",
-      "numbers",
-      "investment",
-      "financial data"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Have the news judgment to differentiate between news that can make or break a company and PR speak - and be able to prioritize news, analysis and views for an investment audience. A journalist will be...",
-    "state": "Karnataka",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "77.7120655",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ176093",
-    "jobId": "JREQ176093",
-    "city": "Bengaluru",
-    "latitude": "12.9743998",
-    "locale": "en_US",
-    "multi_location": [
-      "Bengaluru, Karnataka, India"
-    ],
-    "title": "Correspondent, India",
-    "jobSeqNo": "THTTRUUSJREQ176093EXTERNALENUS",
-    "postedDate": "2024-05-20T00:00:00.000+0000",
-    "dateCreated": "2024-02-14T08:41:18.141+0000",
-    "cityStateCountry": "Bengaluru, Karnataka, India",
-    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/Correspondent--India_JREQ176093-1/apply",
-    "location": "Bengaluru, Karnataka, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Have the news judgment to differentiate between news that can make or break a company and PR speak - and be able to prioritize news, analysis and views for an investment audience. A journalist will be...",
-      "descriptionTeaser_first200": "Correspondent, India. We're looking for a talented, well-organized news hound to be a part of Reuters\u2019 Bangalore newsroom. The successful candidate will be a people person, a great communicator and, above...",
-      "descriptionTeaser_keyword": "Correspondent, India. We're looking for a talented, well-organized news hound to be a part of Reuters\u2019 Bangalore newsroom. The successful candidate will be a people person, a great communicator and, a...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 77.7120655,
-          "lat": 12.9743998
-        },
-        "location": "Bengaluru, Karnataka, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Bangkok",
     "country": "Thailand",
     "ml_skills": [
@@ -4977,48 +4524,49 @@
     "badge": ""
   },
   {
-    "cityState": "London",
-    "country": "United Kingdom",
+    "cityState": "Bengaluru, Karnataka",
+    "country": "India",
     "ml_skills": [
-      "graphics",
-      "financial journalism",
-      "multimedia",
-      "decisiveness"
+      "grammar",
+      "captions",
+      "numbers",
+      "investment",
+      "financial data"
     ],
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "You will combine a demonstrated ability to build and lead a talented team of journalists with experience growing a digital operation. Manage interactions with the commercial team to ensure they can co...",
-    "state": "",
+    "descriptionTeaser": "Have the news judgment to differentiate between news that can make or break a company and PR speak - and be able to prioritize news, analysis and views for an investment audience. A journalist will be...",
+    "state": "Karnataka",
     "visibilityType": "External",
     "siteType": "external",
-    "longitude": "-0.0185088",
+    "longitude": "77.7120655",
     "multi_category": [
       "News & Editorial Careers"
     ],
-    "reqId": "JREQ179073",
-    "jobId": "JREQ179073",
-    "city": "London",
-    "latitude": "51.5056439",
+    "reqId": "JREQ176093",
+    "jobId": "JREQ176093",
+    "city": "Bengaluru",
+    "latitude": "12.9743998",
     "locale": "en_US",
     "multi_location": [
-      "London, United Kingdom"
+      "Bengaluru, Karnataka, India"
     ],
-    "title": "Global Editor, The Insurer, Reuters",
-    "jobSeqNo": "THTTRUUSJREQ179073EXTERNALENUS",
+    "title": "Correspondent, India",
+    "jobSeqNo": "THTTRUUSJREQ176093EXTERNALENUS",
     "postedDate": "2024-05-20T00:00:00.000+0000",
-    "dateCreated": "2024-05-20T16:39:37.346+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "dateCreated": "2024-02-14T08:41:18.141+0000",
+    "cityStateCountry": "Bengaluru, Karnataka, India",
+    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
     "jobVisibility": [
       "external"
     ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Global-Editor--The-Insurer--Reuters_JREQ179073/apply",
-    "location": "London, United Kingdom",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/Correspondent--India_JREQ176093-1/apply",
+    "location": "Bengaluru, Karnataka, India",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "You will combine a demonstrated ability to build and lead a talented team of journalists with experience growing a digital operation. Manage interactions with the commercial team to ensure they can co...",
-      "descriptionTeaser_first200": "Reuters is seeking an energetic and experienced leader with gravitas and tenure in financial journalism to oversee the global newsrooms of The Insurer, our market-leading specialty (re)insurance news,...",
-      "descriptionTeaser_keyword": "Reuters is seeking an energetic and experienced leader with gravitas and tenure in financial journalism to oversee the global newsrooms of The Insurer, our market-leading specialty (re)insurance news,...",
+      "descriptionTeaser": "Have the news judgment to differentiate between news that can make or break a company and PR speak - and be able to prioritize news, analysis and views for an investment audience. A journalist will be...",
+      "descriptionTeaser_first200": "Correspondent, India. We're looking for a talented, well-organized news hound to be a part of Reuters\u2019 Bangalore newsroom. The successful candidate will be a people person, a great communicator and, above...",
+      "descriptionTeaser_keyword": "Correspondent, India. We're looking for a talented, well-organized news hound to be a part of Reuters\u2019 Bangalore newsroom. The successful candidate will be a people person, a great communicator and, a...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
@@ -5026,73 +4574,10 @@
     "multi_location_array": [
       {
         "latlong": {
-          "lon": -0.0185088,
-          "lat": 51.5056439
+          "lon": 77.7120655,
+          "lat": 12.9743998
         },
-        "location": "London, United Kingdom"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Cairo",
-    "country": "Egypt",
-    "ml_skills": [
-      "breaking news",
-      "arabic language",
-      "arabic"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Write breaking news alerts and newsbreaks from financial/energy statements, speeches, tweets, TV broadcast. To be Middle East and North Africa Breaking News Correspondent, you will likely have. An abi...",
-    "state": "Cairo",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "31.2357116",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ178263",
-    "jobId": "JREQ178263",
-    "city": "",
-    "latitude": "30.0444196",
-    "locale": "en_US",
-    "multi_location": [
-      "Cairo, Egypt"
-    ],
-    "title": "Breaking News Correspondent, Middle East and North Africa",
-    "jobSeqNo": "THTTRUUSJREQ178263EXTERNALENUS",
-    "postedDate": "2024-05-17T00:00:00.000+0000",
-    "dateCreated": "2024-05-17T12:39:55.650+0000",
-    "cityStateCountry": "Cairo, Egypt",
-    "address": "Nile City Towers, 2005c, Corniche El Nile, Nile City, Cairo, 11221, Egypt",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/EGY-Cairo-Nile-City-Towers/Breaking-News-Correspondent--Middle-East-and-North-Africa_JREQ178263/apply",
-    "location": "Cairo, Egypt",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Write breaking news alerts and newsbreaks from financial/energy statements, speeches, tweets, TV broadcast. To be Middle East and North Africa Breaking News Correspondent, you will likely have. An abi...",
-      "descriptionTeaser_first200": "Reuters is seeking a journalist to join its Middle East Breaking News Hub operation. The Hub is in charge of producing real-time news alerts and stories in in English and Arabic from a variety of sources,...",
-      "descriptionTeaser_keyword": "Reuters is seeking a journalist to join its Middle East Breaking News Hub operation. The Hub is in charge of producing real-time news alerts and stories in in English and Arabic from a variety of sour...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 31.2357116,
-          "lat": 30.0444196
-        },
-        "location": "Cairo, Egypt"
+        "location": "Bengaluru, Karnataka, India"
       }
     ],
     "isMultiCategory": true,
@@ -5785,79 +5270,6 @@
           "lat": 17.438325
         },
         "location": "Hyderabad, Telangana, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Montreal, Quebec",
-    "country": "Canada",
-    "ml_skills": [
-      "reasonable",
-      "anglais",
-      "detail",
-      "plan",
-      "formation",
-      "esg",
-      "linkedin",
-      "legal",
-      "job postings",
-      "editorial",
-      "accessibility",
-      "r\u00e9daction",
-      "learning"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Les \u00c9ditions Yvon Blais, filiale de Thomson Reuters, est \u00e0 la recherche d\u2019un r\u00e9dacteur pour r\u00e9sumer avec exactitude les jugements s\u00e9lectionn\u00e9s en mati\u00e8re de sentences arbitrales et de ressources humai...",
-    "state": "Quebec",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-73.57233",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ178545",
-    "jobId": "JREQ178545",
-    "city": "Montreal",
-    "latitude": "45.5002876",
-    "locale": "en_US",
-    "multi_location": [
-      "Montreal, Quebec, Canada"
-    ],
-    "title": "R\u00e9dacteur juridique",
-    "jobSeqNo": "THTTRUUSJREQ178545EXTERNALENUS",
-    "postedDate": "2024-05-01T00:00:00.000+0000",
-    "dateCreated": "2024-05-01T16:40:13.515+0000",
-    "cityStateCountry": "Montreal, Quebec, Canada",
-    "address": "1010 rue Ste-Catherine Ouest, Suite 200, Montreal, QC H3B 5L1, Canada",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CAN-Montreal-1010-rue-Ste-Catherine-O/Rdacteur-juridique_JREQ178545/apply",
-    "location": "Montreal, Quebec, Canada",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Les \u00c9ditions Yvon Blais, filiale de Thomson Reuters, est \u00e0 la recherche d\u2019un r\u00e9dacteur pour r\u00e9sumer avec exactitude les jugements s\u00e9lectionn\u00e9s en mati\u00e8re de sentences arbitrales et de ressources humai...",
-      "descriptionTeaser_keyword": "R\u00e9dacteur juridique. Les \u00c9ditions Yvon Blais, filiale de Thomson Reuters, est \u00e0 la recherche d\u2019un r\u00e9dacteur pour r\u00e9sumer avec exactitude les jugements s\u00e9lectionn\u00e9s en mati\u00e8re de sentences arbitrales e...",
-      "descriptionTeaser_first200": "R\u00e9dacteur juridique. Les \u00c9ditions Yvon Blais, filiale de Thomson Reuters, est \u00e0 la recherche d\u2019un r\u00e9dacteur pour r\u00e9sumer avec exactitude les jugements s\u00e9lectionn\u00e9s en mati\u00e8re de sentences arbitrales et...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -73.57233,
-          "lat": 45.5002876
-        },
-        "location": "Montreal, Quebec, Canada"
       }
     ],
     "isMultiCategory": true,
@@ -6647,6 +6059,264 @@
           "lat": 39.9515199
         },
         "location": "Beijing, Beijing, China"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Bengaluru, Karnataka",
+    "country": "India",
+    "ml_skills": [
+      "entertainment multimedia",
+      "multimedia",
+      "journalism",
+      "mass communication",
+      "creativity",
+      "transparency"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "You're a fit for the role of Multimedia News Producer if your background includes. Strong team player, good communication skills. Our industry-leading products and services include highly specialized...",
+    "state": "Karnataka",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "77.7120655",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ174122",
+    "jobId": "JREQ174122",
+    "city": "Bengaluru",
+    "latitude": "12.9743998",
+    "locale": "en_US",
+    "multi_location": [
+      "Bengaluru, Karnataka, India"
+    ],
+    "title": "Multimedia News Producer",
+    "jobSeqNo": "THTTRUUSJREQ174122EXTERNALENUS",
+    "postedDate": "2024-03-12T00:00:00.000+0000",
+    "dateCreated": "2024-01-10T12:40:01.455+0000",
+    "cityStateCountry": "Bengaluru, Karnataka, India",
+    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/Multimedia-News-Producer_JREQ174122/apply",
+    "location": "Bengaluru, Karnataka, India",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "You're a fit for the role of Multimedia News Producer if your background includes. Strong team player, good communication skills. Our industry-leading products and services include highly specialized...",
+      "descriptionTeaser_first200": "Multimedia News Producer. Are you a journalist who desires to be part of a news production team that can reach millions of readers in a matter of seconds? Digital Desk at Reuters in Bangalore does exactly...",
+      "descriptionTeaser_keyword": "Multimedia News Producer. Are you a journalist who desires to be part of a news production team that can reach millions of readers in a matter of seconds? Digital Desk at Reuters in Bangalore does exa...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 77.7120655,
+          "lat": 12.9743998
+        },
+        "location": "Bengaluru, Karnataka, India"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Bengaluru, Karnataka",
+    "country": "India",
+    "ml_skills": [
+      "entertainment multimedia",
+      "multimedia",
+      "journalism",
+      "mass communication",
+      "creativity",
+      "transparency"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "You're a fit for the role of Multimedia News Producer if your background includes. Strong team player, good communication skills. Our industry-leading products and services include highly specialized...",
+    "state": "Karnataka",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "77.7120655",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ174123",
+    "jobId": "JREQ174123",
+    "city": "Bengaluru",
+    "latitude": "12.9743998",
+    "locale": "en_US",
+    "multi_location": [
+      "Bengaluru, Karnataka, India"
+    ],
+    "title": "Multimedia News Producer",
+    "jobSeqNo": "THTTRUUSJREQ174123EXTERNALENUS",
+    "postedDate": "2024-03-12T00:00:00.000+0000",
+    "dateCreated": "2024-01-10T12:40:01.459+0000",
+    "cityStateCountry": "Bengaluru, Karnataka, India",
+    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/Multimedia-News-Producer_JREQ174123/apply",
+    "location": "Bengaluru, Karnataka, India",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "You're a fit for the role of Multimedia News Producer if your background includes. Strong team player, good communication skills. Our industry-leading products and services include highly specialized...",
+      "descriptionTeaser_first200": "Multimedia News Producer. Are you a journalist who desires to be part of a news production team that can reach millions of readers in a matter of seconds? Digital Desk at Reuters in Bangalore does exactly...",
+      "descriptionTeaser_keyword": "Multimedia News Producer. Are you a journalist who desires to be part of a news production team that can reach millions of readers in a matter of seconds? Digital Desk at Reuters in Bangalore does exa...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 77.7120655,
+          "lat": 12.9743998
+        },
+        "location": "Bengaluru, Karnataka, India"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Bengaluru, Karnataka",
+    "country": "India",
+    "ml_skills": [
+      "context",
+      "transparency",
+      "investment decisions"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Adept at performing quickly under pressure as they work with reporters and news editors to produce compelling stories that appeal both to professional clients who rely on Reuters to help make investme...",
+    "state": "Karnataka",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "77.7120655",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ174175",
+    "jobId": "JREQ174175",
+    "city": "Bengaluru",
+    "latitude": "12.9743998",
+    "locale": "en_US",
+    "multi_location": [
+      "Bengaluru, Karnataka, India"
+    ],
+    "title": "Desk Editor",
+    "jobSeqNo": "THTTRUUSJREQ174175EXTERNALENUS",
+    "postedDate": "2024-02-01T00:00:00.000+0000",
+    "dateCreated": "2024-01-17T12:40:46.856+0000",
+    "cityStateCountry": "Bengaluru, Karnataka, India",
+    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/Desk-Editor_JREQ174175/apply",
+    "location": "Bengaluru, Karnataka, India",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Adept at performing quickly under pressure as they work with reporters and news editors to produce compelling stories that appeal both to professional clients who rely on Reuters to help make investme...",
+      "descriptionTeaser_first200": "Desk Editor, Reuters Bangalore. The Reuters Bangalore bureau, the largest Reuters news operation in the world, has set a global benchmark for producing real-time company and markets news at speed. The...",
+      "descriptionTeaser_keyword": "Desk Editor, Reuters Bangalore. The Reuters Bangalore bureau, the largest Reuters news operation in the world, has set a global benchmark for producing real-time company and markets news at speed. The...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 77.7120655,
+          "lat": 12.9743998
+        },
+        "location": "Bengaluru, Karnataka, India"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Bengaluru, Karnataka",
+    "country": "India",
+    "ml_skills": [
+      "context",
+      "transparency",
+      "investment decisions"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Adept at performing quickly under pressure as they work with reporters and news editors to produce compelling stories that appeal both to professional clients who rely on Reuters to help make investme...",
+    "state": "Karnataka",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "77.7120655",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ174174",
+    "jobId": "JREQ174174",
+    "city": "Bengaluru",
+    "latitude": "12.9743998",
+    "locale": "en_US",
+    "multi_location": [
+      "Bengaluru, Karnataka, India"
+    ],
+    "title": "Desk Editor",
+    "jobSeqNo": "THTTRUUSJREQ174174EXTERNALENUS",
+    "postedDate": "2024-02-01T00:00:00.000+0000",
+    "dateCreated": "2024-01-17T12:40:46.838+0000",
+    "cityStateCountry": "Bengaluru, Karnataka, India",
+    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/Desk-Editor_JREQ174174/apply",
+    "location": "Bengaluru, Karnataka, India",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Adept at performing quickly under pressure as they work with reporters and news editors to produce compelling stories that appeal both to professional clients who rely on Reuters to help make investme...",
+      "descriptionTeaser_first200": "Desk Editor, Reuters Bangalore. The Reuters Bangalore bureau, the largest Reuters news operation in the world, has set a global benchmark for producing real-time company and markets news at speed. The...",
+      "descriptionTeaser_keyword": "Desk Editor, Reuters Bangalore. The Reuters Bangalore bureau, the largest Reuters news operation in the world, has set a global benchmark for producing real-time company and markets news at speed. The...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 77.7120655,
+          "lat": 12.9743998
+        },
+        "location": "Bengaluru, Karnataka, India"
       }
     ],
     "isMultiCategory": true,
