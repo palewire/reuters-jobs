@@ -4,7 +4,7 @@
     "country": "United States of America",
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "You will participate in the design, development, and testing of our GoSystem Tax product using in-house development tools.\u00a0 In this role, you will collect, analyze, and prioritize requirements from va",
+    "descriptionTeaser": "Implement changes to our existing tax software products \u2013 For GoSystem, this would require basic programming skills with internal tools. 2-4 years of recent tax preparation experience or experience pr...",
     "state": "Texas",
     "visibilityType": "External",
     "siteType": "external",
@@ -33,6 +33,27 @@
     "location": "Frisco, Texas, United States of America",
     "category": "News & Editorial Careers",
     "externalApply": true,
+    "ml_skills": [
+      "ado",
+      "project management",
+      "computer science",
+      "checkpoint",
+      "tax software",
+      "xml",
+      "software development",
+      "tax preparation",
+      "state tax",
+      "software development information",
+      "income tax",
+      "certified public accountant",
+      "commerce"
+    ],
+    "ml_job_parser": {
+      "descriptionTeaser": "Implement changes to our existing tax software products \u2013 For GoSystem, this would require basic programming skills with internal tools. 2-4 years of recent tax preparation experience or experience pr...",
+      "descriptionTeaser_keyword": "You will participate in the design, development, and testing of our GoSystem Tax product using in-house development tools. In this role, you will collect, analyze, and prioritize requirements from var...",
+      "descriptionTeaser_ats": "",
+      "descriptionTeaser_first200": "You will participate in the design, development, and testing of our GoSystem Tax product using in-house development tools. In this role, you will collect, analyze, and prioritize requirements from various..."
+    },
     "isMultiLocation": true,
     "multi_location_array": [
       {
