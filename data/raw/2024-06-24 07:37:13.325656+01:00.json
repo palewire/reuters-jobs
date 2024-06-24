@@ -1,5 +1,78 @@
 [
   {
+    "cityState": "Frisco, Texas",
+    "country": "United States of America",
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Implement changes to our existing tax software products \u2013 For GoSystem, this would require basic programming skills with internal tools. 2-4 years of recent tax preparation experience or experience pr...",
+    "state": "Texas",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-96.833545",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ179988",
+    "jobId": "JREQ179988",
+    "city": "Frisco",
+    "latitude": "33.1073049",
+    "locale": "en_US",
+    "multi_location": [
+      "Frisco, Texas, United States of America"
+    ],
+    "title": "Senior Tax Analyst",
+    "jobSeqNo": "THTTRUUSJREQ179988EXTERNALENUS",
+    "postedDate": "2024-06-21T00:00:00.000+0000",
+    "dateCreated": "2024-06-21T20:40:40.406+0000",
+    "cityStateCountry": "Frisco, Texas, United States of America",
+    "address": "6160 Warren Parkway, Frisco, TX 75034, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Frisco-6160-Warren-Parkway/Senior-Tax-Analyst_JREQ179988/apply",
+    "location": "Frisco, Texas, United States of America",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "ml_skills": [
+      "ado",
+      "project management",
+      "computer science",
+      "checkpoint",
+      "tax software",
+      "xml",
+      "software development",
+      "tax preparation",
+      "state tax",
+      "software development information",
+      "income tax",
+      "certified public accountant",
+      "commerce"
+    ],
+    "ml_job_parser": {
+      "descriptionTeaser": "Implement changes to our existing tax software products \u2013 For GoSystem, this would require basic programming skills with internal tools. 2-4 years of recent tax preparation experience or experience pr...",
+      "descriptionTeaser_keyword": "You will participate in the design, development, and testing of our GoSystem Tax product using in-house development tools. In this role, you will collect, analyze, and prioritize requirements from var...",
+      "descriptionTeaser_ats": "",
+      "descriptionTeaser_first200": "You will participate in the design, development, and testing of our GoSystem Tax product using in-house development tools. In this role, you will collect, analyze, and prioritize requirements from various..."
+    },
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -96.833545,
+          "lat": 33.1073049
+        },
+        "location": "Frisco, Texas, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Toronto, Ontario",
     "country": "Canada",
     "ml_skills": [
@@ -1007,74 +1080,6 @@
           "lat": 51.516899
         },
         "location": "London, United Kingdom"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Bengaluru, Karnataka",
-    "country": "India",
-    "ml_skills": [
-      "digital marketing",
-      "web publishing",
-      "digital media",
-      "content creation",
-      "content management systems",
-      "microsoft office suite",
-      "customer services operation",
-      "business systems"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Create online content of attorney and their firms and restructure custom content written for law firm Web sites. ( Should be familiar with Web technologies and Digital marketing, and preferably have e...",
-    "state": "Karnataka",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "77.7120655",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ179203",
-    "jobId": "JREQ179203",
-    "city": "Bengaluru",
-    "latitude": "12.9743998",
-    "locale": "en_US",
-    "multi_location": [
-      "Bengaluru, Karnataka, India"
-    ],
-    "title": "Copy Writer",
-    "jobSeqNo": "THTTRUUSJREQ179203EXTERNALENUS",
-    "postedDate": "2024-06-14T00:00:00.000+0000",
-    "dateCreated": "2024-06-16T06:18:39.806+0000",
-    "cityStateCountry": "Bengaluru, Karnataka, India",
-    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/Copy-Writer_JREQ179203-1/apply",
-    "location": "Bengaluru, Karnataka, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Create online content of attorney and their firms and restructure custom content written for law firm Web sites. ( Should be familiar with Web technologies and Digital marketing, and preferably have e...",
-      "descriptionTeaser_first200": "Do you love to solve problems and find better ways of getting things done? Do you love asking \u2018why\u2019 about pretty much everything? And does it make you happy when things are perfectly aligned and standardized?...",
-      "descriptionTeaser_keyword": "Do you love to solve problems and find better ways of getting things done? Do you love asking \u2018why\u2019 about pretty much everything? And does it make you happy when things are perfectly aligned and stand...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 77.7120655,
-          "lat": 12.9743998
-        },
-        "location": "Bengaluru, Karnataka, India"
       }
     ],
     "isMultiCategory": true,
@@ -3326,71 +3331,6 @@
     "cityState": "London",
     "country": "United Kingdom",
     "ml_skills": [
-      "multimedia",
-      "visual journalism",
-      "seo",
-      "digital strategy",
-      "reuters digital strategy"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "The Digital Features Editor will help develop and prototype new formats and features while maintaining our high standards of fairness, accuracy and impartiality. Collaborate with journalists across te...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-0.0185088",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ179072",
-    "jobId": "JREQ179072",
-    "city": "London",
-    "latitude": "51.5056439",
-    "locale": "en_US",
-    "multi_location": [
-      "London, United Kingdom"
-    ],
-    "title": "Digital Features Editor",
-    "jobSeqNo": "THTTRUUSJREQ179072EXTERNALENUS",
-    "postedDate": "2024-06-03T00:00:00.000+0000",
-    "dateCreated": "2024-05-30T16:41:35.539+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Digital-Features-Editor_JREQ179072/apply",
-    "location": "London, United Kingdom",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "The Digital Features Editor will help develop and prototype new formats and features while maintaining our high standards of fairness, accuracy and impartiality. Collaborate with journalists across te...",
-      "descriptionTeaser_first200": "Digital Features Editor, Reuters. This position is based in London. Reuters is seeking a creative, ambitious editor to drive digital-first content for our digital products. We're looking for someone who...",
-      "descriptionTeaser_keyword": "Digital Features Editor, Reuters. This position is based in London. Reuters is seeking a creative, ambitious editor to drive digital-first content for our digital products. We're looking for someone w...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -0.0185088,
-          "lat": 51.5056439
-        },
-        "location": "London, United Kingdom"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "London",
-    "country": "United Kingdom",
-    "ml_skills": [
       "fact-checking",
       "news writing",
       "current affairs",
@@ -3598,72 +3538,6 @@
     "badge": ""
   },
   {
-    "cityState": "London",
-    "country": "United Kingdom",
-    "ml_skills": [
-      "video editing",
-      "multimedia",
-      "storytelling",
-      "breaking news",
-      "debate",
-      "hostile environments"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "The ability to produce tight, well-written accurate news copy to deadline and react quickly to breaking news, offering live cover as appropriate and taking an active role on daily planning for coverag...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-0.0185088",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ179287",
-    "jobId": "JREQ179287",
-    "city": "London",
-    "latitude": "51.5056439",
-    "locale": "en_US",
-    "multi_location": [
-      "London, United Kingdom"
-    ],
-    "title": "Visuals Journalist, UK & Ireland",
-    "jobSeqNo": "THTTRUUSJREQ179287EXTERNALENUS",
-    "postedDate": "2024-05-31T00:00:00.000+0000",
-    "dateCreated": "2024-05-31T12:39:32.609+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Visuals-Journalist--UK---Ireland_JREQ179287/apply",
-    "location": "London, United Kingdom",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "The ability to produce tight, well-written accurate news copy to deadline and react quickly to breaking news, offering live cover as appropriate and taking an active role on daily planning for coverag...",
-      "descriptionTeaser_first200": "Visuals Journalist, UK & Ireland. Reuters is looking for a talented video journalist to join the UK & Ireland team. Our team delivers news footage to more than 1,000 broadcasters and hundreds of digital...",
-      "descriptionTeaser_keyword": "Visuals Journalist, UK & Ireland. Reuters is looking for a talented video journalist to join the UK & Ireland team. Our team delivers news footage to more than 1,000 broadcasters and hundreds of digit...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -0.0185088,
-          "lat": 51.5056439
-        },
-        "location": "London, United Kingdom"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Los Angeles, California",
     "country": "United States of America",
     "ml_skills": [
@@ -3783,71 +3657,6 @@
           "lat": 44.8527611
         },
         "location": "Eagan, Minnesota, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Brussels",
-    "country": "Belgium",
-    "ml_skills": [
-      "breaking news",
-      "journalism",
-      "french",
-      "multimedia",
-      "international relations"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Cover news relating to European security. Operate in a team focused on Europe\u2019s relations with the rest of the world. A track record as an all-round journalist who can write strong copy in English at...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "4.3640778",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ179434",
-    "jobId": "JREQ179434",
-    "city": "Brussels",
-    "latitude": "50.8391241",
-    "locale": "en_US",
-    "multi_location": [
-      "Brussels, Belgium"
-    ],
-    "title": "European Security Correspondent, Reuters",
-    "jobSeqNo": "THTTRUUSJREQ179434EXTERNALENUS",
-    "postedDate": "2024-05-30T00:00:00.000+0000",
-    "dateCreated": "2024-05-30T12:40:17.749+0000",
-    "cityStateCountry": "Brussels, Belgium",
-    "address": "Marnixlaan 17, Avenue Marnix, 1000 Brussels, Belgium",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/BEL-Brussels-Avenue-Marnix/European-Security-Correspondent--Reuters_JREQ179434/apply",
-    "location": "Brussels, Belgium",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Cover news relating to European security. Operate in a team focused on Europe\u2019s relations with the rest of the world. A track record as an all-round journalist who can write strong copy in English at...",
-      "descriptionTeaser_first200": "European Security Correspondent, Reuters. This position is based in Brussels, Belgium. Reuters is looking for an outstanding journalist to cover European security during a critical moment for the region....",
-      "descriptionTeaser_keyword": "European Security Correspondent, Reuters. This position is based in Brussels, Belgium. Reuters is looking for an outstanding journalist to cover European security during a critical moment for the regi...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 4.3640778,
-          "lat": 50.8391241
-        },
-        "location": "Brussels, Belgium"
       }
     ],
     "isMultiCategory": true,
@@ -4259,76 +4068,6 @@
     "badge": ""
   },
   {
-    "cityState": "Ann Arbor, Michigan",
-    "country": "United States of America",
-    "ml_skills": [
-      "publishing",
-      "content creation",
-      "regulatory compliance",
-      "banking",
-      "financial services",
-      "synopsis",
-      "quality control",
-      "leadership development",
-      "troubleshooting",
-      "employee evaluation"
-    ],
-    "remote": "Remote",
-    "type": "Full time",
-    "descriptionTeaser": "The Compliance Editor/Attorney Editor provides regulatory and compliance interpretation in the form of analysis, writing, and research, to support the acquisition and/or production of compliance infor...",
-    "state": "Michigan",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-83.7267835",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ179099",
-    "jobId": "JREQ179099",
-    "city": "Ann Arbor",
-    "latitude": "42.1957259",
-    "locale": "en_US",
-    "multi_location": [
-      "Ann Arbor, Michigan, United States of America"
-    ],
-    "title": "Compliance Attorney Editor/Compliance Editor",
-    "jobSeqNo": "THTTRUUSJREQ179099EXTERNALENUS",
-    "postedDate": "2024-05-23T00:00:00.000+0000",
-    "dateCreated": "2024-05-23T20:42:33.120+0000",
-    "cityStateCountry": "Ann Arbor, Michigan, United States of America",
-    "address": "6300 Interfirst Dr, Ann Arbor, MI 48108, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Ann-Arbor-6300-Interfirst-Dr/Compliance-Attorney-Editor-Compliance-Editor_JREQ179099/apply",
-    "location": "Ann Arbor, Michigan, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "The Compliance Editor/Attorney Editor provides regulatory and compliance interpretation in the form of analysis, writing, and research, to support the acquisition and/or production of compliance infor...",
-      "descriptionTeaser_first200": "Compliance Attorney Editor. Thomson Reuters is a global leader in providing essential information to the world's businesses and professionals in Law, Financial Services, Tax and Corporates. With our deep...",
-      "descriptionTeaser_keyword": "Compliance Attorney Editor. Thomson Reuters is a global leader in providing essential information to the world's businesses and professionals in Law, Financial Services, Tax and Corporates. With our d...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -83.7267835,
-          "lat": 42.1957259
-        },
-        "location": "Ann Arbor, Michigan, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Bengaluru, Karnataka",
     "country": "India",
     "ml_skills": [
@@ -4583,79 +4322,6 @@
           "lat": 12.9743998
         },
         "location": "Bengaluru, Karnataka, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Bangkok",
-    "country": "Thailand",
-    "ml_skills": [
-      "breaking news",
-      "seo",
-      "multimedia",
-      "newsletters",
-      "ai"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Write and edit breaking news stories from around the globe whilst producing clean, engaging stories at speed. Have strong digital and multimedia expertise and familiarity with the needs of a digital a...",
-    "state": "Bangkok",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "100.5483427",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ179100",
-    "jobId": "JREQ179100",
-    "city": "",
-    "latitude": "13.7390209",
-    "locale": "en_US",
-    "multi_location": [
-      "Bangkok, Thailand",
-      "Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia"
-    ],
-    "title": "Editor, Global News Desk",
-    "jobSeqNo": "THTTRUUSJREQ179100EXTERNALENUS",
-    "postedDate": "2024-05-20T00:00:00.000+0000",
-    "dateCreated": "2024-05-20T08:40:29.520+0000",
-    "cityStateCountry": "Bangkok, Thailand",
-    "address": "11th Floor Unit 1-2, CRC Tower, All Seasons Place, 87/2 Wireless Road, Lumpini, Phatumwan, Bangkok, Bangkok 10330, Thailand",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/THA-Bangkok-CRC-Tower-All-Seasons-Place/Editor--Global-News-Desk_JREQ179100/apply",
-    "location": "Bangkok, Thailand",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Write and edit breaking news stories from around the globe whilst producing clean, engaging stories at speed. Have strong digital and multimedia expertise and familiarity with the needs of a digital a...",
-      "descriptionTeaser_first200": "Reuters is looking for an ambitious Editor for our fast-paced, round-the-clock Global News Desk. Expect to work alongside award-winning journalists in a global news organization long recognized for its...",
-      "descriptionTeaser_keyword": "Reuters is looking for an ambitious Editor for our fast-paced, round-the-clock Global News Desk. Expect to work alongside award-winning journalists in a global news organization long recognized for it...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 100.5483427,
-          "lat": 13.7390209
-        },
-        "location": "Bangkok, Thailand"
-      },
-      {
-        "latlong": {
-          "lon": 101.7201613,
-          "lat": 3.1620242
-        },
-        "location": "Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia"
       }
     ],
     "isMultiCategory": true,
