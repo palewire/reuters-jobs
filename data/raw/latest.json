@@ -1,5 +1,175 @@
 [
   {
+    "cityState": "Hyderabad, Telangana",
+    "country": "India",
+    "ml_skills": [
+      "commerce",
+      "microsoft office applications",
+      "justice",
+      "pagination",
+      "quality control",
+      "checkpoint"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Tax & Accounting Publisher, Tax & Accounting Editorial. Working with fellow publishers in Hyderabad and the US Editorial team under the organization and supervision of a Hyderabad-based Manager, you w...",
+    "state": "Telangana",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "78.3847282",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ177895",
+    "jobId": "JREQ177895",
+    "city": "Hyderabad",
+    "latitude": "17.438325",
+    "locale": "en_US",
+    "multi_location": [
+      "Hyderabad, Telangana, India"
+    ],
+    "title": "Publishing Editorial in US Tax & Accounting (3-6 years)",
+    "jobSeqNo": "THTTRUUSJREQ177895EXTERNALENUS",
+    "postedDate": "2024-06-25T00:00:00.000+0000",
+    "dateCreated": "2024-04-05T16:40:00.052+0000",
+    "cityStateCountry": "Hyderabad, Telangana, India",
+    "address": "Floor 12, 13 & 14, Building 11, Raheja Mindspace, Madhapur, Hyderabad- 500081, Telangana, India",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Hyderabad-Raheja-Mindspace/Editorials_JREQ177895/apply",
+    "location": "Hyderabad, Telangana, India",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Tax & Accounting Publisher, Tax & Accounting Editorial. Working with fellow publishers in Hyderabad and the US Editorial team under the organization and supervision of a Hyderabad-based Manager, you w...",
+      "descriptionTeaser_first200": "Tax & Accounting Publisher, Tax & Accounting Editorial. Do you want to join a team who is striving to simplify complex tax and accounting topics for our customers? Then this role may be for you. Checkpoint...",
+      "descriptionTeaser_keyword": "Tax & Accounting Publisher, Tax & Accounting Editorial. Do you want to join a team who is striving to simplify complex tax and accounting topics for our customers? Then this role may be for you. Check...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 78.3847282,
+          "lat": 17.438325
+        },
+        "location": "Hyderabad, Telangana, India"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Toronto, Ontario",
+    "country": "Canada",
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Reuters is seeking an excellent journalist to be its Canada Bureau Chief.As a G7 economy, Canada is at the table whenever global powers make key decisions, be it funding for Ukraine or imposing sancti",
+    "state": "Ontario",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-79.3884094",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ179449",
+    "jobId": "JREQ179449",
+    "city": "Toronto",
+    "latitude": "43.6480117",
+    "locale": "en_US",
+    "multi_location": [
+      "Toronto, Ontario, Canada"
+    ],
+    "title": "Bureau Chief, Canada",
+    "jobSeqNo": "THTTRUUSJREQ179449EXTERNALENUS",
+    "postedDate": "2024-06-25T00:00:00.000+0000",
+    "dateCreated": "2024-06-01T16:42:36.067+0000",
+    "cityStateCountry": "Toronto, Ontario, Canada",
+    "address": "19 Duncan Street, Toronto, ON M5H 3H1, Canada",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CAN-Toronto-19-Duncan-Street/Bureau-Chief--Canada_JREQ179449/apply",
+    "location": "Toronto, Ontario, Canada",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -79.3884094,
+          "lat": 43.6480117
+        },
+        "location": "Toronto, Ontario, Canada"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Gdansk",
+    "country": "Poland",
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "We welcome applications to our full-time vacancies from all citizens who have been granted protection within the territory of the Republic of Poland under the EU Temporary Protection Directive*You wil",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "18.5752702",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ179856",
+    "jobId": "JREQ179856",
+    "city": "Gdansk",
+    "latitude": "54.4004235",
+    "locale": "en_US",
+    "multi_location": [
+      "Gdansk, Poland"
+    ],
+    "title": "Tax Associate (Tax Calendar)",
+    "jobSeqNo": "THTTRUUSJREQ179856EXTERNALENUS",
+    "postedDate": "2024-06-25T00:00:00.000+0000",
+    "dateCreated": "2024-06-25T16:41:37.424+0000",
+    "cityStateCountry": "Gdansk, Poland",
+    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/Tax-Associate--Tax-Calendar-_JREQ179856/apply",
+    "location": "Gdansk, Poland",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 18.5752702,
+          "lat": 54.4004235
+        },
+        "location": "Gdansk, Poland"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Manila",
     "country": "Philippines",
     "ml_skills": [
@@ -126,67 +296,6 @@
           "lat": 33.1073049
         },
         "location": "Frisco, Texas, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Toronto, Ontario",
-    "country": "Canada",
-    "ml_skills": [
-      "multimedia"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Direct Reuters coverage of economic, business, financial, political, social and cultural news across Canada. *** Reuters is the world\u2019s largest multimedia news provider. Our industry-leading products...",
-    "state": "Ontario",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-79.3884094",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ179449",
-    "jobId": "JREQ179449",
-    "city": "Toronto",
-    "latitude": "43.6480117",
-    "locale": "en_US",
-    "multi_location": [
-      "Toronto, Ontario, Canada"
-    ],
-    "title": "Bureau Chief, Canada",
-    "jobSeqNo": "THTTRUUSJREQ179449EXTERNALENUS",
-    "postedDate": "2024-06-20T00:00:00.000+0000",
-    "dateCreated": "2024-06-01T16:42:36.067+0000",
-    "cityStateCountry": "Toronto, Ontario, Canada",
-    "address": "19 Duncan Street, Toronto, ON M5H 3H1, Canada",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CAN-Toronto-19-Duncan-Street/Bureau-Chief--Canada_JREQ179449/apply",
-    "location": "Toronto, Ontario, Canada",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Direct Reuters coverage of economic, business, financial, political, social and cultural news across Canada. *** Reuters is the world\u2019s largest multimedia news provider. Our industry-leading products...",
-      "descriptionTeaser_first200": "Reuters is seeking an excellent journalist to be its Canada Bureau Chief. As a G7 economy, Canada is at the table whenever global powers make key decisions, be it funding for Ukraine or imposing sanctions....",
-      "descriptionTeaser_keyword": "Reuters is seeking an excellent journalist to be its Canada Bureau Chief. As a G7 economy, Canada is at the table whenever global powers make key decisions, be it funding for Ukraine or imposing sanct...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -79.3884094,
-          "lat": 43.6480117
-        },
-        "location": "Toronto, Ontario, Canada"
       }
     ],
     "isMultiCategory": true,
@@ -1187,6 +1296,73 @@
     "badge": ""
   },
   {
+    "cityState": "Washington, District of Columbia",
+    "country": "United States of America",
+    "ml_skills": [
+      "broadcast tv operations",
+      "multimedia",
+      "service quality",
+      "quality assessment",
+      "it infrastructure",
+      "forward planning",
+      "ip transport protocols"
+    ],
+    "remote": "On-Site",
+    "type": "Full time",
+    "descriptionTeaser": "The successful candidate will primarily work in our fast-paced, 17/7 MCR operation and will be responsible for the business critical technical assessment, co-ordination and supervision of incoming new...",
+    "state": "District of Columbia",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-77.0311952",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ179880",
+    "jobId": "JREQ179880",
+    "city": "Washington",
+    "latitude": "38.9004793",
+    "locale": "en_US",
+    "multi_location": [
+      "Washington, District of Columbia, United States of America"
+    ],
+    "title": "Master Control Room Operator (Group 9)",
+    "jobSeqNo": "THTTRUUSJREQ179880EXTERNALENUS",
+    "postedDate": "2024-06-13T00:00:00.000+0000",
+    "dateCreated": "2024-06-13T20:42:50.624+0000",
+    "cityStateCountry": "Washington, District of Columbia, United States of America",
+    "address": "1333 H Street NW, Suite 500, Washington, DC 20005, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Washington-1333-H-Street-N/Master-Control-Room-Operator--Group-9-_JREQ179880/apply",
+    "location": "Washington, District of Columbia, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "The successful candidate will primarily work in our fast-paced, 17/7 MCR operation and will be responsible for the business critical technical assessment, co-ordination and supervision of incoming new...",
+      "descriptionTeaser_first200": "With teams on the ground around the world, we report award-winning stories at speed. We tell all sides, but take none. We go back to the start, where there\u2019s no bias and no agenda to tell the real story....",
+      "descriptionTeaser_keyword": "With teams on the ground around the world, we report award-winning stories at speed. We tell all sides, but take none. We go back to the start, where there\u2019s no bias and no agenda to tell the real sto...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -77.0311952,
+          "lat": 38.9004793
+        },
+        "location": "Washington, District of Columbia, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Gdansk",
     "country": "Poland",
     "ml_skills": [
@@ -1244,73 +1420,6 @@
           "lat": 54.4004235
         },
         "location": "Gdansk, Poland"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Washington, District of Columbia",
-    "country": "United States of America",
-    "ml_skills": [
-      "broadcast tv operations",
-      "multimedia",
-      "service quality",
-      "quality assessment",
-      "it infrastructure",
-      "forward planning",
-      "ip transport protocols"
-    ],
-    "remote": "On-Site",
-    "type": "Full time",
-    "descriptionTeaser": "The successful candidate will primarily work in our fast-paced, 17/7 MCR operation and will be responsible for the business critical technical assessment, co-ordination and supervision of incoming new...",
-    "state": "District of Columbia",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-77.0311952",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ179880",
-    "jobId": "JREQ179880",
-    "city": "Washington",
-    "latitude": "38.9004793",
-    "locale": "en_US",
-    "multi_location": [
-      "Washington, District of Columbia, United States of America"
-    ],
-    "title": "Master Control Room Operator (Group 9)",
-    "jobSeqNo": "THTTRUUSJREQ179880EXTERNALENUS",
-    "postedDate": "2024-06-13T00:00:00.000+0000",
-    "dateCreated": "2024-06-13T20:42:50.624+0000",
-    "cityStateCountry": "Washington, District of Columbia, United States of America",
-    "address": "1333 H Street NW, Suite 500, Washington, DC 20005, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Washington-1333-H-Street-N/Master-Control-Room-Operator--Group-9-_JREQ179880/apply",
-    "location": "Washington, District of Columbia, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "The successful candidate will primarily work in our fast-paced, 17/7 MCR operation and will be responsible for the business critical technical assessment, co-ordination and supervision of incoming new...",
-      "descriptionTeaser_first200": "With teams on the ground around the world, we report award-winning stories at speed. We tell all sides, but take none. We go back to the start, where there\u2019s no bias and no agenda to tell the real story....",
-      "descriptionTeaser_keyword": "With teams on the ground around the world, we report award-winning stories at speed. We tell all sides, but take none. We go back to the start, where there\u2019s no bias and no agenda to tell the real sto...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -77.0311952,
-          "lat": 38.9004793
-        },
-        "location": "Washington, District of Columbia, United States of America"
       }
     ],
     "isMultiCategory": true,
@@ -1683,76 +1792,6 @@
     "badge": ""
   },
   {
-    "cityState": "London",
-    "country": "United Kingdom",
-    "ml_skills": [
-      "adobe illustrator",
-      "graphics",
-      "journalism",
-      "editing",
-      "multimedia",
-      "web development",
-      "tableau",
-      "qgis",
-      "python",
-      "data manipulation"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Have a proven ability to work with complex financial data in a newsroom setting and transform that data into compelling on-the-news graphics. Our industry-leading products and services include highly...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-0.0185088",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ179875",
-    "jobId": "JREQ179875",
-    "city": "London",
-    "latitude": "51.5056439",
-    "locale": "en_US",
-    "multi_location": [
-      "London, United Kingdom"
-    ],
-    "title": "Financial Graphics Editor",
-    "jobSeqNo": "THTTRUUSJREQ179875EXTERNALENUS",
-    "postedDate": "2024-06-11T00:00:00.000+0000",
-    "dateCreated": "2024-06-11T20:40:15.949+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Financial-Graphics-Editor_JREQ179875/apply",
-    "location": "London, United Kingdom",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Have a proven ability to work with complex financial data in a newsroom setting and transform that data into compelling on-the-news graphics. Our industry-leading products and services include highly...",
-      "descriptionTeaser_first200": "Reuters is looking for a Financial Graphics Editor who can lead a team of graphics reporters in analyzing and transforming data on companies, economics and markets into clear, accurate and compelling...",
-      "descriptionTeaser_keyword": "Reuters is looking for a Financial Graphics Editor who can lead a team of graphics reporters in analyzing and transforming data on companies, economics and markets into clear, accurate and compelling...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -0.0185088,
-          "lat": 51.5056439
-        },
-        "location": "London, United Kingdom"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "New York, New York",
     "country": "United States of America",
     "ml_skills": [
@@ -1814,6 +1853,76 @@
         },
         "location": "New York, New York, United States of America"
       },
+      {
+        "latlong": {
+          "lon": -0.0185088,
+          "lat": 51.5056439
+        },
+        "location": "London, United Kingdom"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "London",
+    "country": "United Kingdom",
+    "ml_skills": [
+      "adobe illustrator",
+      "graphics",
+      "journalism",
+      "editing",
+      "multimedia",
+      "web development",
+      "tableau",
+      "qgis",
+      "python",
+      "data manipulation"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Have a proven ability to work with complex financial data in a newsroom setting and transform that data into compelling on-the-news graphics. Our industry-leading products and services include highly...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.0185088",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ179875",
+    "jobId": "JREQ179875",
+    "city": "London",
+    "latitude": "51.5056439",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom"
+    ],
+    "title": "Financial Graphics Editor",
+    "jobSeqNo": "THTTRUUSJREQ179875EXTERNALENUS",
+    "postedDate": "2024-06-11T00:00:00.000+0000",
+    "dateCreated": "2024-06-11T20:40:15.949+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Financial-Graphics-Editor_JREQ179875/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Have a proven ability to work with complex financial data in a newsroom setting and transform that data into compelling on-the-news graphics. Our industry-leading products and services include highly...",
+      "descriptionTeaser_first200": "Reuters is looking for a Financial Graphics Editor who can lead a team of graphics reporters in analyzing and transforming data on companies, economics and markets into clear, accurate and compelling...",
+      "descriptionTeaser_keyword": "Reuters is looking for a Financial Graphics Editor who can lead a team of graphics reporters in analyzing and transforming data on companies, economics and markets into clear, accurate and compelling...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
       {
         "latlong": {
           "lon": -0.0185088,
@@ -2202,6 +2311,75 @@
     "badge": ""
   },
   {
+    "cityState": "Hong Kong",
+    "country": "Hong Kong",
+    "ml_skills": [
+      "stakeholder management",
+      "new product development",
+      "brand management",
+      "project management",
+      "product development",
+      "publishing",
+      "project oversight",
+      "workload management",
+      "editing"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Provide project oversight to third party editing, and liaise internally on product set-up and pathway management to launch content on Westlaw Asia. Identify and manage derivative and secondary revenue...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "114.2168499",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ179396",
+    "jobId": "JREQ179396",
+    "city": "Hong Kong",
+    "latitude": "22.2876498",
+    "locale": "en_US",
+    "multi_location": [
+      "Hong Kong, Hong Kong"
+    ],
+    "title": "Senior Publisher",
+    "jobSeqNo": "THTTRUUSJREQ179396EXTERNALENUS",
+    "postedDate": "2024-06-07T00:00:00.000+0000",
+    "dateCreated": "2024-06-07T04:41:00.666+0000",
+    "cityStateCountry": "Hong Kong, Hong Kong",
+    "address": "15/F, 14 Taikoo Wan Road, Taikoo Shing, Hong Kong, Hong Kong",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/HKG-Taikoo-14-Taikoo-Wan-Road/Senior-Publisher_JREQ179396/apply",
+    "location": "Hong Kong, Hong Kong",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Provide project oversight to third party editing, and liaise internally on product set-up and pathway management to launch content on Westlaw Asia. Identify and manage derivative and secondary revenue...",
+      "descriptionTeaser_first200": "SENIOR PUBLISHER, PRINT / NEW PRODUCT DEVELOPMENT. Whilst the reporting line for this role is to the AEM Print business unit, it will operate under an \u201cOnline First\u201d publishing model. The role is to develop...",
+      "descriptionTeaser_keyword": "SENIOR PUBLISHER, PRINT / NEW PRODUCT DEVELOPMENT. Whilst the reporting line for this role is to the AEM Print business unit, it will operate under an \u201cOnline First\u201d publishing model. The role is to d...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 114.2168499,
+          "lat": 22.2876498
+        },
+        "location": "Hong Kong, Hong Kong"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "New York, New York",
     "country": "United States of America",
     "ml_skills": [
@@ -2324,75 +2502,6 @@
           "lat": 17.438325
         },
         "location": "Hyderabad, Telangana, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Hong Kong",
-    "country": "Hong Kong",
-    "ml_skills": [
-      "stakeholder management",
-      "new product development",
-      "brand management",
-      "project management",
-      "product development",
-      "publishing",
-      "project oversight",
-      "workload management",
-      "editing"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Provide project oversight to third party editing, and liaise internally on product set-up and pathway management to launch content on Westlaw Asia. Identify and manage derivative and secondary revenue...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "114.2168499",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ179396",
-    "jobId": "JREQ179396",
-    "city": "Hong Kong",
-    "latitude": "22.2876498",
-    "locale": "en_US",
-    "multi_location": [
-      "Hong Kong, Hong Kong"
-    ],
-    "title": "Senior Publisher",
-    "jobSeqNo": "THTTRUUSJREQ179396EXTERNALENUS",
-    "postedDate": "2024-06-07T00:00:00.000+0000",
-    "dateCreated": "2024-06-07T04:41:00.666+0000",
-    "cityStateCountry": "Hong Kong, Hong Kong",
-    "address": "15/F, 14 Taikoo Wan Road, Taikoo Shing, Hong Kong, Hong Kong",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/HKG-Taikoo-14-Taikoo-Wan-Road/Senior-Publisher_JREQ179396/apply",
-    "location": "Hong Kong, Hong Kong",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Provide project oversight to third party editing, and liaise internally on product set-up and pathway management to launch content on Westlaw Asia. Identify and manage derivative and secondary revenue...",
-      "descriptionTeaser_first200": "SENIOR PUBLISHER, PRINT / NEW PRODUCT DEVELOPMENT. Whilst the reporting line for this role is to the AEM Print business unit, it will operate under an \u201cOnline First\u201d publishing model. The role is to develop...",
-      "descriptionTeaser_keyword": "SENIOR PUBLISHER, PRINT / NEW PRODUCT DEVELOPMENT. Whilst the reporting line for this role is to the AEM Print business unit, it will operate under an \u201cOnline First\u201d publishing model. The role is to d...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 114.2168499,
-          "lat": 22.2876498
-        },
-        "location": "Hong Kong, Hong Kong"
       }
     ],
     "isMultiCategory": true,
@@ -2936,72 +3045,6 @@
     "cityState": "Hyderabad, Telangana",
     "country": "India",
     "ml_skills": [
-      "commerce",
-      "microsoft office applications",
-      "justice",
-      "pagination",
-      "quality control",
-      "checkpoint"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Tax & Accounting Publisher, Tax & Accounting Editorial. Working with fellow publishers in Hyderabad and the US Editorial team under the organization and supervision of a Hyderabad-based Manager, you w...",
-    "state": "Telangana",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "78.3847282",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ177895",
-    "jobId": "JREQ177895",
-    "city": "Hyderabad",
-    "latitude": "17.438325",
-    "locale": "en_US",
-    "multi_location": [
-      "Hyderabad, Telangana, India"
-    ],
-    "title": "Publishing Editorial in US Tax & Accounting (3-6 years)",
-    "jobSeqNo": "THTTRUUSJREQ177895EXTERNALENUS",
-    "postedDate": "2024-06-04T00:00:00.000+0000",
-    "dateCreated": "2024-04-05T16:40:00.052+0000",
-    "cityStateCountry": "Hyderabad, Telangana, India",
-    "address": "Floor 12, 13 & 14, Building 11, Raheja Mindspace, Madhapur, Hyderabad- 500081, Telangana, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Hyderabad-Raheja-Mindspace/Editorials_JREQ177895/apply",
-    "location": "Hyderabad, Telangana, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Tax & Accounting Publisher, Tax & Accounting Editorial. Working with fellow publishers in Hyderabad and the US Editorial team under the organization and supervision of a Hyderabad-based Manager, you w...",
-      "descriptionTeaser_first200": "Tax & Accounting Publisher, Tax & Accounting Editorial. Do you want to join a team who is striving to simplify complex tax and accounting topics for our customers? Then this role may be for you. Checkpoint...",
-      "descriptionTeaser_keyword": "Tax & Accounting Publisher, Tax & Accounting Editorial. Do you want to join a team who is striving to simplify complex tax and accounting topics for our customers? Then this role may be for you. Check...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 78.3847282,
-          "lat": 17.438325
-        },
-        "location": "Hyderabad, Telangana, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Hyderabad, Telangana",
-    "country": "India",
-    "ml_skills": [
       "quality assurance",
       "xml",
       "regression testing",
@@ -3054,134 +3097,6 @@
           "lat": 17.438325
         },
         "location": "Hyderabad, Telangana, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Toronto, Ontario",
-    "country": "Canada",
-    "ml_skills": [
-      "fact-checking",
-      "news writing",
-      "current affairs",
-      "multimedia"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Reuters is looking for a journalist with strong research and writing skills to join its dynamic fact-checking team. Proactively pitch fact-check articles addressing misinformation. Be part of our glob...",
-    "state": "Ontario",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-79.3884094",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ179635",
-    "jobId": "JREQ179635",
-    "city": "Toronto",
-    "latitude": "43.6480117",
-    "locale": "en_US",
-    "multi_location": [
-      "Toronto, Ontario, Canada"
-    ],
-    "title": "Fact-Checking Producer (Temp)",
-    "jobSeqNo": "THTTRUUSJREQ179635EXTERNALENUS",
-    "postedDate": "2024-06-03T00:00:00.000+0000",
-    "dateCreated": "2024-06-03T16:40:49.507+0000",
-    "cityStateCountry": "Toronto, Ontario, Canada",
-    "address": "19 Duncan Street, Toronto, ON M5H 3H1, Canada",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CAN-Toronto-19-Duncan-Street/Fact-Checking-Producer--Temp-_JREQ179635-1/apply",
-    "location": "Toronto, Ontario, Canada",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Reuters is looking for a journalist with strong research and writing skills to join its dynamic fact-checking team. Proactively pitch fact-check articles addressing misinformation. Be part of our glob...",
-      "descriptionTeaser_first200": "Reuters is looking for a journalist with strong research and writing skills to join its dynamic fact-checking team. This position will involve identifying viral content relating to misinformation topics...",
-      "descriptionTeaser_keyword": "Reuters is looking for a journalist with strong research and writing skills to join its dynamic fact-checking team. This position will involve identifying viral content relating to misinformation topi...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -79.3884094,
-          "lat": 43.6480117
-        },
-        "location": "Toronto, Ontario, Canada"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "London",
-    "country": "United Kingdom",
-    "ml_skills": [
-      "fact-checking",
-      "news writing",
-      "current affairs",
-      "multimedia"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Reuters is looking for a journalist with strong research and writing skills to join its dynamic fact-checking team. Proactively pitch fact-check articles addressing misinformation. Be part of our glob...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-0.0185088",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ179636",
-    "jobId": "JREQ179636",
-    "city": "London",
-    "latitude": "51.5056439",
-    "locale": "en_US",
-    "multi_location": [
-      "London, United Kingdom"
-    ],
-    "title": "Fact-Checking Producer (Temp)",
-    "jobSeqNo": "THTTRUUSJREQ179636EXTERNALENUS",
-    "postedDate": "2024-06-03T00:00:00.000+0000",
-    "dateCreated": "2024-06-03T16:40:49.512+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Fact-Checking-Producer--Temp-_JREQ179636/apply",
-    "location": "London, United Kingdom",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Reuters is looking for a journalist with strong research and writing skills to join its dynamic fact-checking team. Proactively pitch fact-check articles addressing misinformation. Be part of our glob...",
-      "descriptionTeaser_first200": "Reuters is looking for a journalist with strong research and writing skills to join its dynamic fact-checking team. This position will involve identifying viral content relating to misinformation topics...",
-      "descriptionTeaser_keyword": "Reuters is looking for a journalist with strong research and writing skills to join its dynamic fact-checking team. This position will involve identifying viral content relating to misinformation topi...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -0.0185088,
-          "lat": 51.5056439
-        },
-        "location": "London, United Kingdom"
       }
     ],
     "isMultiCategory": true,
@@ -3248,86 +3163,6 @@
           "lat": 14.5344436
         },
         "location": "Manila, Philippines"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Washington, District of Columbia",
-    "country": "United States of America",
-    "ml_skills": [
-      "fact-checking",
-      "news writing",
-      "current affairs",
-      "multimedia"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Reuters is looking for a journalist with strong research and writing skills to join its dynamic fact-checking team. Proactively pitch fact-check articles addressing misinformation. Be part of our glob...",
-    "state": "District of Columbia",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-77.0311952",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ179497",
-    "jobId": "JREQ179497",
-    "city": "Washington",
-    "latitude": "38.9004793",
-    "locale": "en_US",
-    "multi_location": [
-      "Washington, District of Columbia, United States of America",
-      "Toronto, Ontario, Canada",
-      "New York, New York, United States of America"
-    ],
-    "title": "Fact-Checking Producer (Level 1 Journalist - Temp)",
-    "jobSeqNo": "THTTRUUSJREQ179497EXTERNALENUS",
-    "postedDate": "2024-05-31T00:00:00.000+0000",
-    "dateCreated": "2024-05-31T16:40:31.257+0000",
-    "cityStateCountry": "Washington, District of Columbia, United States of America",
-    "address": "1333 H Street NW, Suite 500, Washington, DC 20005, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Washington-1333-H-Street-N/Fact-Checking-Producer--Level-1-Journalist---Temp-_JREQ179497-1/apply",
-    "location": "Washington, District of Columbia, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Reuters is looking for a journalist with strong research and writing skills to join its dynamic fact-checking team. Proactively pitch fact-check articles addressing misinformation. Be part of our glob...",
-      "descriptionTeaser_first200": "Reuters is looking for a journalist with strong research and writing skills to join its dynamic fact-checking team. This position will involve identifying viral content relating to misinformation topics...",
-      "descriptionTeaser_keyword": "Reuters is looking for a journalist with strong research and writing skills to join its dynamic fact-checking team. This position will involve identifying viral content relating to misinformation topi...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -77.0311952,
-          "lat": 38.9004793
-        },
-        "location": "Washington, District of Columbia, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -79.38052069999999,
-          "lat": 43.6503406
-        },
-        "location": "Toronto, Ontario, Canada"
-      },
-      {
-        "latlong": {
-          "lon": -73.9866995,
-          "lat": 40.7566955
-        },
-        "location": "New York, New York, United States of America"
       }
     ],
     "isMultiCategory": true,
@@ -4189,71 +4024,6 @@
           "lat": 17.438325
         },
         "location": "Hyderabad, Telangana, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Singapore",
-    "country": "Singapore",
-    "ml_skills": [
-      "publishing",
-      "seo",
-      "multimedia",
-      "google analytics",
-      "analytics tools"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Use data and analytics tools to develop a deeper understanding of the current Reuters audience, and create regular data reports with actionable insights. Experience working in a role that requires a g...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "103.792796",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ178668",
-    "jobId": "JREQ178668",
-    "city": "Singapore",
-    "latitude": "1.2938815",
-    "locale": "en_US",
-    "multi_location": [
-      "Singapore, Singapore"
-    ],
-    "title": "Audience Producer",
-    "jobSeqNo": "THTTRUUSJREQ178668EXTERNALENUS",
-    "postedDate": "2024-05-15T00:00:00.000+0000",
-    "dateCreated": "2024-05-09T04:40:16.293+0000",
-    "cityStateCountry": "Singapore, Singapore",
-    "address": "ALICE@Mediapolis, 29 Media Circle,  #09-05, Singapore 138565, Singapore",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/SGP-Singapore-ALICEMediapolis/Audience-Producer_JREQ178668/apply",
-    "location": "Singapore, Singapore",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Use data and analytics tools to develop a deeper understanding of the current Reuters audience, and create regular data reports with actionable insights. Experience working in a role that requires a g...",
-      "descriptionTeaser_first200": "The Reuters Audience team is hiring a team of Audience Producers around the world to contribute to the growth of international readership to Reuters.com and the Reuters app. This Asia-based role will...",
-      "descriptionTeaser_keyword": "The Reuters Audience team is hiring a team of Audience Producers around the world to contribute to the growth of international readership to Reuters. com and the Reuters app. This Asia-based role will...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 103.792796,
-          "lat": 1.2938815
-        },
-        "location": "Singapore, Singapore"
       }
     ],
     "isMultiCategory": true,
