@@ -136,9 +136,17 @@
   {
     "cityState": "Toronto, Ontario",
     "country": "Canada",
+    "ml_skills": [
+      "publishing",
+      "justice",
+      "westlaw",
+      "commerce",
+      "french",
+      "microsoft office"
+    ],
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "Reuters is seeking an excellent journalist to be its Canada Bureau Chief.As a G7 economy, Canada is at the table whenever global powers make key decisions, be it funding for Ukraine or imposing sancti",
+    "descriptionTeaser": "Provides legal interpretation in the form of research, analysis, and writing to support the development and maintenance of Thomson Reuters information in all media, and ensure that published informati...",
     "state": "Ontario",
     "visibilityType": "External",
     "siteType": "external",
@@ -146,26 +154,32 @@
     "multi_category": [
       "News & Editorial Careers"
     ],
-    "reqId": "JREQ179449",
-    "jobId": "JREQ179449",
+    "reqId": "JREQ180341",
+    "jobId": "JREQ180341",
     "city": "Toronto",
     "latitude": "43.6480117",
     "locale": "en_US",
     "multi_location": [
       "Toronto, Ontario, Canada"
     ],
-    "title": "Bureau Chief, Canada",
-    "jobSeqNo": "THTTRUUSJREQ179449EXTERNALENUS",
-    "postedDate": "2024-06-25T00:00:00.000+0000",
-    "dateCreated": "2024-06-01T16:42:36.067+0000",
+    "title": "Legal Editor",
+    "jobSeqNo": "THTTRUUSJREQ180341EXTERNALENUS",
+    "postedDate": "2024-06-26T00:00:00.000+0000",
+    "dateCreated": "2024-06-26T16:41:20.406+0000",
     "cityStateCountry": "Toronto, Ontario, Canada",
     "address": "19 Duncan Street, Toronto, ON M5H 3H1, Canada",
     "jobVisibility": [
       "external"
     ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CAN-Toronto-19-Duncan-Street/Bureau-Chief--Canada_JREQ179449/apply",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CAN-Toronto-19-Duncan-Street/Legal-Editor_JREQ180341/apply",
     "location": "Toronto, Ontario, Canada",
     "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Provides legal interpretation in the form of research, analysis, and writing to support the development and maintenance of Thomson Reuters information in all media, and ensure that published informati...",
+      "descriptionTeaser_first200": "Legal Editor. Role Summary. Provides legal interpretation in the form of research, analysis, and writing to support the development and maintenance of Thomson Reuters information in all media, and ensure...",
+      "descriptionTeaser_keyword": "Legal Editor. Role Summary. Provides legal interpretation in the form of research, analysis, and writing to support the development and maintenance of Thomson Reuters information in all media, and ens...",
+      "descriptionTeaser_ats": ""
+    },
     "externalApply": true,
     "isMultiLocation": true,
     "multi_location_array": [
@@ -175,6 +189,75 @@
           "lat": 43.6480117
         },
         "location": "Toronto, Ontario, Canada"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "London",
+    "country": "United Kingdom",
+    "ml_skills": [
+      "justice",
+      "legal research",
+      "business law",
+      "editing",
+      "commerce",
+      "grammar",
+      "research skills",
+      "leadership development",
+      "employee evaluation"
+    ],
+    "remote": "Remote",
+    "type": "Full time",
+    "descriptionTeaser": "Maintains and develops legal knowledge and skills training as required to complete work and stay current on legal trends and developments related to the employee\u2019s editorial responsibilities. Begins d...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.0185088",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ179825",
+    "jobId": "JREQ179825",
+    "city": "London",
+    "latitude": "51.5056439",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom"
+    ],
+    "title": "Senior Legal Editor",
+    "jobSeqNo": "THTTRUUSJREQ179825EXTERNALENUS",
+    "postedDate": "2024-06-26T00:00:00.000+0000",
+    "dateCreated": "2024-06-26T16:41:20.400+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Senior-Legal-Editor_JREQ179825/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Maintains and develops legal knowledge and skills training as required to complete work and stay current on legal trends and developments related to the employee\u2019s editorial responsibilities. Begins d...",
+      "descriptionTeaser_first200": "We are looking for a senior legal editor. About the role . As a senior legal editor you will be responsible for. Legal Research, Analysis and Writing. Creates and classifies legal information in the form...",
+      "descriptionTeaser_keyword": "We are looking for a senior legal editor. About the role. As a senior legal editor you will be responsible for. Legal Research, Analysis and Writing. Creates and classifies legal information in the fo...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.0185088,
+          "lat": 51.5056439
+        },
+        "location": "London, United Kingdom"
       }
     ],
     "isMultiCategory": true,
@@ -256,7 +339,7 @@
     "country": "Poland",
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "We welcome applications to our full-time vacancies from all citizens who have been granted protection within the territory of the Republic of Poland under the EU Temporary Protection Directive*You wil",
+    "descriptionTeaser": "G. tax returns, etc), extensive researching and analyzing of product exemptions, researching and responding to client inquiries, prioritizing, assessing risk for correspondence and assessments, updati...",
     "state": "",
     "visibilityType": "External",
     "siteType": "external",
@@ -285,6 +368,23 @@
     "location": "Gdansk, Poland",
     "category": "News & Editorial Careers",
     "externalApply": true,
+    "ml_skills": [
+      "state tax",
+      "justice",
+      "westlaw",
+      "ukrainian",
+      "commerce",
+      "checkpoint",
+      "customer support",
+      "microsoft excel",
+      "data systems"
+    ],
+    "ml_job_parser": {
+      "descriptionTeaser": "G. tax returns, etc), extensive researching and analyzing of product exemptions, researching and responding to client inquiries, prioritizing, assessing risk for correspondence and assessments, updati...",
+      "descriptionTeaser_keyword": "We welcome applications to our full-time vacancies from all citizens who have been granted protection within the territory of the Republic of Poland under the EU Temporary Protection Directive*. You w...",
+      "descriptionTeaser_ats": "",
+      "descriptionTeaser_first200": "We welcome applications to our full-time vacancies from all citizens who have been granted protection within the territory of the Republic of Poland under the EU Temporary Protection Directive*. You will..."
+    },
     "isMultiLocation": true,
     "multi_location_array": [
       {
@@ -308,7 +408,7 @@
     "country": "United States of America",
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "U.S. Columnist, Reuters BreakingviewsWe anticipate the successful candidate being based in New York CityReuters are looking for a top-notch columnist to join our crack U.S. team. This is an opportunit",
+    "descriptionTeaser": "You will have a sophisticated understanding of companies and financial markets, razor-sharp analytical skills, and the ability to slice through complex concepts to deliver lively and engaging argument...",
     "state": "New York",
     "visibilityType": "External",
     "siteType": "external",
@@ -337,6 +437,19 @@
     "location": "New York, New York, United States of America",
     "category": "News & Editorial Careers",
     "externalApply": true,
+    "ml_skills": [
+      "graphics",
+      "multimedia",
+      "numeracy",
+      "corporate finance",
+      "financial markets"
+    ],
+    "ml_job_parser": {
+      "descriptionTeaser": "You will have a sophisticated understanding of companies and financial markets, razor-sharp analytical skills, and the ability to slice through complex concepts to deliver lively and engaging argument...",
+      "descriptionTeaser_keyword": "U. S. Columnist, Reuters Breakingviews. We anticipate the successful candidate being based in New York City. Reuters are looking for a top-notch columnist to join our crack U. S. team. This is an oppo...",
+      "descriptionTeaser_ats": "",
+      "descriptionTeaser_first200": "U.S. Columnist, Reuters Breakingviews. We anticipate the successful candidate being based in New York City. Reuters are looking for a top-notch columnist to join our crack U.S. team. This is an opportunity..."
+    },
     "isMultiLocation": true,
     "multi_location_array": [
       {
@@ -345,6 +458,68 @@
           "lat": 40.7566955
         },
         "location": "New York, New York, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Toronto, Ontario",
+    "country": "Canada",
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Direct Reuters coverage of economic, business, financial, political, social and cultural news across Canada. *** Reuters is the world\u2019s largest multimedia news provider. Our industry-leading products...",
+    "state": "Ontario",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-79.3884094",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ179449",
+    "jobId": "JREQ179449",
+    "city": "Toronto",
+    "latitude": "43.6480117",
+    "locale": "en_US",
+    "multi_location": [
+      "Toronto, Ontario, Canada"
+    ],
+    "title": "Bureau Chief, Canada",
+    "jobSeqNo": "THTTRUUSJREQ179449EXTERNALENUS",
+    "postedDate": "2024-06-25T00:00:00.000+0000",
+    "dateCreated": "2024-06-01T16:42:36.067+0000",
+    "cityStateCountry": "Toronto, Ontario, Canada",
+    "address": "19 Duncan Street, Toronto, ON M5H 3H1, Canada",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CAN-Toronto-19-Duncan-Street/Bureau-Chief--Canada_JREQ179449/apply",
+    "location": "Toronto, Ontario, Canada",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "ml_skills": [
+      "multimedia",
+      "multimedia news planning"
+    ],
+    "ml_job_parser": {
+      "descriptionTeaser": "Direct Reuters coverage of economic, business, financial, political, social and cultural news across Canada. *** Reuters is the world\u2019s largest multimedia news provider. Our industry-leading products...",
+      "descriptionTeaser_keyword": "Reuters is seeking an excellent journalist to be its Canada Bureau Chief. As a G7 economy, Canada is at the table whenever global powers make key decisions, be it funding for Ukraine or imposing sanct...",
+      "descriptionTeaser_ats": "",
+      "descriptionTeaser_first200": "Reuters is seeking an excellent journalist to be its Canada Bureau Chief. As a G7 economy, Canada is at the table whenever global powers make key decisions, be it funding for Ukraine or imposing sanctions...."
+    },
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -79.3884094,
+          "lat": 43.6480117
+        },
+        "location": "Toronto, Ontario, Canada"
       }
     ],
     "isMultiCategory": true,
