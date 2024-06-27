@@ -134,6 +134,124 @@
     "badge": ""
   },
   {
+    "cityState": "New York, New York",
+    "country": "United States of America",
+    "remote": "Remote",
+    "type": "Full time",
+    "descriptionTeaser": "Job SummaryThe ideal candidate will be able to apply their knowledge of financial markets and products to analyze content and identify opportunities for improvement. The successful candidate should ha",
+    "state": "New York",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-73.9866995",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ179306",
+    "jobId": "JREQ179306",
+    "city": "New York",
+    "latitude": "40.7566955",
+    "locale": "en_US",
+    "multi_location": [
+      "New York, New York, United States of America"
+    ],
+    "title": "Content Enrichment Specialist",
+    "jobSeqNo": "THTTRUUSJREQ179306EXTERNALENUS",
+    "postedDate": "2024-06-26T00:00:00.000+0000",
+    "dateCreated": "2024-06-26T20:43:19.907+0000",
+    "cityStateCountry": "New York, New York, United States of America",
+    "address": "3 Times Square, New York, NY 10036, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-New-York-3-Times-Square/Content-Enrichment-Specialist_JREQ179306/apply",
+    "location": "New York, New York, United States of America",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -73.9866995,
+          "lat": 40.7566955
+        },
+        "location": "New York, New York, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Eagan, Minnesota",
+    "country": "United States of America",
+    "ml_skills": [
+      "legal analysis",
+      "publishing",
+      "analytical thinker",
+      "leadership development",
+      "microsoft word",
+      "employee evaluation"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "In this role, you will be required to maintain and develop legal knowledge and skills training as needed to complete your work and in order to stay current on legal trends and developments that are re...",
+    "state": "Minnesota",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-93.10808019999999",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ179476",
+    "jobId": "JREQ179476",
+    "city": "Eagan",
+    "latitude": "44.8527611",
+    "locale": "en_US",
+    "multi_location": [
+      "Eagan, Minnesota, United States of America"
+    ],
+    "title": "Attorney Developer",
+    "jobSeqNo": "THTTRUUSJREQ179476EXTERNALENUS",
+    "postedDate": "2024-06-26T00:00:00.000+0000",
+    "dateCreated": "2024-06-13T20:42:50.625+0000",
+    "cityStateCountry": "Eagan, Minnesota, United States of America",
+    "address": "2900 Ames Crossing Road, Ste 100, Eagan, MN 55121, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MSP-2900-Ames-Crossing-Road/Attorney-Developer_JREQ179476/apply",
+    "location": "Eagan, Minnesota, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "In this role, you will be required to maintain and develop legal knowledge and skills training as needed to complete your work and in order to stay current on legal trends and developments that are re...",
+      "descriptionTeaser_first200": "In this role, you will create and maintain automated document assembly content for attorneys to use in their law practice through both the Form Builder and Contract Express applications. About the Role....",
+      "descriptionTeaser_keyword": "In this role, you will create and maintain automated document assembly content for attorneys to use in their law practice through both the Form Builder and Contract Express applications. About the Rol...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -93.10808019999999,
+          "lat": 44.8527611
+        },
+        "location": "Eagan, Minnesota, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Toronto, Ontario",
     "country": "Canada",
     "ml_skills": [
@@ -258,6 +376,134 @@
           "lat": 51.5056439
         },
         "location": "London, United Kingdom"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Eagan, Minnesota",
+    "country": "United States of America",
+    "ml_skills": [
+      "editing",
+      "journals",
+      "newsletters"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "You will also provide assistance with related tasks such as preparing and distributing newsletters and working on special projects as assigned. The successful applicant must demonstrate a strong inter...",
+    "state": "Minnesota",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-93.10808019999999",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ178974",
+    "jobId": "JREQ178974",
+    "city": "Eagan",
+    "latitude": "44.8527611",
+    "locale": "en_US",
+    "multi_location": [
+      "Eagan, Minnesota, United States of America"
+    ],
+    "title": "Tax Journal Editor",
+    "jobSeqNo": "THTTRUUSJREQ178974EXTERNALENUS",
+    "postedDate": "2024-06-26T00:00:00.000+0000",
+    "dateCreated": "2024-05-30T20:39:41.356+0000",
+    "cityStateCountry": "Eagan, Minnesota, United States of America",
+    "address": "2900 Ames Crossing Road, Ste 100, Eagan, MN 55121, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MSP-2900-Ames-Crossing-Road/Tax-Journal-Editor_JREQ178974/apply",
+    "location": "Eagan, Minnesota, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "You will also provide assistance with related tasks such as preparing and distributing newsletters and working on special projects as assigned. The successful applicant must demonstrate a strong inter...",
+      "descriptionTeaser_first200": "About the Role. As a Tax Journal Editor you will be responsible for editing tax journal articles in accordance with standard legal citation rules to ensure accuracy and clarity of content. You will also...",
+      "descriptionTeaser_keyword": "About the Role. As a Tax Journal Editor you will be responsible for editing tax journal articles in accordance with standard legal citation rules to ensure accuracy and clarity of content. You will al...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -93.10808019999999,
+          "lat": 44.8527611
+        },
+        "location": "Eagan, Minnesota, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "North Hollywood, California",
+    "country": "United States of America",
+    "ml_skills": [
+      "publishing",
+      "legal research",
+      "case law",
+      "editing",
+      "continuing legal education"
+    ],
+    "remote": "Remote",
+    "type": "Full time",
+    "descriptionTeaser": "In this position, you will perform legal research, analysis and writing to support the development and maintenance of The Rutter Group\u2019s premier legal content as reflected in its Practice Guides. Deve...",
+    "state": "California",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-118.3747284",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ179545",
+    "jobId": "JREQ179545",
+    "city": "North Hollywood",
+    "latitude": "34.1642783",
+    "locale": "en_US",
+    "multi_location": [
+      "North Hollywood, California, United States of America"
+    ],
+    "title": "Senior Attorney Editor",
+    "jobSeqNo": "THTTRUUSJREQ179545EXTERNALENUS",
+    "postedDate": "2024-06-26T00:00:00.000+0000",
+    "dateCreated": "2024-06-06T00:40:05.371+0000",
+    "cityStateCountry": "North Hollywood, California, United States of America",
+    "address": "5161 Lankershim Blvd, North Hollywood, CA 91601, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-North-Hollywood-5161-Lankershim-Blvd/Senior-Attorney-Editor_JREQ179545/apply",
+    "location": "North Hollywood, California, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "In this position, you will perform legal research, analysis and writing to support the development and maintenance of The Rutter Group\u2019s premier legal content as reflected in its Practice Guides. Deve...",
+      "descriptionTeaser_first200": "Senior Attorney Editor, Legal Commentary Editorial, The Rutter Group Editorial Team. Do you want to be a part of the team that produces the go-to resource for practicing California attorneys? The Rutter...",
+      "descriptionTeaser_keyword": "Senior Attorney Editor, Legal Commentary Editorial, The Rutter Group Editorial Team. Do you want to be a part of the team that produces the go-to resource for practicing California attorneys? The Rutt...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -118.3747284,
+          "lat": 34.1642783
+        },
+        "location": "North Hollywood, California, United States of America"
       }
     ],
     "isMultiCategory": true,
@@ -1548,104 +1794,6 @@
           "lat": -33.8664432
         },
         "location": "Pyrmont, New South Wales, Australia"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Eagan, Minnesota",
-    "country": "United States of America",
-    "ml_skills": [
-      "legal analysis",
-      "publishing",
-      "analytical thinker",
-      "leadership development",
-      "microsoft word",
-      "employee evaluation"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "In this role, you will be required to maintain and develop legal knowledge and skills training as needed to complete your work and in order to stay current on legal trends and developments that are re...",
-    "state": "Minnesota",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-93.10808019999999",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ179476",
-    "jobId": "JREQ179476",
-    "city": "Eagan",
-    "latitude": "44.8527611",
-    "locale": "en_US",
-    "multi_location": [
-      "Eagan, Minnesota, United States of America",
-      "Austin, Texas, United States of America",
-      "San Antonio, Texas, United States of America",
-      "Carrollton, Texas, United States of America",
-      "Chicago, Illinois, United States of America"
-    ],
-    "title": "Attorney Developer",
-    "jobSeqNo": "THTTRUUSJREQ179476EXTERNALENUS",
-    "postedDate": "2024-06-13T00:00:00.000+0000",
-    "dateCreated": "2024-06-13T20:42:50.625+0000",
-    "cityStateCountry": "Eagan, Minnesota, United States of America",
-    "address": "2900 Ames Crossing Road, Ste 100, Eagan, MN 55121, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MSP-2900-Ames-Crossing-Road/Attorney-Developer_JREQ179476/apply",
-    "location": "Eagan, Minnesota, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "In this role, you will be required to maintain and develop legal knowledge and skills training as needed to complete your work and in order to stay current on legal trends and developments that are re...",
-      "descriptionTeaser_first200": "In this role, you will create and maintain automated document assembly content for attorneys to use in their law practice through both the Form Builder and Contract Express applications. About the Role....",
-      "descriptionTeaser_keyword": "In this role, you will create and maintain automated document assembly content for attorneys to use in their law practice through both the Form Builder and Contract Express applications. About the Rol...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -93.10808019999999,
-          "lat": 44.8527611
-        },
-        "location": "Eagan, Minnesota, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -97.74735720000001,
-          "lat": 30.2228447
-        },
-        "location": "Austin, Texas, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -98.70407499999999,
-          "lat": 29.9173682
-        },
-        "location": "San Antonio, Texas, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -96.8449828,
-          "lat": 32.97533
-        },
-        "location": "Carrollton, Texas, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -87.63723,
-          "lat": 41.87891930000001
-        },
-        "location": "Chicago, Illinois, United States of America"
       }
     ],
     "isMultiCategory": true,
@@ -3009,71 +3157,6 @@
     "badge": ""
   },
   {
-    "cityState": "North Hollywood, California",
-    "country": "United States of America",
-    "ml_skills": [
-      "publishing",
-      "legal research",
-      "case law",
-      "editing",
-      "continuing legal education"
-    ],
-    "remote": "Remote",
-    "type": "Full time",
-    "descriptionTeaser": "In this position, you will perform legal research, analysis and writing to support the development and maintenance of The Rutter Group\u2019s premier legal content as reflected in its Practice Guides. Deve...",
-    "state": "California",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-118.3747284",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ179545",
-    "jobId": "JREQ179545",
-    "city": "North Hollywood",
-    "latitude": "34.1642783",
-    "locale": "en_US",
-    "multi_location": [
-      "North Hollywood, California, United States of America"
-    ],
-    "title": "Senior Attorney Editor",
-    "jobSeqNo": "THTTRUUSJREQ179545EXTERNALENUS",
-    "postedDate": "2024-06-05T00:00:00.000+0000",
-    "dateCreated": "2024-06-06T00:40:05.371+0000",
-    "cityStateCountry": "North Hollywood, California, United States of America",
-    "address": "5161 Lankershim Blvd, North Hollywood, CA 91601, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-North-Hollywood-5161-Lankershim-Blvd/Senior-Attorney-Editor_JREQ179545/apply",
-    "location": "North Hollywood, California, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "In this position, you will perform legal research, analysis and writing to support the development and maintenance of The Rutter Group\u2019s premier legal content as reflected in its Practice Guides. Deve...",
-      "descriptionTeaser_first200": "Senior Attorney Editor, Legal Commentary Editorial, The Rutter Group Editorial Team. Do you want to be a part of the team that produces the go-to resource for practicing California attorneys? The Rutter...",
-      "descriptionTeaser_keyword": "Senior Attorney Editor, Legal Commentary Editorial, The Rutter Group Editorial Team. Do you want to be a part of the team that produces the go-to resource for practicing California attorneys? The Rutt...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -118.3747284,
-          "lat": 34.1642783
-        },
-        "location": "North Hollywood, California, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Eagan, Minnesota",
     "country": "United States of America",
     "ml_skills": [
@@ -3535,136 +3618,6 @@
     "badge": ""
   },
   {
-    "cityState": "Los Angeles, California",
-    "country": "United States of America",
-    "ml_skills": [
-      "photo editing",
-      "photojournalism",
-      "editing",
-      "sports photography",
-      "breaking news",
-      "multimedia",
-      "captions"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Excellent photojournalism and editing skills proven by at last 3 years work experience as a full-time photojournalist. Experience in working in a large team, and the understanding of the importance of...",
-    "state": "California",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-118.2414884",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ179291",
-    "jobId": "JREQ179291",
-    "city": "Los Angeles",
-    "latitude": "34.033736",
-    "locale": "en_US",
-    "multi_location": [
-      "Los Angeles, California, United States of America"
-    ],
-    "title": "Photographer (Level 1 Journalist)",
-    "jobSeqNo": "THTTRUUSJREQ179291EXTERNALENUS",
-    "postedDate": "2024-05-30T00:00:00.000+0000",
-    "dateCreated": "2024-05-29T20:40:08.311+0000",
-    "cityStateCountry": "Los Angeles, California, United States of America",
-    "address": "777 S. Alameda, 2nd Floor, Los Angeles, CA 90021, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Los-Angeles-777-S-Alameda/Photographer--Level-1-Journalist-_JREQ179291/apply",
-    "location": "Los Angeles, California, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Excellent photojournalism and editing skills proven by at last 3 years work experience as a full-time photojournalist. Experience in working in a large team, and the understanding of the importance of...",
-      "descriptionTeaser_first200": "Reuters is seeking a talented Photographer (Level 1 Journalist) to join our team in Los Angeles. The photojournalist will be responsible for covering news, entertainment and sports in L.A. and also reinforce...",
-      "descriptionTeaser_keyword": "Reuters is seeking a talented Photographer (Level 1 Journalist) to join our team in Los Angeles. The photojournalist will be responsible for covering news, entertainment and sports in L. A. and also r...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -118.2414884,
-          "lat": 34.033736
-        },
-        "location": "Los Angeles, California, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Eagan, Minnesota",
-    "country": "United States of America",
-    "ml_skills": [
-      "editing",
-      "journals",
-      "newsletters"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "You will also provide assistance with related tasks such as preparing and distributing newsletters and working on special projects as assigned. The successful applicant must demonstrate a strong inter...",
-    "state": "Minnesota",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-93.10808019999999",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ178974",
-    "jobId": "JREQ178974",
-    "city": "Eagan",
-    "latitude": "44.8527611",
-    "locale": "en_US",
-    "multi_location": [
-      "Eagan, Minnesota, United States of America"
-    ],
-    "title": "Tax Journal Editor",
-    "jobSeqNo": "THTTRUUSJREQ178974EXTERNALENUS",
-    "postedDate": "2024-05-30T00:00:00.000+0000",
-    "dateCreated": "2024-05-30T20:39:41.356+0000",
-    "cityStateCountry": "Eagan, Minnesota, United States of America",
-    "address": "2900 Ames Crossing Road, Ste 100, Eagan, MN 55121, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MSP-2900-Ames-Crossing-Road/Tax-Journal-Editor_JREQ178974/apply",
-    "location": "Eagan, Minnesota, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "You will also provide assistance with related tasks such as preparing and distributing newsletters and working on special projects as assigned. The successful applicant must demonstrate a strong inter...",
-      "descriptionTeaser_first200": "About the Role. As a Tax Journal Editor you will be responsible for editing tax journal articles in accordance with standard legal citation rules to ensure accuracy and clarity of content. You will also...",
-      "descriptionTeaser_keyword": "About the Role. As a Tax Journal Editor you will be responsible for editing tax journal articles in accordance with standard legal citation rules to ensure accuracy and clarity of content. You will al...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -93.10808019999999,
-          "lat": 44.8527611
-        },
-        "location": "Eagan, Minnesota, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "London",
     "country": "United Kingdom",
     "ml_skills": [
@@ -3916,80 +3869,6 @@
           "lat": 17.438325
         },
         "location": "Hyderabad, Telangana, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "New York, New York",
-    "country": "United States of America",
-    "ml_skills": [
-      "editing",
-      "publishing",
-      "copy editing",
-      "graphics",
-      "breaking news",
-      "content management",
-      "multimedia",
-      "newsletters",
-      "adobe creative cloud",
-      "editorial standards",
-      "adobe creative cloud software",
-      "indesign",
-      "content management systems",
-      "workflow management"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "This is a role that requires a broad range of production and copy-editing skills, working closely with our reporting team in the US as well as our London-based production team. Work with our editors a...",
-    "state": "New York",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-73.9866995",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ178980",
-    "jobId": "JREQ178980",
-    "city": "New York",
-    "latitude": "40.7566955",
-    "locale": "en_US",
-    "multi_location": [
-      "New York, New York, United States of America"
-    ],
-    "title": "Production Editor (Level 1 Journalist), The Insurer, Reuters",
-    "jobSeqNo": "THTTRUUSJREQ178980EXTERNALENUS",
-    "postedDate": "2024-05-24T00:00:00.000+0000",
-    "dateCreated": "2024-05-21T16:39:48.746+0000",
-    "cityStateCountry": "New York, New York, United States of America",
-    "address": "3 Times Square, New York, NY 10036, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-New-York-3-Times-Square/Production-Editor--Level-1-Journalist---The-Insurer--Reuters_JREQ178980/apply",
-    "location": "New York, New York, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "This is a role that requires a broad range of production and copy-editing skills, working closely with our reporting team in the US as well as our London-based production team. Work with our editors a...",
-      "descriptionTeaser_first200": "Looking for a new challenge? Want to bring your production and copy-editing skills to a growing editorial team covering a vibrant segment of the financial services sector as part of the Thomson Reuters...",
-      "descriptionTeaser_keyword": "Looking for a new challenge? Want to bring your production and copy-editing skills to a growing editorial team covering a vibrant segment of the financial services sector as part of the Thomson Reuter...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -73.9866995,
-          "lat": 40.7566955
-        },
-        "location": "New York, New York, United States of America"
       }
     ],
     "isMultiCategory": true,
