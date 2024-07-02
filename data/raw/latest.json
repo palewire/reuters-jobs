@@ -68,71 +68,6 @@
     "badge": ""
   },
   {
-    "cityState": "Jerusalem",
-    "country": "Israel",
-    "ml_skills": [
-      "hebrew",
-      "arabic",
-      "multimedia",
-      "persistence",
-      "hostile environments"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "This position will require a reporter with resilience, persistence and creativity when the going gets tough and when the routes to a story seem blocked, as well as the ability to nurture and build sou...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "35.185601",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ180029",
-    "jobId": "JREQ180029",
-    "city": "Jerusalem",
-    "latitude": "31.74867729999999",
-    "locale": "en_US",
-    "multi_location": [
-      "Jerusalem, Israel"
-    ],
-    "title": "Senior Correspondent, Israel & Palestinian Territories",
-    "jobSeqNo": "THTTRUUSJREQ180029EXTERNALENUS",
-    "postedDate": "2024-07-01T00:00:00.000+0000",
-    "dateCreated": "2024-07-01T12:40:22.003+0000",
-    "cityStateCountry": "Jerusalem, Israel",
-    "address": "Technological Garden Tower Bldg, 12th Floor, Malcha, Jerusalem 96951, Israel",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/ISR-Jerusalem-Tech-Grdn-Twr/Senior-Correspondent--Israel---Palestinian-Territories_JREQ180029/apply",
-    "location": "Jerusalem, Israel",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "This position will require a reporter with resilience, persistence and creativity when the going gets tough and when the routes to a story seem blocked, as well as the ability to nurture and build sou...",
-      "descriptionTeaser_first200": "Reuters is seeking an energetic, self-starting and resourceful Senior Correspondent based in Jerusalem to break news, dig for exclusives and deliver deeply researched stories that will help set the agenda...",
-      "descriptionTeaser_keyword": "Reuters is seeking an energetic, self-starting and resourceful Senior Correspondent based in Jerusalem to break news, dig for exclusives and deliver deeply researched stories that will help set the ag...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 35.185601,
-          "lat": 31.74867729999999
-        },
-        "location": "Jerusalem, Israel"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Singapore",
     "country": "Singapore",
     "ml_skills": [
@@ -189,6 +124,71 @@
           "lat": 1.2938815
         },
         "location": "Singapore, Singapore"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Jerusalem",
+    "country": "Israel",
+    "ml_skills": [
+      "hebrew",
+      "arabic",
+      "multimedia",
+      "persistence",
+      "hostile environments"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "This position will require a reporter with resilience, persistence and creativity when the going gets tough and when the routes to a story seem blocked, as well as the ability to nurture and build sou...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "35.185601",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ180029",
+    "jobId": "JREQ180029",
+    "city": "Jerusalem",
+    "latitude": "31.74867729999999",
+    "locale": "en_US",
+    "multi_location": [
+      "Jerusalem, Israel"
+    ],
+    "title": "Senior Correspondent, Israel & Palestinian Territories",
+    "jobSeqNo": "THTTRUUSJREQ180029EXTERNALENUS",
+    "postedDate": "2024-07-01T00:00:00.000+0000",
+    "dateCreated": "2024-07-01T12:40:22.003+0000",
+    "cityStateCountry": "Jerusalem, Israel",
+    "address": "Technological Garden Tower Bldg, 12th Floor, Malcha, Jerusalem 96951, Israel",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/ISR-Jerusalem-Tech-Grdn-Twr/Senior-Correspondent--Israel---Palestinian-Territories_JREQ180029/apply",
+    "location": "Jerusalem, Israel",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "This position will require a reporter with resilience, persistence and creativity when the going gets tough and when the routes to a story seem blocked, as well as the ability to nurture and build sou...",
+      "descriptionTeaser_first200": "Reuters is seeking an energetic, self-starting and resourceful Senior Correspondent based in Jerusalem to break news, dig for exclusives and deliver deeply researched stories that will help set the agenda...",
+      "descriptionTeaser_keyword": "Reuters is seeking an energetic, self-starting and resourceful Senior Correspondent based in Jerusalem to break news, dig for exclusives and deliver deeply researched stories that will help set the ag...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 35.185601,
+          "lat": 31.74867729999999
+        },
+        "location": "Jerusalem, Israel"
       }
     ],
     "isMultiCategory": true,
@@ -601,87 +601,6 @@
     "badge": ""
   },
   {
-    "cityState": "Frisco, Texas",
-    "country": "United States of America",
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Practical Law is looking for a Bankruptcy Editor who has a passion for research and writing on legal topics to create attorney-specific resources for our Bankruptcy & Restructuring Service. Develop an...",
-    "state": "Texas",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-96.833545",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ179765",
-    "jobId": "JREQ179765",
-    "city": "Frisco",
-    "latitude": "33.1073049",
-    "locale": "en_US",
-    "multi_location": [
-      "Frisco, Texas, United States of America",
-      "Eagan, Minnesota, United States of America"
-    ],
-    "title": "Senior Specialist Legal Editor, Bankruptcy",
-    "jobSeqNo": "THTTRUUSJREQ179765EXTERNALENUS",
-    "postedDate": "2024-06-27T00:00:00.000+0000",
-    "dateCreated": "2024-06-27T20:42:08.206+0000",
-    "cityStateCountry": "Frisco, Texas, United States of America",
-    "address": "6160 Warren Parkway, Frisco, TX 75034, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Frisco-6160-Warren-Parkway/Senior-Specialist-Legal-Editor--Bankruptcy_JREQ179765/apply",
-    "location": "Frisco, Texas, United States of America",
-    "category": "News & Editorial Careers",
-    "externalApply": true,
-    "ml_skills": [
-      "bankruptcy",
-      "litigation",
-      "bankruptcy code",
-      "corporate law",
-      "debt restructuring",
-      "justice",
-      "technical drafting",
-      "continuing legal education",
-      "restructuring",
-      "commerce",
-      "grammar",
-      "technical support",
-      "advising clients"
-    ],
-    "ml_job_parser": {
-      "descriptionTeaser": "Practical Law is looking for a Bankruptcy Editor who has a passion for research and writing on legal topics to create attorney-specific resources for our Bankruptcy & Restructuring Service. Develop an...",
-      "descriptionTeaser_keyword": "Senior Specialist Legal Editor (Bankruptcy & Restructuring). Role Summary. Practical Law is looking for a Bankruptcy Editor who has a passion for research and writing on legal topics to create attorne...",
-      "descriptionTeaser_ats": "",
-      "descriptionTeaser_first200": "Senior Specialist Legal Editor (Bankruptcy & Restructuring). Role Summary. Practical Law is looking for a Bankruptcy Editor who has a passion for research and writing on legal topics to create attorney-specific..."
-    },
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -96.833545,
-          "lat": 33.1073049
-        },
-        "location": "Frisco, Texas, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -93.10808019999999,
-          "lat": 44.8527611
-        },
-        "location": "Eagan, Minnesota, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Eagan, Minnesota",
     "country": "United States of America",
     "remote": "Hybrid",
@@ -771,126 +690,76 @@
     "badge": ""
   },
   {
-    "cityState": "Toronto, Ontario",
-    "country": "Canada",
-    "ml_skills": [
-      "publishing",
-      "justice",
-      "westlaw",
-      "commerce",
-      "french",
-      "microsoft office"
-    ],
+    "cityState": "Frisco, Texas",
+    "country": "United States of America",
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "Provides legal interpretation in the form of research, analysis, and writing to support the development and maintenance of Thomson Reuters information in all media, and ensure that published informati...",
-    "state": "Ontario",
+    "descriptionTeaser": "Practical Law is looking for a Bankruptcy Editor who has a passion for research and writing on legal topics to create attorney-specific resources for our Bankruptcy & Restructuring Service. Develop an...",
+    "state": "Texas",
     "visibilityType": "External",
     "siteType": "external",
-    "longitude": "-79.3884094",
+    "longitude": "-96.833545",
     "multi_category": [
       "News & Editorial Careers"
     ],
-    "reqId": "JREQ180341",
-    "jobId": "JREQ180341",
-    "city": "Toronto",
-    "latitude": "43.6480117",
+    "reqId": "JREQ179765",
+    "jobId": "JREQ179765",
+    "city": "Frisco",
+    "latitude": "33.1073049",
     "locale": "en_US",
     "multi_location": [
-      "Toronto, Ontario, Canada"
+      "Frisco, Texas, United States of America",
+      "Eagan, Minnesota, United States of America"
     ],
-    "title": "Legal Editor",
-    "jobSeqNo": "THTTRUUSJREQ180341EXTERNALENUS",
-    "postedDate": "2024-06-26T00:00:00.000+0000",
-    "dateCreated": "2024-06-26T16:41:20.406+0000",
-    "cityStateCountry": "Toronto, Ontario, Canada",
-    "address": "19 Duncan Street, Toronto, ON M5H 3H1, Canada",
+    "title": "Senior Specialist Legal Editor, Bankruptcy",
+    "jobSeqNo": "THTTRUUSJREQ179765EXTERNALENUS",
+    "postedDate": "2024-06-27T00:00:00.000+0000",
+    "dateCreated": "2024-06-27T20:42:08.206+0000",
+    "cityStateCountry": "Frisco, Texas, United States of America",
+    "address": "6160 Warren Parkway, Frisco, TX 75034, United States of America",
     "jobVisibility": [
       "external"
     ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CAN-Toronto-19-Duncan-Street/Legal-Editor_JREQ180341/apply",
-    "location": "Toronto, Ontario, Canada",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Provides legal interpretation in the form of research, analysis, and writing to support the development and maintenance of Thomson Reuters information in all media, and ensure that published informati...",
-      "descriptionTeaser_first200": "Legal Editor. Role Summary. Provides legal interpretation in the form of research, analysis, and writing to support the development and maintenance of Thomson Reuters information in all media, and ensure...",
-      "descriptionTeaser_keyword": "Legal Editor. Role Summary. Provides legal interpretation in the form of research, analysis, and writing to support the development and maintenance of Thomson Reuters information in all media, and ens...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -79.3884094,
-          "lat": 43.6480117
-        },
-        "location": "Toronto, Ontario, Canada"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "New York, New York",
-    "country": "United States of America",
-    "remote": "Remote",
-    "type": "Full time",
-    "descriptionTeaser": "The ideal candidate will be able to apply their knowledge of financial markets and products to analyze content and identify opportunities for improvement. Effective communication skills (written & ver...",
-    "state": "New York",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-73.9866995",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ179306",
-    "jobId": "JREQ179306",
-    "city": "New York",
-    "latitude": "40.7566955",
-    "locale": "en_US",
-    "multi_location": [
-      "New York, New York, United States of America"
-    ],
-    "title": "Content Enrichment Specialist",
-    "jobSeqNo": "THTTRUUSJREQ179306EXTERNALENUS",
-    "postedDate": "2024-06-26T00:00:00.000+0000",
-    "dateCreated": "2024-06-26T20:43:19.907+0000",
-    "cityStateCountry": "New York, New York, United States of America",
-    "address": "3 Times Square, New York, NY 10036, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-New-York-3-Times-Square/Content-Enrichment-Specialist_JREQ179306/apply",
-    "location": "New York, New York, United States of America",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Frisco-6160-Warren-Parkway/Senior-Specialist-Legal-Editor--Bankruptcy_JREQ179765/apply",
+    "location": "Frisco, Texas, United States of America",
     "category": "News & Editorial Careers",
     "externalApply": true,
     "ml_skills": [
-      "journalism",
-      "commerce",
-      "research skills",
+      "bankruptcy",
+      "litigation",
+      "bankruptcy code",
+      "corporate law",
+      "debt restructuring",
       "justice",
-      "microsoft office suite applications"
+      "technical drafting",
+      "continuing legal education",
+      "restructuring",
+      "commerce",
+      "grammar",
+      "technical support",
+      "advising clients"
     ],
     "ml_job_parser": {
-      "descriptionTeaser": "The ideal candidate will be able to apply their knowledge of financial markets and products to analyze content and identify opportunities for improvement. Effective communication skills (written & ver...",
-      "descriptionTeaser_keyword": "Job Summary. The ideal candidate will be able to apply their knowledge of financial markets and products to analyze content and identify opportunities for improvement. The successful candidate should...",
+      "descriptionTeaser": "Practical Law is looking for a Bankruptcy Editor who has a passion for research and writing on legal topics to create attorney-specific resources for our Bankruptcy & Restructuring Service. Develop an...",
+      "descriptionTeaser_keyword": "Senior Specialist Legal Editor (Bankruptcy & Restructuring). Role Summary. Practical Law is looking for a Bankruptcy Editor who has a passion for research and writing on legal topics to create attorne...",
       "descriptionTeaser_ats": "",
-      "descriptionTeaser_first200": "Job Summary. The ideal candidate will be able to apply their knowledge of financial markets and products to analyze content and identify opportunities for improvement. The successful candidate should..."
+      "descriptionTeaser_first200": "Senior Specialist Legal Editor (Bankruptcy & Restructuring). Role Summary. Practical Law is looking for a Bankruptcy Editor who has a passion for research and writing on legal topics to create attorney-specific..."
     },
     "isMultiLocation": true,
     "multi_location_array": [
       {
         "latlong": {
-          "lon": -73.9866995,
-          "lat": 40.7566955
+          "lon": -96.833545,
+          "lat": 33.1073049
         },
-        "location": "New York, New York, United States of America"
+        "location": "Frisco, Texas, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -93.10808019999999,
+          "lat": 44.8527611
+        },
+        "location": "Eagan, Minnesota, United States of America"
       }
     ],
     "isMultiCategory": true,
@@ -968,51 +837,115 @@
     "badge": ""
   },
   {
-    "cityState": "London",
-    "country": "United Kingdom",
-    "ml_skills": [
-      "legal research",
-      "business law",
-      "editing",
-      "research skills",
-      "grammar",
-      "leadership development",
-      "employee evaluation"
-    ],
+    "cityState": "New York, New York",
+    "country": "United States of America",
     "remote": "Remote",
-    "type": "Part time",
-    "descriptionTeaser": "Reviews and edits legal information created by other employees, freelancers and others. Maintains and develops legal knowledge and skills training as required to complete work and stay current on lega...",
-    "state": "",
+    "type": "Full time",
+    "descriptionTeaser": "The ideal candidate will be able to apply their knowledge of financial markets and products to analyze content and identify opportunities for improvement. Effective communication skills (written & ver...",
+    "state": "New York",
     "visibilityType": "External",
     "siteType": "external",
-    "longitude": "-0.0185088",
+    "longitude": "-73.9866995",
     "multi_category": [
       "News & Editorial Careers"
     ],
-    "reqId": "JREQ179827",
-    "jobId": "JREQ179827",
-    "city": "London",
-    "latitude": "51.5056439",
+    "reqId": "JREQ179306",
+    "jobId": "JREQ179306",
+    "city": "New York",
+    "latitude": "40.7566955",
     "locale": "en_US",
     "multi_location": [
-      "London, United Kingdom"
+      "New York, New York, United States of America"
     ],
-    "title": "Senior Legal Editor",
-    "jobSeqNo": "THTTRUUSJREQ179827EXTERNALENUS",
+    "title": "Content Enrichment Specialist",
+    "jobSeqNo": "THTTRUUSJREQ179306EXTERNALENUS",
     "postedDate": "2024-06-26T00:00:00.000+0000",
-    "dateCreated": "2024-06-26T12:43:53.290+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "dateCreated": "2024-06-26T20:43:19.907+0000",
+    "cityStateCountry": "New York, New York, United States of America",
+    "address": "3 Times Square, New York, NY 10036, United States of America",
     "jobVisibility": [
       "external"
     ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Senior-Legal-Editor_JREQ179827/apply",
-    "location": "London, United Kingdom",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-New-York-3-Times-Square/Content-Enrichment-Specialist_JREQ179306/apply",
+    "location": "New York, New York, United States of America",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "ml_skills": [
+      "journalism",
+      "commerce",
+      "research skills",
+      "justice",
+      "microsoft office suite applications"
+    ],
+    "ml_job_parser": {
+      "descriptionTeaser": "The ideal candidate will be able to apply their knowledge of financial markets and products to analyze content and identify opportunities for improvement. Effective communication skills (written & ver...",
+      "descriptionTeaser_keyword": "Job Summary. The ideal candidate will be able to apply their knowledge of financial markets and products to analyze content and identify opportunities for improvement. The successful candidate should...",
+      "descriptionTeaser_ats": "",
+      "descriptionTeaser_first200": "Job Summary. The ideal candidate will be able to apply their knowledge of financial markets and products to analyze content and identify opportunities for improvement. The successful candidate should..."
+    },
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -73.9866995,
+          "lat": 40.7566955
+        },
+        "location": "New York, New York, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Toronto, Ontario",
+    "country": "Canada",
+    "ml_skills": [
+      "publishing",
+      "justice",
+      "westlaw",
+      "commerce",
+      "french",
+      "microsoft office"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Provides legal interpretation in the form of research, analysis, and writing to support the development and maintenance of Thomson Reuters information in all media, and ensure that published informati...",
+    "state": "Ontario",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-79.3884094",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ180341",
+    "jobId": "JREQ180341",
+    "city": "Toronto",
+    "latitude": "43.6480117",
+    "locale": "en_US",
+    "multi_location": [
+      "Toronto, Ontario, Canada"
+    ],
+    "title": "Legal Editor",
+    "jobSeqNo": "THTTRUUSJREQ180341EXTERNALENUS",
+    "postedDate": "2024-06-26T00:00:00.000+0000",
+    "dateCreated": "2024-06-26T16:41:20.406+0000",
+    "cityStateCountry": "Toronto, Ontario, Canada",
+    "address": "19 Duncan Street, Toronto, ON M5H 3H1, Canada",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CAN-Toronto-19-Duncan-Street/Legal-Editor_JREQ180341/apply",
+    "location": "Toronto, Ontario, Canada",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "Reviews and edits legal information created by other employees, freelancers and others. Maintains and develops legal knowledge and skills training as required to complete work and stay current on lega...",
-      "descriptionTeaser_first200": "We are looking for a senior legal editor on part time basis. About the role . As a senior legal editor you will be responsible for. Legal Research, Analysis and Writing. Creates and classifies legal information...",
-      "descriptionTeaser_keyword": "We are looking for a senior legal editor on part time basis. About the role. As a senior legal editor you will be responsible for. Legal Research, Analysis and Writing. Creates and classifies legal in...",
+      "descriptionTeaser": "Provides legal interpretation in the form of research, analysis, and writing to support the development and maintenance of Thomson Reuters information in all media, and ensure that published informati...",
+      "descriptionTeaser_first200": "Legal Editor. Role Summary. Provides legal interpretation in the form of research, analysis, and writing to support the development and maintenance of Thomson Reuters information in all media, and ensure...",
+      "descriptionTeaser_keyword": "Legal Editor. Role Summary. Provides legal interpretation in the form of research, analysis, and writing to support the development and maintenance of Thomson Reuters information in all media, and ens...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
@@ -1020,10 +953,10 @@
     "multi_location_array": [
       {
         "latlong": {
-          "lon": -0.0185088,
-          "lat": 51.5056439
+          "lon": -79.3884094,
+          "lat": 43.6480117
         },
-        "location": "London, United Kingdom"
+        "location": "Toronto, Ontario, Canada"
       }
     ],
     "isMultiCategory": true,
@@ -3003,6 +2936,75 @@
     "badge": ""
   },
   {
+    "cityState": "Hong Kong",
+    "country": "Hong Kong",
+    "ml_skills": [
+      "stakeholder management",
+      "new product development",
+      "brand management",
+      "project management",
+      "product development",
+      "publishing",
+      "project oversight",
+      "workload management",
+      "editing"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Provide project oversight to third party editing, and liaise internally on product set-up and pathway management to launch content on Westlaw Asia. Identify and manage derivative and secondary revenue...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "114.2168499",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ179396",
+    "jobId": "JREQ179396",
+    "city": "Hong Kong",
+    "latitude": "22.2876498",
+    "locale": "en_US",
+    "multi_location": [
+      "Hong Kong, Hong Kong"
+    ],
+    "title": "Senior Publisher",
+    "jobSeqNo": "THTTRUUSJREQ179396EXTERNALENUS",
+    "postedDate": "2024-06-07T00:00:00.000+0000",
+    "dateCreated": "2024-06-07T04:41:00.666+0000",
+    "cityStateCountry": "Hong Kong, Hong Kong",
+    "address": "15/F, 14 Taikoo Wan Road, Taikoo Shing, Hong Kong, Hong Kong",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/HKG-Taikoo-14-Taikoo-Wan-Road/Senior-Publisher_JREQ179396/apply",
+    "location": "Hong Kong, Hong Kong",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Provide project oversight to third party editing, and liaise internally on product set-up and pathway management to launch content on Westlaw Asia. Identify and manage derivative and secondary revenue...",
+      "descriptionTeaser_first200": "SENIOR PUBLISHER, PRINT / NEW PRODUCT DEVELOPMENT. Whilst the reporting line for this role is to the AEM Print business unit, it will operate under an \u201cOnline First\u201d publishing model. The role is to develop...",
+      "descriptionTeaser_keyword": "SENIOR PUBLISHER, PRINT / NEW PRODUCT DEVELOPMENT. Whilst the reporting line for this role is to the AEM Print business unit, it will operate under an \u201cOnline First\u201d publishing model. The role is to d...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 114.2168499,
+          "lat": 22.2876498
+        },
+        "location": "Hong Kong, Hong Kong"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "New York, New York",
     "country": "United States of America",
     "ml_skills": [
@@ -3125,75 +3127,6 @@
           "lat": 17.438325
         },
         "location": "Hyderabad, Telangana, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Hong Kong",
-    "country": "Hong Kong",
-    "ml_skills": [
-      "stakeholder management",
-      "new product development",
-      "brand management",
-      "project management",
-      "product development",
-      "publishing",
-      "project oversight",
-      "workload management",
-      "editing"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Provide project oversight to third party editing, and liaise internally on product set-up and pathway management to launch content on Westlaw Asia. Identify and manage derivative and secondary revenue...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "114.2168499",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ179396",
-    "jobId": "JREQ179396",
-    "city": "Hong Kong",
-    "latitude": "22.2876498",
-    "locale": "en_US",
-    "multi_location": [
-      "Hong Kong, Hong Kong"
-    ],
-    "title": "Senior Publisher",
-    "jobSeqNo": "THTTRUUSJREQ179396EXTERNALENUS",
-    "postedDate": "2024-06-07T00:00:00.000+0000",
-    "dateCreated": "2024-06-07T04:41:00.666+0000",
-    "cityStateCountry": "Hong Kong, Hong Kong",
-    "address": "15/F, 14 Taikoo Wan Road, Taikoo Shing, Hong Kong, Hong Kong",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/HKG-Taikoo-14-Taikoo-Wan-Road/Senior-Publisher_JREQ179396/apply",
-    "location": "Hong Kong, Hong Kong",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Provide project oversight to third party editing, and liaise internally on product set-up and pathway management to launch content on Westlaw Asia. Identify and manage derivative and secondary revenue...",
-      "descriptionTeaser_first200": "SENIOR PUBLISHER, PRINT / NEW PRODUCT DEVELOPMENT. Whilst the reporting line for this role is to the AEM Print business unit, it will operate under an \u201cOnline First\u201d publishing model. The role is to develop...",
-      "descriptionTeaser_keyword": "SENIOR PUBLISHER, PRINT / NEW PRODUCT DEVELOPMENT. Whilst the reporting line for this role is to the AEM Print business unit, it will operate under an \u201cOnline First\u201d publishing model. The role is to d...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 114.2168499,
-          "lat": 22.2876498
-        },
-        "location": "Hong Kong, Hong Kong"
       }
     ],
     "isMultiCategory": true,
@@ -4100,71 +4033,6 @@
       "descriptionTeaser": "The position requires good news judgment and the ability to handle several stories simultaneously. Written English to a native standard is essential, as is experience and interest in news and current...",
       "descriptionTeaser_first200": "Sports Video Producer. The successful candidate will have excellent knowledge of the global sports agenda and will work closely with the Television Sports desks in London, Washington DC and Mexico City....",
       "descriptionTeaser_keyword": "Sports Video Producer. The successful candidate will have excellent knowledge of the global sports agenda and will work closely with the Television Sports desks in London, Washington DC and Mexico Cit...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 77.7120655,
-          "lat": 12.9743998
-        },
-        "location": "Bengaluru, Karnataka, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Bengaluru, Karnataka",
-    "country": "India",
-    "ml_skills": [
-      "grammar",
-      "captions",
-      "numbers",
-      "investment",
-      "financial data"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Have the news judgment to differentiate between news that can make or break a company and PR speak - and be able to prioritize news, analysis and views for an investment audience. A journalist will be...",
-    "state": "Karnataka",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "77.7120655",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ176093",
-    "jobId": "JREQ176093",
-    "city": "Bengaluru",
-    "latitude": "12.9743998",
-    "locale": "en_US",
-    "multi_location": [
-      "Bengaluru, Karnataka, India"
-    ],
-    "title": "Correspondent, India",
-    "jobSeqNo": "THTTRUUSJREQ176093EXTERNALENUS",
-    "postedDate": "2024-05-20T00:00:00.000+0000",
-    "dateCreated": "2024-02-14T08:41:18.141+0000",
-    "cityStateCountry": "Bengaluru, Karnataka, India",
-    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/Correspondent--India_JREQ176093-1/apply",
-    "location": "Bengaluru, Karnataka, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Have the news judgment to differentiate between news that can make or break a company and PR speak - and be able to prioritize news, analysis and views for an investment audience. A journalist will be...",
-      "descriptionTeaser_first200": "Correspondent, India. We're looking for a talented, well-organized news hound to be a part of Reuters\u2019 Bangalore newsroom. The successful candidate will be a people person, a great communicator and, above...",
-      "descriptionTeaser_keyword": "Correspondent, India. We're looking for a talented, well-organized news hound to be a part of Reuters\u2019 Bangalore newsroom. The successful candidate will be a people person, a great communicator and, a...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
