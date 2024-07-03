@@ -68,6 +68,71 @@
     "badge": ""
   },
   {
+    "cityState": "Jerusalem",
+    "country": "Israel",
+    "ml_skills": [
+      "hebrew",
+      "arabic",
+      "multimedia",
+      "persistence",
+      "hostile environments"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "This position will require a reporter with resilience, persistence and creativity when the going gets tough and when the routes to a story seem blocked, as well as the ability to nurture and build sou...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "35.185601",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ180029",
+    "jobId": "JREQ180029",
+    "city": "Jerusalem",
+    "latitude": "31.74867729999999",
+    "locale": "en_US",
+    "multi_location": [
+      "Jerusalem, Israel"
+    ],
+    "title": "Senior Correspondent, Israel & Palestinian Territories",
+    "jobSeqNo": "THTTRUUSJREQ180029EXTERNALENUS",
+    "postedDate": "2024-07-01T00:00:00.000+0000",
+    "dateCreated": "2024-07-01T12:40:22.003+0000",
+    "cityStateCountry": "Jerusalem, Israel",
+    "address": "Technological Garden Tower Bldg, 12th Floor, Malcha, Jerusalem 96951, Israel",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/ISR-Jerusalem-Tech-Grdn-Twr/Senior-Correspondent--Israel---Palestinian-Territories_JREQ180029/apply",
+    "location": "Jerusalem, Israel",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "This position will require a reporter with resilience, persistence and creativity when the going gets tough and when the routes to a story seem blocked, as well as the ability to nurture and build sou...",
+      "descriptionTeaser_first200": "Reuters is seeking an energetic, self-starting and resourceful Senior Correspondent based in Jerusalem to break news, dig for exclusives and deliver deeply researched stories that will help set the agenda...",
+      "descriptionTeaser_keyword": "Reuters is seeking an energetic, self-starting and resourceful Senior Correspondent based in Jerusalem to break news, dig for exclusives and deliver deeply researched stories that will help set the ag...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 35.185601,
+          "lat": 31.74867729999999
+        },
+        "location": "Jerusalem, Israel"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Singapore",
     "country": "Singapore",
     "ml_skills": [
@@ -124,71 +189,6 @@
           "lat": 1.2938815
         },
         "location": "Singapore, Singapore"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Jerusalem",
-    "country": "Israel",
-    "ml_skills": [
-      "hebrew",
-      "arabic",
-      "multimedia",
-      "persistence",
-      "hostile environments"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "This position will require a reporter with resilience, persistence and creativity when the going gets tough and when the routes to a story seem blocked, as well as the ability to nurture and build sou...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "35.185601",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ180029",
-    "jobId": "JREQ180029",
-    "city": "Jerusalem",
-    "latitude": "31.74867729999999",
-    "locale": "en_US",
-    "multi_location": [
-      "Jerusalem, Israel"
-    ],
-    "title": "Senior Correspondent, Israel & Palestinian Territories",
-    "jobSeqNo": "THTTRUUSJREQ180029EXTERNALENUS",
-    "postedDate": "2024-07-01T00:00:00.000+0000",
-    "dateCreated": "2024-07-01T12:40:22.003+0000",
-    "cityStateCountry": "Jerusalem, Israel",
-    "address": "Technological Garden Tower Bldg, 12th Floor, Malcha, Jerusalem 96951, Israel",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/ISR-Jerusalem-Tech-Grdn-Twr/Senior-Correspondent--Israel---Palestinian-Territories_JREQ180029/apply",
-    "location": "Jerusalem, Israel",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "This position will require a reporter with resilience, persistence and creativity when the going gets tough and when the routes to a story seem blocked, as well as the ability to nurture and build sou...",
-      "descriptionTeaser_first200": "Reuters is seeking an energetic, self-starting and resourceful Senior Correspondent based in Jerusalem to break news, dig for exclusives and deliver deeply researched stories that will help set the agenda...",
-      "descriptionTeaser_keyword": "Reuters is seeking an energetic, self-starting and resourceful Senior Correspondent based in Jerusalem to break news, dig for exclusives and deliver deeply researched stories that will help set the ag...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 35.185601,
-          "lat": 31.74867729999999
-        },
-        "location": "Jerusalem, Israel"
       }
     ],
     "isMultiCategory": true,
@@ -601,6 +601,87 @@
     "badge": ""
   },
   {
+    "cityState": "Frisco, Texas",
+    "country": "United States of America",
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Practical Law is looking for a Bankruptcy Editor who has a passion for research and writing on legal topics to create attorney-specific resources for our Bankruptcy & Restructuring Service. Develop an...",
+    "state": "Texas",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-96.833545",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ179765",
+    "jobId": "JREQ179765",
+    "city": "Frisco",
+    "latitude": "33.1073049",
+    "locale": "en_US",
+    "multi_location": [
+      "Frisco, Texas, United States of America",
+      "Eagan, Minnesota, United States of America"
+    ],
+    "title": "Senior Specialist Legal Editor, Bankruptcy",
+    "jobSeqNo": "THTTRUUSJREQ179765EXTERNALENUS",
+    "postedDate": "2024-06-27T00:00:00.000+0000",
+    "dateCreated": "2024-06-27T20:42:08.206+0000",
+    "cityStateCountry": "Frisco, Texas, United States of America",
+    "address": "6160 Warren Parkway, Frisco, TX 75034, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Frisco-6160-Warren-Parkway/Senior-Specialist-Legal-Editor--Bankruptcy_JREQ179765/apply",
+    "location": "Frisco, Texas, United States of America",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "ml_skills": [
+      "bankruptcy",
+      "litigation",
+      "bankruptcy code",
+      "corporate law",
+      "debt restructuring",
+      "justice",
+      "technical drafting",
+      "continuing legal education",
+      "restructuring",
+      "commerce",
+      "grammar",
+      "technical support",
+      "advising clients"
+    ],
+    "ml_job_parser": {
+      "descriptionTeaser": "Practical Law is looking for a Bankruptcy Editor who has a passion for research and writing on legal topics to create attorney-specific resources for our Bankruptcy & Restructuring Service. Develop an...",
+      "descriptionTeaser_keyword": "Senior Specialist Legal Editor (Bankruptcy & Restructuring). Role Summary. Practical Law is looking for a Bankruptcy Editor who has a passion for research and writing on legal topics to create attorne...",
+      "descriptionTeaser_ats": "",
+      "descriptionTeaser_first200": "Senior Specialist Legal Editor (Bankruptcy & Restructuring). Role Summary. Practical Law is looking for a Bankruptcy Editor who has a passion for research and writing on legal topics to create attorney-specific..."
+    },
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -96.833545,
+          "lat": 33.1073049
+        },
+        "location": "Frisco, Texas, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -93.10808019999999,
+          "lat": 44.8527611
+        },
+        "location": "Eagan, Minnesota, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Eagan, Minnesota",
     "country": "United States of America",
     "remote": "Hybrid",
@@ -690,131 +771,50 @@
     "badge": ""
   },
   {
-    "cityState": "Frisco, Texas",
-    "country": "United States of America",
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Practical Law is looking for a Bankruptcy Editor who has a passion for research and writing on legal topics to create attorney-specific resources for our Bankruptcy & Restructuring Service. Develop an...",
-    "state": "Texas",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-96.833545",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ179765",
-    "jobId": "JREQ179765",
-    "city": "Frisco",
-    "latitude": "33.1073049",
-    "locale": "en_US",
-    "multi_location": [
-      "Frisco, Texas, United States of America",
-      "Eagan, Minnesota, United States of America"
-    ],
-    "title": "Senior Specialist Legal Editor, Bankruptcy",
-    "jobSeqNo": "THTTRUUSJREQ179765EXTERNALENUS",
-    "postedDate": "2024-06-27T00:00:00.000+0000",
-    "dateCreated": "2024-06-27T20:42:08.206+0000",
-    "cityStateCountry": "Frisco, Texas, United States of America",
-    "address": "6160 Warren Parkway, Frisco, TX 75034, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Frisco-6160-Warren-Parkway/Senior-Specialist-Legal-Editor--Bankruptcy_JREQ179765/apply",
-    "location": "Frisco, Texas, United States of America",
-    "category": "News & Editorial Careers",
-    "externalApply": true,
+    "cityState": "Toronto, Ontario",
+    "country": "Canada",
     "ml_skills": [
-      "bankruptcy",
-      "litigation",
-      "bankruptcy code",
-      "corporate law",
-      "debt restructuring",
-      "justice",
-      "technical drafting",
-      "continuing legal education",
-      "restructuring",
-      "commerce",
-      "grammar",
-      "technical support",
-      "advising clients"
-    ],
-    "ml_job_parser": {
-      "descriptionTeaser": "Practical Law is looking for a Bankruptcy Editor who has a passion for research and writing on legal topics to create attorney-specific resources for our Bankruptcy & Restructuring Service. Develop an...",
-      "descriptionTeaser_keyword": "Senior Specialist Legal Editor (Bankruptcy & Restructuring). Role Summary. Practical Law is looking for a Bankruptcy Editor who has a passion for research and writing on legal topics to create attorne...",
-      "descriptionTeaser_ats": "",
-      "descriptionTeaser_first200": "Senior Specialist Legal Editor (Bankruptcy & Restructuring). Role Summary. Practical Law is looking for a Bankruptcy Editor who has a passion for research and writing on legal topics to create attorney-specific..."
-    },
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -96.833545,
-          "lat": 33.1073049
-        },
-        "location": "Frisco, Texas, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -93.10808019999999,
-          "lat": 44.8527611
-        },
-        "location": "Eagan, Minnesota, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Eagan, Minnesota",
-    "country": "United States of America",
-    "ml_skills": [
-      "legal analysis",
       "publishing",
-      "analytical thinker",
-      "leadership development",
-      "microsoft word",
-      "employee evaluation"
+      "justice",
+      "westlaw",
+      "commerce",
+      "french",
+      "microsoft office"
     ],
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "In this role, you will be required to maintain and develop legal knowledge and skills training as needed to complete your work and in order to stay current on legal trends and developments that are re...",
-    "state": "Minnesota",
+    "descriptionTeaser": "Provides legal interpretation in the form of research, analysis, and writing to support the development and maintenance of Thomson Reuters information in all media, and ensure that published informati...",
+    "state": "Ontario",
     "visibilityType": "External",
     "siteType": "external",
-    "longitude": "-93.10808019999999",
+    "longitude": "-79.3884094",
     "multi_category": [
       "News & Editorial Careers"
     ],
-    "reqId": "JREQ179476",
-    "jobId": "JREQ179476",
-    "city": "Eagan",
-    "latitude": "44.8527611",
+    "reqId": "JREQ180341",
+    "jobId": "JREQ180341",
+    "city": "Toronto",
+    "latitude": "43.6480117",
     "locale": "en_US",
     "multi_location": [
-      "Eagan, Minnesota, United States of America"
+      "Toronto, Ontario, Canada"
     ],
-    "title": "Attorney Developer",
-    "jobSeqNo": "THTTRUUSJREQ179476EXTERNALENUS",
+    "title": "Legal Editor",
+    "jobSeqNo": "THTTRUUSJREQ180341EXTERNALENUS",
     "postedDate": "2024-06-26T00:00:00.000+0000",
-    "dateCreated": "2024-06-13T20:42:50.625+0000",
-    "cityStateCountry": "Eagan, Minnesota, United States of America",
-    "address": "2900 Ames Crossing Road, Ste 100, Eagan, MN 55121, United States of America",
+    "dateCreated": "2024-06-26T16:41:20.406+0000",
+    "cityStateCountry": "Toronto, Ontario, Canada",
+    "address": "19 Duncan Street, Toronto, ON M5H 3H1, Canada",
     "jobVisibility": [
       "external"
     ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MSP-2900-Ames-Crossing-Road/Attorney-Developer_JREQ179476/apply",
-    "location": "Eagan, Minnesota, United States of America",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CAN-Toronto-19-Duncan-Street/Legal-Editor_JREQ180341/apply",
+    "location": "Toronto, Ontario, Canada",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "In this role, you will be required to maintain and develop legal knowledge and skills training as needed to complete your work and in order to stay current on legal trends and developments that are re...",
-      "descriptionTeaser_first200": "In this role, you will create and maintain automated document assembly content for attorneys to use in their law practice through both the Form Builder and Contract Express applications. About the Role....",
-      "descriptionTeaser_keyword": "In this role, you will create and maintain automated document assembly content for attorneys to use in their law practice through both the Form Builder and Contract Express applications. About the Rol...",
+      "descriptionTeaser": "Provides legal interpretation in the form of research, analysis, and writing to support the development and maintenance of Thomson Reuters information in all media, and ensure that published informati...",
+      "descriptionTeaser_first200": "Legal Editor. Role Summary. Provides legal interpretation in the form of research, analysis, and writing to support the development and maintenance of Thomson Reuters information in all media, and ensure...",
+      "descriptionTeaser_keyword": "Legal Editor. Role Summary. Provides legal interpretation in the form of research, analysis, and writing to support the development and maintenance of Thomson Reuters information in all media, and ens...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
@@ -822,10 +822,10 @@
     "multi_location_array": [
       {
         "latlong": {
-          "lon": -93.10808019999999,
-          "lat": 44.8527611
+          "lon": -79.3884094,
+          "lat": 43.6480117
         },
-        "location": "Eagan, Minnesota, United States of America"
+        "location": "Toronto, Ontario, Canada"
       }
     ],
     "isMultiCategory": true,
@@ -902,50 +902,50 @@
     "badge": ""
   },
   {
-    "cityState": "Toronto, Ontario",
-    "country": "Canada",
+    "cityState": "Eagan, Minnesota",
+    "country": "United States of America",
     "ml_skills": [
+      "legal analysis",
       "publishing",
-      "justice",
-      "westlaw",
-      "commerce",
-      "french",
-      "microsoft office"
+      "analytical thinker",
+      "leadership development",
+      "microsoft word",
+      "employee evaluation"
     ],
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "Provides legal interpretation in the form of research, analysis, and writing to support the development and maintenance of Thomson Reuters information in all media, and ensure that published informati...",
-    "state": "Ontario",
+    "descriptionTeaser": "In this role, you will be required to maintain and develop legal knowledge and skills training as needed to complete your work and in order to stay current on legal trends and developments that are re...",
+    "state": "Minnesota",
     "visibilityType": "External",
     "siteType": "external",
-    "longitude": "-79.3884094",
+    "longitude": "-93.10808019999999",
     "multi_category": [
       "News & Editorial Careers"
     ],
-    "reqId": "JREQ180341",
-    "jobId": "JREQ180341",
-    "city": "Toronto",
-    "latitude": "43.6480117",
+    "reqId": "JREQ179476",
+    "jobId": "JREQ179476",
+    "city": "Eagan",
+    "latitude": "44.8527611",
     "locale": "en_US",
     "multi_location": [
-      "Toronto, Ontario, Canada"
+      "Eagan, Minnesota, United States of America"
     ],
-    "title": "Legal Editor",
-    "jobSeqNo": "THTTRUUSJREQ180341EXTERNALENUS",
+    "title": "Attorney Developer",
+    "jobSeqNo": "THTTRUUSJREQ179476EXTERNALENUS",
     "postedDate": "2024-06-26T00:00:00.000+0000",
-    "dateCreated": "2024-06-26T16:41:20.406+0000",
-    "cityStateCountry": "Toronto, Ontario, Canada",
-    "address": "19 Duncan Street, Toronto, ON M5H 3H1, Canada",
+    "dateCreated": "2024-06-13T20:42:50.625+0000",
+    "cityStateCountry": "Eagan, Minnesota, United States of America",
+    "address": "2900 Ames Crossing Road, Ste 100, Eagan, MN 55121, United States of America",
     "jobVisibility": [
       "external"
     ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CAN-Toronto-19-Duncan-Street/Legal-Editor_JREQ180341/apply",
-    "location": "Toronto, Ontario, Canada",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MSP-2900-Ames-Crossing-Road/Attorney-Developer_JREQ179476/apply",
+    "location": "Eagan, Minnesota, United States of America",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "Provides legal interpretation in the form of research, analysis, and writing to support the development and maintenance of Thomson Reuters information in all media, and ensure that published informati...",
-      "descriptionTeaser_first200": "Legal Editor. Role Summary. Provides legal interpretation in the form of research, analysis, and writing to support the development and maintenance of Thomson Reuters information in all media, and ensure...",
-      "descriptionTeaser_keyword": "Legal Editor. Role Summary. Provides legal interpretation in the form of research, analysis, and writing to support the development and maintenance of Thomson Reuters information in all media, and ens...",
+      "descriptionTeaser": "In this role, you will be required to maintain and develop legal knowledge and skills training as needed to complete your work and in order to stay current on legal trends and developments that are re...",
+      "descriptionTeaser_first200": "In this role, you will create and maintain automated document assembly content for attorneys to use in their law practice through both the Form Builder and Contract Express applications. About the Role....",
+      "descriptionTeaser_keyword": "In this role, you will create and maintain automated document assembly content for attorneys to use in their law practice through both the Form Builder and Contract Express applications. About the Rol...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
@@ -953,10 +953,10 @@
     "multi_location_array": [
       {
         "latlong": {
-          "lon": -79.3884094,
-          "lat": 43.6480117
+          "lon": -93.10808019999999,
+          "lat": 44.8527611
         },
-        "location": "Toronto, Ontario, Canada"
+        "location": "Eagan, Minnesota, United States of America"
       }
     ],
     "isMultiCategory": true,
@@ -2936,75 +2936,6 @@
     "badge": ""
   },
   {
-    "cityState": "Hong Kong",
-    "country": "Hong Kong",
-    "ml_skills": [
-      "stakeholder management",
-      "new product development",
-      "brand management",
-      "project management",
-      "product development",
-      "publishing",
-      "project oversight",
-      "workload management",
-      "editing"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Provide project oversight to third party editing, and liaise internally on product set-up and pathway management to launch content on Westlaw Asia. Identify and manage derivative and secondary revenue...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "114.2168499",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ179396",
-    "jobId": "JREQ179396",
-    "city": "Hong Kong",
-    "latitude": "22.2876498",
-    "locale": "en_US",
-    "multi_location": [
-      "Hong Kong, Hong Kong"
-    ],
-    "title": "Senior Publisher",
-    "jobSeqNo": "THTTRUUSJREQ179396EXTERNALENUS",
-    "postedDate": "2024-06-07T00:00:00.000+0000",
-    "dateCreated": "2024-06-07T04:41:00.666+0000",
-    "cityStateCountry": "Hong Kong, Hong Kong",
-    "address": "15/F, 14 Taikoo Wan Road, Taikoo Shing, Hong Kong, Hong Kong",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/HKG-Taikoo-14-Taikoo-Wan-Road/Senior-Publisher_JREQ179396/apply",
-    "location": "Hong Kong, Hong Kong",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Provide project oversight to third party editing, and liaise internally on product set-up and pathway management to launch content on Westlaw Asia. Identify and manage derivative and secondary revenue...",
-      "descriptionTeaser_first200": "SENIOR PUBLISHER, PRINT / NEW PRODUCT DEVELOPMENT. Whilst the reporting line for this role is to the AEM Print business unit, it will operate under an \u201cOnline First\u201d publishing model. The role is to develop...",
-      "descriptionTeaser_keyword": "SENIOR PUBLISHER, PRINT / NEW PRODUCT DEVELOPMENT. Whilst the reporting line for this role is to the AEM Print business unit, it will operate under an \u201cOnline First\u201d publishing model. The role is to d...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 114.2168499,
-          "lat": 22.2876498
-        },
-        "location": "Hong Kong, Hong Kong"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "New York, New York",
     "country": "United States of America",
     "ml_skills": [
@@ -3127,6 +3058,75 @@
           "lat": 17.438325
         },
         "location": "Hyderabad, Telangana, India"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Hong Kong",
+    "country": "Hong Kong",
+    "ml_skills": [
+      "stakeholder management",
+      "new product development",
+      "brand management",
+      "project management",
+      "product development",
+      "publishing",
+      "project oversight",
+      "workload management",
+      "editing"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Provide project oversight to third party editing, and liaise internally on product set-up and pathway management to launch content on Westlaw Asia. Identify and manage derivative and secondary revenue...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "114.2168499",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ179396",
+    "jobId": "JREQ179396",
+    "city": "Hong Kong",
+    "latitude": "22.2876498",
+    "locale": "en_US",
+    "multi_location": [
+      "Hong Kong, Hong Kong"
+    ],
+    "title": "Senior Publisher",
+    "jobSeqNo": "THTTRUUSJREQ179396EXTERNALENUS",
+    "postedDate": "2024-06-07T00:00:00.000+0000",
+    "dateCreated": "2024-06-07T04:41:00.666+0000",
+    "cityStateCountry": "Hong Kong, Hong Kong",
+    "address": "15/F, 14 Taikoo Wan Road, Taikoo Shing, Hong Kong, Hong Kong",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/HKG-Taikoo-14-Taikoo-Wan-Road/Senior-Publisher_JREQ179396/apply",
+    "location": "Hong Kong, Hong Kong",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Provide project oversight to third party editing, and liaise internally on product set-up and pathway management to launch content on Westlaw Asia. Identify and manage derivative and secondary revenue...",
+      "descriptionTeaser_first200": "SENIOR PUBLISHER, PRINT / NEW PRODUCT DEVELOPMENT. Whilst the reporting line for this role is to the AEM Print business unit, it will operate under an \u201cOnline First\u201d publishing model. The role is to develop...",
+      "descriptionTeaser_keyword": "SENIOR PUBLISHER, PRINT / NEW PRODUCT DEVELOPMENT. Whilst the reporting line for this role is to the AEM Print business unit, it will operate under an \u201cOnline First\u201d publishing model. The role is to d...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 114.2168499,
+          "lat": 22.2876498
+        },
+        "location": "Hong Kong, Hong Kong"
       }
     ],
     "isMultiCategory": true,
