@@ -1,5 +1,68 @@
 [
   {
+    "cityState": "Beijing, Beijing",
+    "country": "China",
+    "ml_skills": [
+      "chinese",
+      "multimedia",
+      "data analysis"
+    ],
+    "remote": "On-Site",
+    "type": "Full time",
+    "descriptionTeaser": "Find, analyze and translate data, including working with databases. fluent in English and Chinese. passionate about Chinese policymaking, business, society, politics and China\u2019s relations with the res...",
+    "state": "Beijing",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "116.40108",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ180649",
+    "jobId": "JREQ180649",
+    "city": "Beijing",
+    "latitude": "39.9515199",
+    "locale": "en_US",
+    "multi_location": [
+      "Beijing, Beijing, China"
+    ],
+    "title": "Reuters Beijing - News Researcher (External Contractor)",
+    "jobSeqNo": "THTTRUUSJREQ180649EXTERNALENUS",
+    "postedDate": "2024-07-08T00:00:00.000+0000",
+    "dateCreated": "2024-07-08T12:40:18.991+0000",
+    "cityStateCountry": "Beijing, Beijing, China",
+    "address": "Units 5-12, 18F / 20F, Office Tower E1 of Oriental Plaza, No.1, East Chang An Avenue, Dong Cheng District, Beijing, 100738 Beijing, China",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CHN-Beijing-Oriental-Plaza/Reuters-Beijing---News-Researcher--External-Contractor-_JREQ180649/apply",
+    "location": "Beijing, Beijing, China",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Find, analyze and translate data, including working with databases. fluent in English and Chinese. passionate about Chinese policymaking, business, society, politics and China\u2019s relations with the res...",
+      "descriptionTeaser_first200": "REUTERS BEJING \u2013 NEWS RESEARCHER(External Contractor). The Reuters Beijing bureau is looking for a dynamic news researcher to support its newsgathering operations. About the Role. In this opportunity...",
+      "descriptionTeaser_keyword": "REUTERS BEJING \u2013 NEWS RESEARCHER(External Contractor). The Reuters Beijing bureau is looking for a dynamic news researcher to support its newsgathering operations. About the Role. In this opportunity...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 116.40108,
+          "lat": 39.9515199
+        },
+        "location": "Beijing, Beijing, China"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Mexico City",
     "country": "Mexico",
     "ml_skills": [
@@ -4841,74 +4904,6 @@
           "lat": 14.5558723
         },
         "location": "Manila, Philippines"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Gdansk",
-    "country": "Poland",
-    "ml_skills": [
-      "tax research",
-      "ukrainian",
-      "quality assurance",
-      "online research",
-      "microsoft excel",
-      "microsoft office package",
-      "microsoft office",
-      "data systems"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "The successful candidate will join the VAT team responsible for the analyzing, researching, interpreting and documenting laws and regulations, extensive researching and analyzing of product exemptions...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "18.5752702",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ178408",
-    "jobId": "JREQ178408",
-    "city": "Gdansk",
-    "latitude": "54.4004235",
-    "locale": "en_US",
-    "multi_location": [
-      "Gdansk, Poland"
-    ],
-    "title": "Junior Tax Associate",
-    "jobSeqNo": "THTTRUUSJREQ178408EXTERNALENUS",
-    "postedDate": "2024-04-24T00:00:00.000+0000",
-    "dateCreated": "2024-04-24T16:39:05.386+0000",
-    "cityStateCountry": "Gdansk, Poland",
-    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/Junior-Tax-Associate_JREQ178408/apply",
-    "location": "Gdansk, Poland",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "The successful candidate will join the VAT team responsible for the analyzing, researching, interpreting and documenting laws and regulations, extensive researching and analyzing of product exemptions...",
-      "descriptionTeaser_first200": "We welcome applications to our full-time vacancies from all citizens who have been granted protection within the territory of the Republic of Poland under the EU Temporary Protection Directive*. Do you...",
-      "descriptionTeaser_keyword": "We welcome applications to our full-time vacancies from all citizens who have been granted protection within the territory of the Republic of Poland under the EU Temporary Protection Directive*. Do yo...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 18.5752702,
-          "lat": 54.4004235
-        },
-        "location": "Gdansk, Poland"
       }
     ],
     "isMultiCategory": true,
