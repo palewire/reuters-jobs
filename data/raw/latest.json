@@ -67,6 +67,141 @@
     "badge": ""
   },
   {
+    "cityState": "Bengaluru, Karnataka",
+    "country": "India",
+    "ml_skills": [
+      "journalism",
+      "publishing",
+      "newsletters",
+      "multimedia",
+      "mass communication",
+      "geography",
+      "curating"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "This person decides which stories are presented to a financial client base that trades and invests on this news. The role involves working across different shifts in Reuters\u2019 24x5 publishing operation...",
+    "state": "Karnataka",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "77.7120655",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ179009",
+    "jobId": "JREQ179009",
+    "city": "Bengaluru",
+    "latitude": "12.9743998",
+    "locale": "en_US",
+    "multi_location": [
+      "Bengaluru, Karnataka, India"
+    ],
+    "title": "News Publishing Specialist",
+    "jobSeqNo": "THTTRUUSJREQ179009EXTERNALENUS",
+    "postedDate": "2024-07-09T00:00:00.000+0000",
+    "dateCreated": "2024-06-11T12:43:34.285+0000",
+    "cityStateCountry": "Bengaluru, Karnataka, India",
+    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/News-Publishing-Specialist_JREQ179009/apply",
+    "location": "Bengaluru, Karnataka, India",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "This person decides which stories are presented to a financial client base that trades and invests on this news. The role involves working across different shifts in Reuters\u2019 24x5 publishing operation...",
+      "descriptionTeaser_first200": "For this role, we're looking for a person who enjoys reading global news, and can discern the most important stories of the day. This person decides which stories are presented to a financial client base...",
+      "descriptionTeaser_keyword": "For this role, we're looking for a person who enjoys reading global news, and can discern the most important stories of the day. This person decides which stories are presented to a financial client b...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 77.7120655,
+          "lat": 12.9743998
+        },
+        "location": "Bengaluru, Karnataka, India"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Gdansk",
+    "country": "Poland",
+    "ml_skills": [
+      "commerce",
+      "french",
+      "ukrainian",
+      "portuguese",
+      "german",
+      "italian",
+      "arabic",
+      "dutch"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Ability to work with minimal supervision. Create timely alerts by summarizing regulatory documents and translating non-English language content into English where necessary. Responsible and mature app...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "18.5752702",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ179662",
+    "jobId": "JREQ179662",
+    "city": "Gdansk",
+    "latitude": "54.4004235",
+    "locale": "en_US",
+    "multi_location": [
+      "Gdansk, Poland"
+    ],
+    "title": "Content Editor with German or Arabic",
+    "jobSeqNo": "THTTRUUSJREQ179662EXTERNALENUS",
+    "postedDate": "2024-07-09T00:00:00.000+0000",
+    "dateCreated": "2024-06-04T08:39:23.886+0000",
+    "cityStateCountry": "Gdansk, Poland",
+    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/Content-Editor-with-German-or-Arabic_JREQ179662/apply",
+    "location": "Gdansk, Poland",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Ability to work with minimal supervision. Create timely alerts by summarizing regulatory documents and translating non-English language content into English where necessary. Responsible and mature app...",
+      "descriptionTeaser_first200": "We welcome applications to our full-time vacancies from all citizens who have been granted protection within the territory of the Republic of Poland under the EU Temporary Protection Directive*. Thomson...",
+      "descriptionTeaser_keyword": "We welcome applications to our full-time vacancies from all citizens who have been granted protection within the territory of the Republic of Poland under the EU Temporary Protection Directive*. Thoms...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 18.5752702,
+          "lat": 54.4004235
+        },
+        "location": "Gdansk, Poland"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Beijing, Beijing",
     "country": "China",
     "ml_skills": [
@@ -2954,74 +3089,6 @@
     "badge": ""
   },
   {
-    "cityState": "Gdansk",
-    "country": "Poland",
-    "ml_skills": [
-      "commerce",
-      "french",
-      "ukrainian",
-      "portuguese",
-      "german",
-      "italian",
-      "arabic",
-      "dutch"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Ability to work with minimal supervision. Create timely alerts by summarizing regulatory documents and translating non-English language content into English where necessary. Responsible and mature app...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "18.5752702",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ179662",
-    "jobId": "JREQ179662",
-    "city": "Gdansk",
-    "latitude": "54.4004235",
-    "locale": "en_US",
-    "multi_location": [
-      "Gdansk, Poland"
-    ],
-    "title": "Content Editor with German or Arabic",
-    "jobSeqNo": "THTTRUUSJREQ179662EXTERNALENUS",
-    "postedDate": "2024-06-13T00:00:00.000+0000",
-    "dateCreated": "2024-06-04T08:39:23.886+0000",
-    "cityStateCountry": "Gdansk, Poland",
-    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/Content-Editor-with-German-or-Arabic_JREQ179662/apply",
-    "location": "Gdansk, Poland",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Ability to work with minimal supervision. Create timely alerts by summarizing regulatory documents and translating non-English language content into English where necessary. Responsible and mature app...",
-      "descriptionTeaser_first200": "We welcome applications to our full-time vacancies from all citizens who have been granted protection within the territory of the Republic of Poland under the EU Temporary Protection Directive*. Thomson...",
-      "descriptionTeaser_keyword": "We welcome applications to our full-time vacancies from all citizens who have been granted protection within the territory of the Republic of Poland under the EU Temporary Protection Directive*. Thoms...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 18.5752702,
-          "lat": 54.4004235
-        },
-        "location": "Gdansk, Poland"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Manila",
     "country": "Philippines",
     "ml_skills": [
@@ -3147,139 +3214,6 @@
           "lat": 38.9004793
         },
         "location": "Washington, District of Columbia, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Bengaluru, Karnataka",
-    "country": "India",
-    "ml_skills": [
-      "video editing",
-      "digital video",
-      "digital video management",
-      "digital video production",
-      "multimedia",
-      "closed captioning"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "You will supervise a small team of curators tasked with organizing and optimizing the video content on our digital sites and external streaming services. Help supervise a small team making it easier f...",
-    "state": "Karnataka",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "77.7120655",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ178966",
-    "jobId": "JREQ178966",
-    "city": "Bengaluru",
-    "latitude": "12.9743998",
-    "locale": "en_US",
-    "multi_location": [
-      "Bengaluru, Karnataka, India"
-    ],
-    "title": "Digital Video Curation Deputy Editor",
-    "jobSeqNo": "THTTRUUSJREQ178966EXTERNALENUS",
-    "postedDate": "2024-06-12T00:00:00.000+0000",
-    "dateCreated": "2024-06-12T12:41:44.809+0000",
-    "cityStateCountry": "Bengaluru, Karnataka, India",
-    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/Digital-Video-Curation-Deputy-Editor_JREQ178966/apply",
-    "location": "Bengaluru, Karnataka, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "You will supervise a small team of curators tasked with organizing and optimizing the video content on our digital sites and external streaming services. Help supervise a small team making it easier f...",
-      "descriptionTeaser_first200": "Digital Video Curation Deputy Editor. Reuters is looking for an experienced manager to run our new video curation team in Bangalore. You will supervise a small team of curators tasked with organizing...",
-      "descriptionTeaser_keyword": "Digital Video Curation Deputy Editor. Reuters is looking for an experienced manager to run our new video curation team in Bangalore. You will supervise a small team of curators tasked with organizing...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 77.7120655,
-          "lat": 12.9743998
-        },
-        "location": "Bengaluru, Karnataka, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Bengaluru, Karnataka",
-    "country": "India",
-    "ml_skills": [
-      "journalism",
-      "publishing",
-      "newsletters",
-      "multimedia",
-      "mass communication",
-      "geography",
-      "curating"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "This person decides which stories are presented to a financial client base that trades and invests on this news. The role involves working across different shifts in Reuters\u2019 24x5 publishing operation...",
-    "state": "Karnataka",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "77.7120655",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ179009",
-    "jobId": "JREQ179009",
-    "city": "Bengaluru",
-    "latitude": "12.9743998",
-    "locale": "en_US",
-    "multi_location": [
-      "Bengaluru, Karnataka, India"
-    ],
-    "title": "News Publishing Specialist",
-    "jobSeqNo": "THTTRUUSJREQ179009EXTERNALENUS",
-    "postedDate": "2024-06-11T00:00:00.000+0000",
-    "dateCreated": "2024-06-11T12:43:34.285+0000",
-    "cityStateCountry": "Bengaluru, Karnataka, India",
-    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/News-Publishing-Specialist_JREQ179009/apply",
-    "location": "Bengaluru, Karnataka, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "This person decides which stories are presented to a financial client base that trades and invests on this news. The role involves working across different shifts in Reuters\u2019 24x5 publishing operation...",
-      "descriptionTeaser_first200": "For this role, we're looking for a person who enjoys reading global news, and can discern the most important stories of the day. This person decides which stories are presented to a financial client base...",
-      "descriptionTeaser_keyword": "For this role, we're looking for a person who enjoys reading global news, and can discern the most important stories of the day. This person decides which stories are presented to a financial client b...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 77.7120655,
-          "lat": 12.9743998
-        },
-        "location": "Bengaluru, Karnataka, India"
       }
     ],
     "isMultiCategory": true,
