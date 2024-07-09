@@ -1,65 +1,5 @@
 [
   {
-    "cityState": "Frisco, Texas",
-    "country": "United States of America",
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Associate Editor, Practical LawPractical Law is looking for an Associate Editor to work in conjunction with more experienced colleagues to interpret and explain legal, practice, and market development",
-    "state": "Texas",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-96.833545",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ178900",
-    "jobId": "JREQ178900",
-    "city": "Frisco",
-    "latitude": "33.1073049",
-    "locale": "en_US",
-    "multi_location": [
-      "Frisco, Texas, United States of America",
-      "Eagan, Minnesota, United States of America"
-    ],
-    "title": "Associate Editor, Practical Law",
-    "jobSeqNo": "THTTRUUSJREQ178900EXTERNALENUS",
-    "postedDate": "2024-07-08T00:00:00.000+0000",
-    "dateCreated": "2024-07-08T20:41:25.393+0000",
-    "cityStateCountry": "Frisco, Texas, United States of America",
-    "address": "6160 Warren Parkway, Frisco, TX 75034, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Frisco-6160-Warren-Parkway/Associate-Editor--Practical-Law_JREQ178900/apply",
-    "location": "Frisco, Texas, United States of America",
-    "category": "News & Editorial Careers",
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -96.833545,
-          "lat": 33.1073049
-        },
-        "location": "Frisco, Texas, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -93.11336709999999,
-          "lat": 44.8250902
-        },
-        "location": "Eagan, Minnesota, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Beijing, Beijing",
     "country": "China",
     "ml_skills": [
@@ -284,6 +224,85 @@
           "lat": 33.1073049
         },
         "location": "Frisco, Texas, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Frisco, Texas",
+    "country": "United States of America",
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Up to 2 years' experience practicing as an attorney in a law firm and/or corporate law department or working in a Legal/Publishing environment, using technology to create and disseminate online conten...",
+    "state": "Texas",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-96.833545",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ178900",
+    "jobId": "JREQ178900",
+    "city": "Frisco",
+    "latitude": "33.1073049",
+    "locale": "en_US",
+    "multi_location": [
+      "Frisco, Texas, United States of America",
+      "Eagan, Minnesota, United States of America"
+    ],
+    "title": "Associate Editor, Practical Law",
+    "jobSeqNo": "THTTRUUSJREQ178900EXTERNALENUS",
+    "postedDate": "2024-07-08T00:00:00.000+0000",
+    "dateCreated": "2024-07-08T20:41:25.393+0000",
+    "cityStateCountry": "Frisco, Texas, United States of America",
+    "address": "6160 Warren Parkway, Frisco, TX 75034, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Frisco-6160-Warren-Parkway/Associate-Editor--Practical-Law_JREQ178900/apply",
+    "location": "Frisco, Texas, United States of America",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "ml_skills": [
+      "publishing",
+      "justice",
+      "litigation",
+      "corporate law",
+      "technical drafting",
+      "commerce",
+      "editing",
+      "grammar",
+      "agile",
+      "technical support",
+      "microsoft office applications"
+    ],
+    "ml_job_parser": {
+      "descriptionTeaser": "Up to 2 years' experience practicing as an attorney in a law firm and/or corporate law department or working in a Legal/Publishing environment, using technology to create and disseminate online conten...",
+      "descriptionTeaser_keyword": "Associate Editor, Practical Law. Practical Law is looking for an Associate Editor to work in conjunction with more experienced colleagues to interpret and explain legal, practice, and market developme...",
+      "descriptionTeaser_ats": "",
+      "descriptionTeaser_first200": "Associate Editor, Practical Law. Practical Law is looking for an Associate Editor to work in conjunction with more experienced colleagues to interpret and explain legal, practice, and market developments..."
+    },
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -96.833545,
+          "lat": 33.1073049
+        },
+        "location": "Frisco, Texas, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -93.11336709999999,
+          "lat": 44.8250902
+        },
+        "location": "Eagan, Minnesota, United States of America"
       }
     ],
     "isMultiCategory": true,
