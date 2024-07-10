@@ -1,72 +1,5 @@
 [
   {
-    "cityState": "Manila",
-    "country": "Philippines",
-    "ml_skills": [
-      "publishing",
-      "justice",
-      "legal research",
-      "word processing",
-      "commerce",
-      "microsoft 365",
-      "product lines"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Provide legal interpretation through analysis and research to develop and review content for customers. Our industry-leading products and services include highly specialized information-enabled softwa...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "121.0520086",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ179914",
-    "jobId": "JREQ179914",
-    "city": "Manila",
-    "latitude": "14.5344436",
-    "locale": "en_US",
-    "multi_location": [
-      "Manila, Philippines"
-    ],
-    "title": "Attorney Editor",
-    "jobSeqNo": "THTTRUUSJREQ179914EXTERNALENUS",
-    "postedDate": "2024-07-09T00:00:00.000+0000",
-    "dateCreated": "2024-07-09T08:40:40.349+0000",
-    "cityStateCountry": "Manila, Philippines",
-    "address": "20 Upper McKinley Building, Upper McKinley Road, McKinley Hill, Manila, 1634, Philippines",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/PHL-Taguig-20-Upper-McKinley-Bldg/Attorney-Editor_JREQ179914/apply",
-    "location": "Manila, Philippines",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Provide legal interpretation through analysis and research to develop and review content for customers. Our industry-leading products and services include highly specialized information-enabled softwa...",
-      "descriptionTeaser_first200": "Attorney Editor, Product - Research. Global Codes Attorney Editors are responsible for validating and directing the review and publishing of United States content updates for their assigned jurisdictions...",
-      "descriptionTeaser_keyword": "Attorney Editor, Product - Research. Global Codes Attorney Editors are responsible for validating and directing the review and publishing of United States content updates for their assigned jurisdicti...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 121.0520086,
-          "lat": 14.5344436
-        },
-        "location": "Manila, Philippines"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Bengaluru, Karnataka",
     "country": "India",
     "ml_skills": [
@@ -191,6 +124,125 @@
           "lat": 54.4004235
         },
         "location": "Gdansk, Poland"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Manila",
+    "country": "Philippines",
+    "ml_skills": [
+      "publishing",
+      "justice",
+      "legal research",
+      "word processing",
+      "commerce",
+      "microsoft 365",
+      "product lines"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Provide legal interpretation through analysis and research to develop and review content for customers. Our industry-leading products and services include highly specialized information-enabled softwa...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "121.0520086",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ179914",
+    "jobId": "JREQ179914",
+    "city": "Manila",
+    "latitude": "14.5344436",
+    "locale": "en_US",
+    "multi_location": [
+      "Manila, Philippines"
+    ],
+    "title": "Attorney Editor",
+    "jobSeqNo": "THTTRUUSJREQ179914EXTERNALENUS",
+    "postedDate": "2024-07-09T00:00:00.000+0000",
+    "dateCreated": "2024-07-09T08:40:40.349+0000",
+    "cityStateCountry": "Manila, Philippines",
+    "address": "20 Upper McKinley Building, Upper McKinley Road, McKinley Hill, Manila, 1634, Philippines",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/PHL-Taguig-20-Upper-McKinley-Bldg/Attorney-Editor_JREQ179914/apply",
+    "location": "Manila, Philippines",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Provide legal interpretation through analysis and research to develop and review content for customers. Our industry-leading products and services include highly specialized information-enabled softwa...",
+      "descriptionTeaser_first200": "Attorney Editor, Product - Research. Global Codes Attorney Editors are responsible for validating and directing the review and publishing of United States content updates for their assigned jurisdictions...",
+      "descriptionTeaser_keyword": "Attorney Editor, Product - Research. Global Codes Attorney Editors are responsible for validating and directing the review and publishing of United States content updates for their assigned jurisdicti...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 121.0520086,
+          "lat": 14.5344436
+        },
+        "location": "Manila, Philippines"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Eagan, Minnesota",
+    "country": "United States of America",
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "We are looking for a Senior Legal Content Editor to lead content strategy for Abogado.com, a leading Spanish-language legal information website. This position manages the creation and optimization of ",
+    "state": "Minnesota",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-93.10808019999999",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ180384",
+    "jobId": "JREQ180384",
+    "city": "Eagan",
+    "latitude": "44.8527611",
+    "locale": "en_US",
+    "multi_location": [
+      "Eagan, Minnesota, United States of America"
+    ],
+    "title": "Senior Legal Content Editor - Abogado.com",
+    "jobSeqNo": "THTTRUUSJREQ180384EXTERNALENUS",
+    "postedDate": "2024-07-09T00:00:00.000+0000",
+    "dateCreated": "2024-07-09T20:41:01.196+0000",
+    "cityStateCountry": "Eagan, Minnesota, United States of America",
+    "address": "2900 Ames Crossing Road, Ste 100, Eagan, MN 55121, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MSP-2900-Ames-Crossing-Road/Senior-Legal-Content-Editor---Abogadocom_JREQ180384/apply",
+    "location": "Eagan, Minnesota, United States of America",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -93.10808019999999,
+          "lat": 44.8527611
+        },
+        "location": "Eagan, Minnesota, United States of America"
       }
     ],
     "isMultiCategory": true,
