@@ -125,6 +125,75 @@
     "badge": ""
   },
   {
+    "cityState": "Eagan, Minnesota",
+    "country": "United States of America",
+    "ml_skills": [
+      "publishing",
+      "commerce",
+      "editing",
+      "content delivery",
+      "corporate tax",
+      "auditing",
+      "justice",
+      "estate planning",
+      "leadership development"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Creates and maintains premium intelligent practice oriented and analytical information and new products for tax, legal, accounting, and other specialized professionals through research, analysis, edit...",
+    "state": "Minnesota",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-93.10808019999999",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ178974",
+    "jobId": "JREQ178974",
+    "city": "Eagan",
+    "latitude": "44.8527611",
+    "locale": "en_US",
+    "multi_location": [
+      "Eagan, Minnesota, United States of America"
+    ],
+    "title": "Tax Journal Editor",
+    "jobSeqNo": "THTTRUUSJREQ178974EXTERNALENUS",
+    "postedDate": "2024-07-10T00:00:00.000+0000",
+    "dateCreated": "2024-05-30T20:39:41.356+0000",
+    "cityStateCountry": "Eagan, Minnesota, United States of America",
+    "address": "2900 Ames Crossing Road, Ste 100, Eagan, MN 55121, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MSP-2900-Ames-Crossing-Road/Tax-Journal-Editor_JREQ178974/apply",
+    "location": "Eagan, Minnesota, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Creates and maintains premium intelligent practice oriented and analytical information and new products for tax, legal, accounting, and other specialized professionals through research, analysis, edit...",
+      "descriptionTeaser_first200": "Job Description. Tax Journal Editor. Creates and maintains premium intelligent practice oriented and analytical information and new products for tax, legal, accounting, and other specialized professionals...",
+      "descriptionTeaser_keyword": "Job Description. Tax Journal Editor. Creates and maintains premium intelligent practice oriented and analytical information and new products for tax, legal, accounting, and other specialized professio...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -93.10808019999999,
+          "lat": 44.8527611
+        },
+        "location": "Eagan, Minnesota, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Bengaluru, Karnataka",
     "country": "India",
     "ml_skills": [
@@ -1907,75 +1976,6 @@
           "lat": 34.1642783
         },
         "location": "North Hollywood, California, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Eagan, Minnesota",
-    "country": "United States of America",
-    "ml_skills": [
-      "publishing",
-      "commerce",
-      "editing",
-      "content delivery",
-      "corporate tax",
-      "auditing",
-      "justice",
-      "estate planning",
-      "leadership development"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Creates and maintains premium intelligent practice oriented and analytical information and new products for tax, legal, accounting, and other specialized professionals through research, analysis, edit...",
-    "state": "Minnesota",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-93.10808019999999",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ178974",
-    "jobId": "JREQ178974",
-    "city": "Eagan",
-    "latitude": "44.8527611",
-    "locale": "en_US",
-    "multi_location": [
-      "Eagan, Minnesota, United States of America"
-    ],
-    "title": "Tax Journal Editor",
-    "jobSeqNo": "THTTRUUSJREQ178974EXTERNALENUS",
-    "postedDate": "2024-06-28T00:00:00.000+0000",
-    "dateCreated": "2024-05-30T20:39:41.356+0000",
-    "cityStateCountry": "Eagan, Minnesota, United States of America",
-    "address": "2900 Ames Crossing Road, Ste 100, Eagan, MN 55121, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MSP-2900-Ames-Crossing-Road/Tax-Journal-Editor_JREQ178974/apply",
-    "location": "Eagan, Minnesota, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Creates and maintains premium intelligent practice oriented and analytical information and new products for tax, legal, accounting, and other specialized professionals through research, analysis, edit...",
-      "descriptionTeaser_first200": "Job Description. Tax Journal Editor. Creates and maintains premium intelligent practice oriented and analytical information and new products for tax, legal, accounting, and other specialized professionals...",
-      "descriptionTeaser_keyword": "Job Description. Tax Journal Editor. Creates and maintains premium intelligent practice oriented and analytical information and new products for tax, legal, accounting, and other specialized professio...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -93.10808019999999,
-          "lat": 44.8527611
-        },
-        "location": "Eagan, Minnesota, United States of America"
       }
     ],
     "isMultiCategory": true,
