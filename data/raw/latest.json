@@ -328,110 +328,6 @@
     "badge": ""
   },
   {
-    "cityState": "London",
-    "country": "United Kingdom",
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Digital Producer, Reuters Packaged Video, LondonDo you want to be part of a team creating innovative video features, explainers and special reports for the world\u2019s largest international multimedia new",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-0.0185088",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ178696",
-    "jobId": "JREQ178696",
-    "city": "London",
-    "latitude": "51.5056439",
-    "locale": "en_US",
-    "multi_location": [
-      "London, United Kingdom"
-    ],
-    "title": "Digital Producer, Reuters Packaged Video",
-    "jobSeqNo": "THTTRUUSJREQ178696EXTERNALENUS",
-    "postedDate": "2024-07-15T00:00:00.000+0000",
-    "dateCreated": "2024-05-20T12:40:17.766+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Digital-Producer--Reuters-Packaged-Video_JREQ178696/apply",
-    "location": "London, United Kingdom",
-    "category": "News & Editorial Careers",
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -0.0185088,
-          "lat": 51.5056439
-        },
-        "location": "London, United Kingdom"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "New York, New York",
-    "country": "United States of America",
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "We are seeking a focused, driven journalist who is passionate about breaking news to join the New York energy team and cover the U.S. refining sector. This is an exciting time in the world\u2019s largest g",
-    "state": "New York",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-73.9866995",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ180718",
-    "jobId": "JREQ180718",
-    "city": "New York",
-    "latitude": "40.7566955",
-    "locale": "en_US",
-    "multi_location": [
-      "New York, New York, United States of America"
-    ],
-    "title": "Americas Refinery Reporter (Level 1 Journalist)",
-    "jobSeqNo": "THTTRUUSJREQ180718EXTERNALENUS",
-    "postedDate": "2024-07-15T00:00:00.000+0000",
-    "dateCreated": "2024-07-15T16:39:31.596+0000",
-    "cityStateCountry": "New York, New York, United States of America",
-    "address": "3 Times Square, New York, NY 10036, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-New-York-3-Times-Square/Americas-Refinery-Reporter--Level-1-Journalist-_JREQ180718/apply",
-    "location": "New York, New York, United States of America",
-    "category": "News & Editorial Careers",
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -73.9866995,
-          "lat": 40.7566955
-        },
-        "location": "New York, New York, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Washington, District of Columbia",
     "country": "United States of America",
     "ml_skills": [
@@ -609,6 +505,137 @@
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -73.9866995,
+          "lat": 40.7566955
+        },
+        "location": "New York, New York, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "London",
+    "country": "United Kingdom",
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Reuters is looking for digital producers with excellent video editing skills and experience creating video content for online and social platforms. Edit and deliver video content as directed by the te...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.0185088",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ178696",
+    "jobId": "JREQ178696",
+    "city": "London",
+    "latitude": "51.5056439",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom"
+    ],
+    "title": "Digital Producer, Reuters Packaged Video",
+    "jobSeqNo": "THTTRUUSJREQ178696EXTERNALENUS",
+    "postedDate": "2024-07-15T00:00:00.000+0000",
+    "dateCreated": "2024-05-20T12:40:17.766+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Digital-Producer--Reuters-Packaged-Video_JREQ178696/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "ml_skills": [
+      "video production",
+      "video editing",
+      "motion graphics",
+      "multimedia",
+      "visual storytelling"
+    ],
+    "ml_job_parser": {
+      "descriptionTeaser": "Reuters is looking for digital producers with excellent video editing skills and experience creating video content for online and social platforms. Edit and deliver video content as directed by the te...",
+      "descriptionTeaser_keyword": "Digital Producer, Reuters Packaged Video, London. Do you want to be part of a team creating innovative video features, explainers and special reports for the world\u2019s largest international multimedia n...",
+      "descriptionTeaser_ats": "",
+      "descriptionTeaser_first200": "Digital Producer, Reuters Packaged Video, London. Do you want to be part of a team creating innovative video features, explainers and special reports for the world\u2019s largest international multimedia news..."
+    },
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.0185088,
+          "lat": 51.5056439
+        },
+        "location": "London, United Kingdom"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "New York, New York",
+    "country": "United States of America",
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "This position is for somebody that can move effortlessly from breaking news to taking on long-term enterprise stories on trading plays, market trends and fundamentals, policy, and corporate strategy....",
+    "state": "New York",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-73.9866995",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ180718",
+    "jobId": "JREQ180718",
+    "city": "New York",
+    "latitude": "40.7566955",
+    "locale": "en_US",
+    "multi_location": [
+      "New York, New York, United States of America"
+    ],
+    "title": "Americas Refinery Reporter (Level 1 Journalist)",
+    "jobSeqNo": "THTTRUUSJREQ180718EXTERNALENUS",
+    "postedDate": "2024-07-15T00:00:00.000+0000",
+    "dateCreated": "2024-07-15T16:39:31.596+0000",
+    "cityStateCountry": "New York, New York, United States of America",
+    "address": "3 Times Square, New York, NY 10036, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-New-York-3-Times-Square/Americas-Refinery-Reporter--Level-1-Journalist-_JREQ180718/apply",
+    "location": "New York, New York, United States of America",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "ml_skills": [
+      "breaking news",
+      "journalism",
+      "publishing",
+      "multimedia",
+      "storytelling",
+      "corporate strategy"
+    ],
+    "ml_job_parser": {
+      "descriptionTeaser": "This position is for somebody that can move effortlessly from breaking news to taking on long-term enterprise stories on trading plays, market trends and fundamentals, policy, and corporate strategy....",
+      "descriptionTeaser_keyword": "We are seeking a focused, driven journalist who is passionate about breaking news to join the New York energy team and cover the U. S. refining sector. This is an exciting time in the world\u2019s largest...",
+      "descriptionTeaser_ats": "",
+      "descriptionTeaser_first200": "We are seeking a focused, driven journalist who is passionate about breaking news to join the New York energy team and cover the U.S. refining sector. This is an exciting time in the world\u2019s largest gasoline..."
+    },
     "isMultiLocation": true,
     "multi_location_array": [
       {
@@ -830,68 +857,6 @@
           "lat": 33.083351
         },
         "location": "Dallas, Texas, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "New York, New York",
-    "country": "United States of America",
-    "ml_skills": [
-      "breaking news",
-      "multimedia"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Lead and/or reinforce coverage of major news. Proven skill covering fast-breaking news. Demonstrated ability to multitask in a fast-moving, high-pressure environment. Our industry-leading products and...",
-    "state": "New York",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-73.9866995",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ180742",
-    "jobId": "JREQ180742",
-    "city": "New York",
-    "latitude": "40.7566955",
-    "locale": "en_US",
-    "multi_location": [
-      "New York, New York, United States of America"
-    ],
-    "title": "U.S. Health Insurance Reporter (Level 1 Journalist)",
-    "jobSeqNo": "THTTRUUSJREQ180742EXTERNALENUS",
-    "postedDate": "2024-07-11T00:00:00.000+0000",
-    "dateCreated": "2024-07-11T20:41:01.482+0000",
-    "cityStateCountry": "New York, New York, United States of America",
-    "address": "3 Times Square, New York, NY 10036, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-New-York-3-Times-Square/US-Health-Insurance-Reporter--Level-1-Journalist-_JREQ180742/apply",
-    "location": "New York, New York, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Lead and/or reinforce coverage of major news. Proven skill covering fast-breaking news. Demonstrated ability to multitask in a fast-moving, high-pressure environment. Our industry-leading products and...",
-      "descriptionTeaser_first200": "Reuters is looking for an ambitious U.S. Health Insurance Reporter to land scoops and agenda setting stories. The successful candidate will break news on an industry that is in the crosshairs of both...",
-      "descriptionTeaser_keyword": "Reuters is looking for an ambitious U. S. Health Insurance Reporter to land scoops and agenda setting stories. The successful candidate will break news on an industry that is in the crosshairs of both...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -73.9866995,
-          "lat": 40.7566955
-        },
-        "location": "New York, New York, United States of America"
       }
     ],
     "isMultiCategory": true,
