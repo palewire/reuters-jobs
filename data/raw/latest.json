@@ -89,6 +89,148 @@
     "badge": ""
   },
   {
+    "cityState": "Eagan, Minnesota",
+    "country": "United States of America",
+    "ml_skills": [
+      "justice",
+      "legal research",
+      "publishing",
+      "westlaw",
+      "word processing",
+      "commerce",
+      "analytical thinker",
+      "leadership development",
+      "navigation"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "In this role you will provide legal interpretation in the form of research, analysis, and writing to support the development and maintenance of Thomson Reuters Legal information in all media. In this...",
+    "state": "Minnesota",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-93.10808019999999",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ180920",
+    "jobId": "JREQ180920",
+    "city": "Eagan",
+    "latitude": "44.8527611",
+    "locale": "en_US",
+    "multi_location": [
+      "Eagan, Minnesota, United States of America"
+    ],
+    "title": "Attorney Editor",
+    "jobSeqNo": "THTTRUUSJREQ180920EXTERNALENUS",
+    "postedDate": "2024-07-17T00:00:00.000+0000",
+    "dateCreated": "2024-07-17T20:41:56.932+0000",
+    "cityStateCountry": "Eagan, Minnesota, United States of America",
+    "address": "2900 Ames Crossing Road, Ste 100, Eagan, MN 55121, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MSP-2900-Ames-Crossing-Road/Attorney-Editor_JREQ180920/apply",
+    "location": "Eagan, Minnesota, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "In this role you will provide legal interpretation in the form of research, analysis, and writing to support the development and maintenance of Thomson Reuters Legal information in all media. In this...",
+      "descriptionTeaser_first200": "In this role you will provide legal interpretation in the form of research, analysis, and writing to support the development and maintenance of Thomson Reuters Legal information in all media. Members...",
+      "descriptionTeaser_keyword": "In this role you will provide legal interpretation in the form of research, analysis, and writing to support the development and maintenance of Thomson Reuters Legal information in all media. Members...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -93.10808019999999,
+          "lat": 44.8527611
+        },
+        "location": "Eagan, Minnesota, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "San Francisco, California",
+    "country": "United States of America",
+    "ml_skills": [
+      "cybersecurity",
+      "english is",
+      "chinese",
+      "inter-personal",
+      "multimedia"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "The correspondent will also work on deeper investigations of different aspects of cybersecurity, shedding light on a world that mostly operates in the shadows and tracking the evolving policy response...",
+    "state": "California",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-122.3973037",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ180794",
+    "jobId": "JREQ180794",
+    "city": "San Francisco",
+    "latitude": "37.7940487",
+    "locale": "en_US",
+    "multi_location": [
+      "San Francisco, California, United States of America",
+      "Washington, District of Columbia, United States of America"
+    ],
+    "title": "Cybersecurity Correspondent (Level 1 Journalist)",
+    "jobSeqNo": "THTTRUUSJREQ180794EXTERNALENUS",
+    "postedDate": "2024-07-17T00:00:00.000+0000",
+    "dateCreated": "2024-07-17T20:41:56.934+0000",
+    "cityStateCountry": "San Francisco, California, United States of America",
+    "address": "50 California Street, 3rd Floor, San Francisco, CA 94111, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-San-Francisco-California-S/Cybersecurity-Correspondent--Level-1-Journalist-_JREQ180794/apply",
+    "location": "San Francisco, California, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "The correspondent will also work on deeper investigations of different aspects of cybersecurity, shedding light on a world that mostly operates in the shadows and tracking the evolving policy response...",
+      "descriptionTeaser_first200": "Reuters News is looking for an experienced and ambitious Cybersecurity Correspondent (Level 1 Journalist) in San Francisco. The successful candidate will have a track record of breaking news on the biggest...",
+      "descriptionTeaser_keyword": "Reuters News is looking for an experienced and ambitious Cybersecurity Correspondent (Level 1 Journalist) in San Francisco. The successful candidate will have a track record of breaking news on the bi...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -122.3973037,
+          "lat": 37.7940487
+        },
+        "location": "San Francisco, California, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -77.0311952,
+          "lat": 38.9004793
+        },
+        "location": "Washington, District of Columbia, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Toronto, Ontario",
     "country": "Canada",
     "ml_skills": [
@@ -2273,73 +2415,6 @@
     "badge": ""
   },
   {
-    "cityState": "Mexico City",
-    "country": "Mexico",
-    "ml_skills": [
-      "breaking news",
-      "photography",
-      "multimedia",
-      "multi-tasking under",
-      "metadata",
-      "artificial intelligence",
-      "open-source intelligence"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "You will be based in our Mexico newsroom and will collaborate with video, text and photography colleagues on major global stories \u2013 working on breaking news, personal insight stories, conflicts and in...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-99.1510899",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ180492",
-    "jobId": "JREQ180492",
-    "city": "Mexico City",
-    "latitude": "19.4343664",
-    "locale": "en_US",
-    "multi_location": [
-      "Mexico City, Mexico"
-    ],
-    "title": "Visual Verification & Newsgathering Producer",
-    "jobSeqNo": "THTTRUUSJREQ180492EXTERNALENUS",
-    "postedDate": "2024-07-04T00:00:00.000+0000",
-    "dateCreated": "2024-07-05T00:41:35.194+0000",
-    "cityStateCountry": "Mexico City, Mexico",
-    "address": "Av. Paseo de la Reforma #26, Floor 36th, Colonia Ju\u00e1rez, Cuauht\u00e9moc, 06600 Mexico City, Mexico",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/MEX-Distrito-Federal-Reforma-26/Visual-Verification---Newsgathering-Producer_JREQ180492/apply",
-    "location": "Mexico City, Mexico",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "You will be based in our Mexico newsroom and will collaborate with video, text and photography colleagues on major global stories \u2013 working on breaking news, personal insight stories, conflicts and in...",
-      "descriptionTeaser_first200": "Visual Verification & Newsgathering Producer. Are you passionate about the chance to bring your experience to a world-class company that is market-leading for both content and technology? If yes, we are...",
-      "descriptionTeaser_keyword": "Visual Verification & Newsgathering Producer. Are you passionate about the chance to bring your experience to a world-class company that is market-leading for both content and technology? If yes, we a...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -99.1510899,
-          "lat": 19.4343664
-        },
-        "location": "Mexico City, Mexico"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "London",
     "country": "United Kingdom",
     "ml_skills": [
@@ -2518,6 +2593,73 @@
           "lat": 51.5056439
         },
         "location": "London, United Kingdom"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Mexico City",
+    "country": "Mexico",
+    "ml_skills": [
+      "breaking news",
+      "photography",
+      "multimedia",
+      "multi-tasking under",
+      "metadata",
+      "artificial intelligence",
+      "open-source intelligence"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "You will be based in our Mexico newsroom and will collaborate with video, text and photography colleagues on major global stories \u2013 working on breaking news, personal insight stories, conflicts and in...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-99.1510899",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ180492",
+    "jobId": "JREQ180492",
+    "city": "Mexico City",
+    "latitude": "19.4343664",
+    "locale": "en_US",
+    "multi_location": [
+      "Mexico City, Mexico"
+    ],
+    "title": "Visual Verification & Newsgathering Producer",
+    "jobSeqNo": "THTTRUUSJREQ180492EXTERNALENUS",
+    "postedDate": "2024-07-04T00:00:00.000+0000",
+    "dateCreated": "2024-07-05T00:41:35.194+0000",
+    "cityStateCountry": "Mexico City, Mexico",
+    "address": "Av. Paseo de la Reforma #26, Floor 36th, Colonia Ju\u00e1rez, Cuauht\u00e9moc, 06600 Mexico City, Mexico",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/MEX-Distrito-Federal-Reforma-26/Visual-Verification---Newsgathering-Producer_JREQ180492/apply",
+    "location": "Mexico City, Mexico",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "You will be based in our Mexico newsroom and will collaborate with video, text and photography colleagues on major global stories \u2013 working on breaking news, personal insight stories, conflicts and in...",
+      "descriptionTeaser_first200": "Visual Verification & Newsgathering Producer. Are you passionate about the chance to bring your experience to a world-class company that is market-leading for both content and technology? If yes, we are...",
+      "descriptionTeaser_keyword": "Visual Verification & Newsgathering Producer. Are you passionate about the chance to bring your experience to a world-class company that is market-leading for both content and technology? If yes, we a...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -99.1510899,
+          "lat": 19.4343664
+        },
+        "location": "Mexico City, Mexico"
       }
     ],
     "isMultiCategory": true,
@@ -3471,71 +3613,6 @@
           "lat": 43.6480117
         },
         "location": "Toronto, Ontario, Canada"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "New York, New York",
-    "country": "United States of America",
-    "remote": "Remote",
-    "type": "Full time",
-    "descriptionTeaser": "The ideal candidate will be able to apply their knowledge of financial markets and products to analyze content and identify opportunities for improvement. Effective communication skills (written & ver...",
-    "state": "New York",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-73.9866995",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ179306",
-    "jobId": "JREQ179306",
-    "city": "New York",
-    "latitude": "40.7566955",
-    "locale": "en_US",
-    "multi_location": [
-      "New York, New York, United States of America"
-    ],
-    "title": "Content Enrichment Specialist",
-    "jobSeqNo": "THTTRUUSJREQ179306EXTERNALENUS",
-    "postedDate": "2024-06-26T00:00:00.000+0000",
-    "dateCreated": "2024-06-26T20:43:19.907+0000",
-    "cityStateCountry": "New York, New York, United States of America",
-    "address": "3 Times Square, New York, NY 10036, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-New-York-3-Times-Square/Content-Enrichment-Specialist_JREQ179306/apply",
-    "location": "New York, New York, United States of America",
-    "category": "News & Editorial Careers",
-    "externalApply": true,
-    "ml_skills": [
-      "journalism",
-      "commerce",
-      "research skills",
-      "justice",
-      "microsoft office suite applications"
-    ],
-    "ml_job_parser": {
-      "descriptionTeaser": "The ideal candidate will be able to apply their knowledge of financial markets and products to analyze content and identify opportunities for improvement. Effective communication skills (written & ver...",
-      "descriptionTeaser_keyword": "Job Summary. The ideal candidate will be able to apply their knowledge of financial markets and products to analyze content and identify opportunities for improvement. The successful candidate should...",
-      "descriptionTeaser_ats": "",
-      "descriptionTeaser_first200": "Job Summary. The ideal candidate will be able to apply their knowledge of financial markets and products to analyze content and identify opportunities for improvement. The successful candidate should..."
-    },
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -73.9866995,
-          "lat": 40.7566955
-        },
-        "location": "New York, New York, United States of America"
       }
     ],
     "isMultiCategory": true,
