@@ -4103,72 +4103,6 @@
     "badge": ""
   },
   {
-    "cityState": "Hyderabad, Telangana",
-    "country": "India",
-    "ml_skills": [
-      "commerce",
-      "microsoft office applications",
-      "justice",
-      "pagination",
-      "quality control",
-      "checkpoint"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Tax & Accounting Publisher, Tax & Accounting Editorial. Working with fellow publishers in Hyderabad and the US Editorial team under the organization and supervision of a Hyderabad-based Manager, you w...",
-    "state": "Telangana",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "78.3847282",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ177895",
-    "jobId": "JREQ177895",
-    "city": "Hyderabad",
-    "latitude": "17.438325",
-    "locale": "en_US",
-    "multi_location": [
-      "Hyderabad, Telangana, India"
-    ],
-    "title": "Publishing Editorial in US Tax & Accounting (3-6 years)",
-    "jobSeqNo": "THTTRUUSJREQ177895EXTERNALENUS",
-    "postedDate": "2024-06-25T00:00:00.000+0000",
-    "dateCreated": "2024-04-05T16:40:00.052+0000",
-    "cityStateCountry": "Hyderabad, Telangana, India",
-    "address": "Floor 12, 13 & 14, Building 11, Raheja Mindspace, Madhapur, Hyderabad- 500081, Telangana, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Hyderabad-Raheja-Mindspace/Editorials_JREQ177895/apply",
-    "location": "Hyderabad, Telangana, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Tax & Accounting Publisher, Tax & Accounting Editorial. Working with fellow publishers in Hyderabad and the US Editorial team under the organization and supervision of a Hyderabad-based Manager, you w...",
-      "descriptionTeaser_first200": "Tax & Accounting Publisher, Tax & Accounting Editorial. Do you want to join a team who is striving to simplify complex tax and accounting topics for our customers? Then this role may be for you. Checkpoint...",
-      "descriptionTeaser_keyword": "Tax & Accounting Publisher, Tax & Accounting Editorial. Do you want to join a team who is striving to simplify complex tax and accounting topics for our customers? Then this role may be for you. Check...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 78.3847282,
-          "lat": 17.438325
-        },
-        "location": "Hyderabad, Telangana, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Gdansk",
     "country": "Poland",
     "remote": "Hybrid",
@@ -4227,6 +4161,72 @@
           "lat": 54.4004235
         },
         "location": "Gdansk, Poland"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Hyderabad, Telangana",
+    "country": "India",
+    "ml_skills": [
+      "commerce",
+      "microsoft office applications",
+      "justice",
+      "pagination",
+      "quality control",
+      "checkpoint"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Tax & Accounting Publisher, Tax & Accounting Editorial. Working with fellow publishers in Hyderabad and the US Editorial team under the organization and supervision of a Hyderabad-based Manager, you w...",
+    "state": "Telangana",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "78.3847282",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ177895",
+    "jobId": "JREQ177895",
+    "city": "Hyderabad",
+    "latitude": "17.438325",
+    "locale": "en_US",
+    "multi_location": [
+      "Hyderabad, Telangana, India"
+    ],
+    "title": "Publishing Editorial in US Tax & Accounting (3-6 years)",
+    "jobSeqNo": "THTTRUUSJREQ177895EXTERNALENUS",
+    "postedDate": "2024-06-25T00:00:00.000+0000",
+    "dateCreated": "2024-04-05T16:40:00.052+0000",
+    "cityStateCountry": "Hyderabad, Telangana, India",
+    "address": "Floor 12, 13 & 14, Building 11, Raheja Mindspace, Madhapur, Hyderabad- 500081, Telangana, India",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Hyderabad-Raheja-Mindspace/Editorials_JREQ177895/apply",
+    "location": "Hyderabad, Telangana, India",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Tax & Accounting Publisher, Tax & Accounting Editorial. Working with fellow publishers in Hyderabad and the US Editorial team under the organization and supervision of a Hyderabad-based Manager, you w...",
+      "descriptionTeaser_first200": "Tax & Accounting Publisher, Tax & Accounting Editorial. Do you want to join a team who is striving to simplify complex tax and accounting topics for our customers? Then this role may be for you. Checkpoint...",
+      "descriptionTeaser_keyword": "Tax & Accounting Publisher, Tax & Accounting Editorial. Do you want to join a team who is striving to simplify complex tax and accounting topics for our customers? Then this role may be for you. Check...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 78.3847282,
+          "lat": 17.438325
+        },
+        "location": "Hyderabad, Telangana, India"
       }
     ],
     "isMultiCategory": true,
