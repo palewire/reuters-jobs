@@ -1,5 +1,72 @@
 [
   {
+    "cityState": "Hong Kong",
+    "country": "Hong Kong",
+    "ml_skills": [
+      "breaking news",
+      "written",
+      "mandarin",
+      "cantonese",
+      "multimedia",
+      "dynamics",
+      "financial markets"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "The role sits within the Asia breaking news team that handles the daily news file, from snaps to market reports, as well as stories aimed at media customers and consumers. This role requires a deep un...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "114.2168499",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ180951",
+    "jobId": "JREQ180951",
+    "city": "Hong Kong",
+    "latitude": "22.2876498",
+    "locale": "en_US",
+    "multi_location": [
+      "Hong Kong, Hong Kong"
+    ],
+    "title": "China Markets Correspondent",
+    "jobSeqNo": "THTTRUUSJREQ180951EXTERNALENUS",
+    "postedDate": "2024-07-19T00:00:00.000+0000",
+    "dateCreated": "2024-07-19T04:39:54.037+0000",
+    "cityStateCountry": "Hong Kong, Hong Kong",
+    "address": "15/F, 14 Taikoo Wan Road, Taikoo Shing, Hong Kong, Hong Kong",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/HKG-Taikoo-14-Taikoo-Wan-Road/China-Markets-Correspondent_JREQ180951/apply",
+    "location": "Hong Kong, Hong Kong",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "The role sits within the Asia breaking news team that handles the daily news file, from snaps to market reports, as well as stories aimed at media customers and consumers. This role requires a deep un...",
+      "descriptionTeaser_first200": "China Markets Correspondent. Reuters is looking for a journalist with great sources and ideas to cover China\u2019s markets from Hong Kong. The role sits within the Asia breaking news team that handles the...",
+      "descriptionTeaser_keyword": "China Markets Correspondent. Reuters is looking for a journalist with great sources and ideas to cover China\u2019s markets from Hong Kong. The role sits within the Asia breaking news team that handles the...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 114.2168499,
+          "lat": 22.2876498
+        },
+        "location": "Hong Kong, Hong Kong"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Gdansk",
     "country": "Poland",
     "ml_skills": [
@@ -339,58 +406,6 @@
   {
     "cityState": "Frisco, Texas",
     "country": "United States of America",
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Job DescriptionYou will participate in the design, development, and testing of our GoSystem Tax product using in-house development tools.\u00a0 In this role, you will collect, analyze, and prioritize requi",
-    "state": "Texas",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-96.833545",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ180865",
-    "jobId": "JREQ180865",
-    "city": "Frisco",
-    "latitude": "33.1073049",
-    "locale": "en_US",
-    "multi_location": [
-      "Frisco, Texas, United States of America"
-    ],
-    "title": "Senior Tax Analyst",
-    "jobSeqNo": "THTTRUUSJREQ180865EXTERNALENUS",
-    "postedDate": "2024-07-18T00:00:00.000+0000",
-    "dateCreated": "2024-07-18T16:39:57.277+0000",
-    "cityStateCountry": "Frisco, Texas, United States of America",
-    "address": "6160 Warren Parkway, Frisco, TX 75034, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Frisco-6160-Warren-Parkway/Senior-Tax-Analyst_JREQ180865/apply",
-    "location": "Frisco, Texas, United States of America",
-    "category": "News & Editorial Careers",
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -96.833545,
-          "lat": 33.1073049
-        },
-        "location": "Frisco, Texas, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Frisco, Texas",
-    "country": "United States of America",
     "ml_skills": [
       "tax accounting",
       "commerce",
@@ -438,6 +453,79 @@
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -96.833545,
+          "lat": 33.1073049
+        },
+        "location": "Frisco, Texas, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Frisco, Texas",
+    "country": "United States of America",
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Implement changes to our existing tax software products \u2013 For GoSystem, this would require basic programming skills with internal tools. 2-4 years of recent tax preparation experience or experience pr...",
+    "state": "Texas",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-96.833545",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ180865",
+    "jobId": "JREQ180865",
+    "city": "Frisco",
+    "latitude": "33.1073049",
+    "locale": "en_US",
+    "multi_location": [
+      "Frisco, Texas, United States of America"
+    ],
+    "title": "Senior Tax Analyst",
+    "jobSeqNo": "THTTRUUSJREQ180865EXTERNALENUS",
+    "postedDate": "2024-07-18T00:00:00.000+0000",
+    "dateCreated": "2024-07-18T16:39:57.277+0000",
+    "cityStateCountry": "Frisco, Texas, United States of America",
+    "address": "6160 Warren Parkway, Frisco, TX 75034, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Frisco-6160-Warren-Parkway/Senior-Tax-Analyst_JREQ180865/apply",
+    "location": "Frisco, Texas, United States of America",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "ml_skills": [
+      "ado",
+      "computer science",
+      "project management",
+      "checkpoint",
+      "tax software",
+      "xml",
+      "software development",
+      "tax preparation",
+      "state tax",
+      "software development information",
+      "income tax",
+      "certified public accountant",
+      "commerce"
+    ],
+    "ml_job_parser": {
+      "descriptionTeaser": "Implement changes to our existing tax software products \u2013 For GoSystem, this would require basic programming skills with internal tools. 2-4 years of recent tax preparation experience or experience pr...",
+      "descriptionTeaser_keyword": "Job Description. You will participate in the design, development, and testing of our GoSystem Tax product using in-house development tools. In this role, you will collect, analyze, and prioritize requ...",
+      "descriptionTeaser_ats": "",
+      "descriptionTeaser_first200": "Job Description. You will participate in the design, development, and testing of our GoSystem Tax product using in-house development tools. In this role, you will collect, analyze, and prioritize requirements..."
+    },
     "isMultiLocation": true,
     "multi_location_array": [
       {
@@ -6676,69 +6764,6 @@
       "descriptionTeaser": "You're a fit for the role of Multimedia News Producer if your background includes. Strong team player, good communication skills. Our industry-leading products and services include highly specialized...",
       "descriptionTeaser_first200": "Multimedia News Producer. Are you a journalist who desires to be part of a news production team that can reach millions of readers in a matter of seconds? Digital Desk at Reuters in Bangalore does exactly...",
       "descriptionTeaser_keyword": "Multimedia News Producer. Are you a journalist who desires to be part of a news production team that can reach millions of readers in a matter of seconds? Digital Desk at Reuters in Bangalore does exa...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 77.7120655,
-          "lat": 12.9743998
-        },
-        "location": "Bengaluru, Karnataka, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Bengaluru, Karnataka",
-    "country": "India",
-    "ml_skills": [
-      "context",
-      "transparency",
-      "investment decisions"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Adept at performing quickly under pressure as they work with reporters and news editors to produce compelling stories that appeal both to professional clients who rely on Reuters to help make investme...",
-    "state": "Karnataka",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "77.7120655",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ174175",
-    "jobId": "JREQ174175",
-    "city": "Bengaluru",
-    "latitude": "12.9743998",
-    "locale": "en_US",
-    "multi_location": [
-      "Bengaluru, Karnataka, India"
-    ],
-    "title": "Desk Editor",
-    "jobSeqNo": "THTTRUUSJREQ174175EXTERNALENUS",
-    "postedDate": "2024-02-01T00:00:00.000+0000",
-    "dateCreated": "2024-01-17T12:40:46.856+0000",
-    "cityStateCountry": "Bengaluru, Karnataka, India",
-    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/Desk-Editor_JREQ174175/apply",
-    "location": "Bengaluru, Karnataka, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Adept at performing quickly under pressure as they work with reporters and news editors to produce compelling stories that appeal both to professional clients who rely on Reuters to help make investme...",
-      "descriptionTeaser_first200": "Desk Editor, Reuters Bangalore. The Reuters Bangalore bureau, the largest Reuters news operation in the world, has set a global benchmark for producing real-time company and markets news at speed. The...",
-      "descriptionTeaser_keyword": "Desk Editor, Reuters Bangalore. The Reuters Bangalore bureau, the largest Reuters news operation in the world, has set a global benchmark for producing real-time company and markets news at speed. The...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
