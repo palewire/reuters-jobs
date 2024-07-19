@@ -389,6 +389,74 @@
     "badge": ""
   },
   {
+    "cityState": "Frisco, Texas",
+    "country": "United States of America",
+    "ml_skills": [
+      "tax accounting",
+      "commerce",
+      "tax law",
+      "justice",
+      "computer science",
+      "software development",
+      "operating systems",
+      "computer operating systems"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Depending on the nature of the project undertakes a combination of technical implementation and testing analyst tasks to understand customer and product needs in the context of internal & external req...",
+    "state": "Texas",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-96.833545",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ180926",
+    "jobId": "JREQ180926",
+    "city": "Frisco",
+    "latitude": "33.1073049",
+    "locale": "en_US",
+    "multi_location": [
+      "Frisco, Texas, United States of America"
+    ],
+    "title": "Tax Analyst",
+    "jobSeqNo": "THTTRUUSJREQ180926EXTERNALENUS",
+    "postedDate": "2024-07-18T00:00:00.000+0000",
+    "dateCreated": "2024-07-18T20:40:42.928+0000",
+    "cityStateCountry": "Frisco, Texas, United States of America",
+    "address": "6160 Warren Parkway, Frisco, TX 75034, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Frisco-6160-Warren-Parkway/Tax-Analyst_JREQ180926/apply",
+    "location": "Frisco, Texas, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Depending on the nature of the project undertakes a combination of technical implementation and testing analyst tasks to understand customer and product needs in the context of internal & external req...",
+      "descriptionTeaser_first200": "Summary. You will participate in the design, development, and testing of our GoSystem Tax using in-house development tools. In this role, you will collect, analyze, and prioritize requirements from various...",
+      "descriptionTeaser_keyword": "Summary. You will participate in the design, development, and testing of our GoSystem Tax using in-house development tools. In this role, you will collect, analyze, and prioritize requirements from va...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -96.833545,
+          "lat": 33.1073049
+        },
+        "location": "Frisco, Texas, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Eagan, Minnesota",
     "country": "United States of America",
     "ml_skills": [
@@ -620,68 +688,6 @@
     "badge": ""
   },
   {
-    "cityState": "Taipei, Taipei City",
-    "country": "Taiwan",
-    "ml_skills": [
-      "multimedia",
-      "mandarin"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Build sources among technology companies, their backers as well as policymakers to break news on company initiatives and the industry. Track key Taiwanese companies that are reshaping the global techn...",
-    "state": "Taipei City",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "121.5678798",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ180781",
-    "jobId": "JREQ180781",
-    "city": "Taipei",
-    "latitude": "25.0344547",
-    "locale": "en_US",
-    "multi_location": [
-      "Taipei, Taipei City, Taiwan"
-    ],
-    "title": "Technology Correspondent, Taiwan",
-    "jobSeqNo": "THTTRUUSJREQ180781EXTERNALENUS",
-    "postedDate": "2024-07-16T00:00:00.000+0000",
-    "dateCreated": "2024-07-16T08:40:58.294+0000",
-    "cityStateCountry": "Taipei, Taipei City, Taiwan",
-    "address": "26F., No.100, Songren Rd.,, Taipei, Taipei City 110, Taiwan",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/TWN-Taipei-100-Songren-Road/Technology-Correspondent--Taiwan_JREQ180781/apply",
-    "location": "Taipei, Taipei City, Taiwan",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Build sources among technology companies, their backers as well as policymakers to break news on company initiatives and the industry. Track key Taiwanese companies that are reshaping the global techn...",
-      "descriptionTeaser_first200": "Taiwan Technology Correspondent. Reuters is looking for an energetic and scoop-hungry journalist to cover technology from Taipei, where s/he will help strengthen our coverage of one of the world\u2019s most...",
-      "descriptionTeaser_keyword": "Taiwan Technology Correspondent. Reuters is looking for an energetic and scoop-hungry journalist to cover technology from Taipei, where s/he will help strengthen our coverage of one of the world\u2019s mos...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 121.5678798,
-          "lat": 25.0344547
-        },
-        "location": "Taipei, Taipei City, Taiwan"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Toronto, Ontario",
     "country": "Canada",
     "ml_skills": [
@@ -806,6 +812,68 @@
           "lat": 19.4343664
         },
         "location": "Mexico City, Mexico"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Taipei, Taipei City",
+    "country": "Taiwan",
+    "ml_skills": [
+      "multimedia",
+      "mandarin"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Build sources among technology companies, their backers as well as policymakers to break news on company initiatives and the industry. Track key Taiwanese companies that are reshaping the global techn...",
+    "state": "Taipei City",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "121.5678798",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ180781",
+    "jobId": "JREQ180781",
+    "city": "Taipei",
+    "latitude": "25.0344547",
+    "locale": "en_US",
+    "multi_location": [
+      "Taipei, Taipei City, Taiwan"
+    ],
+    "title": "Technology Correspondent, Taiwan",
+    "jobSeqNo": "THTTRUUSJREQ180781EXTERNALENUS",
+    "postedDate": "2024-07-16T00:00:00.000+0000",
+    "dateCreated": "2024-07-16T08:40:58.294+0000",
+    "cityStateCountry": "Taipei, Taipei City, Taiwan",
+    "address": "26F., No.100, Songren Rd.,, Taipei, Taipei City 110, Taiwan",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/TWN-Taipei-100-Songren-Road/Technology-Correspondent--Taiwan_JREQ180781/apply",
+    "location": "Taipei, Taipei City, Taiwan",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Build sources among technology companies, their backers as well as policymakers to break news on company initiatives and the industry. Track key Taiwanese companies that are reshaping the global techn...",
+      "descriptionTeaser_first200": "Taiwan Technology Correspondent. Reuters is looking for an energetic and scoop-hungry journalist to cover technology from Taipei, where s/he will help strengthen our coverage of one of the world\u2019s most...",
+      "descriptionTeaser_keyword": "Taiwan Technology Correspondent. Reuters is looking for an energetic and scoop-hungry journalist to cover technology from Taipei, where s/he will help strengthen our coverage of one of the world\u2019s mos...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 121.5678798,
+          "lat": 25.0344547
+        },
+        "location": "Taipei, Taipei City, Taiwan"
       }
     ],
     "isMultiCategory": true,
