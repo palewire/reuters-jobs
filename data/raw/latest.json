@@ -392,71 +392,6 @@
     "badge": ""
   },
   {
-    "cityState": "Toronto, Ontario",
-    "country": "Canada",
-    "ml_skills": [
-      "editing",
-      "breaking news",
-      "press releases",
-      "multimedia",
-      "beat reporting"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "The ideal candidates will have sound news judgment, a track record of producing sharp reporting on deadline and an appetite for covering stories across politics, policy and national affairs in the Uni...",
-    "state": "Ontario",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-79.3884094",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ180757",
-    "jobId": "JREQ180757",
-    "city": "Toronto",
-    "latitude": "43.6480117",
-    "locale": "en_US",
-    "multi_location": [
-      "Toronto, Ontario, Canada"
-    ],
-    "title": "Breaking News Correspondent (Level 1 Journalist)",
-    "jobSeqNo": "THTTRUUSJREQ180757EXTERNALENUS",
-    "postedDate": "2024-07-22T00:00:00.000+0000",
-    "dateCreated": "2024-07-22T16:38:23.103+0000",
-    "cityStateCountry": "Toronto, Ontario, Canada",
-    "address": "19 Duncan Street, Toronto, ON M5H 3H1, Canada",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CAN-Toronto-19-Duncan-Street/Breaking-News-Correspondent--Level-1-Journalist-_JREQ180757/apply",
-    "location": "Toronto, Ontario, Canada",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "The ideal candidates will have sound news judgment, a track record of producing sharp reporting on deadline and an appetite for covering stories across politics, policy and national affairs in the Uni...",
-      "descriptionTeaser_first200": "Reuters is seeking two Breaking News Correspondents to join its U.S.-Canada Breaking News Team covering some of the biggest political and general news stories, including the U.S. presidential election...",
-      "descriptionTeaser_keyword": "Reuters is seeking two Breaking News Correspondents to join its U. S. -Canada Breaking News Team covering some of the biggest political and general news stories, including the U. S. presidential elect...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -79.3884094,
-          "lat": 43.6480117
-        },
-        "location": "Toronto, Ontario, Canada"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "",
     "country": "South Africa",
     "ml_skills": [
@@ -511,6 +446,201 @@
           "lat": -26.1069543
         },
         "location": "South Africa"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Washington, District of Columbia",
+    "country": "United States of America",
+    "ml_skills": [
+      "multimedia",
+      "foreign policy"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Break news from sources in the U. Collaborate closely and work to confirm tips with other members of the foreign policy team, other reporters in Washington and Reuters bureaus around the world. At lea...",
+    "state": "District of Columbia",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-77.0311952",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ180847",
+    "jobId": "JREQ180847",
+    "city": "Washington",
+    "latitude": "38.9004793",
+    "locale": "en_US",
+    "multi_location": [
+      "Washington, District of Columbia, United States of America"
+    ],
+    "title": "National Security Correspondent (Level 1 Journalist)",
+    "jobSeqNo": "THTTRUUSJREQ180847EXTERNALENUS",
+    "postedDate": "2024-07-22T00:00:00.000+0000",
+    "dateCreated": "2024-07-22T20:38:45.310+0000",
+    "cityStateCountry": "Washington, District of Columbia, United States of America",
+    "address": "1333 H Street NW, Suite 500, Washington, DC 20005, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Washington-1333-H-Street-N/National-Security-Correspondent--Level-1-Journalist-_JREQ180847/apply",
+    "location": "Washington, District of Columbia, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Break news from sources in the U. Collaborate closely and work to confirm tips with other members of the foreign policy team, other reporters in Washington and Reuters bureaus around the world. At lea...",
+      "descriptionTeaser_first200": "Reuters is seeking an exceptional National Security Reporter (Level 1 Journalist) to work on the U.S. Foreign Policy team and report on the U.S. intelligence community, including the CIA, the Office of...",
+      "descriptionTeaser_keyword": "Reuters is seeking an exceptional National Security Reporter (Level 1 Journalist) to work on the U. S. Foreign Policy team and report on the U. S. intelligence community, including the CIA, the Office...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -77.0311952,
+          "lat": 38.9004793
+        },
+        "location": "Washington, District of Columbia, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Toronto, Ontario",
+    "country": "Canada",
+    "ml_skills": [
+      "editing",
+      "breaking news",
+      "press releases",
+      "multimedia",
+      "beat reporting"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "The ideal candidates will have sound news judgment, a track record of producing sharp reporting on deadline and an appetite for covering stories across politics, policy and national affairs in the Uni...",
+    "state": "Ontario",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-79.3884094",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ180757",
+    "jobId": "JREQ180757",
+    "city": "Toronto",
+    "latitude": "43.6480117",
+    "locale": "en_US",
+    "multi_location": [
+      "Toronto, Ontario, Canada"
+    ],
+    "title": "Breaking News Correspondent",
+    "jobSeqNo": "THTTRUUSJREQ180757EXTERNALENUS",
+    "postedDate": "2024-07-22T00:00:00.000+0000",
+    "dateCreated": "2024-07-22T16:38:23.103+0000",
+    "cityStateCountry": "Toronto, Ontario, Canada",
+    "address": "19 Duncan Street, Toronto, ON M5H 3H1, Canada",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CAN-Toronto-19-Duncan-Street/Breaking-News-Correspondent--Level-1-Journalist-_JREQ180757/apply",
+    "location": "Toronto, Ontario, Canada",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "The ideal candidates will have sound news judgment, a track record of producing sharp reporting on deadline and an appetite for covering stories across politics, policy and national affairs in the Uni...",
+      "descriptionTeaser_first200": "Reuters is seeking two Breaking News Correspondents to join its U.S.-Canada Breaking News Team covering some of the biggest political and general news stories, including the U.S. presidential election...",
+      "descriptionTeaser_keyword": "Reuters is seeking two Breaking News Correspondents to join its U. S. -Canada Breaking News Team covering some of the biggest political and general news stories, including the U. S. presidential elect...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -79.3884094,
+          "lat": 43.6480117
+        },
+        "location": "Toronto, Ontario, Canada"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Eagan, Minnesota",
+    "country": "United States of America",
+    "ml_skills": [
+      "content creation",
+      "blogs",
+      "regulatory compliance",
+      "synopsis",
+      "insurance regulatory",
+      "quality control",
+      "insurance industry",
+      "employee evaluation"
+    ],
+    "remote": "Remote",
+    "type": "Full time",
+    "descriptionTeaser": "The Senior Compliance Editor/Attorney Editor provides regulatory and compliance interpretation in the form of analysis, writing, and research, to support the acquisition and/or production of complianc...",
+    "state": "Minnesota",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-93.10808019999999",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ180583",
+    "jobId": "JREQ180583",
+    "city": "Eagan",
+    "latitude": "44.8527611",
+    "locale": "en_US",
+    "multi_location": [
+      "Eagan, Minnesota, United States of America"
+    ],
+    "title": "Senior Compliance Editor/Attorney Editor",
+    "jobSeqNo": "THTTRUUSJREQ180583EXTERNALENUS",
+    "postedDate": "2024-07-22T00:00:00.000+0000",
+    "dateCreated": "2024-07-22T20:38:45.313+0000",
+    "cityStateCountry": "Eagan, Minnesota, United States of America",
+    "address": "2900 Ames Crossing Road, Ste 100, Eagan, MN 55121, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MSP-2900-Ames-Crossing-Road/Senior-Compliance-Editor-Attorney-Editor_JREQ180583/apply",
+    "location": "Eagan, Minnesota, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "The Senior Compliance Editor/Attorney Editor provides regulatory and compliance interpretation in the form of analysis, writing, and research, to support the acquisition and/or production of complianc...",
+      "descriptionTeaser_first200": "The Compliance Editorial Team focuses on connecting our customers' business to the ever- changing regulatory environment. Our customers include compliance, audit, and legal functions in financial services,...",
+      "descriptionTeaser_keyword": "The Compliance Editorial Team focuses on connecting our customers' business to the ever- changing regulatory environment. Our customers include compliance, audit, and legal functions in financial serv...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -93.10808019999999,
+          "lat": 44.8527611
+        },
+        "location": "Eagan, Minnesota, United States of America"
       }
     ],
     "isMultiCategory": true,
@@ -2835,75 +2965,6 @@
     "badge": ""
   },
   {
-    "cityState": "Eagan, Minnesota",
-    "country": "United States of America",
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "This position manages the creation and optimization of articles, blog posts, videos, and other content, including assigning and overseeing the work of full-time and contract editors and writers. com a...",
-    "state": "Minnesota",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-93.10808019999999",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ180384",
-    "jobId": "JREQ180384",
-    "city": "Eagan",
-    "latitude": "44.8527611",
-    "locale": "en_US",
-    "multi_location": [
-      "Eagan, Minnesota, United States of America"
-    ],
-    "title": "Senior Legal Content Editor - Abogado.com",
-    "jobSeqNo": "THTTRUUSJREQ180384EXTERNALENUS",
-    "postedDate": "2024-07-09T00:00:00.000+0000",
-    "dateCreated": "2024-07-09T20:41:01.196+0000",
-    "cityStateCountry": "Eagan, Minnesota, United States of America",
-    "address": "2900 Ames Crossing Road, Ste 100, Eagan, MN 55121, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MSP-2900-Ames-Crossing-Road/Senior-Legal-Content-Editor---Abogadocom_JREQ180384/apply",
-    "location": "Eagan, Minnesota, United States of America",
-    "category": "News & Editorial Careers",
-    "externalApply": true,
-    "ml_skills": [
-      "grammar",
-      "seo",
-      "content creation",
-      "commerce",
-      "content strategy",
-      "justice",
-      "immigration",
-      "family law",
-      "criminal law"
-    ],
-    "ml_job_parser": {
-      "descriptionTeaser": "This position manages the creation and optimization of articles, blog posts, videos, and other content, including assigning and overseeing the work of full-time and contract editors and writers. com a...",
-      "descriptionTeaser_keyword": "We are looking for a Senior Legal Content Editor to lead content strategy for Abogado. com,. a leading Spanish-language legal information website. This position manages the creation and optimization o...",
-      "descriptionTeaser_ats": "",
-      "descriptionTeaser_first200": "We are looking for a Senior Legal Content Editor to lead content strategy for Abogado.com, . a leading Spanish-language legal information website. This position manages the creation and optimization of..."
-    },
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -93.10808019999999,
-          "lat": 44.8527611
-        },
-        "location": "Eagan, Minnesota, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Beijing, Beijing",
     "country": "China",
     "ml_skills": [
@@ -2956,93 +3017,6 @@
           "lat": 39.9515199
         },
         "location": "Beijing, Beijing, China"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Frisco, Texas",
-    "country": "United States of America",
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Develop and maintain bankruptcy and restructuring legal know-how content to be published on Practical Law\u2019s online services. Maintain current awareness and monitor legal developments and legal practic...",
-    "state": "Texas",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-96.833545",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ179765",
-    "jobId": "JREQ179765",
-    "city": "Frisco",
-    "latitude": "33.1073049",
-    "locale": "en_US",
-    "multi_location": [
-      "Frisco, Texas, United States of America",
-      "Ann Arbor, Michigan, United States of America",
-      "Eagan, Minnesota, United States of America"
-    ],
-    "title": "Senior Specialist Legal Editor, Bankruptcy & Restructuring",
-    "jobSeqNo": "THTTRUUSJREQ179765EXTERNALENUS",
-    "postedDate": "2024-07-08T00:00:00.000+0000",
-    "dateCreated": "2024-06-27T20:42:08.206+0000",
-    "cityStateCountry": "Frisco, Texas, United States of America",
-    "address": "6160 Warren Parkway, Frisco, TX 75034, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Frisco-6160-Warren-Parkway/Senior-Specialist-Legal-Editor--Bankruptcy_JREQ179765/apply",
-    "location": "Frisco, Texas, United States of America",
-    "category": "News & Editorial Careers",
-    "externalApply": true,
-    "ml_skills": [
-      "bankruptcy",
-      "litigation",
-      "bankruptcy code",
-      "corporate law",
-      "debt restructuring",
-      "technical drafting",
-      "continuing legal education",
-      "restructuring",
-      "grammar",
-      "technical support",
-      "advising clients"
-    ],
-    "ml_job_parser": {
-      "descriptionTeaser": "Develop and maintain bankruptcy and restructuring legal know-how content to be published on Practical Law\u2019s online services. Maintain current awareness and monitor legal developments and legal practic...",
-      "descriptionTeaser_keyword": "Senior Specialist Legal Editor, Bankruptcy & Restructuring. Role Summary. Practical Law is looking for a Bankruptcy Editor who has a passion for research and writing on legal topics to create attorney...",
-      "descriptionTeaser_ats": "",
-      "descriptionTeaser_first200": "Senior Specialist Legal Editor, Bankruptcy & Restructuring. Role Summary. Practical Law is looking for a Bankruptcy Editor who has a passion for research and writing on legal topics to create attorney-specific..."
-    },
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -96.833545,
-          "lat": 33.1073049
-        },
-        "location": "Frisco, Texas, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -83.7267835,
-          "lat": 42.1957259
-        },
-        "location": "Ann Arbor, Michigan, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -93.10808019999999,
-          "lat": 44.8527611
-        },
-        "location": "Eagan, Minnesota, United States of America"
       }
     ],
     "isMultiCategory": true,
@@ -3205,6 +3179,93 @@
         "latlong": {
           "lon": -93.11336709999999,
           "lat": 44.8250902
+        },
+        "location": "Eagan, Minnesota, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Frisco, Texas",
+    "country": "United States of America",
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Develop and maintain bankruptcy and restructuring legal know-how content to be published on Practical Law\u2019s online services. Maintain current awareness and monitor legal developments and legal practic...",
+    "state": "Texas",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-96.833545",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ179765",
+    "jobId": "JREQ179765",
+    "city": "Frisco",
+    "latitude": "33.1073049",
+    "locale": "en_US",
+    "multi_location": [
+      "Frisco, Texas, United States of America",
+      "Ann Arbor, Michigan, United States of America",
+      "Eagan, Minnesota, United States of America"
+    ],
+    "title": "Senior Specialist Legal Editor, Bankruptcy & Restructuring",
+    "jobSeqNo": "THTTRUUSJREQ179765EXTERNALENUS",
+    "postedDate": "2024-07-08T00:00:00.000+0000",
+    "dateCreated": "2024-06-27T20:42:08.206+0000",
+    "cityStateCountry": "Frisco, Texas, United States of America",
+    "address": "6160 Warren Parkway, Frisco, TX 75034, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Frisco-6160-Warren-Parkway/Senior-Specialist-Legal-Editor--Bankruptcy_JREQ179765/apply",
+    "location": "Frisco, Texas, United States of America",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "ml_skills": [
+      "bankruptcy",
+      "litigation",
+      "bankruptcy code",
+      "corporate law",
+      "debt restructuring",
+      "technical drafting",
+      "continuing legal education",
+      "restructuring",
+      "grammar",
+      "technical support",
+      "advising clients"
+    ],
+    "ml_job_parser": {
+      "descriptionTeaser": "Develop and maintain bankruptcy and restructuring legal know-how content to be published on Practical Law\u2019s online services. Maintain current awareness and monitor legal developments and legal practic...",
+      "descriptionTeaser_keyword": "Senior Specialist Legal Editor, Bankruptcy & Restructuring. Role Summary. Practical Law is looking for a Bankruptcy Editor who has a passion for research and writing on legal topics to create attorney...",
+      "descriptionTeaser_ats": "",
+      "descriptionTeaser_first200": "Senior Specialist Legal Editor, Bankruptcy & Restructuring. Role Summary. Practical Law is looking for a Bankruptcy Editor who has a passion for research and writing on legal topics to create attorney-specific..."
+    },
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -96.833545,
+          "lat": 33.1073049
+        },
+        "location": "Frisco, Texas, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -83.7267835,
+          "lat": 42.1957259
+        },
+        "location": "Ann Arbor, Michigan, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -93.10808019999999,
+          "lat": 44.8527611
         },
         "location": "Eagan, Minnesota, United States of America"
       }
@@ -6707,73 +6768,6 @@
           "lat": 14.5344436
         },
         "location": "Manila, Philippines"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Gdansk",
-    "country": "Poland",
-    "ml_skills": [
-      "tax research",
-      "online research",
-      "microsoft excel",
-      "microsoft office package",
-      "quality assurance",
-      "data systems",
-      "microsoft office"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Research, analyze, interpret and document tax laws and regulations. Maintenance and accuracy of all applicable tax/legal information in content database, which includes entering content changes into a...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "18.5752702",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ177406",
-    "jobId": "JREQ177406",
-    "city": "Gdansk",
-    "latitude": "54.4004235",
-    "locale": "en_US",
-    "multi_location": [
-      "Gdansk, Poland"
-    ],
-    "title": "Tax Associate",
-    "jobSeqNo": "THTTRUUSJREQ177406EXTERNALENUS",
-    "postedDate": "2024-03-22T00:00:00.000+0000",
-    "dateCreated": "2024-03-22T12:40:27.395+0000",
-    "cityStateCountry": "Gdansk, Poland",
-    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/Tax-Associate_JREQ177406/apply",
-    "location": "Gdansk, Poland",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Research, analyze, interpret and document tax laws and regulations. Maintenance and accuracy of all applicable tax/legal information in content database, which includes entering content changes into a...",
-      "descriptionTeaser_first200": "We welcome applications to our full-time vacancies from all citizens who have been granted protection within the territory of the Republic of Poland under the EU Temporary Protection Directive*. Do you...",
-      "descriptionTeaser_keyword": "We welcome applications to our full-time vacancies from all citizens who have been granted protection within the territory of the Republic of Poland under the EU Temporary Protection Directive*. Do yo...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 18.5752702,
-          "lat": 54.4004235
-        },
-        "location": "Gdansk, Poland"
       }
     ],
     "isMultiCategory": true,
