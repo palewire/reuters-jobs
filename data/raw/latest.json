@@ -1,5 +1,76 @@
 [
   {
+    "cityState": "Hong Kong",
+    "country": "Hong Kong",
+    "ml_skills": [
+      "chinese",
+      "mandarin",
+      "multimedia"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "The successful candidate will have strong news instincts for top stories that appeal to our global audience, and be an energetic source builder as well as a team player. Track key Chinese companies th...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "114.2168499",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ181397",
+    "jobId": "JREQ181397",
+    "city": "Hong Kong",
+    "latitude": "22.2876498",
+    "locale": "en_US",
+    "multi_location": [
+      "Hong Kong, Hong Kong",
+      "Shanghai, Shanghai, China"
+    ],
+    "title": "China Technology Correspondent",
+    "jobSeqNo": "THTTRUUSJREQ181397EXTERNALENUS",
+    "postedDate": "2024-08-05T00:00:00.000+0000",
+    "dateCreated": "2024-08-05T04:38:23.629+0000",
+    "cityStateCountry": "Hong Kong, Hong Kong",
+    "address": "15/F, 14 Taikoo Wan Road, Taikoo Shing, Hong Kong, Hong Kong",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/HKG-Taikoo-14-Taikoo-Wan-Road/China-Technology-Correspondent_JREQ181397-1/apply",
+    "location": "Hong Kong, Hong Kong",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "The successful candidate will have strong news instincts for top stories that appeal to our global audience, and be an energetic source builder as well as a team player. Track key Chinese companies th...",
+      "descriptionTeaser_first200": "China Technology Correspondent. Reuters is looking for a dogged and scoop-hungry journalist to join our technology team in China, where s/he will help strengthen our coverage of one of the world\u2019s most...",
+      "descriptionTeaser_keyword": "China Technology Correspondent. Reuters is looking for a dogged and scoop-hungry journalist to join our technology team in China, where s/he will help strengthen our coverage of one of the world\u2019s mos...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 114.2168499,
+          "lat": 22.2876498
+        },
+        "location": "Hong Kong, Hong Kong"
+      },
+      {
+        "latlong": {
+          "lon": 121.504161,
+          "lat": 31.24097799999999
+        },
+        "location": "Shanghai, Shanghai, China"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Minneapolis, Minnesota",
     "country": "United States of America",
     "ml_skills": [
@@ -956,69 +1027,6 @@
     "badge": ""
   },
   {
-    "cityState": "Wellington",
-    "country": "New Zealand",
-    "ml_skills": [
-      "publishing",
-      "online research",
-      "research skills"
-    ],
-    "remote": "Remote",
-    "type": "Full time",
-    "descriptionTeaser": "You will need to have a good understanding of the law, have strong online research skills, and possess a high degree of attention to detail. You will need to have the ability to work in a methodical m...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "174.7743618",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ180639",
-    "jobId": "JREQ180639",
-    "city": "Wellington",
-    "latitude": "-41.2859199",
-    "locale": "en_US",
-    "multi_location": [
-      "Wellington, New Zealand"
-    ],
-    "title": "Cases Editor - Fixed Term Contract",
-    "jobSeqNo": "THTTRUUSJREQ180639EXTERNALENUS",
-    "postedDate": "2024-07-23T00:00:00.000+0000",
-    "dateCreated": "2024-07-23T04:38:24.703+0000",
-    "cityStateCountry": "Wellington, New Zealand",
-    "address": "Level 19, Plimmer Towers, 2-6 Gilmer Terrace, Wellington 6011, New Zealand",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/NZL-Wellington-Plimmer-Towers/Cases-Editor---Fixed-Term-Contract_JREQ180639/apply",
-    "location": "Wellington, New Zealand",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "You will need to have a good understanding of the law, have strong online research skills, and possess a high degree of attention to detail. You will need to have the ability to work in a methodical m...",
-      "descriptionTeaser_first200": "Are you interested in expanding your knowledge of the law while working on a leading legal research product? We are looking for a Cases Editor to join our agile team on a fixed term contract of 2 years....",
-      "descriptionTeaser_keyword": "Are you interested in expanding your knowledge of the law while working on a leading legal research product? We are looking for a Cases Editor to join our agile team on a fixed term contract of 2 year...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 174.7743618,
-          "lat": -41.2859199
-        },
-        "location": "Wellington, New Zealand"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "London",
     "country": "United Kingdom",
     "ml_skills": [
@@ -1073,6 +1081,69 @@
           "lat": 51.5056439
         },
         "location": "London, United Kingdom"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Wellington",
+    "country": "New Zealand",
+    "ml_skills": [
+      "publishing",
+      "online research",
+      "research skills"
+    ],
+    "remote": "Remote",
+    "type": "Full time",
+    "descriptionTeaser": "You will need to have a good understanding of the law, have strong online research skills, and possess a high degree of attention to detail. You will need to have the ability to work in a methodical m...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "174.7743618",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ180639",
+    "jobId": "JREQ180639",
+    "city": "Wellington",
+    "latitude": "-41.2859199",
+    "locale": "en_US",
+    "multi_location": [
+      "Wellington, New Zealand"
+    ],
+    "title": "Cases Editor - Fixed Term Contract",
+    "jobSeqNo": "THTTRUUSJREQ180639EXTERNALENUS",
+    "postedDate": "2024-07-23T00:00:00.000+0000",
+    "dateCreated": "2024-07-23T04:38:24.703+0000",
+    "cityStateCountry": "Wellington, New Zealand",
+    "address": "Level 19, Plimmer Towers, 2-6 Gilmer Terrace, Wellington 6011, New Zealand",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/NZL-Wellington-Plimmer-Towers/Cases-Editor---Fixed-Term-Contract_JREQ180639/apply",
+    "location": "Wellington, New Zealand",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "You will need to have a good understanding of the law, have strong online research skills, and possess a high degree of attention to detail. You will need to have the ability to work in a methodical m...",
+      "descriptionTeaser_first200": "Are you interested in expanding your knowledge of the law while working on a leading legal research product? We are looking for a Cases Editor to join our agile team on a fixed term contract of 2 years....",
+      "descriptionTeaser_keyword": "Are you interested in expanding your knowledge of the law while working on a leading legal research product? We are looking for a Cases Editor to join our agile team on a fixed term contract of 2 year...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 174.7743618,
+          "lat": -41.2859199
+        },
+        "location": "Wellington, New Zealand"
       }
     ],
     "isMultiCategory": true,
@@ -1344,68 +1415,6 @@
     "badge": ""
   },
   {
-    "cityState": "Pyrmont, New South Wales",
-    "country": "Australia",
-    "ml_skills": [
-      "litigation",
-      "westlaw"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "We are looking for a diligent Legal Editor for an initial fixed-term of 2 years to join our team of experienced editors working on Westlaw and the Australian Digest. Classifying cases in accordance...",
-    "state": "New South Wales",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "151.1915144",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ180638",
-    "jobId": "JREQ180638",
-    "city": "Pyrmont",
-    "latitude": "-33.8664432",
-    "locale": "en_US",
-    "multi_location": [
-      "Pyrmont, New South Wales, Australia"
-    ],
-    "title": "Legal Editor - Fixed-Term Contract",
-    "jobSeqNo": "THTTRUUSJREQ180638EXTERNALENUS",
-    "postedDate": "2024-07-22T00:00:00.000+0000",
-    "dateCreated": "2024-07-22T04:38:49.704+0000",
-    "cityStateCountry": "Pyrmont, New South Wales, Australia",
-    "address": "19 Harris Street, Pyrmont NSW 2009, Australia",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/AUS-Pyrmont-19-Harris-St/Legal-Editor---Fixed-Term-Contract_JREQ180638/apply",
-    "location": "Pyrmont, New South Wales, Australia",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "We are looking for a diligent Legal Editor for an initial fixed-term of 2 years to join our team of experienced editors working on Westlaw and the Australian Digest. Classifying cases in accordance...",
-      "descriptionTeaser_first200": "Do you love reading case law? We are looking for a diligent Legal Editor for an initial fixed-term of 2 years to join our team of experienced editors working on Westlaw and the Australian Digest. We are...",
-      "descriptionTeaser_keyword": "Do you love reading case law? We are looking for a diligent Legal Editor for an initial fixed-term of 2 years to join our team of experienced editors working on Westlaw and the Australian Digest. We a...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 151.1915144,
-          "lat": -33.8664432
-        },
-        "location": "Pyrmont, New South Wales, Australia"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Dubai",
     "country": "United Arab Emirates",
     "ml_skills": [
@@ -1658,6 +1667,68 @@
           "lat": 19.4343664
         },
         "location": "Mexico City, Mexico"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Pyrmont, New South Wales",
+    "country": "Australia",
+    "ml_skills": [
+      "litigation",
+      "westlaw"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "We are looking for a diligent Legal Editor for an initial fixed-term of 2 years to join our team of experienced editors working on Westlaw and the Australian Digest. Classifying cases in accordance...",
+    "state": "New South Wales",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "151.1915144",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ180638",
+    "jobId": "JREQ180638",
+    "city": "Pyrmont",
+    "latitude": "-33.8664432",
+    "locale": "en_US",
+    "multi_location": [
+      "Pyrmont, New South Wales, Australia"
+    ],
+    "title": "Legal Editor - Fixed-Term Contract",
+    "jobSeqNo": "THTTRUUSJREQ180638EXTERNALENUS",
+    "postedDate": "2024-07-22T00:00:00.000+0000",
+    "dateCreated": "2024-07-22T04:38:49.704+0000",
+    "cityStateCountry": "Pyrmont, New South Wales, Australia",
+    "address": "19 Harris Street, Pyrmont NSW 2009, Australia",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/AUS-Pyrmont-19-Harris-St/Legal-Editor---Fixed-Term-Contract_JREQ180638/apply",
+    "location": "Pyrmont, New South Wales, Australia",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "We are looking for a diligent Legal Editor for an initial fixed-term of 2 years to join our team of experienced editors working on Westlaw and the Australian Digest. Classifying cases in accordance...",
+      "descriptionTeaser_first200": "Do you love reading case law? We are looking for a diligent Legal Editor for an initial fixed-term of 2 years to join our team of experienced editors working on Westlaw and the Australian Digest. We are...",
+      "descriptionTeaser_keyword": "Do you love reading case law? We are looking for a diligent Legal Editor for an initial fixed-term of 2 years to join our team of experienced editors working on Westlaw and the Australian Digest. We a...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 151.1915144,
+          "lat": -33.8664432
+        },
+        "location": "Pyrmont, New South Wales, Australia"
       }
     ],
     "isMultiCategory": true,
@@ -6675,69 +6746,6 @@
       "descriptionTeaser": "You're a fit for the role of Multimedia News Producer if your background includes. Strong team player, good communication skills. Our industry-leading products and services include highly specialized...",
       "descriptionTeaser_first200": "Multimedia News Producer. Are you a journalist who desires to be part of a news production team that can reach millions of readers in a matter of seconds? Digital Desk at Reuters in Bangalore does exactly...",
       "descriptionTeaser_keyword": "Multimedia News Producer. Are you a journalist who desires to be part of a news production team that can reach millions of readers in a matter of seconds? Digital Desk at Reuters in Bangalore does exa...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 77.7120655,
-          "lat": 12.9743998
-        },
-        "location": "Bengaluru, Karnataka, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Bengaluru, Karnataka",
-    "country": "India",
-    "ml_skills": [
-      "context",
-      "transparency",
-      "investment decisions"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Adept at performing quickly under pressure as they work with reporters and news editors to produce compelling stories that appeal both to professional clients who rely on Reuters to help make investme...",
-    "state": "Karnataka",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "77.7120655",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ174175",
-    "jobId": "JREQ174175",
-    "city": "Bengaluru",
-    "latitude": "12.9743998",
-    "locale": "en_US",
-    "multi_location": [
-      "Bengaluru, Karnataka, India"
-    ],
-    "title": "Desk Editor",
-    "jobSeqNo": "THTTRUUSJREQ174175EXTERNALENUS",
-    "postedDate": "2024-02-01T00:00:00.000+0000",
-    "dateCreated": "2024-01-17T12:40:46.856+0000",
-    "cityStateCountry": "Bengaluru, Karnataka, India",
-    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/Desk-Editor_JREQ174175/apply",
-    "location": "Bengaluru, Karnataka, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Adept at performing quickly under pressure as they work with reporters and news editors to produce compelling stories that appeal both to professional clients who rely on Reuters to help make investme...",
-      "descriptionTeaser_first200": "Desk Editor, Reuters Bangalore. The Reuters Bangalore bureau, the largest Reuters news operation in the world, has set a global benchmark for producing real-time company and markets news at speed. The...",
-      "descriptionTeaser_keyword": "Desk Editor, Reuters Bangalore. The Reuters Bangalore bureau, the largest Reuters news operation in the world, has set a global benchmark for producing real-time company and markets news at speed. The...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
