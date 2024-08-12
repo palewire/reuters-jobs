@@ -1,7 +1,9 @@
 import csv
+from operator import itemgetter
 from dateutil.parser import parse as dateparse
 
 import click
+from feedgen.entry import FeedEntry
 from feedgen.feed import FeedGenerator
 from rich import print
 
@@ -21,7 +23,7 @@ def cli():
         rss_data.append(r)
 
     # Sort reverse chron
-    sorted_data = sorted(rss_data, key=lambda x: x["open_date"], reverse=True)
+    sorted_data = sorted(rss_data, key=itemgetter("open_date"), reverse=True)
 
     print("Creating RSS")
 
@@ -37,13 +39,14 @@ def cli():
     )
 
     # Add our feed entries
-    for row in reversed(feed_data):
-        fe = fg.add_entry()
-        fe.id(row["id"])
+    for row in feed_data:
+        entry = FeedEntry()
+        entry.id(r["id"])
         title = utils.clean_title(row["title"])
-        fe.title(f"{title} in {row['city']}")
-        fe.link(href=row["url"])
-        fe.pubDate(pubDate=row["open_date"])
+        entry.title(f"{title} in {row['city']}")
+        entry.published(row["open_date"])
+        entry.link(href=row["url"])
+        fg.add_entry(entry, order="append")
 
     # Write it out
     fg.rss_file(utils.DATA_DIR / "clean" / "latest.rss", pretty=True)
