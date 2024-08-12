@@ -1,5 +1,80 @@
 [
   {
+    "cityState": "Frisco, Texas",
+    "country": "United States of America",
+    "ml_skills": [
+      "tax preparation",
+      "tax law",
+      "commerce",
+      "ado",
+      "justice",
+      "software development",
+      "software development information"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Depending on the nature of the project undertakes a combination of technical implementation and testing analyst tasks to understand customer and/or product needs in the context of internal & external...",
+    "state": "Texas",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-96.833545",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ181633",
+    "jobId": "JREQ181633",
+    "city": "Frisco",
+    "latitude": "33.1073049",
+    "locale": "en_US",
+    "multi_location": [
+      "Frisco, Texas, United States of America",
+      "Ann Arbor, Michigan, United States of America"
+    ],
+    "title": "Tax Analyst",
+    "jobSeqNo": "THTTRUUSJREQ181633EXTERNALENUS",
+    "postedDate": "2024-08-09T00:00:00.000+0000",
+    "dateCreated": "2024-08-09T20:42:33.544+0000",
+    "cityStateCountry": "Frisco, Texas, United States of America",
+    "address": "6160 Warren Parkway, Frisco, TX 75034, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Frisco-6160-Warren-Parkway/Tax-Analyst_JREQ181633/apply",
+    "location": "Frisco, Texas, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Depending on the nature of the project undertakes a combination of technical implementation and testing analyst tasks to understand customer and/or product needs in the context of internal & external...",
+      "descriptionTeaser_first200": "Summary. You will participate in the design, development, and testing of our GoSystem Tax using in-house development tools. In this role, you will collect, analyze, and prioritize requirements from various...",
+      "descriptionTeaser_keyword": "Summary. You will participate in the design, development, and testing of our GoSystem Tax using in-house development tools. In this role, you will collect, analyze, and prioritize requirements from va...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -96.833545,
+          "lat": 33.1073049
+        },
+        "location": "Frisco, Texas, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -83.7267835,
+          "lat": 42.1957259
+        },
+        "location": "Ann Arbor, Michigan, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Cairo",
     "country": "Egypt",
     "ml_skills": [
@@ -715,77 +790,6 @@
     "badge": ""
   },
   {
-    "cityState": "Mexico City",
-    "country": "Mexico",
-    "ml_skills": [
-      "photo editing",
-      "photography",
-      "captions",
-      "adobe photoshop",
-      "spoken",
-      "portuguese",
-      "multimedia",
-      "sports photography",
-      "mac os",
-      "latin",
-      "portuguese is a"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "This job, based in Mexico City, is for a candidate with fluent English and Spanish, and a sharp eye for detail who can effortlessly sift through hundreds of sports photos contributed daily by our phot...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-99.1510899",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ181340",
-    "jobId": "JREQ181340",
-    "city": "Mexico City",
-    "latitude": "19.4343664",
-    "locale": "en_US",
-    "multi_location": [
-      "Mexico City, Mexico"
-    ],
-    "title": "Sports Editor",
-    "jobSeqNo": "THTTRUUSJREQ181340EXTERNALENUS",
-    "postedDate": "2024-08-05T00:00:00.000+0000",
-    "dateCreated": "2024-08-05T16:38:03.063+0000",
-    "cityStateCountry": "Mexico City, Mexico",
-    "address": "Av. Paseo de la Reforma #26, Floor 36th, Colonia Ju\u00e1rez, Cuauht\u00e9moc, 06600 Mexico City, Mexico",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/MEX-Distrito-Federal-Reforma-26/Sports-Editor_JREQ181340/apply",
-    "location": "Mexico City, Mexico",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "This job, based in Mexico City, is for a candidate with fluent English and Spanish, and a sharp eye for detail who can effortlessly sift through hundreds of sports photos contributed daily by our phot...",
-      "descriptionTeaser_first200": "Sports Editor. Are you passionate about the chance to bring your experience to a world-class company that is market-leading for both content and technology? If yes, we are looking for you. Join our team!...",
-      "descriptionTeaser_keyword": "Sports Editor. Are you passionate about the chance to bring your experience to a world-class company that is market-leading for both content and technology? If yes, we are looking for you. Join our te...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -99.1510899,
-          "lat": 19.4343664
-        },
-        "location": "Mexico City, Mexico"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Washington, District of Columbia",
     "country": "United States of America",
     "ml_skills": [
@@ -911,6 +915,77 @@
           "lat": 31.24097799999999
         },
         "location": "Shanghai, Shanghai, China"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Mexico City",
+    "country": "Mexico",
+    "ml_skills": [
+      "photo editing",
+      "photography",
+      "captions",
+      "adobe photoshop",
+      "spoken",
+      "portuguese",
+      "multimedia",
+      "sports photography",
+      "mac os",
+      "latin",
+      "portuguese is a"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "This job, based in Mexico City, is for a candidate with fluent English and Spanish, and a sharp eye for detail who can effortlessly sift through hundreds of sports photos contributed daily by our phot...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-99.1510899",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ181340",
+    "jobId": "JREQ181340",
+    "city": "Mexico City",
+    "latitude": "19.4343664",
+    "locale": "en_US",
+    "multi_location": [
+      "Mexico City, Mexico"
+    ],
+    "title": "Sports Editor",
+    "jobSeqNo": "THTTRUUSJREQ181340EXTERNALENUS",
+    "postedDate": "2024-08-05T00:00:00.000+0000",
+    "dateCreated": "2024-08-05T16:38:03.063+0000",
+    "cityStateCountry": "Mexico City, Mexico",
+    "address": "Av. Paseo de la Reforma #26, Floor 36th, Colonia Ju\u00e1rez, Cuauht\u00e9moc, 06600 Mexico City, Mexico",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/MEX-Distrito-Federal-Reforma-26/Sports-Editor_JREQ181340/apply",
+    "location": "Mexico City, Mexico",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "This job, based in Mexico City, is for a candidate with fluent English and Spanish, and a sharp eye for detail who can effortlessly sift through hundreds of sports photos contributed daily by our phot...",
+      "descriptionTeaser_first200": "Sports Editor. Are you passionate about the chance to bring your experience to a world-class company that is market-leading for both content and technology? If yes, we are looking for you. Join our team!...",
+      "descriptionTeaser_keyword": "Sports Editor. Are you passionate about the chance to bring your experience to a world-class company that is market-leading for both content and technology? If yes, we are looking for you. Join our te...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -99.1510899,
+          "lat": 19.4343664
+        },
+        "location": "Mexico City, Mexico"
       }
     ],
     "isMultiCategory": true,
@@ -1670,73 +1745,6 @@
           "lat": 51.5056439
         },
         "location": "London, United Kingdom"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "New York, New York",
-    "country": "United States of America",
-    "ml_skills": [
-      "photo editing",
-      "sports photography",
-      "photojournalism",
-      "editing",
-      "multimedia",
-      "breaking news",
-      "captions"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Excellent photojournalism and editing skills proven by at last 3 years work experience as a full-time photojournalist. Experience in working in a large team, and the understanding of the importance of...",
-    "state": "New York",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-73.9866995",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ180701",
-    "jobId": "JREQ180701",
-    "city": "New York",
-    "latitude": "40.7566955",
-    "locale": "en_US",
-    "multi_location": [
-      "New York, New York, United States of America"
-    ],
-    "title": "Photographer (Level 1 Journalist)",
-    "jobSeqNo": "THTTRUUSJREQ180701EXTERNALENUS",
-    "postedDate": "2024-07-24T00:00:00.000+0000",
-    "dateCreated": "2024-07-24T16:40:49.623+0000",
-    "cityStateCountry": "New York, New York, United States of America",
-    "address": "3 Times Square, New York, NY 10036, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-New-York-3-Times-Square/Photographer--Level-1-Journalist-_JREQ180701/apply",
-    "location": "New York, New York, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Excellent photojournalism and editing skills proven by at last 3 years work experience as a full-time photojournalist. Experience in working in a large team, and the understanding of the importance of...",
-      "descriptionTeaser_first200": "Reuters is seeking a talented Photographer (Level 1 Journalist) to join our team in New York. The photojournalist will be responsible for covering news, politics, entertainment and sports in New York...",
-      "descriptionTeaser_keyword": "Reuters is seeking a talented Photographer (Level 1 Journalist) to join our team in New York. The photojournalist will be responsible for covering news, politics, entertainment and sports in New York...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -73.9866995,
-          "lat": 40.7566955
-        },
-        "location": "New York, New York, United States of America"
       }
     ],
     "isMultiCategory": true,
@@ -3082,73 +3090,6 @@
           "lat": 25.0344547
         },
         "location": "Taipei, Taipei City, Taiwan"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Mexico City",
-    "country": "Mexico",
-    "ml_skills": [
-      "photography",
-      "multimedia",
-      "creative shooting",
-      "storytelling",
-      "video camera handling",
-      "latin",
-      "agile"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Reuters is looking for a video journalist with creative individual flair and strong teamwork skills to join our Mexico team based in Mexico City. This role requires a passion for telling news and feat...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-99.1510899",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ180844",
-    "jobId": "JREQ180844",
-    "city": "Mexico City",
-    "latitude": "19.4343664",
-    "locale": "en_US",
-    "multi_location": [
-      "Mexico City, Mexico"
-    ],
-    "title": "Video Journalist",
-    "jobSeqNo": "THTTRUUSJREQ180844EXTERNALENUS",
-    "postedDate": "2024-07-16T00:00:00.000+0000",
-    "dateCreated": "2024-07-16T20:41:22.198+0000",
-    "cityStateCountry": "Mexico City, Mexico",
-    "address": "Av. Paseo de la Reforma #26, Floor 36th, Colonia Ju\u00e1rez, Cuauht\u00e9moc, 06600 Mexico City, Mexico",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/MEX-Distrito-Federal-Reforma-26/Video-Journalist_JREQ180844/apply",
-    "location": "Mexico City, Mexico",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Reuters is looking for a video journalist with creative individual flair and strong teamwork skills to join our Mexico team based in Mexico City. This role requires a passion for telling news and feat...",
-      "descriptionTeaser_first200": "Video Journalist. Are you passionate about the chance to bring your experience to a world-class company that is market-leading for both content and technology? If yes, we are looking for you! Reuters is...",
-      "descriptionTeaser_keyword": "Video Journalist. Are you passionate about the chance to bring your experience to a world-class company that is market-leading for both content and technology? If yes, we are looking for you! Reuters...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -99.1510899,
-          "lat": 19.4343664
-        },
-        "location": "Mexico City, Mexico"
       }
     ],
     "isMultiCategory": true,
