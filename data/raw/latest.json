@@ -1,5 +1,76 @@
 [
   {
+    "cityState": "Eagan, Minnesota",
+    "country": "United States of America",
+    "ml_skills": [
+      "editing",
+      "professional writing",
+      "blogs",
+      "content creation",
+      "html",
+      "keyword research",
+      "digital marketing",
+      "social media tools",
+      "education",
+      "immigration",
+      "ai tools"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Content includes articles, blog posts, videos, and social media content, and may include reviewing or editing the work of other writers. Edit Spanish language content. Work with digital marketing, per...",
+    "state": "Minnesota",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-93.11336709999999",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ181467",
+    "jobId": "JREQ181467",
+    "city": "Eagan",
+    "latitude": "44.8250902",
+    "locale": "en_US",
+    "multi_location": [
+      "Eagan, Minnesota, United States of America"
+    ],
+    "title": "Legal Content Editor -- Spanish (Abogado.com)",
+    "jobSeqNo": "THTTRUUSJREQ181467EXTERNALENUS",
+    "postedDate": "2024-08-12T00:00:00.000+0000",
+    "dateCreated": "2024-08-12T20:39:12.735+0000",
+    "cityStateCountry": "Eagan, Minnesota, United States of America",
+    "address": "610 Opperman Dr, Eagan, MN 55123, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-CPS-610-Opperman-Dr/Legal-Content-Editor----Spanish--Abogadocom-_JREQ181467/apply",
+    "location": "Eagan, Minnesota, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Content includes articles, blog posts, videos, and social media content, and may include reviewing or editing the work of other writers. Edit Spanish language content. Work with digital marketing, per...",
+      "descriptionTeaser_first200": "Do you speak and write Spanish fluently? Do you want to help people get the information they need? Are you interested in writing about legal topics? Do you work well in a team environment? Do you embrace...",
+      "descriptionTeaser_keyword": "Do you speak and write Spanish fluently? Do you want to help people get the information they need? Are you interested in writing about legal topics? Do you work well in a team environment? Do you embr...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -93.11336709999999,
+          "lat": 44.8250902
+        },
+        "location": "Eagan, Minnesota, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "London",
     "country": "United Kingdom",
     "ml_skills": [
@@ -5266,76 +5337,6 @@
           "lat": 12.9743998
         },
         "location": "Bengaluru, Karnataka, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "London",
-    "country": "United Kingdom",
-    "ml_skills": [
-      "adobe illustrator",
-      "graphics",
-      "journalism",
-      "editing",
-      "multimedia",
-      "web development",
-      "tableau",
-      "qgis",
-      "python",
-      "data manipulation"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Have a proven ability to work with complex financial data in a newsroom setting and transform that data into compelling on-the-news graphics. Our industry-leading products and services include highly...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-0.0185088",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ179875",
-    "jobId": "JREQ179875",
-    "city": "London",
-    "latitude": "51.5056439",
-    "locale": "en_US",
-    "multi_location": [
-      "London, United Kingdom"
-    ],
-    "title": "Financial Graphics Editor",
-    "jobSeqNo": "THTTRUUSJREQ179875EXTERNALENUS",
-    "postedDate": "2024-06-11T00:00:00.000+0000",
-    "dateCreated": "2024-06-11T20:40:15.949+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Financial-Graphics-Editor_JREQ179875/apply",
-    "location": "London, United Kingdom",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Have a proven ability to work with complex financial data in a newsroom setting and transform that data into compelling on-the-news graphics. Our industry-leading products and services include highly...",
-      "descriptionTeaser_first200": "Reuters is looking for a Financial Graphics Editor who can lead a team of graphics reporters in analyzing and transforming data on companies, economics and markets into clear, accurate and compelling...",
-      "descriptionTeaser_keyword": "Reuters is looking for a Financial Graphics Editor who can lead a team of graphics reporters in analyzing and transforming data on companies, economics and markets into clear, accurate and compelling...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -0.0185088,
-          "lat": 51.5056439
-        },
-        "location": "London, United Kingdom"
       }
     ],
     "isMultiCategory": true,
