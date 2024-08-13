@@ -1,3 +1,4 @@
+import os
 import csv
 from operator import itemgetter
 from dateutil.parser import parse as dateparse
@@ -46,6 +47,11 @@ def cli():
         entry.title(f"{title} in {row['city']}")
         entry.published(row["open_date"])
         entry.link(href=row["url"])
+        entry.enclosure(
+            url=f"https://raw.githubusercontent.com/palewire/reuters-jobs/main/data/img/{row['id']}.png",
+            type="image/png",
+            length=os.path.getsize(utils.DATA_DIR / "img" / f"{row['id']}.png"),
+        )
         fg.add_entry(entry, order="append")
 
     # Write it out
