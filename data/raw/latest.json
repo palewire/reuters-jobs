@@ -73,7 +73,7 @@
     "country": "Mexico",
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "JREQ181024 Breaking News CorrespondentBreaking News Correspondent, LatamReuters is looking for a journalist with strong news judgement and at least five years\u2019 experience working in a news organizatio",
+    "descriptionTeaser": "Reuters is looking for a journalist with strong news judgement and at least five years\u2019 experience working in a news organization to join our Latin American Breaking News Hub in Mexico City....",
     "state": "",
     "visibilityType": "External",
     "siteType": "external",
@@ -102,6 +102,20 @@
     "location": "Mexico City, Mexico",
     "category": "News & Editorial Careers",
     "externalApply": true,
+    "ml_skills": [
+      "breaking news",
+      "latin",
+      "french",
+      "multimedia",
+      "portuguese",
+      "immigration"
+    ],
+    "ml_job_parser": {
+      "descriptionTeaser": "Reuters is looking for a journalist with strong news judgement and at least five years\u2019 experience working in a news organization to join our Latin American Breaking News Hub in Mexico City....",
+      "descriptionTeaser_keyword": "JREQ181024 Breaking News Correspondent. Breaking News Correspondent, Latam. Reuters is looking for a journalist with strong news judgement and at least five years\u2019 experience working in a news organiz...",
+      "descriptionTeaser_ats": "",
+      "descriptionTeaser_first200": "JREQ181024 Breaking News Correspondent. Breaking News Correspondent, Latam. Reuters is looking for a journalist with strong news judgement and at least five years\u2019 experience working in a news organization..."
+    },
     "isMultiLocation": true,
     "multi_location_array": [
       {
@@ -927,7 +941,7 @@
       "breaking news",
       "multimedia"
     ],
-    "remote": "Hybrid",
+    "remote": "On-Site",
     "type": "Full time",
     "descriptionTeaser": "The successful candidate would become a core specialist, supporting the wider bureau by monitoring live online events, TV broadcasts and social media feeds, sending headlines and building coverage in...",
     "state": "",
@@ -3738,73 +3752,6 @@
           "lat": 40.7566955
         },
         "location": "New York, New York, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Singapore",
-    "country": "Singapore",
-    "ml_skills": [
-      "journalism",
-      "breaking news",
-      "graphics",
-      "multimedia",
-      "banking",
-      "monetary policy",
-      "financial markets"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "This hybrid role will mainly focus on coverage of the top banks and wealth managers in Southeast Asia\u2019s main financial centre, while collaborating closely with the Singapore bureau\u2019s chief corresponde...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "103.792796",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ180763",
-    "jobId": "JREQ180763",
-    "city": "Singapore",
-    "latitude": "1.2938815",
-    "locale": "en_US",
-    "multi_location": [
-      "Singapore, Singapore"
-    ],
-    "title": "Southeast Asia Financial Correspondent",
-    "jobSeqNo": "THTTRUUSJREQ180763EXTERNALENUS",
-    "postedDate": "2024-07-15T00:00:00.000+0000",
-    "dateCreated": "2024-07-15T04:41:00.134+0000",
-    "cityStateCountry": "Singapore, Singapore",
-    "address": "ALICE@Mediapolis, 29 Media Circle,  #09-05, Singapore 138565, Singapore",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/SGP-Singapore-ALICEMediapolis/Southeast-Asia-Financial-Correspondent_JREQ180763/apply",
-    "location": "Singapore, Singapore",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "This hybrid role will mainly focus on coverage of the top banks and wealth managers in Southeast Asia\u2019s main financial centre, while collaborating closely with the Singapore bureau\u2019s chief corresponde...",
-      "descriptionTeaser_first200": "Reuters is looking for a versatile and energetic journalist as its Southeast Asia Financial Correspondent in Singapore. This hybrid role will mainly focus on coverage of the top banks and wealth managers...",
-      "descriptionTeaser_keyword": "Reuters is looking for a versatile and energetic journalist as its Southeast Asia Financial Correspondent in Singapore. This hybrid role will mainly focus on coverage of the top banks and wealth manag...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 103.792796,
-          "lat": 1.2938815
-        },
-        "location": "Singapore, Singapore"
       }
     ],
     "isMultiCategory": true,
