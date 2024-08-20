@@ -1,5 +1,198 @@
 [
   {
+    "cityState": "Beirut",
+    "country": "Lebanon",
+    "ml_skills": [
+      "video editing",
+      "journalism",
+      "script writing",
+      "multimedia",
+      "visual storytelling",
+      "breaking news",
+      "arabic"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "You will be responsible for providing daily editorial coverage of breaking and planned news throughout Lebanon, Syria and Jordan and from across the MENA region. Lead the video news gathering team tha...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "35.5017767",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ180723",
+    "jobId": "JREQ180723",
+    "city": "Beirut",
+    "latitude": "33.8937913",
+    "locale": "en_US",
+    "multi_location": [
+      "Beirut, Lebanon"
+    ],
+    "title": "Lead Producer, Lebanon, Syria & Jordan - Reuters",
+    "jobSeqNo": "THTTRUUSJREQ180723EXTERNALENUS",
+    "postedDate": "2024-08-19T00:00:00.000+0000",
+    "dateCreated": "2024-08-19T16:38:12.430+0000",
+    "cityStateCountry": "Beirut, Lebanon",
+    "address": "Le Bureau Building, 7th Floor, Mathaf Street, Beirut 11-1006, Lebanon",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/LBN-Beirut-Mathaf/Lead-Producer--Lebanon--Syria---Jordan---Reuters_JREQ180723/apply",
+    "location": "Beirut, Lebanon",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "You will be responsible for providing daily editorial coverage of breaking and planned news throughout Lebanon, Syria and Jordan and from across the MENA region. Lead the video news gathering team tha...",
+      "descriptionTeaser_first200": "Lead Video Producer, Lebanon, Syria & Jordan - Reuters. Reuters is looking for a Lead Video Producer to lead the video team in Lebanon, Syria and Jordan. You will be responsible for providing daily editorial...",
+      "descriptionTeaser_keyword": "Lead Video Producer, Lebanon, Syria & Jordan - Reuters. Reuters is looking for a Lead Video Producer to lead the video team in Lebanon, Syria and Jordan. You will be responsible for providing daily ed...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 35.5017767,
+          "lat": 33.8937913
+        },
+        "location": "Beirut, Lebanon"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "New York, New York",
+    "country": "United States of America",
+    "ml_skills": [
+      "multimedia"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Reuters is the world\u2019s largest multimedia news provider. Our industry-leading products and services include highly specialized information-enabled software and tools for legal, tax, accounting and com...",
+    "state": "New York",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-73.9866995",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ180932",
+    "jobId": "JREQ180932",
+    "city": "New York",
+    "latitude": "40.7566955",
+    "locale": "en_US",
+    "multi_location": [
+      "New York, New York, United States of America"
+    ],
+    "title": "Reuters NABJ Fellow (Temp Guild)",
+    "jobSeqNo": "THTTRUUSJREQ180932EXTERNALENUS",
+    "postedDate": "2024-08-19T00:00:00.000+0000",
+    "dateCreated": "2024-08-19T16:38:12.427+0000",
+    "cityStateCountry": "New York, New York, United States of America",
+    "address": "3 Times Square, New York, NY 10036, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-New-York-3-Times-Square/Reuters-NABJ-Fellow_JREQ180932/apply",
+    "location": "New York, New York, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Reuters is the world\u2019s largest multimedia news provider. Our industry-leading products and services include highly specialized information-enabled software and tools for legal, tax, accounting and com...",
+      "descriptionTeaser_first200": "Reuters, the news and media division of Thomson Reuters, is the world\u2019s largest international multimedia news provider reaching more than one billion people every day. Reuters provides trusted business,...",
+      "descriptionTeaser_keyword": "Reuters, the news and media division of Thomson Reuters, is the world\u2019s largest international multimedia news provider reaching more than one billion people every day. Reuters provides trusted busines...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -73.9866995,
+          "lat": 40.7566955
+        },
+        "location": "New York, New York, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "New York, New York",
+    "country": "United States of America",
+    "ml_skills": [
+      "visual journalism",
+      "multimedia",
+      "visual storytelling",
+      "storytelling",
+      "project management"
+    ],
+    "remote": "Remote",
+    "type": "Full time",
+    "descriptionTeaser": "Reuters is looking for an experienced photo/multimedia storyteller that has experience in project management and multimedia production, to join Reuters as Editor on its Wider Image desk in the product...",
+    "state": "New York",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-73.9866995",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ180967",
+    "jobId": "JREQ180967",
+    "city": "New York",
+    "latitude": "40.7566955",
+    "locale": "en_US",
+    "multi_location": [
+      "New York, New York, United States of America"
+    ],
+    "title": "Visual Storytelling Editor, Wider Image (Level 1 Journalist)",
+    "jobSeqNo": "THTTRUUSJREQ180967EXTERNALENUS",
+    "postedDate": "2024-08-19T00:00:00.000+0000",
+    "dateCreated": "2024-08-07T16:38:44.895+0000",
+    "cityStateCountry": "New York, New York, United States of America",
+    "address": "3 Times Square, New York, NY 10036, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-New-York-3-Times-Square/Photo-Editor--Wider-Image--Level-1-Journalist-_JREQ180967/apply",
+    "location": "New York, New York, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Reuters is looking for an experienced photo/multimedia storyteller that has experience in project management and multimedia production, to join Reuters as Editor on its Wider Image desk in the product...",
+      "descriptionTeaser_first200": "Reuters is looking for an experienced photo/multimedia storyteller that has experience in project management and multimedia production, to join Reuters as Editor on its Wider Image desk in the production...",
+      "descriptionTeaser_keyword": "Reuters is looking for an experienced photo/multimedia storyteller that has experience in project management and multimedia production, to join Reuters as Editor on its Wider Image desk in the product...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -73.9866995,
+          "lat": 40.7566955
+        },
+        "location": "New York, New York, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Frisco, Texas",
     "country": "United States of America",
     "ml_skills": [
@@ -621,68 +814,6 @@
     "badge": ""
   },
   {
-    "cityState": "New York, New York",
-    "country": "United States of America",
-    "ml_skills": [
-      "breaking news",
-      "multimedia"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "We would prefer some experience of reporting the insurance or at least financial services sector, but of greater importance is a demonstrable track record of picking up reporting beats involving techn...",
-    "state": "New York",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-73.9866995",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ178770",
-    "jobId": "JREQ178770",
-    "city": "New York",
-    "latitude": "40.7566955",
-    "locale": "en_US",
-    "multi_location": [
-      "New York, New York, United States of America"
-    ],
-    "title": "U.S. Reporter (Level 1 Journalist), The Insurer, Reuters",
-    "jobSeqNo": "THTTRUUSJREQ178770EXTERNALENUS",
-    "postedDate": "2024-08-08T00:00:00.000+0000",
-    "dateCreated": "2024-08-08T16:39:22.292+0000",
-    "cityStateCountry": "New York, New York, United States of America",
-    "address": "3 Times Square, New York, NY 10036, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-New-York-3-Times-Square/US-Reporter--Level-1-Journalist---The-Insurer--Reuters_JREQ178770/apply",
-    "location": "New York, New York, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "We would prefer some experience of reporting the insurance or at least financial services sector, but of greater importance is a demonstrable track record of picking up reporting beats involving techn...",
-      "descriptionTeaser_first200": "U.S. Reporter (Level 1 Journalist), The Insurer, Reuters. This position is based in New York City with hybrid working available. Looking for a new challenge? Want to cover a vibrant segment of the financial...",
-      "descriptionTeaser_keyword": "U. S. Reporter (Level 1 Journalist), The Insurer, Reuters. This position is based in New York City with hybrid working available. Looking for a new challenge? Want to cover a vibrant segment of the fi...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -73.9866995,
-          "lat": 40.7566955
-        },
-        "location": "New York, New York, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Gdansk",
     "country": "Poland",
     "ml_skills": [
@@ -939,6 +1070,68 @@
           "lat": 30.0444196
         },
         "location": "Cairo, Egypt"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "New York, New York",
+    "country": "United States of America",
+    "ml_skills": [
+      "breaking news",
+      "multimedia"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "We would prefer some experience of reporting the insurance or at least financial services sector, but of greater importance is a demonstrable track record of picking up reporting beats involving techn...",
+    "state": "New York",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-73.9866995",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ178770",
+    "jobId": "JREQ178770",
+    "city": "New York",
+    "latitude": "40.7566955",
+    "locale": "en_US",
+    "multi_location": [
+      "New York, New York, United States of America"
+    ],
+    "title": "U.S. Reporter (Level 1 Journalist), The Insurer, Reuters",
+    "jobSeqNo": "THTTRUUSJREQ178770EXTERNALENUS",
+    "postedDate": "2024-08-08T00:00:00.000+0000",
+    "dateCreated": "2024-08-08T16:39:22.292+0000",
+    "cityStateCountry": "New York, New York, United States of America",
+    "address": "3 Times Square, New York, NY 10036, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-New-York-3-Times-Square/US-Reporter--Level-1-Journalist---The-Insurer--Reuters_JREQ178770/apply",
+    "location": "New York, New York, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "We would prefer some experience of reporting the insurance or at least financial services sector, but of greater importance is a demonstrable track record of picking up reporting beats involving techn...",
+      "descriptionTeaser_first200": "U.S. Reporter (Level 1 Journalist), The Insurer, Reuters. This position is based in New York City with hybrid working available. Looking for a new challenge? Want to cover a vibrant segment of the financial...",
+      "descriptionTeaser_keyword": "U. S. Reporter (Level 1 Journalist), The Insurer, Reuters. This position is based in New York City with hybrid working available. Looking for a new challenge? Want to cover a vibrant segment of the fi...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -73.9866995,
+          "lat": 40.7566955
+        },
+        "location": "New York, New York, United States of America"
       }
     ],
     "isMultiCategory": true,
@@ -3157,157 +3350,6 @@
     "badge": ""
   },
   {
-    "cityState": "Eagan, Minnesota",
-    "country": "United States of America",
-    "ml_skills": [
-      "state tax",
-      "justice",
-      "business english",
-      "commerce",
-      "editing"
-    ],
-    "remote": "Remote",
-    "type": "Full time",
-    "descriptionTeaser": "The role of State Tax Attorney Editor relies on previous state and local tax (SALT) practitioner experience to provide standard state tax know-how resources to support the development and maintenance...",
-    "state": "Minnesota",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-93.10808019999999",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ178845",
-    "jobId": "JREQ178845",
-    "city": "Eagan",
-    "latitude": "44.8527611",
-    "locale": "en_US",
-    "multi_location": [
-      "Eagan, Minnesota, United States of America",
-      "Ann Arbor, Michigan, United States of America",
-      "Dallas, Texas, United States of America",
-      "New York, New York, United States of America"
-    ],
-    "title": "State Tax Attorney Editor \u2013 Product/Tax Editorial (Remote)",
-    "jobSeqNo": "THTTRUUSJREQ178845EXTERNALENUS",
-    "postedDate": "2024-07-17T00:00:00.000+0000",
-    "dateCreated": "2024-06-27T16:41:01.110+0000",
-    "cityStateCountry": "Eagan, Minnesota, United States of America",
-    "address": "2900 Ames Crossing Road, Ste 100, Eagan, MN 55121, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MSP-2900-Ames-Crossing-Road/State-Tax-Attorney-Editor---Product-Tax-Editorial_JREQ178845-1/apply",
-    "location": "Eagan, Minnesota, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "The role of State Tax Attorney Editor relies on previous state and local tax (SALT) practitioner experience to provide standard state tax know-how resources to support the development and maintenance...",
-      "descriptionTeaser_first200": "State Tax Attorney Editor \u2013 Product/Tax Editorial (Remote). Role Summary. Want to use your State Tax expertise and writing skills to create valuable tax research content and tools for the award-winning...",
-      "descriptionTeaser_keyword": "State Tax Attorney Editor \u2013 Product/Tax Editorial (Remote). Role Summary. Want to use your State Tax expertise and writing skills to create valuable tax research content and tools for the award-winnin...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -93.10808019999999,
-          "lat": 44.8527611
-        },
-        "location": "Eagan, Minnesota, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -83.7267835,
-          "lat": 42.1957259
-        },
-        "location": "Ann Arbor, Michigan, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -96.82291699999999,
-          "lat": 33.083351
-        },
-        "location": "Dallas, Texas, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -73.9866995,
-          "lat": 40.7566955
-        },
-        "location": "New York, New York, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Taipei, Taipei City",
-    "country": "Taiwan",
-    "ml_skills": [
-      "multimedia",
-      "mandarin"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Build sources among technology companies, their backers as well as policymakers to break news on company initiatives and the industry. Track key Taiwanese companies that are reshaping the global techn...",
-    "state": "Taipei City",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "121.5678798",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ180781",
-    "jobId": "JREQ180781",
-    "city": "Taipei",
-    "latitude": "25.0344547",
-    "locale": "en_US",
-    "multi_location": [
-      "Taipei, Taipei City, Taiwan"
-    ],
-    "title": "Technology Correspondent, Taiwan",
-    "jobSeqNo": "THTTRUUSJREQ180781EXTERNALENUS",
-    "postedDate": "2024-07-16T00:00:00.000+0000",
-    "dateCreated": "2024-07-16T08:40:58.294+0000",
-    "cityStateCountry": "Taipei, Taipei City, Taiwan",
-    "address": "26F., No.100, Songren Rd.,, Taipei, Taipei City 110, Taiwan",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/TWN-Taipei-100-Songren-Road/Technology-Correspondent--Taiwan_JREQ180781/apply",
-    "location": "Taipei, Taipei City, Taiwan",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Build sources among technology companies, their backers as well as policymakers to break news on company initiatives and the industry. Track key Taiwanese companies that are reshaping the global techn...",
-      "descriptionTeaser_first200": "Taiwan Technology Correspondent. Reuters is looking for an energetic and scoop-hungry journalist to cover technology from Taipei, where s/he will help strengthen our coverage of one of the world\u2019s most...",
-      "descriptionTeaser_keyword": "Taiwan Technology Correspondent. Reuters is looking for an energetic and scoop-hungry journalist to cover technology from Taipei, where s/he will help strengthen our coverage of one of the world\u2019s mos...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 121.5678798,
-          "lat": 25.0344547
-        },
-        "location": "Taipei, Taipei City, Taiwan"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Toronto, Ontario",
     "country": "Canada",
     "ml_skills": [
@@ -4584,73 +4626,6 @@
     "badge": ""
   },
   {
-    "cityState": "Mexico City",
-    "country": "Mexico",
-    "ml_skills": [
-      "breaking news",
-      "photography",
-      "multimedia",
-      "multi-tasking under",
-      "metadata",
-      "artificial intelligence",
-      "open-source intelligence"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "You will be based in our Mexico newsroom and will collaborate with video, text and photography colleagues on major global stories \u2013 working on breaking news, personal insight stories, conflicts and in...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-99.1510899",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ180492",
-    "jobId": "JREQ180492",
-    "city": "Mexico City",
-    "latitude": "19.4343664",
-    "locale": "en_US",
-    "multi_location": [
-      "Mexico City, Mexico"
-    ],
-    "title": "Visual Verification & Newsgathering Producer",
-    "jobSeqNo": "THTTRUUSJREQ180492EXTERNALENUS",
-    "postedDate": "2024-07-04T00:00:00.000+0000",
-    "dateCreated": "2024-07-05T00:41:35.194+0000",
-    "cityStateCountry": "Mexico City, Mexico",
-    "address": "Av. Paseo de la Reforma #26, Floor 36th, Colonia Ju\u00e1rez, Cuauht\u00e9moc, 06600 Mexico City, Mexico",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/MEX-Distrito-Federal-Reforma-26/Visual-Verification---Newsgathering-Producer_JREQ180492/apply",
-    "location": "Mexico City, Mexico",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "You will be based in our Mexico newsroom and will collaborate with video, text and photography colleagues on major global stories \u2013 working on breaking news, personal insight stories, conflicts and in...",
-      "descriptionTeaser_first200": "Visual Verification & Newsgathering Producer. Are you passionate about the chance to bring your experience to a world-class company that is market-leading for both content and technology? If yes, we are...",
-      "descriptionTeaser_keyword": "Visual Verification & Newsgathering Producer. Are you passionate about the chance to bring your experience to a world-class company that is market-leading for both content and technology? If yes, we a...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -99.1510899,
-          "lat": 19.4343664
-        },
-        "location": "Mexico City, Mexico"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Bengaluru, Karnataka",
     "country": "India",
     "ml_skills": [
@@ -5062,75 +5037,6 @@
           "lat": 12.9743998
         },
         "location": "Bengaluru, Karnataka, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Gdansk",
-    "country": "Poland",
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "G. tax returns, etc), extensive researching and analyzing of product exemptions, researching and responding to client inquiries, prioritizing, assessing risk for correspondence and assessments, updati...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "18.5752702",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ179856",
-    "jobId": "JREQ179856",
-    "city": "Gdansk",
-    "latitude": "54.4004235",
-    "locale": "en_US",
-    "multi_location": [
-      "Gdansk, Poland"
-    ],
-    "title": "Tax Associate (Tax Calendar)",
-    "jobSeqNo": "THTTRUUSJREQ179856EXTERNALENUS",
-    "postedDate": "2024-06-25T00:00:00.000+0000",
-    "dateCreated": "2024-06-25T16:41:37.424+0000",
-    "cityStateCountry": "Gdansk, Poland",
-    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/Tax-Associate--Tax-Calendar-_JREQ179856/apply",
-    "location": "Gdansk, Poland",
-    "category": "News & Editorial Careers",
-    "externalApply": true,
-    "ml_skills": [
-      "state tax",
-      "justice",
-      "westlaw",
-      "ukrainian",
-      "commerce",
-      "checkpoint",
-      "customer support",
-      "microsoft excel",
-      "data systems"
-    ],
-    "ml_job_parser": {
-      "descriptionTeaser": "G. tax returns, etc), extensive researching and analyzing of product exemptions, researching and responding to client inquiries, prioritizing, assessing risk for correspondence and assessments, updati...",
-      "descriptionTeaser_keyword": "We welcome applications to our full-time vacancies from all citizens who have been granted protection within the territory of the Republic of Poland under the EU Temporary Protection Directive*. You w...",
-      "descriptionTeaser_ats": "",
-      "descriptionTeaser_first200": "We welcome applications to our full-time vacancies from all citizens who have been granted protection within the territory of the Republic of Poland under the EU Temporary Protection Directive*. You will..."
-    },
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 18.5752702,
-          "lat": 54.4004235
-        },
-        "location": "Gdansk, Poland"
       }
     ],
     "isMultiCategory": true,
