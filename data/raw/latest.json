@@ -1,5 +1,70 @@
 [
   {
+    "cityState": "Beijing, Beijing",
+    "country": "China",
+    "ml_skills": [
+      "digital photography",
+      "visual journalism",
+      "editing",
+      "multimedia",
+      "storytelling"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Experience leading a large team and a proven ability to create a high-performance culture by managing effectively, differentiating performance, developing talent, and building diverse teams. Our indus...",
+    "state": "Beijing",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "116.40108",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ180946",
+    "jobId": "JREQ180946",
+    "city": "Beijing",
+    "latitude": "39.9515199",
+    "locale": "en_US",
+    "multi_location": [
+      "Beijing, Beijing, China"
+    ],
+    "title": "Chief Photographer, Greater China",
+    "jobSeqNo": "THTTRUUSJREQ180946EXTERNALENUS",
+    "postedDate": "2024-08-22T00:00:00.000+0000",
+    "dateCreated": "2024-08-22T04:38:24.417+0000",
+    "cityStateCountry": "Beijing, Beijing, China",
+    "address": "Units 5-12, 18F / 20F, Office Tower E1 of Oriental Plaza, No.1, East Chang An Avenue, Dong Cheng District, Beijing, 100738 Beijing, China",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CHN-Beijing-Oriental-Plaza/Chief-Photographer--Greater-China_JREQ180946/apply",
+    "location": "Beijing, Beijing, China",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Experience leading a large team and a proven ability to create a high-performance culture by managing effectively, differentiating performance, developing talent, and building diverse teams. Our indus...",
+      "descriptionTeaser_first200": "Chief Photographer Greater China, Reuters Pictures. Reuters is looking for a talented and inspirational Chief Photographer to lead the news pictures file for the Greater China region. The Chief Photographer...",
+      "descriptionTeaser_keyword": "Chief Photographer Greater China, Reuters Pictures. Reuters is looking for a talented and inspirational Chief Photographer to lead the news pictures file for the Greater China region. The Chief Photog...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 116.40108,
+          "lat": 39.9515199
+        },
+        "location": "Beijing, Beijing, China"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Gdansk",
     "country": "Poland",
     "ml_skills": [
