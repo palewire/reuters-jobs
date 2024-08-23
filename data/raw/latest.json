@@ -1,5 +1,70 @@
 [
   {
+    "cityState": "Beijing, Beijing",
+    "country": "China",
+    "ml_skills": [
+      "breaking news",
+      "mandarin",
+      "graphics",
+      "multimedia",
+      "dynamics"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Reuters is seeking an outstanding journalist with strong source-building skills, great story ideas and a track record of breaking news to join our Beijing-based team as China metals correspondent. The...",
+    "state": "Beijing",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "116.40108",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ181563",
+    "jobId": "JREQ181563",
+    "city": "Beijing",
+    "latitude": "39.9515199",
+    "locale": "en_US",
+    "multi_location": [
+      "Beijing, Beijing, China"
+    ],
+    "title": "China Metal Correspondent",
+    "jobSeqNo": "THTTRUUSJREQ181563EXTERNALENUS",
+    "postedDate": "2024-08-23T00:00:00.000+0000",
+    "dateCreated": "2024-08-23T04:38:26.879+0000",
+    "cityStateCountry": "Beijing, Beijing, China",
+    "address": "Units 5-12, 18F / 20F, Office Tower E1 of Oriental Plaza, No.1, East Chang An Avenue, Dong Cheng District, Beijing, 100738 Beijing, China",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CHN-Beijing-Oriental-Plaza/China-Metal-Correspondent_JREQ181563/apply",
+    "location": "Beijing, Beijing, China",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Reuters is seeking an outstanding journalist with strong source-building skills, great story ideas and a track record of breaking news to join our Beijing-based team as China metals correspondent. The...",
+      "descriptionTeaser_first200": "China Metals Correspondent. Reuters is seeking an outstanding journalist with strong source-building skills, great story ideas and a track record of breaking news to join our Beijing-based team as China...",
+      "descriptionTeaser_keyword": "China Metals Correspondent. Reuters is seeking an outstanding journalist with strong source-building skills, great story ideas and a track record of breaking news to join our Beijing-based team as Chi...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 116.40108,
+          "lat": 39.9515199
+        },
+        "location": "Beijing, Beijing, China"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "New York, New York",
     "country": "United States of America",
     "remote": "Remote",
