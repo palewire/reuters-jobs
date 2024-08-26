@@ -2572,71 +2572,6 @@
     "badge": ""
   },
   {
-    "cityState": "Wellington",
-    "country": "New Zealand",
-    "ml_skills": [
-      "breaking news",
-      "seo",
-      "multimedia",
-      "newsletters",
-      "ai"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Write and edit breaking news stories from around the globe whilst producing clean, engaging stories at speed. Have strong digital and multimedia expertise and familiarity with the needs of a digital a...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "174.7743618",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ177251",
-    "jobId": "JREQ177251",
-    "city": "Wellington",
-    "latitude": "-41.2859199",
-    "locale": "en_US",
-    "multi_location": [
-      "Wellington, New Zealand"
-    ],
-    "title": "Editor, Global News Desk",
-    "jobSeqNo": "THTTRUUSJREQ177251EXTERNALENUS",
-    "postedDate": "2024-07-29T00:00:00.000+0000",
-    "dateCreated": "2024-04-08T00:40:59.249+0000",
-    "cityStateCountry": "Wellington, New Zealand",
-    "address": "Level 19, Plimmer Towers, 2-6 Gilmer Terrace, Wellington 6011, New Zealand",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/NZL-Wellington-Plimmer-Towers/Editor--Global-News-Desk_JREQ177251/apply",
-    "location": "Wellington, New Zealand",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Write and edit breaking news stories from around the globe whilst producing clean, engaging stories at speed. Have strong digital and multimedia expertise and familiarity with the needs of a digital a...",
-      "descriptionTeaser_first200": "Reuters is looking for an ambitious Editor for our fast-paced, round-the-clock Global News Desk. Expect to work alongside award-winning journalists in a global news organization long recognized for its...",
-      "descriptionTeaser_keyword": "Reuters is looking for an ambitious Editor for our fast-paced, round-the-clock Global News Desk. Expect to work alongside award-winning journalists in a global news organization long recognized for it...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 174.7743618,
-          "lat": -41.2859199
-        },
-        "location": "Wellington, New Zealand"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Eagan, Minnesota",
     "country": "United States of America",
     "ml_skills": [
@@ -2715,6 +2650,71 @@
           "lat": 33.1073049
         },
         "location": "Frisco, Texas, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Wellington",
+    "country": "New Zealand",
+    "ml_skills": [
+      "breaking news",
+      "seo",
+      "multimedia",
+      "newsletters",
+      "ai"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Write and edit breaking news stories from around the globe whilst producing clean, engaging stories at speed. Have strong digital and multimedia expertise and familiarity with the needs of a digital a...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "174.7743618",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ177251",
+    "jobId": "JREQ177251",
+    "city": "Wellington",
+    "latitude": "-41.2859199",
+    "locale": "en_US",
+    "multi_location": [
+      "Wellington, New Zealand"
+    ],
+    "title": "Editor, Global News Desk",
+    "jobSeqNo": "THTTRUUSJREQ177251EXTERNALENUS",
+    "postedDate": "2024-07-29T00:00:00.000+0000",
+    "dateCreated": "2024-04-08T00:40:59.249+0000",
+    "cityStateCountry": "Wellington, New Zealand",
+    "address": "Level 19, Plimmer Towers, 2-6 Gilmer Terrace, Wellington 6011, New Zealand",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/NZL-Wellington-Plimmer-Towers/Editor--Global-News-Desk_JREQ177251/apply",
+    "location": "Wellington, New Zealand",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Write and edit breaking news stories from around the globe whilst producing clean, engaging stories at speed. Have strong digital and multimedia expertise and familiarity with the needs of a digital a...",
+      "descriptionTeaser_first200": "Reuters is looking for an ambitious Editor for our fast-paced, round-the-clock Global News Desk. Expect to work alongside award-winning journalists in a global news organization long recognized for its...",
+      "descriptionTeaser_keyword": "Reuters is looking for an ambitious Editor for our fast-paced, round-the-clock Global News Desk. Expect to work alongside award-winning journalists in a global news organization long recognized for it...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 174.7743618,
+          "lat": -41.2859199
+        },
+        "location": "Wellington, New Zealand"
       }
     ],
     "isMultiCategory": true,
