@@ -1,5 +1,134 @@
 [
   {
+    "cityState": "London",
+    "country": "United Kingdom",
+    "ml_skills": [
+      "corporate law",
+      "editing",
+      "product management"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "As a Senior Specialist Legal Editor in Practical Law, you will use your specialist legal knowledge of advising on corporate law matters to provide and maintain a wide range of Practical Law content. M...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.0185088",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ182038",
+    "jobId": "JREQ182038",
+    "city": "London",
+    "latitude": "51.5056439",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom"
+    ],
+    "title": "Senior Specialist Legal Editor, Practical Law Corporate",
+    "jobSeqNo": "THTTRUUSJREQ182038EXTERNALENUS",
+    "postedDate": "2024-08-30T00:00:00.000+0000",
+    "dateCreated": "2024-08-30T16:38:47.746+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Senior-Specialist-Legal-Editor--Practical-Law-Corporate_JREQ182038-2/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "As a Senior Specialist Legal Editor in Practical Law, you will use your specialist legal knowledge of advising on corporate law matters to provide and maintain a wide range of Practical Law content. M...",
+      "descriptionTeaser_first200": "Senior Specialist Legal Editor, Practical Law Corporate. We are seeking an experienced corporate lawyer to join the Practical Law Corporate team in the UK. Practical Law is a leading online know-h...",
+      "descriptionTeaser_keyword": "Senior Specialist Legal Editor, Practical Law Corporate. We are seeking an experienced corporate lawyer to join the Practical Law Corporate team in the UK. Practical Law is a leading online know-how s...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.0185088,
+          "lat": 51.5056439
+        },
+        "location": "London, United Kingdom"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Mexico City",
+    "country": "Mexico",
+    "ml_skills": [
+      "breaking news",
+      "latin",
+      "french",
+      "multimedia",
+      "portuguese",
+      "immigration"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Reuters is looking for a journalist with strong news judgement and at least five years\u2019 experience working in a news organization to join our Latin American Breaking News Hub in Mexico City....",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-99.1510899",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ181024",
+    "jobId": "JREQ181024",
+    "city": "Mexico City",
+    "latitude": "19.4343664",
+    "locale": "en_US",
+    "multi_location": [
+      "Mexico City, Mexico"
+    ],
+    "title": "Breaking News Correspondent, Latam",
+    "jobSeqNo": "THTTRUUSJREQ181024EXTERNALENUS",
+    "postedDate": "2024-08-30T00:00:00.000+0000",
+    "dateCreated": "2024-08-14T00:39:47.181+0000",
+    "cityStateCountry": "Mexico City, Mexico",
+    "address": "Av. Paseo de la Reforma #26, Floor 36th, Colonia Ju\u00e1rez, Cuauht\u00e9moc, 06600 Mexico City, Mexico",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/MEX-Distrito-Federal-Reforma-26/Breaking-News-Correspondent--Latam_JREQ181024/apply",
+    "location": "Mexico City, Mexico",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Reuters is looking for a journalist with strong news judgement and at least five years\u2019 experience working in a news organization to join our Latin American Breaking News Hub in Mexico City....",
+      "descriptionTeaser_first200": "JREQ181024 Breaking News Correspondent. Breaking News Correspondent, Latam. Reuters is looking for a journalist with strong news judgement and at least five years\u2019 experience working in a news org...",
+      "descriptionTeaser_keyword": "JREQ181024 Breaking News Correspondent. Breaking News Correspondent, Latam. Reuters is looking for a journalist with strong news judgement and at least five years\u2019 experience working in a news organiz...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -99.1510899,
+          "lat": 19.4343664
+        },
+        "location": "Mexico City, Mexico"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Toronto, Ontario",
     "country": "Canada",
     "ml_skills": [
@@ -136,10 +265,10 @@
     "country": "Kazakhstan",
     "ml_skills": [
       "fact-checking",
-      "news writing",
       "current affairs",
-      "multimedia",
-      "kazakh"
+      "news writing",
+      "kazakh",
+      "multimedia"
     ],
     "remote": "Remote",
     "type": "Full time",
@@ -2569,74 +2698,6 @@
     "badge": ""
   },
   {
-    "cityState": "Minneapolis, Minnesota",
-    "country": "United States of America",
-    "ml_skills": [
-      "legal research",
-      "publishing",
-      "justice",
-      "westlaw",
-      "word processing",
-      "commerce",
-      "navigation",
-      "electronic products"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Legal Research, Analysis and Enhancement of Primary Law Content: Create editorial enhancements to help customers understand the context and developments of the law, classify legal information in the f...",
-    "state": "Minnesota",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-93.11319449999999",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ180440",
-    "jobId": "JREQ180440",
-    "city": "Minneapolis",
-    "latitude": "44.8253064",
-    "locale": "en_US",
-    "multi_location": [
-      "Minneapolis, Minnesota, United States of America"
-    ],
-    "title": "Attorney Editor",
-    "jobSeqNo": "THTTRUUSJREQ180440EXTERNALENUS",
-    "postedDate": "2024-07-31T00:00:00.000+0000",
-    "dateCreated": "2024-07-31T20:38:37.059+0000",
-    "cityStateCountry": "Minneapolis, Minnesota, United States of America",
-    "address": "Thomson Reuters, Minneapolis, MN 55111, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Minneapolis-Minnesota/Attorney-Editor_JREQ180440/apply",
-    "location": "Minneapolis, Minnesota, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Legal Research, Analysis and Enhancement of Primary Law Content: Create editorial enhancements to help customers understand the context and developments of the law, classify legal information in the f...",
-      "descriptionTeaser_first200": "Want to work with a team of attorney editors to provide world-class annotated statutory and regulatory information for legal professionals using Thomson Reuters\u2019 Westlaw, ProView and print products? Attorney...",
-      "descriptionTeaser_keyword": "Want to work with a team of attorney editors to provide world-class annotated statutory and regulatory information for legal professionals using Thomson Reuters\u2019 Westlaw, ProView and print products? A...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -93.11319449999999,
-          "lat": 44.8253064
-        },
-        "location": "Minneapolis, Minnesota, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Gdansk",
     "country": "Poland",
     "ml_skills": [
@@ -2757,95 +2818,6 @@
           "lat": 51.5056439
         },
         "location": "London, United Kingdom"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Eagan, Minnesota",
-    "country": "United States of America",
-    "ml_skills": [
-      "commerce",
-      "grammar",
-      "research skills",
-      "justice",
-      "web services"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "The Associate Editor will work with relevant subject matter experts from the Finance Team to create high quality practitioner legal updates of developments in finance law and practice, and to maintain...",
-    "state": "Minnesota",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-93.10808019999999",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ181263",
-    "jobId": "JREQ181263",
-    "city": "Eagan",
-    "latitude": "44.8527611",
-    "locale": "en_US",
-    "multi_location": [
-      "Eagan, Minnesota, United States of America",
-      "Ann Arbor, Michigan, United States of America",
-      "Eagan, Minnesota, United States of America",
-      "Frisco, Texas, United States of America"
-    ],
-    "title": "Associate Editor - Finance",
-    "jobSeqNo": "THTTRUUSJREQ181263EXTERNALENUS",
-    "postedDate": "2024-07-29T00:00:00.000+0000",
-    "dateCreated": "2024-07-30T00:38:49.631+0000",
-    "cityStateCountry": "Eagan, Minnesota, United States of America",
-    "address": "2900 Ames Crossing Road, Ste 100, Eagan, MN 55121, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MSP-2900-Ames-Crossing-Road/Associate-Editor---Finance_JREQ181263/apply",
-    "location": "Eagan, Minnesota, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "The Associate Editor will work with relevant subject matter experts from the Finance Team to create high quality practitioner legal updates of developments in finance law and practice, and to maintain...",
-      "descriptionTeaser_first200": "Associate Editor - Finance. Role Summary. The Associate Editor for the Finance Team is part of a small team of junior editors responsible for working with senior editors on the Finance Team to accomplish...",
-      "descriptionTeaser_keyword": "Associate Editor - Finance. Role Summary. The Associate Editor for the Finance Team is part of a small team of junior editors responsible for working with senior editors on the Finance Team to accompl...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -93.10808019999999,
-          "lat": 44.8527611
-        },
-        "location": "Eagan, Minnesota, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -83.7267835,
-          "lat": 42.1957259
-        },
-        "location": "Ann Arbor, Michigan, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -93.11336709999999,
-          "lat": 44.8250902
-        },
-        "location": "Eagan, Minnesota, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -96.833545,
-          "lat": 33.1073049
-        },
-        "location": "Frisco, Texas, United States of America"
       }
     ],
     "isMultiCategory": true,
@@ -4377,69 +4349,6 @@
           "lat": 14.5344436
         },
         "location": "Manila, Philippines"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "London",
-    "country": "United Kingdom",
-    "ml_skills": [
-      "corporate law",
-      "editing",
-      "product management"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "As a Senior Specialist Legal Editor in Practical Law, you will use your specialist legal knowledge of advising on corporate law matters to provide and maintain a wide range of Practical Law content. M...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-0.0185088",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ179107",
-    "jobId": "JREQ179107",
-    "city": "London",
-    "latitude": "51.5056439",
-    "locale": "en_US",
-    "multi_location": [
-      "London, United Kingdom"
-    ],
-    "title": "Senior Specialist Legal Editor, Practical Law Corporate",
-    "jobSeqNo": "THTTRUUSJREQ179107EXTERNALENUS",
-    "postedDate": "2024-07-04T00:00:00.000+0000",
-    "dateCreated": "2024-05-28T16:41:30.284+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Senior-Specialist-Legal-Editor--Practical-Law-Corporate_JREQ179107/apply",
-    "location": "London, United Kingdom",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "As a Senior Specialist Legal Editor in Practical Law, you will use your specialist legal knowledge of advising on corporate law matters to provide and maintain a wide range of Practical Law content. M...",
-      "descriptionTeaser_first200": "Senior Specialist Legal Editor, Practical Law Corporate. We are seeking an experienced corporate lawyer to join the Practical Law Corporate team in the UK. Practical Law is a leading online know-how service...",
-      "descriptionTeaser_keyword": "Senior Specialist Legal Editor, Practical Law Corporate. We are seeking an experienced corporate lawyer to join the Practical Law Corporate team in the UK. Practical Law is a leading online know-how s...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -0.0185088,
-          "lat": 51.5056439
-        },
-        "location": "London, United Kingdom"
       }
     ],
     "isMultiCategory": true,
