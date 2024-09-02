@@ -1,5 +1,67 @@
 [
   {
+    "cityState": "Auckland",
+    "country": "New Zealand",
+    "ml_skills": [
+      "publishing",
+      "legal research"
+    ],
+    "remote": "Remote",
+    "type": "Part time",
+    "descriptionTeaser": "Legal Research, Analysis and Writing. Verifies own work and that of colleagues and external contributors as required for accuracy, completeness, and quality and ensures that the information is properl...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "174.7497481",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ181559",
+    "jobId": "JREQ181559",
+    "city": "Auckland",
+    "latitude": "-36.8485609",
+    "locale": "en_US",
+    "multi_location": [
+      "Auckland, New Zealand"
+    ],
+    "title": "Casual Senior Legal Editor",
+    "jobSeqNo": "THTTRUUSJREQ181559EXTERNALENUS",
+    "postedDate": "2024-09-02T00:00:00.000+0000",
+    "dateCreated": "2024-09-02T08:39:06.875+0000",
+    "cityStateCountry": "Auckland, New Zealand",
+    "address": "16 College Hill, Ponsonby, Auckland 1144, New Zealand",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/NZL-Auckland-Fosters-House/Casual-Senior-Legal-Editor_JREQ181559-1/apply",
+    "location": "Auckland, New Zealand",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Legal Research, Analysis and Writing. Verifies own work and that of colleagues and external contributors as required for accuracy, completeness, and quality and ensures that the information is properl...",
+      "descriptionTeaser_first200": "Do you have legal qualifications and experience in Hong Kong? We are seeking a Casual Senior Legal Editor to focus on research, analysis and writing to support Hong Kong Law Reports. About the rol...",
+      "descriptionTeaser_keyword": "Do you have legal qualifications and experience in Hong Kong? We are seeking a Casual Senior Legal Editor to focus on research, analysis and writing to support Hong Kong Law Reports. About the role. I...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 174.7497481,
+          "lat": -36.8485609
+        },
+        "location": "Auckland, New Zealand"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Singapore",
     "country": "Singapore",
     "ml_skills": [
@@ -62,68 +124,6 @@
           "lat": 13.7390209
         },
         "location": "Bangkok, Thailand"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Auckland",
-    "country": "New Zealand",
-    "ml_skills": [
-      "publishing",
-      "legal research"
-    ],
-    "remote": "Remote",
-    "type": "Part time",
-    "descriptionTeaser": "Legal Research, Analysis and Writing. Verifies own work and that of colleagues and external contributors as required for accuracy, completeness, and quality and ensures that the information is properl...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "174.7497481",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ181559",
-    "jobId": "JREQ181559",
-    "city": "Auckland",
-    "latitude": "-36.8485609",
-    "locale": "en_US",
-    "multi_location": [
-      "Auckland, New Zealand"
-    ],
-    "title": "Casual Senior Legal Editor",
-    "jobSeqNo": "THTTRUUSJREQ181559EXTERNALENUS",
-    "postedDate": "2024-09-02T00:00:00.000+0000",
-    "dateCreated": "2024-09-02T08:39:06.875+0000",
-    "cityStateCountry": "Auckland, New Zealand",
-    "address": "16 College Hill, Ponsonby, Auckland 1144, New Zealand",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/NZL-Auckland-Fosters-House/Casual-Senior-Legal-Editor_JREQ181559-1/apply",
-    "location": "Auckland, New Zealand",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Legal Research, Analysis and Writing. Verifies own work and that of colleagues and external contributors as required for accuracy, completeness, and quality and ensures that the information is properl...",
-      "descriptionTeaser_first200": "Do you have legal qualifications and experience in Hong Kong? We are seeking a Casual Senior Legal Editor to focus on research, analysis and writing to support Hong Kong Law Reports. About the rol...",
-      "descriptionTeaser_keyword": "Do you have legal qualifications and experience in Hong Kong? We are seeking a Casual Senior Legal Editor to focus on research, analysis and writing to support Hong Kong Law Reports. About the role. I...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 174.7497481,
-          "lat": -36.8485609
-        },
-        "location": "Auckland, New Zealand"
       }
     ],
     "isMultiCategory": true,
