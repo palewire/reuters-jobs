@@ -1,5 +1,71 @@
 [
   {
+    "cityState": "S\u00e3o Paulo, S\u00e3o Paulo",
+    "country": "Brazil",
+    "ml_skills": [
+      "video editing",
+      "breaking news",
+      "creative shooting",
+      "storytelling",
+      "multimedia",
+      "agility"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Advanced mirorless camera and video editing skills, with the ability to shoot and produce basic news edits against very tight deadlines. Willingness to work both alone and with a wider collaborative t...",
+    "state": "S\u00e3o Paulo",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-46.6835209",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ182305",
+    "jobId": "JREQ182305",
+    "city": "S\u00e3o Paulo",
+    "latitude": "-23.5990338",
+    "locale": "en_US",
+    "multi_location": [
+      "S\u00e3o Paulo, S\u00e3o Paulo, Brazil"
+    ],
+    "title": "Jornalista de Video",
+    "jobSeqNo": "THTTRUUSJREQ182305EXTERNALENUS",
+    "postedDate": "2024-09-05T00:00:00.000+0000",
+    "dateCreated": "2024-09-05T20:39:25.929+0000",
+    "cityStateCountry": "S\u00e3o Paulo, S\u00e3o Paulo, Brazil",
+    "address": "Av. Cardoso de Melo nr. 1855 - 13\u00ba andar, Vila Ol\u03c6mpia, S\u00e3o Paulo- SP, 04548005, Brazil",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/BRA-So-Paulo-Av-Cardoso-de-Me/Jornalista-de-Video_JREQ182305/apply",
+    "location": "S\u00e3o Paulo, S\u00e3o Paulo, Brazil",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Advanced mirorless camera and video editing skills, with the ability to shoot and produce basic news edits against very tight deadlines. Willingness to work both alone and with a wider collaborative t...",
+      "descriptionTeaser_first200": "Reuters is looking for a dynamic video journalist with a creative flair and strong teamwork skills to join our Latam team based in Sao Paulo, Brazil. This role requires passion for Brazilian news...",
+      "descriptionTeaser_keyword": "Reuters is looking for a dynamic video journalist with a creative flair and strong teamwork skills to join our Latam team based in Sao Paulo, Brazil. This role requires passion for Brazilian news and...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -46.6835209,
+          "lat": -23.5990338
+        },
+        "location": "S\u00e3o Paulo, S\u00e3o Paulo, Brazil"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Bengaluru, Karnataka",
     "country": "India",
     "ml_skills": [
@@ -4421,99 +4487,6 @@
           "lat": 12.9743998
         },
         "location": "Bengaluru, Karnataka, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Washington, District of Columbia",
-    "country": "United States of America",
-    "ml_skills": [
-      "tax research",
-      "corporate tax",
-      "commerce",
-      "online research",
-      "microsoft excel",
-      "product management",
-      "checkpoint",
-      "westlaw",
-      "customer support"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Tax Research & Content Analyst is responsible for research, configuration, ongoing maintenance, enhancements, and testing to ensure that ONESOURCE\u2122 applications and offerings comply with tax rules and...",
-    "state": "District of Columbia",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-77.0311952",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ179803",
-    "jobId": "JREQ179803",
-    "city": "Washington",
-    "latitude": "38.9004793",
-    "locale": "en_US",
-    "multi_location": [
-      "Washington, District of Columbia, United States of America",
-      "Ann Arbor, Michigan, United States of America",
-      "Eagan, Minnesota, United States of America",
-      "New York, New York, United States of America"
-    ],
-    "title": "Senior Tax Analyst, Tax Research & Content",
-    "jobSeqNo": "THTTRUUSJREQ179803EXTERNALENUS",
-    "postedDate": "2024-07-03T00:00:00.000+0000",
-    "dateCreated": "2024-06-11T16:41:37.091+0000",
-    "cityStateCountry": "Washington, District of Columbia, United States of America",
-    "address": "1333 H Street NW, Suite 500, Washington, DC 20005, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Washington-1333-H-Street-N/Senior-Tax-Analyst--Tax-Research---Content_JREQ179803/apply",
-    "location": "Washington, District of Columbia, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Tax Research & Content Analyst is responsible for research, configuration, ongoing maintenance, enhancements, and testing to ensure that ONESOURCE\u2122 applications and offerings comply with tax rules and...",
-      "descriptionTeaser_first200": "The Sr. Tax Research & Content Analyst is responsible for research, configuration, ongoing maintenance, enhancements, and testing to ensure that ONESOURCE\u2122 applications and offerings comply with t...",
-      "descriptionTeaser_keyword": "The Sr. Tax Research & Content Analyst is responsible for research, configuration, ongoing maintenance, enhancements, and testing to ensure that ONESOURCE\u2122 applications and offerings comply with tax r...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -77.0311952,
-          "lat": 38.9004793
-        },
-        "location": "Washington, District of Columbia, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -83.7267835,
-          "lat": 42.1957259
-        },
-        "location": "Ann Arbor, Michigan, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -93.10808019999999,
-          "lat": 44.8527611
-        },
-        "location": "Eagan, Minnesota, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -73.9866995,
-          "lat": 40.7566955
-        },
-        "location": "New York, New York, United States of America"
       }
     ],
     "isMultiCategory": true,
