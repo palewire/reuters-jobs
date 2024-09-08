@@ -222,67 +222,6 @@
     "badge": ""
   },
   {
-    "cityState": "Bengaluru, Karnataka",
-    "country": "India",
-    "ml_skills": [
-      "multimedia"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Reuters supplies business, financial, national, and international news to professionals via desktop terminals; some of the world's largest media organizations; industry events; and directly to consume...",
-    "state": "Karnataka",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "77.7120655",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ181084",
-    "jobId": "JREQ181084",
-    "city": "Bengaluru",
-    "latitude": "12.9743998",
-    "locale": "en_US",
-    "multi_location": [
-      "Bengaluru, Karnataka, India"
-    ],
-    "title": "Reuters Correspondent",
-    "jobSeqNo": "THTTRUUSJREQ181084EXTERNALENUS",
-    "postedDate": "2024-09-04T00:00:00.000+0000",
-    "dateCreated": "2024-09-04T20:40:52.696+0000",
-    "cityStateCountry": "Bengaluru, Karnataka, India",
-    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/Reuters-Correspondent_JREQ181084/apply",
-    "location": "Bengaluru, Karnataka, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Reuters supplies business, financial, national, and international news to professionals via desktop terminals; some of the world's largest media organizations; industry events; and directly to consume...",
-      "descriptionTeaser_first200": "Blurb for Social Media . Do you have a passion for following global news? Are you interested in writing, reporting, editing, curating news from across the world that covers companies, markets, com...",
-      "descriptionTeaser_keyword": "Blurb for Social Media. Do you have a passion for following global news? Are you interested in writing, reporting, editing, curating news from across the world that covers companies, markets, commodit...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 77.7120655,
-          "lat": 12.9743998
-        },
-        "location": "Bengaluru, Karnataka, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "London",
     "country": "United Kingdom",
     "ml_skills": [
@@ -349,6 +288,67 @@
           "lat": 51.5056439
         },
         "location": "London, United Kingdom"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Bengaluru, Karnataka",
+    "country": "India",
+    "ml_skills": [
+      "multimedia"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Reuters supplies business, financial, national, and international news to professionals via desktop terminals; some of the world's largest media organizations; industry events; and directly to consume...",
+    "state": "Karnataka",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "77.7120655",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ181084",
+    "jobId": "JREQ181084",
+    "city": "Bengaluru",
+    "latitude": "12.9743998",
+    "locale": "en_US",
+    "multi_location": [
+      "Bengaluru, Karnataka, India"
+    ],
+    "title": "Reuters Correspondent",
+    "jobSeqNo": "THTTRUUSJREQ181084EXTERNALENUS",
+    "postedDate": "2024-09-04T00:00:00.000+0000",
+    "dateCreated": "2024-09-04T20:40:52.696+0000",
+    "cityStateCountry": "Bengaluru, Karnataka, India",
+    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/Reuters-Correspondent_JREQ181084/apply",
+    "location": "Bengaluru, Karnataka, India",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Reuters supplies business, financial, national, and international news to professionals via desktop terminals; some of the world's largest media organizations; industry events; and directly to consume...",
+      "descriptionTeaser_first200": "Blurb for Social Media . Do you have a passion for following global news? Are you interested in writing, reporting, editing, curating news from across the world that covers companies, markets, com...",
+      "descriptionTeaser_keyword": "Blurb for Social Media. Do you have a passion for following global news? Are you interested in writing, reporting, editing, curating news from across the world that covers companies, markets, commodit...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 77.7120655,
+          "lat": 12.9743998
+        },
+        "location": "Bengaluru, Karnataka, India"
       }
     ],
     "isMultiCategory": true,
@@ -1020,71 +1020,6 @@
     "badge": ""
   },
   {
-    "cityState": "London",
-    "country": "United Kingdom",
-    "ml_skills": [
-      "numeracy",
-      "data visualization",
-      "graphics",
-      "breaking news",
-      "multimedia"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "We're looking for someone with a high level of numeracy, strong data visualization skills, and the ability to discuss complex financial subjects in an engaging manner. Research and write original, dat...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-0.0185088",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ181989",
-    "jobId": "JREQ181989",
-    "city": "London",
-    "latitude": "51.5056439",
-    "locale": "en_US",
-    "multi_location": [
-      "London, United Kingdom"
-    ],
-    "title": "Commodities Columnist, Reuters Commentary",
-    "jobSeqNo": "THTTRUUSJREQ181989EXTERNALENUS",
-    "postedDate": "2024-08-23T00:00:00.000+0000",
-    "dateCreated": "2024-08-23T12:38:27.245+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Commodities-Columnist--Reuters-Commentary_JREQ181989/apply",
-    "location": "London, United Kingdom",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "We're looking for someone with a high level of numeracy, strong data visualization skills, and the ability to discuss complex financial subjects in an engaging manner. Research and write original, dat...",
-      "descriptionTeaser_first200": "Commodities Columnist - Reuters Commentary. We envisage the successful candidate for this position being based in London. Other global locations will also be considered. We\u2019re looking for a skilled columnist...",
-      "descriptionTeaser_keyword": "Commodities Columnist - Reuters Commentary. We envisage the successful candidate for this position being based in London. Other global locations will also be considered. We\u2019re looking for a skilled co...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -0.0185088,
-          "lat": 51.5056439
-        },
-        "location": "London, United Kingdom"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "New York, New York",
     "country": "United States of America",
     "ml_skills": [
@@ -1205,6 +1140,71 @@
           "lat": 43.6480117
         },
         "location": "Toronto, Ontario, Canada"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "London",
+    "country": "United Kingdom",
+    "ml_skills": [
+      "numeracy",
+      "data visualization",
+      "graphics",
+      "breaking news",
+      "multimedia"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "We're looking for someone with a high level of numeracy, strong data visualization skills, and the ability to discuss complex financial subjects in an engaging manner. Research and write original, dat...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.0185088",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ181989",
+    "jobId": "JREQ181989",
+    "city": "London",
+    "latitude": "51.5056439",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom"
+    ],
+    "title": "Commodities Columnist, Reuters Commentary",
+    "jobSeqNo": "THTTRUUSJREQ181989EXTERNALENUS",
+    "postedDate": "2024-08-23T00:00:00.000+0000",
+    "dateCreated": "2024-08-23T12:38:27.245+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Commodities-Columnist--Reuters-Commentary_JREQ181989/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "We're looking for someone with a high level of numeracy, strong data visualization skills, and the ability to discuss complex financial subjects in an engaging manner. Research and write original, dat...",
+      "descriptionTeaser_first200": "Commodities Columnist - Reuters Commentary. We envisage the successful candidate for this position being based in London. Other global locations will also be considered. We\u2019re looking for a skilled columnist...",
+      "descriptionTeaser_keyword": "Commodities Columnist - Reuters Commentary. We envisage the successful candidate for this position being based in London. Other global locations will also be considered. We\u2019re looking for a skilled co...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.0185088,
+          "lat": 51.5056439
+        },
+        "location": "London, United Kingdom"
       }
     ],
     "isMultiCategory": true,
@@ -2387,6 +2387,79 @@
     "badge": ""
   },
   {
+    "cityState": "London",
+    "country": "United Kingdom",
+    "ml_skills": [
+      "motion graphics",
+      "animation",
+      "graphics",
+      "adobe creative suite",
+      "visual effects",
+      "multimedia",
+      "video editing",
+      "digital video",
+      "visual storytelling",
+      "video editing software",
+      "typography",
+      "digital assets",
+      "ai tools"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "The successful candidate will be responsible for conceptualizing, designing, and animating dynamic motion graphics to enhance our digital video content. They will have a strong portfolio showcasing cr...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.0185088",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ180720",
+    "jobId": "JREQ180720",
+    "city": "London",
+    "latitude": "51.5056439",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom"
+    ],
+    "title": "Motion Graphics Designer",
+    "jobSeqNo": "THTTRUUSJREQ180720EXTERNALENUS",
+    "postedDate": "2024-08-08T00:00:00.000+0000",
+    "dateCreated": "2024-08-08T12:38:51.833+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Motion-Graphics-Designer_JREQ180720/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "The successful candidate will be responsible for conceptualizing, designing, and animating dynamic motion graphics to enhance our digital video content. They will have a strong portfolio showcasing cr...",
+      "descriptionTeaser_first200": "Motion Graphics Designer, Reuters Packaged Video, London . Reuters is seeking a talented Motion Graphics Designer. The successful candidate will be responsible for conceptualizing, designing, and animating...",
+      "descriptionTeaser_keyword": "Motion Graphics Designer, Reuters Packaged Video, London. Reuters is seeking a talented Motion Graphics Designer. The successful candidate will be responsible for conceptualizing, designing, and anima...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.0185088,
+          "lat": 51.5056439
+        },
+        "location": "London, United Kingdom"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Hyderabad, Telangana",
     "country": "India",
     "ml_skills": [
@@ -2506,79 +2579,6 @@
           "lat": 54.4004235
         },
         "location": "Gdansk, Poland"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "London",
-    "country": "United Kingdom",
-    "ml_skills": [
-      "motion graphics",
-      "animation",
-      "graphics",
-      "adobe creative suite",
-      "visual effects",
-      "multimedia",
-      "video editing",
-      "digital video",
-      "visual storytelling",
-      "video editing software",
-      "typography",
-      "digital assets",
-      "ai tools"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "The successful candidate will be responsible for conceptualizing, designing, and animating dynamic motion graphics to enhance our digital video content. They will have a strong portfolio showcasing cr...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-0.0185088",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ180720",
-    "jobId": "JREQ180720",
-    "city": "London",
-    "latitude": "51.5056439",
-    "locale": "en_US",
-    "multi_location": [
-      "London, United Kingdom"
-    ],
-    "title": "Motion Graphics Designer",
-    "jobSeqNo": "THTTRUUSJREQ180720EXTERNALENUS",
-    "postedDate": "2024-08-08T00:00:00.000+0000",
-    "dateCreated": "2024-08-08T12:38:51.833+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Motion-Graphics-Designer_JREQ180720/apply",
-    "location": "London, United Kingdom",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "The successful candidate will be responsible for conceptualizing, designing, and animating dynamic motion graphics to enhance our digital video content. They will have a strong portfolio showcasing cr...",
-      "descriptionTeaser_first200": "Motion Graphics Designer, Reuters Packaged Video, London . Reuters is seeking a talented Motion Graphics Designer. The successful candidate will be responsible for conceptualizing, designing, and animating...",
-      "descriptionTeaser_keyword": "Motion Graphics Designer, Reuters Packaged Video, London. Reuters is seeking a talented Motion Graphics Designer. The successful candidate will be responsible for conceptualizing, designing, and anima...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -0.0185088,
-          "lat": 51.5056439
-        },
-        "location": "London, United Kingdom"
       }
     ],
     "isMultiCategory": true,
@@ -2785,71 +2785,6 @@
     "badge": ""
   },
   {
-    "cityState": "Washington, District of Columbia",
-    "country": "United States of America",
-    "ml_skills": [
-      "journalism",
-      "breaking news",
-      "multimedia",
-      "graphics",
-      "numeracy"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "The reporter should be creative and collaborative \u2013 capable of generating ambitious story ideas and project proposals on their own, and also able to work closely with other reporters on our team and o...",
-    "state": "District of Columbia",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-77.0311952",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ181006",
-    "jobId": "JREQ181006",
-    "city": "Washington",
-    "latitude": "38.9004793",
-    "locale": "en_US",
-    "multi_location": [
-      "Washington, District of Columbia, United States of America"
-    ],
-    "title": "Business Investigations Reporter (Level 1 Journalist)",
-    "jobSeqNo": "THTTRUUSJREQ181006EXTERNALENUS",
-    "postedDate": "2024-08-05T00:00:00.000+0000",
-    "dateCreated": "2024-08-05T16:38:03.062+0000",
-    "cityStateCountry": "Washington, District of Columbia, United States of America",
-    "address": "1333 H Street NW, Suite 500, Washington, DC 20005, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Washington-1333-H-Street-N/Business-Investigations-Reporter--Level-1-Journalist-_JREQ181006-1/apply",
-    "location": "Washington, District of Columbia, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "The reporter should be creative and collaborative \u2013 capable of generating ambitious story ideas and project proposals on their own, and also able to work closely with other reporters on our team and o...",
-      "descriptionTeaser_first200": "Reuters is looking for an intrepid, tenacious and accomplished reporter for its new Business Investigations unit. The team, part of the Reuters Global Enterprise team, will produce a mixture of quick-turnaround...",
-      "descriptionTeaser_keyword": "Reuters is looking for an intrepid, tenacious and accomplished reporter for its new Business Investigations unit. The team, part of the Reuters Global Enterprise team, will produce a mixture of quick-...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -77.0311952,
-          "lat": 38.9004793
-        },
-        "location": "Washington, District of Columbia, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Hong Kong",
     "country": "Hong Kong",
     "ml_skills": [
@@ -2910,6 +2845,71 @@
           "lat": 31.24097799999999
         },
         "location": "Shanghai, Shanghai, China"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Washington, District of Columbia",
+    "country": "United States of America",
+    "ml_skills": [
+      "journalism",
+      "breaking news",
+      "multimedia",
+      "graphics",
+      "numeracy"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "The reporter should be creative and collaborative \u2013 capable of generating ambitious story ideas and project proposals on their own, and also able to work closely with other reporters on our team and o...",
+    "state": "District of Columbia",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-77.0311952",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ181006",
+    "jobId": "JREQ181006",
+    "city": "Washington",
+    "latitude": "38.9004793",
+    "locale": "en_US",
+    "multi_location": [
+      "Washington, District of Columbia, United States of America"
+    ],
+    "title": "Business Investigations Reporter (Level 1 Journalist)",
+    "jobSeqNo": "THTTRUUSJREQ181006EXTERNALENUS",
+    "postedDate": "2024-08-05T00:00:00.000+0000",
+    "dateCreated": "2024-08-05T16:38:03.062+0000",
+    "cityStateCountry": "Washington, District of Columbia, United States of America",
+    "address": "1333 H Street NW, Suite 500, Washington, DC 20005, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Washington-1333-H-Street-N/Business-Investigations-Reporter--Level-1-Journalist-_JREQ181006-1/apply",
+    "location": "Washington, District of Columbia, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "The reporter should be creative and collaborative \u2013 capable of generating ambitious story ideas and project proposals on their own, and also able to work closely with other reporters on our team and o...",
+      "descriptionTeaser_first200": "Reuters is looking for an intrepid, tenacious and accomplished reporter for its new Business Investigations unit. The team, part of the Reuters Global Enterprise team, will produce a mixture of quick-turnaround...",
+      "descriptionTeaser_keyword": "Reuters is looking for an intrepid, tenacious and accomplished reporter for its new Business Investigations unit. The team, part of the Reuters Global Enterprise team, will produce a mixture of quick-...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -77.0311952,
+          "lat": 38.9004793
+        },
+        "location": "Washington, District of Columbia, United States of America"
       }
     ],
     "isMultiCategory": true,
@@ -3317,6 +3317,69 @@
     "badge": ""
   },
   {
+    "cityState": "Dubai",
+    "country": "United Arab Emirates",
+    "ml_skills": [
+      "editing",
+      "content strategy",
+      "arabic"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "As part of the role, the Senior Specialist Legal Editors will help to define the jurisdiction\u2019s content strategy and be responsible for drafting high quality content, which meets our customers\u2019 needs....",
+    "state": "Dubai",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "55.1575893",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ181029",
+    "jobId": "JREQ181029",
+    "city": "",
+    "latitude": "25.0961362",
+    "locale": "en_US",
+    "multi_location": [
+      "Dubai, United Arab Emirates"
+    ],
+    "title": "\u200bSenior Specialist Legal Editor, Practical Law (Middle East)\u00a0",
+    "jobSeqNo": "THTTRUUSJREQ181029EXTERNALENUS",
+    "postedDate": "2024-07-22T00:00:00.000+0000",
+    "dateCreated": "2024-07-22T16:38:23.106+0000",
+    "cityStateCountry": "Dubai, United Arab Emirates",
+    "address": "Reuters Ltd, Office 501, Building 1, 5th Floor Dubai Media City, Dubai, United Arab Emirates",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/ARE-Dubai-Dubai-Media-City/XMLNAME--Senior-Specialist-Legal-Editor--Practical-Law--Middle-East--_JREQ181029/apply",
+    "location": "Dubai, United Arab Emirates",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "As part of the role, the Senior Specialist Legal Editors will help to define the jurisdiction\u2019s content strategy and be responsible for drafting high quality content, which meets our customers\u2019 needs....",
+      "descriptionTeaser_first200": "Senior Specialist Legal Editor, Practical Law (Middle East) . Are you a lawyer looking for a career change? We are seeking an experienced lawyer to join the Practical Law Middle East team based in the...",
+      "descriptionTeaser_keyword": "Senior Specialist Legal Editor, Practical Law (Middle East). Are you a lawyer looking for a career change? We are seeking an experienced lawyer to join the Practical Law Middle East team based in the...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 55.1575893,
+          "lat": 25.0961362
+        },
+        "location": "Dubai, United Arab Emirates"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "London",
     "country": "United Kingdom",
     "ml_skills": [
@@ -3370,69 +3433,6 @@
           "lat": 51.5056439
         },
         "location": "London, United Kingdom"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Dubai",
-    "country": "United Arab Emirates",
-    "ml_skills": [
-      "editing",
-      "content strategy",
-      "arabic"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "As part of the role, the Senior Specialist Legal Editors will help to define the jurisdiction\u2019s content strategy and be responsible for drafting high quality content, which meets our customers\u2019 needs....",
-    "state": "Dubai",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "55.1575893",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ181029",
-    "jobId": "JREQ181029",
-    "city": "",
-    "latitude": "25.0961362",
-    "locale": "en_US",
-    "multi_location": [
-      "Dubai, United Arab Emirates"
-    ],
-    "title": "\u200bSenior Specialist Legal Editor, Practical Law (Middle East)\u00a0",
-    "jobSeqNo": "THTTRUUSJREQ181029EXTERNALENUS",
-    "postedDate": "2024-07-22T00:00:00.000+0000",
-    "dateCreated": "2024-07-22T16:38:23.106+0000",
-    "cityStateCountry": "Dubai, United Arab Emirates",
-    "address": "Reuters Ltd, Office 501, Building 1, 5th Floor Dubai Media City, Dubai, United Arab Emirates",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/ARE-Dubai-Dubai-Media-City/XMLNAME--Senior-Specialist-Legal-Editor--Practical-Law--Middle-East--_JREQ181029/apply",
-    "location": "Dubai, United Arab Emirates",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "As part of the role, the Senior Specialist Legal Editors will help to define the jurisdiction\u2019s content strategy and be responsible for drafting high quality content, which meets our customers\u2019 needs....",
-      "descriptionTeaser_first200": "Senior Specialist Legal Editor, Practical Law (Middle East) . Are you a lawyer looking for a career change? We are seeking an experienced lawyer to join the Practical Law Middle East team based in the...",
-      "descriptionTeaser_keyword": "Senior Specialist Legal Editor, Practical Law (Middle East). Are you a lawyer looking for a career change? We are seeking an experienced lawyer to join the Practical Law Middle East team based in the...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 55.1575893,
-          "lat": 25.0961362
-        },
-        "location": "Dubai, United Arab Emirates"
       }
     ],
     "isMultiCategory": true,
@@ -4103,6 +4103,81 @@
     "badge": ""
   },
   {
+    "cityState": "Buenos Aires",
+    "country": "Argentina",
+    "ml_skills": [
+      "publicaci\u00f3n",
+      "job postings",
+      "reasonable",
+      "thomson reuters",
+      "presentaci\u00f3n",
+      "editorial",
+      "linkedin",
+      "preparaci\u00f3n",
+      "modelo",
+      "legal",
+      "learning",
+      "flexible",
+      "accessibility",
+      "mentoring",
+      "operaciones"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "We are powered by the talents of 26,000 employees across more than 70 countries, where everyone has a chance to contribute and grow professionally in flexible work environments that celebrate diversit...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-58.3875561",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ180065",
+    "jobId": "JREQ180065",
+    "city": "Buenos Aires",
+    "latitude": "-34.6016107",
+    "locale": "en_US",
+    "multi_location": [
+      "Buenos Aires, Argentina"
+    ],
+    "title": "Legal Editor Analyst",
+    "jobSeqNo": "THTTRUUSJREQ180065EXTERNALENUS",
+    "postedDate": "2024-07-11T00:00:00.000+0000",
+    "dateCreated": "2024-07-12T00:40:25.917+0000",
+    "cityStateCountry": "Buenos Aires, Argentina",
+    "address": "Tucuman 1471, C1050AAB Buenos Aires, Argentina",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/ARG-Buenos-Aires-Tucuman-1471/Legal-Editor-Analyst_JREQ180065/apply",
+    "location": "Buenos Aires, Argentina",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "We are powered by the talents of 26,000 employees across more than 70 countries, where everyone has a chance to contribute and grow professionally in flexible work environments that celebrate diversit...",
+      "descriptionTeaser_keyword": "Introduction. En Thomson Reuters, creemos que lo que hacemos importa. Nos apasiona nuestro trabajo, inspirados por el impacto que tiene en nuestro negocio y en nuestros clientes. Como equipo, creemos...",
+      "descriptionTeaser_first200": "Introduction. En Thomson Reuters, creemos que lo que hacemos importa. Nos apasiona nuestro trabajo, inspirados por el impacto que tiene en nuestro negocio y en nuestros clientes. Como equipo, creemos...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -58.3875561,
+          "lat": -34.6016107
+        },
+        "location": "Buenos Aires, Argentina"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Eagan, Minnesota",
     "country": "United States of America",
     "ml_skills": [
@@ -4176,81 +4251,6 @@
           "lat": 33.083351
         },
         "location": "Dallas, Texas, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Buenos Aires",
-    "country": "Argentina",
-    "ml_skills": [
-      "publicaci\u00f3n",
-      "job postings",
-      "reasonable",
-      "thomson reuters",
-      "presentaci\u00f3n",
-      "editorial",
-      "linkedin",
-      "preparaci\u00f3n",
-      "modelo",
-      "legal",
-      "learning",
-      "flexible",
-      "accessibility",
-      "mentoring",
-      "operaciones"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "We are powered by the talents of 26,000 employees across more than 70 countries, where everyone has a chance to contribute and grow professionally in flexible work environments that celebrate diversit...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-58.3875561",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ180065",
-    "jobId": "JREQ180065",
-    "city": "Buenos Aires",
-    "latitude": "-34.6016107",
-    "locale": "en_US",
-    "multi_location": [
-      "Buenos Aires, Argentina"
-    ],
-    "title": "Legal Editor Analyst",
-    "jobSeqNo": "THTTRUUSJREQ180065EXTERNALENUS",
-    "postedDate": "2024-07-11T00:00:00.000+0000",
-    "dateCreated": "2024-07-12T00:40:25.917+0000",
-    "cityStateCountry": "Buenos Aires, Argentina",
-    "address": "Tucuman 1471, C1050AAB Buenos Aires, Argentina",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/ARG-Buenos-Aires-Tucuman-1471/Legal-Editor-Analyst_JREQ180065/apply",
-    "location": "Buenos Aires, Argentina",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "We are powered by the talents of 26,000 employees across more than 70 countries, where everyone has a chance to contribute and grow professionally in flexible work environments that celebrate diversit...",
-      "descriptionTeaser_keyword": "Introduction. En Thomson Reuters, creemos que lo que hacemos importa. Nos apasiona nuestro trabajo, inspirados por el impacto que tiene en nuestro negocio y en nuestros clientes. Como equipo, creemos...",
-      "descriptionTeaser_first200": "Introduction. En Thomson Reuters, creemos que lo que hacemos importa. Nos apasiona nuestro trabajo, inspirados por el impacto que tiene en nuestro negocio y en nuestros clientes. Como equipo, creemos...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -58.3875561,
-          "lat": -34.6016107
-        },
-        "location": "Buenos Aires, Argentina"
       }
     ],
     "isMultiCategory": true,
@@ -4458,69 +4458,6 @@
     "cityState": "Bengaluru, Karnataka",
     "country": "India",
     "ml_skills": [
-      "grammar",
-      "captions",
-      "multimedia"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Have the news judgment to differentiate between news that can make or break a company and PR speak - and be able to prioritize news, analysis and views for an investment audience. A journalist will be...",
-    "state": "Karnataka",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "0.0",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ179956",
-    "jobId": "JREQ179956",
-    "city": "Bengaluru",
-    "latitude": "0.0",
-    "locale": "en_US",
-    "multi_location": [
-      "Bengaluru, Karnataka, India"
-    ],
-    "title": "Correspondent",
-    "jobSeqNo": "THTTRUUSJREQ179956EXTERNALENUS",
-    "postedDate": "2024-07-03T00:00:00.000+0000",
-    "dateCreated": "2024-07-03T12:40:54.891+0000",
-    "cityStateCountry": "Bengaluru, Karnataka, India",
-    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/Correspondent_JREQ179956/apply",
-    "location": "Bengaluru, Karnataka, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Have the news judgment to differentiate between news that can make or break a company and PR speak - and be able to prioritize news, analysis and views for an investment audience. A journalist will be...",
-      "descriptionTeaser_first200": "Correspondent. We're looking for a talented, well-organized news hound to be a part of Reuters\u2019 Bangalore newsroom. The successful candidate will be a people person, a great communicator and, above all,...",
-      "descriptionTeaser_keyword": "Correspondent. We're looking for a talented, well-organized news hound to be a part of Reuters\u2019 Bangalore newsroom. The successful candidate will be a people person, a great communicator and, above al...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 0,
-          "lat": 0
-        },
-        "location": "Bengaluru, Karnataka, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Bengaluru, Karnataka",
-    "country": "India",
-    "ml_skills": [
       "multimedia",
       "financial markets",
       "lynx"
@@ -4578,6 +4515,69 @@
           "lat": 0
         },
         "location": "Mumbai, Maharashtra, India"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Bengaluru, Karnataka",
+    "country": "India",
+    "ml_skills": [
+      "grammar",
+      "captions",
+      "multimedia"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Have the news judgment to differentiate between news that can make or break a company and PR speak - and be able to prioritize news, analysis and views for an investment audience. A journalist will be...",
+    "state": "Karnataka",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "0.0",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ179956",
+    "jobId": "JREQ179956",
+    "city": "Bengaluru",
+    "latitude": "0.0",
+    "locale": "en_US",
+    "multi_location": [
+      "Bengaluru, Karnataka, India"
+    ],
+    "title": "Correspondent",
+    "jobSeqNo": "THTTRUUSJREQ179956EXTERNALENUS",
+    "postedDate": "2024-07-03T00:00:00.000+0000",
+    "dateCreated": "2024-07-03T12:40:54.891+0000",
+    "cityStateCountry": "Bengaluru, Karnataka, India",
+    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/Correspondent_JREQ179956/apply",
+    "location": "Bengaluru, Karnataka, India",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Have the news judgment to differentiate between news that can make or break a company and PR speak - and be able to prioritize news, analysis and views for an investment audience. A journalist will be...",
+      "descriptionTeaser_first200": "Correspondent. We're looking for a talented, well-organized news hound to be a part of Reuters\u2019 Bangalore newsroom. The successful candidate will be a people person, a great communicator and, above all,...",
+      "descriptionTeaser_keyword": "Correspondent. We're looking for a talented, well-organized news hound to be a part of Reuters\u2019 Bangalore newsroom. The successful candidate will be a people person, a great communicator and, above al...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 0,
+          "lat": 0
+        },
+        "location": "Bengaluru, Karnataka, India"
       }
     ],
     "isMultiCategory": true,
