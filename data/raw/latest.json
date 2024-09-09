@@ -71,6 +71,136 @@
     "badge": ""
   },
   {
+    "cityState": "Hyderabad, Telangana",
+    "country": "India",
+    "ml_skills": [
+      "quality assurance",
+      "regression testing",
+      "xml",
+      "product development",
+      "microsoft office suite",
+      "tax software"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Candidate would be working on the testing of software by creating various scenarios through locators and generates the output in xml. Candidate must be independently able to analyze and resolve comple...",
+    "state": "Telangana",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "78.3847282",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ181604",
+    "jobId": "JREQ181604",
+    "city": "Hyderabad",
+    "latitude": "17.438325",
+    "locale": "en_US",
+    "multi_location": [
+      "Hyderabad, Telangana, India"
+    ],
+    "title": "Associate Quality Assurance & E-file Analyst",
+    "jobSeqNo": "THTTRUUSJREQ181604EXTERNALENUS",
+    "postedDate": "2024-09-09T00:00:00.000+0000",
+    "dateCreated": "2024-09-09T12:38:24.023+0000",
+    "cityStateCountry": "Hyderabad, Telangana, India",
+    "address": "Floor 12, 13 & 14, Building 11, Raheja Mindspace, Madhapur, Hyderabad- 500081, Telangana, India",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Hyderabad-Raheja-Mindspace/Associate-Quality-Assurance---E-file-Analyst_JREQ181604/apply",
+    "location": "Hyderabad, Telangana, India",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Candidate would be working on the testing of software by creating various scenarios through locators and generates the output in xml. Candidate must be independently able to analyze and resolve comple...",
+      "descriptionTeaser_first200": "Job Summary. The Quality Assurance & e-file Analyst is responsible for providing analysis of data, calculations, testing and documentation support to the Thomson Reuters business tax product devel...",
+      "descriptionTeaser_keyword": "Job Summary. The Quality Assurance & e-file Analyst is responsible for providing analysis of data, calculations, testing and documentation support to the Thomson Reuters business tax product developme...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 78.3847282,
+          "lat": 17.438325
+        },
+        "location": "Hyderabad, Telangana, India"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Gdansk",
+    "country": "Poland",
+    "ml_skills": [
+      "press releases",
+      "vocabulary",
+      "multimedia",
+      "dutch"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Reuters is seeking candidates who can speak fluent French to join its real-time news operation in Gdansk, Poland. Scan press releases from companies and regulators in French and English to quickly ide...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "18.5752702",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ179409",
+    "jobId": "JREQ179409",
+    "city": "Gdansk",
+    "latitude": "54.4004235",
+    "locale": "en_US",
+    "multi_location": [
+      "Gdansk, Poland"
+    ],
+    "title": "News Reporter with French, Reuters",
+    "jobSeqNo": "THTTRUUSJREQ179409EXTERNALENUS",
+    "postedDate": "2024-09-09T00:00:00.000+0000",
+    "dateCreated": "2024-09-09T12:38:24.017+0000",
+    "cityStateCountry": "Gdansk, Poland",
+    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/News-Reporter-with-French--Reuters_JREQ179409/apply",
+    "location": "Gdansk, Poland",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Reuters is seeking candidates who can speak fluent French to join its real-time news operation in Gdansk, Poland. Scan press releases from companies and regulators in French and English to quickly ide...",
+      "descriptionTeaser_first200": "Reuters is seeking candidates who can speak fluent French to join its real-time news operation in Gdansk, Poland. The reporters will work in fast paced, international environment to produce headli...",
+      "descriptionTeaser_keyword": "Reuters is seeking candidates who can speak fluent French to join its real-time news operation in Gdansk, Poland. The reporters will work in fast paced, international environment to produce headlines,...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 18.5752702,
+          "lat": 54.4004235
+        },
+        "location": "Gdansk, Poland"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Eagan, Minnesota",
     "country": "United States of America",
     "ml_skills": [
@@ -2985,73 +3115,6 @@
           "lat": 51.5056439
         },
         "location": "London, United Kingdom"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Tokyo",
-    "country": "Japan",
-    "ml_skills": [
-      "journalism",
-      "breaking news",
-      "multimedia",
-      "graphics",
-      "content curation",
-      "japanese",
-      "curating"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "You will also need to supervise a small team of digital news editors tasked with site content curation and work closely with the Japanese news service team. Curate top stories for the website in a tim...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "139.7488929",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ180789",
-    "jobId": "JREQ180789",
-    "city": "Tokyo",
-    "latitude": "35.6621409",
-    "locale": "en_US",
-    "multi_location": [
-      "Tokyo, Japan"
-    ],
-    "title": "Deputy Online Editor, Japan",
-    "jobSeqNo": "THTTRUUSJREQ180789EXTERNALENUS",
-    "postedDate": "2024-07-23T00:00:00.000+0000",
-    "dateCreated": "2024-07-23T04:38:24.704+0000",
-    "cityStateCountry": "Tokyo, Japan",
-    "address": "10F Atago Green Hills Mori Tower, 2-5-1 Atago, Minato-ku, Tokyo, 105-6210, Japan",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/JPN-Tokyo-Atago-Green-Hills/Deputy-Online-Editor--Japan_JREQ180789/apply",
-    "location": "Tokyo, Japan",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "You will also need to supervise a small team of digital news editors tasked with site content curation and work closely with the Japanese news service team. Curate top stories for the website in a tim...",
-      "descriptionTeaser_first200": "Reuters is looking for an experienced editor to run our Japanese language news website. You will be managing the day-to-day operation of the website, curating the most important news stories of the day...",
-      "descriptionTeaser_keyword": "Reuters is looking for an experienced editor to run our Japanese language news website. You will be managing the day-to-day operation of the website, curating the most important news stories of the da...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 139.7488929,
-          "lat": 35.6621409
-        },
-        "location": "Tokyo, Japan"
       }
     ],
     "isMultiCategory": true,
