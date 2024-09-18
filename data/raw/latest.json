@@ -3040,46 +3040,48 @@
     "badge": ""
   },
   {
-    "cityState": "Wellington",
+    "cityState": "Auckland",
     "country": "New Zealand",
     "ml_skills": [
       "publishing",
       "online research",
-      "research skills"
+      "commerce",
+      "research skills",
+      "justice"
     ],
     "remote": "Remote",
     "type": "Full time",
-    "descriptionTeaser": "You will need to have a good understanding of the law, have strong online research skills, and possess a high degree of attention to detail. You will need to have the ability to work in a methodical m...",
+    "descriptionTeaser": "You will need to have the ability to work in a methodical manner, be capable of expressing information clearly and succinctly, and will be able to respond appropriately and quickly to changes in produ...",
     "state": "",
     "visibilityType": "External",
     "siteType": "external",
-    "longitude": "174.7743618",
+    "longitude": "174.7497481",
     "multi_category": [
       "News & Editorial Careers"
     ],
     "reqId": "JREQ180639",
     "jobId": "JREQ180639",
-    "city": "Wellington",
-    "latitude": "-41.2859199",
+    "city": "Auckland",
+    "latitude": "-36.8485609",
     "locale": "en_US",
     "multi_location": [
-      "Wellington, New Zealand"
+      "Auckland, New Zealand"
     ],
     "title": "Cases Editor - Fixed Term Contract",
     "jobSeqNo": "THTTRUUSJREQ180639EXTERNALENUS",
     "postedDate": "2024-07-23T00:00:00.000+0000",
     "dateCreated": "2024-07-23T04:38:24.703+0000",
-    "cityStateCountry": "Wellington, New Zealand",
-    "address": "Level 19, Plimmer Towers, 2-6 Gilmer Terrace, Wellington 6011, New Zealand",
+    "cityStateCountry": "Auckland, New Zealand",
+    "address": "16 College Hill, Ponsonby, Auckland 1144, New Zealand",
     "jobVisibility": [
       "external"
     ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/NZL-Wellington-Plimmer-Towers/Cases-Editor---Fixed-Term-Contract_JREQ180639/apply",
-    "location": "Wellington, New Zealand",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/NZL-Auckland-Fosters-House/Cases-Editor---Fixed-Term-Contract_JREQ180639/apply",
+    "location": "Auckland, New Zealand",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "You will need to have a good understanding of the law, have strong online research skills, and possess a high degree of attention to detail. You will need to have the ability to work in a methodical m...",
-      "descriptionTeaser_first200": "Are you interested in expanding your knowledge of the law while working on a leading legal research product? We are looking for a Cases Editor to join our agile team on a fixed term contract of 2 years....",
+      "descriptionTeaser": "You will need to have the ability to work in a methodical manner, be capable of expressing information clearly and succinctly, and will be able to respond appropriately and quickly to changes in produ...",
+      "descriptionTeaser_first200": "Are you interested in expanding your knowledge of the law while working on a leading legal research product? We are looking for a Cases Editor to join our agile team on a fixed term contract of 2...",
       "descriptionTeaser_keyword": "Are you interested in expanding your knowledge of the law while working on a leading legal research product? We are looking for a Cases Editor to join our agile team on a fixed term contract of 2 year...",
       "descriptionTeaser_ats": ""
     },
@@ -3088,10 +3090,10 @@
     "multi_location_array": [
       {
         "latlong": {
-          "lon": 174.7743618,
-          "lat": -41.2859199
+          "lon": 174.7497481,
+          "lat": -36.8485609
         },
-        "location": "Wellington, New Zealand"
+        "location": "Auckland, New Zealand"
       }
     ],
     "isMultiCategory": true,
