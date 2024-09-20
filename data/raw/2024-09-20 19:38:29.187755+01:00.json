@@ -1,11 +1,530 @@
 [
   {
-    "cityState": "Mumbai, Maharashtra",
-    "country": "India",
-    "ml_skills": [],
+    "cityState": "London",
+    "country": "United Kingdom",
+    "ml_skills": [
+      "itil",
+      "it security",
+      "apple products",
+      "communication systems",
+      "unix",
+      "video production",
+      "linux",
+      "computer science",
+      "cloud computing",
+      "jamf",
+      "ip technologies",
+      "scripting language",
+      "change management",
+      "system configuration",
+      "video over ip",
+      "system configuration management tools",
+      "change management process",
+      "cloud computing concepts",
+      "service improvement",
+      "editing"
+    ],
+    "remote": "On-Site",
+    "type": "Full time",
+    "descriptionTeaser": "Excellent knowledge of video over IP technologies, e. Excellent knowledge of Apple products and management systems like JAMF. Knowledge of IT security best practices. Knowledge of server-based product...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.0185088",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ182593",
+    "jobId": "JREQ182593",
+    "city": "London",
+    "latitude": "51.5056439",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom"
+    ],
+    "title": "Maintenance & Support Specialist",
+    "jobSeqNo": "THTTRUUSJREQ182593EXTERNALENUS",
+    "postedDate": "2024-09-20T00:00:00.000+0000",
+    "dateCreated": "2024-09-20T12:38:58.841+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Maintenance---Support-Specialist_JREQ182593/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Excellent knowledge of video over IP technologies, e. Excellent knowledge of Apple products and management systems like JAMF. Knowledge of IT security best practices. Knowledge of server-based product...",
+      "descriptionTeaser_first200": "Thomson Reuters is looking for a Maintenance & Support Specialist to be a part of our Special Technology Services and TV Support Teams based in London. The successful candidate will be accountable...",
+      "descriptionTeaser_keyword": "Thomson Reuters is looking for a Maintenance & Support Specialist to be a part of our Special Technology Services and TV Support Teams based in London. The successful candidate will be accountable for...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.0185088,
+          "lat": 51.5056439
+        },
+        "location": "London, United Kingdom"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "London",
+    "country": "United Kingdom",
+    "ml_skills": [
+      "video production",
+      "itil",
+      "it security",
+      "communication systems",
+      "video over ip",
+      "scripting language",
+      "apple products",
+      "ip technologies",
+      "jamf",
+      "unix",
+      "cloud computing",
+      "linux",
+      "computer science",
+      "system configuration",
+      "change management",
+      "system configuration management tools",
+      "change management process",
+      "cloud computing concepts",
+      "editing",
+      "service improvement"
+    ],
+    "remote": "On-Site",
+    "type": "Full time",
+    "descriptionTeaser": "The successful candidate will provide systems support of broadcast IT and video production/delivery systems and will be accountable for the service delivery and day-to-day support of dedicated televis...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.0185088",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ182599",
+    "jobId": "JREQ182599",
+    "city": "London",
+    "latitude": "51.5056439",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom"
+    ],
+    "title": "TV Operations & Support Specialist",
+    "jobSeqNo": "THTTRUUSJREQ182599EXTERNALENUS",
+    "postedDate": "2024-09-20T00:00:00.000+0000",
+    "dateCreated": "2024-09-20T12:38:58.846+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/TV-Operations---Support-Specialist_JREQ182599/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "The successful candidate will provide systems support of broadcast IT and video production/delivery systems and will be accountable for the service delivery and day-to-day support of dedicated televis...",
+      "descriptionTeaser_first200": "Thomson Reuters is looking for a TV Operations & Support Specialist to join our TV Support Team based in London. The successful candidate will provide systems support of broadcast IT and video pro...",
+      "descriptionTeaser_keyword": "Thomson Reuters is looking for a TV Operations & Support Specialist to join our TV Support Team based in London. The successful candidate will provide systems support of broadcast IT and video product...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.0185088,
+          "lat": 51.5056439
+        },
+        "location": "London, United Kingdom"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "London",
+    "country": "United Kingdom",
+    "ml_skills": [
+      "editing",
+      "online research",
+      "online research databases"
+    ],
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "Develop dimensioned objects, scenarios, functions and scripts. Identify and resolve issues and errors and provide recommendations on enhancements. Maintains the integrity and completeness of work prod...",
+    "descriptionTeaser": "With appropriate support and supervision from colleagues, research, write, commission and deliver well-written and up-to-date content for online publication for current market legal practice, of the q...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.0185088",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ182503",
+    "jobId": "JREQ182503",
+    "city": "London",
+    "latitude": "51.5056439",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom"
+    ],
+    "title": "Legal Editor, Knowhow",
+    "jobSeqNo": "THTTRUUSJREQ182503EXTERNALENUS",
+    "postedDate": "2024-09-20T00:00:00.000+0000",
+    "dateCreated": "2024-09-20T12:38:58.847+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Legal-Editor--Knowhow_JREQ182503/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "With appropriate support and supervision from colleagues, research, write, commission and deliver well-written and up-to-date content for online publication for current market legal practice, of the q...",
+      "descriptionTeaser_first200": "LEGAL EDITOR, PRACTICAL LAW PRIVATE CLIENT. We are seeking an experienced Private Client lawyer to join the Practical Law Private Client team in the UK. Practical Law is a leading online know-how...",
+      "descriptionTeaser_keyword": "LEGAL EDITOR, PRACTICAL LAW PRIVATE CLIENT. We are seeking an experienced Private Client lawyer to join the Practical Law Private Client team in the UK. Practical Law is a leading online know-how serv...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.0185088,
+          "lat": 51.5056439
+        },
+        "location": "London, United Kingdom"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Bengaluru, Karnataka",
+    "country": "India",
+    "ml_skills": [
+      "journalism",
+      "publishing",
+      "newsletters",
+      "multimedia",
+      "mass communication",
+      "geography",
+      "curating"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "The news publishing specialist will work with Reuters' editors in deciding top stories and packages and present them on real-time basis to clients. Packaging involves putting together stories, pics an...",
+    "state": "Karnataka",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "77.7120655",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ179861",
+    "jobId": "JREQ179861",
+    "city": "Bengaluru",
+    "latitude": "12.9743998",
+    "locale": "en_US",
+    "multi_location": [
+      "Bengaluru, Karnataka, India"
+    ],
+    "title": "News Publishing Specialist",
+    "jobSeqNo": "THTTRUUSJREQ179861EXTERNALENUS",
+    "postedDate": "2024-09-19T00:00:00.000+0000",
+    "dateCreated": "2024-09-19T08:38:01.455+0000",
+    "cityStateCountry": "Bengaluru, Karnataka, India",
+    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/News-Publishing-Specialist_JREQ179861/apply",
+    "location": "Bengaluru, Karnataka, India",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "The news publishing specialist will work with Reuters' editors in deciding top stories and packages and present them on real-time basis to clients. Packaging involves putting together stories, pics an...",
+      "descriptionTeaser_first200": "News Publishing Specialist, Publishing Team. Do you enjoy reading global news, and can discern the most important stories of the day? Are you interested in being the person that decides which stor...",
+      "descriptionTeaser_keyword": "News Publishing Specialist, Publishing Team. Do you enjoy reading global news, and can discern the most important stories of the day? Are you interested in being the person that decides which stories...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 77.7120655,
+          "lat": 12.9743998
+        },
+        "location": "Bengaluru, Karnataka, India"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Almaty",
+    "country": "Kazakhstan",
+    "ml_skills": [
+      "fact-checking",
+      "news writing",
+      "current affairs",
+      "multimedia",
+      "kazakh"
+    ],
+    "remote": "Remote",
+    "type": "Full time",
+    "descriptionTeaser": "Reuters is seeking a journalist with strong research and writing skills and fluency in Kazakh to join its global fact-checking team. As a Fact-Checking Producer, you\u2019ll identify viral content relating...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "76.946606",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ182128",
+    "jobId": "JREQ182128",
+    "city": "Almaty",
+    "latitude": "43.25761",
+    "locale": "en_US",
+    "multi_location": [
+      "Almaty, Kazakhstan"
+    ],
+    "title": "Fact-Checking Producer, Kazakhstan - Reuters",
+    "jobSeqNo": "THTTRUUSJREQ182128EXTERNALENUS",
+    "postedDate": "2024-09-19T00:00:00.000+0000",
+    "dateCreated": "2024-08-29T16:38:54.452+0000",
+    "cityStateCountry": "Almaty, Kazakhstan",
+    "address": "2nd Floor, Furmanov St. 100-G, Almaty, 480091, Kazakhstan",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/KAZ-Almaty-2nd-Flr-Furmanov-St/Fact-Checking-Producer--Kazakhstan---Reuters_JREQ182128/apply",
+    "location": "Almaty, Kazakhstan",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Reuters is seeking a journalist with strong research and writing skills and fluency in Kazakh to join its global fact-checking team. As a Fact-Checking Producer, you\u2019ll identify viral content relating...",
+      "descriptionTeaser_first200": "Fact Checking Producer, Kazakhstan - Reuters. We anticipate the successful candidate being based in Almaty. This is a 6-month contrac. Reuters is seeking a journalist with strong research and writ...",
+      "descriptionTeaser_keyword": "Fact Checking Producer, Kazakhstan - Reuters. We anticipate the successful candidate being based in Almaty. This is a 6-month contrac. Reuters is seeking a journalist with strong research and writing...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 76.946606,
+          "lat": 43.25761
+        },
+        "location": "Almaty, Kazakhstan"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Frisco, Texas",
+    "country": "United States of America",
+    "ml_skills": [
+      "corporate tax",
+      "microsoft excel",
+      "online research",
+      "justice",
+      "checkpoint",
+      "westlaw",
+      "geography",
+      "customer support"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "The Tax/Legal Analyst is responsible for research, configuration, ongoing maintenance, and testing to ensure that ONESOURCE\u2122 applications and offerings comply with tax rules and laws. Superior written...",
+    "state": "Texas",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-96.833545",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ182566",
+    "jobId": "JREQ182566",
+    "city": "Frisco",
+    "latitude": "33.1073049",
+    "locale": "en_US",
+    "multi_location": [
+      "Frisco, Texas, United States of America",
+      "Ann Arbor, Michigan, United States of America",
+      "Eagan, Minnesota, United States of America",
+      "New York, New York, United States of America"
+    ],
+    "title": "Tax/Legal Analyst, Indirect Tax",
+    "jobSeqNo": "THTTRUUSJREQ182566EXTERNALENUS",
+    "postedDate": "2024-09-18T00:00:00.000+0000",
+    "dateCreated": "2024-09-18T20:38:12.620+0000",
+    "cityStateCountry": "Frisco, Texas, United States of America",
+    "address": "6160 Warren Parkway, Frisco, TX 75034, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Frisco-6160-Warren-Parkway/Tax-Legal-Analyst--Indirect-Tax_JREQ182566/apply",
+    "location": "Frisco, Texas, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "The Tax/Legal Analyst is responsible for research, configuration, ongoing maintenance, and testing to ensure that ONESOURCE\u2122 applications and offerings comply with tax rules and laws. Superior written...",
+      "descriptionTeaser_first200": "Summary. The Tax/Legal Analyst is responsible for research, configuration, ongoing maintenance, and testing to ensure that ONESOURCE\u2122 applications and offerings comply with tax rules and laws. Abou...",
+      "descriptionTeaser_keyword": "Summary. The Tax/Legal Analyst is responsible for research, configuration, ongoing maintenance, and testing to ensure that ONESOURCE\u2122 applications and offerings comply with tax rules and laws. About t...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -96.833545,
+          "lat": 33.1073049
+        },
+        "location": "Frisco, Texas, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -83.7267835,
+          "lat": 42.1957259
+        },
+        "location": "Ann Arbor, Michigan, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -93.11336709999999,
+          "lat": 44.8250902
+        },
+        "location": "Eagan, Minnesota, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -73.9866995,
+          "lat": 40.7566955
+        },
+        "location": "New York, New York, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Mexico City",
+    "country": "Mexico",
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "This job, based in Mexico City, is for a candidate with fluent English and Spanish, and a sharp eye for detail who can effortlessly sift through hundreds of sports photos contributed daily by our phot...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-99.1510899",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ181340",
+    "jobId": "JREQ181340",
+    "city": "Mexico City",
+    "latitude": "19.4343664",
+    "locale": "en_US",
+    "multi_location": [
+      "Mexico City, Mexico"
+    ],
+    "title": "Sports Editor",
+    "jobSeqNo": "THTTRUUSJREQ181340EXTERNALENUS",
+    "postedDate": "2024-09-18T00:00:00.000+0000",
+    "dateCreated": "2024-08-05T16:38:03.063+0000",
+    "cityStateCountry": "Mexico City, Mexico",
+    "address": "Av. Paseo de la Reforma #26, Floor 36th, Colonia Ju\u00e1rez, Cuauht\u00e9moc, 06600 Mexico City, Mexico",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/MEX-Distrito-Federal-Reforma-26/Sports-Editor_JREQ181340/apply",
+    "location": "Mexico City, Mexico",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "ml_skills": [
+      "photo editing",
+      "photography",
+      "captions",
+      "adobe photoshop",
+      "portuguese",
+      "multimedia",
+      "sports photography",
+      "mac os",
+      "latin",
+      "portuguese is a"
+    ],
+    "ml_job_parser": {
+      "descriptionTeaser": "This job, based in Mexico City, is for a candidate with fluent English and Spanish, and a sharp eye for detail who can effortlessly sift through hundreds of sports photos contributed daily by our phot...",
+      "descriptionTeaser_keyword": "Sports Editor. Are you passionate about the chance to bring your experience to a world-class company that is market-leading for both content and technology? If yes, we are looking for you. Join our te...",
+      "descriptionTeaser_ats": "",
+      "descriptionTeaser_first200": "Sports Editor. Are you passionate about the chance to bring your experience to a world-class company that is market-leading for both content and technology? If yes, we are looking for you. Join our team!..."
+    },
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -99.1510899,
+          "lat": 19.4343664
+        },
+        "location": "Mexico City, Mexico"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Mumbai, Maharashtra",
+    "country": "India",
+    "ml_skills": [
+      "justice"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Purpose Driven Work: We have a superpower that we\u2019ve never talked about with as much pride as we should \u2013 we are one of the only companies on the planet that helps its customers pursue justice, truth...",
     "state": "Maharashtra",
     "visibilityType": "External",
     "siteType": "external",
@@ -34,8 +553,8 @@
     "location": "Mumbai, Maharashtra, India",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "Develop dimensioned objects, scenarios, functions and scripts. Identify and resolve issues and errors and provide recommendations on enhancements. Maintains the integrity and completeness of work prod...",
-      "descriptionTeaser_first200": "About the Role. Designs tax and/or legal forms that comply with specifications and established forms guidelines. Develop dimensioned objects, scenarios, functions and scripts. Identify and resolve...",
+      "descriptionTeaser": "Purpose Driven Work: We have a superpower that we\u2019ve never talked about with as much pride as we should \u2013 we are one of the only companies on the planet that helps its customers pursue justice, truth...",
+      "descriptionTeaser_first200": "About the Role. Designs tax and/or legal forms that comply with specifications and established forms guidelines. Develop dimensioned objects, scenarios, functions and scripts. Identify and resolve issues...",
       "descriptionTeaser_keyword": "About the Role. Designs tax and/or legal forms that comply with specifications and established forms guidelines. Develop dimensioned objects, scenarios, functions and scripts. Identify and resolve iss...",
       "descriptionTeaser_ats": ""
     },
@@ -61,10 +580,12 @@
   {
     "cityState": "Mumbai, Maharashtra",
     "country": "India",
-    "ml_skills": [],
+    "ml_skills": [
+      "justice"
+    ],
     "remote": "On-Site",
     "type": "Full time",
-    "descriptionTeaser": "Develop dimensioned objects, scenarios, functions and scripts. Identify and resolve issues and errors and provide recommendations on enhancements. Maintains the integrity and completeness of work prod...",
+    "descriptionTeaser": "Purpose Driven Work: We have a superpower that we\u2019ve never talked about with as much pride as we should \u2013 we are one of the only companies on the planet that helps its customers pursue justice, trut...",
     "state": "Maharashtra",
     "visibilityType": "External",
     "siteType": "external",
@@ -93,8 +614,8 @@
     "location": "Mumbai, Maharashtra, India",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "Develop dimensioned objects, scenarios, functions and scripts. Identify and resolve issues and errors and provide recommendations on enhancements. Maintains the integrity and completeness of work prod...",
-      "descriptionTeaser_first200": "About the Role. Designs tax and/or legal forms that comply with specifications and established forms guidelines. Develop dimensioned objects, scenarios, functions and scripts. Identify and resolve...",
+      "descriptionTeaser": "Purpose Driven Work: We have a superpower that we\u2019ve never talked about with as much pride as we should \u2013 we are one of the only companies on the planet that helps its customers pursue justice, trut...",
+      "descriptionTeaser_first200": "About the Role. Designs tax and/or legal forms that comply with specifications and established forms guidelines. Develop dimensioned objects, scenarios, functions and scripts. Identify and resolve issues...",
       "descriptionTeaser_keyword": "About the Role. Designs tax and/or legal forms that comply with specifications and established forms guidelines. Develop dimensioned objects, scenarios, functions and scripts. Identify and resolve iss...",
       "descriptionTeaser_ats": ""
     },
@@ -107,70 +628,6 @@
           "lat": 19.1114368
         },
         "location": "Mumbai, Maharashtra, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "London",
-    "country": "United Kingdom",
-    "ml_skills": [
-      "legal research",
-      "editing",
-      "grammar",
-      "research skills"
-    ],
-    "remote": "Remote",
-    "type": "Full time",
-    "descriptionTeaser": "Maintains and develops legal knowledge and skills training as required to complete work and stay current on legal trends and developments related to the employee\u2019s editorial responsibilities. Begins d...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-0.0185088",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ182365",
-    "jobId": "JREQ182365",
-    "city": "London",
-    "latitude": "51.5056439",
-    "locale": "en_US",
-    "multi_location": [
-      "London, United Kingdom"
-    ],
-    "title": "Senior Legal Editor",
-    "jobSeqNo": "THTTRUUSJREQ182365EXTERNALENUS",
-    "postedDate": "2024-09-16T00:00:00.000+0000",
-    "dateCreated": "2024-09-16T16:38:56.056+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Senior-Legal-Editor_JREQ182365/apply",
-    "location": "London, United Kingdom",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Maintains and develops legal knowledge and skills training as required to complete work and stay current on legal trends and developments related to the employee\u2019s editorial responsibilities. Begins d...",
-      "descriptionTeaser_first200": "We are looking for a senior legal editor to join us. About the role . As a senior legal editor you will be responsible for. Legal Research, Analysis and Writing. Creates and classifies legal infor...",
-      "descriptionTeaser_keyword": "We are looking for a senior legal editor to join us. About the role. As a senior legal editor you will be responsible for. Legal Research, Analysis and Writing. Creates and classifies legal informatio...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -0.0185088,
-          "lat": 51.5056439
-        },
-        "location": "London, United Kingdom"
       }
     ],
     "isMultiCategory": true,
@@ -1157,6 +1614,69 @@
     "badge": ""
   },
   {
+    "cityState": "London",
+    "country": "United Kingdom",
+    "ml_skills": [
+      "commercial law",
+      "editing",
+      "product management"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "As a Senior Specialist Legal Editor in Practical Law Charities, you will use your specialist knowledge of advising on charity law matters to provide and maintain a wide range of Practical Law content....",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.0185088",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ182051",
+    "jobId": "JREQ182051",
+    "city": "London",
+    "latitude": "51.5056439",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom"
+    ],
+    "title": "Senior Specialist Legal Editor, Practical Law Charities",
+    "jobSeqNo": "THTTRUUSJREQ182051EXTERNALENUS",
+    "postedDate": "2024-09-09T00:00:00.000+0000",
+    "dateCreated": "2024-09-09T16:38:52.096+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Senior-Specialist-Legal-Editor--Practical-Law-Charities_JREQ182051/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "As a Senior Specialist Legal Editor in Practical Law Charities, you will use your specialist knowledge of advising on charity law matters to provide and maintain a wide range of Practical Law content....",
+      "descriptionTeaser_first200": "Senior Specialist Legal Editor, Practical Law Charities. We are seeking an experienced Charities lawyer to join the Practical Law Private Client team in the UK. Practical Law is a leading online k...",
+      "descriptionTeaser_keyword": "Senior Specialist Legal Editor, Practical Law Charities. We are seeking an experienced Charities lawyer to join the Practical Law Private Client team in the UK. Practical Law is a leading online know-...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.0185088,
+          "lat": 51.5056439
+        },
+        "location": "London, United Kingdom"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Eagan, Minnesota",
     "country": "United States of America",
     "ml_skills": [
@@ -1212,69 +1732,6 @@
           "lat": 44.8527611
         },
         "location": "Eagan, Minnesota, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "London",
-    "country": "United Kingdom",
-    "ml_skills": [
-      "commercial law",
-      "editing",
-      "product management"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "As a Senior Specialist Legal Editor in Practical Law Charities, you will use your specialist knowledge of advising on charity law matters to provide and maintain a wide range of Practical Law content....",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-0.0185088",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ182051",
-    "jobId": "JREQ182051",
-    "city": "London",
-    "latitude": "51.5056439",
-    "locale": "en_US",
-    "multi_location": [
-      "London, United Kingdom"
-    ],
-    "title": "Senior Specialist Legal Editor, Practical Law Charities",
-    "jobSeqNo": "THTTRUUSJREQ182051EXTERNALENUS",
-    "postedDate": "2024-09-09T00:00:00.000+0000",
-    "dateCreated": "2024-09-09T16:38:52.096+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Senior-Specialist-Legal-Editor--Practical-Law-Charities_JREQ182051/apply",
-    "location": "London, United Kingdom",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "As a Senior Specialist Legal Editor in Practical Law Charities, you will use your specialist knowledge of advising on charity law matters to provide and maintain a wide range of Practical Law content....",
-      "descriptionTeaser_first200": "Senior Specialist Legal Editor, Practical Law Charities. We are seeking an experienced Charities lawyer to join the Practical Law Private Client team in the UK. Practical Law is a leading online k...",
-      "descriptionTeaser_keyword": "Senior Specialist Legal Editor, Practical Law Charities. We are seeking an experienced Charities lawyer to join the Practical Law Private Client team in the UK. Practical Law is a leading online know-...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -0.0185088,
-          "lat": 51.5056439
-        },
-        "location": "London, United Kingdom"
       }
     ],
     "isMultiCategory": true,
@@ -1670,69 +2127,6 @@
           "lat": 43.6480117
         },
         "location": "Toronto, Ontario, Canada"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Hyderabad, Telangana",
-    "country": "India",
-    "ml_skills": [
-      "publishing",
-      "commerce",
-      "justice"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Learning & Development: LinkedIn Learning access; internal Talent Marketplace with opportunities to work on projects cross-company; Ten Thousand Coffees Thomson Reuters caf\u00e9 networking. Our industry-l...",
-    "state": "Telangana",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "78.3847282",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ181659",
-    "jobId": "JREQ181659",
-    "city": "Hyderabad",
-    "latitude": "17.438325",
-    "locale": "en_US",
-    "multi_location": [
-      "Hyderabad, Telangana, India"
-    ],
-    "title": "Editorial Support Associate",
-    "jobSeqNo": "THTTRUUSJREQ181659EXTERNALENUS",
-    "postedDate": "2024-08-26T00:00:00.000+0000",
-    "dateCreated": "2024-08-26T12:42:35.485+0000",
-    "cityStateCountry": "Hyderabad, Telangana, India",
-    "address": "Floor 12, 13 & 14, Building 11, Raheja Mindspace, Madhapur, Hyderabad- 500081, Telangana, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Hyderabad-Raheja-Mindspace/Editorial-Support-Associate---Content-Editing_JREQ181659/apply",
-    "location": "Hyderabad, Telangana, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Learning & Development: LinkedIn Learning access; internal Talent Marketplace with opportunities to work on projects cross-company; Ten Thousand Coffees Thomson Reuters caf\u00e9 networking. Our industry-l...",
-      "descriptionTeaser_first200": "Job Description Summary. Thomson Reuters is seeking an experienced content editor for our legal news team in India. The successful candidate will be responsible for editing, proofreading and fact-checking...",
-      "descriptionTeaser_keyword": "Job Description Summary. Thomson Reuters is seeking an experienced content editor for our legal news team in India. The successful candidate will be responsible for editing, proofreading and fact-chec...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 78.3847282,
-          "lat": 17.438325
-        },
-        "location": "Hyderabad, Telangana, India"
       }
     ],
     "isMultiCategory": true,
@@ -2367,76 +2761,11 @@
     "cityState": "New York, New York",
     "country": "United States of America",
     "ml_skills": [
-      "visual journalism",
-      "multimedia",
-      "visual storytelling",
-      "storytelling",
-      "project management"
-    ],
-    "remote": "Remote",
-    "type": "Full time",
-    "descriptionTeaser": "Reuters is looking for an experienced photo/multimedia storyteller that has experience in project management and multimedia production, to join Reuters as Editor on its Wider Image desk in the product...",
-    "state": "New York",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-73.9866995",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ180967",
-    "jobId": "JREQ180967",
-    "city": "New York",
-    "latitude": "40.7566955",
-    "locale": "en_US",
-    "multi_location": [
-      "New York, New York, United States of America"
-    ],
-    "title": "Visual Storytelling Editor, Wider Image (Level 1 Journalist)",
-    "jobSeqNo": "THTTRUUSJREQ180967EXTERNALENUS",
-    "postedDate": "2024-08-19T00:00:00.000+0000",
-    "dateCreated": "2024-08-07T16:38:44.895+0000",
-    "cityStateCountry": "New York, New York, United States of America",
-    "address": "3 Times Square, New York, NY 10036, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-New-York-3-Times-Square/Photo-Editor--Wider-Image--Level-1-Journalist-_JREQ180967/apply",
-    "location": "New York, New York, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Reuters is looking for an experienced photo/multimedia storyteller that has experience in project management and multimedia production, to join Reuters as Editor on its Wider Image desk in the product...",
-      "descriptionTeaser_first200": "Reuters is looking for an experienced photo/multimedia storyteller that has experience in project management and multimedia production, to join Reuters as Editor on its Wider Image desk in the production...",
-      "descriptionTeaser_keyword": "Reuters is looking for an experienced photo/multimedia storyteller that has experience in project management and multimedia production, to join Reuters as Editor on its Wider Image desk in the product...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -73.9866995,
-          "lat": 40.7566955
-        },
-        "location": "New York, New York, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "New York, New York",
-    "country": "United States of America",
-    "ml_skills": [
       "multimedia"
     ],
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "Reuters is the world\u2019s largest multimedia news provider. Our industry-leading products and services include highly specialized information-enabled software and tools for legal, tax, accounting and com...",
+    "descriptionTeaser": "The successful applicant must be open to learning and have the ability to work collaboratively in a team. Reuters is the world\u2019s largest multimedia news provider. Join us and help shape the industries...",
     "state": "New York",
     "visibilityType": "External",
     "siteType": "external",
@@ -2452,7 +2781,7 @@
     "multi_location": [
       "New York, New York, United States of America"
     ],
-    "title": "Reuters NABJ Fellow (Temp Guild)",
+    "title": "Reuters Fellow (Temp Guild)",
     "jobSeqNo": "THTTRUUSJREQ180932EXTERNALENUS",
     "postedDate": "2024-08-19T00:00:00.000+0000",
     "dateCreated": "2024-08-19T16:38:12.427+0000",
@@ -2465,7 +2794,7 @@
     "location": "New York, New York, United States of America",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "Reuters is the world\u2019s largest multimedia news provider. Our industry-leading products and services include highly specialized information-enabled software and tools for legal, tax, accounting and com...",
+      "descriptionTeaser": "The successful applicant must be open to learning and have the ability to work collaboratively in a team. Reuters is the world\u2019s largest multimedia news provider. Join us and help shape the industries...",
       "descriptionTeaser_first200": "Reuters, the news and media division of Thomson Reuters, is the world\u2019s largest international multimedia news provider reaching more than one billion people every day. Reuters provides trusted bus...",
       "descriptionTeaser_keyword": "Reuters, the news and media division of Thomson Reuters, is the world\u2019s largest international multimedia news provider reaching more than one billion people every day. Reuters provides trusted busines...",
       "descriptionTeaser_ats": ""
@@ -2894,78 +3223,6 @@
           "lat": 31.24097799999999
         },
         "location": "Shanghai, Shanghai, China"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Frisco, Texas",
-    "country": "United States of America",
-    "ml_skills": [
-      "tax preparation",
-      "tax software",
-      "tax law",
-      "commerce",
-      "tax data structure",
-      "data analytics",
-      "justice",
-      "csv",
-      "customer support",
-      "computer skills",
-      "json",
-      "xml"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "In this role, you will analyze tax law and tax software changes to make corresponding import products. Our industry-leading products and services include highly specialized information-enabled softwar...",
-    "state": "Texas",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-96.833545",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ181344",
-    "jobId": "JREQ181344",
-    "city": "Frisco",
-    "latitude": "33.1073049",
-    "locale": "en_US",
-    "multi_location": [
-      "Frisco, Texas, United States of America"
-    ],
-    "title": "Tax Analyst",
-    "jobSeqNo": "THTTRUUSJREQ181344EXTERNALENUS",
-    "postedDate": "2024-07-27T00:00:00.000+0000",
-    "dateCreated": "2024-07-27T12:41:05.757+0000",
-    "cityStateCountry": "Frisco, Texas, United States of America",
-    "address": "6160 Warren Parkway, Frisco, TX 75034, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Frisco-6160-Warren-Parkway/Tax-Analyst_JREQ181344/apply",
-    "location": "Frisco, Texas, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "In this role, you will analyze tax law and tax software changes to make corresponding import products. Our industry-leading products and services include highly specialized information-enabled softwar...",
-      "descriptionTeaser_first200": "Summary . You will participate in the development and testing of our tax import/export products using in-house development tools. In this role, you will analyze tax law and tax software changes to make...",
-      "descriptionTeaser_keyword": "Summary. You will participate in the development and testing of our tax import/export products using in-house development tools. In this role, you will analyze tax law and tax software changes to make...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -96.833545,
-          "lat": 33.1073049
-        },
-        "location": "Frisco, Texas, United States of America"
       }
     ],
     "isMultiCategory": true,
@@ -3491,49 +3748,47 @@
     "badge": ""
   },
   {
-    "cityState": "San Francisco, California",
+    "cityState": "Ann Arbor, Michigan",
     "country": "United States of America",
     "ml_skills": [
       "cybersecurity",
-      "english is",
+      "law enforcement",
       "chinese",
-      "inter-personal",
       "multimedia"
     ],
     "remote": "Hybrid",
     "type": "Full time",
     "descriptionTeaser": "The correspondent will also work on deeper investigations of different aspects of cybersecurity, shedding light on a world that mostly operates in the shadows and tracking the evolving policy response...",
-    "state": "California",
+    "state": "Michigan",
     "visibilityType": "External",
     "siteType": "external",
-    "longitude": "-122.3973037",
+    "longitude": "-83.7267835",
     "multi_category": [
       "News & Editorial Careers"
     ],
     "reqId": "JREQ180794",
     "jobId": "JREQ180794",
-    "city": "San Francisco",
-    "latitude": "37.7940487",
+    "city": "Ann Arbor",
+    "latitude": "42.1957259",
     "locale": "en_US",
     "multi_location": [
-      "San Francisco, California, United States of America",
-      "Washington, District of Columbia, United States of America"
+      "Ann Arbor, Michigan, United States of America"
     ],
     "title": "Cybersecurity Correspondent (Level 1 Journalist)",
     "jobSeqNo": "THTTRUUSJREQ180794EXTERNALENUS",
     "postedDate": "2024-07-17T00:00:00.000+0000",
     "dateCreated": "2024-07-17T20:41:56.934+0000",
-    "cityStateCountry": "San Francisco, California, United States of America",
-    "address": "50 California Street, 3rd Floor, San Francisco, CA 94111, United States of America",
+    "cityStateCountry": "Ann Arbor, Michigan, United States of America",
+    "address": "6300 Interfirst Dr, Ann Arbor, MI 48108, United States of America",
     "jobVisibility": [
       "external"
     ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-San-Francisco-California-S/Cybersecurity-Correspondent--Level-1-Journalist-_JREQ180794/apply",
-    "location": "San Francisco, California, United States of America",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Ann-Arbor-6300-Interfirst-Dr/Cybersecurity-Correspondent--Level-1-Journalist-_JREQ180794/apply",
+    "location": "Ann Arbor, Michigan, United States of America",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
       "descriptionTeaser": "The correspondent will also work on deeper investigations of different aspects of cybersecurity, shedding light on a world that mostly operates in the shadows and tracking the evolving policy response...",
-      "descriptionTeaser_first200": "Reuters News is looking for an experienced and ambitious Cybersecurity Correspondent (Level 1 Journalist) in San Francisco. The successful candidate will have a track record of breaking news on the biggest...",
+      "descriptionTeaser_first200": "Reuters News is looking for an experienced and ambitious Cybersecurity Correspondent (Level 1 Journalist) in San Francisco. The successful candidate will have a track record of breaking news on th...",
       "descriptionTeaser_keyword": "Reuters News is looking for an experienced and ambitious Cybersecurity Correspondent (Level 1 Journalist) in San Francisco. The successful candidate will have a track record of breaking news on the bi...",
       "descriptionTeaser_ats": ""
     },
@@ -3542,17 +3797,10 @@
     "multi_location_array": [
       {
         "latlong": {
-          "lon": -122.3973037,
-          "lat": 37.7940487
+          "lon": -83.7267835,
+          "lat": 42.1957259
         },
-        "location": "San Francisco, California, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -77.0311952,
-          "lat": 38.9004793
-        },
-        "location": "Washington, District of Columbia, United States of America"
+        "location": "Ann Arbor, Michigan, United States of America"
       }
     ],
     "isMultiCategory": true,
@@ -3880,81 +4128,6 @@
           "lat": 12.9743998
         },
         "location": "Bengaluru, Karnataka, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Buenos Aires",
-    "country": "Argentina",
-    "ml_skills": [
-      "publicaci\u00f3n",
-      "job postings",
-      "reasonable",
-      "thomson reuters",
-      "presentaci\u00f3n",
-      "editorial",
-      "linkedin",
-      "preparaci\u00f3n",
-      "modelo",
-      "legal",
-      "learning",
-      "flexible",
-      "accessibility",
-      "mentoring",
-      "operaciones"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "We are powered by the talents of 26,000 employees across more than 70 countries, where everyone has a chance to contribute and grow professionally in flexible work environments that celebrate diversit...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-58.3875561",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ180065",
-    "jobId": "JREQ180065",
-    "city": "Buenos Aires",
-    "latitude": "-34.6016107",
-    "locale": "en_US",
-    "multi_location": [
-      "Buenos Aires, Argentina"
-    ],
-    "title": "Legal Editor Analyst",
-    "jobSeqNo": "THTTRUUSJREQ180065EXTERNALENUS",
-    "postedDate": "2024-07-11T00:00:00.000+0000",
-    "dateCreated": "2024-07-12T00:40:25.917+0000",
-    "cityStateCountry": "Buenos Aires, Argentina",
-    "address": "Tucuman 1471, C1050AAB Buenos Aires, Argentina",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/ARG-Buenos-Aires-Tucuman-1471/Legal-Editor-Analyst_JREQ180065/apply",
-    "location": "Buenos Aires, Argentina",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "We are powered by the talents of 26,000 employees across more than 70 countries, where everyone has a chance to contribute and grow professionally in flexible work environments that celebrate diversit...",
-      "descriptionTeaser_keyword": "Introduction. En Thomson Reuters, creemos que lo que hacemos importa. Nos apasiona nuestro trabajo, inspirados por el impacto que tiene en nuestro negocio y en nuestros clientes. Como equipo, creemos...",
-      "descriptionTeaser_first200": "Introduction. En Thomson Reuters, creemos que lo que hacemos importa. Nos apasiona nuestro trabajo, inspirados por el impacto que tiene en nuestro negocio y en nuestros clientes. Como equipo, creemos...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -58.3875561,
-          "lat": -34.6016107
-        },
-        "location": "Buenos Aires, Argentina"
       }
     ],
     "isMultiCategory": true,
