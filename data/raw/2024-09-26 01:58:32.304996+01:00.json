@@ -1,46 +1,322 @@
 [
   {
-    "cityState": "Gdansk",
-    "country": "Poland",
+    "cityState": "Manila",
+    "country": "Philippines",
+    "ml_skills": [
+      "publishing",
+      "content management",
+      "editing",
+      "word processing",
+      "talent development",
+      "microsoft 365",
+      "codes management"
+    ],
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "Reuters is seeking candidates who can speak fluent English and Spanish to join its real-time news operation in Gdansk. The reporters will work in fast-paced, international environment and get to produ",
+    "descriptionTeaser": "Successfully coach individual contributors and support direct communication between Senior Manager and team as well. Continuously communicate team performance to Senior Manager, and ensure individual...",
     "state": "",
     "visibilityType": "External",
     "siteType": "external",
-    "longitude": "18.5752702",
+    "longitude": "121.0520086",
     "multi_category": [
       "News & Editorial Careers"
     ],
-    "reqId": "JREQ182840",
-    "jobId": "JREQ182840",
-    "city": "Gdansk",
-    "latitude": "54.4004235",
+    "reqId": "JREQ182748",
+    "jobId": "JREQ182748",
+    "city": "Manila",
+    "latitude": "14.5344436",
     "locale": "en_US",
     "multi_location": [
-      "Gdansk, Poland"
+      "Manila, Philippines"
     ],
-    "title": "News Translator with Spanish",
-    "jobSeqNo": "THTTRUUSJREQ182840EXTERNALENUS",
-    "postedDate": "2024-09-23T00:00:00.000+0000",
-    "dateCreated": "2024-09-23T12:37:58.400+0000",
-    "cityStateCountry": "Gdansk, Poland",
-    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
+    "title": "Manager, Publishing Editorial",
+    "jobSeqNo": "THTTRUUSJREQ182748EXTERNALENUS",
+    "postedDate": "2024-09-25T00:00:00.000+0000",
+    "dateCreated": "2024-09-25T16:38:14.609+0000",
+    "cityStateCountry": "Manila, Philippines",
+    "address": "20 Upper McKinley Building, Upper McKinley Road, McKinley Hill, Manila, 1634, Philippines",
     "jobVisibility": [
       "external"
     ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/News-Translator-with-Spanish_JREQ182840-1/apply",
-    "location": "Gdansk, Poland",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/PHL-Taguig-20-Upper-McKinley-Bldg/Manager--Publishing-Editorial_JREQ182748/apply",
+    "location": "Manila, Philippines",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Successfully coach individual contributors and support direct communication between Senior Manager and team as well. Continuously communicate team performance to Senior Manager, and ensure individual...",
+      "descriptionTeaser_first200": "Product Research, Manager, Publishing Editorial. In close collaboration with your Senior Manager in MSP, you will manage individual contributors on the Codes Editorial team of Attorney Editors bas...",
+      "descriptionTeaser_keyword": "Product Research, Manager, Publishing Editorial. In close collaboration with your Senior Manager in MSP, you will manage individual contributors on the Codes Editorial team of Attorney Editors based i...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 121.0520086,
+          "lat": 14.5344436
+        },
+        "location": "Manila, Philippines"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Toronto, Ontario",
+    "country": "Canada",
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Reuters seeks an experienced digital editor in Toronto to help plan the week ahead and to curate\u00a0Reuters.com\u00a0on the weekends. This role has two distinct parts to it: weekly planning and weekend curati",
+    "state": "Ontario",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-79.3884094",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ182544",
+    "jobId": "JREQ182544",
+    "city": "Toronto",
+    "latitude": "43.6480117",
+    "locale": "en_US",
+    "multi_location": [
+      "Toronto, Ontario, Canada"
+    ],
+    "title": "Deputy Weekend and Planning Editor, Online",
+    "jobSeqNo": "THTTRUUSJREQ182544EXTERNALENUS",
+    "postedDate": "2024-09-25T00:00:00.000+0000",
+    "dateCreated": "2024-09-25T20:38:04.048+0000",
+    "cityStateCountry": "Toronto, Ontario, Canada",
+    "address": "19 Duncan Street, Toronto, ON M5H 3H1, Canada",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CAN-Toronto-19-Duncan-Street/Deputy-Weekend-and-Planning-Editor--Online_JREQ182544/apply",
+    "location": "Toronto, Ontario, Canada",
     "category": "News & Editorial Careers",
     "externalApply": true,
     "isMultiLocation": true,
     "multi_location_array": [
       {
         "latlong": {
-          "lon": 18.5752702,
-          "lat": 54.4004235
+          "lon": -79.3884094,
+          "lat": 43.6480117
         },
-        "location": "Gdansk, Poland"
+        "location": "Toronto, Ontario, Canada"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Bengaluru, Karnataka",
+    "country": "India",
+    "ml_skills": [
+      "journalism",
+      "publishing",
+      "newsletters",
+      "multimedia",
+      "mass communication",
+      "geography",
+      "curating"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "The news publishing specialist will work with Reuters' editors in deciding top stories and packages and present them on real-time basis to clients. Packaging involves putting together stories, pics an...",
+    "state": "Karnataka",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "77.7120655",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ182744",
+    "jobId": "JREQ182744",
+    "city": "Bengaluru",
+    "latitude": "12.9743998",
+    "locale": "en_US",
+    "multi_location": [
+      "Bengaluru, Karnataka, India"
+    ],
+    "title": "News Publishing Specialist",
+    "jobSeqNo": "THTTRUUSJREQ182744EXTERNALENUS",
+    "postedDate": "2024-09-24T00:00:00.000+0000",
+    "dateCreated": "2024-09-24T16:38:11.066+0000",
+    "cityStateCountry": "Bengaluru, Karnataka, India",
+    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/News-Publishing-Specialist_JREQ182744/apply",
+    "location": "Bengaluru, Karnataka, India",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "The news publishing specialist will work with Reuters' editors in deciding top stories and packages and present them on real-time basis to clients. Packaging involves putting together stories, pics an...",
+      "descriptionTeaser_first200": "News Publishing Specialist, Publishing Team. Do you enjoy reading global news, and can discern the most important stories of the day? Are you interested in being the person that decides which stor...",
+      "descriptionTeaser_keyword": "News Publishing Specialist, Publishing Team. Do you enjoy reading global news, and can discern the most important stories of the day? Are you interested in being the person that decides which stories...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 77.7120655,
+          "lat": 12.9743998
+        },
+        "location": "Bengaluru, Karnataka, India"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Manila",
+    "country": "Philippines",
+    "ml_skills": [
+      "seo",
+      "digital marketing",
+      "content strategy",
+      "project management",
+      "grammar",
+      "project management tools",
+      "legal research"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Research and write compelling blog content in English for legal clients that complies with internal best practices, industry standards, and corporate policies, and eventually grow into developing cont...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "121.0520086",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ182196",
+    "jobId": "JREQ182196",
+    "city": "Manila",
+    "latitude": "14.5344436",
+    "locale": "en_US",
+    "multi_location": [
+      "Manila, Philippines"
+    ],
+    "title": "Content Marketer",
+    "jobSeqNo": "THTTRUUSJREQ182196EXTERNALENUS",
+    "postedDate": "2024-09-24T00:00:00.000+0000",
+    "dateCreated": "2024-09-24T08:38:01.014+0000",
+    "cityStateCountry": "Manila, Philippines",
+    "address": "20 Upper McKinley Building, Upper McKinley Road, McKinley Hill, Manila, 1634, Philippines",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/PHL-Taguig-20-Upper-McKinley-Bldg/Content-Marketer_JREQ182196-1/apply",
+    "location": "Manila, Philippines",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Research and write compelling blog content in English for legal clients that complies with internal best practices, industry standards, and corporate policies, and eventually grow into developing cont...",
+      "descriptionTeaser_first200": "Content Marketer | FindLaw. Thomson Reuters, an industry leader at the intersection of content and technology, is looking for a perceptive and self-driven professional content writer for its digit...",
+      "descriptionTeaser_keyword": "Content Marketer | FindLaw. Thomson Reuters, an industry leader at the intersection of content and technology, is looking for a perceptive and self-driven professional content writer for its digital m...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 121.0520086,
+          "lat": 14.5344436
+        },
+        "location": "Manila, Philippines"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Lagos, Lagos",
+    "country": "Nigeria",
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Strong collaboration skills, working with visuals colleagues and stringers to create original and engaging multimedia content. Proven success in breaking news, writing under tight deadlines, and deliv...",
+    "state": "Lagos",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "3.4285989",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ182335",
+    "jobId": "JREQ182335",
+    "city": "Lagos",
+    "latitude": "6.45149",
+    "locale": "en_US",
+    "multi_location": [
+      "Lagos, Lagos, Nigeria",
+      "Abuja, Federal Capital, Nigeria"
+    ],
+    "title": "Nigeria Chief Correspondent, Reuters",
+    "jobSeqNo": "THTTRUUSJREQ182335EXTERNALENUS",
+    "postedDate": "2024-09-23T00:00:00.000+0000",
+    "dateCreated": "2024-09-23T16:37:49.720+0000",
+    "cityStateCountry": "Lagos, Lagos, Nigeria",
+    "address": "39 Alfred Rewane road Ikoyi, Mulliner Towers 3rd floor, Lagos, Lagos, Nigeria",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/NGA-Lagos-39-Alfred-Rewane-road-Ikoyi/Nigeria-Chief-Correspondent--Reuters_JREQ182335/apply",
+    "location": "Lagos, Lagos, Nigeria",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "ml_skills": [
+      "breaking news",
+      "multimedia news planning",
+      "multimedia",
+      "data journalism",
+      "multimedia storytelling",
+      "storytelling",
+      "energy markets"
+    ],
+    "ml_job_parser": {
+      "descriptionTeaser": "Strong collaboration skills, working with visuals colleagues and stringers to create original and engaging multimedia content. Proven success in breaking news, writing under tight deadlines, and deliv...",
+      "descriptionTeaser_keyword": "Reuters, a global leader in trusted news and information, is launching the Reuters News Accelerator Program (RNAP), an intensive program designed to bring talented local journalists into our global ne...",
+      "descriptionTeaser_first200": "Reuters, a global leader in trusted news and information, is launching the Reuters News Accelerator Program (RNAP), an intensive program designed to bring talented local journalists into our globa...",
+      "descriptionTeaser_ats": ""
+    },
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 3.4285989,
+          "lat": 6.45149
+        },
+        "location": "Lagos, Lagos, Nigeria"
+      },
+      {
+        "latlong": {
+          "lon": 7.497474200000001,
+          "lat": 9.0817297
+        },
+        "location": "Abuja, Federal Capital, Nigeria"
       }
     ],
     "isMultiCategory": true,
@@ -56,7 +332,7 @@
     "country": "United Kingdom",
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "Senior Specialist Legal Editor, Practical Law CorporateWe are seeking an experienced corporate lawyer to join the Practical Law Corporate team in the UK.Practical Law is a leading online know-how serv",
+    "descriptionTeaser": "As a Senior Specialist Legal Editor in Practical Law, you will use your specialist legal knowledge of advising on corporate law matters to provide and maintain a wide range of Practical Law content. M...",
     "state": "",
     "visibilityType": "External",
     "siteType": "external",
@@ -85,6 +361,18 @@
     "location": "London, United Kingdom",
     "category": "News & Editorial Careers",
     "externalApply": true,
+    "ml_skills": [
+      "corporate law",
+      "justice",
+      "editing",
+      "commerce"
+    ],
+    "ml_job_parser": {
+      "descriptionTeaser": "As a Senior Specialist Legal Editor in Practical Law, you will use your specialist legal knowledge of advising on corporate law matters to provide and maintain a wide range of Practical Law content. M...",
+      "descriptionTeaser_keyword": "Senior Specialist Legal Editor, Practical Law Corporate. We are seeking an experienced corporate lawyer to join the Practical Law Corporate team in the UK. Practical Law is a leading online know-how s...",
+      "descriptionTeaser_ats": "",
+      "descriptionTeaser_first200": "Senior Specialist Legal Editor, Practical Law Corporate. We are seeking an experienced corporate lawyer to join the Practical Law Corporate team in the UK. Practical Law is a leading online know-h..."
+    },
     "isMultiLocation": true,
     "multi_location_array": [
       {
@@ -93,6 +381,354 @@
           "lat": 51.5056439
         },
         "location": "London, United Kingdom"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Nairobi",
+    "country": "Kenya",
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "The ideal candidate will possess strong knowledge of financial markets, key public and private-sector players, and a broad understanding of regional economics and global dynamics. Proven source-buildi...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "36.8085498",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ182506",
+    "jobId": "JREQ182506",
+    "city": "Nairobi",
+    "latitude": "-1.2861399",
+    "locale": "en_US",
+    "multi_location": [
+      "Nairobi, Kenya",
+      "Lagos, Lagos, Nigeria",
+      "South Africa"
+    ],
+    "title": "Senior Africa Markets Correspondent, Reuters",
+    "jobSeqNo": "THTTRUUSJREQ182506EXTERNALENUS",
+    "postedDate": "2024-09-23T00:00:00.000+0000",
+    "dateCreated": "2024-09-23T16:37:49.719+0000",
+    "cityStateCountry": "Nairobi, Kenya",
+    "address": "Vienna Court Building, 3rd floor (West Wing), State House Crescent, Nairobi, 00100, Kenya",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/KEN-Nairobi-Vienna-Court-Building/Senior-Africa-Markets-Correspondent--Reuters_JREQ182506/apply",
+    "location": "Nairobi, Kenya",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "ml_skills": [
+      "data journalism",
+      "french",
+      "portuguese",
+      "graphics",
+      "multimedia",
+      "multimedia storytelling",
+      "storytelling",
+      "financial markets"
+    ],
+    "ml_job_parser": {
+      "descriptionTeaser": "The ideal candidate will possess strong knowledge of financial markets, key public and private-sector players, and a broad understanding of regional economics and global dynamics. Proven source-buildi...",
+      "descriptionTeaser_keyword": "Reuters, a global leader in trusted news and information, is launching the Reuters News Accelerator Program (RNAP), an intensive program designed to bring talented local journalists into our global ne...",
+      "descriptionTeaser_ats": "",
+      "descriptionTeaser_first200": "Reuters, a global leader in trusted news and information, is launching the Reuters News Accelerator Program (RNAP), an intensive program designed to bring talented local journalists into our globa..."
+    },
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 36.8085498,
+          "lat": -1.2861399
+        },
+        "location": "Nairobi, Kenya"
+      },
+      {
+        "latlong": {
+          "lon": 3.4285989,
+          "lat": 6.45149
+        },
+        "location": "Lagos, Lagos, Nigeria"
+      },
+      {
+        "latlong": {
+          "lon": 28.0535995,
+          "lat": -26.1069543
+        },
+        "location": "South Africa"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Gdansk",
+    "country": "Poland",
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Reuters is seeking candidates who can speak fluent English and Spanish to join its real-time news operation in Gdansk. Applying news judgment and picking relevant news and package it for Reuters News...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "18.5752702",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ182840",
+    "jobId": "JREQ182840",
+    "city": "Gdansk",
+    "latitude": "54.4004235",
+    "locale": "en_US",
+    "multi_location": [
+      "Gdansk, Poland"
+    ],
+    "title": "News Translator with Spanish",
+    "jobSeqNo": "THTTRUUSJREQ182840EXTERNALENUS",
+    "postedDate": "2024-09-23T00:00:00.000+0000",
+    "dateCreated": "2024-09-23T12:37:58.400+0000",
+    "cityStateCountry": "Gdansk, Poland",
+    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/News-Translator-with-Spanish_JREQ182840-1/apply",
+    "location": "Gdansk, Poland",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "ml_skills": [
+      "vocabulary",
+      "multimedia",
+      "graphics"
+    ],
+    "ml_job_parser": {
+      "descriptionTeaser": "Reuters is seeking candidates who can speak fluent English and Spanish to join its real-time news operation in Gdansk. Applying news judgment and picking relevant news and package it for Reuters News...",
+      "descriptionTeaser_keyword": "Reuters is seeking candidates who can speak fluent English and Spanish to join its real-time news operation in Gdansk. The reporters will work in fast-paced, international environment and get to produ...",
+      "descriptionTeaser_ats": "",
+      "descriptionTeaser_first200": "Reuters is seeking candidates who can speak fluent English and Spanish to join its real-time news operation in Gdansk. The reporters will work in fast-paced, international environment and get to p..."
+    },
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 18.5752702,
+          "lat": 54.4004235
+        },
+        "location": "Gdansk, Poland"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Nairobi",
+    "country": "Kenya",
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Cutting-edge skills: Master the latest in multimedia storytelling, data journalism, and digital news production. Our industry-leading products and services include highly specialized information-enabl...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "36.8085498",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ182333",
+    "jobId": "JREQ182333",
+    "city": "Nairobi",
+    "latitude": "-1.2861399",
+    "locale": "en_US",
+    "multi_location": [
+      "Nairobi, Kenya"
+    ],
+    "title": "Senior Visuals Producer - Sub-Saharan Africa, Reuters",
+    "jobSeqNo": "THTTRUUSJREQ182333EXTERNALENUS",
+    "postedDate": "2024-09-23T00:00:00.000+0000",
+    "dateCreated": "2024-09-23T16:37:49.716+0000",
+    "cityStateCountry": "Nairobi, Kenya",
+    "address": "Vienna Court Building, 3rd floor (West Wing), State House Crescent, Nairobi, 00100, Kenya",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/KEN-Nairobi-Vienna-Court-Building/Senior-Visuals-Producer---Sub-Saharan-Africa--Reuters_JREQ182333/apply",
+    "location": "Nairobi, Kenya",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "ml_skills": [
+      "broadcast television",
+      "multimedia storytelling",
+      "multimedia",
+      "digital visual technologies",
+      "storytelling",
+      "data journalism"
+    ],
+    "ml_job_parser": {
+      "descriptionTeaser": "Cutting-edge skills: Master the latest in multimedia storytelling, data journalism, and digital news production. Our industry-leading products and services include highly specialized information-enabl...",
+      "descriptionTeaser_keyword": "Reuters, a global leader in trusted news and information, is launching the Reuters News Accelerator Program (RNAP), an intensive program designed to bring talented local journalists into our global ne...",
+      "descriptionTeaser_ats": "",
+      "descriptionTeaser_first200": "Reuters, a global leader in trusted news and information, is launching the Reuters News Accelerator Program (RNAP), an intensive program designed to bring talented local journalists into our globa..."
+    },
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 36.8085498,
+          "lat": -1.2861399
+        },
+        "location": "Nairobi, Kenya"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Dakar",
+    "country": "Senegal",
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Break exclusive and differentiated news of significance to Reuters clients. Collaborate with the continent\u2019s lead mining correspondent and other mining reporters globally to deliver exclusive news and...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-17.4582799",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ182334",
+    "jobId": "JREQ182334",
+    "city": "Dakar",
+    "latitude": "14.7016344",
+    "locale": "en_US",
+    "multi_location": [
+      "Dakar, Senegal"
+    ],
+    "title": "West Africa Mining Correspondent, Reuters",
+    "jobSeqNo": "THTTRUUSJREQ182334EXTERNALENUS",
+    "postedDate": "2024-09-23T00:00:00.000+0000",
+    "dateCreated": "2024-09-23T16:37:49.715+0000",
+    "cityStateCountry": "Dakar, Senegal",
+    "address": "Rue des Ecrivains angle Rue G, Point E, 45541 Dakar, Senegal",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/SEN-Dakar-Rue-des-Ecrivains/West-Africa-Mining-Correspondent--Reuters_JREQ182334/apply",
+    "location": "Dakar, Senegal",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "ml_skills": [
+      "breaking news",
+      "french",
+      "data journalism",
+      "multimedia storytelling",
+      "multimedia",
+      "storytelling"
+    ],
+    "ml_job_parser": {
+      "descriptionTeaser": "Break exclusive and differentiated news of significance to Reuters clients. Collaborate with the continent\u2019s lead mining correspondent and other mining reporters globally to deliver exclusive news and...",
+      "descriptionTeaser_keyword": "Reuters, a global leader in trusted news and information, is launching the Reuters News Accelerator Program (RNAP), an intensive program designed to bring talented local journalists into our global ne...",
+      "descriptionTeaser_ats": "",
+      "descriptionTeaser_first200": "Reuters, a global leader in trusted news and information, is launching the Reuters News Accelerator Program (RNAP), an intensive program designed to bring talented local journalists into our globa..."
+    },
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -17.4582799,
+          "lat": 14.7016344
+        },
+        "location": "Dakar, Senegal"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Lagos, Lagos",
+    "country": "Nigeria",
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Cutting-edge skills: Master the latest in multimedia storytelling, data journalism, and digital news production. Proven storytelling skills, and a strong desire to work on long-term, in-depth stories....",
+    "state": "Lagos",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "3.4285989",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ182336",
+    "jobId": "JREQ182336",
+    "city": "Lagos",
+    "latitude": "6.45149",
+    "locale": "en_US",
+    "multi_location": [
+      "Lagos, Lagos, Nigeria"
+    ],
+    "title": "Photojournalist, Reuters",
+    "jobSeqNo": "THTTRUUSJREQ182336EXTERNALENUS",
+    "postedDate": "2024-09-23T00:00:00.000+0000",
+    "dateCreated": "2024-09-23T16:37:49.710+0000",
+    "cityStateCountry": "Lagos, Lagos, Nigeria",
+    "address": "39 Alfred Rewane road Ikoyi, Mulliner Towers 3rd floor, Lagos, Lagos, Nigeria",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/NGA-Lagos-39-Alfred-Rewane-road-Ikoyi/Photojournalist--Reuters_JREQ182336/apply",
+    "location": "Lagos, Lagos, Nigeria",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "ml_skills": [
+      "photojournalism",
+      "breaking news",
+      "editing",
+      "storytelling",
+      "multimedia storytelling",
+      "multimedia",
+      "data journalism",
+      "digital visual technologies",
+      "cultural sensitivity"
+    ],
+    "ml_job_parser": {
+      "descriptionTeaser": "Cutting-edge skills: Master the latest in multimedia storytelling, data journalism, and digital news production. Proven storytelling skills, and a strong desire to work on long-term, in-depth stories....",
+      "descriptionTeaser_keyword": "Reuters, a global leader in trusted news and information, is launching the Reuters News Accelerator Program (RNAP), an intensive program designed to bring talented local journalists into our global ne...",
+      "descriptionTeaser_ats": "",
+      "descriptionTeaser_first200": "Reuters, a global leader in trusted news and information, is launching the Reuters News Accelerator Program (RNAP), an intensive program designed to bring talented local journalists into our globa..."
+    },
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 3.4285989,
+          "lat": 6.45149
+        },
+        "location": "Lagos, Lagos, Nigeria"
       }
     ],
     "isMultiCategory": true,
@@ -1306,70 +1942,6 @@
           "lat": 17.438325
         },
         "location": "Hyderabad, Telangana, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Gdansk",
-    "country": "Poland",
-    "ml_skills": [
-      "press releases",
-      "vocabulary",
-      "multimedia",
-      "dutch"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Reuters is seeking candidates who can speak fluent French to join its real-time news operation in Gdansk, Poland. Scan press releases from companies and regulators in French and English to quickly ide...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "18.5752702",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ179409",
-    "jobId": "JREQ179409",
-    "city": "Gdansk",
-    "latitude": "54.4004235",
-    "locale": "en_US",
-    "multi_location": [
-      "Gdansk, Poland"
-    ],
-    "title": "News Reporter with French, Reuters",
-    "jobSeqNo": "THTTRUUSJREQ179409EXTERNALENUS",
-    "postedDate": "2024-09-09T00:00:00.000+0000",
-    "dateCreated": "2024-09-09T12:38:24.017+0000",
-    "cityStateCountry": "Gdansk, Poland",
-    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/News-Reporter-with-French--Reuters_JREQ179409/apply",
-    "location": "Gdansk, Poland",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Reuters is seeking candidates who can speak fluent French to join its real-time news operation in Gdansk, Poland. Scan press releases from companies and regulators in French and English to quickly ide...",
-      "descriptionTeaser_first200": "Reuters is seeking candidates who can speak fluent French to join its real-time news operation in Gdansk, Poland. The reporters will work in fast paced, international environment to produce headli...",
-      "descriptionTeaser_keyword": "Reuters is seeking candidates who can speak fluent French to join its real-time news operation in Gdansk, Poland. The reporters will work in fast paced, international environment to produce headlines,...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 18.5752702,
-          "lat": 54.4004235
-        },
-        "location": "Gdansk, Poland"
       }
     ],
     "isMultiCategory": true,
@@ -2913,73 +3485,6 @@
           "lat": 17.438325
         },
         "location": "Hyderabad, Telangana, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Manila",
-    "country": "Philippines",
-    "ml_skills": [
-      "digital marketing",
-      "content strategy",
-      "project management",
-      "journalism",
-      "grammar",
-      "project management tools",
-      "legal research"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Research and write compelling blog content in English for legal clients that complies with internal best practices, industry standards, and corporate policies, and eventually grow into developing cont...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "121.0520086",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ172868",
-    "jobId": "JREQ172868",
-    "city": "Manila",
-    "latitude": "14.5344436",
-    "locale": "en_US",
-    "multi_location": [
-      "Manila, Philippines"
-    ],
-    "title": "Content Marketer",
-    "jobSeqNo": "THTTRUUSJREQ172868EXTERNALENUS",
-    "postedDate": "2024-08-07T00:00:00.000+0000",
-    "dateCreated": "2023-10-10T08:41:54.918+0000",
-    "cityStateCountry": "Manila, Philippines",
-    "address": "20 Upper McKinley Building, Upper McKinley Road, McKinley Hill, Manila, 1634, Philippines",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/PHL-Taguig-20-Upper-McKinley-Bldg/Content-Marketer_JREQ172868/apply",
-    "location": "Manila, Philippines",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Research and write compelling blog content in English for legal clients that complies with internal best practices, industry standards, and corporate policies, and eventually grow into developing cont...",
-      "descriptionTeaser_first200": "Content Marketer | Operations Customer Service & Support. Thomson Reuters, an industry leader at the intersection of content and technology, is looking for a perceptive and self-driven professional content...",
-      "descriptionTeaser_keyword": "Content Marketer | Operations Customer Service & Support. Thomson Reuters, an industry leader at the intersection of content and technology, is looking for a perceptive and self-driven professional co...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 121.0520086,
-          "lat": 14.5344436
-        },
-        "location": "Manila, Philippines"
       }
     ],
     "isMultiCategory": true,
