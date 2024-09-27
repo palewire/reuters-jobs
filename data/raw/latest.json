@@ -66,6 +66,138 @@
     "badge": ""
   },
   {
+    "cityState": "Kyiv, Kyiv",
+    "country": "Ukraine",
+    "ml_skills": [
+      "editing",
+      "multimedia",
+      "breaking news",
+      "storytelling",
+      "video camera operating",
+      "ukrainian",
+      "ukrainian is a"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "You will work closely, across all services in the Kyiv bureau, to produce high quality multimedia stories in a fast-moving business for our client database of more than 1,000 broadcasters and hundreds...",
+    "state": "Kyiv",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "30.5234",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ182963",
+    "jobId": "JREQ182963",
+    "city": "Kyiv",
+    "latitude": "50.4501",
+    "locale": "en_US",
+    "multi_location": [
+      "Kyiv, Kyiv, Ukraine"
+    ],
+    "title": "Video Journalist",
+    "jobSeqNo": "THTTRUUSJREQ182963EXTERNALENUS",
+    "postedDate": "2024-09-27T00:00:00.000+0000",
+    "dateCreated": "2024-09-27T16:39:28.842+0000",
+    "cityStateCountry": "Kyiv, Kyiv, Ukraine",
+    "address": "Leonardo Business Centre, Office 412-a, \u041a\u043e\u0440\u043f. 17/52-a, B.Khmelnitsky Street, Kyiv, Kyiv, 1030, Ukraine",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/UKR-Kyiv-Leonardo-Business-Cen/Video-Journalist_JREQ182963-1/apply",
+    "location": "Kyiv, Kyiv, Ukraine",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "You will work closely, across all services in the Kyiv bureau, to produce high quality multimedia stories in a fast-moving business for our client database of more than 1,000 broadcasters and hundreds...",
+      "descriptionTeaser_first200": "Video Journalist, Ukraine. Reuters is looking for an energetic visual journalist to join our highly successful team in Ukraine, based in Kyiv/Kharkiv. The winning candidate will have experience in...",
+      "descriptionTeaser_keyword": "Video Journalist, Ukraine. Reuters is looking for an energetic visual journalist to join our highly successful team in Ukraine, based in Kyiv/Kharkiv. The winning candidate will have experience in vid...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 30.5234,
+          "lat": 50.4501
+        },
+        "location": "Kyiv, Kyiv, Ukraine"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Gdansk",
+    "country": "Poland",
+    "ml_skills": [
+      "journalism",
+      "video editing",
+      "breaking news",
+      "multimedia",
+      "script writing"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "You should be excited about international news and have an ability to work to tight deadlines. Work as part of our news gathering team coordinating and bringing in edited and live coverage from across...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "18.5752702",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ182928",
+    "jobId": "JREQ182928",
+    "city": "Gdansk",
+    "latitude": "54.4004235",
+    "locale": "en_US",
+    "multi_location": [
+      "Gdansk, Poland"
+    ],
+    "title": "Video Producer",
+    "jobSeqNo": "THTTRUUSJREQ182928EXTERNALENUS",
+    "postedDate": "2024-09-27T00:00:00.000+0000",
+    "dateCreated": "2024-09-27T16:39:28.843+0000",
+    "cityStateCountry": "Gdansk, Poland",
+    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/Video-Producer_JREQ182928/apply",
+    "location": "Gdansk, Poland",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "You should be excited about international news and have an ability to work to tight deadlines. Work as part of our news gathering team coordinating and bringing in edited and live coverage from across...",
+      "descriptionTeaser_first200": "Reuters is looking for a talented television news journalist to join the team in our regional TV hub in Gdansk, Poland, to gather news, produce video and output stories from the 16 countries that...",
+      "descriptionTeaser_keyword": "Reuters is looking for a talented television news journalist to join the team in our regional TV hub in Gdansk, Poland, to gather news, produce video and output stories from the 16 countries that make...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 18.5752702,
+          "lat": 54.4004235
+        },
+        "location": "Gdansk, Poland"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Mumbai, Maharashtra",
     "country": "India",
     "ml_skills": [
@@ -536,70 +668,6 @@
     "badge": ""
   },
   {
-    "cityState": "London",
-    "country": "United Kingdom",
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "As a Senior Specialist Legal Editor in Practical Law, you will use your specialist legal knowledge of advising on corporate law matters to provide and maintain a wide range of Practical Law content. M...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-0.0185088",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ179107",
-    "jobId": "JREQ179107",
-    "city": "London",
-    "latitude": "51.5056439",
-    "locale": "en_US",
-    "multi_location": [
-      "London, United Kingdom"
-    ],
-    "title": "Senior Specialist Legal Editor, Practical Law Corporate",
-    "jobSeqNo": "THTTRUUSJREQ179107EXTERNALENUS",
-    "postedDate": "2024-09-23T00:00:00.000+0000",
-    "dateCreated": "2024-05-28T16:41:30.284+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Senior-Specialist-Legal-Editor--Practical-Law-Corporate_JREQ179107/apply",
-    "location": "London, United Kingdom",
-    "category": "News & Editorial Careers",
-    "externalApply": true,
-    "ml_skills": [
-      "corporate law",
-      "justice",
-      "editing",
-      "commerce"
-    ],
-    "ml_job_parser": {
-      "descriptionTeaser": "As a Senior Specialist Legal Editor in Practical Law, you will use your specialist legal knowledge of advising on corporate law matters to provide and maintain a wide range of Practical Law content. M...",
-      "descriptionTeaser_keyword": "Senior Specialist Legal Editor, Practical Law Corporate. We are seeking an experienced corporate lawyer to join the Practical Law Corporate team in the UK. Practical Law is a leading online know-how s...",
-      "descriptionTeaser_ats": "",
-      "descriptionTeaser_first200": "Senior Specialist Legal Editor, Practical Law Corporate. We are seeking an experienced corporate lawyer to join the Practical Law Corporate team in the UK. Practical Law is a leading online know-h..."
-    },
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -0.0185088,
-          "lat": 51.5056439
-        },
-        "location": "London, United Kingdom"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Gdansk",
     "country": "Poland",
     "remote": "Hybrid",
@@ -950,6 +1018,69 @@
   {
     "cityState": "London",
     "country": "United Kingdom",
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "As a Senior Specialist Legal Editor in Practical Law, you will use your specialist legal knowledge of advising on corporate law matters to provide and maintain a wide range of Practical Law content. M...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.0185088",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ179107",
+    "jobId": "JREQ179107",
+    "city": "London",
+    "latitude": "51.5056439",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom"
+    ],
+    "title": "Senior Specialist Legal Editor, Practical Law Corporate",
+    "jobSeqNo": "THTTRUUSJREQ179107EXTERNALENUS",
+    "postedDate": "2024-09-23T00:00:00.000+0000",
+    "dateCreated": "2024-05-28T16:41:30.284+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Senior-Specialist-Legal-Editor--Practical-Law-Corporate_JREQ179107/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "ml_skills": [
+      "corporate law",
+      "editing",
+      "product management"
+    ],
+    "ml_job_parser": {
+      "descriptionTeaser": "As a Senior Specialist Legal Editor in Practical Law, you will use your specialist legal knowledge of advising on corporate law matters to provide and maintain a wide range of Practical Law content. M...",
+      "descriptionTeaser_keyword": "Senior Specialist Legal Editor, Practical Law Corporate. We are seeking an experienced corporate lawyer to join the Practical Law Corporate team in the UK. Practical Law is a leading online know-how s...",
+      "descriptionTeaser_ats": "",
+      "descriptionTeaser_first200": "Senior Specialist Legal Editor, Practical Law Corporate. We are seeking an experienced corporate lawyer to join the Practical Law Corporate team in the UK. Practical Law is a leading online know-h..."
+    },
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.0185088,
+          "lat": 51.5056439
+        },
+        "location": "London, United Kingdom"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "London",
+    "country": "United Kingdom",
     "ml_skills": [
       "itil",
       "it security",
@@ -1031,69 +1162,6 @@
     "cityState": "London",
     "country": "United Kingdom",
     "ml_skills": [
-      "editing",
-      "online research",
-      "online research databases"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "With appropriate support and supervision from colleagues, research, write, commission and deliver well-written and up-to-date content for online publication for current market legal practice, of the q...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-0.0185088",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ182503",
-    "jobId": "JREQ182503",
-    "city": "London",
-    "latitude": "51.5056439",
-    "locale": "en_US",
-    "multi_location": [
-      "London, United Kingdom"
-    ],
-    "title": "Legal Editor, Knowhow",
-    "jobSeqNo": "THTTRUUSJREQ182503EXTERNALENUS",
-    "postedDate": "2024-09-20T00:00:00.000+0000",
-    "dateCreated": "2024-09-20T12:38:58.847+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Legal-Editor--Knowhow_JREQ182503/apply",
-    "location": "London, United Kingdom",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "With appropriate support and supervision from colleagues, research, write, commission and deliver well-written and up-to-date content for online publication for current market legal practice, of the q...",
-      "descriptionTeaser_first200": "LEGAL EDITOR, PRACTICAL LAW PRIVATE CLIENT. We are seeking an experienced Private Client lawyer to join the Practical Law Private Client team in the UK. Practical Law is a leading online know-how...",
-      "descriptionTeaser_keyword": "LEGAL EDITOR, PRACTICAL LAW PRIVATE CLIENT. We are seeking an experienced Private Client lawyer to join the Practical Law Private Client team in the UK. Practical Law is a leading online know-how serv...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -0.0185088,
-          "lat": 51.5056439
-        },
-        "location": "London, United Kingdom"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "London",
-    "country": "United Kingdom",
-    "ml_skills": [
       "video production",
       "itil",
       "it security",
@@ -1149,6 +1217,69 @@
       "descriptionTeaser": "The successful candidate will provide systems support of broadcast IT and video production/delivery systems and will be accountable for the service delivery and day-to-day support of dedicated televis...",
       "descriptionTeaser_first200": "Thomson Reuters is looking for a TV Operations & Support Specialist to join our TV Support Team based in London. The successful candidate will provide systems support of broadcast IT and video pro...",
       "descriptionTeaser_keyword": "Thomson Reuters is looking for a TV Operations & Support Specialist to join our TV Support Team based in London. The successful candidate will provide systems support of broadcast IT and video product...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.0185088,
+          "lat": 51.5056439
+        },
+        "location": "London, United Kingdom"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "London",
+    "country": "United Kingdom",
+    "ml_skills": [
+      "editing",
+      "online research",
+      "online research databases"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "With appropriate support and supervision from colleagues, research, write, commission and deliver well-written and up-to-date content for online publication for current market legal practice, of the q...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.0185088",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ182503",
+    "jobId": "JREQ182503",
+    "city": "London",
+    "latitude": "51.5056439",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom"
+    ],
+    "title": "Legal Editor, Knowhow",
+    "jobSeqNo": "THTTRUUSJREQ182503EXTERNALENUS",
+    "postedDate": "2024-09-20T00:00:00.000+0000",
+    "dateCreated": "2024-09-20T12:38:58.847+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Legal-Editor--Knowhow_JREQ182503/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "With appropriate support and supervision from colleagues, research, write, commission and deliver well-written and up-to-date content for online publication for current market legal practice, of the q...",
+      "descriptionTeaser_first200": "LEGAL EDITOR, PRACTICAL LAW PRIVATE CLIENT. We are seeking an experienced Private Client lawyer to join the Practical Law Private Client team in the UK. Practical Law is a leading online know-how...",
+      "descriptionTeaser_keyword": "LEGAL EDITOR, PRACTICAL LAW PRIVATE CLIENT. We are seeking an experienced Private Client lawyer to join the Practical Law Private Client team in the UK. Practical Law is a leading online know-how serv...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
