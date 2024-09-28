@@ -326,6 +326,71 @@
     "badge": ""
   },
   {
+    "cityState": "London",
+    "country": "United Kingdom",
+    "ml_skills": [
+      "numeracy",
+      "data visualization",
+      "graphics",
+      "breaking news",
+      "multimedia"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "This is a great opportunity for someone with knowledge of commodities (with a particular focus on oil and gas) that's looking to set the agenda on global markets, economics, and the financial industry...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.0185088",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ181989",
+    "jobId": "JREQ181989",
+    "city": "London",
+    "latitude": "51.5056439",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom"
+    ],
+    "title": "Commodities Columnist, Reuters Commentary",
+    "jobSeqNo": "THTTRUUSJREQ181989EXTERNALENUS",
+    "postedDate": "2024-09-27T00:00:00.000+0000",
+    "dateCreated": "2024-08-23T12:38:27.245+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Commodities-Columnist--Reuters-Commentary_JREQ181989/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "This is a great opportunity for someone with knowledge of commodities (with a particular focus on oil and gas) that's looking to set the agenda on global markets, economics, and the financial industry...",
+      "descriptionTeaser_first200": "Commodities Columnist - Reuters Commentary. We envisage the successful candidate for this position being based in London. Other global locations will also be considered. We\u2019re looking for a skille...",
+      "descriptionTeaser_keyword": "Commodities Columnist - Reuters Commentary. We envisage the successful candidate for this position being based in London. Other global locations will also be considered. We\u2019re looking for a skilled co...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.0185088,
+          "lat": 51.5056439
+        },
+        "location": "London, United Kingdom"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Manila",
     "country": "Philippines",
     "ml_skills": [
