@@ -1,5 +1,69 @@
 [
   {
+    "cityState": "Beijing, Beijing",
+    "country": "China",
+    "ml_skills": [
+      "breaking news",
+      "chinese",
+      "mandarin",
+      "multimedia"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Reuters is looking for a journalist with strong news judgement and at least two years\u2019 experience working in a news organisation to join our Greater China Breaking News Hub in Beijing. --Use Chinese s...",
+    "state": "Beijing",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "116.40108",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ183028",
+    "jobId": "JREQ183028",
+    "city": "Beijing",
+    "latitude": "39.9515199",
+    "locale": "en_US",
+    "multi_location": [
+      "Beijing, Beijing, China"
+    ],
+    "title": "Breaking News Correspondent, China",
+    "jobSeqNo": "THTTRUUSJREQ183028EXTERNALENUS",
+    "postedDate": "2024-09-30T00:00:00.000+0000",
+    "dateCreated": "2024-09-30T08:41:53.143+0000",
+    "cityStateCountry": "Beijing, Beijing, China",
+    "address": "Units 5-12, 18F / 20F, Office Tower E1 of Oriental Plaza, No.1, East Chang An Avenue, Dong Cheng District, Beijing, 100738 Beijing, China",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CHN-Beijing-Oriental-Plaza/Breaking-News-Correspondent--China_JREQ183028-1/apply",
+    "location": "Beijing, Beijing, China",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Reuters is looking for a journalist with strong news judgement and at least two years\u2019 experience working in a news organisation to join our Greater China Breaking News Hub in Beijing. --Use Chinese s...",
+      "descriptionTeaser_first200": "Breaking News Correspondent, China. Reuters is looking for a journalist with strong news judgement and at least two years\u2019 experience working in a news organisation to join our Greater China Break...",
+      "descriptionTeaser_keyword": "Breaking News Correspondent, China. Reuters is looking for a journalist with strong news judgement and at least two years\u2019 experience working in a news organisation to join our Greater China Breaking...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 116.40108,
+          "lat": 39.9515199
+        },
+        "location": "Beijing, Beijing, China"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Hyderabad, Telangana",
     "country": "India",
     "ml_skills": [
@@ -315,6 +379,71 @@
           "lat": 19.1114368
         },
         "location": "Mumbai, Maharashtra, India"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "London",
+    "country": "United Kingdom",
+    "ml_skills": [
+      "numeracy",
+      "data visualization",
+      "graphics",
+      "breaking news",
+      "multimedia"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "This is a great opportunity for someone with knowledge of commodities (with a particular focus on oil and gas) that's looking to set the agenda on global markets, economics, and the financial industry...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.0185088",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ181989",
+    "jobId": "JREQ181989",
+    "city": "London",
+    "latitude": "51.5056439",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom"
+    ],
+    "title": "Commodities Columnist, Reuters Commentary",
+    "jobSeqNo": "THTTRUUSJREQ181989EXTERNALENUS",
+    "postedDate": "2024-09-27T00:00:00.000+0000",
+    "dateCreated": "2024-08-23T12:38:27.245+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Commodities-Columnist--Reuters-Commentary_JREQ181989/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "This is a great opportunity for someone with knowledge of commodities (with a particular focus on oil and gas) that's looking to set the agenda on global markets, economics, and the financial industry...",
+      "descriptionTeaser_first200": "Commodities Columnist - Reuters Commentary. We envisage the successful candidate for this position being based in London. Other global locations will also be considered. We\u2019re looking for a skille...",
+      "descriptionTeaser_keyword": "Commodities Columnist - Reuters Commentary. We envisage the successful candidate for this position being based in London. Other global locations will also be considered. We\u2019re looking for a skilled co...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.0185088,
+          "lat": 51.5056439
+        },
+        "location": "London, United Kingdom"
       }
     ],
     "isMultiCategory": true,
@@ -1844,68 +1973,6 @@
           "lat": 51.5056439
         },
         "location": "London, United Kingdom"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "New York, New York",
-    "country": "United States of America",
-    "ml_skills": [
-      "breaking news",
-      "multimedia"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "We would prefer some experience of reporting the insurance or at least financial services sector, but of greater importance is a demonstrable track record of picking up reporting beats involving techn...",
-    "state": "New York",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-73.9866995",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ178770",
-    "jobId": "JREQ178770",
-    "city": "New York",
-    "latitude": "40.7566955",
-    "locale": "en_US",
-    "multi_location": [
-      "New York, New York, United States of America"
-    ],
-    "title": "U.S. Reporter (Level 1 Journalist), The Insurer, Reuters",
-    "jobSeqNo": "THTTRUUSJREQ178770EXTERNALENUS",
-    "postedDate": "2024-09-11T00:00:00.000+0000",
-    "dateCreated": "2024-08-08T16:39:22.292+0000",
-    "cityStateCountry": "New York, New York, United States of America",
-    "address": "3 Times Square, New York, NY 10036, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-New-York-3-Times-Square/US-Reporter--Level-1-Journalist---The-Insurer--Reuters_JREQ178770/apply",
-    "location": "New York, New York, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "We would prefer some experience of reporting the insurance or at least financial services sector, but of greater importance is a demonstrable track record of picking up reporting beats involving techn...",
-      "descriptionTeaser_first200": "U.S. Reporter (Level 1 Journalist), The Insurer, Reuters. This position is based in New York City with hybrid working available. Looking for a new challenge? Want to cover a vibrant segment of the...",
-      "descriptionTeaser_keyword": "U. S. Reporter (Level 1 Journalist), The Insurer, Reuters. This position is based in New York City with hybrid working available. Looking for a new challenge? Want to cover a vibrant segment of the fi...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -73.9866995,
-          "lat": 40.7566955
-        },
-        "location": "New York, New York, United States of America"
       }
     ],
     "isMultiCategory": true,
