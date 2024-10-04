@@ -67,66 +67,15 @@
   {
     "cityState": "Hong Kong",
     "country": "Hong Kong",
-    "ml_skills": [],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "As a Senior Specialist Legal Editor, you will use your technical expertise and substantial experience as a practising lawyer to write and edit insightful and customer-focused content for online public...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "114.2168499",
-    "multi_category": [
-      "News & Editorial Careers"
+    "ml_skills": [
+      "justice",
+      "editorial",
+      "commerce",
+      "grammar",
+      "chinese",
+      "online research",
+      "online research databases"
     ],
-    "reqId": "JREQ183068",
-    "jobId": "JREQ183068",
-    "city": "Hong Kong",
-    "latitude": "22.2876498",
-    "locale": "en_US",
-    "multi_location": [
-      "Hong Kong, Hong Kong"
-    ],
-    "title": "Sr. Specialist Legal Editor, Practical Law (Asia), DR",
-    "jobSeqNo": "THTTRUUSJREQ183068EXTERNALENUS",
-    "postedDate": "2024-10-03T00:00:00.000+0000",
-    "dateCreated": "2024-10-03T12:39:22.453+0000",
-    "cityStateCountry": "Hong Kong, Hong Kong",
-    "address": "15/F, 14 Taikoo Wan Road, Taikoo Shing, Hong Kong, Hong Kong",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/HKG-Taikoo-14-Taikoo-Wan-Road/Sr-Specialist-Legal-Editor--Practical-Law--Asia---DR_JREQ183068/apply",
-    "location": "Hong Kong, Hong Kong",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "As a Senior Specialist Legal Editor, you will use your technical expertise and substantial experience as a practising lawyer to write and edit insightful and customer-focused content for online public...",
-      "descriptionTeaser_first200": "Senior Specialist Legal Editor, Practical Law (Asia), Dispute Resolution. As part of our continued development of Practical Law and Asian market growth, we are planning to expand our Asian content....",
-      "descriptionTeaser_keyword": "Senior Specialist Legal Editor, Practical Law (Asia), Dispute Resolution. As part of our continued development of Practical Law and Asian market growth, we are planning to expand our Asian content. We...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 114.2168499,
-          "lat": 22.2876498
-        },
-        "location": "Hong Kong, Hong Kong"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Hong Kong",
-    "country": "Hong Kong",
-    "ml_skills": [],
     "remote": "Hybrid",
     "type": "Full time",
     "descriptionTeaser": "As a Senior Specialist Legal Editor, you will use your technical expertise and substantial experience as a practising lawyer to write and edit insightful and customer-focused content for online public...",
@@ -185,7 +134,83 @@
   {
     "cityState": "Hong Kong",
     "country": "Hong Kong",
-    "ml_skills": [],
+    "ml_skills": [
+      "dispute resolution",
+      "justice",
+      "editorial",
+      "commerce",
+      "chinese",
+      "grammar",
+      "online research",
+      "online research databases"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "As a Senior Specialist Legal Editor, you will use your technical expertise and substantial experience as a practising lawyer to write and edit insightful and customer-focused content for online public...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "114.2168499",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ183068",
+    "jobId": "JREQ183068",
+    "city": "Hong Kong",
+    "latitude": "22.2876498",
+    "locale": "en_US",
+    "multi_location": [
+      "Hong Kong, Hong Kong"
+    ],
+    "title": "Sr. Specialist Legal Editor, Practical Law (Asia), DR",
+    "jobSeqNo": "THTTRUUSJREQ183068EXTERNALENUS",
+    "postedDate": "2024-10-03T00:00:00.000+0000",
+    "dateCreated": "2024-10-03T12:39:22.453+0000",
+    "cityStateCountry": "Hong Kong, Hong Kong",
+    "address": "15/F, 14 Taikoo Wan Road, Taikoo Shing, Hong Kong, Hong Kong",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/HKG-Taikoo-14-Taikoo-Wan-Road/Sr-Specialist-Legal-Editor--Practical-Law--Asia---DR_JREQ183068/apply",
+    "location": "Hong Kong, Hong Kong",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "As a Senior Specialist Legal Editor, you will use your technical expertise and substantial experience as a practising lawyer to write and edit insightful and customer-focused content for online public...",
+      "descriptionTeaser_first200": "Senior Specialist Legal Editor, Practical Law (Asia), Dispute Resolution. As part of our continued development of Practical Law and Asian market growth, we are planning to expand our Asian content....",
+      "descriptionTeaser_keyword": "Senior Specialist Legal Editor, Practical Law (Asia), Dispute Resolution. As part of our continued development of Practical Law and Asian market growth, we are planning to expand our Asian content. We...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 114.2168499,
+          "lat": 22.2876498
+        },
+        "location": "Hong Kong, Hong Kong"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Hong Kong",
+    "country": "Hong Kong",
+    "ml_skills": [
+      "justice",
+      "publishing",
+      "common law",
+      "commerce",
+      "chinese",
+      "microsoft office applications",
+      "microsoft office"
+    ],
     "remote": "Hybrid",
     "type": "Full time",
     "descriptionTeaser": "As an Associate Editor in Practical Law, you will work in conjunction with more experienced colleagues based in Hong Kong, Singapore, and in other jurisdictions to interpret and explain legal, practic...",
@@ -4467,13 +4492,14 @@
     "cityState": "Bengaluru, Karnataka",
     "country": "India",
     "ml_skills": [
-      "journalism",
+      "editing",
+      "editorial production tools",
       "multimedia",
-      "mass communication"
+      "ai"
     ],
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "You're a fit for the role of Multimedia News Producer if your background includes. Reuters is the world\u2019s largest multimedia news provider. Our industry-leading products and services include highly sp...",
+    "descriptionTeaser": "Deputy Editor, Legal production. You will co-supervise a team of producers tasked with organizing and optimizing the legal content on our website, social platforms and for our clients. Help supervise...",
     "state": "Karnataka",
     "visibilityType": "External",
     "siteType": "external",
@@ -4489,7 +4515,7 @@
     "multi_location": [
       "Bengaluru, Karnataka, India"
     ],
-    "title": "Multimedia News Producer",
+    "title": "Deputy Editor, Legal production",
     "jobSeqNo": "THTTRUUSJREQ178960EXTERNALENUS",
     "postedDate": "2024-07-18T00:00:00.000+0000",
     "dateCreated": "2024-07-18T08:42:07.501+0000",
@@ -4502,9 +4528,9 @@
     "location": "Bengaluru, Karnataka, India",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "You're a fit for the role of Multimedia News Producer if your background includes. Reuters is the world\u2019s largest multimedia news provider. Our industry-leading products and services include highly sp...",
-      "descriptionTeaser_first200": "Multimedia News Producer. Are you a journalist who desires to be part of a news production team that can reach millions of readers in a matter of seconds? Digital Desk at Reuters in Bangalore does exactly...",
-      "descriptionTeaser_keyword": "Multimedia News Producer. Are you a journalist who desires to be part of a news production team that can reach millions of readers in a matter of seconds? Digital Desk at Reuters in Bangalore does exa...",
+      "descriptionTeaser": "Deputy Editor, Legal production. You will co-supervise a team of producers tasked with organizing and optimizing the legal content on our website, social platforms and for our clients. Help supervise...",
+      "descriptionTeaser_first200": "Deputy Editor, Legal production. Reuters is looking for an experienced journalist to help run our legal production desk in Bangalore. You will co-supervise a team of producers tasked with organizi...",
+      "descriptionTeaser_keyword": "Deputy Editor, Legal production. Reuters is looking for an experienced journalist to help run our legal production desk in Bangalore. You will co-supervise a team of producers tasked with organizing a...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
@@ -5706,16 +5732,17 @@
     "cityState": "Bengaluru, Karnataka",
     "country": "India",
     "ml_skills": [
-      "entertainment multimedia",
-      "multimedia",
+      "news production",
       "journalism",
-      "mass communication",
-      "creativity",
-      "transparency"
+      "multimedia",
+      "automation",
+      "production operations",
+      "production processes",
+      "ai tools"
     ],
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "You're a fit for the role of Multimedia News Producer if your background includes. Strong team player, good communication skills. Our industry-leading products and services include highly specialized...",
+    "descriptionTeaser": "In this role, you will be at the forefront of integrating cutting-edge AI technologies into our news production processes, helping us blend automation with journalistic excellence. Lead the integratio...",
     "state": "Karnataka",
     "visibilityType": "External",
     "siteType": "external",
@@ -5731,7 +5758,7 @@
     "multi_location": [
       "Bengaluru, Karnataka, India"
     ],
-    "title": "Multimedia News Producer",
+    "title": "Multimedia News Producer (AI & Tech)",
     "jobSeqNo": "THTTRUUSJREQ174122EXTERNALENUS",
     "postedDate": "2024-03-12T00:00:00.000+0000",
     "dateCreated": "2024-01-10T12:40:01.455+0000",
@@ -5744,9 +5771,9 @@
     "location": "Bengaluru, Karnataka, India",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "You're a fit for the role of Multimedia News Producer if your background includes. Strong team player, good communication skills. Our industry-leading products and services include highly specialized...",
-      "descriptionTeaser_first200": "Multimedia News Producer. Are you a journalist who desires to be part of a news production team that can reach millions of readers in a matter of seconds? Digital Desk at Reuters in Bangalore does exactly...",
-      "descriptionTeaser_keyword": "Multimedia News Producer. Are you a journalist who desires to be part of a news production team that can reach millions of readers in a matter of seconds? Digital Desk at Reuters in Bangalore does exa...",
+      "descriptionTeaser": "In this role, you will be at the forefront of integrating cutting-edge AI technologies into our news production processes, helping us blend automation with journalistic excellence. Lead the integratio...",
+      "descriptionTeaser_first200": "Multimedia News Producer (AI & Tech). Reuters is thrilled to announce an exciting opportunity for an AI Specialist to join our Digital desk. In this role, you will be at the forefront of integrati...",
+      "descriptionTeaser_keyword": "Multimedia News Producer (AI & Tech). Reuters is thrilled to announce an exciting opportunity for an AI Specialist to join our Digital desk. In this role, you will be at the forefront of integrating c...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
