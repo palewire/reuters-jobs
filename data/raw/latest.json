@@ -67,6 +67,88 @@
     "badge": ""
   },
   {
+    "cityState": "Eagan, Minnesota",
+    "country": "United States of America",
+    "ml_skills": [
+      "commerce",
+      "openai",
+      "grading",
+      "technology solutions",
+      "product strategy",
+      "large language models"
+    ],
+    "remote": "Remote",
+    "type": "Full time",
+    "descriptionTeaser": "You will play a key role in crafting and refining prompts, developing methodologies for evaluating and grading LLM outputs, and integrating these technologies into our suite of legal products. Stay in...",
+    "state": "Minnesota",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-93.10808019999999",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ183018",
+    "jobId": "JREQ183018",
+    "city": "Eagan",
+    "latitude": "44.8527611",
+    "locale": "en_US",
+    "multi_location": [
+      "Eagan, Minnesota, United States of America",
+      "Ann Arbor, Michigan, United States of America",
+      "Frisco, Texas, United States of America"
+    ],
+    "title": "Legal AI Prompter / Evaluator",
+    "jobSeqNo": "THTTRUUSJREQ183018EXTERNALENUS",
+    "postedDate": "2024-10-04T00:00:00.000+0000",
+    "dateCreated": "2024-10-04T16:41:09.669+0000",
+    "cityStateCountry": "Eagan, Minnesota, United States of America",
+    "address": "2900 Ames Crossing Road, Ste 100, Eagan, MN 55121, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MSP-2900-Ames-Crossing-Road/Legal-AI-Prompter---Evaluator_JREQ183018/apply",
+    "location": "Eagan, Minnesota, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "You will play a key role in crafting and refining prompts, developing methodologies for evaluating and grading LLM outputs, and integrating these technologies into our suite of legal products. Stay in...",
+      "descriptionTeaser_first200": "Legal AI Prompter / Evaluator. Role Summary. We are seeking a dynamic SME Prompter / Evaluator with a Juris Doctor (JD) degree and a strong interest in emerging technologies. This role is crucial...",
+      "descriptionTeaser_keyword": "Legal AI Prompter / Evaluator. Role Summary. We are seeking a dynamic SME Prompter / Evaluator with a Juris Doctor (JD) degree and a strong interest in emerging technologies. This role is crucial in o...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -93.10808019999999,
+          "lat": 44.8527611
+        },
+        "location": "Eagan, Minnesota, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -83.7267835,
+          "lat": 42.1957259
+        },
+        "location": "Ann Arbor, Michigan, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -96.833545,
+          "lat": 33.1073049
+        },
+        "location": "Frisco, Texas, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Dubai",
     "country": "United Arab Emirates",
     "ml_skills": [
