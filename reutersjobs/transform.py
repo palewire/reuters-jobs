@@ -32,8 +32,8 @@ def cli():
             type=raw_job["type"],
             city=raw_job["city"],
             country=raw_job["country"],
-            x=raw_job["longitude"],
-            y=raw_job["latitude"],
+            x=raw_job.get("longitude", None),
+            y=raw_job.get("latitude", None),
         )
         clean_job_list.append(clean_job)
 
