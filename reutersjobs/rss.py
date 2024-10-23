@@ -50,6 +50,7 @@ def cli():
         img_path = utils.DATA_DIR / "img" / f"{row['id']}.png"
         if not img_path.exists():
             print(f"❌ Missing image for {title}")
+            continue
         entry.enclosure(
             url=f"https://raw.githubusercontent.com/palewire/reuters-jobs/main/data/img/{row['id']}.png",
             type="image/png",
