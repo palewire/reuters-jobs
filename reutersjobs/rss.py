@@ -47,10 +47,13 @@ def cli():
         entry.title(f"{title} in {row['city']}")
         entry.published(row["open_date"])
         entry.link(href=row["url"])
+        img_path = utils.DATA_DIR / "img" / f"{row['id']}.png"
+        if not img_path.exists():
+            print(f"❌ Missing image for {title}")
         entry.enclosure(
             url=f"https://raw.githubusercontent.com/palewire/reuters-jobs/main/data/img/{row['id']}.png",
             type="image/png",
-            length=os.path.getsize(utils.DATA_DIR / "img" / f"{row['id']}.png"),
+            length=os.path.getsize(img_path),
         )
         fg.add_entry(entry, order="append")
 
