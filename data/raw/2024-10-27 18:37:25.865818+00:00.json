@@ -1,80 +1,5 @@
 [
   {
-    "cityState": "Pyrmont, New South Wales",
-    "country": "Australia",
-    "ml_skills": [
-      "contract law",
-      "commercial law",
-      "outsourcing",
-      "advertising",
-      "esg",
-      "logistics",
-      "franchising"
-    ],
-    "remote": "Remote",
-    "type": "Full time",
-    "descriptionTeaser": "Keep up to date with commercial law topics and monitor legal, practice and market developments relevant to lawyers in both in-house and private practice environments....",
-    "state": "New South Wales",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "151.1915144",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ183021",
-    "jobId": "JREQ183021",
-    "city": "Pyrmont",
-    "latitude": "-33.8664432",
-    "locale": "en_US",
-    "multi_location": [
-      "Pyrmont, New South Wales, Australia",
-      "Melbourne, Victoria, Australia"
-    ],
-    "title": "Senior Lawyer Writer, Commercial, Practical Law Australia",
-    "jobSeqNo": "THTTRUUSJREQ183021EXTERNALENUS",
-    "postedDate": "2024-10-24T00:00:00.000+0000",
-    "dateCreated": "2024-10-24T08:44:36.354+0000",
-    "cityStateCountry": "Pyrmont, New South Wales, Australia",
-    "address": "19 Harris Street, Pyrmont NSW 2009, Australia",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/AUS-Pyrmont-19-Harris-St/Senior-Lawyer-Writer--Commercial--Practical-Law-Australia_JREQ183021/apply",
-    "location": "Pyrmont, New South Wales, Australia",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Keep up to date with commercial law topics and monitor legal, practice and market developments relevant to lawyers in both in-house and private practice environments....",
-      "descriptionTeaser_first200": "Do you have 5 years\u2019+ PQE experience working as a Commercial Lawyer within an in-house team and/or top or mid-tier law firm? Have you got experience advising across a wide range of commercial lega...",
-      "descriptionTeaser_keyword": "Do you have 5 years\u2019+ PQE experience working as a Commercial Lawyer within an in-house team and/or top or mid-tier law firm? Have you got experience advising across a wide range of commercial legal to...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 151.1915144,
-          "lat": -33.8664432
-        },
-        "location": "Pyrmont, New South Wales, Australia"
-      },
-      {
-        "latlong": {
-          "lon": 144.9633347,
-          "lat": -37.8169726
-        },
-        "location": "Melbourne, Victoria, Australia"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Eagan, Minnesota",
     "country": "United States of America",
     "ml_skills": [
@@ -147,6 +72,81 @@
           "lat": 33.1073049
         },
         "location": "Frisco, Texas, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Pyrmont, New South Wales",
+    "country": "Australia",
+    "ml_skills": [
+      "contract law",
+      "commercial law",
+      "outsourcing",
+      "advertising",
+      "esg",
+      "logistics",
+      "franchising"
+    ],
+    "remote": "Remote",
+    "type": "Full time",
+    "descriptionTeaser": "Keep up to date with commercial law topics and monitor legal, practice and market developments relevant to lawyers in both in-house and private practice environments....",
+    "state": "New South Wales",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "151.1915144",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ183021",
+    "jobId": "JREQ183021",
+    "city": "Pyrmont",
+    "latitude": "-33.8664432",
+    "locale": "en_US",
+    "multi_location": [
+      "Pyrmont, New South Wales, Australia",
+      "Melbourne, Victoria, Australia"
+    ],
+    "title": "Senior Lawyer Writer, Commercial, Practical Law Australia",
+    "jobSeqNo": "THTTRUUSJREQ183021EXTERNALENUS",
+    "postedDate": "2024-10-24T00:00:00.000+0000",
+    "dateCreated": "2024-10-24T08:44:36.354+0000",
+    "cityStateCountry": "Pyrmont, New South Wales, Australia",
+    "address": "19 Harris Street, Pyrmont NSW 2009, Australia",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/AUS-Pyrmont-19-Harris-St/Senior-Lawyer-Writer--Commercial--Practical-Law-Australia_JREQ183021/apply",
+    "location": "Pyrmont, New South Wales, Australia",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Keep up to date with commercial law topics and monitor legal, practice and market developments relevant to lawyers in both in-house and private practice environments....",
+      "descriptionTeaser_first200": "Do you have 5 years\u2019+ PQE experience working as a Commercial Lawyer within an in-house team and/or top or mid-tier law firm? Have you got experience advising across a wide range of commercial lega...",
+      "descriptionTeaser_keyword": "Do you have 5 years\u2019+ PQE experience working as a Commercial Lawyer within an in-house team and/or top or mid-tier law firm? Have you got experience advising across a wide range of commercial legal to...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 151.1915144,
+          "lat": -33.8664432
+        },
+        "location": "Pyrmont, New South Wales, Australia"
+      },
+      {
+        "latlong": {
+          "lon": 144.9633347,
+          "lat": -37.8169726
+        },
+        "location": "Melbourne, Victoria, Australia"
       }
     ],
     "isMultiCategory": true,
@@ -480,6 +480,144 @@
     "badge": ""
   },
   {
+    "cityState": "Mexico City",
+    "country": "Mexico",
+    "ml_skills": [
+      "data visualization",
+      "data analysis",
+      "statistical software",
+      "statistical analysis",
+      "commerce",
+      "market research",
+      "international business",
+      "economic analysis",
+      "economic indicators",
+      "state tax"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Data Analysis: Collecting and analysing data related to international trade, such as import/export volumes, tariff rates, quotas, trade agreements, and economic indicators. Continuous Learning and Ski...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-99.1510899",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ183311",
+    "jobId": "JREQ183311",
+    "city": "Mexico City",
+    "latitude": "19.4343664",
+    "locale": "en_US",
+    "multi_location": [
+      "Mexico City, Mexico"
+    ],
+    "title": "Content Analyst",
+    "jobSeqNo": "THTTRUUSJREQ183311EXTERNALENUS",
+    "postedDate": "2024-10-21T00:00:00.000+0000",
+    "dateCreated": "2024-10-21T16:40:09.759+0000",
+    "cityStateCountry": "Mexico City, Mexico",
+    "address": "Av. Paseo de la Reforma #26, Floor 36th, Colonia Ju\u00e1rez, Cuauht\u00e9moc, 06600 Mexico City, Mexico",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/MEX-Distrito-Federal-Reforma-26/Content-Analyst_JREQ183311/apply",
+    "location": "Mexico City, Mexico",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Data Analysis: Collecting and analysing data related to international trade, such as import/export volumes, tariff rates, quotas, trade agreements, and economic indicators. Continuous Learning and Ski...",
+      "descriptionTeaser_first200": "Content Analyst. Are you passionate about the chance to bring your experience to a world-class company that is market-leading for both content and technology? If yes, we are looking for you! A glo...",
+      "descriptionTeaser_keyword": "Content Analyst. Are you passionate about the chance to bring your experience to a world-class company that is market-leading for both content and technology? If yes, we are looking for you! A global...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -99.1510899,
+          "lat": 19.4343664
+        },
+        "location": "Mexico City, Mexico"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Hyderabad, Telangana",
+    "country": "India",
+    "ml_skills": [
+      "legal research",
+      "publishing",
+      "editing",
+      "spreadsheets",
+      "content creation",
+      "microsoft office applications",
+      "microsoft office",
+      "time management"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Help identify content that needs review and ensure the review process takes place, liaising where appropriate with colleagues and external contributors. Experience with UK and US legal systems strongl...",
+    "state": "Telangana",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "78.3847282",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ183339",
+    "jobId": "JREQ183339",
+    "city": "Hyderabad",
+    "latitude": "17.438325",
+    "locale": "en_US",
+    "multi_location": [
+      "Hyderabad, Telangana, India"
+    ],
+    "title": "Legal Editorial Associate - Practical Law UK, US - LLB/LLM",
+    "jobSeqNo": "THTTRUUSJREQ183339EXTERNALENUS",
+    "postedDate": "2024-10-21T00:00:00.000+0000",
+    "dateCreated": "2024-10-21T08:38:29.418+0000",
+    "cityStateCountry": "Hyderabad, Telangana, India",
+    "address": "Floor 12, 13 & 14, Building 11, Raheja Mindspace, Madhapur, Hyderabad- 500081, Telangana, India",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Hyderabad-Raheja-Mindspace/Legal-Editorial-Associate---Practical-Law-UK--US---LLB-LLM_JREQ183339/apply",
+    "location": "Hyderabad, Telangana, India",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Help identify content that needs review and ensure the review process takes place, liaising where appropriate with colleagues and external contributors. Experience with UK and US legal systems strongl...",
+      "descriptionTeaser_first200": "We are seeking multiple Legal Editorial Associates (EAs) to support the Practical Law editorial teams with the creation, publication, delivery, and presentation of content for Practical Law. About...",
+      "descriptionTeaser_keyword": "We are seeking multiple Legal Editorial Associates (EAs) to support the Practical Law editorial teams with the creation, publication, delivery, and presentation of content for Practical Law. About the...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 78.3847282,
+          "lat": 17.438325
+        },
+        "location": "Hyderabad, Telangana, India"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Gdansk",
     "country": "Poland",
     "ml_skills": [
@@ -684,191 +822,48 @@
     "badge": ""
   },
   {
-    "cityState": "Mexico City",
-    "country": "Mexico",
+    "cityState": "Gdansk",
+    "country": "Poland",
     "ml_skills": [
-      "data visualization",
-      "data analysis",
-      "statistical software",
-      "statistical analysis",
-      "commerce",
-      "market research",
-      "international business",
-      "economic analysis",
-      "economic indicators",
-      "state tax"
+      "multimedia",
+      "german",
+      "short stories",
+      "austrian"
     ],
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "Data Analysis: Collecting and analysing data related to international trade, such as import/export volumes, tariff rates, quotas, trade agreements, and economic indicators. Continuous Learning and Ski...",
+    "descriptionTeaser": "Reuters is seeking a graduate who can speak fluent English and German to join its real-time news operation in Gdansk, Poland. Write headlines and news summaries accurately, quickly and with high stand...",
     "state": "",
     "visibilityType": "External",
     "siteType": "external",
-    "longitude": "-99.1510899",
+    "longitude": "18.5752702",
     "multi_category": [
       "News & Editorial Careers"
     ],
-    "reqId": "JREQ183311",
-    "jobId": "JREQ183311",
-    "city": "Mexico City",
-    "latitude": "19.4343664",
+    "reqId": "JREQ183452",
+    "jobId": "JREQ183452",
+    "city": "Gdansk",
+    "latitude": "54.4004235",
     "locale": "en_US",
     "multi_location": [
-      "Mexico City, Mexico"
+      "Gdansk, Poland"
     ],
-    "title": "Content Analyst",
-    "jobSeqNo": "THTTRUUSJREQ183311EXTERNALENUS",
-    "postedDate": "2024-10-21T00:00:00.000+0000",
-    "dateCreated": "2024-10-21T16:40:09.759+0000",
-    "cityStateCountry": "Mexico City, Mexico",
-    "address": "Av. Paseo de la Reforma #26, Floor 36th, Colonia Ju\u00e1rez, Cuauht\u00e9moc, 06600 Mexico City, Mexico",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/MEX-Distrito-Federal-Reforma-26/Content-Analyst_JREQ183311/apply",
-    "location": "Mexico City, Mexico",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Data Analysis: Collecting and analysing data related to international trade, such as import/export volumes, tariff rates, quotas, trade agreements, and economic indicators. Continuous Learning and Ski...",
-      "descriptionTeaser_first200": "Content Analyst. Are you passionate about the chance to bring your experience to a world-class company that is market-leading for both content and technology? If yes, we are looking for you! A glo...",
-      "descriptionTeaser_keyword": "Content Analyst. Are you passionate about the chance to bring your experience to a world-class company that is market-leading for both content and technology? If yes, we are looking for you! A global...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -99.1510899,
-          "lat": 19.4343664
-        },
-        "location": "Mexico City, Mexico"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Hyderabad, Telangana",
-    "country": "India",
-    "ml_skills": [
-      "legal research",
-      "publishing",
-      "editing",
-      "spreadsheets",
-      "content creation",
-      "microsoft office applications",
-      "microsoft office",
-      "time management"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Help identify content that needs review and ensure the review process takes place, liaising where appropriate with colleagues and external contributors. Experience with UK and US legal systems strongl...",
-    "state": "Telangana",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "78.3847282",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ183339",
-    "jobId": "JREQ183339",
-    "city": "Hyderabad",
-    "latitude": "17.438325",
-    "locale": "en_US",
-    "multi_location": [
-      "Hyderabad, Telangana, India"
-    ],
-    "title": "Legal Editorial Associate - Practical Law UK, US - LLB/LLM",
-    "jobSeqNo": "THTTRUUSJREQ183339EXTERNALENUS",
-    "postedDate": "2024-10-21T00:00:00.000+0000",
-    "dateCreated": "2024-10-21T08:38:29.418+0000",
-    "cityStateCountry": "Hyderabad, Telangana, India",
-    "address": "Floor 12, 13 & 14, Building 11, Raheja Mindspace, Madhapur, Hyderabad- 500081, Telangana, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Hyderabad-Raheja-Mindspace/Legal-Editorial-Associate---Practical-Law-UK--US---LLB-LLM_JREQ183339/apply",
-    "location": "Hyderabad, Telangana, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Help identify content that needs review and ensure the review process takes place, liaising where appropriate with colleagues and external contributors. Experience with UK and US legal systems strongl...",
-      "descriptionTeaser_first200": "We are seeking multiple Legal Editorial Associates (EAs) to support the Practical Law editorial teams with the creation, publication, delivery, and presentation of content for Practical Law. About...",
-      "descriptionTeaser_keyword": "We are seeking multiple Legal Editorial Associates (EAs) to support the Practical Law editorial teams with the creation, publication, delivery, and presentation of content for Practical Law. About the...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 78.3847282,
-          "lat": 17.438325
-        },
-        "location": "Hyderabad, Telangana, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Frisco, Texas",
-    "country": "United States of America",
-    "ml_skills": [
-      "tax preparation",
-      "tax software",
-      "tax law",
-      "cpa",
-      "filing",
-      "strong",
-      "computer science",
-      "checkpoint",
-      "spring"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "In this role, you will collect, analyze, and prioritize requirements from various entities including external taxing authorities and our internal sources to define and make required changes to the GoS...",
-    "state": "Texas",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-96.833545",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ181758",
-    "jobId": "JREQ181758",
-    "city": "Frisco",
-    "latitude": "33.1073049",
-    "locale": "en_US",
-    "multi_location": [
-      "Frisco, Texas, United States of America"
-    ],
-    "title": "Tax Analyst",
-    "jobSeqNo": "THTTRUUSJREQ181758EXTERNALENUS",
+    "title": "News Reporter, Reuters (German speaking)",
+    "jobSeqNo": "THTTRUUSJREQ183452EXTERNALENUS",
     "postedDate": "2024-10-18T00:00:00.000+0000",
-    "dateCreated": "2024-08-22T20:40:52.077+0000",
-    "cityStateCountry": "Frisco, Texas, United States of America",
-    "address": "6160 Warren Parkway, Frisco, TX 75034, United States of America",
+    "dateCreated": "2024-10-18T08:40:04.556+0000",
+    "cityStateCountry": "Gdansk, Poland",
+    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
     "jobVisibility": [
       "external"
     ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Frisco-6160-Warren-Parkway/Tax-Analyst_JREQ181758/apply",
-    "location": "Frisco, Texas, United States of America",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/News-Reporter--Reuters--German-speaking-_JREQ183452/apply",
+    "location": "Gdansk, Poland",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "In this role, you will collect, analyze, and prioritize requirements from various entities including external taxing authorities and our internal sources to define and make required changes to the GoS...",
-      "descriptionTeaser_first200": "Summary. You will participate in the design, development, and testing of our GoSystem Tax or UltraTax using in-house development tools. In this role, you will collect, analyze, and prioritize requ...",
-      "descriptionTeaser_keyword": "Summary. You will participate in the design, development, and testing of our GoSystem Tax or UltraTax using in-house development tools. In this role, you will collect, analyze, and prioritize requirem...",
+      "descriptionTeaser": "Reuters is seeking a graduate who can speak fluent English and German to join its real-time news operation in Gdansk, Poland. Write headlines and news summaries accurately, quickly and with high stand...",
+      "descriptionTeaser_first200": "Reuters is seeking a graduate who can speak fluent English and German to join its real-time news operation in Gdansk, Poland. The reporter will work in fast-paced, international environment and ge...",
+      "descriptionTeaser_keyword": "Reuters is seeking a graduate who can speak fluent English and German to join its real-time news operation in Gdansk, Poland. The reporter will work in fast-paced, international environment and get to...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
@@ -876,10 +871,10 @@
     "multi_location_array": [
       {
         "latlong": {
-          "lon": -96.833545,
-          "lat": 33.1073049
+          "lon": 18.5752702,
+          "lat": 54.4004235
         },
-        "location": "Frisco, Texas, United States of America"
+        "location": "Gdansk, Poland"
       }
     ],
     "isMultiCategory": true,
@@ -1091,6 +1086,75 @@
     "badge": ""
   },
   {
+    "cityState": "Frisco, Texas",
+    "country": "United States of America",
+    "ml_skills": [
+      "tax preparation",
+      "tax software",
+      "tax law",
+      "cpa",
+      "filing",
+      "strong",
+      "computer science",
+      "checkpoint",
+      "spring"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "In this role, you will collect, analyze, and prioritize requirements from various entities including external taxing authorities and our internal sources to define and make required changes to the GoS...",
+    "state": "Texas",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-96.833545",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ181758",
+    "jobId": "JREQ181758",
+    "city": "Frisco",
+    "latitude": "33.1073049",
+    "locale": "en_US",
+    "multi_location": [
+      "Frisco, Texas, United States of America"
+    ],
+    "title": "Tax Analyst",
+    "jobSeqNo": "THTTRUUSJREQ181758EXTERNALENUS",
+    "postedDate": "2024-10-18T00:00:00.000+0000",
+    "dateCreated": "2024-08-22T20:40:52.077+0000",
+    "cityStateCountry": "Frisco, Texas, United States of America",
+    "address": "6160 Warren Parkway, Frisco, TX 75034, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Frisco-6160-Warren-Parkway/Tax-Analyst_JREQ181758/apply",
+    "location": "Frisco, Texas, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "In this role, you will collect, analyze, and prioritize requirements from various entities including external taxing authorities and our internal sources to define and make required changes to the GoS...",
+      "descriptionTeaser_first200": "Summary. You will participate in the design, development, and testing of our GoSystem Tax or UltraTax using in-house development tools. In this role, you will collect, analyze, and prioritize requ...",
+      "descriptionTeaser_keyword": "Summary. You will participate in the design, development, and testing of our GoSystem Tax or UltraTax using in-house development tools. In this role, you will collect, analyze, and prioritize requirem...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -96.833545,
+          "lat": 33.1073049
+        },
+        "location": "Frisco, Texas, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "New York, New York",
     "country": "United States of America",
     "ml_skills": [
@@ -1148,70 +1212,6 @@
           "lat": 40.7566955
         },
         "location": "New York, New York, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Gdansk",
-    "country": "Poland",
-    "ml_skills": [
-      "multimedia",
-      "german",
-      "short stories",
-      "austrian"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Reuters is seeking a graduate who can speak fluent English and German to join its real-time news operation in Gdansk, Poland. Write headlines and news summaries accurately, quickly and with high stand...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "18.5752702",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ183452",
-    "jobId": "JREQ183452",
-    "city": "Gdansk",
-    "latitude": "54.4004235",
-    "locale": "en_US",
-    "multi_location": [
-      "Gdansk, Poland"
-    ],
-    "title": "News Reporter, Reuters (German speaking)",
-    "jobSeqNo": "THTTRUUSJREQ183452EXTERNALENUS",
-    "postedDate": "2024-10-18T00:00:00.000+0000",
-    "dateCreated": "2024-10-18T08:40:04.556+0000",
-    "cityStateCountry": "Gdansk, Poland",
-    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/News-Reporter--Reuters--German-speaking-_JREQ183452/apply",
-    "location": "Gdansk, Poland",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Reuters is seeking a graduate who can speak fluent English and German to join its real-time news operation in Gdansk, Poland. Write headlines and news summaries accurately, quickly and with high stand...",
-      "descriptionTeaser_first200": "Reuters is seeking a graduate who can speak fluent English and German to join its real-time news operation in Gdansk, Poland. The reporter will work in fast-paced, international environment and ge...",
-      "descriptionTeaser_keyword": "Reuters is seeking a graduate who can speak fluent English and German to join its real-time news operation in Gdansk, Poland. The reporter will work in fast-paced, international environment and get to...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 18.5752702,
-          "lat": 54.4004235
-        },
-        "location": "Gdansk, Poland"
       }
     ],
     "isMultiCategory": true,
@@ -1625,72 +1625,6 @@
     "badge": ""
   },
   {
-    "cityState": "Pyrmont, New South Wales",
-    "country": "Australia",
-    "ml_skills": [
-      "foreign exchange",
-      "macroeconomics",
-      "fundamental analysis",
-      "technical analysis",
-      "financial markets",
-      "public speaking"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Based in Sydney, the Senior FX Analyst will cover AUD/USD, EUR/USD, other majors and Asian emerging markets currencies traded in that time zone, contributing intra-day updates in bullets with charts a...",
-    "state": "New South Wales",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "151.1915144",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ183405",
-    "jobId": "JREQ183405",
-    "city": "Pyrmont",
-    "latitude": "-33.8664432",
-    "locale": "en_US",
-    "multi_location": [
-      "Pyrmont, New South Wales, Australia"
-    ],
-    "title": "Senior FX Analyst",
-    "jobSeqNo": "THTTRUUSJREQ183405EXTERNALENUS",
-    "postedDate": "2024-10-15T00:00:00.000+0000",
-    "dateCreated": "2024-10-15T05:06:45.804+0000",
-    "cityStateCountry": "Pyrmont, New South Wales, Australia",
-    "address": "19 Harris Street, Pyrmont NSW 2009, Australia",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/AUS-Pyrmont-19-Harris-St/Senior-FX-Analyst_JREQ183405/apply",
-    "location": "Pyrmont, New South Wales, Australia",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Based in Sydney, the Senior FX Analyst will cover AUD/USD, EUR/USD, other majors and Asian emerging markets currencies traded in that time zone, contributing intra-day updates in bullets with charts a...",
-      "descriptionTeaser_first200": "Reuters is looking for an experienced trader or analyst to cover the foreign exchange market for professional clients of the Reuters FXBuzz service as part of a global team. We\u2019re seeking someone...",
-      "descriptionTeaser_keyword": "Reuters is looking for an experienced trader or analyst to cover the foreign exchange market for professional clients of the Reuters FXBuzz service as part of a global team. We\u2019re seeking someone who...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 151.1915144,
-          "lat": -33.8664432
-        },
-        "location": "Pyrmont, New South Wales, Australia"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Manila",
     "country": "Philippines",
     "ml_skills": [
@@ -1824,6 +1758,72 @@
     "badge": ""
   },
   {
+    "cityState": "Pyrmont, New South Wales",
+    "country": "Australia",
+    "ml_skills": [
+      "foreign exchange",
+      "macroeconomics",
+      "fundamental analysis",
+      "technical analysis",
+      "financial markets",
+      "public speaking"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Based in Sydney, the Senior FX Analyst will cover AUD/USD, EUR/USD, other majors and Asian emerging markets currencies traded in that time zone, contributing intra-day updates in bullets with charts a...",
+    "state": "New South Wales",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "151.1915144",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ183405",
+    "jobId": "JREQ183405",
+    "city": "Pyrmont",
+    "latitude": "-33.8664432",
+    "locale": "en_US",
+    "multi_location": [
+      "Pyrmont, New South Wales, Australia"
+    ],
+    "title": "Senior FX Analyst",
+    "jobSeqNo": "THTTRUUSJREQ183405EXTERNALENUS",
+    "postedDate": "2024-10-15T00:00:00.000+0000",
+    "dateCreated": "2024-10-15T05:06:45.804+0000",
+    "cityStateCountry": "Pyrmont, New South Wales, Australia",
+    "address": "19 Harris Street, Pyrmont NSW 2009, Australia",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/AUS-Pyrmont-19-Harris-St/Senior-FX-Analyst_JREQ183405/apply",
+    "location": "Pyrmont, New South Wales, Australia",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Based in Sydney, the Senior FX Analyst will cover AUD/USD, EUR/USD, other majors and Asian emerging markets currencies traded in that time zone, contributing intra-day updates in bullets with charts a...",
+      "descriptionTeaser_first200": "Reuters is looking for an experienced trader or analyst to cover the foreign exchange market for professional clients of the Reuters FXBuzz service as part of a global team. We\u2019re seeking someone...",
+      "descriptionTeaser_keyword": "Reuters is looking for an experienced trader or analyst to cover the foreign exchange market for professional clients of the Reuters FXBuzz service as part of a global team. We\u2019re seeking someone who...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 151.1915144,
+          "lat": -33.8664432
+        },
+        "location": "Pyrmont, New South Wales, Australia"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Manila",
     "country": "Philippines",
     "ml_skills": [
@@ -1880,68 +1880,6 @@
           "lat": 14.5344436
         },
         "location": "Manila, Philippines"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Pyrmont, New South Wales",
-    "country": "Australia",
-    "ml_skills": [
-      "breaking news",
-      "multimedia"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "They will be responsible for helping generate coverage across the story cycle, from news alerts and early quick hits on breaking developments, to anchoring updates on the bigger stories of the day and...",
-    "state": "New South Wales",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "151.1915144",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ183400",
-    "jobId": "JREQ183400",
-    "city": "Pyrmont",
-    "latitude": "-33.8664432",
-    "locale": "en_US",
-    "multi_location": [
-      "Pyrmont, New South Wales, Australia"
-    ],
-    "title": "Breaking News Correspondent, Australia & New Zealand",
-    "jobSeqNo": "THTTRUUSJREQ183400EXTERNALENUS",
-    "postedDate": "2024-10-14T00:00:00.000+0000",
-    "dateCreated": "2024-10-14T08:38:43.332+0000",
-    "cityStateCountry": "Pyrmont, New South Wales, Australia",
-    "address": "19 Harris Street, Pyrmont NSW 2009, Australia",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/AUS-Pyrmont-19-Harris-St/Breaking-News-Correspondent--Australia---New-Zealand_JREQ183400/apply",
-    "location": "Pyrmont, New South Wales, Australia",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "They will be responsible for helping generate coverage across the story cycle, from news alerts and early quick hits on breaking developments, to anchoring updates on the bigger stories of the day and...",
-      "descriptionTeaser_first200": "Reuters is looking for an ambitious and dynamic journalist with excellent news judgment and a flair for writing to join our breaking news team in Australia, New Zealand and the Pacific, covering e...",
-      "descriptionTeaser_keyword": "Reuters is looking for an ambitious and dynamic journalist with excellent news judgment and a flair for writing to join our breaking news team in Australia, New Zealand and the Pacific, covering every...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 151.1915144,
-          "lat": -33.8664432
-        },
-        "location": "Pyrmont, New South Wales, Australia"
       }
     ],
     "isMultiCategory": true,
@@ -2018,55 +1956,46 @@
     "badge": ""
   },
   {
-    "cityState": "Eagan, Minnesota",
-    "country": "United States of America",
+    "cityState": "Pyrmont, New South Wales",
+    "country": "Australia",
     "ml_skills": [
-      "payroll management",
-      "payroll administration",
-      "certified payroll professional",
-      "ai",
-      "customer service",
-      "editing",
-      "agile",
-      "checkpoint",
-      "content delivery"
+      "breaking news",
+      "multimedia"
     ],
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "Contribute to the development of enhanced digital experiences for our customers, leveraging deep payroll domain expertise and user experience insights. Demonstrated writing and editing skills, with th...",
-    "state": "Minnesota",
+    "descriptionTeaser": "They will be responsible for helping generate coverage across the story cycle, from news alerts and early quick hits on breaking developments, to anchoring updates on the bigger stories of the day and...",
+    "state": "New South Wales",
     "visibilityType": "External",
     "siteType": "external",
-    "longitude": "-93.10808019999999",
+    "longitude": "151.1915144",
     "multi_category": [
       "News & Editorial Careers"
     ],
-    "reqId": "JREQ183340",
-    "jobId": "JREQ183340",
-    "city": "Eagan",
-    "latitude": "44.8527611",
+    "reqId": "JREQ183400",
+    "jobId": "JREQ183400",
+    "city": "Pyrmont",
+    "latitude": "-33.8664432",
     "locale": "en_US",
     "multi_location": [
-      "Eagan, Minnesota, United States of America",
-      "Ann Arbor, Michigan, United States of America",
-      "Frisco, Texas, United States of America"
+      "Pyrmont, New South Wales, Australia"
     ],
-    "title": "Payroll Editor",
-    "jobSeqNo": "THTTRUUSJREQ183340EXTERNALENUS",
-    "postedDate": "2024-10-11T00:00:00.000+0000",
-    "dateCreated": "2024-10-11T16:38:46.507+0000",
-    "cityStateCountry": "Eagan, Minnesota, United States of America",
-    "address": "2900 Ames Crossing Road, Ste 100, Eagan, MN 55121, United States of America",
+    "title": "Breaking News Correspondent, Australia & New Zealand",
+    "jobSeqNo": "THTTRUUSJREQ183400EXTERNALENUS",
+    "postedDate": "2024-10-14T00:00:00.000+0000",
+    "dateCreated": "2024-10-14T08:38:43.332+0000",
+    "cityStateCountry": "Pyrmont, New South Wales, Australia",
+    "address": "19 Harris Street, Pyrmont NSW 2009, Australia",
     "jobVisibility": [
       "external"
     ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MSP-2900-Ames-Crossing-Road/Payroll-Editor_JREQ183340/apply",
-    "location": "Eagan, Minnesota, United States of America",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/AUS-Pyrmont-19-Harris-St/Breaking-News-Correspondent--Australia---New-Zealand_JREQ183400/apply",
+    "location": "Pyrmont, New South Wales, Australia",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "Contribute to the development of enhanced digital experiences for our customers, leveraging deep payroll domain expertise and user experience insights. Demonstrated writing and editing skills, with th...",
-      "descriptionTeaser_first200": "Payroll Editor. Role Summary. We are seeking a passionate payroll professional who thrives on the complexity and nuance of payroll administration. The ideal candidate is a lifelong learner who enj...",
-      "descriptionTeaser_keyword": "Payroll Editor. Role Summary. We are seeking a passionate payroll professional who thrives on the complexity and nuance of payroll administration. The ideal candidate is a lifelong learner who enjoys...",
+      "descriptionTeaser": "They will be responsible for helping generate coverage across the story cycle, from news alerts and early quick hits on breaking developments, to anchoring updates on the bigger stories of the day and...",
+      "descriptionTeaser_first200": "Reuters is looking for an ambitious and dynamic journalist with excellent news judgment and a flair for writing to join our breaking news team in Australia, New Zealand and the Pacific, covering e...",
+      "descriptionTeaser_keyword": "Reuters is looking for an ambitious and dynamic journalist with excellent news judgment and a flair for writing to join our breaking news team in Australia, New Zealand and the Pacific, covering every...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
@@ -2074,24 +2003,10 @@
     "multi_location_array": [
       {
         "latlong": {
-          "lon": -93.10808019999999,
-          "lat": 44.8527611
+          "lon": 151.1915144,
+          "lat": -33.8664432
         },
-        "location": "Eagan, Minnesota, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -83.7267835,
-          "lat": 42.1957259
-        },
-        "location": "Ann Arbor, Michigan, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -96.833545,
-          "lat": 33.1073049
-        },
-        "location": "Frisco, Texas, United States of America"
+        "location": "Pyrmont, New South Wales, Australia"
       }
     ],
     "isMultiCategory": true,
@@ -2154,80 +2069,6 @@
           "lat": 40.7566955
         },
         "location": "New York, New York, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Pyrmont, New South Wales",
-    "country": "Australia",
-    "ml_skills": [
-      "intellectual property law",
-      "commercial law",
-      "data processing",
-      "software sales",
-      "software development",
-      "cloud computing"
-    ],
-    "remote": "Remote",
-    "type": "Full time",
-    "descriptionTeaser": "Do you have 5 years\u2019+ PQE experience working as a Technology Lawyer within a top or mid-tier law firm or in an in-house team? Keep up to date with technology law topics and monitor legal, practice and...",
-    "state": "New South Wales",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "151.1915144",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ183025",
-    "jobId": "JREQ183025",
-    "city": "Pyrmont",
-    "latitude": "-33.8664432",
-    "locale": "en_US",
-    "multi_location": [
-      "Pyrmont, New South Wales, Australia",
-      "Melbourne, Victoria, Australia"
-    ],
-    "title": "Senior Lawyer Writer, Technology and Intellectual Property",
-    "jobSeqNo": "THTTRUUSJREQ183025EXTERNALENUS",
-    "postedDate": "2024-10-11T00:00:00.000+0000",
-    "dateCreated": "2024-10-11T08:38:55.713+0000",
-    "cityStateCountry": "Pyrmont, New South Wales, Australia",
-    "address": "19 Harris Street, Pyrmont NSW 2009, Australia",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/AUS-Pyrmont-19-Harris-St/Senior-Lawyer-Writer--Technology-and-Intellectual-Property_JREQ183025-1/apply",
-    "location": "Pyrmont, New South Wales, Australia",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Do you have 5 years\u2019+ PQE experience working as a Technology Lawyer within a top or mid-tier law firm or in an in-house team? Keep up to date with technology law topics and monitor legal, practice and...",
-      "descriptionTeaser_first200": "Senior Lawyer Writer, Technology and Intellectual Property, Practical Law Australia . Do you have 5 years\u2019+ PQE experience working as a Technology Lawyer within a top or mid-tier law firm or in an...",
-      "descriptionTeaser_keyword": "Senior Lawyer Writer, Technology and Intellectual Property, Practical Law Australia. Do you have 5 years\u2019+ PQE experience working as a Technology Lawyer within a top or mid-tier law firm or in an in-h...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 151.1915144,
-          "lat": -33.8664432
-        },
-        "location": "Pyrmont, New South Wales, Australia"
-      },
-      {
-        "latlong": {
-          "lon": 144.9633347,
-          "lat": -37.8169726
-        },
-        "location": "Melbourne, Victoria, Australia"
       }
     ],
     "isMultiCategory": true,
@@ -2319,52 +2160,51 @@
     "badge": ""
   },
   {
-    "cityState": "London",
-    "country": "United Kingdom",
+    "cityState": "Pyrmont, New South Wales",
+    "country": "Australia",
     "ml_skills": [
-      "editing",
-      "graphics",
-      "newsletters",
-      "multimedia",
-      "data analysis",
-      "competitive analysis",
-      "project management",
-      "data visualization"
+      "intellectual property law",
+      "commercial law",
+      "data processing",
+      "software sales",
+      "software development",
+      "cloud computing"
     ],
-    "remote": "Hybrid",
+    "remote": "Remote",
     "type": "Full time",
-    "descriptionTeaser": "The Reuters Commentary team is looking for a commentary producer with excellent project management skills, strong digital acumen, a writing background, and a passion for financial markets. Provide edi...",
-    "state": "",
+    "descriptionTeaser": "Do you have 5 years\u2019+ PQE experience working as a Technology Lawyer within a top or mid-tier law firm or in an in-house team? Keep up to date with technology law topics and monitor legal, practice and...",
+    "state": "New South Wales",
     "visibilityType": "External",
     "siteType": "external",
-    "longitude": "-0.0185088",
+    "longitude": "151.1915144",
     "multi_category": [
       "News & Editorial Careers"
     ],
-    "reqId": "JREQ183267",
-    "jobId": "JREQ183267",
-    "city": "London",
-    "latitude": "51.5056439",
+    "reqId": "JREQ183025",
+    "jobId": "JREQ183025",
+    "city": "Pyrmont",
+    "latitude": "-33.8664432",
     "locale": "en_US",
     "multi_location": [
-      "London, United Kingdom"
+      "Pyrmont, New South Wales, Australia",
+      "Melbourne, Victoria, Australia"
     ],
-    "title": "Commentary Producer, Reuters Commentary",
-    "jobSeqNo": "THTTRUUSJREQ183267EXTERNALENUS",
-    "postedDate": "2024-10-10T00:00:00.000+0000",
-    "dateCreated": "2024-10-10T16:39:20.231+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "title": "Senior Lawyer Writer, Technology and Intellectual Property",
+    "jobSeqNo": "THTTRUUSJREQ183025EXTERNALENUS",
+    "postedDate": "2024-10-11T00:00:00.000+0000",
+    "dateCreated": "2024-10-11T08:38:55.713+0000",
+    "cityStateCountry": "Pyrmont, New South Wales, Australia",
+    "address": "19 Harris Street, Pyrmont NSW 2009, Australia",
     "jobVisibility": [
       "external"
     ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Commentary-Producer--Reuters-Commentary_JREQ183267/apply",
-    "location": "London, United Kingdom",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/AUS-Pyrmont-19-Harris-St/Senior-Lawyer-Writer--Technology-and-Intellectual-Property_JREQ183025-1/apply",
+    "location": "Pyrmont, New South Wales, Australia",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "The Reuters Commentary team is looking for a commentary producer with excellent project management skills, strong digital acumen, a writing background, and a passion for financial markets. Provide edi...",
-      "descriptionTeaser_first200": "Commentary Producer - Reuters Commentary. We envisage the successful candidate being based in London, with hybrid working available. Highly organised? Want to use your project management and entre...",
-      "descriptionTeaser_keyword": "Commentary Producer - Reuters Commentary. We envisage the successful candidate being based in London, with hybrid working available. Highly organised? Want to use your project management and entrepren...",
+      "descriptionTeaser": "Do you have 5 years\u2019+ PQE experience working as a Technology Lawyer within a top or mid-tier law firm or in an in-house team? Keep up to date with technology law topics and monitor legal, practice and...",
+      "descriptionTeaser_first200": "Senior Lawyer Writer, Technology and Intellectual Property, Practical Law Australia . Do you have 5 years\u2019+ PQE experience working as a Technology Lawyer within a top or mid-tier law firm or in an...",
+      "descriptionTeaser_keyword": "Senior Lawyer Writer, Technology and Intellectual Property, Practical Law Australia. Do you have 5 years\u2019+ PQE experience working as a Technology Lawyer within a top or mid-tier law firm or in an in-h...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
@@ -2372,10 +2212,108 @@
     "multi_location_array": [
       {
         "latlong": {
-          "lon": -0.0185088,
-          "lat": 51.5056439
+          "lon": 151.1915144,
+          "lat": -33.8664432
         },
-        "location": "London, United Kingdom"
+        "location": "Pyrmont, New South Wales, Australia"
+      },
+      {
+        "latlong": {
+          "lon": 144.9633347,
+          "lat": -37.8169726
+        },
+        "location": "Melbourne, Victoria, Australia"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "New York, New York",
+    "country": "United States of America",
+    "ml_skills": [
+      "payroll management",
+      "payroll administration",
+      "certified payroll professional",
+      "editing",
+      "agile",
+      "checkpoint",
+      "content delivery"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Contribute to the development of enhanced digital experiences for our customers, leveraging deep payroll domain expertise and user experience insights. Demonstrated writing and editing skills, with th...",
+    "state": "New York",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-73.9866995",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ183340",
+    "jobId": "JREQ183340",
+    "city": "New York",
+    "latitude": "40.7566955",
+    "locale": "en_US",
+    "multi_location": [
+      "New York, New York, United States of America",
+      "Ann Arbor, Michigan, United States of America",
+      "Frisco, Texas, United States of America",
+      "Eagan, Minnesota, United States of America"
+    ],
+    "title": "Payroll Editor",
+    "jobSeqNo": "THTTRUUSJREQ183340EXTERNALENUS",
+    "postedDate": "2024-10-11T00:00:00.000+0000",
+    "dateCreated": "2024-10-11T16:38:46.507+0000",
+    "cityStateCountry": "New York, New York, United States of America",
+    "address": "3 Times Square, New York, NY 10036, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-New-York-3-Times-Square/Payroll-Editor_JREQ183340/apply",
+    "location": "New York, New York, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Contribute to the development of enhanced digital experiences for our customers, leveraging deep payroll domain expertise and user experience insights. Demonstrated writing and editing skills, with th...",
+      "descriptionTeaser_first200": "Payroll Editor. Role Summary. We are seeking a passionate payroll professional who thrives on the complexity and nuance of payroll administration. The ideal candidate is a lifelong learner who enj...",
+      "descriptionTeaser_keyword": "Payroll Editor. Role Summary. We are seeking a passionate payroll professional who thrives on the complexity and nuance of payroll administration. The ideal candidate is a lifelong learner who enjoys...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -73.9866995,
+          "lat": 40.7566955
+        },
+        "location": "New York, New York, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -83.7267835,
+          "lat": 42.1957259
+        },
+        "location": "Ann Arbor, Michigan, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -96.833545,
+          "lat": 33.1073049
+        },
+        "location": "Frisco, Texas, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -93.10808019999999,
+          "lat": 44.8527611
+        },
+        "location": "Eagan, Minnesota, United States of America"
       }
     ],
     "isMultiCategory": true,
@@ -2454,6 +2392,74 @@
     "badge": ""
   },
   {
+    "cityState": "London",
+    "country": "United Kingdom",
+    "ml_skills": [
+      "editing",
+      "graphics",
+      "newsletters",
+      "multimedia",
+      "data analysis",
+      "competitive analysis",
+      "project management",
+      "data visualization"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "The Reuters Commentary team is looking for a commentary producer with excellent project management skills, strong digital acumen, a writing background, and a passion for financial markets. Provide edi...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.0185088",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ183267",
+    "jobId": "JREQ183267",
+    "city": "London",
+    "latitude": "51.5056439",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom"
+    ],
+    "title": "Commentary Producer, Reuters Commentary",
+    "jobSeqNo": "THTTRUUSJREQ183267EXTERNALENUS",
+    "postedDate": "2024-10-10T00:00:00.000+0000",
+    "dateCreated": "2024-10-10T16:39:20.231+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Commentary-Producer--Reuters-Commentary_JREQ183267/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "The Reuters Commentary team is looking for a commentary producer with excellent project management skills, strong digital acumen, a writing background, and a passion for financial markets. Provide edi...",
+      "descriptionTeaser_first200": "Commentary Producer - Reuters Commentary. We envisage the successful candidate being based in London, with hybrid working available. Highly organised? Want to use your project management and entre...",
+      "descriptionTeaser_keyword": "Commentary Producer - Reuters Commentary. We envisage the successful candidate being based in London, with hybrid working available. Highly organised? Want to use your project management and entrepren...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.0185088,
+          "lat": 51.5056439
+        },
+        "location": "London, United Kingdom"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Pyrmont, New South Wales",
     "country": "Australia",
     "ml_skills": [
@@ -2514,52 +2520,6 @@
         "location": "Pyrmont, New South Wales, Australia"
       }
     ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "country": "",
-    "ml_skills": [
-      "litigation",
-      "dispute resolution",
-      "commercial litigation"
-    ],
-    "remote": "Remote",
-    "type": "Full time",
-    "descriptionTeaser": "Keep up-to-date with developments in general commercial litigation law and monitor legal, practice and market developments relevant to lawyers in both private practice and in-house environments. Admit...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ182723",
-    "jobId": "JREQ182723",
-    "city": "",
-    "locale": "en_US",
-    "title": "Senior Lawyer Writer, Dispute Resolution, Practical Law",
-    "jobSeqNo": "THTTRUUSJREQ182723EXTERNALENUS",
-    "postedDate": "2024-10-09T00:00:00.000+0000",
-    "dateCreated": "2024-10-09T00:41:14.176+0000",
-    "address": ",",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Senior-Lawyer-Writer--Dispute-Resolution--Practical-Law_JREQ182723/apply",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Keep up-to-date with developments in general commercial litigation law and monitor legal, practice and market developments relevant to lawyers in both private practice and in-house environments. Admit...",
-      "descriptionTeaser_first200": "Do you have 5 years\u2019+ PQE experience working as a commercial litigator at a top or mid-tier law firm, or in an in-house corporate or government department? Have you practised in Victoria, Western...",
-      "descriptionTeaser_keyword": "Do you have 5 years\u2019+ PQE experience working as a commercial litigator at a top or mid-tier law firm, or in an in-house corporate or government department? Have you practised in Victoria, Western Aust...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": false,
     "isMultiCategory": true,
     "multi_category_array": [
       {
@@ -2687,6 +2647,52 @@
         "location": "Pyrmont, New South Wales, Australia"
       }
     ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "country": "",
+    "ml_skills": [
+      "litigation",
+      "dispute resolution",
+      "commercial litigation"
+    ],
+    "remote": "Remote",
+    "type": "Full time",
+    "descriptionTeaser": "Keep up-to-date with developments in general commercial litigation law and monitor legal, practice and market developments relevant to lawyers in both private practice and in-house environments. Admit...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ182723",
+    "jobId": "JREQ182723",
+    "city": "",
+    "locale": "en_US",
+    "title": "Senior Lawyer Writer, Dispute Resolution, Practical Law",
+    "jobSeqNo": "THTTRUUSJREQ182723EXTERNALENUS",
+    "postedDate": "2024-10-09T00:00:00.000+0000",
+    "dateCreated": "2024-10-09T00:41:14.176+0000",
+    "address": ",",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Senior-Lawyer-Writer--Dispute-Resolution--Practical-Law_JREQ182723/apply",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Keep up-to-date with developments in general commercial litigation law and monitor legal, practice and market developments relevant to lawyers in both private practice and in-house environments. Admit...",
+      "descriptionTeaser_first200": "Do you have 5 years\u2019+ PQE experience working as a commercial litigator at a top or mid-tier law firm, or in an in-house corporate or government department? Have you practised in Victoria, Western...",
+      "descriptionTeaser_keyword": "Do you have 5 years\u2019+ PQE experience working as a commercial litigator at a top or mid-tier law firm, or in an in-house corporate or government department? Have you practised in Victoria, Western Aust...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": false,
     "isMultiCategory": true,
     "multi_category_array": [
       {
@@ -3391,8 +3397,8 @@
     "multi_category": [
       "News & Editorial Careers"
     ],
-    "reqId": "JREQ183070",
-    "jobId": "JREQ183070",
+    "reqId": "JREQ183071",
+    "jobId": "JREQ183071",
     "city": "Singapore",
     "latitude": "1.2938815",
     "locale": "en_US",
@@ -3400,21 +3406,21 @@
       "Singapore, Singapore"
     ],
     "title": "Sr. Specialist Legal Editor, Practical Law (Asia)",
-    "jobSeqNo": "THTTRUUSJREQ183070EXTERNALENUS",
+    "jobSeqNo": "THTTRUUSJREQ183071EXTERNALENUS",
     "postedDate": "2024-10-02T00:00:00.000+0000",
-    "dateCreated": "2024-10-02T08:42:39.569+0000",
+    "dateCreated": "2024-10-02T12:38:17.264+0000",
     "cityStateCountry": "Singapore, Singapore",
     "address": "ALICE@Mediapolis, 29 Media Circle,  #09-05, Singapore 138565, Singapore",
     "jobVisibility": [
       "external"
     ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/SGP-Singapore-ALICEMediapolis/Senior-Specialist-Legal-Editor--Practical-Law-Asia_JREQ183070/apply",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/SGP-Singapore-ALICEMediapolis/Senior-Specialist-Legal-Editor--PL-Asia---Commercial-Law_JREQ183071/apply",
     "location": "Singapore, Singapore",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
       "descriptionTeaser": "As a Senior Specialist Legal Editor, you will use your technical expertise and substantial experience as a practising lawyer to write and edit insightful and customer-focused content for online public...",
-      "descriptionTeaser_first200": "Senior Specialist Legal Editor, Practical Law (Asia), Employment. As part of our continued development of Practical Law and Asian market growth, we are planning to expand our Asian content. We are...",
-      "descriptionTeaser_keyword": "Senior Specialist Legal Editor, Practical Law (Asia), Employment. As part of our continued development of Practical Law and Asian market growth, we are planning to expand our Asian content. We are the...",
+      "descriptionTeaser_first200": "Senior Specialist Legal Editor, Practical Law (Asia), Commercial. As part of our continued development of Practical Law and Asian market growth, we are planning to expand our Asian content. We are...",
+      "descriptionTeaser_keyword": "Senior Specialist Legal Editor, Practical Law (Asia), Commercial. As part of our continued development of Practical Law and Asian market growth, we are planning to expand our Asian content. We are the...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
@@ -3456,8 +3462,8 @@
     "multi_category": [
       "News & Editorial Careers"
     ],
-    "reqId": "JREQ183071",
-    "jobId": "JREQ183071",
+    "reqId": "JREQ183070",
+    "jobId": "JREQ183070",
     "city": "Singapore",
     "latitude": "1.2938815",
     "locale": "en_US",
@@ -3465,21 +3471,21 @@
       "Singapore, Singapore"
     ],
     "title": "Sr. Specialist Legal Editor, Practical Law (Asia)",
-    "jobSeqNo": "THTTRUUSJREQ183071EXTERNALENUS",
+    "jobSeqNo": "THTTRUUSJREQ183070EXTERNALENUS",
     "postedDate": "2024-10-02T00:00:00.000+0000",
-    "dateCreated": "2024-10-02T12:38:17.264+0000",
+    "dateCreated": "2024-10-02T08:42:39.569+0000",
     "cityStateCountry": "Singapore, Singapore",
     "address": "ALICE@Mediapolis, 29 Media Circle,  #09-05, Singapore 138565, Singapore",
     "jobVisibility": [
       "external"
     ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/SGP-Singapore-ALICEMediapolis/Senior-Specialist-Legal-Editor--PL-Asia---Commercial-Law_JREQ183071/apply",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/SGP-Singapore-ALICEMediapolis/Senior-Specialist-Legal-Editor--Practical-Law-Asia_JREQ183070/apply",
     "location": "Singapore, Singapore",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
       "descriptionTeaser": "As a Senior Specialist Legal Editor, you will use your technical expertise and substantial experience as a practising lawyer to write and edit insightful and customer-focused content for online public...",
-      "descriptionTeaser_first200": "Senior Specialist Legal Editor, Practical Law (Asia), Commercial. As part of our continued development of Practical Law and Asian market growth, we are planning to expand our Asian content. We are...",
-      "descriptionTeaser_keyword": "Senior Specialist Legal Editor, Practical Law (Asia), Commercial. As part of our continued development of Practical Law and Asian market growth, we are planning to expand our Asian content. We are the...",
+      "descriptionTeaser_first200": "Senior Specialist Legal Editor, Practical Law (Asia), Employment. As part of our continued development of Practical Law and Asian market growth, we are planning to expand our Asian content. We are...",
+      "descriptionTeaser_keyword": "Senior Specialist Legal Editor, Practical Law (Asia), Employment. As part of our continued development of Practical Law and Asian market growth, we are planning to expand our Asian content. We are the...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
@@ -5192,72 +5198,6 @@
     "cityState": "London",
     "country": "United Kingdom",
     "ml_skills": [
-      "editing",
-      "grading",
-      "document retrieval",
-      "microsoft office",
-      "project management",
-      "ai development"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "The Editor, Central Editorial (UK) will perform maintenance reviews of content for online publication across UK practice areas and support Practical Law growth projects. In this opportunity as Editor,...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-0.0185088",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ182126",
-    "jobId": "JREQ182126",
-    "city": "London",
-    "latitude": "51.5056439",
-    "locale": "en_US",
-    "multi_location": [
-      "London, United Kingdom"
-    ],
-    "title": "Editor, Central Editorial (UK)",
-    "jobSeqNo": "THTTRUUSJREQ182126EXTERNALENUS",
-    "postedDate": "2024-09-04T00:00:00.000+0000",
-    "dateCreated": "2024-09-04T16:39:02.831+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Editor--Central-Editorial--UK-_JREQ182126/apply",
-    "location": "London, United Kingdom",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "The Editor, Central Editorial (UK) will perform maintenance reviews of content for online publication across UK practice areas and support Practical Law growth projects. In this opportunity as Editor,...",
-      "descriptionTeaser_first200": "The Editor, Central Editorial (UK) will perform maintenance reviews of content for online publication across UK practice areas and support Practical Law growth projects. The candidate will use a v...",
-      "descriptionTeaser_keyword": "The Editor, Central Editorial (UK) will perform maintenance reviews of content for online publication across UK practice areas and support Practical Law growth projects. The candidate will use a varie...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -0.0185088,
-          "lat": 51.5056439
-        },
-        "location": "London, United Kingdom"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "London",
-    "country": "United Kingdom",
-    "ml_skills": [
       "commercial law",
       "justice",
       "commerce",
@@ -5717,71 +5657,6 @@
     "badge": ""
   },
   {
-    "cityState": "Toronto, Ontario",
-    "country": "Canada",
-    "ml_skills": [
-      "editing",
-      "breaking news",
-      "press releases",
-      "multimedia",
-      "beat reporting"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "The ideal candidates will have sound news judgment, a track record of producing sharp reporting on deadline and an appetite for covering stories across politics, policy and national affairs in the Uni...",
-    "state": "Ontario",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-79.3884094",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ180757",
-    "jobId": "JREQ180757",
-    "city": "Toronto",
-    "latitude": "43.6480117",
-    "locale": "en_US",
-    "multi_location": [
-      "Toronto, Ontario, Canada"
-    ],
-    "title": "Breaking News Correspondent",
-    "jobSeqNo": "THTTRUUSJREQ180757EXTERNALENUS",
-    "postedDate": "2024-07-22T00:00:00.000+0000",
-    "dateCreated": "2024-07-22T16:38:23.103+0000",
-    "cityStateCountry": "Toronto, Ontario, Canada",
-    "address": "19 Duncan Street, Toronto, ON M5H 3H1, Canada",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CAN-Toronto-19-Duncan-Street/Breaking-News-Correspondent--Level-1-Journalist-_JREQ180757/apply",
-    "location": "Toronto, Ontario, Canada",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "The ideal candidates will have sound news judgment, a track record of producing sharp reporting on deadline and an appetite for covering stories across politics, policy and national affairs in the Uni...",
-      "descriptionTeaser_first200": "Reuters is seeking two Breaking News Correspondents to join its U.S.-Canada Breaking News Team covering some of the biggest political and general news stories, including the U.S. presidential election...",
-      "descriptionTeaser_keyword": "Reuters is seeking two Breaking News Correspondents to join its U. S. -Canada Breaking News Team covering some of the biggest political and general news stories, including the U. S. presidential elect...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -79.3884094,
-          "lat": 43.6480117
-        },
-        "location": "Toronto, Ontario, Canada"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "London",
     "country": "United Kingdom",
     "ml_skills": [
@@ -5895,6 +5770,71 @@
           "lat": -33.8664432
         },
         "location": "Pyrmont, New South Wales, Australia"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Toronto, Ontario",
+    "country": "Canada",
+    "ml_skills": [
+      "editing",
+      "breaking news",
+      "press releases",
+      "multimedia",
+      "beat reporting"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "The ideal candidates will have sound news judgment, a track record of producing sharp reporting on deadline and an appetite for covering stories across politics, policy and national affairs in the Uni...",
+    "state": "Ontario",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-79.3884094",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ180757",
+    "jobId": "JREQ180757",
+    "city": "Toronto",
+    "latitude": "43.6480117",
+    "locale": "en_US",
+    "multi_location": [
+      "Toronto, Ontario, Canada"
+    ],
+    "title": "Breaking News Correspondent",
+    "jobSeqNo": "THTTRUUSJREQ180757EXTERNALENUS",
+    "postedDate": "2024-07-22T00:00:00.000+0000",
+    "dateCreated": "2024-07-22T16:38:23.103+0000",
+    "cityStateCountry": "Toronto, Ontario, Canada",
+    "address": "19 Duncan Street, Toronto, ON M5H 3H1, Canada",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CAN-Toronto-19-Duncan-Street/Breaking-News-Correspondent--Level-1-Journalist-_JREQ180757/apply",
+    "location": "Toronto, Ontario, Canada",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "The ideal candidates will have sound news judgment, a track record of producing sharp reporting on deadline and an appetite for covering stories across politics, policy and national affairs in the Uni...",
+      "descriptionTeaser_first200": "Reuters is seeking two Breaking News Correspondents to join its U.S.-Canada Breaking News Team covering some of the biggest political and general news stories, including the U.S. presidential elec...",
+      "descriptionTeaser_keyword": "Reuters is seeking two Breaking News Correspondents to join its U. S. -Canada Breaking News Team covering some of the biggest political and general news stories, including the U. S. presidential elect...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -79.3884094,
+          "lat": 43.6480117
+        },
+        "location": "Toronto, Ontario, Canada"
       }
     ],
     "isMultiCategory": true,
