@@ -1,5 +1,68 @@
 [
   {
+    "cityState": "Beijing, Beijing",
+    "country": "China",
+    "ml_skills": [
+      "chinese",
+      "visual storytelling",
+      "multimedia"
+    ],
+    "remote": "On-Site",
+    "type": "Full time",
+    "descriptionTeaser": "She/he will also be a team player who will work effectively across the Reuters team in Greater China and globally, delivering coverage that connects the dots to deliver a must-read China file....",
+    "state": "Beijing",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "116.40108",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ180376",
+    "jobId": "JREQ180376",
+    "city": "Beijing",
+    "latitude": "39.9515199",
+    "locale": "en_US",
+    "multi_location": [
+      "Beijing, Beijing, China"
+    ],
+    "title": "China Politics and Policy Correspondent, Reuters",
+    "jobSeqNo": "THTTRUUSJREQ180376EXTERNALENUS",
+    "postedDate": "2024-10-30T00:00:00.000+0000",
+    "dateCreated": "2024-06-28T08:41:25.111+0000",
+    "cityStateCountry": "Beijing, Beijing, China",
+    "address": "Units 5-12, 18F / 20F, Office Tower E1 of Oriental Plaza, No.1, East Chang An Avenue, Dong Cheng District, Beijing, 100738 Beijing, China",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CHN-Beijing-Oriental-Plaza/China-Politics-and-Policy-Correspondent--Reuters_JREQ180376/apply",
+    "location": "Beijing, Beijing, China",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "She/he will also be a team player who will work effectively across the Reuters team in Greater China and globally, delivering coverage that connects the dots to deliver a must-read China file....",
+      "descriptionTeaser_first200": "China Politics and Policy Correspondent . Reuters is looking for a dynamic and experienced China journalist with great ideas and outstanding reporting and writing skills to join Reuters coverage o...",
+      "descriptionTeaser_keyword": "China Politics and Policy Correspondent. Reuters is looking for a dynamic and experienced China journalist with great ideas and outstanding reporting and writing skills to join Reuters coverage of Chi...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 116.40108,
+          "lat": 39.9515199
+        },
+        "location": "Beijing, Beijing, China"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "New York, New York",
     "country": "United States of America",
     "ml_skills": [
