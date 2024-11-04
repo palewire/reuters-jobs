@@ -791,78 +791,6 @@
     "badge": ""
   },
   {
-    "cityState": "Pyrmont, New South Wales",
-    "country": "Australia",
-    "ml_skills": [
-      "commercial law",
-      "justice",
-      "commerce",
-      "advertising"
-    ],
-    "remote": "Remote",
-    "type": "Full time",
-    "descriptionTeaser": "Keep up-to-date with commercial law topics and monitor legal, practice and market developments relevant to lawyers in both in house and private practice environments. Assist in the planning, developme...",
-    "state": "New South Wales",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "151.1915144",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ181773",
-    "jobId": "JREQ181773",
-    "city": "Pyrmont",
-    "latitude": "-33.8664432",
-    "locale": "en_US",
-    "multi_location": [
-      "Pyrmont, New South Wales, Australia",
-      "Melbourne, Victoria, Australia"
-    ],
-    "title": "Senior Lawyer Writer, Commercial, Practical Law",
-    "jobSeqNo": "THTTRUUSJREQ181773EXTERNALENUS",
-    "postedDate": "2024-10-29T00:00:00.000+0000",
-    "dateCreated": "2024-09-09T04:38:14.133+0000",
-    "cityStateCountry": "Pyrmont, New South Wales, Australia",
-    "address": "19 Harris Street, Pyrmont NSW 2009, Australia",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/AUS-Pyrmont-19-Harris-St/Senior-Lawyer-Writer--Commercial--Practical-Law_JREQ181773/apply",
-    "location": "Pyrmont, New South Wales, Australia",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Keep up-to-date with commercial law topics and monitor legal, practice and market developments relevant to lawyers in both in house and private practice environments. Assist in the planning, developme...",
-      "descriptionTeaser_first200": "Do you have 5 years\u2019+ PQE experience working as a Commercial Lawyer within an in-house team and/or top or mid-tier law firm? Have you got experience advising across a wide range of commercial lega...",
-      "descriptionTeaser_keyword": "Do you have 5 years\u2019+ PQE experience working as a Commercial Lawyer within an in-house team and/or top or mid-tier law firm? Have you got experience advising across a wide range of commercial legal to...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 151.1915144,
-          "lat": -33.8664432
-        },
-        "location": "Pyrmont, New South Wales, Australia"
-      },
-      {
-        "latlong": {
-          "lon": 144.9633347,
-          "lat": -37.8169726
-        },
-        "location": "Melbourne, Victoria, Australia"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Eagan, Minnesota",
     "country": "United States of America",
     "ml_skills": [
@@ -1120,6 +1048,78 @@
           "lat": 40.7566955
         },
         "location": "New York, New York, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Pyrmont, New South Wales",
+    "country": "Australia",
+    "ml_skills": [
+      "commercial law",
+      "justice",
+      "commerce",
+      "advertising"
+    ],
+    "remote": "Remote",
+    "type": "Full time",
+    "descriptionTeaser": "Keep up-to-date with commercial law topics and monitor legal, practice and market developments relevant to lawyers in both in house and private practice environments. Assist in the planning, developme...",
+    "state": "New South Wales",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "151.1915144",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ181773",
+    "jobId": "JREQ181773",
+    "city": "Pyrmont",
+    "latitude": "-33.8664432",
+    "locale": "en_US",
+    "multi_location": [
+      "Pyrmont, New South Wales, Australia",
+      "Melbourne, Victoria, Australia"
+    ],
+    "title": "Senior Lawyer Writer, Commercial, Practical Law",
+    "jobSeqNo": "THTTRUUSJREQ181773EXTERNALENUS",
+    "postedDate": "2024-10-29T00:00:00.000+0000",
+    "dateCreated": "2024-09-09T04:38:14.133+0000",
+    "cityStateCountry": "Pyrmont, New South Wales, Australia",
+    "address": "19 Harris Street, Pyrmont NSW 2009, Australia",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/AUS-Pyrmont-19-Harris-St/Senior-Lawyer-Writer--Commercial--Practical-Law_JREQ181773/apply",
+    "location": "Pyrmont, New South Wales, Australia",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Keep up-to-date with commercial law topics and monitor legal, practice and market developments relevant to lawyers in both in house and private practice environments. Assist in the planning, developme...",
+      "descriptionTeaser_first200": "Do you have 5 years\u2019+ PQE experience working as a Commercial Lawyer within an in-house team and/or top or mid-tier law firm? Have you got experience advising across a wide range of commercial lega...",
+      "descriptionTeaser_keyword": "Do you have 5 years\u2019+ PQE experience working as a Commercial Lawyer within an in-house team and/or top or mid-tier law firm? Have you got experience advising across a wide range of commercial legal to...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 151.1915144,
+          "lat": -33.8664432
+        },
+        "location": "Pyrmont, New South Wales, Australia"
+      },
+      {
+        "latlong": {
+          "lon": 144.9633347,
+          "lat": -37.8169726
+        },
+        "location": "Melbourne, Victoria, Australia"
       }
     ],
     "isMultiCategory": true,
@@ -3599,71 +3599,6 @@
           "lat": 33.1073049
         },
         "location": "Frisco, Texas, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Dubai",
-    "country": "United Arab Emirates",
-    "ml_skills": [
-      "arabic",
-      "breaking news",
-      "multimedia",
-      "hostile environments",
-      "lseg"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "You will ideally speak Arabic and have the diplomatic skills to represent Reuters in dealing with governments and other authorities in the region. Work with teams to generate smart and agenda-setting...",
-    "state": "Dubai",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "55.1575893",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ181001",
-    "jobId": "JREQ181001",
-    "city": "",
-    "latitude": "25.0961362",
-    "locale": "en_US",
-    "multi_location": [
-      "Dubai, United Arab Emirates"
-    ],
-    "title": "Editor, Middle East and North Africa \u2013 Reuters",
-    "jobSeqNo": "THTTRUUSJREQ181001EXTERNALENUS",
-    "postedDate": "2024-10-03T00:00:00.000+0000",
-    "dateCreated": "2024-10-03T20:41:55.680+0000",
-    "cityStateCountry": "Dubai, United Arab Emirates",
-    "address": "Reuters Ltd, Office 501, Building 1, 5th Floor Dubai Media City, Dubai, United Arab Emirates",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/ARE-Dubai-Dubai-Media-City/Editor--Middle-East-and-North-Africa---Reuters_JREQ181001/apply",
-    "location": "Dubai, United Arab Emirates",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "You will ideally speak Arabic and have the diplomatic skills to represent Reuters in dealing with governments and other authorities in the region. Work with teams to generate smart and agenda-setting...",
-      "descriptionTeaser_first200": "Reuters is looking for an exceptional journalist and newsroom leader to run the Middle East and North Africa region. It is one of the most important and high-profile roles in our global news organ...",
-      "descriptionTeaser_keyword": "Reuters is looking for an exceptional journalist and newsroom leader to run the Middle East and North Africa region. It is one of the most important and high-profile roles in our global news organizat...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 55.1575893,
-          "lat": 25.0961362
-        },
-        "location": "Dubai, United Arab Emirates"
       }
     ],
     "isMultiCategory": true,
