@@ -327,6 +327,67 @@
     "badge": ""
   },
   {
+    "cityState": "New York, New York",
+    "country": "United States of America",
+    "ml_skills": [
+      "multimedia"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "The successful applicant must be open to learning and have the ability to work collaboratively in a team. Reuters is the world\u2019s largest multimedia news provider. Join us and help shape the industries...",
+    "state": "New York",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-73.9866995",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ180932",
+    "jobId": "JREQ180932",
+    "city": "New York",
+    "latitude": "40.7566955",
+    "locale": "en_US",
+    "multi_location": [
+      "New York, New York, United States of America"
+    ],
+    "title": "Reuters Photojournalism Fellowship (Temp Guild)",
+    "jobSeqNo": "THTTRUUSJREQ180932EXTERNALENUS",
+    "postedDate": "2024-11-06T00:00:00.000+0000",
+    "dateCreated": "2024-08-19T16:38:12.427+0000",
+    "cityStateCountry": "New York, New York, United States of America",
+    "address": "3 Times Square, New York, NY 10036, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-New-York-3-Times-Square/Reuters-NABJ-Fellow_JREQ180932/apply",
+    "location": "New York, New York, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "The successful applicant must be open to learning and have the ability to work collaboratively in a team. Reuters is the world\u2019s largest multimedia news provider. Join us and help shape the industries...",
+      "descriptionTeaser_first200": "Reuters, the news and media division of Thomson Reuters, is the world\u2019s largest international multimedia news provider reaching more than one billion people every day. Reuters provides trusted bus...",
+      "descriptionTeaser_keyword": "Reuters, the news and media division of Thomson Reuters, is the world\u2019s largest international multimedia news provider reaching more than one billion people every day. Reuters provides trusted busines...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -73.9866995,
+          "lat": 40.7566955
+        },
+        "location": "New York, New York, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "London",
     "country": "United Kingdom",
     "ml_skills": [
