@@ -1,5 +1,273 @@
 [
   {
+    "cityState": "Pyrmont, New South Wales",
+    "country": "Australia",
+    "ml_skills": [
+      "risk management",
+      "data security",
+      "direct marketing",
+      "product support",
+      "information security",
+      "cybersecurity",
+      "data protection",
+      "cybersecurity law",
+      "data sharing",
+      "commercial law",
+      "surveillance",
+      "data retention",
+      "checklists",
+      "data privacy"
+    ],
+    "remote": "Remote",
+    "type": "Full time",
+    "descriptionTeaser": "Keep up to date with data protection, privacy, information security and cybersecurity topics and monitor legal, practice and market developments relevant to lawyers in both in-house and private practi...",
+    "state": "New South Wales",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "151.1915144",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ183023",
+    "jobId": "JREQ183023",
+    "city": "Pyrmont",
+    "latitude": "-33.8664432",
+    "locale": "en_US",
+    "multi_location": [
+      "Pyrmont, New South Wales, Australia",
+      "Melbourne, Victoria, Australia"
+    ],
+    "title": "Senior Lawyer Writer - Data, Privacy and Cybersecurity",
+    "jobSeqNo": "THTTRUUSJREQ183023EXTERNALENUS",
+    "postedDate": "2024-11-07T00:00:00.000+0000",
+    "dateCreated": "2024-10-11T08:38:55.714+0000",
+    "cityStateCountry": "Pyrmont, New South Wales, Australia",
+    "address": "19 Harris Street, Pyrmont NSW 2009, Australia",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/AUS-Pyrmont-19-Harris-St/Senior-Lawyer-Writer---Data--Privacy-and-Cybersecurity_JREQ183023/apply",
+    "location": "Pyrmont, New South Wales, Australia",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Keep up to date with data protection, privacy, information security and cybersecurity topics and monitor legal, practice and market developments relevant to lawyers in both in-house and private practi...",
+      "descriptionTeaser_first200": "Senior Lawyer Writer, Data Protection, Privacy and Cybersecurity, Practical Law Australia . Do you have 5 years\u2019+ PQE experience working as a Data Protection and Privacy Lawyer within a top or mid...",
+      "descriptionTeaser_keyword": "Senior Lawyer Writer, Data Protection, Privacy and Cybersecurity, Practical Law Australia. Do you have 5 years\u2019+ PQE experience working as a Data Protection and Privacy Lawyer within a top or mid-tier...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 151.1915144,
+          "lat": -33.8664432
+        },
+        "location": "Pyrmont, New South Wales, Australia"
+      },
+      {
+        "latlong": {
+          "lon": 144.9633347,
+          "lat": -37.8169726
+        },
+        "location": "Melbourne, Victoria, Australia"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "country": "",
+    "ml_skills": [
+      "dispute resolution",
+      "commercial litigation",
+      "checklists",
+      "litigation"
+    ],
+    "remote": "Remote",
+    "type": "Full time",
+    "descriptionTeaser": "Keep up-to-date with developments in general commercial litigation law and monitor legal, practice and market developments relevant to lawyers in both private practice and in-house environments. Admit...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ182723",
+    "jobId": "JREQ182723",
+    "city": "",
+    "locale": "en_US",
+    "title": "Senior Lawyer Writer, Dispute Resolution, Practical Law",
+    "jobSeqNo": "THTTRUUSJREQ182723EXTERNALENUS",
+    "postedDate": "2024-11-07T00:00:00.000+0000",
+    "dateCreated": "2024-10-09T00:41:14.176+0000",
+    "address": ",",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Senior-Lawyer-Writer--Dispute-Resolution--Practical-Law_JREQ182723/apply",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Keep up-to-date with developments in general commercial litigation law and monitor legal, practice and market developments relevant to lawyers in both private practice and in-house environments. Admit...",
+      "descriptionTeaser_first200": "Do you have 5 years\u2019+ PQE experience working as a commercial litigator at a top or mid-tier law firm, or in an in-house corporate or government department? Have you practised in Victoria, Western...",
+      "descriptionTeaser_keyword": "Do you have 5 years\u2019+ PQE experience working as a commercial litigator at a top or mid-tier law firm, or in an in-house corporate or government department? Have you practised in Victoria, Western Aust...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": false,
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Melbourne, Victoria",
+    "country": "Australia",
+    "ml_skills": [
+      "commercial leasing",
+      "property law",
+      "legal research",
+      "checklists"
+    ],
+    "remote": "Remote",
+    "type": "Full time",
+    "descriptionTeaser": "Has your experience predominantly related to commercial property law in Victoria and practice across several areas, including the sale of commercial and industrial property, off-the-plan developments,...",
+    "state": "Victoria",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "144.9633347",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ182909",
+    "jobId": "JREQ182909",
+    "city": "Melbourne",
+    "latitude": "-37.8169726",
+    "locale": "en_US",
+    "multi_location": [
+      "Melbourne, Victoria, Australia"
+    ],
+    "title": "Senior Lawyer Writer, Commercial Real Estate, Practical Law",
+    "jobSeqNo": "THTTRUUSJREQ182909EXTERNALENUS",
+    "postedDate": "2024-11-07T00:00:00.000+0000",
+    "dateCreated": "2024-10-02T08:42:39.568+0000",
+    "cityStateCountry": "Melbourne, Victoria, Australia",
+    "address": "333 Collins Street, Melbourne VIC 3000, Australia",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/AUS-Melbourne-333-Collins-St/Senior-Lawyer-Writer--Commercial-Real-Estate--Practical-Law_JREQ182909/apply",
+    "location": "Melbourne, Victoria, Australia",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Has your experience predominantly related to commercial property law in Victoria and practice across several areas, including the sale of commercial and industrial property, off-the-plan developments,...",
+      "descriptionTeaser_first200": "Senior Lawyer Writer, Commercial Real Estate, Practical Law Australia . Do you have 5 years\u2019+ PQE experience working as a Property Lawyer within a top or mid-tier law firm or experience working as...",
+      "descriptionTeaser_keyword": "Senior Lawyer Writer, Commercial Real Estate, Practical Law Australia. Do you have 5 years\u2019+ PQE experience working as a Property Lawyer within a top or mid-tier law firm or experience working as a sp...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 144.9633347,
+          "lat": -37.8169726
+        },
+        "location": "Melbourne, Victoria, Australia"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Pyrmont, New South Wales",
+    "country": "Australia",
+    "ml_skills": [
+      "cloud computing",
+      "checklists",
+      "data processing",
+      "intellectual property law",
+      "software sales",
+      "commercial law",
+      "software development"
+    ],
+    "remote": "Remote",
+    "type": "Full time",
+    "descriptionTeaser": "Do you have 5 years\u2019+ PQE experience working as a Technology Lawyer within a top or mid-tier law firm or in an in-house team? Keep up to date with technology law topics and monitor legal, practice and...",
+    "state": "New South Wales",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "151.1915144",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ183025",
+    "jobId": "JREQ183025",
+    "city": "Pyrmont",
+    "latitude": "-33.8664432",
+    "locale": "en_US",
+    "multi_location": [
+      "Pyrmont, New South Wales, Australia",
+      "Melbourne, Victoria, Australia"
+    ],
+    "title": "Senior Lawyer Writer, Technology and Intellectual Property",
+    "jobSeqNo": "THTTRUUSJREQ183025EXTERNALENUS",
+    "postedDate": "2024-11-07T00:00:00.000+0000",
+    "dateCreated": "2024-10-11T08:38:55.713+0000",
+    "cityStateCountry": "Pyrmont, New South Wales, Australia",
+    "address": "19 Harris Street, Pyrmont NSW 2009, Australia",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/AUS-Pyrmont-19-Harris-St/Senior-Lawyer-Writer--Technology-and-Intellectual-Property_JREQ183025-1/apply",
+    "location": "Pyrmont, New South Wales, Australia",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Do you have 5 years\u2019+ PQE experience working as a Technology Lawyer within a top or mid-tier law firm or in an in-house team? Keep up to date with technology law topics and monitor legal, practice and...",
+      "descriptionTeaser_first200": "Senior Lawyer Writer, Technology and Intellectual Property, Practical Law Australia . Do you have 5 years\u2019+ PQE experience working as a Technology Lawyer within a top or mid-tier law firm or in an...",
+      "descriptionTeaser_keyword": "Senior Lawyer Writer, Technology and Intellectual Property, Practical Law Australia. Do you have 5 years\u2019+ PQE experience working as a Technology Lawyer within a top or mid-tier law firm or in an in-h...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 151.1915144,
+          "lat": -33.8664432
+        },
+        "location": "Pyrmont, New South Wales, Australia"
+      },
+      {
+        "latlong": {
+          "lon": 144.9633347,
+          "lat": -37.8169726
+        },
+        "location": "Melbourne, Victoria, Australia"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Hyderabad, Telangana",
     "country": "India",
     "ml_skills": [
@@ -3185,160 +3453,6 @@
     "badge": ""
   },
   {
-    "cityState": "Pyrmont, New South Wales",
-    "country": "Australia",
-    "ml_skills": [
-      "data privacy",
-      "commercial law",
-      "cybersecurity law",
-      "data protection",
-      "pqe",
-      "cybersecurity",
-      "data security",
-      "risk management",
-      "information security",
-      "surveillance",
-      "data retention",
-      "data sharing"
-    ],
-    "remote": "Remote",
-    "type": "Full time",
-    "descriptionTeaser": "Keep up to date with data protection, privacy, information security and cybersecurity topics and monitor legal, practice and market developments relevant to lawyers in both in-house and private practi...",
-    "state": "New South Wales",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "151.1915144",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ183023",
-    "jobId": "JREQ183023",
-    "city": "Pyrmont",
-    "latitude": "-33.8664432",
-    "locale": "en_US",
-    "multi_location": [
-      "Pyrmont, New South Wales, Australia",
-      "Melbourne, Victoria, Australia"
-    ],
-    "title": "Senior Lawyer Writer - Data, Privacy and Cybersecurity",
-    "jobSeqNo": "THTTRUUSJREQ183023EXTERNALENUS",
-    "postedDate": "2024-10-11T00:00:00.000+0000",
-    "dateCreated": "2024-10-11T08:38:55.714+0000",
-    "cityStateCountry": "Pyrmont, New South Wales, Australia",
-    "address": "19 Harris Street, Pyrmont NSW 2009, Australia",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/AUS-Pyrmont-19-Harris-St/Senior-Lawyer-Writer---Data--Privacy-and-Cybersecurity_JREQ183023/apply",
-    "location": "Pyrmont, New South Wales, Australia",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Keep up to date with data protection, privacy, information security and cybersecurity topics and monitor legal, practice and market developments relevant to lawyers in both in-house and private practi...",
-      "descriptionTeaser_first200": "Senior Lawyer Writer, Data Protection, Privacy and Cybersecurity, Practical Law Australia . Do you have 5 years\u2019+ PQE experience working as a Data Protection and Privacy Lawyer within a top or mid...",
-      "descriptionTeaser_keyword": "Senior Lawyer Writer, Data Protection, Privacy and Cybersecurity, Practical Law Australia. Do you have 5 years\u2019+ PQE experience working as a Data Protection and Privacy Lawyer within a top or mid-tier...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 151.1915144,
-          "lat": -33.8664432
-        },
-        "location": "Pyrmont, New South Wales, Australia"
-      },
-      {
-        "latlong": {
-          "lon": 144.9633347,
-          "lat": -37.8169726
-        },
-        "location": "Melbourne, Victoria, Australia"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Pyrmont, New South Wales",
-    "country": "Australia",
-    "ml_skills": [
-      "intellectual property law",
-      "commercial law",
-      "data processing",
-      "software sales",
-      "software development",
-      "cloud computing"
-    ],
-    "remote": "Remote",
-    "type": "Full time",
-    "descriptionTeaser": "Do you have 5 years\u2019+ PQE experience working as a Technology Lawyer within a top or mid-tier law firm or in an in-house team? Keep up to date with technology law topics and monitor legal, practice and...",
-    "state": "New South Wales",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "151.1915144",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ183025",
-    "jobId": "JREQ183025",
-    "city": "Pyrmont",
-    "latitude": "-33.8664432",
-    "locale": "en_US",
-    "multi_location": [
-      "Pyrmont, New South Wales, Australia",
-      "Melbourne, Victoria, Australia"
-    ],
-    "title": "Senior Lawyer Writer, Technology and Intellectual Property",
-    "jobSeqNo": "THTTRUUSJREQ183025EXTERNALENUS",
-    "postedDate": "2024-10-11T00:00:00.000+0000",
-    "dateCreated": "2024-10-11T08:38:55.713+0000",
-    "cityStateCountry": "Pyrmont, New South Wales, Australia",
-    "address": "19 Harris Street, Pyrmont NSW 2009, Australia",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/AUS-Pyrmont-19-Harris-St/Senior-Lawyer-Writer--Technology-and-Intellectual-Property_JREQ183025-1/apply",
-    "location": "Pyrmont, New South Wales, Australia",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Do you have 5 years\u2019+ PQE experience working as a Technology Lawyer within a top or mid-tier law firm or in an in-house team? Keep up to date with technology law topics and monitor legal, practice and...",
-      "descriptionTeaser_first200": "Senior Lawyer Writer, Technology and Intellectual Property, Practical Law Australia . Do you have 5 years\u2019+ PQE experience working as a Technology Lawyer within a top or mid-tier law firm or in an...",
-      "descriptionTeaser_keyword": "Senior Lawyer Writer, Technology and Intellectual Property, Practical Law Australia. Do you have 5 years\u2019+ PQE experience working as a Technology Lawyer within a top or mid-tier law firm or in an in-h...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 151.1915144,
-          "lat": -33.8664432
-        },
-        "location": "Pyrmont, New South Wales, Australia"
-      },
-      {
-        "latlong": {
-          "lon": 144.9633347,
-          "lat": -37.8169726
-        },
-        "location": "Melbourne, Victoria, Australia"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Beijing, Beijing",
     "country": "China",
     "ml_skills": [
@@ -3534,116 +3648,6 @@
         "location": "Pyrmont, New South Wales, Australia"
       }
     ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Melbourne, Victoria",
-    "country": "Australia",
-    "ml_skills": [
-      "property law",
-      "commercial leasing",
-      "legal research",
-      "checklists"
-    ],
-    "remote": "Remote",
-    "type": "Full time",
-    "descriptionTeaser": "Has your experience predominantly related to commercial property law in Victoria and practice across several areas, including the sale of commercial and industrial property, off-the-plan developments,...",
-    "state": "Victoria",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "144.9633347",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ182909",
-    "jobId": "JREQ182909",
-    "city": "Melbourne",
-    "latitude": "-37.8169726",
-    "locale": "en_US",
-    "multi_location": [
-      "Melbourne, Victoria, Australia"
-    ],
-    "title": "Senior Lawyer Writer, Commercial Real Estate, Practical Law",
-    "jobSeqNo": "THTTRUUSJREQ182909EXTERNALENUS",
-    "postedDate": "2024-10-09T00:00:00.000+0000",
-    "dateCreated": "2024-10-02T08:42:39.568+0000",
-    "cityStateCountry": "Melbourne, Victoria, Australia",
-    "address": "333 Collins Street, Melbourne VIC 3000, Australia",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/AUS-Melbourne-333-Collins-St/Senior-Lawyer-Writer--Commercial-Real-Estate--Practical-Law_JREQ182909/apply",
-    "location": "Melbourne, Victoria, Australia",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Has your experience predominantly related to commercial property law in Victoria and practice across several areas, including the sale of commercial and industrial property, off-the-plan developments,...",
-      "descriptionTeaser_first200": "Senior Lawyer Writer, Commercial Real Estate, Practical Law Australia . Do you have 5 years\u2019+ PQE experience working as a Property Lawyer within a top or mid-tier law firm or experience working as...",
-      "descriptionTeaser_keyword": "Senior Lawyer Writer, Commercial Real Estate, Practical Law Australia. Do you have 5 years\u2019+ PQE experience working as a Property Lawyer within a top or mid-tier law firm or experience working as a sp...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 144.9633347,
-          "lat": -37.8169726
-        },
-        "location": "Melbourne, Victoria, Australia"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "country": "",
-    "ml_skills": [
-      "litigation",
-      "dispute resolution",
-      "commercial litigation"
-    ],
-    "remote": "Remote",
-    "type": "Full time",
-    "descriptionTeaser": "Keep up-to-date with developments in general commercial litigation law and monitor legal, practice and market developments relevant to lawyers in both private practice and in-house environments. Admit...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ182723",
-    "jobId": "JREQ182723",
-    "city": "",
-    "locale": "en_US",
-    "title": "Senior Lawyer Writer, Dispute Resolution, Practical Law",
-    "jobSeqNo": "THTTRUUSJREQ182723EXTERNALENUS",
-    "postedDate": "2024-10-09T00:00:00.000+0000",
-    "dateCreated": "2024-10-09T00:41:14.176+0000",
-    "address": ",",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Senior-Lawyer-Writer--Dispute-Resolution--Practical-Law_JREQ182723/apply",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Keep up-to-date with developments in general commercial litigation law and monitor legal, practice and market developments relevant to lawyers in both private practice and in-house environments. Admit...",
-      "descriptionTeaser_first200": "Do you have 5 years\u2019+ PQE experience working as a commercial litigator at a top or mid-tier law firm, or in an in-house corporate or government department? Have you practised in Victoria, Western...",
-      "descriptionTeaser_keyword": "Do you have 5 years\u2019+ PQE experience working as a commercial litigator at a top or mid-tier law firm, or in an in-house corporate or government department? Have you practised in Victoria, Western Aust...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": false,
     "isMultiCategory": true,
     "multi_category_array": [
       {
