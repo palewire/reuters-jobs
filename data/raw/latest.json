@@ -1,5 +1,67 @@
 [
   {
+    "cityState": "Mumbai, Maharashtra",
+    "country": "India",
+    "ml_skills": [
+      "designs",
+      "scripts"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Create, design, prepare and deliver legal and/or tax forms and information for use in various media platforms. Designs tax and/or legal forms that comply with specifications and established forms guid...",
+    "state": "Maharashtra",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "72.8814089",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ184533",
+    "jobId": "JREQ184533",
+    "city": "Mumbai",
+    "latitude": "19.1114368",
+    "locale": "en_US",
+    "multi_location": [
+      "Mumbai, Maharashtra, India"
+    ],
+    "title": "Process Associate",
+    "jobSeqNo": "THTTRUUSJREQ184533EXTERNALENUS",
+    "postedDate": "2024-11-11T00:00:00.000+0000",
+    "dateCreated": "2024-11-11T08:41:27.967+0000",
+    "cityStateCountry": "Mumbai, Maharashtra, India",
+    "address": "4th Flr, Dhantak Plaza, Makwana Road, Marol, Andheri East, Mumbai- 400059, Maharashtra, India",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Mumbai-Dhantak-Plaza/Process-Associate_JREQ184533/apply",
+    "location": "Mumbai, Maharashtra, India",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Create, design, prepare and deliver legal and/or tax forms and information for use in various media platforms. Designs tax and/or legal forms that comply with specifications and established forms guid...",
+      "descriptionTeaser_first200": "Create, design, prepare and deliver legal and/or tax forms and information for use in various media platforms. About the Role. Designs tax and/or legal forms that comply with specifications and est...",
+      "descriptionTeaser_keyword": "Create, design, prepare and deliver legal and/or tax forms and information for use in various media platforms. About the Role. Designs tax and/or legal forms that comply with specifications and establ...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 72.8814089,
+          "lat": 19.1114368
+        },
+        "location": "Mumbai, Maharashtra, India"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "London",
     "country": "United Kingdom",
     "ml_skills": [
@@ -1624,70 +1686,6 @@
     "badge": ""
   },
   {
-    "cityState": "Chicago, Illinois",
-    "country": "United States of America",
-    "ml_skills": [
-      "breaking news",
-      "publishing",
-      "multimedia",
-      "framing"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "It will be your job to drive winning coverage of all the big stories in the sector- and how they fit into the global agriculture story\u2013 both in breaking news and through investigative work. Drive a te...",
-    "state": "Illinois",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-87.63723",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ183425",
-    "jobId": "JREQ183425",
-    "city": "Chicago",
-    "latitude": "41.87891930000001",
-    "locale": "en_US",
-    "multi_location": [
-      "Chicago, Illinois, United States of America"
-    ],
-    "title": "Chicago Bureau Chief",
-    "jobSeqNo": "THTTRUUSJREQ183425EXTERNALENUS",
-    "postedDate": "2024-10-31T00:00:00.000+0000",
-    "dateCreated": "2024-10-16T17:05:47.977+0000",
-    "cityStateCountry": "Chicago, Illinois, United States of America",
-    "address": "200 South Wacker Drive, 31st Floor, Chicago, IL 60606, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Chicago-200-South-Wacker-Dr/Chicago-Bureau-Chief_JREQ183425/apply",
-    "location": "Chicago, Illinois, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "It will be your job to drive winning coverage of all the big stories in the sector- and how they fit into the global agriculture story\u2013 both in breaking news and through investigative work. Drive a te...",
-      "descriptionTeaser_first200": "Reuters seeks an experienced editorial leader in Chicago to drive U.S. agriculture and wider coverage of the Midwest. This is a fascinating time for the region as a fall in corn, soy and wheat pri...",
-      "descriptionTeaser_keyword": "Reuters seeks an experienced editorial leader in Chicago to drive U. S. agriculture and wider coverage of the Midwest. This is a fascinating time for the region as a fall in corn, soy and wheat prices...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -87.63723,
-          "lat": 41.87891930000001
-        },
-        "location": "Chicago, Illinois, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Gdansk",
     "country": "Poland",
     "ml_skills": [
@@ -2021,70 +2019,6 @@
           "lat": 38.9004793
         },
         "location": "Washington, District of Columbia, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Hyderabad, Telangana",
-    "country": "India",
-    "ml_skills": [
-      "commerce",
-      "justice",
-      "microsoft office",
-      "time management"
-    ],
-    "remote": "On-Site",
-    "type": "Full time",
-    "descriptionTeaser": "Create, code, and publish content assets and check that the published asset renders properly on the live site. Review the content in document templates to ensure that the content renders properly on t...",
-    "state": "Telangana",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "78.3847282",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ183378",
-    "jobId": "JREQ183378",
-    "city": "Hyderabad",
-    "latitude": "17.438325",
-    "locale": "en_US",
-    "multi_location": [
-      "Hyderabad, Telangana, India"
-    ],
-    "title": "Editorial Associate - (1-2 years exp)",
-    "jobSeqNo": "THTTRUUSJREQ183378EXTERNALENUS",
-    "postedDate": "2024-10-30T00:00:00.000+0000",
-    "dateCreated": "2024-10-30T16:41:53.521+0000",
-    "cityStateCountry": "Hyderabad, Telangana, India",
-    "address": "Floor 12, 13 & 14, Building 11, Raheja Mindspace, Madhapur, Hyderabad- 500081, Telangana, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Hyderabad-Raheja-Mindspace/Editorial-Associate----1-2-years-exp-_JREQ183378/apply",
-    "location": "Hyderabad, Telangana, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Create, code, and publish content assets and check that the published asset renders properly on the live site. Review the content in document templates to ensure that the content renders properly on t...",
-      "descriptionTeaser_first200": "Job Description Summary. We are seeking Editorial Associates (EAs) to support the Practical Law editorial teams with the creation, publication, delivery, and presentation of content for Practical...",
-      "descriptionTeaser_keyword": "Job Description Summary. We are seeking Editorial Associates (EAs) to support the Practical Law editorial teams with the creation, publication, delivery, and presentation of content for Practical Law...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 78.3847282,
-          "lat": 17.438325
-        },
-        "location": "Hyderabad, Telangana, India"
       }
     ],
     "isMultiCategory": true,
