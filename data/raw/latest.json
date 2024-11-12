@@ -63,6 +63,152 @@
     "badge": ""
   },
   {
+    "cityState": "Bengaluru, Karnataka",
+    "country": "India",
+    "ml_skills": [
+      "journalism",
+      "commerce",
+      "digital media",
+      "content strategy",
+      "content creation",
+      "online research",
+      "grammar",
+      "adaptable",
+      "content creation tools",
+      "production schedules",
+      "fulfillment",
+      "responsibilities",
+      "business systems",
+      "process improvements"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Proficiently works on various systems, software, databases, and applications to deliver quality products. Maintains the integrity and completeness of work product and product databases for writing/edi...",
+    "state": "Karnataka",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "77.7120655",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ184928",
+    "jobId": "JREQ184928",
+    "city": "Bengaluru",
+    "latitude": "12.9743998",
+    "locale": "en_US",
+    "multi_location": [
+      "Bengaluru, Karnataka, India"
+    ],
+    "title": "Associate Copy Editor",
+    "jobSeqNo": "THTTRUUSJREQ184928EXTERNALENUS",
+    "postedDate": "2024-11-12T00:00:00.000+0000",
+    "dateCreated": "2024-11-12T12:43:27.589+0000",
+    "cityStateCountry": "Bengaluru, Karnataka, India",
+    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/Associate-Copy-Editor_JREQ184928/apply",
+    "location": "Bengaluru, Karnataka, India",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Proficiently works on various systems, software, databases, and applications to deliver quality products. Maintains the integrity and completeness of work product and product databases for writing/edi...",
+      "descriptionTeaser_first200": "The primary responsibilities of an Associate Copy Editor are to edit/update/publish content that conforms to the best practices for the individual medium including blog posts, social promotion, onl...",
+      "descriptionTeaser_keyword": "The primary responsibilities of an Associate Copy Editor are to edit/update/publish content that conforms to the best practices for the individual medium including blog posts, social promotion, online...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 77.7120655,
+          "lat": 12.9743998
+        },
+        "location": "Bengaluru, Karnataka, India"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "London",
+    "country": "United Kingdom",
+    "ml_skills": [
+      "corporate social media",
+      "community engagement",
+      "social media management",
+      "crisis communications",
+      "ngo",
+      "social media management tools",
+      "social media advertising",
+      "narrative",
+      "sprout social",
+      "proofreading",
+      "canva",
+      "analyse"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Plan, develop and execute the social media component of integrated strategic communications campaigns for the Foundation\u2019s key initiatives, events and projects....",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.0185088",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ183265",
+    "jobId": "JREQ183265",
+    "city": "London",
+    "latitude": "51.5056439",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom"
+    ],
+    "title": "Social Media Lead, Communications - TR Foundation",
+    "jobSeqNo": "THTTRUUSJREQ183265EXTERNALENUS",
+    "postedDate": "2024-11-12T00:00:00.000+0000",
+    "dateCreated": "2024-10-15T13:16:07.579+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Social-Media-Lead--Communications---TR-Foundation_JREQ183265/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Plan, develop and execute the social media component of integrated strategic communications campaigns for the Foundation\u2019s key initiatives, events and projects....",
+      "descriptionTeaser_first200": "We are seeking a Social Media Lead, Communications, to translate the Thomson Reuters Foundation\u2019s work into content that is made for social. From creating and implementing engaging social campaigns...",
+      "descriptionTeaser_keyword": "We are seeking a Social Media Lead, Communications, to translate the Thomson Reuters Foundation\u2019s work into content that is made for social. From creating and implementing engaging social campaigns ar...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.0185088,
+          "lat": 51.5056439
+        },
+        "location": "London, United Kingdom"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "London",
     "country": "United Kingdom",
     "ml_skills": [
@@ -5277,69 +5423,6 @@
           "lat": 40.7566955
         },
         "location": "New York, New York, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "London",
-    "country": "United Kingdom",
-    "ml_skills": [
-      "commercial law",
-      "editing",
-      "product management"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "As a Senior Specialist Legal Editor in Practical Law Charities, you will use your specialist knowledge of advising on charity law matters to provide and maintain a wide range of Practical Law content....",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-0.0185088",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ182051",
-    "jobId": "JREQ182051",
-    "city": "London",
-    "latitude": "51.5056439",
-    "locale": "en_US",
-    "multi_location": [
-      "London, United Kingdom"
-    ],
-    "title": "Senior Specialist Legal Editor, Practical Law Charities",
-    "jobSeqNo": "THTTRUUSJREQ182051EXTERNALENUS",
-    "postedDate": "2024-09-09T00:00:00.000+0000",
-    "dateCreated": "2024-09-09T16:38:52.096+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Senior-Specialist-Legal-Editor--Practical-Law-Charities_JREQ182051/apply",
-    "location": "London, United Kingdom",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "As a Senior Specialist Legal Editor in Practical Law Charities, you will use your specialist knowledge of advising on charity law matters to provide and maintain a wide range of Practical Law content....",
-      "descriptionTeaser_first200": "Senior Specialist Legal Editor, Practical Law Charities. We are seeking an experienced Charities lawyer to join the Practical Law Private Client team in the UK. Practical Law is a leading online k...",
-      "descriptionTeaser_keyword": "Senior Specialist Legal Editor, Practical Law Charities. We are seeking an experienced Charities lawyer to join the Practical Law Private Client team in the UK. Practical Law is a leading online know-...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -0.0185088,
-          "lat": 51.5056439
-        },
-        "location": "London, United Kingdom"
       }
     ],
     "isMultiCategory": true,
