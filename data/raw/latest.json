@@ -66,10 +66,10 @@
     "cityState": "London",
     "country": "United Kingdom",
     "ml_skills": [
-      "specialist",
+      "justice",
       "financial institutions",
-      "editing",
-      "commissioning"
+      "commerce",
+      "editing"
     ],
     "remote": "Hybrid",
     "type": "Full time",
@@ -103,7 +103,7 @@
     "category": "News & Editorial Careers",
     "ml_job_parser": {
       "descriptionTeaser": "As a Senior Specialist Legal Editor in Practical Law, you will use your specialist legal knowledge of Finance law and lending transactions to provide and maintain a wide range of Practical Law content...",
-      "descriptionTeaser_first200": "Senior Specialist Legal Editor, Practical Law Finance . We are seeking an experienced Finance lawyer to join the Practical Law Finance team in the UK. Practical Law is a leading online know-how ser...",
+      "descriptionTeaser_first200": "Senior Specialist Legal Editor, Practical Law Finance . We are seeking an experienced Finance lawyer to join the Practical Law Finance team in the UK. Practical Law is a leading online know-how se...",
       "descriptionTeaser_keyword": "Senior Specialist Legal Editor, Practical Law Finance. We are seeking an experienced Finance lawyer to join the Practical Law Finance team in the UK. Practical Law is a leading online know-how service...",
       "descriptionTeaser_ats": ""
     },
@@ -130,13 +130,10 @@
     "cityState": "London",
     "country": "United Kingdom",
     "ml_skills": [
-      "law firm",
       "corporate law",
-      "editorial",
-      "specialist",
-      "editing",
-      "commissioning",
-      "product management"
+      "justice",
+      "commerce",
+      "editing"
     ],
     "remote": "Hybrid",
     "type": "Full time",
@@ -170,7 +167,7 @@
     "category": "News & Editorial Careers",
     "ml_job_parser": {
       "descriptionTeaser": "As a Senior Specialist Legal Editor in Practical Law, you will use your specialist legal knowledge of advising on corporate law matters to provide and maintain a wide range of Practical Law content. M...",
-      "descriptionTeaser_first200": "Senior Specialist Legal Editor, Practical Law Corporate. We are seeking an experienced corporate lawyer to join the Practical Law Corporate team in the UK. Practical Law is a leading online know-ho...",
+      "descriptionTeaser_first200": "Senior Specialist Legal Editor, Practical Law Corporate. We are seeking an experienced corporate lawyer to join the Practical Law Corporate team in the UK. Practical Law is a leading online know-h...",
       "descriptionTeaser_keyword": "Senior Specialist Legal Editor, Practical Law Corporate. We are seeking an experienced corporate lawyer to join the Practical Law Corporate team in the UK. Practical Law is a leading online know-how s...",
       "descriptionTeaser_ats": ""
     },
@@ -5736,71 +5733,6 @@
           "lat": 43.6480117
         },
         "location": "Toronto, Ontario, Canada"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Beijing, Beijing",
-    "country": "China",
-    "ml_skills": [
-      "mandarin",
-      "multimedia",
-      "graphics",
-      "agriculture",
-      "international trade"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "The successful candidate will be a proven source-builder with strong story instincts and an eagerness to build expertise on the world\u2019s biggest consumer of most key agricultural commodities, deliverin...",
-    "state": "Beijing",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "116.40108",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ180721",
-    "jobId": "JREQ180721",
-    "city": "Beijing",
-    "latitude": "39.9515199",
-    "locale": "en_US",
-    "multi_location": [
-      "Beijing, Beijing, China"
-    ],
-    "title": "China Agriculture Correspondent",
-    "jobSeqNo": "THTTRUUSJREQ180721EXTERNALENUS",
-    "postedDate": "2024-07-15T00:00:00.000+0000",
-    "dateCreated": "2024-07-15T12:40:51.749+0000",
-    "cityStateCountry": "Beijing, Beijing, China",
-    "address": "Units 5-12, 18F / 20F, Office Tower E1 of Oriental Plaza, No.1, East Chang An Avenue, Dong Cheng District, Beijing, 100738 Beijing, China",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CHN-Beijing-Oriental-Plaza/China-Agriculture-Correspondent_JREQ180721-1/apply",
-    "location": "Beijing, Beijing, China",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "The successful candidate will be a proven source-builder with strong story instincts and an eagerness to build expertise on the world\u2019s biggest consumer of most key agricultural commodities, deliverin...",
-      "descriptionTeaser_first200": "China Agriculture Correspondent. Reuters is seeking an energetic journalist with a track record of outstanding beat reporting to cover China\u2019s vast agriculture sector. The successful candidate will break...",
-      "descriptionTeaser_keyword": "China Agriculture Correspondent. Reuters is seeking an energetic journalist with a track record of outstanding beat reporting to cover China\u2019s vast agriculture sector. The successful candidate will br...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 116.40108,
-          "lat": 39.9515199
-        },
-        "location": "Beijing, Beijing, China"
       }
     ],
     "isMultiCategory": true,
