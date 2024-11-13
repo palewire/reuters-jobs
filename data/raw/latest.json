@@ -1,5 +1,71 @@
 [
   {
+    "cityState": "Frisco, Texas",
+    "country": "United States of America",
+    "ml_skills": [
+      "tax preparation",
+      "tax law",
+      "filing",
+      "consistency",
+      "technical assistance",
+      "engineers"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Depending on the nature of the project undertakes a combination of technical implementation and testing analyst tasks to understand customer and/or product needs in the context of internal & external...",
+    "state": "Texas",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-96.833545",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ184979",
+    "jobId": "JREQ184979",
+    "city": "Frisco",
+    "latitude": "33.1073049",
+    "locale": "en_US",
+    "multi_location": [
+      "Frisco, Texas, United States of America"
+    ],
+    "title": "Tax Analyst",
+    "jobSeqNo": "THTTRUUSJREQ184979EXTERNALENUS",
+    "postedDate": "2024-11-13T00:00:00.000+0000",
+    "dateCreated": "2024-11-13T16:48:47.309+0000",
+    "cityStateCountry": "Frisco, Texas, United States of America",
+    "address": "6160 Warren Parkway, Frisco, TX 75034, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Frisco-6160-Warren-Parkway/Tax-Analyst_JREQ184979/apply",
+    "location": "Frisco, Texas, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Depending on the nature of the project undertakes a combination of technical implementation and testing analyst tasks to understand customer and/or product needs in the context of internal & external...",
+      "descriptionTeaser_first200": "Summary. You will participate in designing, developing, and testing our GoSystem Tax using in-house development tools. In this role, you will collect, analyze, and prioritize requirements from vari...",
+      "descriptionTeaser_keyword": "Summary. You will participate in designing, developing, and testing our GoSystem Tax using in-house development tools. In this role, you will collect, analyze, and prioritize requirements from various...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -96.833545,
+          "lat": 33.1073049
+        },
+        "location": "Frisco, Texas, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Pyrmont, New South Wales",
     "country": "Australia",
     "ml_skills": [
@@ -65,69 +131,6 @@
           "lat": -37.8169726
         },
         "location": "Melbourne, Victoria, Australia"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Pyrmont, New South Wales",
-    "country": "Australia",
-    "ml_skills": [
-      "litigation",
-      "adapt",
-      "analyse"
-    ],
-    "remote": "On-Site",
-    "type": "Part time",
-    "descriptionTeaser": "You\u2019re a fit for the role of Casual Legal Editor if your background includes. Classifying cases in accordance with the Australian Digest classification key. Writing digest notes for significant cases....",
-    "state": "New South Wales",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "151.1915144",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ183216",
-    "jobId": "JREQ183216",
-    "city": "Pyrmont",
-    "latitude": "-33.8664432",
-    "locale": "en_US",
-    "multi_location": [
-      "Pyrmont, New South Wales, Australia"
-    ],
-    "title": "Casual Legal Editor - University Law Students",
-    "jobSeqNo": "THTTRUUSJREQ183216EXTERNALENUS",
-    "postedDate": "2024-11-12T00:00:00.000+0000",
-    "dateCreated": "2024-11-06T04:58:53.499+0000",
-    "cityStateCountry": "Pyrmont, New South Wales, Australia",
-    "address": "19 Harris Street, Pyrmont NSW 2009, Australia",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/AUS-Pyrmont-19-Harris-St/Casual-Legal-Editor---University-Law-Students_JREQ183216/apply",
-    "location": "Pyrmont, New South Wales, Australia",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "You\u2019re a fit for the role of Casual Legal Editor if your background includes. Classifying cases in accordance with the Australian Digest classification key. Writing digest notes for significant cases....",
-      "descriptionTeaser_first200": "Are you a Law student looking for casual work? We are looking for university law students who have great attention to detail, a willingness to learn and who can support our team of legal editors wo...",
-      "descriptionTeaser_keyword": "Are you a Law student looking for casual work? We are looking for university law students who have great attention to detail, a willingness to learn and who can support our team of legal editors worki...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 151.1915144,
-          "lat": -33.8664432
-        },
-        "location": "Pyrmont, New South Wales, Australia"
       }
     ],
     "isMultiCategory": true,
@@ -434,6 +437,69 @@
           "lat": 33.1073049
         },
         "location": "Frisco, Texas, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Pyrmont, New South Wales",
+    "country": "Australia",
+    "ml_skills": [
+      "litigation",
+      "adapt",
+      "analyse"
+    ],
+    "remote": "On-Site",
+    "type": "Part time",
+    "descriptionTeaser": "You\u2019re a fit for the role of Casual Legal Editor if your background includes. Classifying cases in accordance with the Australian Digest classification key. Writing digest notes for significant cases....",
+    "state": "New South Wales",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "151.1915144",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ183216",
+    "jobId": "JREQ183216",
+    "city": "Pyrmont",
+    "latitude": "-33.8664432",
+    "locale": "en_US",
+    "multi_location": [
+      "Pyrmont, New South Wales, Australia"
+    ],
+    "title": "Casual Legal Editor - University Law Students",
+    "jobSeqNo": "THTTRUUSJREQ183216EXTERNALENUS",
+    "postedDate": "2024-11-12T00:00:00.000+0000",
+    "dateCreated": "2024-11-06T04:58:53.499+0000",
+    "cityStateCountry": "Pyrmont, New South Wales, Australia",
+    "address": "19 Harris Street, Pyrmont NSW 2009, Australia",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/AUS-Pyrmont-19-Harris-St/Casual-Legal-Editor---University-Law-Students_JREQ183216/apply",
+    "location": "Pyrmont, New South Wales, Australia",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "You\u2019re a fit for the role of Casual Legal Editor if your background includes. Classifying cases in accordance with the Australian Digest classification key. Writing digest notes for significant cases....",
+      "descriptionTeaser_first200": "Are you a Law student looking for casual work? We are looking for university law students who have great attention to detail, a willingness to learn and who can support our team of legal editors wo...",
+      "descriptionTeaser_keyword": "Are you a Law student looking for casual work? We are looking for university law students who have great attention to detail, a willingness to learn and who can support our team of legal editors worki...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 151.1915144,
+          "lat": -33.8664432
+        },
+        "location": "Pyrmont, New South Wales, Australia"
       }
     ],
     "isMultiCategory": true,
