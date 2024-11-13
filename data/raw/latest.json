@@ -283,6 +283,92 @@
     "badge": ""
   },
   {
+    "cityState": "Eagan, Minnesota",
+    "country": "United States of America",
+    "ml_skills": [
+      "data privacy",
+      "justice",
+      "legal research",
+      "practical",
+      "cybersecurity",
+      "specialist",
+      "core data",
+      "commerce",
+      "grammar",
+      "product support"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Work with Senior Specialist Legal Editors to research, draft, edit, and update core data privacy & cybersecurity legal know-how resources for Practical Law's online products and services. Write, edit,...",
+    "state": "Minnesota",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-93.10808019999999",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ184934",
+    "jobId": "JREQ184934",
+    "city": "Eagan",
+    "latitude": "44.8527611",
+    "locale": "en_US",
+    "multi_location": [
+      "Eagan, Minnesota, United States of America",
+      "Ann Arbor, Michigan, United States of America",
+      "Frisco, Texas, United States of America"
+    ],
+    "title": "Senior Associate Editor, Data Privacy & Cybersecurity",
+    "jobSeqNo": "THTTRUUSJREQ184934EXTERNALENUS",
+    "postedDate": "2024-11-12T00:00:00.000+0000",
+    "dateCreated": "2024-11-12T20:43:54.394+0000",
+    "cityStateCountry": "Eagan, Minnesota, United States of America",
+    "address": "2900 Ames Crossing Road, Ste 100, Eagan, MN 55121, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MSP-2900-Ames-Crossing-Road/Senior-Associate-Editor--Data-Privacy---Cybersecurity_JREQ184934/apply",
+    "location": "Eagan, Minnesota, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Work with Senior Specialist Legal Editors to research, draft, edit, and update core data privacy & cybersecurity legal know-how resources for Practical Law's online products and services. Write, edit,...",
+      "descriptionTeaser_first200": "Senior Associate Editor, Data Privacy & Cybersecurity. As a Senior Associate Editor at Practical Law, you will work in conjunction with more experienced colleagues based in the US, Canada, the UK, ...",
+      "descriptionTeaser_keyword": "Senior Associate Editor, Data Privacy & Cybersecurity. As a Senior Associate Editor at Practical Law, you will work in conjunction with more experienced colleagues based in the US, Canada, the UK, and...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -93.10808019999999,
+          "lat": 44.8527611
+        },
+        "location": "Eagan, Minnesota, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -83.7267835,
+          "lat": 42.1957259
+        },
+        "location": "Ann Arbor, Michigan, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -96.833545,
+          "lat": 33.1073049
+        },
+        "location": "Frisco, Texas, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "London",
     "country": "United Kingdom",
     "ml_skills": [
@@ -3051,75 +3137,6 @@
           "lat": 12.9743998
         },
         "location": "Bengaluru, Karnataka, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Frisco, Texas",
-    "country": "United States of America",
-    "ml_skills": [
-      "tax preparation",
-      "tax software",
-      "tax law",
-      "cpa",
-      "filing",
-      "strong",
-      "computer science",
-      "checkpoint",
-      "spring"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "In this role, you will collect, analyze, and prioritize requirements from various entities including external taxing authorities and our internal sources to define and make required changes to the GoS...",
-    "state": "Texas",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-96.833545",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ181758",
-    "jobId": "JREQ181758",
-    "city": "Frisco",
-    "latitude": "33.1073049",
-    "locale": "en_US",
-    "multi_location": [
-      "Frisco, Texas, United States of America"
-    ],
-    "title": "Tax Analyst",
-    "jobSeqNo": "THTTRUUSJREQ181758EXTERNALENUS",
-    "postedDate": "2024-10-18T00:00:00.000+0000",
-    "dateCreated": "2024-08-22T20:40:52.077+0000",
-    "cityStateCountry": "Frisco, Texas, United States of America",
-    "address": "6160 Warren Parkway, Frisco, TX 75034, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Frisco-6160-Warren-Parkway/Tax-Analyst_JREQ181758/apply",
-    "location": "Frisco, Texas, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "In this role, you will collect, analyze, and prioritize requirements from various entities including external taxing authorities and our internal sources to define and make required changes to the GoS...",
-      "descriptionTeaser_first200": "Summary. You will participate in the design, development, and testing of our GoSystem Tax or UltraTax using in-house development tools. In this role, you will collect, analyze, and prioritize requ...",
-      "descriptionTeaser_keyword": "Summary. You will participate in the design, development, and testing of our GoSystem Tax or UltraTax using in-house development tools. In this role, you will collect, analyze, and prioritize requirem...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -96.833545,
-          "lat": 33.1073049
-        },
-        "location": "Frisco, Texas, United States of America"
       }
     ],
     "isMultiCategory": true,
