@@ -66,6 +66,140 @@
     "badge": ""
   },
   {
+    "cityState": "London",
+    "country": "United Kingdom",
+    "ml_skills": [
+      "multimedia",
+      "photojournalism",
+      "photography",
+      "storytelling",
+      "inspirational",
+      "reuters",
+      "judgment"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "The successful candidate will need impeccable news judgment and a strong track record of leading outstanding news coverage that is respected within the industry. Ensure Reuters wins the region\u2019s bigge...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.0185088",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ184362",
+    "jobId": "JREQ184362",
+    "city": "London",
+    "latitude": "51.5056439",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom"
+    ],
+    "title": "Europe Editor, Reuters Pictures",
+    "jobSeqNo": "THTTRUUSJREQ184362EXTERNALENUS",
+    "postedDate": "2024-11-15T00:00:00.000+0000",
+    "dateCreated": "2024-11-06T17:01:07.973+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Europe-Editor--Reuters-Pictures_JREQ184362/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "The successful candidate will need impeccable news judgment and a strong track record of leading outstanding news coverage that is respected within the industry. Ensure Reuters wins the region\u2019s bigge...",
+      "descriptionTeaser_first200": "We are looking for an experienced and inspirational photojournalist or picture editor to drive visual coverage of news across Europe - from the UK, Ireland, and Portugal in the west, to Turkey, Rus...",
+      "descriptionTeaser_keyword": "We are looking for an experienced and inspirational photojournalist or picture editor to drive visual coverage of news across Europe - from the UK, Ireland, and Portugal in the west, to Turkey, Russia...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.0185088,
+          "lat": 51.5056439
+        },
+        "location": "London, United Kingdom"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Washington, District of Columbia",
+    "country": "United States of America",
+    "ml_skills": [
+      "law enforcement",
+      "federal law",
+      "breaking news",
+      "reuters",
+      "graphics",
+      "multimedia",
+      "creatively"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "We are looking for candidates who already have strong sources inside and outside of federal and local law enforcement agencies and a record of producing exclusive and enterprising stories. Develop sou...",
+    "state": "District of Columbia",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-77.0311952",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ184965",
+    "jobId": "JREQ184965",
+    "city": "Washington",
+    "latitude": "38.9004793",
+    "locale": "en_US",
+    "multi_location": [
+      "Washington, District of Columbia, United States of America"
+    ],
+    "title": "U.S. Intelligence & Law Enforcement Correspondent",
+    "jobSeqNo": "THTTRUUSJREQ184965EXTERNALENUS",
+    "postedDate": "2024-11-15T00:00:00.000+0000",
+    "dateCreated": "2024-11-15T20:45:05.694+0000",
+    "cityStateCountry": "Washington, District of Columbia, United States of America",
+    "address": "1333 H Street NW, Suite 500, Washington, DC 20005, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Washington-1333-H-Street-N/US-Intelligence---Law-Enforcement-Correspondent_JREQ184965/apply",
+    "location": "Washington, District of Columbia, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "We are looking for candidates who already have strong sources inside and outside of federal and local law enforcement agencies and a record of producing exclusive and enterprising stories. Develop sou...",
+      "descriptionTeaser_first200": "Reuters is looking for a reporter to cover U.S. law enforcement and domestic security, particularly the FBI and other federal law enforcement agencies to be based in our Washington, DC bureau. This...",
+      "descriptionTeaser_keyword": "Reuters is looking for a reporter to cover U. S. law enforcement and domestic security, particularly the FBI and other federal law enforcement agencies to be based in our Washington, DC bureau. This r...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -77.0311952,
+          "lat": 38.9004793
+        },
+        "location": "Washington, District of Columbia, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Hyderabad, Telangana",
     "country": "India",
     "ml_skills": [
@@ -191,140 +325,6 @@
           "lat": 40.7566955
         },
         "location": "New York, New York, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "London",
-    "country": "United Kingdom",
-    "ml_skills": [
-      "multimedia",
-      "photojournalism",
-      "photography",
-      "storytelling",
-      "inspirational",
-      "reuters",
-      "judgment"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "The successful candidate will need impeccable news judgment and a strong track record of leading outstanding news coverage that is respected within the industry. Ensure Reuters wins the region\u2019s bigge...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-0.0185088",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ184362",
-    "jobId": "JREQ184362",
-    "city": "London",
-    "latitude": "51.5056439",
-    "locale": "en_US",
-    "multi_location": [
-      "London, United Kingdom"
-    ],
-    "title": "Europe Editor, Reuters Pictures",
-    "jobSeqNo": "THTTRUUSJREQ184362EXTERNALENUS",
-    "postedDate": "2024-11-15T00:00:00.000+0000",
-    "dateCreated": "2024-11-06T17:01:07.973+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Europe-Editor--Reuters-Pictures_JREQ184362/apply",
-    "location": "London, United Kingdom",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "The successful candidate will need impeccable news judgment and a strong track record of leading outstanding news coverage that is respected within the industry. Ensure Reuters wins the region\u2019s bigge...",
-      "descriptionTeaser_first200": "We are looking for an experienced and inspirational photojournalist or picture editor to drive visual coverage of news across Europe - from the UK, Ireland, and Portugal in the west, to Turkey, Rus...",
-      "descriptionTeaser_keyword": "We are looking for an experienced and inspirational photojournalist or picture editor to drive visual coverage of news across Europe - from the UK, Ireland, and Portugal in the west, to Turkey, Russia...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -0.0185088,
-          "lat": 51.5056439
-        },
-        "location": "London, United Kingdom"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Washington, District of Columbia",
-    "country": "United States of America",
-    "ml_skills": [
-      "law enforcement",
-      "federal law",
-      "breaking news",
-      "reuters",
-      "graphics",
-      "multimedia",
-      "creatively"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "We are looking for candidates who already have strong sources inside and outside of federal and local law enforcement agencies and a record of producing exclusive and enterprising stories. Develop sou...",
-    "state": "District of Columbia",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-77.0311952",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ184965",
-    "jobId": "JREQ184965",
-    "city": "Washington",
-    "latitude": "38.9004793",
-    "locale": "en_US",
-    "multi_location": [
-      "Washington, District of Columbia, United States of America"
-    ],
-    "title": "U.S. Intelligence & Law Enforcement Correspondent",
-    "jobSeqNo": "THTTRUUSJREQ184965EXTERNALENUS",
-    "postedDate": "2024-11-15T00:00:00.000+0000",
-    "dateCreated": "2024-11-15T20:45:05.694+0000",
-    "cityStateCountry": "Washington, District of Columbia, United States of America",
-    "address": "1333 H Street NW, Suite 500, Washington, DC 20005, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Washington-1333-H-Street-N/US-Intelligence---Law-Enforcement-Correspondent_JREQ184965/apply",
-    "location": "Washington, District of Columbia, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "We are looking for candidates who already have strong sources inside and outside of federal and local law enforcement agencies and a record of producing exclusive and enterprising stories. Develop sou...",
-      "descriptionTeaser_first200": "Reuters is looking for a reporter to cover U.S. law enforcement and domestic security, particularly the FBI and other federal law enforcement agencies to be based in our Washington, DC bureau. This...",
-      "descriptionTeaser_keyword": "Reuters is looking for a reporter to cover U. S. law enforcement and domestic security, particularly the FBI and other federal law enforcement agencies to be based in our Washington, DC bureau. This r...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -77.0311952,
-          "lat": 38.9004793
-        },
-        "location": "Washington, District of Columbia, United States of America"
       }
     ],
     "isMultiCategory": true,
@@ -1013,78 +1013,6 @@
     "badge": ""
   },
   {
-    "cityState": "London",
-    "country": "United Kingdom",
-    "ml_skills": [
-      "corporate social media",
-      "community engagement",
-      "social media management",
-      "crisis communications",
-      "ngo",
-      "social media management tools",
-      "social media advertising",
-      "narrative",
-      "sprout social",
-      "proofreading",
-      "canva",
-      "analyse"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Plan, develop and execute the social media component of integrated strategic communications campaigns for the Foundation\u2019s key initiatives, events and projects....",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-0.0185088",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ183265",
-    "jobId": "JREQ183265",
-    "city": "London",
-    "latitude": "51.5056439",
-    "locale": "en_US",
-    "multi_location": [
-      "London, United Kingdom"
-    ],
-    "title": "Social Media Lead, Communications - TR Foundation",
-    "jobSeqNo": "THTTRUUSJREQ183265EXTERNALENUS",
-    "postedDate": "2024-11-12T00:00:00.000+0000",
-    "dateCreated": "2024-10-15T13:16:07.579+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Social-Media-Lead--Communications---TR-Foundation_JREQ183265/apply",
-    "location": "London, United Kingdom",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Plan, develop and execute the social media component of integrated strategic communications campaigns for the Foundation\u2019s key initiatives, events and projects....",
-      "descriptionTeaser_first200": "We are seeking a Social Media Lead, Communications, to translate the Thomson Reuters Foundation\u2019s work into content that is made for social. From creating and implementing engaging social campaigns...",
-      "descriptionTeaser_keyword": "We are seeking a Social Media Lead, Communications, to translate the Thomson Reuters Foundation\u2019s work into content that is made for social. From creating and implementing engaging social campaigns ar...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -0.0185088,
-          "lat": 51.5056439
-        },
-        "location": "London, United Kingdom"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Eagan, Minnesota",
     "country": "United States of America",
     "ml_skills": [
@@ -1160,6 +1088,78 @@
           "lat": 33.1073049
         },
         "location": "Frisco, Texas, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "London",
+    "country": "United Kingdom",
+    "ml_skills": [
+      "corporate social media",
+      "community engagement",
+      "social media management",
+      "crisis communications",
+      "ngo",
+      "social media management tools",
+      "social media advertising",
+      "narrative",
+      "sprout social",
+      "proofreading",
+      "canva",
+      "analyse"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Plan, develop and execute the social media component of integrated strategic communications campaigns for the Foundation\u2019s key initiatives, events and projects....",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.0185088",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ183265",
+    "jobId": "JREQ183265",
+    "city": "London",
+    "latitude": "51.5056439",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom"
+    ],
+    "title": "Social Media Lead, Communications - TR Foundation",
+    "jobSeqNo": "THTTRUUSJREQ183265EXTERNALENUS",
+    "postedDate": "2024-11-12T00:00:00.000+0000",
+    "dateCreated": "2024-10-15T13:16:07.579+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Social-Media-Lead--Communications---TR-Foundation_JREQ183265/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Plan, develop and execute the social media component of integrated strategic communications campaigns for the Foundation\u2019s key initiatives, events and projects....",
+      "descriptionTeaser_first200": "We are seeking a Social Media Lead, Communications, to translate the Thomson Reuters Foundation\u2019s work into content that is made for social. From creating and implementing engaging social campaigns...",
+      "descriptionTeaser_keyword": "We are seeking a Social Media Lead, Communications, to translate the Thomson Reuters Foundation\u2019s work into content that is made for social. From creating and implementing engaging social campaigns ar...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.0185088,
+          "lat": 51.5056439
+        },
+        "location": "London, United Kingdom"
       }
     ],
     "isMultiCategory": true,
