@@ -1,5 +1,68 @@
 [
   {
+    "cityState": "Buenos Aires",
+    "country": "Argentina",
+    "ml_skills": [
+      "journalism",
+      "multimedia",
+      "storytelling"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Gathers information to break news and write stories. Develop key sources to break news on strategic coverage areas. Reuters is the world\u2019s largest multimedia news provider. Our industry-leading produc...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-58.3875561",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ185024",
+    "jobId": "JREQ185024",
+    "city": "Buenos Aires",
+    "latitude": "-34.6016107",
+    "locale": "en_US",
+    "multi_location": [
+      "Buenos Aires, Argentina"
+    ],
+    "title": "Correspondent, Argentina",
+    "jobSeqNo": "THTTRUUSJREQ185024EXTERNALENUS",
+    "postedDate": "2024-11-22T00:00:00.000+0000",
+    "dateCreated": "2024-11-23T00:38:02.080+0000",
+    "cityStateCountry": "Buenos Aires, Argentina",
+    "address": "Tucuman 1471, C1050AAB Buenos Aires, Argentina",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/ARG-Buenos-Aires-Tucuman-1471/Correspondent--Argentina_JREQ185024/apply",
+    "location": "Buenos Aires, Argentina",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Gathers information to break news and write stories. Develop key sources to break news on strategic coverage areas. Reuters is the world\u2019s largest multimedia news provider. Our industry-leading produc...",
+      "descriptionTeaser_first200": "Introduction . Reuters is seeking an energetic and experienced journalist to join our team in Buenos Aires as Correspondent, to help drive initiative coverage of key themes from libertarian Presid...",
+      "descriptionTeaser_keyword": "Introduction. Reuters is seeking an energetic and experienced journalist to join our team in Buenos Aires as Correspondent, to help drive initiative coverage of key themes from libertarian President J...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -58.3875561,
+          "lat": -34.6016107
+        },
+        "location": "Buenos Aires, Argentina"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Pyrmont, New South Wales",
     "country": "Australia",
     "ml_skills": [
@@ -576,16 +639,15 @@
     "cityState": "Willingham, Cambridgeshire",
     "country": "United Kingdom",
     "ml_skills": [
-      "project management",
+      "technical writing",
       "technical documentation",
-      "release management",
+      "commerce",
       "release notes",
+      "technical sales",
+      "project management",
       "repositories",
       "openapi",
-      "technical writing",
-      "commerce",
-      "editing",
-      "technical sales"
+      "release management"
     ],
     "remote": "Hybrid",
     "type": "Full time",
@@ -619,7 +681,7 @@
     "category": "News & Editorial Careers",
     "ml_job_parser": {
       "descriptionTeaser": "This role requires excellent communication, writing, and project management skills to produce high-quality documentation that supports our core product. Work with Commercial and Marketing teams to dev...",
-      "descriptionTeaser_first200": "We are seeking an experienced and meticulous Technical Writer to join our team. The successful candidate will be responsible for creating, maintaining, and enhancing our technical documentation to ...",
+      "descriptionTeaser_first200": "We are seeking an experienced and meticulous Technical Writer to join our team. The successful candidate will be responsible for creating, maintaining, and enhancing our technical documentation to...",
       "descriptionTeaser_keyword": "We are seeking an experienced and meticulous Technical Writer to join our team. The successful candidate will be responsible for creating, maintaining, and enhancing our technical documentation to ens...",
       "descriptionTeaser_ats": ""
     },
