@@ -1,5 +1,68 @@
 [
   {
+    "cityState": "New York, New York",
+    "country": "United States of America",
+    "ml_skills": [
+      "editorial systems",
+      "multimedia",
+      "ai"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "You will be part of a global learning team responsible for designing and delivering virtual and in-person training which drives and supports the ambition of our newsroom and helps us attract and retai...",
+    "state": "New York",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-73.9866995",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ184968",
+    "jobId": "JREQ184968",
+    "city": "New York",
+    "latitude": "40.7566955",
+    "locale": "en_US",
+    "multi_location": [
+      "New York, New York, United States of America"
+    ],
+    "title": "Learning Editor, Americas",
+    "jobSeqNo": "THTTRUUSJREQ184968EXTERNALENUS",
+    "postedDate": "2024-11-26T00:00:00.000+0000",
+    "dateCreated": "2024-11-15T16:43:34.491+0000",
+    "cityStateCountry": "New York, New York, United States of America",
+    "address": "3 Times Square, New York, NY 10036, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-New-York-3-Times-Square/Learning-Editor--Americas_JREQ184968/apply",
+    "location": "New York, New York, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "You will be part of a global learning team responsible for designing and delivering virtual and in-person training which drives and supports the ambition of our newsroom and helps us attract and retai...",
+      "descriptionTeaser_first200": "Reuters is looking for an experienced, proactive and dynamic journalist to help deliver best in class training to the newsroom. You will be part of a global learning team responsible for designing...",
+      "descriptionTeaser_keyword": "Reuters is looking for an experienced, proactive and dynamic journalist to help deliver best in class training to the newsroom. You will be part of a global learning team responsible for designing and...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -73.9866995,
+          "lat": 40.7566955
+        },
+        "location": "New York, New York, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Tokyo",
     "country": "Japan",
     "ml_skills": [
@@ -828,74 +891,6 @@
           "lat": 17.438325
         },
         "location": "Hyderabad, Telangana, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "New York, New York",
-    "country": "United States of America",
-    "ml_skills": [
-      "editorial",
-      "editorial systems",
-      "multimedia",
-      "judgment",
-      "workshops",
-      "trainer",
-      "ai",
-      "reuters"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "You will be part of a global learning team responsible for designing and delivering virtual and in-person training which drives and supports the ambition of our newsroom and helps us attract and retai...",
-    "state": "New York",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-73.9866995",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ184968",
-    "jobId": "JREQ184968",
-    "city": "New York",
-    "latitude": "40.7566955",
-    "locale": "en_US",
-    "multi_location": [
-      "New York, New York, United States of America"
-    ],
-    "title": "Learning Editor, Americas",
-    "jobSeqNo": "THTTRUUSJREQ184968EXTERNALENUS",
-    "postedDate": "2024-11-15T00:00:00.000+0000",
-    "dateCreated": "2024-11-15T16:43:34.491+0000",
-    "cityStateCountry": "New York, New York, United States of America",
-    "address": "3 Times Square, New York, NY 10036, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-New-York-3-Times-Square/Learning-Editor--Americas_JREQ184968/apply",
-    "location": "New York, New York, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "You will be part of a global learning team responsible for designing and delivering virtual and in-person training which drives and supports the ambition of our newsroom and helps us attract and retai...",
-      "descriptionTeaser_first200": "Reuters is looking for an experienced, proactive and dynamic journalist to help deliver best in class training to the newsroom. You will be part of a global learning team responsible for designing ...",
-      "descriptionTeaser_keyword": "Reuters is looking for an experienced, proactive and dynamic journalist to help deliver best in class training to the newsroom. You will be part of a global learning team responsible for designing and...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -73.9866995,
-          "lat": 40.7566955
-        },
-        "location": "New York, New York, United States of America"
       }
     ],
     "isMultiCategory": true,
