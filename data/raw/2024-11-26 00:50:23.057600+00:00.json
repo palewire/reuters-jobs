@@ -1,5 +1,75 @@
 [
   {
+    "cityState": "Tokyo",
+    "country": "Japan",
+    "ml_skills": [
+      "journalism",
+      "social media editor",
+      "publishing",
+      "public relations",
+      "japanese",
+      "breaking news",
+      "multimedia",
+      "video editing",
+      "corporate social media",
+      "target audience"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "He/she must also create compelling content for our target audience by translating English multimedia news, videos and graphics into Japanese, and publishing to our Japanese-language website. Ensure ef...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "139.7488929",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ185069",
+    "jobId": "JREQ185069",
+    "city": "Tokyo",
+    "latitude": "35.6621409",
+    "locale": "en_US",
+    "multi_location": [
+      "Tokyo, Japan"
+    ],
+    "title": "Social Media Editor",
+    "jobSeqNo": "THTTRUUSJREQ185069EXTERNALENUS",
+    "postedDate": "2024-11-25T00:00:00.000+0000",
+    "dateCreated": "2024-11-25T08:37:42.546+0000",
+    "cityStateCountry": "Tokyo, Japan",
+    "address": "10F Atago Green Hills Mori Tower, 2-5-1 Atago, Minato-ku, Tokyo, 105-6210, Japan",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/JPN-Tokyo-Atago-Green-Hills/Social-Media-Editor_JREQ185069/apply",
+    "location": "Tokyo, Japan",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "He/she must also create compelling content for our target audience by translating English multimedia news, videos and graphics into Japanese, and publishing to our Japanese-language website. Ensure ef...",
+      "descriptionTeaser_first200": "Social Media Editor. Reuters is seeking a social media editor who will play a key role in publishing Japanese-language content to various Reuters social media accounts, with the aim of growing the...",
+      "descriptionTeaser_keyword": "Social Media Editor. Reuters is seeking a social media editor who will play a key role in publishing Japanese-language content to various Reuters social media accounts, with the aim of growing the com...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 139.7488929,
+          "lat": 35.6621409
+        },
+        "location": "Tokyo, Japan"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Buenos Aires",
     "country": "Argentina",
     "ml_skills": [
@@ -52,143 +122,6 @@
           "lat": -34.6016107
         },
         "location": "Buenos Aires, Argentina"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Pyrmont, New South Wales",
-    "country": "Australia",
-    "ml_skills": [
-      "commercial leasing",
-      "property law",
-      "legal research",
-      "podcasts",
-      "communicate effectively",
-      "checklists"
-    ],
-    "remote": "Remote",
-    "type": "Full time",
-    "descriptionTeaser": "Meet with external customers, industry and sector experts to maintain and build a superior understanding of property law related developments to ensure relevant and premium quality content is delivere...",
-    "state": "New South Wales",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "151.1915144",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ184412",
-    "jobId": "JREQ184412",
-    "city": "Pyrmont",
-    "latitude": "-33.8664432",
-    "locale": "en_US",
-    "multi_location": [
-      "Pyrmont, New South Wales, Australia"
-    ],
-    "title": "Senior Lawyer Writer, Real Estate - 12 Month Contract",
-    "jobSeqNo": "THTTRUUSJREQ184412EXTERNALENUS",
-    "postedDate": "2024-11-21T00:00:00.000+0000",
-    "dateCreated": "2024-11-21T00:42:28.089+0000",
-    "cityStateCountry": "Pyrmont, New South Wales, Australia",
-    "address": "19 Harris Street, Pyrmont NSW 2009, Australia",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/AUS-Pyrmont-19-Harris-St/Senior-Lawyer-Writer--Real-Estate---12-Month-Contract_JREQ184412/apply",
-    "location": "Pyrmont, New South Wales, Australia",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Meet with external customers, industry and sector experts to maintain and build a superior understanding of property law related developments to ensure relevant and premium quality content is delivere...",
-      "descriptionTeaser_first200": "Are you a Property Lawyer within a top or mid-tier law firm or experience working as a specialist commercial property lawyer with an in-house team? Has your experience predominantly related to comm...",
-      "descriptionTeaser_keyword": "Are you a Property Lawyer within a top or mid-tier law firm or experience working as a specialist commercial property lawyer with an in-house team? Has your experience predominantly related to commerc...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 151.1915144,
-          "lat": -33.8664432
-        },
-        "location": "Pyrmont, New South Wales, Australia"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Pyrmont, New South Wales",
-    "country": "Australia",
-    "ml_skills": [
-      "visual journalism",
-      "photography",
-      "editing",
-      "multimedia",
-      "breaking news",
-      "news reporting",
-      "photojournalism",
-      "storytelling",
-      "reuters",
-      "judgment",
-      "climate change"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Ensure Reuters wins the biggest news stories and support the rich photojournalism of Wider Image storytelling in Australia. Willingness to travel to breaking news stories, often at short notice. Prove...",
-    "state": "New South Wales",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "151.1915144",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ183268",
-    "jobId": "JREQ183268",
-    "city": "Pyrmont",
-    "latitude": "-33.8664432",
-    "locale": "en_US",
-    "multi_location": [
-      "Pyrmont, New South Wales, Australia"
-    ],
-    "title": "Visual Journalist, Australia",
-    "jobSeqNo": "THTTRUUSJREQ183268EXTERNALENUS",
-    "postedDate": "2024-11-21T00:00:00.000+0000",
-    "dateCreated": "2024-10-09T04:39:32.917+0000",
-    "cityStateCountry": "Pyrmont, New South Wales, Australia",
-    "address": "19 Harris Street, Pyrmont NSW 2009, Australia",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/AUS-Pyrmont-19-Harris-St/Visual-Journalist--Australia_JREQ183268/apply",
-    "location": "Pyrmont, New South Wales, Australia",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Ensure Reuters wins the biggest news stories and support the rich photojournalism of Wider Image storytelling in Australia. Willingness to travel to breaking news stories, often at short notice. Prove...",
-      "descriptionTeaser_first200": "Reuters Pictures is looking for a dynamic and talented Visuals Journalist to report from Australia and be based in Sydney. We are looking for a team player and a self-starter with plenty of initiat...",
-      "descriptionTeaser_keyword": "Reuters Pictures is looking for a dynamic and talented Visuals Journalist to report from Australia and be based in Sydney. We are looking for a team player and a self-starter with plenty of initiative...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 151.1915144,
-          "lat": -33.8664432
-        },
-        "location": "Pyrmont, New South Wales, Australia"
       }
     ],
     "isMultiCategory": true,
@@ -423,6 +356,72 @@
           "lat": 38.9004793
         },
         "location": "Washington, District of Columbia, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Pyrmont, New South Wales",
+    "country": "Australia",
+    "ml_skills": [
+      "commercial leasing",
+      "property law",
+      "legal research",
+      "podcasts",
+      "communicate effectively",
+      "checklists"
+    ],
+    "remote": "Remote",
+    "type": "Full time",
+    "descriptionTeaser": "Meet with external customers, industry and sector experts to maintain and build a superior understanding of property law related developments to ensure relevant and premium quality content is delivere...",
+    "state": "New South Wales",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "151.1915144",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ184412",
+    "jobId": "JREQ184412",
+    "city": "Pyrmont",
+    "latitude": "-33.8664432",
+    "locale": "en_US",
+    "multi_location": [
+      "Pyrmont, New South Wales, Australia"
+    ],
+    "title": "Senior Lawyer Writer, Real Estate - 12 Month Contract",
+    "jobSeqNo": "THTTRUUSJREQ184412EXTERNALENUS",
+    "postedDate": "2024-11-21T00:00:00.000+0000",
+    "dateCreated": "2024-11-21T00:42:28.089+0000",
+    "cityStateCountry": "Pyrmont, New South Wales, Australia",
+    "address": "19 Harris Street, Pyrmont NSW 2009, Australia",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/AUS-Pyrmont-19-Harris-St/Senior-Lawyer-Writer--Real-Estate---12-Month-Contract_JREQ184412/apply",
+    "location": "Pyrmont, New South Wales, Australia",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Meet with external customers, industry and sector experts to maintain and build a superior understanding of property law related developments to ensure relevant and premium quality content is delivere...",
+      "descriptionTeaser_first200": "Are you a Property Lawyer within a top or mid-tier law firm or experience working as a specialist commercial property lawyer with an in-house team? Has your experience predominantly related to comm...",
+      "descriptionTeaser_keyword": "Are you a Property Lawyer within a top or mid-tier law firm or experience working as a specialist commercial property lawyer with an in-house team? Has your experience predominantly related to commerc...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 151.1915144,
+          "lat": -33.8664432
+        },
+        "location": "Pyrmont, New South Wales, Australia"
       }
     ],
     "isMultiCategory": true,
@@ -1173,76 +1172,6 @@
           "lat": 54.4004235
         },
         "location": "Gdansk, Poland"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Chicago, Illinois",
-    "country": "United States of America",
-    "ml_skills": [
-      "breaking news",
-      "publishing",
-      "multimedia",
-      "investigative",
-      "framing",
-      "reuters",
-      "investigative reporting",
-      "judgment",
-      "agricultural",
-      "agriculture"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "It will be your job to drive winning coverage of all the big stories in the sector- and how they fit into the global agriculture story\u2013 both in breaking news and through investigative work. Drive a te...",
-    "state": "Illinois",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-87.63723",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ183425",
-    "jobId": "JREQ183425",
-    "city": "Chicago",
-    "latitude": "41.87891930000001",
-    "locale": "en_US",
-    "multi_location": [
-      "Chicago, Illinois, United States of America"
-    ],
-    "title": "Chicago Bureau Chief",
-    "jobSeqNo": "THTTRUUSJREQ183425EXTERNALENUS",
-    "postedDate": "2024-11-14T00:00:00.000+0000",
-    "dateCreated": "2024-10-16T17:05:47.977+0000",
-    "cityStateCountry": "Chicago, Illinois, United States of America",
-    "address": "200 South Wacker Drive, 31st Floor, Chicago, IL 60606, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Chicago-200-South-Wacker-Dr/Chicago-Bureau-Chief_JREQ183425/apply",
-    "location": "Chicago, Illinois, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "It will be your job to drive winning coverage of all the big stories in the sector- and how they fit into the global agriculture story\u2013 both in breaking news and through investigative work. Drive a te...",
-      "descriptionTeaser_first200": "Reuters seeks an experienced editorial leader in Chicago to drive U.S. agriculture and wider coverage of the Midwest. This is a fascinating time for the region as a fall in corn, soy and wheat pric...",
-      "descriptionTeaser_keyword": "Reuters seeks an experienced editorial leader in Chicago to drive U. S. agriculture and wider coverage of the Midwest. This is a fascinating time for the region as a fall in corn, soy and wheat prices...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -87.63723,
-          "lat": 41.87891930000001
-        },
-        "location": "Chicago, Illinois, United States of America"
       }
     ],
     "isMultiCategory": true,
@@ -2665,67 +2594,6 @@
     "badge": ""
   },
   {
-    "cityState": "New York, New York",
-    "country": "United States of America",
-    "ml_skills": [
-      "multimedia"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "The successful applicant must be open to learning and have the ability to work collaboratively in a team. Reuters is the world\u2019s largest multimedia news provider. Join us and help shape the industries...",
-    "state": "New York",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-73.9866995",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ180932",
-    "jobId": "JREQ180932",
-    "city": "New York",
-    "latitude": "40.7566955",
-    "locale": "en_US",
-    "multi_location": [
-      "New York, New York, United States of America"
-    ],
-    "title": "Reuters Photojournalism Fellowship (Temp Guild)",
-    "jobSeqNo": "THTTRUUSJREQ180932EXTERNALENUS",
-    "postedDate": "2024-11-06T00:00:00.000+0000",
-    "dateCreated": "2024-08-19T16:38:12.427+0000",
-    "cityStateCountry": "New York, New York, United States of America",
-    "address": "3 Times Square, New York, NY 10036, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-New-York-3-Times-Square/Reuters-NABJ-Fellow_JREQ180932/apply",
-    "location": "New York, New York, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "The successful applicant must be open to learning and have the ability to work collaboratively in a team. Reuters is the world\u2019s largest multimedia news provider. Join us and help shape the industries...",
-      "descriptionTeaser_first200": "Reuters, the news and media division of Thomson Reuters, is the world\u2019s largest international multimedia news provider reaching more than one billion people every day. Reuters provides trusted bus...",
-      "descriptionTeaser_keyword": "Reuters, the news and media division of Thomson Reuters, is the world\u2019s largest international multimedia news provider reaching more than one billion people every day. Reuters provides trusted busines...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -73.9866995,
-          "lat": 40.7566955
-        },
-        "location": "New York, New York, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Beijing, Beijing",
     "country": "China",
     "ml_skills": [
@@ -2909,72 +2777,6 @@
           "lat": 1.2938815
         },
         "location": "Singapore, Singapore"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Hyderabad, Telangana",
-    "country": "India",
-    "ml_skills": [
-      "quality assurance",
-      "testing process",
-      "html",
-      "xml",
-      "tax preparation",
-      "tax software"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Independently, the candidate must be able to analyze and resolve complex tax software problems, document software deficiencies and understand the business/customer requirements. Evaluate design, speci...",
-    "state": "Telangana",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "78.3847282",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ182769",
-    "jobId": "JREQ182769",
-    "city": "Hyderabad",
-    "latitude": "17.438325",
-    "locale": "en_US",
-    "multi_location": [
-      "Hyderabad, Telangana, India"
-    ],
-    "title": "Associate QA & E-File Analyst (1040 and 1041 Tax Forms)",
-    "jobSeqNo": "THTTRUUSJREQ182769EXTERNALENUS",
-    "postedDate": "2024-11-01T00:00:00.000+0000",
-    "dateCreated": "2024-11-01T08:47:29.845+0000",
-    "cityStateCountry": "Hyderabad, Telangana, India",
-    "address": "Floor 12, 13 & 14, Building 11, Raheja Mindspace, Madhapur, Hyderabad- 500081, Telangana, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Hyderabad-Raheja-Mindspace/Associate-QA---E-File-Analyst--1040-and-1041-Tax-Forms-_JREQ182769-1/apply",
-    "location": "Hyderabad, Telangana, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Independently, the candidate must be able to analyze and resolve complex tax software problems, document software deficiencies and understand the business/customer requirements. Evaluate design, speci...",
-      "descriptionTeaser_first200": "Independently, the candidate must be able to analyze and resolve complex tax software problems, document software deficiencies and understand the business/customer requirements. About the Role. Pr...",
-      "descriptionTeaser_keyword": "Independently, the candidate must be able to analyze and resolve complex tax software problems, document software deficiencies and understand the business/customer requirements. About the Role. Provid...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 78.3847282,
-          "lat": 17.438325
-        },
-        "location": "Hyderabad, Telangana, India"
       }
     ],
     "isMultiCategory": true,
@@ -3509,70 +3311,6 @@
           "lat": 19.0579879
         },
         "location": "Mumbai, Maharashtra, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Pyrmont, New South Wales",
-    "country": "Australia",
-    "ml_skills": [
-      "editor",
-      "practical",
-      "quotations",
-      "can"
-    ],
-    "remote": "Remote",
-    "type": "Full time",
-    "descriptionTeaser": "As a Lawyer Editor you will form part of our Central Editorial team and will work in conjunction with more experienced colleagues to interpret and explain legal, practice and market developments to ou...",
-    "state": "New South Wales",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "151.1915144",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ182957",
-    "jobId": "JREQ182957",
-    "city": "Pyrmont",
-    "latitude": "-33.8664432",
-    "locale": "en_US",
-    "multi_location": [
-      "Pyrmont, New South Wales, Australia"
-    ],
-    "title": "Lawyer Editor",
-    "jobSeqNo": "THTTRUUSJREQ182957EXTERNALENUS",
-    "postedDate": "2024-10-23T00:00:00.000+0000",
-    "dateCreated": "2024-10-23T08:49:25.860+0000",
-    "cityStateCountry": "Pyrmont, New South Wales, Australia",
-    "address": "19 Harris Street, Pyrmont NSW 2009, Australia",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/AUS-Pyrmont-19-Harris-St/Lawyer-Editor_JREQ182957-1/apply",
-    "location": "Pyrmont, New South Wales, Australia",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "As a Lawyer Editor you will form part of our Central Editorial team and will work in conjunction with more experienced colleagues to interpret and explain legal, practice and market developments to ou...",
-      "descriptionTeaser_first200": "Are you qualified as a Lawyer in Australia and keen to use your writing skills in publishing? Practical Law Australia is growing and we are searching for a Lawyer Editor to join a supportive team....",
-      "descriptionTeaser_keyword": "Are you qualified as a Lawyer in Australia and keen to use your writing skills in publishing? Practical Law Australia is growing and we are searching for a Lawyer Editor to join a supportive team. As...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 151.1915144,
-          "lat": -33.8664432
-        },
-        "location": "Pyrmont, New South Wales, Australia"
       }
     ],
     "isMultiCategory": true,
