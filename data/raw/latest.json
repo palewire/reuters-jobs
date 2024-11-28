@@ -131,6 +131,67 @@
     "badge": ""
   },
   {
+    "cityState": "London",
+    "country": "United Kingdom",
+    "ml_skills": [
+      "publishing"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Associate Editors work in conjunction with more experienced colleagues to interpret and explain legal, practice and market developments to our customers through online content. With support and superv...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.0185088",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ185114",
+    "jobId": "JREQ185114",
+    "city": "London",
+    "latitude": "51.5056439",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom"
+    ],
+    "title": "Associate Editor, Practical Law",
+    "jobSeqNo": "THTTRUUSJREQ185114EXTERNALENUS",
+    "postedDate": "2024-11-28T00:00:00.000+0000",
+    "dateCreated": "2024-11-28T12:43:21.148+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Associate-Editor--Practical-Law_JREQ185114/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Associate Editors work in conjunction with more experienced colleagues to interpret and explain legal, practice and market developments to our customers through online content. With support and superv...",
+      "descriptionTeaser_first200": "We are looking for an Associate Editor to join us in London. Associate Editors work in conjunction with more experienced colleagues to interpret and explain legal, practice and market developments...",
+      "descriptionTeaser_keyword": "We are looking for an Associate Editor to join us in London. Associate Editors work in conjunction with more experienced colleagues to interpret and explain legal, practice and market developments to...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.0185088,
+          "lat": 51.5056439
+        },
+        "location": "London, United Kingdom"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Paris",
     "country": "France",
     "ml_skills": [
