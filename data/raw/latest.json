@@ -1,5 +1,77 @@
 [
   {
+    "cityState": "Tokyo",
+    "country": "Japan",
+    "ml_skills": [
+      "breaking news",
+      "visual storytelling",
+      "video editing",
+      "visual journalism",
+      "photographers",
+      "film",
+      "multimedia",
+      "japanese",
+      "english language",
+      "collaborate",
+      "shifting priorities",
+      "coordinate"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Reuters is looking for a Visuals Journalist (Video) with strong news judgment to join our Tokyo newsroom. This role offers a unique opportunity to contribute to Reuters' global news coverage, leveragi...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "139.7488929",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ185540",
+    "jobId": "JREQ185540",
+    "city": "Tokyo",
+    "latitude": "35.6621409",
+    "locale": "en_US",
+    "multi_location": [
+      "Tokyo, Japan"
+    ],
+    "title": "Visual Journalist, Japan",
+    "jobSeqNo": "THTTRUUSJREQ185540EXTERNALENUS",
+    "postedDate": "2024-12-17T00:00:00.000+0000",
+    "dateCreated": "2024-12-16T12:46:37.574+0000",
+    "cityStateCountry": "Tokyo, Japan",
+    "address": "10F Atago Green Hills Mori Tower, 2-5-1 Atago, Minato-ku, Tokyo, 105-6210, Japan",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/JPN-Tokyo-Atago-Green-Hills/Visual-Journalist--Japan_JREQ185540/apply",
+    "location": "Tokyo, Japan",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Reuters is looking for a Visuals Journalist (Video) with strong news judgment to join our Tokyo newsroom. This role offers a unique opportunity to contribute to Reuters' global news coverage, leveragi...",
+      "descriptionTeaser_first200": "Visual Journalist, Japan. Reuters is looking for a Visuals Journalist (Video) with strong news judgment to join our Tokyo newsroom. We're seeking an experienced journalist with a passion for visua...",
+      "descriptionTeaser_keyword": "Visual Journalist, Japan. Reuters is looking for a Visuals Journalist (Video) with strong news judgment to join our Tokyo newsroom. We're seeking an experienced journalist with a passion for visual st...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 139.7488929,
+          "lat": 35.6621409
+        },
+        "location": "Tokyo, Japan"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Pyrmont, New South Wales",
     "country": "Australia",
     "ml_skills": [
@@ -53,78 +125,6 @@
           "lat": -33.8664432
         },
         "location": "Pyrmont, New South Wales, Australia"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Tokyo",
-    "country": "Japan",
-    "ml_skills": [
-      "breaking news",
-      "visual storytelling",
-      "video editing",
-      "visual journalism",
-      "photographers",
-      "film",
-      "multimedia",
-      "japanese",
-      "english language",
-      "collaborate",
-      "shifting priorities",
-      "coordinate"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Reuters is looking for a Visuals Journalist (Video) with strong news judgment to join our Tokyo newsroom. This role offers a unique opportunity to contribute to Reuters' global news coverage, leveragi...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "139.7488929",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ185540",
-    "jobId": "JREQ185540",
-    "city": "Tokyo",
-    "latitude": "35.6621409",
-    "locale": "en_US",
-    "multi_location": [
-      "Tokyo, Japan"
-    ],
-    "title": "Visual Journalist, Japan",
-    "jobSeqNo": "THTTRUUSJREQ185540EXTERNALENUS",
-    "postedDate": "2024-12-16T00:00:00.000+0000",
-    "dateCreated": "2024-12-16T12:46:37.574+0000",
-    "cityStateCountry": "Tokyo, Japan",
-    "address": "10F Atago Green Hills Mori Tower, 2-5-1 Atago, Minato-ku, Tokyo, 105-6210, Japan",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/JPN-Tokyo-Atago-Green-Hills/Visual-Journalist--Japan_JREQ185540/apply",
-    "location": "Tokyo, Japan",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Reuters is looking for a Visuals Journalist (Video) with strong news judgment to join our Tokyo newsroom. This role offers a unique opportunity to contribute to Reuters' global news coverage, leveragi...",
-      "descriptionTeaser_first200": "Visual Journalist, Japan. Reuters is looking for a Visuals Journalist (Video) with strong news judgment to join our Tokyo newsroom. We're seeking an experienced journalist with a passion for visua...",
-      "descriptionTeaser_keyword": "Visual Journalist, Japan. Reuters is looking for a Visuals Journalist (Video) with strong news judgment to join our Tokyo newsroom. We're seeking an experienced journalist with a passion for visual st...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 139.7488929,
-          "lat": 35.6621409
-        },
-        "location": "Tokyo, Japan"
       }
     ],
     "isMultiCategory": true,
