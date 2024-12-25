@@ -1,5 +1,79 @@
 [
   {
+    "cityState": "Frisco, Texas",
+    "country": "United States of America",
+    "ml_skills": [
+      "tax research",
+      "corporate tax",
+      "commerce",
+      "online research",
+      "microsoft excel",
+      "risk",
+      "develop",
+      "product management",
+      "accuracy",
+      "westlaw",
+      "checkpoint",
+      "computer science",
+      "configuration",
+      "information systems"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Superior written and verbal communication skills, including the ability to write white papers on tax and/or technical subjects. Our industry-leading products and services include highly specialized in...",
+    "state": "Texas",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-96.833545",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ184706",
+    "jobId": "JREQ184706",
+    "city": "Frisco",
+    "latitude": "33.1073049",
+    "locale": "en_US",
+    "multi_location": [
+      "Frisco, Texas, United States of America"
+    ],
+    "title": "Senior Tax Analyst",
+    "jobSeqNo": "THTTRUUSJREQ184706EXTERNALENUS",
+    "postedDate": "2024-12-24T00:00:00.000+0000",
+    "dateCreated": "2024-11-06T21:14:50.555+0000",
+    "cityStateCountry": "Frisco, Texas, United States of America",
+    "address": "6160 Warren Parkway, Frisco, TX 75034, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Frisco-6160-Warren-Parkway/Senior-Tax-Analyst_JREQ184706/apply",
+    "location": "Frisco, Texas, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Superior written and verbal communication skills, including the ability to write white papers on tax and/or technical subjects. Our industry-leading products and services include highly specialized in...",
+      "descriptionTeaser_first200": "Summary. Thomson Reuters provides professionals with the intelligence, technology, and human expertise they need to find trusted answers. We enable professionals in the financial and risk, legal, t...",
+      "descriptionTeaser_keyword": "Summary. Thomson Reuters provides professionals with the intelligence, technology, and human expertise they need to find trusted answers. We enable professionals in the financial and risk, legal, tax...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -96.833545,
+          "lat": 33.1073049
+        },
+        "location": "Frisco, Texas, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Eagan, Minnesota",
     "country": "United States of America",
     "ml_skills": [
@@ -1575,76 +1649,6 @@
           "lat": 38.9004793
         },
         "location": "Washington, District of Columbia, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Frisco, Texas",
-    "country": "United States of America",
-    "ml_skills": [
-      "tax preparation",
-      "tax law",
-      "developing",
-      "develop",
-      "accuracy",
-      "coordinate",
-      "technical assistance",
-      "client support",
-      "quality",
-      "technical implementation"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Depending on the nature of the project undertakes a combination of technical implementation and testing analyst tasks to understand customer and/or product needs in the context of internal & external...",
-    "state": "Texas",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-96.833545",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ184979",
-    "jobId": "JREQ184979",
-    "city": "Frisco",
-    "latitude": "33.1073049",
-    "locale": "en_US",
-    "multi_location": [
-      "Frisco, Texas, United States of America"
-    ],
-    "title": "Tax Analyst",
-    "jobSeqNo": "THTTRUUSJREQ184979EXTERNALENUS",
-    "postedDate": "2024-12-13T00:00:00.000+0000",
-    "dateCreated": "2024-11-13T16:48:47.309+0000",
-    "cityStateCountry": "Frisco, Texas, United States of America",
-    "address": "6160 Warren Parkway, Frisco, TX 75034, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Frisco-6160-Warren-Parkway/Tax-Analyst_JREQ184979/apply",
-    "location": "Frisco, Texas, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Depending on the nature of the project undertakes a combination of technical implementation and testing analyst tasks to understand customer and/or product needs in the context of internal & external...",
-      "descriptionTeaser_first200": "Summary. You will participate in designing, developing, and testing our GoSystem Tax using in-house development tools. In this role, you will collect, analyze, and prioritize requirements from var...",
-      "descriptionTeaser_keyword": "Summary. You will participate in designing, developing, and testing our GoSystem Tax using in-house development tools. In this role, you will collect, analyze, and prioritize requirements from various...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -96.833545,
-          "lat": 33.1073049
-        },
-        "location": "Frisco, Texas, United States of America"
       }
     ],
     "isMultiCategory": true,
