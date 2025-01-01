@@ -1611,12 +1611,12 @@
         },
         "types-pytz": {
             "hashes": [
-                "sha256:6810c8a1f68f21fdf0f4f374a432487c77645a0ac0b31de4bf4690cf21ad3981",
-                "sha256:8335d443310e2db7b74e007414e74c4f53b67452c0cb0d228ca359ccfba59659"
+                "sha256:06d7cde9613e9f7504766a0554a270c369434b50e00975b3a4a0f6eed0f2c1a9",
+                "sha256:8fc03195329c43637ed4f593663df721fef919b60a969066e22606edf0b53ad5"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.8'",
-            "version": "==2024.1.0.20240417"
+            "version": "==2024.2.0.20241221"
         },
         "types-requests": {
             "hashes": [
