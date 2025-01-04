@@ -77,6 +77,77 @@
     "badge": ""
   },
   {
+    "cityState": "Mexico City",
+    "country": "Mexico",
+    "ml_skills": [
+      "income tax",
+      "tax software",
+      "tax preparation",
+      "tax law",
+      "monitoring",
+      "develop",
+      "filing",
+      "checkpoint",
+      "proactive approach",
+      "technical implementation",
+      "collaborate"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "You'll analyze requirements from tax authorities and internal sources to implement changes in our software. Communicate with other internal teams to stay abreast of tax law changes per jurisdiction. I...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-99.1510899",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ186381",
+    "jobId": "JREQ186381",
+    "city": "Mexico City",
+    "latitude": "19.4343664",
+    "locale": "en_US",
+    "multi_location": [
+      "Mexico City, Mexico"
+    ],
+    "title": "US Tax Accountant",
+    "jobSeqNo": "THTTRUUSJREQ186381EXTERNALENUS",
+    "postedDate": "2025-01-02T00:00:00.000+0000",
+    "dateCreated": "2025-01-03T01:01:39.099+0000",
+    "cityStateCountry": "Mexico City, Mexico",
+    "address": "Av. Paseo de la Reforma #26, Floor 36th, Colonia Ju\u00e1rez, Cuauht\u00e9moc, 06600 Mexico City, Mexico",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/MEX-Distrito-Federal-Reforma-26/US-Tax-Accountant_JREQ186381/apply",
+    "location": "Mexico City, Mexico",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "You'll analyze requirements from tax authorities and internal sources to implement changes in our software. Communicate with other internal teams to stay abreast of tax law changes per jurisdiction. I...",
+      "descriptionTeaser_first200": "US Tax Accountant. Are you passionate about the chance to bring your experience to a world-class company that is market-leading for both content and technology? If yes, we are looking for you! Join...",
+      "descriptionTeaser_keyword": "US Tax Accountant. Are you passionate about the chance to bring your experience to a world-class company that is market-leading for both content and technology? If yes, we are looking for you! Join ou...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -99.1510899,
+          "lat": 19.4343664
+        },
+        "location": "Mexico City, Mexico"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Singapore",
     "country": "Singapore",
     "ml_skills": [
@@ -201,77 +272,6 @@
           "lat": 1.2938815
         },
         "location": "Singapore, Singapore"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Mexico City",
-    "country": "Mexico",
-    "ml_skills": [
-      "income tax",
-      "tax software",
-      "tax preparation",
-      "tax law",
-      "monitoring",
-      "develop",
-      "filing",
-      "checkpoint",
-      "proactive approach",
-      "technical implementation",
-      "collaborate"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "You'll analyze requirements from tax authorities and internal sources to implement changes in our software. Communicate with other internal teams to stay abreast of tax law changes per jurisdiction. I...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-99.1510899",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ186381",
-    "jobId": "JREQ186381",
-    "city": "Mexico City",
-    "latitude": "19.4343664",
-    "locale": "en_US",
-    "multi_location": [
-      "Mexico City, Mexico"
-    ],
-    "title": "US Tax Accountant",
-    "jobSeqNo": "THTTRUUSJREQ186381EXTERNALENUS",
-    "postedDate": "2025-01-02T00:00:00.000+0000",
-    "dateCreated": "2025-01-03T01:01:39.099+0000",
-    "cityStateCountry": "Mexico City, Mexico",
-    "address": "Av. Paseo de la Reforma #26, Floor 36th, Colonia Ju\u00e1rez, Cuauht\u00e9moc, 06600 Mexico City, Mexico",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/MEX-Distrito-Federal-Reforma-26/US-Tax-Accountant_JREQ186381/apply",
-    "location": "Mexico City, Mexico",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "You'll analyze requirements from tax authorities and internal sources to implement changes in our software. Communicate with other internal teams to stay abreast of tax law changes per jurisdiction. I...",
-      "descriptionTeaser_first200": "US Tax Accountant. Are you passionate about the chance to bring your experience to a world-class company that is market-leading for both content and technology? If yes, we are looking for you! Join...",
-      "descriptionTeaser_keyword": "US Tax Accountant. Are you passionate about the chance to bring your experience to a world-class company that is market-leading for both content and technology? If yes, we are looking for you! Join ou...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -99.1510899,
-          "lat": 19.4343664
-        },
-        "location": "Mexico City, Mexico"
       }
     ],
     "isMultiCategory": true,
