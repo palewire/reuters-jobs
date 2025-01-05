@@ -5,6 +5,7 @@
     "ml_skills": [
       "technical writing",
       "technical documentation",
+      "commerce",
       "proofreading",
       "engaging",
       "collaborate",
@@ -15,6 +16,7 @@
       "accuracy",
       "project management",
       "develop",
+      "repositories",
       "high-quality documentation",
       "openapi",
       "release management"
@@ -51,7 +53,7 @@
     "category": "News & Editorial Careers",
     "ml_job_parser": {
       "descriptionTeaser": "This role requires excellent communication, writing, and project management skills to produce high-quality documentation that supports our core product. Work with Commercial and Marketing teams to dev...",
-      "descriptionTeaser_first200": "We are seeking an experienced and meticulous Technical Writer to join our team. The successful candidate will be responsible for creating, maintaining, and enhancing our technical documentation to ...",
+      "descriptionTeaser_first200": "We are seeking an experienced and meticulous Technical Writer to join our team. The successful candidate will be responsible for creating, maintaining, and enhancing our technical documentation to...",
       "descriptionTeaser_keyword": "We are seeking an experienced and meticulous Technical Writer to join our team. The successful candidate will be responsible for creating, maintaining, and enhancing our technical documentation to ens...",
       "descriptionTeaser_ats": ""
     },
@@ -1139,155 +1141,6 @@
     "badge": ""
   },
   {
-    "cityState": "Frisco, Texas",
-    "country": "United States of America",
-    "ml_skills": [
-      "commerce",
-      "content delivery",
-      "collaborate",
-      "analytical skills",
-      "technical expertise",
-      "prioritize tasks",
-      "curiosity",
-      "provide feedback",
-      "actionable insights",
-      "quality",
-      "ai",
-      "artificial intelligence",
-      "technology solutions",
-      "agile environment",
-      "strategic programs",
-      "advising clients",
-      "ai solutions"
-    ],
-    "remote": "Remote",
-    "type": "Full time",
-    "descriptionTeaser": "Provide subject matter expertise, including in the testing and validation of technology solutions for tax advisory. Our industry-leading products and services include highly specialized information-en...",
-    "state": "Texas",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-96.833545",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ186123",
-    "jobId": "JREQ186123",
-    "city": "Frisco",
-    "latitude": "33.1073049",
-    "locale": "en_US",
-    "multi_location": [
-      "Frisco, Texas, United States of America",
-      "Denver, Colorado, United States of America",
-      "Hartford, Connecticut, United States of America",
-      "Las Vegas, Nevada, United States of America",
-      "Los Angeles, California, United States of America",
-      "Seattle, Washington, United States of America",
-      "Ann Arbor, Michigan, United States of America",
-      "Eagan, Minnesota, United States of America",
-      "New York, New York, United States of America",
-      "Washington, DC, District of Columbia, United States of America"
-    ],
-    "title": "Tax Editor (Remote)",
-    "jobSeqNo": "THTTRUUSJREQ186123EXTERNALENUS",
-    "postedDate": "2024-12-18T00:00:00.000+0000",
-    "dateCreated": "2024-12-18T16:47:00.489+0000",
-    "cityStateCountry": "Frisco, Texas, United States of America",
-    "address": "6160 Warren Parkway, Frisco, TX 75034, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Frisco-6160-Warren-Parkway/Tax-Editor--Remote-_JREQ186123/apply",
-    "location": "Frisco, Texas, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Provide subject matter expertise, including in the testing and validation of technology solutions for tax advisory. Our industry-leading products and services include highly specialized information-en...",
-      "descriptionTeaser_first200": "Tax Editor . Role Summary. We are seeking a passionate tax professional who thrives on the complexity and intricacy of tax advisory work. The ideal candidate is a lifelong learner with an insatiabl...",
-      "descriptionTeaser_keyword": "Tax Editor. Role Summary. We are seeking a passionate tax professional who thrives on the complexity and intricacy of tax advisory work. The ideal candidate is a lifelong learner with an insatiable cu...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -96.833545,
-          "lat": 33.1073049
-        },
-        "location": "Frisco, Texas, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -104.9904855,
-          "lat": 39.7471139
-        },
-        "location": "Denver, Colorado, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -72.6622361,
-          "lat": 41.7899681
-        },
-        "location": "Hartford, Connecticut, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -115.14,
-          "lat": 36.18
-        },
-        "location": "Las Vegas, Nevada, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -118.2543447,
-          "lat": 34.0511145
-        },
-        "location": "Los Angeles, California, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -122.336407,
-          "lat": 47.6084921
-        },
-        "location": "Seattle, Washington, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -83.7267835,
-          "lat": 42.1957259
-        },
-        "location": "Ann Arbor, Michigan, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -93.10808019999999,
-          "lat": 44.8527611
-        },
-        "location": "Eagan, Minnesota, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -73.9866995,
-          "lat": 40.7566955
-        },
-        "location": "New York, New York, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -77.0190228,
-          "lat": 38.912068
-        },
-        "location": "Washington, DC, District of Columbia, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Eagan, Minnesota",
     "country": "United States of America",
     "ml_skills": [
@@ -1417,6 +1270,155 @@
           "lat": 33.1073049
         },
         "location": "Frisco, Texas, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -73.9866995,
+          "lat": 40.7566955
+        },
+        "location": "New York, New York, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -77.0190228,
+          "lat": 38.912068
+        },
+        "location": "Washington, DC, District of Columbia, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Frisco, Texas",
+    "country": "United States of America",
+    "ml_skills": [
+      "commerce",
+      "content delivery",
+      "collaborate",
+      "analytical skills",
+      "technical expertise",
+      "prioritize tasks",
+      "curiosity",
+      "provide feedback",
+      "actionable insights",
+      "quality",
+      "ai",
+      "artificial intelligence",
+      "technology solutions",
+      "agile environment",
+      "strategic programs",
+      "advising clients",
+      "ai solutions"
+    ],
+    "remote": "Remote",
+    "type": "Full time",
+    "descriptionTeaser": "Provide subject matter expertise, including in the testing and validation of technology solutions for tax advisory. Our industry-leading products and services include highly specialized information-en...",
+    "state": "Texas",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-96.833545",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ186123",
+    "jobId": "JREQ186123",
+    "city": "Frisco",
+    "latitude": "33.1073049",
+    "locale": "en_US",
+    "multi_location": [
+      "Frisco, Texas, United States of America",
+      "Denver, Colorado, United States of America",
+      "Hartford, Connecticut, United States of America",
+      "Las Vegas, Nevada, United States of America",
+      "Los Angeles, California, United States of America",
+      "Seattle, Washington, United States of America",
+      "Ann Arbor, Michigan, United States of America",
+      "Eagan, Minnesota, United States of America",
+      "New York, New York, United States of America",
+      "Washington, DC, District of Columbia, United States of America"
+    ],
+    "title": "Tax Editor (Remote)",
+    "jobSeqNo": "THTTRUUSJREQ186123EXTERNALENUS",
+    "postedDate": "2024-12-18T00:00:00.000+0000",
+    "dateCreated": "2024-12-18T16:47:00.489+0000",
+    "cityStateCountry": "Frisco, Texas, United States of America",
+    "address": "6160 Warren Parkway, Frisco, TX 75034, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Frisco-6160-Warren-Parkway/Tax-Editor--Remote-_JREQ186123/apply",
+    "location": "Frisco, Texas, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Provide subject matter expertise, including in the testing and validation of technology solutions for tax advisory. Our industry-leading products and services include highly specialized information-en...",
+      "descriptionTeaser_first200": "Tax Editor . Role Summary. We are seeking a passionate tax professional who thrives on the complexity and intricacy of tax advisory work. The ideal candidate is a lifelong learner with an insatiabl...",
+      "descriptionTeaser_keyword": "Tax Editor. Role Summary. We are seeking a passionate tax professional who thrives on the complexity and intricacy of tax advisory work. The ideal candidate is a lifelong learner with an insatiable cu...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -96.833545,
+          "lat": 33.1073049
+        },
+        "location": "Frisco, Texas, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -104.9904855,
+          "lat": 39.7471139
+        },
+        "location": "Denver, Colorado, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -72.6622361,
+          "lat": 41.7899681
+        },
+        "location": "Hartford, Connecticut, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -115.14,
+          "lat": 36.18
+        },
+        "location": "Las Vegas, Nevada, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -118.2543447,
+          "lat": 34.0511145
+        },
+        "location": "Los Angeles, California, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -122.336407,
+          "lat": 47.6084921
+        },
+        "location": "Seattle, Washington, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -83.7267835,
+          "lat": 42.1957259
+        },
+        "location": "Ann Arbor, Michigan, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -93.10808019999999,
+          "lat": 44.8527611
+        },
+        "location": "Eagan, Minnesota, United States of America"
       },
       {
         "latlong": {
@@ -4043,71 +4045,6 @@
       "descriptionTeaser": "The successful candidate will join the VAT team responsible for the analyzing, researching, interpreting and documenting laws and regulations, extensive researching and analyzing of product exemptions...",
       "descriptionTeaser_first200": "We welcome applications to our full-time vacancies from all citizens who have been granted protection within the territory of the Republic of Poland under the EU Temporary Protection Directive*. Do...",
       "descriptionTeaser_keyword": "We welcome applications to our full-time vacancies from all citizens who have been granted protection within the territory of the Republic of Poland under the EU Temporary Protection Directive*. Do yo...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 18.5752702,
-          "lat": 54.4004235
-        },
-        "location": "Gdansk, Poland"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Gdansk",
-    "country": "Poland",
-    "ml_skills": [
-      "short stories",
-      "multimedia",
-      "german",
-      "reuters",
-      "high standards"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Reuters is seeking a graduate who can speak fluent English and advanced German to join its real-time news operation in Gdansk, Poland. Write headlines and news summaries accurately, quickly and with h...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "18.5752702",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ183452",
-    "jobId": "JREQ183452",
-    "city": "Gdansk",
-    "latitude": "54.4004235",
-    "locale": "en_US",
-    "multi_location": [
-      "Gdansk, Poland"
-    ],
-    "title": "News Reporter, Reuters (German speaking)",
-    "jobSeqNo": "THTTRUUSJREQ183452EXTERNALENUS",
-    "postedDate": "2024-11-14T00:00:00.000+0000",
-    "dateCreated": "2024-10-18T08:40:04.556+0000",
-    "cityStateCountry": "Gdansk, Poland",
-    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/News-Reporter--Reuters--German-speaking-_JREQ183452/apply",
-    "location": "Gdansk, Poland",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Reuters is seeking a graduate who can speak fluent English and advanced German to join its real-time news operation in Gdansk, Poland. Write headlines and news summaries accurately, quickly and with h...",
-      "descriptionTeaser_first200": "Reuters is seeking a graduate who can speak fluent English and advanced German to join its real-time news operation in Gdansk, Poland. The reporter will work in fast-paced, international environmen...",
-      "descriptionTeaser_keyword": "Reuters is seeking a graduate who can speak fluent English and advanced German to join its real-time news operation in Gdansk, Poland. The reporter will work in fast-paced, international environment a...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
