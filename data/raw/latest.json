@@ -69,6 +69,144 @@
     "badge": ""
   },
   {
+    "cityState": "Gdansk",
+    "country": "Poland",
+    "ml_skills": [
+      "tax research",
+      "online research",
+      "microsoft excel",
+      "database",
+      "ukrainian",
+      "publications",
+      "microsoft office package",
+      "microsoft office",
+      "data systems"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "The successful candidate will join the VAT team responsible for the analyzing, researching, interpreting and documenting laws and regulations, extensive researching and analyzing of product exemptions...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "18.5752702",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ184633",
+    "jobId": "JREQ184633",
+    "city": "Gdansk",
+    "latitude": "54.4004235",
+    "locale": "en_US",
+    "multi_location": [
+      "Gdansk, Poland"
+    ],
+    "title": "Tax Associate",
+    "jobSeqNo": "THTTRUUSJREQ184633EXTERNALENUS",
+    "postedDate": "2025-01-08T00:00:00.000+0000",
+    "dateCreated": "2024-11-14T12:49:35.734+0000",
+    "cityStateCountry": "Gdansk, Poland",
+    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/Tax-Associate_JREQ184633/apply",
+    "location": "Gdansk, Poland",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "The successful candidate will join the VAT team responsible for the analyzing, researching, interpreting and documenting laws and regulations, extensive researching and analyzing of product exemptions...",
+      "descriptionTeaser_first200": "We welcome applications to our full-time vacancies from all citizens who have been granted protection within the territory of the Republic of Poland under the EU Temporary Protection Directive*. Do...",
+      "descriptionTeaser_keyword": "We welcome applications to our full-time vacancies from all citizens who have been granted protection within the territory of the Republic of Poland under the EU Temporary Protection Directive*. Do yo...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 18.5752702,
+          "lat": 54.4004235
+        },
+        "location": "Gdansk, Poland"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "London",
+    "country": "United Kingdom",
+    "ml_skills": [
+      "journalism",
+      "youtube",
+      "content strategy",
+      "video editing",
+      "multimedia",
+      "community",
+      "build",
+      "engagement",
+      "actionable insights"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Create and implement a comprehensive strategy to grow our YouTube presence, ensuring alignment with overall brand goals and content priorities. Work across teams to ensure content is tailored to YouTu...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.0185088",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ186306",
+    "jobId": "JREQ186306",
+    "city": "London",
+    "latitude": "51.5056439",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom"
+    ],
+    "title": "Social Media Editor",
+    "jobSeqNo": "THTTRUUSJREQ186306EXTERNALENUS",
+    "postedDate": "2025-01-08T00:00:00.000+0000",
+    "dateCreated": "2025-01-08T16:40:02.482+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Social-Media-Editor_JREQ186306/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Create and implement a comprehensive strategy to grow our YouTube presence, ensuring alignment with overall brand goals and content priorities. Work across teams to ensure content is tailored to YouTu...",
+      "descriptionTeaser_first200": "Reuters seeks an experienced digital editor for the social-media team to help lead coverage on our various platforms with a focus on YouTube. This person will be responsible for setting and leading...",
+      "descriptionTeaser_keyword": "Reuters seeks an experienced digital editor for the social-media team to help lead coverage on our various platforms with a focus on YouTube. This person will be responsible for setting and leading th...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.0185088,
+          "lat": 51.5056439
+        },
+        "location": "London, United Kingdom"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Mexico City",
     "country": "Mexico",
     "ml_skills": [
@@ -2545,72 +2683,6 @@
     "badge": ""
   },
   {
-    "cityState": "Washington, District of Columbia",
-    "country": "United States of America",
-    "ml_skills": [
-      "federal law",
-      "breaking news",
-      "build",
-      "pivot",
-      "develop",
-      "multimedia"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "We are looking for candidates who already have strong sources inside and outside of federal and local law enforcement agencies and a record of producing exclusive and enterprising stories. Develop sou...",
-    "state": "District of Columbia",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-77.0311952",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ184965",
-    "jobId": "JREQ184965",
-    "city": "Washington",
-    "latitude": "38.9004793",
-    "locale": "en_US",
-    "multi_location": [
-      "Washington, District of Columbia, United States of America"
-    ],
-    "title": "U.S. Intelligence & Law Enforcement Correspondent",
-    "jobSeqNo": "THTTRUUSJREQ184965EXTERNALENUS",
-    "postedDate": "2024-12-13T00:00:00.000+0000",
-    "dateCreated": "2024-11-15T20:45:05.694+0000",
-    "cityStateCountry": "Washington, District of Columbia, United States of America",
-    "address": "1333 H Street NW, Suite 500, Washington, DC 20005, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Washington-1333-H-Street-N/US-Intelligence---Law-Enforcement-Correspondent_JREQ184965/apply",
-    "location": "Washington, District of Columbia, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "We are looking for candidates who already have strong sources inside and outside of federal and local law enforcement agencies and a record of producing exclusive and enterprising stories. Develop sou...",
-      "descriptionTeaser_first200": "Reuters is looking for a reporter to cover U.S. law enforcement and domestic security, particularly the FBI and other federal law enforcement agencies to be based in our Washington, DC bureau. Thi...",
-      "descriptionTeaser_keyword": "Reuters is looking for a reporter to cover U. S. law enforcement and domestic security, particularly the FBI and other federal law enforcement agencies to be based in our Washington, DC bureau. This r...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -77.0311952,
-          "lat": 38.9004793
-        },
-        "location": "Washington, District of Columbia, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "London",
     "country": "United Kingdom",
     "ml_skills": [
@@ -4315,75 +4387,6 @@
           "lat": 17.438325
         },
         "location": "Hyderabad, Telangana, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Gdansk",
-    "country": "Poland",
-    "ml_skills": [
-      "tax research",
-      "online research",
-      "microsoft excel",
-      "database",
-      "ukrainian",
-      "publications",
-      "microsoft office package",
-      "microsoft office",
-      "data systems"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "The successful candidate will join the VAT team responsible for the analyzing, researching, interpreting and documenting laws and regulations, extensive researching and analyzing of product exemptions...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "18.5752702",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ184633",
-    "jobId": "JREQ184633",
-    "city": "Gdansk",
-    "latitude": "54.4004235",
-    "locale": "en_US",
-    "multi_location": [
-      "Gdansk, Poland"
-    ],
-    "title": "Tax Associate",
-    "jobSeqNo": "THTTRUUSJREQ184633EXTERNALENUS",
-    "postedDate": "2024-11-14T00:00:00.000+0000",
-    "dateCreated": "2024-11-14T12:49:35.734+0000",
-    "cityStateCountry": "Gdansk, Poland",
-    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/Tax-Associate_JREQ184633/apply",
-    "location": "Gdansk, Poland",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "The successful candidate will join the VAT team responsible for the analyzing, researching, interpreting and documenting laws and regulations, extensive researching and analyzing of product exemptions...",
-      "descriptionTeaser_first200": "We welcome applications to our full-time vacancies from all citizens who have been granted protection within the territory of the Republic of Poland under the EU Temporary Protection Directive*. Do...",
-      "descriptionTeaser_keyword": "We welcome applications to our full-time vacancies from all citizens who have been granted protection within the territory of the Republic of Poland under the EU Temporary Protection Directive*. Do yo...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 18.5752702,
-          "lat": 54.4004235
-        },
-        "location": "Gdansk, Poland"
       }
     ],
     "isMultiCategory": true,
