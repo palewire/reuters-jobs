@@ -341,6 +341,86 @@
     "badge": ""
   },
   {
+    "cityState": "Gdansk",
+    "country": "Poland",
+    "ml_skills": [
+      "strong relationships",
+      "crm",
+      "monitoring",
+      "project management",
+      "engagement",
+      "developing",
+      "salesforce",
+      "execution",
+      "develop",
+      "build",
+      "feedback",
+      "optimizing",
+      "customer retention",
+      "customer engagement",
+      "segmentation",
+      "customer acquisition",
+      "target audience",
+      "customer segmentation",
+      "matrix organization",
+      "eloqua"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "The successful candidate will join the VAT team responsible for the analyzing, researching, interpreting and documenting laws and regulations, extensive researching and analyzing of product exemptions...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "18.5752702",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ185260",
+    "jobId": "JREQ185260",
+    "city": "Gdansk",
+    "latitude": "54.4004235",
+    "locale": "en_US",
+    "multi_location": [
+      "Gdansk, Poland"
+    ],
+    "title": "Tax Associate",
+    "jobSeqNo": "THTTRUUSJREQ185260EXTERNALENUS",
+    "postedDate": "2025-01-10T00:00:00.000+0000",
+    "dateCreated": "2025-01-10T16:40:19.793+0000",
+    "cityStateCountry": "Gdansk, Poland",
+    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/Tax-Associate_JREQ185260/apply",
+    "location": "Gdansk, Poland",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "The successful candidate will join the VAT team responsible for the analyzing, researching, interpreting and documenting laws and regulations, extensive researching and analyzing of product exemptions...",
+      "descriptionTeaser_first200": "We welcome applications to our full-time vacancies from all citizens who have been granted protection within the territory of the Republic of Poland under the EU Temporary Protection Directive*. Do...",
+      "descriptionTeaser_keyword": "We welcome applications to our full-time vacancies from all citizens who have been granted protection within the territory of the Republic of Poland under the EU Temporary Protection Directive*. Do yo...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 18.5752702,
+          "lat": 54.4004235
+        },
+        "location": "Gdansk, Poland"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Bengaluru, Karnataka",
     "country": "India",
     "ml_skills": [
@@ -541,75 +621,6 @@
           "lat": 51.5056439
         },
         "location": "London, United Kingdom"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Gdansk",
-    "country": "Poland",
-    "ml_skills": [
-      "tax research",
-      "online research",
-      "microsoft excel",
-      "database",
-      "ukrainian",
-      "publications",
-      "microsoft office package",
-      "microsoft office",
-      "data systems"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "The successful candidate will join the VAT team responsible for the analyzing, researching, interpreting and documenting laws and regulations, extensive researching and analyzing of product exemptions...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "18.5752702",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ184633",
-    "jobId": "JREQ184633",
-    "city": "Gdansk",
-    "latitude": "54.4004235",
-    "locale": "en_US",
-    "multi_location": [
-      "Gdansk, Poland"
-    ],
-    "title": "Tax Associate",
-    "jobSeqNo": "THTTRUUSJREQ184633EXTERNALENUS",
-    "postedDate": "2025-01-08T00:00:00.000+0000",
-    "dateCreated": "2024-11-14T12:49:35.734+0000",
-    "cityStateCountry": "Gdansk, Poland",
-    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/Tax-Associate_JREQ184633/apply",
-    "location": "Gdansk, Poland",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "The successful candidate will join the VAT team responsible for the analyzing, researching, interpreting and documenting laws and regulations, extensive researching and analyzing of product exemptions...",
-      "descriptionTeaser_first200": "We welcome applications to our full-time vacancies from all citizens who have been granted protection within the territory of the Republic of Poland under the EU Temporary Protection Directive*. Do...",
-      "descriptionTeaser_keyword": "We welcome applications to our full-time vacancies from all citizens who have been granted protection within the territory of the Republic of Poland under the EU Temporary Protection Directive*. Do yo...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 18.5752702,
-          "lat": 54.4004235
-        },
-        "location": "Gdansk, Poland"
       }
     ],
     "isMultiCategory": true,
@@ -4271,69 +4282,6 @@
           "lat": 12.9743998
         },
         "location": "Bengaluru, Karnataka, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Buenos Aires",
-    "country": "Argentina",
-    "ml_skills": [
-      "journalism",
-      "multimedia",
-      "storytelling"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Gathers information to break news and write stories. Develop key sources to break news on strategic coverage areas. Reuters is the world\u2019s largest multimedia news provider. Our industry-leading produc...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-58.3875561",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ185024",
-    "jobId": "JREQ185024",
-    "city": "Buenos Aires",
-    "latitude": "-34.6016107",
-    "locale": "en_US",
-    "multi_location": [
-      "Buenos Aires, Argentina"
-    ],
-    "title": "Correspondent, Argentina",
-    "jobSeqNo": "THTTRUUSJREQ185024EXTERNALENUS",
-    "postedDate": "2024-11-22T00:00:00.000+0000",
-    "dateCreated": "2024-11-23T00:38:02.080+0000",
-    "cityStateCountry": "Buenos Aires, Argentina",
-    "address": "Tucuman 1471, C1050AAB Buenos Aires, Argentina",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/ARG-Buenos-Aires-Tucuman-1471/Correspondent--Argentina_JREQ185024/apply",
-    "location": "Buenos Aires, Argentina",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Gathers information to break news and write stories. Develop key sources to break news on strategic coverage areas. Reuters is the world\u2019s largest multimedia news provider. Our industry-leading produc...",
-      "descriptionTeaser_first200": "Introduction . Reuters is seeking an energetic and experienced journalist to join our team in Buenos Aires as Correspondent, to help drive initiative coverage of key themes from libertarian Presid...",
-      "descriptionTeaser_keyword": "Introduction. Reuters is seeking an energetic and experienced journalist to join our team in Buenos Aires as Correspondent, to help drive initiative coverage of key themes from libertarian President J...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -58.3875561,
-          "lat": -34.6016107
-        },
-        "location": "Buenos Aires, Argentina"
       }
     ],
     "isMultiCategory": true,
