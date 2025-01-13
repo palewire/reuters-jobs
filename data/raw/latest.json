@@ -133,6 +133,70 @@
     "badge": ""
   },
   {
+    "cityState": "London",
+    "country": "United Kingdom",
+    "ml_skills": [
+      "journalists",
+      "journalism",
+      "multimedia",
+      "collaboration skills"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Reuters is seeking an accomplished, tenacious and deeply experienced reporter to produce ambitious investigations, illuminating explanatory journalism and spellbinding narrative work, primarily in Eur...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.0185088",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ185941",
+    "jobId": "JREQ185941",
+    "city": "London",
+    "latitude": "51.5056439",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom"
+    ],
+    "title": "Investigative Reporter, EMEA - Reuters",
+    "jobSeqNo": "THTTRUUSJREQ185941EXTERNALENUS",
+    "postedDate": "2025-01-13T00:00:00.000+0000",
+    "dateCreated": "2024-12-20T16:56:24.198+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Investigative-Reporter--EMEA---Reuters_JREQ185941/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Reuters is seeking an accomplished, tenacious and deeply experienced reporter to produce ambitious investigations, illuminating explanatory journalism and spellbinding narrative work, primarily in Eur...",
+      "descriptionTeaser_first200": "Investigative Reporter, EMEA - Reuters. We envisage the successful candidate being based in London. We are open to highly qualified candidates in locations elsewhere in EMEA time zones. Reuters is ...",
+      "descriptionTeaser_keyword": "Investigative Reporter, EMEA - Reuters. We envisage the successful candidate being based in London. We are open to highly qualified candidates in locations elsewhere in EMEA time zones. Reuters is see...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.0185088,
+          "lat": 51.5056439
+        },
+        "location": "London, United Kingdom"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "San Francisco, California",
     "country": "United States of America",
     "ml_skills": [
@@ -3063,70 +3127,6 @@
           "lat": -23.5990338
         },
         "location": "S\u00e3o Paulo, S\u00e3o Paulo, Brazil"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "London",
-    "country": "United Kingdom",
-    "ml_skills": [
-      "journalists",
-      "journalism",
-      "multimedia",
-      "collaboration skills"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Reuters is seeking an accomplished, tenacious and deeply experienced reporter to produce ambitious investigations, illuminating explanatory journalism and spellbinding narrative work, primarily in Eur...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-0.0185088",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ185941",
-    "jobId": "JREQ185941",
-    "city": "London",
-    "latitude": "51.5056439",
-    "locale": "en_US",
-    "multi_location": [
-      "London, United Kingdom"
-    ],
-    "title": "Investigative Reporter, EMEA - Reuters",
-    "jobSeqNo": "THTTRUUSJREQ185941EXTERNALENUS",
-    "postedDate": "2024-12-20T00:00:00.000+0000",
-    "dateCreated": "2024-12-20T16:56:24.198+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Investigative-Reporter--EMEA---Reuters_JREQ185941/apply",
-    "location": "London, United Kingdom",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Reuters is seeking an accomplished, tenacious and deeply experienced reporter to produce ambitious investigations, illuminating explanatory journalism and spellbinding narrative work, primarily in Eur...",
-      "descriptionTeaser_first200": "Investigative Reporter, EMEA - Reuters. We envisage the successful candidate being based in London. We are open to highly qualified candidates in locations elsewhere in EMEA time zones. Reuters is ...",
-      "descriptionTeaser_keyword": "Investigative Reporter, EMEA - Reuters. We envisage the successful candidate being based in London. We are open to highly qualified candidates in locations elsewhere in EMEA time zones. Reuters is see...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -0.0185088,
-          "lat": 51.5056439
-        },
-        "location": "London, United Kingdom"
       }
     ],
     "isMultiCategory": true,
