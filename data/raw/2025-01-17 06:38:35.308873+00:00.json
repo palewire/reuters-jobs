@@ -1,5 +1,547 @@
 [
   {
+    "cityState": "Pyrmont, New South Wales",
+    "country": "Australia",
+    "ml_skills": [
+      "publishing",
+      "feedback",
+      "quality",
+      "accuracy",
+      "legal expertise",
+      "adapt quickly"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "As a Legal Editor, you will have the opportunity to work with the latest AI tools to enhance your research and editing capabilities. Maintains and develops legal knowledge and skills training as requi...",
+    "state": "New South Wales",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "151.1915144",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ186760",
+    "jobId": "JREQ186760",
+    "city": "Pyrmont",
+    "latitude": "-33.8664432",
+    "locale": "en_US",
+    "multi_location": [
+      "Pyrmont, New South Wales, Australia"
+    ],
+    "title": "Legal Editor",
+    "jobSeqNo": "THTTRUUSJREQ186760EXTERNALENUS",
+    "postedDate": "2025-01-16T00:00:00.000+0000",
+    "dateCreated": "2025-01-16T04:40:29.734+0000",
+    "cityStateCountry": "Pyrmont, New South Wales, Australia",
+    "address": "19 Harris Street, Pyrmont NSW 2009, Australia",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/AUS-Pyrmont-19-Harris-St/Legal-Editor_JREQ186760/apply",
+    "location": "Pyrmont, New South Wales, Australia",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "As a Legal Editor, you will have the opportunity to work with the latest AI tools to enhance your research and editing capabilities. Maintains and develops legal knowledge and skills training as requi...",
+      "descriptionTeaser_first200": "Do you love reading case law? We are looking for a diligent Legal Editor to join our team of experienced editors working on Westlaw and the Australian Digest. We are a close, collaborative team wit...",
+      "descriptionTeaser_keyword": "Do you love reading case law? We are looking for a diligent Legal Editor to join our team of experienced editors working on Westlaw and the Australian Digest. We are a close, collaborative team with a...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 151.1915144,
+          "lat": -33.8664432
+        },
+        "location": "Pyrmont, New South Wales, Australia"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Eagan, Minnesota",
+    "country": "United States of America",
+    "ml_skills": [
+      "legal research",
+      "westlaw",
+      "publishing",
+      "accuracy",
+      "writing skills",
+      "quality",
+      "feedback",
+      "productivity",
+      "develop",
+      "prioritize tasks"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "In this role you will be required to maintain and develop legal knowledge and skills training as needed to complete your work and in order to stay current on legal trends and developments that are rel...",
+    "state": "Minnesota",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-93.10808019999999",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ186423",
+    "jobId": "JREQ186423",
+    "city": "Eagan",
+    "latitude": "44.8527611",
+    "locale": "en_US",
+    "multi_location": [
+      "Eagan, Minnesota, United States of America"
+    ],
+    "title": "Attorney Editor",
+    "jobSeqNo": "THTTRUUSJREQ186423EXTERNALENUS",
+    "postedDate": "2025-01-16T00:00:00.000+0000",
+    "dateCreated": "2025-01-16T16:43:00.951+0000",
+    "cityStateCountry": "Eagan, Minnesota, United States of America",
+    "address": "2900 Ames Crossing Road, Ste 100, Eagan, MN 55121, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MSP-2900-Ames-Crossing-Road/Attorney-Editor_JREQ186423/apply",
+    "location": "Eagan, Minnesota, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "In this role you will be required to maintain and develop legal knowledge and skills training as needed to complete your work and in order to stay current on legal trends and developments that are rel...",
+      "descriptionTeaser_first200": "Attorney Editor. In this role you will provide legal interpretation in the form of research, analysis, and writing to support the development and maintenance of Thomson Reuters Legal information in...",
+      "descriptionTeaser_keyword": "Attorney Editor. In this role you will provide legal interpretation in the form of research, analysis, and writing to support the development and maintenance of Thomson Reuters Legal information in al...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -93.10808019999999,
+          "lat": 44.8527611
+        },
+        "location": "Eagan, Minnesota, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Eagan, Minnesota",
+    "country": "United States of America",
+    "ml_skills": [
+      "feedback",
+      "communication",
+      "collaborate",
+      "ai",
+      "developing",
+      "llms",
+      "quality",
+      "productivity",
+      "openai",
+      "develop",
+      "hands-on development",
+      "cross-functional teams",
+      "technology solutions",
+      "product strategy",
+      "collaboration skills"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "You will play a key role in crafting and refining prompts, developing methodologies for evaluating and grading LLM outputs, and integrating these technologies into our suite of legal products. Stay in...",
+    "state": "Minnesota",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-93.10808019999999",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ183018",
+    "jobId": "JREQ183018",
+    "city": "Eagan",
+    "latitude": "44.8527611",
+    "locale": "en_US",
+    "multi_location": [
+      "Eagan, Minnesota, United States of America",
+      "Ann Arbor, Michigan, United States of America",
+      "Frisco, Texas, United States of America"
+    ],
+    "title": "Legal AI Prompter / Evaluator",
+    "jobSeqNo": "THTTRUUSJREQ183018EXTERNALENUS",
+    "postedDate": "2025-01-16T00:00:00.000+0000",
+    "dateCreated": "2024-10-04T16:41:09.669+0000",
+    "cityStateCountry": "Eagan, Minnesota, United States of America",
+    "address": "2900 Ames Crossing Road, Ste 100, Eagan, MN 55121, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MSP-2900-Ames-Crossing-Road/Legal-AI-Prompter---Evaluator_JREQ183018/apply",
+    "location": "Eagan, Minnesota, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "You will play a key role in crafting and refining prompts, developing methodologies for evaluating and grading LLM outputs, and integrating these technologies into our suite of legal products. Stay in...",
+      "descriptionTeaser_first200": "Legal AI Prompter / Evaluator. Role Summary. We are seeking a dynamic Legal Prompter / Evaluator with a Juris Doctor (JD) degree and a strong interest in emerging technologies. This role is crucial...",
+      "descriptionTeaser_keyword": "Legal AI Prompter / Evaluator. Role Summary. We are seeking a dynamic Legal Prompter / Evaluator with a Juris Doctor (JD) degree and a strong interest in emerging technologies. This role is crucial in...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -93.10808019999999,
+          "lat": 44.8527611
+        },
+        "location": "Eagan, Minnesota, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -83.7267835,
+          "lat": 42.1957259
+        },
+        "location": "Ann Arbor, Michigan, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -96.833545,
+          "lat": 33.1073049
+        },
+        "location": "Frisco, Texas, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Washington, District of Columbia",
+    "country": "United States of America",
+    "ml_skills": [
+      "accounts",
+      "domain expertise"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "The editor will lead a team of White House reporters, working closely with reporters to develop sources and break news in covering the Trump administration, its personalities and its policies, ranging...",
+    "state": "District of Columbia",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-77.0311952",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ186692",
+    "jobId": "JREQ186692",
+    "city": "Washington",
+    "latitude": "38.9004793",
+    "locale": "en_US",
+    "multi_location": [
+      "Washington, District of Columbia, United States of America"
+    ],
+    "title": "White House Editor",
+    "jobSeqNo": "THTTRUUSJREQ186692EXTERNALENUS",
+    "postedDate": "2025-01-16T00:00:00.000+0000",
+    "dateCreated": "2025-01-13T20:40:57.990+0000",
+    "cityStateCountry": "Washington, District of Columbia, United States of America",
+    "address": "1333 H Street NW, Suite 500, Washington, DC 20005, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Washington-1333-H-Street-N/White-House-Editor_JREQ186692/apply",
+    "location": "Washington, District of Columbia, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "The editor will lead a team of White House reporters, working closely with reporters to develop sources and break news in covering the Trump administration, its personalities and its policies, ranging...",
+      "descriptionTeaser_first200": "Reuters is looking for an exceptional editor to lead its White House team and drive coverage of some of the world's biggest stories. The editor will have a record of strong coverage, ranging from b...",
+      "descriptionTeaser_keyword": "Reuters is looking for an exceptional editor to lead its White House team and drive coverage of some of the world's biggest stories. The editor will have a record of strong coverage, ranging from brea...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -77.0311952,
+          "lat": 38.9004793
+        },
+        "location": "Washington, District of Columbia, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Los Angeles, California",
+    "country": "United States of America",
+    "ml_skills": [
+      "breaking news",
+      "beat reporting",
+      "multimedia",
+      "feedback",
+      "monitoring"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "The ideal candidates will have sound news judgment, a track record of producing sharp reporting on deadline and an appetite for covering stories across politics, policy and national affairs in the Uni...",
+    "state": "California",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-118.2414884",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ186912",
+    "jobId": "JREQ186912",
+    "city": "Los Angeles",
+    "latitude": "34.033736",
+    "locale": "en_US",
+    "multi_location": [
+      "Los Angeles, California, United States of America",
+      "Washington, District of Columbia, United States of America"
+    ],
+    "title": "Breaking News Correspondent (Level 1 Journalist)",
+    "jobSeqNo": "THTTRUUSJREQ186912EXTERNALENUS",
+    "postedDate": "2025-01-16T00:00:00.000+0000",
+    "dateCreated": "2025-01-17T00:45:26.496+0000",
+    "cityStateCountry": "Los Angeles, California, United States of America",
+    "address": "777 S. Alameda, 2nd Floor, Los Angeles, CA 90021, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Los-Angeles-777-S-Alameda/Breaking-News-Correspondent--Level-1-Journalist-_JREQ186912-1/apply",
+    "location": "Los Angeles, California, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "The ideal candidates will have sound news judgment, a track record of producing sharp reporting on deadline and an appetite for covering stories across politics, policy and national affairs in the Uni...",
+      "descriptionTeaser_first200": "Reuters is seeking a Breaking News Correspondent (Level 1 Journalist) in Los Angeles or Washington, DC to join its U.S.-Canada Breaking News Team covering some of the biggest political and general ...",
+      "descriptionTeaser_keyword": "Reuters is seeking a Breaking News Correspondent (Level 1 Journalist) in Los Angeles or Washington, DC to join its U. S. -Canada Breaking News Team covering some of the biggest political and general n...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -118.2414884,
+          "lat": 34.033736
+        },
+        "location": "Los Angeles, California, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -77.0311952,
+          "lat": 38.9004793
+        },
+        "location": "Washington, District of Columbia, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Mexico City",
+    "country": "Mexico",
+    "ml_skills": [
+      "analytical skills",
+      "international trade",
+      "talent development",
+      "skill development",
+      "project management",
+      "strategic insights",
+      "process development",
+      "statistical analysis",
+      "develop",
+      "project management processes",
+      "data visualization",
+      "accuracy",
+      "lead training",
+      "quality",
+      "mentorship",
+      "team dynamics",
+      "software tools",
+      "collaborate",
+      "customer-centric approach"
+    ],
+    "remote": "Remote",
+    "type": "Full time",
+    "descriptionTeaser": "Problem-Solving Excellence: Consistently identifies and resolves complex issues, guides others in problem-solving, and implements innovative solutions across offices, fostering a culture of continuous...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-99.1510899",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ186883",
+    "jobId": "JREQ186883",
+    "city": "Mexico City",
+    "latitude": "19.4343664",
+    "locale": "en_US",
+    "multi_location": [
+      "Mexico City, Mexico"
+    ],
+    "title": "Senior Analyst II - Global Trade Content",
+    "jobSeqNo": "THTTRUUSJREQ186883EXTERNALENUS",
+    "postedDate": "2025-01-15T00:00:00.000+0000",
+    "dateCreated": "2025-01-16T00:41:55.561+0000",
+    "cityStateCountry": "Mexico City, Mexico",
+    "address": "Av. Paseo de la Reforma #26, Floor 36th, Colonia Ju\u00e1rez, Cuauht\u00e9moc, 06600 Mexico City, Mexico",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/MEX-Distrito-Federal-Reforma-26/Senior-Analyst-II---Global-Trade-Content_JREQ186883/apply",
+    "location": "Mexico City, Mexico",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Problem-Solving Excellence: Consistently identifies and resolves complex issues, guides others in problem-solving, and implements innovative solutions across offices, fostering a culture of continuous...",
+      "descriptionTeaser_first200": "Senior Analyst II - Global Trade Content. Are you passionate about the chance to bring your experience to a world-class company that is market-leading for both content and technology? If yes, we ar...",
+      "descriptionTeaser_keyword": "Senior Analyst II - Global Trade Content. Are you passionate about the chance to bring your experience to a world-class company that is market-leading for both content and technology? If yes, we are l...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -99.1510899,
+          "lat": 19.4343664
+        },
+        "location": "Mexico City, Mexico"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Washington, District of Columbia",
+    "country": "United States of America",
+    "ml_skills": [
+      "english proficiency",
+      "develop",
+      "engagement",
+      "developing",
+      "salesforce",
+      "complex sales",
+      "technology solutions",
+      "geography",
+      "territory growth"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "The Legal Writer will research, write and publish timely legal analysis articles on developments in litigation, legislation and regulation. Experience in legal journalism, news or other writing enviro...",
+    "state": "District of Columbia",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-77.0311952",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ185179",
+    "jobId": "JREQ185179",
+    "city": "Washington",
+    "latitude": "38.9004793",
+    "locale": "en_US",
+    "multi_location": [
+      "Washington, District of Columbia, United States of America",
+      "Ann Arbor, Michigan, United States of America",
+      "Frisco, Texas, United States of America",
+      "Eagan, Minnesota, United States of America",
+      "New York, New York, United States of America"
+    ],
+    "title": "Legal Writer",
+    "jobSeqNo": "THTTRUUSJREQ185179EXTERNALENUS",
+    "postedDate": "2025-01-14T00:00:00.000+0000",
+    "dateCreated": "2024-11-21T20:37:41.883+0000",
+    "cityStateCountry": "Washington, District of Columbia, United States of America",
+    "address": "1333 H Street NW, Suite 500, Washington, DC 20005, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Washington-1333-H-Street-N/Legal-Writer_JREQ185179/apply",
+    "location": "Washington, District of Columbia, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "The Legal Writer will research, write and publish timely legal analysis articles on developments in litigation, legislation and regulation. Experience in legal journalism, news or other writing enviro...",
+      "descriptionTeaser_first200": "Legal Writer. Do you enjoy researching, writing and publishing legal articles? Thomson Reuters is seeking a Legal Writer to deliver legal analysis and current awareness information to Westlaw Today...",
+      "descriptionTeaser_keyword": "Legal Writer. Do you enjoy researching, writing and publishing legal articles? Thomson Reuters is seeking a Legal Writer to deliver legal analysis and current awareness information to Westlaw Today fo...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -77.0311952,
+          "lat": 38.9004793
+        },
+        "location": "Washington, District of Columbia, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -83.7267835,
+          "lat": 42.1957259
+        },
+        "location": "Ann Arbor, Michigan, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -96.833545,
+          "lat": 33.1073049
+        },
+        "location": "Frisco, Texas, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -93.10808019999999,
+          "lat": 44.8527611
+        },
+        "location": "Eagan, Minnesota, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -73.9866995,
+          "lat": 40.7566955
+        },
+        "location": "New York, New York, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Eagan, Minnesota",
     "country": "United States of America",
     "ml_skills": [
@@ -90,69 +632,6 @@
     "badge": ""
   },
   {
-    "cityState": "Singapore",
-    "country": "Singapore",
-    "ml_skills": [
-      "breaking news",
-      "multimedia",
-      "mandarin"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "The Asia Metals Correspondent will get inside what is an often-opaque industry, working closely with colleagues in the region and globally to dig out market-moving stories that resonate with investors...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "103.792796",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ186677",
-    "jobId": "JREQ186677",
-    "city": "Singapore",
-    "latitude": "1.2938815",
-    "locale": "en_US",
-    "multi_location": [
-      "Singapore, Singapore"
-    ],
-    "title": "Asia Metals Correspondent",
-    "jobSeqNo": "THTTRUUSJREQ186677EXTERNALENUS",
-    "postedDate": "2025-01-13T00:00:00.000+0000",
-    "dateCreated": "2025-01-13T04:39:55.149+0000",
-    "cityStateCountry": "Singapore, Singapore",
-    "address": "ALICE@Mediapolis, 29 Media Circle,  #09-05, Singapore 138565, Singapore",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/SGP-Singapore-ALICEMediapolis/Asia-Metals-Correspondent_JREQ186677/apply",
-    "location": "Singapore, Singapore",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "The Asia Metals Correspondent will get inside what is an often-opaque industry, working closely with colleagues in the region and globally to dig out market-moving stories that resonate with investors...",
-      "descriptionTeaser_first200": "Asia Metals Correspondent. Reuters is seeking an outstanding journalist with strong source-building skills, great story ideas and a track record of breaking news to join our Singapore-based team as...",
-      "descriptionTeaser_keyword": "Asia Metals Correspondent. Reuters is seeking an outstanding journalist with strong source-building skills, great story ideas and a track record of breaking news to join our Singapore-based team as As...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 103.792796,
-          "lat": 1.2938815
-        },
-        "location": "Singapore, Singapore"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Eagan, Minnesota",
     "country": "United States of America",
     "ml_skills": [
@@ -211,73 +690,6 @@
           "lat": 33.1073049
         },
         "location": "Frisco, Texas, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Washington, District of Columbia",
-    "country": "United States of America",
-    "ml_skills": [
-      "journalism",
-      "multimedia",
-      "politics",
-      "accuracy",
-      "impartiality",
-      "develop",
-      "collaboration skills"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "The editor will lead a team of White House reporters, working closely with reporters to develop sources and break news in covering the Trump administration, its personalities and its policies, ranging...",
-    "state": "District of Columbia",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-77.0311952",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ186692",
-    "jobId": "JREQ186692",
-    "city": "Washington",
-    "latitude": "38.9004793",
-    "locale": "en_US",
-    "multi_location": [
-      "Washington, District of Columbia, United States of America"
-    ],
-    "title": "White House Editor",
-    "jobSeqNo": "THTTRUUSJREQ186692EXTERNALENUS",
-    "postedDate": "2025-01-13T00:00:00.000+0000",
-    "dateCreated": "2025-01-13T20:40:57.990+0000",
-    "cityStateCountry": "Washington, District of Columbia, United States of America",
-    "address": "1333 H Street NW, Suite 500, Washington, DC 20005, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Washington-1333-H-Street-N/White-House-Editor_JREQ186692/apply",
-    "location": "Washington, District of Columbia, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "The editor will lead a team of White House reporters, working closely with reporters to develop sources and break news in covering the Trump administration, its personalities and its policies, ranging...",
-      "descriptionTeaser_first200": "Reuters is looking for an exceptional editor to lead its White House team and drive coverage of some of the world's biggest stories. The editor will have a record of strong coverage, ranging from b...",
-      "descriptionTeaser_keyword": "Reuters is looking for an exceptional editor to lead its White House team and drive coverage of some of the world's biggest stories. The editor will have a record of strong coverage, ranging from brea...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -77.0311952,
-          "lat": 38.9004793
-        },
-        "location": "Washington, District of Columbia, United States of America"
       }
     ],
     "isMultiCategory": true,
@@ -348,6 +760,69 @@
           "lat": 25.0961362
         },
         "location": "Dubai, United Arab Emirates"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Singapore",
+    "country": "Singapore",
+    "ml_skills": [
+      "breaking news",
+      "multimedia",
+      "mandarin"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "The Asia Metals Correspondent will get inside what is an often-opaque industry, working closely with colleagues in the region and globally to dig out market-moving stories that resonate with investors...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "103.792796",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ186677",
+    "jobId": "JREQ186677",
+    "city": "Singapore",
+    "latitude": "1.2938815",
+    "locale": "en_US",
+    "multi_location": [
+      "Singapore, Singapore"
+    ],
+    "title": "Asia Metals Correspondent",
+    "jobSeqNo": "THTTRUUSJREQ186677EXTERNALENUS",
+    "postedDate": "2025-01-13T00:00:00.000+0000",
+    "dateCreated": "2025-01-13T04:39:55.149+0000",
+    "cityStateCountry": "Singapore, Singapore",
+    "address": "ALICE@Mediapolis, 29 Media Circle,  #09-05, Singapore 138565, Singapore",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/SGP-Singapore-ALICEMediapolis/Asia-Metals-Correspondent_JREQ186677/apply",
+    "location": "Singapore, Singapore",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "The Asia Metals Correspondent will get inside what is an often-opaque industry, working closely with colleagues in the region and globally to dig out market-moving stories that resonate with investors...",
+      "descriptionTeaser_first200": "Asia Metals Correspondent. Reuters is seeking an outstanding journalist with strong source-building skills, great story ideas and a track record of breaking news to join our Singapore-based team as...",
+      "descriptionTeaser_keyword": "Asia Metals Correspondent. Reuters is seeking an outstanding journalist with strong source-building skills, great story ideas and a track record of breaking news to join our Singapore-based team as As...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 103.792796,
+          "lat": 1.2938815
+        },
+        "location": "Singapore, Singapore"
       }
     ],
     "isMultiCategory": true,
@@ -825,73 +1300,6 @@
     "badge": ""
   },
   {
-    "cityState": "Washington, District of Columbia",
-    "country": "United States of America",
-    "ml_skills": [
-      "reporter",
-      "journalism",
-      "engaging",
-      "reporting skills",
-      "multimedia",
-      "collaborate",
-      "global mindset"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "The ideal candidate will be an exceptional reporter and writer with a proven track record of delivering groundbreaking enterprise journalism. Experience covering the aerospace or defense sectors \u2013 and...",
-    "state": "District of Columbia",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-77.0311952",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ184383",
-    "jobId": "JREQ184383",
-    "city": "Washington",
-    "latitude": "38.9004793",
-    "locale": "en_US",
-    "multi_location": [
-      "Washington, District of Columbia, United States of America"
-    ],
-    "title": "US Aerospace & Defense Correspondent (Level 1 Journalist)",
-    "jobSeqNo": "THTTRUUSJREQ184383EXTERNALENUS",
-    "postedDate": "2025-01-12T00:00:00.000+0000",
-    "dateCreated": "2024-10-30T20:47:30.448+0000",
-    "cityStateCountry": "Washington, District of Columbia, United States of America",
-    "address": "1333 H Street NW, Suite 500, Washington, DC 20005, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Washington-1333-H-Street-N/US-Aerospace---Defense-Correspondent--Level-1-Journalist-_JREQ184383/apply",
-    "location": "Washington, District of Columbia, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "The ideal candidate will be an exceptional reporter and writer with a proven track record of delivering groundbreaking enterprise journalism. Experience covering the aerospace or defense sectors \u2013 and...",
-      "descriptionTeaser_first200": "Reuters is seeking a US Aerospace & Defense Correspondent (Level 1 Journalist) to lead investigative projects and work with beat reporters to produce quick-hit exclusives and initiative stories tha...",
-      "descriptionTeaser_keyword": "Reuters is seeking a US Aerospace & Defense Correspondent (Level 1 Journalist) to lead investigative projects and work with beat reporters to produce quick-hit exclusives and initiative stories that p...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -77.0311952,
-          "lat": 38.9004793
-        },
-        "location": "Washington, District of Columbia, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Eagan, Minnesota",
     "country": "United States of America",
     "ml_skills": [
@@ -956,163 +1364,6 @@
           "lat": 44.8527611
         },
         "location": "Eagan, Minnesota, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "New York, New York",
-    "country": "United States of America",
-    "ml_skills": [
-      "multimedia",
-      "corporate finance",
-      "global finance",
-      "developing"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "The role also requires someone with management experience and the ability to work effectively with reporters and editors across teams and geographies. Work closely and collaboratively with other edito...",
-    "state": "New York",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-73.9866995",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ183150",
-    "jobId": "JREQ183150",
-    "city": "New York",
-    "latitude": "40.7566955",
-    "locale": "en_US",
-    "multi_location": [
-      "New York, New York, United States of America"
-    ],
-    "title": "Editor, Corporate Finance, US, Canada and LatAm",
-    "jobSeqNo": "THTTRUUSJREQ183150EXTERNALENUS",
-    "postedDate": "2025-01-12T00:00:00.000+0000",
-    "dateCreated": "2024-10-08T16:40:51.948+0000",
-    "cityStateCountry": "New York, New York, United States of America",
-    "address": "3 Times Square, New York, NY 10036, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-New-York-3-Times-Square/Editor--Corporate-Finance--US--Canada-and-LatAm_JREQ183150/apply",
-    "location": "New York, New York, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "The role also requires someone with management experience and the ability to work effectively with reporters and editors across teams and geographies. Work closely and collaboratively with other edito...",
-      "descriptionTeaser_first200": "Reuters is looking for an ambitious, mid-career journalist to lead our coverage of corporate finance, including mergers and acquisitions, corporate governance, capital markets and certain aspects...",
-      "descriptionTeaser_keyword": "Reuters is looking for an ambitious, mid-career journalist to lead our coverage of corporate finance, including mergers and acquisitions, corporate governance, capital markets and certain aspects of E...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -73.9866995,
-          "lat": 40.7566955
-        },
-        "location": "New York, New York, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Frisco, Texas",
-    "country": "United States of America",
-    "ml_skills": [
-      "corporate tax",
-      "excise taxes",
-      "self-driven",
-      "microsoft excel",
-      "online research",
-      "coordinate",
-      "accuracy",
-      "checkpoint",
-      "westlaw"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Research, analyze, interpret, and document tax laws and regulations to enable accurate tax determination and/or compliance. Superior written and verbal communication skills, including the ability to w...",
-    "state": "Texas",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-96.833545",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ184983",
-    "jobId": "JREQ184983",
-    "city": "Frisco",
-    "latitude": "33.1073049",
-    "locale": "en_US",
-    "multi_location": [
-      "Frisco, Texas, United States of America",
-      "Ann Arbor, Michigan, United States of America",
-      "Eagan, Minnesota, United States of America",
-      "Washington, District of Columbia, United States of America"
-    ],
-    "title": "Tax/Legal Analyst, Indirect Tax",
-    "jobSeqNo": "THTTRUUSJREQ184983EXTERNALENUS",
-    "postedDate": "2025-01-12T00:00:00.000+0000",
-    "dateCreated": "2024-11-13T20:44:10.400+0000",
-    "cityStateCountry": "Frisco, Texas, United States of America",
-    "address": "6160 Warren Parkway, Frisco, TX 75034, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Frisco-6160-Warren-Parkway/Tax-Legal-Analyst--Indirect-Tax_JREQ184983/apply",
-    "location": "Frisco, Texas, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Research, analyze, interpret, and document tax laws and regulations to enable accurate tax determination and/or compliance. Superior written and verbal communication skills, including the ability to w...",
-      "descriptionTeaser_first200": "Summary. The Tax/Legal Analyst is responsible for research, configuration, ongoing maintenance, and testing to ensure that ONESOURCE\u2122 applications and offerings comply with tax laws in U.S. jurisd...",
-      "descriptionTeaser_keyword": "Summary. The Tax/Legal Analyst is responsible for research, configuration, ongoing maintenance, and testing to ensure that ONESOURCE\u2122 applications and offerings comply with tax laws in U. S. jurisdict...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -96.833545,
-          "lat": 33.1073049
-        },
-        "location": "Frisco, Texas, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -83.7267835,
-          "lat": 42.1957259
-        },
-        "location": "Ann Arbor, Michigan, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -93.11336709999999,
-          "lat": 44.8250902
-        },
-        "location": "Eagan, Minnesota, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -77.0311952,
-          "lat": 38.9004793
-        },
-        "location": "Washington, District of Columbia, United States of America"
       }
     ],
     "isMultiCategory": true,
@@ -1277,97 +1528,6 @@
     "badge": ""
   },
   {
-    "cityState": "Eagan, Minnesota",
-    "country": "United States of America",
-    "ml_skills": [
-      "feedback",
-      "communication",
-      "collaborate",
-      "ai",
-      "developing",
-      "llms",
-      "quality",
-      "productivity",
-      "openai",
-      "develop",
-      "hands-on development",
-      "cross-functional teams",
-      "technology solutions",
-      "product strategy",
-      "collaboration skills"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "You will play a key role in crafting and refining prompts, developing methodologies for evaluating and grading LLM outputs, and integrating these technologies into our suite of legal products. Stay in...",
-    "state": "Minnesota",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-93.10808019999999",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ183018",
-    "jobId": "JREQ183018",
-    "city": "Eagan",
-    "latitude": "44.8527611",
-    "locale": "en_US",
-    "multi_location": [
-      "Eagan, Minnesota, United States of America",
-      "Ann Arbor, Michigan, United States of America",
-      "Frisco, Texas, United States of America"
-    ],
-    "title": "Legal AI Prompter / Evaluator",
-    "jobSeqNo": "THTTRUUSJREQ183018EXTERNALENUS",
-    "postedDate": "2025-01-12T00:00:00.000+0000",
-    "dateCreated": "2024-10-04T16:41:09.669+0000",
-    "cityStateCountry": "Eagan, Minnesota, United States of America",
-    "address": "2900 Ames Crossing Road, Ste 100, Eagan, MN 55121, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MSP-2900-Ames-Crossing-Road/Legal-AI-Prompter---Evaluator_JREQ183018/apply",
-    "location": "Eagan, Minnesota, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "You will play a key role in crafting and refining prompts, developing methodologies for evaluating and grading LLM outputs, and integrating these technologies into our suite of legal products. Stay in...",
-      "descriptionTeaser_first200": "Legal AI Prompter / Evaluator. Role Summary. We are seeking a dynamic Legal Prompter / Evaluator with a Juris Doctor (JD) degree and a strong interest in emerging technologies. This role is crucial...",
-      "descriptionTeaser_keyword": "Legal AI Prompter / Evaluator. Role Summary. We are seeking a dynamic Legal Prompter / Evaluator with a Juris Doctor (JD) degree and a strong interest in emerging technologies. This role is crucial in...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -93.10808019999999,
-          "lat": 44.8527611
-        },
-        "location": "Eagan, Minnesota, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -83.7267835,
-          "lat": 42.1957259
-        },
-        "location": "Ann Arbor, Michigan, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -96.833545,
-          "lat": 33.1073049
-        },
-        "location": "Frisco, Texas, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Frisco, Texas",
     "country": "United States of America",
     "ml_skills": [
@@ -1509,6 +1669,163 @@
           "lat": 38.912068
         },
         "location": "Washington, DC, District of Columbia, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Frisco, Texas",
+    "country": "United States of America",
+    "ml_skills": [
+      "corporate tax",
+      "excise taxes",
+      "self-driven",
+      "microsoft excel",
+      "online research",
+      "coordinate",
+      "accuracy",
+      "checkpoint",
+      "westlaw"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Research, analyze, interpret, and document tax laws and regulations to enable accurate tax determination and/or compliance. Superior written and verbal communication skills, including the ability to w...",
+    "state": "Texas",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-96.833545",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ184983",
+    "jobId": "JREQ184983",
+    "city": "Frisco",
+    "latitude": "33.1073049",
+    "locale": "en_US",
+    "multi_location": [
+      "Frisco, Texas, United States of America",
+      "Ann Arbor, Michigan, United States of America",
+      "Eagan, Minnesota, United States of America",
+      "Washington, District of Columbia, United States of America"
+    ],
+    "title": "Tax/Legal Analyst, Indirect Tax",
+    "jobSeqNo": "THTTRUUSJREQ184983EXTERNALENUS",
+    "postedDate": "2025-01-12T00:00:00.000+0000",
+    "dateCreated": "2024-11-13T20:44:10.400+0000",
+    "cityStateCountry": "Frisco, Texas, United States of America",
+    "address": "6160 Warren Parkway, Frisco, TX 75034, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Frisco-6160-Warren-Parkway/Tax-Legal-Analyst--Indirect-Tax_JREQ184983/apply",
+    "location": "Frisco, Texas, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Research, analyze, interpret, and document tax laws and regulations to enable accurate tax determination and/or compliance. Superior written and verbal communication skills, including the ability to w...",
+      "descriptionTeaser_first200": "Summary. The Tax/Legal Analyst is responsible for research, configuration, ongoing maintenance, and testing to ensure that ONESOURCE\u2122 applications and offerings comply with tax laws in U.S. jurisd...",
+      "descriptionTeaser_keyword": "Summary. The Tax/Legal Analyst is responsible for research, configuration, ongoing maintenance, and testing to ensure that ONESOURCE\u2122 applications and offerings comply with tax laws in U. S. jurisdict...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -96.833545,
+          "lat": 33.1073049
+        },
+        "location": "Frisco, Texas, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -83.7267835,
+          "lat": 42.1957259
+        },
+        "location": "Ann Arbor, Michigan, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -93.11336709999999,
+          "lat": 44.8250902
+        },
+        "location": "Eagan, Minnesota, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -77.0311952,
+          "lat": 38.9004793
+        },
+        "location": "Washington, District of Columbia, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "New York, New York",
+    "country": "United States of America",
+    "ml_skills": [
+      "multimedia",
+      "corporate finance",
+      "global finance",
+      "developing"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "The role also requires someone with management experience and the ability to work effectively with reporters and editors across teams and geographies. Work closely and collaboratively with other edito...",
+    "state": "New York",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-73.9866995",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ183150",
+    "jobId": "JREQ183150",
+    "city": "New York",
+    "latitude": "40.7566955",
+    "locale": "en_US",
+    "multi_location": [
+      "New York, New York, United States of America"
+    ],
+    "title": "Editor, Corporate Finance, US, Canada and LatAm",
+    "jobSeqNo": "THTTRUUSJREQ183150EXTERNALENUS",
+    "postedDate": "2025-01-12T00:00:00.000+0000",
+    "dateCreated": "2024-10-08T16:40:51.948+0000",
+    "cityStateCountry": "New York, New York, United States of America",
+    "address": "3 Times Square, New York, NY 10036, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-New-York-3-Times-Square/Editor--Corporate-Finance--US--Canada-and-LatAm_JREQ183150/apply",
+    "location": "New York, New York, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "The role also requires someone with management experience and the ability to work effectively with reporters and editors across teams and geographies. Work closely and collaboratively with other edito...",
+      "descriptionTeaser_first200": "Reuters is looking for an ambitious, mid-career journalist to lead our coverage of corporate finance, including mergers and acquisitions, corporate governance, capital markets and certain aspects o...",
+      "descriptionTeaser_keyword": "Reuters is looking for an ambitious, mid-career journalist to lead our coverage of corporate finance, including mergers and acquisitions, corporate governance, capital markets and certain aspects of E...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -73.9866995,
+          "lat": 40.7566955
+        },
+        "location": "New York, New York, United States of America"
       }
     ],
     "isMultiCategory": true,
