@@ -1,69 +1,5 @@
 [
   {
-    "cityState": "Gdansk",
-    "country": "Poland",
-    "ml_skills": [
-      "multimedia",
-      "short stories",
-      "german",
-      "accuracy"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Reuters is seeking a graduate who can speak fluent English and advanced German to join its real-time news operation in Gdansk, Poland. Write headlines and news summaries accurately, quickly and with h...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "18.5752702",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ185201",
-    "jobId": "JREQ185201",
-    "city": "Gdansk",
-    "latitude": "54.4004235",
-    "locale": "en_US",
-    "multi_location": [
-      "Gdansk, Poland"
-    ],
-    "title": "News Reporter, Reuters (German speaking)",
-    "jobSeqNo": "THTTRUUSJREQ185201EXTERNALENUS",
-    "postedDate": "2025-01-17T00:00:00.000+0000",
-    "dateCreated": "2025-01-17T12:45:30.733+0000",
-    "cityStateCountry": "Gdansk, Poland",
-    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/News-Reporter--Reuters--German-speaking-_JREQ185201/apply",
-    "location": "Gdansk, Poland",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Reuters is seeking a graduate who can speak fluent English and advanced German to join its real-time news operation in Gdansk, Poland. Write headlines and news summaries accurately, quickly and with h...",
-      "descriptionTeaser_first200": "Reuters is seeking a graduate who can speak fluent English and advanced German to join its real-time news operation in Gdansk, Poland. The reporter will work in fast-paced, international environmen...",
-      "descriptionTeaser_keyword": "Reuters is seeking a graduate who can speak fluent English and advanced German to join its real-time news operation in Gdansk, Poland. The reporter will work in fast-paced, international environment a...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 18.5752702,
-          "lat": 54.4004235
-        },
-        "location": "Gdansk, Poland"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Sarri\u00e0-Sant Gervasi, Barcelona",
     "country": "Spain",
     "ml_skills": [
@@ -212,6 +148,70 @@
     "badge": ""
   },
   {
+    "cityState": "Gdansk",
+    "country": "Poland",
+    "ml_skills": [
+      "multimedia",
+      "short stories",
+      "german",
+      "accuracy"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Reuters is seeking a graduate who can speak fluent English and advanced German to join its real-time news operation in Gdansk, Poland. Write headlines and news summaries accurately, quickly and with h...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "18.5752702",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ185201",
+    "jobId": "JREQ185201",
+    "city": "Gdansk",
+    "latitude": "54.4004235",
+    "locale": "en_US",
+    "multi_location": [
+      "Gdansk, Poland"
+    ],
+    "title": "News Reporter, Reuters (German speaking)",
+    "jobSeqNo": "THTTRUUSJREQ185201EXTERNALENUS",
+    "postedDate": "2025-01-17T00:00:00.000+0000",
+    "dateCreated": "2025-01-17T12:45:30.733+0000",
+    "cityStateCountry": "Gdansk, Poland",
+    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/News-Reporter--Reuters--German-speaking-_JREQ185201/apply",
+    "location": "Gdansk, Poland",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Reuters is seeking a graduate who can speak fluent English and advanced German to join its real-time news operation in Gdansk, Poland. Write headlines and news summaries accurately, quickly and with h...",
+      "descriptionTeaser_first200": "Reuters is seeking a graduate who can speak fluent English and advanced German to join its real-time news operation in Gdansk, Poland. The reporter will work in fast-paced, international environmen...",
+      "descriptionTeaser_keyword": "Reuters is seeking a graduate who can speak fluent English and advanced German to join its real-time news operation in Gdansk, Poland. The reporter will work in fast-paced, international environment a...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 18.5752702,
+          "lat": 54.4004235
+        },
+        "location": "Gdansk, Poland"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Pyrmont, New South Wales",
     "country": "Australia",
     "ml_skills": [
@@ -348,79 +348,6 @@
     "badge": ""
   },
   {
-    "cityState": "Los Angeles, California",
-    "country": "United States of America",
-    "ml_skills": [
-      "breaking news",
-      "beat reporting",
-      "multimedia",
-      "feedback",
-      "monitoring"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "The ideal candidates will have sound news judgment, a track record of producing sharp reporting on deadline and an appetite for covering stories across politics, policy and national affairs in the Uni...",
-    "state": "California",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-118.2414884",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ186912",
-    "jobId": "JREQ186912",
-    "city": "Los Angeles",
-    "latitude": "34.033736",
-    "locale": "en_US",
-    "multi_location": [
-      "Los Angeles, California, United States of America",
-      "Washington, District of Columbia, United States of America"
-    ],
-    "title": "Breaking News Correspondent (Level 1 Journalist)",
-    "jobSeqNo": "THTTRUUSJREQ186912EXTERNALENUS",
-    "postedDate": "2025-01-16T00:00:00.000+0000",
-    "dateCreated": "2025-01-17T00:45:26.496+0000",
-    "cityStateCountry": "Los Angeles, California, United States of America",
-    "address": "777 S. Alameda, 2nd Floor, Los Angeles, CA 90021, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Los-Angeles-777-S-Alameda/Breaking-News-Correspondent--Level-1-Journalist-_JREQ186912-1/apply",
-    "location": "Los Angeles, California, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "The ideal candidates will have sound news judgment, a track record of producing sharp reporting on deadline and an appetite for covering stories across politics, policy and national affairs in the Uni...",
-      "descriptionTeaser_first200": "Reuters is seeking a Breaking News Correspondent (Level 1 Journalist) in Los Angeles or Washington, DC to join its U.S.-Canada Breaking News Team covering some of the biggest political and general ...",
-      "descriptionTeaser_keyword": "Reuters is seeking a Breaking News Correspondent (Level 1 Journalist) in Los Angeles or Washington, DC to join its U. S. -Canada Breaking News Team covering some of the biggest political and general n...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -118.2414884,
-          "lat": 34.033736
-        },
-        "location": "Los Angeles, California, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -77.0311952,
-          "lat": 38.9004793
-        },
-        "location": "Washington, District of Columbia, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Eagan, Minnesota",
     "country": "United States of America",
     "ml_skills": [
@@ -512,11 +439,89 @@
     "badge": ""
   },
   {
+    "cityState": "Los Angeles, California",
+    "country": "United States of America",
+    "ml_skills": [
+      "breaking news",
+      "beat reporting",
+      "multimedia",
+      "feedback",
+      "monitoring"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "The ideal candidates will have sound news judgment, a track record of producing sharp reporting on deadline and an appetite for covering stories across politics, policy and national affairs in the Uni...",
+    "state": "California",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-118.2414884",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ186912",
+    "jobId": "JREQ186912",
+    "city": "Los Angeles",
+    "latitude": "34.033736",
+    "locale": "en_US",
+    "multi_location": [
+      "Los Angeles, California, United States of America",
+      "Washington, District of Columbia, United States of America"
+    ],
+    "title": "Breaking News Correspondent (Level 1 Journalist)",
+    "jobSeqNo": "THTTRUUSJREQ186912EXTERNALENUS",
+    "postedDate": "2025-01-16T00:00:00.000+0000",
+    "dateCreated": "2025-01-17T00:45:26.496+0000",
+    "cityStateCountry": "Los Angeles, California, United States of America",
+    "address": "777 S. Alameda, 2nd Floor, Los Angeles, CA 90021, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Los-Angeles-777-S-Alameda/Breaking-News-Correspondent--Level-1-Journalist-_JREQ186912-1/apply",
+    "location": "Los Angeles, California, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "The ideal candidates will have sound news judgment, a track record of producing sharp reporting on deadline and an appetite for covering stories across politics, policy and national affairs in the Uni...",
+      "descriptionTeaser_first200": "Reuters is seeking a Breaking News Correspondent (Level 1 Journalist) in Los Angeles or Washington, DC to join its U.S.-Canada Breaking News Team covering some of the biggest political and general ...",
+      "descriptionTeaser_keyword": "Reuters is seeking a Breaking News Correspondent (Level 1 Journalist) in Los Angeles or Washington, DC to join its U. S. -Canada Breaking News Team covering some of the biggest political and general n...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -118.2414884,
+          "lat": 34.033736
+        },
+        "location": "Los Angeles, California, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -77.0311952,
+          "lat": 38.9004793
+        },
+        "location": "Washington, District of Columbia, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Washington, District of Columbia",
     "country": "United States of America",
     "ml_skills": [
-      "accounts",
-      "domain expertise"
+      "journalism",
+      "multimedia",
+      "politics",
+      "accuracy",
+      "impartiality",
+      "develop",
+      "collaboration skills"
     ],
     "remote": "Hybrid",
     "type": "Full time",
@@ -550,7 +555,7 @@
     "category": "News & Editorial Careers",
     "ml_job_parser": {
       "descriptionTeaser": "The editor will lead a team of White House reporters, working closely with reporters to develop sources and break news in covering the Trump administration, its personalities and its policies, ranging...",
-      "descriptionTeaser_first200": "Reuters is looking for an exceptional editor to lead its White House team and drive coverage of some of the world's biggest stories. The editor will have a record of strong coverage, ranging from b...",
+      "descriptionTeaser_first200": "Reuters is looking for an exceptional editor to lead its White House team and drive coverage of some of the world's biggest stories. The editor will have a record of strong coverage, ranging from...",
       "descriptionTeaser_keyword": "Reuters is looking for an exceptional editor to lead its White House team and drive coverage of some of the world's biggest stories. The editor will have a record of strong coverage, ranging from brea...",
       "descriptionTeaser_ats": ""
     },
@@ -563,107 +568,6 @@
           "lat": 38.9004793
         },
         "location": "Washington, District of Columbia, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Washington, District of Columbia",
-    "country": "United States of America",
-    "ml_skills": [
-      "english proficiency",
-      "develop",
-      "engagement",
-      "developing",
-      "salesforce",
-      "complex sales",
-      "technology solutions",
-      "geography",
-      "territory growth"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "The Legal Writer will research, write and publish timely legal analysis articles on developments in litigation, legislation and regulation. Experience in legal journalism, news or other writing enviro...",
-    "state": "District of Columbia",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-77.0311952",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ185179",
-    "jobId": "JREQ185179",
-    "city": "Washington",
-    "latitude": "38.9004793",
-    "locale": "en_US",
-    "multi_location": [
-      "Washington, District of Columbia, United States of America",
-      "Ann Arbor, Michigan, United States of America",
-      "Frisco, Texas, United States of America",
-      "Eagan, Minnesota, United States of America",
-      "New York, New York, United States of America"
-    ],
-    "title": "Legal Writer",
-    "jobSeqNo": "THTTRUUSJREQ185179EXTERNALENUS",
-    "postedDate": "2025-01-14T00:00:00.000+0000",
-    "dateCreated": "2024-11-21T20:37:41.883+0000",
-    "cityStateCountry": "Washington, District of Columbia, United States of America",
-    "address": "1333 H Street NW, Suite 500, Washington, DC 20005, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Washington-1333-H-Street-N/Legal-Writer_JREQ185179/apply",
-    "location": "Washington, District of Columbia, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "The Legal Writer will research, write and publish timely legal analysis articles on developments in litigation, legislation and regulation. Experience in legal journalism, news or other writing enviro...",
-      "descriptionTeaser_first200": "Legal Writer. Do you enjoy researching, writing and publishing legal articles? Thomson Reuters is seeking a Legal Writer to deliver legal analysis and current awareness information to Westlaw Today...",
-      "descriptionTeaser_keyword": "Legal Writer. Do you enjoy researching, writing and publishing legal articles? Thomson Reuters is seeking a Legal Writer to deliver legal analysis and current awareness information to Westlaw Today fo...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -77.0311952,
-          "lat": 38.9004793
-        },
-        "location": "Washington, District of Columbia, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -83.7267835,
-          "lat": 42.1957259
-        },
-        "location": "Ann Arbor, Michigan, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -96.833545,
-          "lat": 33.1073049
-        },
-        "location": "Frisco, Texas, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -93.10808019999999,
-          "lat": 44.8527611
-        },
-        "location": "Eagan, Minnesota, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -73.9866995,
-          "lat": 40.7566955
-        },
-        "location": "New York, New York, United States of America"
       }
     ],
     "isMultiCategory": true,
@@ -754,6 +658,107 @@
           "lat": 33.1073049
         },
         "location": "Frisco, Texas, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Washington, District of Columbia",
+    "country": "United States of America",
+    "ml_skills": [
+      "legal research",
+      "legal analysis",
+      "jurisprudence",
+      "accuracy",
+      "westlaw",
+      "writer",
+      "journalism",
+      "quality",
+      "develop"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "The Legal Writer will research, write and publish timely legal analysis articles on developments in litigation, legislation and regulation. Experience in legal journalism, news or other writing enviro...",
+    "state": "District of Columbia",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-77.0311952",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ185179",
+    "jobId": "JREQ185179",
+    "city": "Washington",
+    "latitude": "38.9004793",
+    "locale": "en_US",
+    "multi_location": [
+      "Washington, District of Columbia, United States of America",
+      "Ann Arbor, Michigan, United States of America",
+      "Frisco, Texas, United States of America",
+      "Eagan, Minnesota, United States of America",
+      "New York, New York, United States of America"
+    ],
+    "title": "Legal Writer",
+    "jobSeqNo": "THTTRUUSJREQ185179EXTERNALENUS",
+    "postedDate": "2025-01-14T00:00:00.000+0000",
+    "dateCreated": "2024-11-21T20:37:41.883+0000",
+    "cityStateCountry": "Washington, District of Columbia, United States of America",
+    "address": "1333 H Street NW, Suite 500, Washington, DC 20005, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Washington-1333-H-Street-N/Legal-Writer_JREQ185179/apply",
+    "location": "Washington, District of Columbia, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "The Legal Writer will research, write and publish timely legal analysis articles on developments in litigation, legislation and regulation. Experience in legal journalism, news or other writing enviro...",
+      "descriptionTeaser_first200": "Legal Writer. Do you enjoy researching, writing and publishing legal articles? Thomson Reuters is seeking a Legal Writer to deliver legal analysis and current awareness information to Westlaw Toda...",
+      "descriptionTeaser_keyword": "Legal Writer. Do you enjoy researching, writing and publishing legal articles? Thomson Reuters is seeking a Legal Writer to deliver legal analysis and current awareness information to Westlaw Today fo...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -77.0311952,
+          "lat": 38.9004793
+        },
+        "location": "Washington, District of Columbia, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -83.7267835,
+          "lat": 42.1957259
+        },
+        "location": "Ann Arbor, Michigan, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -96.833545,
+          "lat": 33.1073049
+        },
+        "location": "Frisco, Texas, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -93.10808019999999,
+          "lat": 44.8527611
+        },
+        "location": "Eagan, Minnesota, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -73.9866995,
+          "lat": 40.7566955
+        },
+        "location": "New York, New York, United States of America"
       }
     ],
     "isMultiCategory": true,
@@ -1423,82 +1428,6 @@
     "cityState": "Frisco, Texas",
     "country": "United States of America",
     "ml_skills": [
-      "tax software",
-      "tax preparation",
-      "auditing",
-      "feedback",
-      "accuracy",
-      "research tools",
-      "quality",
-      "provide feedback"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "As a Tax Analyst on this project, you will utilize your tax knowledge and experience within a small team in a unique, flexible work environment. Develops tax, accounting, auditing, and other specializ...",
-    "state": "Texas",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-96.833545",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ186349",
-    "jobId": "JREQ186349",
-    "city": "Frisco",
-    "latitude": "33.1073049",
-    "locale": "en_US",
-    "multi_location": [
-      "Frisco, Texas, United States of America",
-      "Ann Arbor, Michigan, United States of America"
-    ],
-    "title": "Tax Analyst",
-    "jobSeqNo": "THTTRUUSJREQ186349EXTERNALENUS",
-    "postedDate": "2025-01-12T00:00:00.000+0000",
-    "dateCreated": "2024-12-20T20:47:44.687+0000",
-    "cityStateCountry": "Frisco, Texas, United States of America",
-    "address": "6160 Warren Parkway, Frisco, TX 75034, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Frisco-6160-Warren-Parkway/Tax-Analyst_JREQ186349/apply",
-    "location": "Frisco, Texas, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "As a Tax Analyst on this project, you will utilize your tax knowledge and experience within a small team in a unique, flexible work environment. Develops tax, accounting, auditing, and other specializ...",
-      "descriptionTeaser_first200": "Summary. We are seeking a skilled and experienced Tax Analyst to join our team. The ideal candidate will deeply understand tax software and research tools. About the role. You will participate in u...",
-      "descriptionTeaser_keyword": "Summary. We are seeking a skilled and experienced Tax Analyst to join our team. The ideal candidate will deeply understand tax software and research tools. About the role. You will participate in util...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -96.833545,
-          "lat": 33.1073049
-        },
-        "location": "Frisco, Texas, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -83.7267835,
-          "lat": 42.1957259
-        },
-        "location": "Ann Arbor, Michigan, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Frisco, Texas",
-    "country": "United States of America",
-    "ml_skills": [
       "commerce",
       "tax research",
       "corporate tax",
@@ -1559,158 +1488,6 @@
           "lat": 33.1073049
         },
         "location": "Frisco, Texas, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Frisco, Texas",
-    "country": "United States of America",
-    "ml_skills": [
-      "analytical skills",
-      "prioritize tasks",
-      "agile environment",
-      "curiosity",
-      "advising clients",
-      "collaborate",
-      "artificial intelligence",
-      "tax law",
-      "technology solutions",
-      "technical expertise",
-      "checkpoint",
-      "actionable insights",
-      "ai solutions",
-      "strategic programs",
-      "ai",
-      "provide feedback",
-      "content delivery",
-      "quality",
-      "tax research",
-      "research methodologies"
-    ],
-    "remote": "Remote",
-    "type": "Full time",
-    "descriptionTeaser": "We are seeking a passionate tax professional who thrives on the complexity and intricacy of tax advisory work. As a Tax Editor, you will have the chance to create industry-leading content and make a s...",
-    "state": "Texas",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-96.833545",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ186123",
-    "jobId": "JREQ186123",
-    "city": "Frisco",
-    "latitude": "33.1073049",
-    "locale": "en_US",
-    "multi_location": [
-      "Frisco, Texas, United States of America",
-      "Denver, Colorado, United States of America",
-      "Hartford, Connecticut, United States of America",
-      "Las Vegas, Nevada, United States of America",
-      "Los Angeles, California, United States of America",
-      "Seattle, Washington, United States of America",
-      "Ann Arbor, Michigan, United States of America",
-      "Eagan, Minnesota, United States of America",
-      "New York, New York, United States of America",
-      "Washington, DC, District of Columbia, United States of America"
-    ],
-    "title": "Tax Editor (Remote)",
-    "jobSeqNo": "THTTRUUSJREQ186123EXTERNALENUS",
-    "postedDate": "2025-01-12T00:00:00.000+0000",
-    "dateCreated": "2024-12-18T16:47:00.489+0000",
-    "cityStateCountry": "Frisco, Texas, United States of America",
-    "address": "6160 Warren Parkway, Frisco, TX 75034, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Frisco-6160-Warren-Parkway/Tax-Editor--Remote-_JREQ186123/apply",
-    "location": "Frisco, Texas, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "We are seeking a passionate tax professional who thrives on the complexity and intricacy of tax advisory work. As a Tax Editor, you will have the chance to create industry-leading content and make a s...",
-      "descriptionTeaser_first200": "Tax Editor . Role Summary. We are seeking a passionate tax professional who thrives on the complexity and intricacy of tax advisory work. The ideal candidate is a lifelong learner with an insatiabl...",
-      "descriptionTeaser_keyword": "Tax Editor. Role Summary. We are seeking a passionate tax professional who thrives on the complexity and intricacy of tax advisory work. The ideal candidate is a lifelong learner with an insatiable cu...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -96.833545,
-          "lat": 33.1073049
-        },
-        "location": "Frisco, Texas, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -104.9904855,
-          "lat": 39.7471139
-        },
-        "location": "Denver, Colorado, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -72.6622361,
-          "lat": 41.7899681
-        },
-        "location": "Hartford, Connecticut, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -115.14,
-          "lat": 36.18
-        },
-        "location": "Las Vegas, Nevada, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -118.2543447,
-          "lat": 34.0511145
-        },
-        "location": "Los Angeles, California, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -122.336407,
-          "lat": 47.6084921
-        },
-        "location": "Seattle, Washington, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -83.7267835,
-          "lat": 42.1957259
-        },
-        "location": "Ann Arbor, Michigan, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -93.10808019999999,
-          "lat": 44.8527611
-        },
-        "location": "Eagan, Minnesota, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -73.9866995,
-          "lat": 40.7566955
-        },
-        "location": "New York, New York, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -77.0190228,
-          "lat": 38.912068
-        },
-        "location": "Washington, DC, District of Columbia, United States of America"
       }
     ],
     "isMultiCategory": true,
@@ -1815,6 +1592,82 @@
     "badge": ""
   },
   {
+    "cityState": "Frisco, Texas",
+    "country": "United States of America",
+    "ml_skills": [
+      "tax software",
+      "tax preparation",
+      "auditing",
+      "feedback",
+      "accuracy",
+      "research tools",
+      "quality",
+      "provide feedback"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "As a Tax Analyst on this project, you will utilize your tax knowledge and experience within a small team in a unique, flexible work environment. Develops tax, accounting, auditing, and other specializ...",
+    "state": "Texas",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-96.833545",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ186349",
+    "jobId": "JREQ186349",
+    "city": "Frisco",
+    "latitude": "33.1073049",
+    "locale": "en_US",
+    "multi_location": [
+      "Frisco, Texas, United States of America",
+      "Ann Arbor, Michigan, United States of America"
+    ],
+    "title": "Tax Analyst",
+    "jobSeqNo": "THTTRUUSJREQ186349EXTERNALENUS",
+    "postedDate": "2025-01-12T00:00:00.000+0000",
+    "dateCreated": "2024-12-20T20:47:44.687+0000",
+    "cityStateCountry": "Frisco, Texas, United States of America",
+    "address": "6160 Warren Parkway, Frisco, TX 75034, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Frisco-6160-Warren-Parkway/Tax-Analyst_JREQ186349/apply",
+    "location": "Frisco, Texas, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "As a Tax Analyst on this project, you will utilize your tax knowledge and experience within a small team in a unique, flexible work environment. Develops tax, accounting, auditing, and other specializ...",
+      "descriptionTeaser_first200": "Summary. We are seeking a skilled and experienced Tax Analyst to join our team. The ideal candidate will deeply understand tax software and research tools. About the role. You will participate in...",
+      "descriptionTeaser_keyword": "Summary. We are seeking a skilled and experienced Tax Analyst to join our team. The ideal candidate will deeply understand tax software and research tools. About the role. You will participate in util...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -96.833545,
+          "lat": 33.1073049
+        },
+        "location": "Frisco, Texas, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -83.7267835,
+          "lat": 42.1957259
+        },
+        "location": "Ann Arbor, Michigan, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "New York, New York",
     "country": "United States of America",
     "ml_skills": [
@@ -1868,6 +1721,154 @@
           "lat": 40.7566955
         },
         "location": "New York, New York, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Frisco, Texas",
+    "country": "United States of America",
+    "ml_skills": [
+      "content delivery",
+      "collaborate",
+      "analytical skills",
+      "technical expertise",
+      "curiosity",
+      "prioritize tasks",
+      "provide feedback",
+      "actionable insights",
+      "quality",
+      "ai",
+      "artificial intelligence",
+      "technology solutions",
+      "agile environment",
+      "advising clients",
+      "strategic programs",
+      "ai solutions"
+    ],
+    "remote": "Remote",
+    "type": "Full time",
+    "descriptionTeaser": "We are seeking a passionate tax professional who thrives on the complexity and intricacy of tax advisory work. As a Tax Editor, you will have the chance to create industry-leading content and make a s...",
+    "state": "Texas",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-96.833545",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ186123",
+    "jobId": "JREQ186123",
+    "city": "Frisco",
+    "latitude": "33.1073049",
+    "locale": "en_US",
+    "multi_location": [
+      "Frisco, Texas, United States of America",
+      "Denver, Colorado, United States of America",
+      "Hartford, Connecticut, United States of America",
+      "Las Vegas, Nevada, United States of America",
+      "Los Angeles, California, United States of America",
+      "Seattle, Washington, United States of America",
+      "Ann Arbor, Michigan, United States of America",
+      "Eagan, Minnesota, United States of America",
+      "New York, New York, United States of America",
+      "Washington, DC, District of Columbia, United States of America"
+    ],
+    "title": "Tax Editor (Remote)",
+    "jobSeqNo": "THTTRUUSJREQ186123EXTERNALENUS",
+    "postedDate": "2025-01-12T00:00:00.000+0000",
+    "dateCreated": "2024-12-18T16:47:00.489+0000",
+    "cityStateCountry": "Frisco, Texas, United States of America",
+    "address": "6160 Warren Parkway, Frisco, TX 75034, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Frisco-6160-Warren-Parkway/Tax-Editor--Remote-_JREQ186123/apply",
+    "location": "Frisco, Texas, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "We are seeking a passionate tax professional who thrives on the complexity and intricacy of tax advisory work. As a Tax Editor, you will have the chance to create industry-leading content and make a s...",
+      "descriptionTeaser_first200": "Tax Editor . Role Summary. We are seeking a passionate tax professional who thrives on the complexity and intricacy of tax advisory work. The ideal candidate is a lifelong learner with an insatiab...",
+      "descriptionTeaser_keyword": "Tax Editor. Role Summary. We are seeking a passionate tax professional who thrives on the complexity and intricacy of tax advisory work. The ideal candidate is a lifelong learner with an insatiable cu...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -96.833545,
+          "lat": 33.1073049
+        },
+        "location": "Frisco, Texas, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -104.9904855,
+          "lat": 39.7471139
+        },
+        "location": "Denver, Colorado, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -72.6622361,
+          "lat": 41.7899681
+        },
+        "location": "Hartford, Connecticut, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -115.14,
+          "lat": 36.18
+        },
+        "location": "Las Vegas, Nevada, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -118.2543447,
+          "lat": 34.0511145
+        },
+        "location": "Los Angeles, California, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -122.336407,
+          "lat": 47.6084921
+        },
+        "location": "Seattle, Washington, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -83.7267835,
+          "lat": 42.1957259
+        },
+        "location": "Ann Arbor, Michigan, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -93.10808019999999,
+          "lat": 44.8527611
+        },
+        "location": "Eagan, Minnesota, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -73.9866995,
+          "lat": 40.7566955
+        },
+        "location": "New York, New York, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -77.0190228,
+          "lat": 38.912068
+        },
+        "location": "Washington, DC, District of Columbia, United States of America"
       }
     ],
     "isMultiCategory": true,
