@@ -216,6 +216,72 @@
     "badge": ""
   },
   {
+    "cityState": "Bengaluru, Karnataka",
+    "country": "India",
+    "ml_skills": [
+      "journalism",
+      "publishing",
+      "multimedia",
+      "mass communication",
+      "geography",
+      "curating"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "The news publishing specialist will work with Reuters' editors in deciding top stories and packages and present them on real-time basis to clients. Packaging involves putting together stories, pics an...",
+    "state": "Karnataka",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "77.7120655",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ185974",
+    "jobId": "JREQ185974",
+    "city": "Bengaluru",
+    "latitude": "12.9743998",
+    "locale": "en_US",
+    "multi_location": [
+      "Bengaluru, Karnataka, India"
+    ],
+    "title": "News Publishing Specialist",
+    "jobSeqNo": "THTTRUUSJREQ185974EXTERNALENUS",
+    "postedDate": "2025-02-10T00:00:00.000+0000",
+    "dateCreated": "2024-12-12T16:47:12.868+0000",
+    "cityStateCountry": "Bengaluru, Karnataka, India",
+    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/News-Publishing-Specialist_JREQ185974/apply",
+    "location": "Bengaluru, Karnataka, India",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "The news publishing specialist will work with Reuters' editors in deciding top stories and packages and present them on real-time basis to clients. Packaging involves putting together stories, pics an...",
+      "descriptionTeaser_first200": "News Publishing Specialist, Publishing Team. Do you enjoy reading global news, and can discern the most important stories of the day? Are you interested in being the person that decides which stori...",
+      "descriptionTeaser_keyword": "News Publishing Specialist, Publishing Team. Do you enjoy reading global news, and can discern the most important stories of the day? Are you interested in being the person that decides which stories...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 77.7120655,
+          "lat": 12.9743998
+        },
+        "location": "Bengaluru, Karnataka, India"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "London",
     "country": "United Kingdom",
     "ml_skills": [
@@ -4090,73 +4156,6 @@
     "badge": ""
   },
   {
-    "cityState": "Toronto, Ontario",
-    "country": "Canada",
-    "ml_skills": [
-      "publishing",
-      "legal research",
-      "accuracy",
-      "writing skills",
-      "quality",
-      "english communication",
-      "feedback"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Provides legal interpretation in the form of research, analysis, and writing to support the development and maintenance of Thomson Reuters information in all media, and ensure that published informati...",
-    "state": "Ontario",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-79.3884094",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ187006",
-    "jobId": "JREQ187006",
-    "city": "Toronto",
-    "latitude": "43.6480117",
-    "locale": "en_US",
-    "multi_location": [
-      "Toronto, Ontario, Canada"
-    ],
-    "title": "Legal Publisher",
-    "jobSeqNo": "THTTRUUSJREQ187006EXTERNALENUS",
-    "postedDate": "2025-01-20T00:00:00.000+0000",
-    "dateCreated": "2025-01-20T20:42:22.198+0000",
-    "cityStateCountry": "Toronto, Ontario, Canada",
-    "address": "19 Duncan Street, Toronto, ON M5H 3H1, Canada",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CAN-Toronto-19-Duncan-Street/Legal-Publisher_JREQ187006/apply",
-    "location": "Toronto, Ontario, Canada",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Provides legal interpretation in the form of research, analysis, and writing to support the development and maintenance of Thomson Reuters information in all media, and ensure that published informati...",
-      "descriptionTeaser_first200": "Legal Publisher. Role Summary. Provides legal interpretation in the form of research, analysis, and writing to support the development and maintenance of Thomson Reuters information in all media, a...",
-      "descriptionTeaser_keyword": "Legal Publisher. Role Summary. Provides legal interpretation in the form of research, analysis, and writing to support the development and maintenance of Thomson Reuters information in all media, and...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -79.3884094,
-          "lat": 43.6480117
-        },
-        "location": "Toronto, Ontario, Canada"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "London",
     "country": "United Kingdom",
     "ml_skills": [
@@ -4578,159 +4577,6 @@
           "lat": 40.7566955
         },
         "location": "New York, New York, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Eagan, Minnesota",
-    "country": "United States of America",
-    "ml_skills": [
-      "auditing",
-      "financial advisory",
-      "analytical skills",
-      "accounting standards",
-      "actionable insights",
-      "research tools",
-      "strategic programs",
-      "research methodologies",
-      "content delivery",
-      "artificial intelligence",
-      "prioritize tasks",
-      "technical expertise",
-      "ai",
-      "curiosity",
-      "quality",
-      "collaborate",
-      "advising clients",
-      "technology solutions",
-      "ai solutions",
-      "agile environment",
-      "provide feedback"
-    ],
-    "remote": "Remote",
-    "type": "Full time",
-    "descriptionTeaser": "We are seeking a passionate audit/accounting professional who thrives on the complexity and intricacy of consulting and advisory work. As an Audit/Accounting Editor, you will have the chance to create...",
-    "state": "Minnesota",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-93.10808019999999",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ186117",
-    "jobId": "JREQ186117",
-    "city": "Eagan",
-    "latitude": "44.8527611",
-    "locale": "en_US",
-    "multi_location": [
-      "Eagan, Minnesota, United States of America",
-      "Denver, Colorado, United States of America",
-      "Hartford, Connecticut, United States of America",
-      "Las Vegas, Nevada, United States of America",
-      "Los Angeles, California, United States of America",
-      "Seattle, Washington, United States of America",
-      "Ann Arbor, Michigan, United States of America",
-      "Frisco, Texas, United States of America",
-      "New York, New York, United States of America",
-      "Washington, DC, District of Columbia, United States of America"
-    ],
-    "title": "Accounting Specialist Editor (Remote)",
-    "jobSeqNo": "THTTRUUSJREQ186117EXTERNALENUS",
-    "postedDate": "2025-01-12T00:00:00.000+0000",
-    "dateCreated": "2024-12-18T16:47:00.687+0000",
-    "cityStateCountry": "Eagan, Minnesota, United States of America",
-    "address": "2900 Ames Crossing Road, Ste 100, Eagan, MN 55121, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MSP-2900-Ames-Crossing-Road/Accounting-Specialist-Editor--Remote-_JREQ186117/apply",
-    "location": "Eagan, Minnesota, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "We are seeking a passionate audit/accounting professional who thrives on the complexity and intricacy of consulting and advisory work. As an Audit/Accounting Editor, you will have the chance to create...",
-      "descriptionTeaser_first200": "Accounting Specialist Editor. Role Summary. We are seeking a passionate audit/accounting professional who thrives on the complexity and intricacy of consulting and advisory work. The ideal candidat...",
-      "descriptionTeaser_keyword": "Accounting Specialist Editor. Role Summary. We are seeking a passionate audit/accounting professional who thrives on the complexity and intricacy of consulting and advisory work. The ideal candidate i...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -93.10808019999999,
-          "lat": 44.8527611
-        },
-        "location": "Eagan, Minnesota, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -104.9904855,
-          "lat": 39.7471139
-        },
-        "location": "Denver, Colorado, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -72.6622361,
-          "lat": 41.7899681
-        },
-        "location": "Hartford, Connecticut, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -115.14,
-          "lat": 36.18
-        },
-        "location": "Las Vegas, Nevada, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -118.2543447,
-          "lat": 34.0511145
-        },
-        "location": "Los Angeles, California, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -122.336407,
-          "lat": 47.6084921
-        },
-        "location": "Seattle, Washington, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -83.7267835,
-          "lat": 42.1957259
-        },
-        "location": "Ann Arbor, Michigan, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -96.833545,
-          "lat": 33.1073049
-        },
-        "location": "Frisco, Texas, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -73.9866995,
-          "lat": 40.7566955
-        },
-        "location": "New York, New York, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -77.0190228,
-          "lat": 38.912068
-        },
-        "location": "Washington, DC, District of Columbia, United States of America"
       }
     ],
     "isMultiCategory": true,
@@ -5638,72 +5484,6 @@
           "lat": 51.5056439
         },
         "location": "London, United Kingdom"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Bengaluru, Karnataka",
-    "country": "India",
-    "ml_skills": [
-      "journalism",
-      "publishing",
-      "multimedia",
-      "mass communication",
-      "geography",
-      "curating"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "The news publishing specialist will work with Reuters' editors in deciding top stories and packages and present them on real-time basis to clients. Packaging involves putting together stories, pics an...",
-    "state": "Karnataka",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "77.7120655",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ185974",
-    "jobId": "JREQ185974",
-    "city": "Bengaluru",
-    "latitude": "12.9743998",
-    "locale": "en_US",
-    "multi_location": [
-      "Bengaluru, Karnataka, India"
-    ],
-    "title": "News Publishing Specialist",
-    "jobSeqNo": "THTTRUUSJREQ185974EXTERNALENUS",
-    "postedDate": "2024-12-12T00:00:00.000+0000",
-    "dateCreated": "2024-12-12T16:47:12.868+0000",
-    "cityStateCountry": "Bengaluru, Karnataka, India",
-    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/News-Publishing-Specialist_JREQ185974/apply",
-    "location": "Bengaluru, Karnataka, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "The news publishing specialist will work with Reuters' editors in deciding top stories and packages and present them on real-time basis to clients. Packaging involves putting together stories, pics an...",
-      "descriptionTeaser_first200": "News Publishing Specialist, Publishing Team. Do you enjoy reading global news, and can discern the most important stories of the day? Are you interested in being the person that decides which stor...",
-      "descriptionTeaser_keyword": "News Publishing Specialist, Publishing Team. Do you enjoy reading global news, and can discern the most important stories of the day? Are you interested in being the person that decides which stories...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 77.7120655,
-          "lat": 12.9743998
-        },
-        "location": "Bengaluru, Karnataka, India"
       }
     ],
     "isMultiCategory": true,
