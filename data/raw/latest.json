@@ -1,18 +1,67 @@
 [
   {
+    "cityState": "Moscow",
+    "country": "Russian Federation",
+    "ml_skills": [],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "You will have a strong ability to remain focused and organized under pressure and a passion for working with high-performance teams. Work on day-to-day news coverage and handle breaking news stories a...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "37.6175753",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ187629",
+    "jobId": "JREQ187629",
+    "city": "Moscow",
+    "latitude": "55.7618924",
+    "locale": "en_US",
+    "multi_location": [
+      "Moscow, Russian Federation"
+    ],
+    "title": "Output Producer - Reuters (Moscow)",
+    "jobSeqNo": "THTTRUUSJREQ187629EXTERNALENUS",
+    "postedDate": "2025-02-14T00:00:00.000+0000",
+    "dateCreated": "2025-02-14T12:43:12.830+0000",
+    "cityStateCountry": "Moscow, Russian Federation",
+    "address": "5 Petrovka street, Berlin Haus Business Centre, Moscow, 107031, Russian Federation",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/RUS-Moscow-5-Petrovka-Street/Output-Producer---Reuters--Moscow-_JREQ187629/apply",
+    "location": "Moscow, Russian Federation",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "You will have a strong ability to remain focused and organized under pressure and a passion for working with high-performance teams. Work on day-to-day news coverage and handle breaking news stories a...",
+      "descriptionTeaser_first200": "Output Producer - Reuters. This position will be based in Moscow. Reuters is looking for a talented television news journalist to join the team in our bureau in Moscow. You will help deliver breaki...",
+      "descriptionTeaser_keyword": "Output Producer - Reuters. This position will be based in Moscow. Reuters is looking for a talented television news journalist to join the team in our bureau in Moscow. You will help deliver breaking...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 37.6175753,
+          "lat": 55.7618924
+        },
+        "location": "Moscow, Russian Federation"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Madrid",
     "country": "Spain",
-    "ml_skills": [
-      "creative flair",
-      "english",
-      "multimedia",
-      "script writing",
-      "storytelling",
-      "collaborate",
-      "portuguese",
-      "write scripts",
-      "agility"
-    ],
+    "ml_skills": [],
     "remote": "Hybrid",
     "type": "Full time",
     "descriptionTeaser": "Reuters is looking for a dynamic Visual Producer with a creative flair and strong teamwork skills to join our Iberia team in Spain. Identify news stories and interesting story angles, coordinating bet...",
@@ -66,65 +115,6 @@
           "lat": 41.3953587
         },
         "location": "Sarri\u00e0-Sant Gervasi, Barcelona, Spain"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Moscow",
-    "country": "Russian Federation",
-    "ml_skills": [],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "You will have a strong ability to remain focused and organized under pressure and a passion for working with high-performance teams. Work on day-to-day news coverage and handle breaking news stories a...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "37.6175753",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ187629",
-    "jobId": "JREQ187629",
-    "city": "Moscow",
-    "latitude": "55.7618924",
-    "locale": "en_US",
-    "multi_location": [
-      "Moscow, Russian Federation"
-    ],
-    "title": "Output Producer - Reuters (Moscow)",
-    "jobSeqNo": "THTTRUUSJREQ187629EXTERNALENUS",
-    "postedDate": "2025-02-14T00:00:00.000+0000",
-    "dateCreated": "2025-02-14T12:43:12.830+0000",
-    "cityStateCountry": "Moscow, Russian Federation",
-    "address": "5 Petrovka street, Berlin Haus Business Centre, Moscow, 107031, Russian Federation",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/RUS-Moscow-5-Petrovka-Street/Output-Producer---Reuters--Moscow-_JREQ187629/apply",
-    "location": "Moscow, Russian Federation",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "You will have a strong ability to remain focused and organized under pressure and a passion for working with high-performance teams. Work on day-to-day news coverage and handle breaking news stories a...",
-      "descriptionTeaser_first200": "Output Producer - Reuters. This position will be based in Moscow. Reuters is looking for a talented television news journalist to join the team in our bureau in Moscow. You will help deliver breaki...",
-      "descriptionTeaser_keyword": "Output Producer - Reuters. This position will be based in Moscow. Reuters is looking for a talented television news journalist to join the team in our bureau in Moscow. You will help deliver breaking...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 37.6175753,
-          "lat": 55.7618924
-        },
-        "location": "Moscow, Russian Federation"
       }
     ],
     "isMultiCategory": true,
@@ -489,7 +479,20 @@
   {
     "cityState": "Eagan, Minnesota",
     "country": "United States of America",
-    "ml_skills": [],
+    "ml_skills": [
+      "publishing",
+      "westlaw",
+      "accuracy",
+      "legal research",
+      "quality",
+      "curiosity",
+      "content delivery",
+      "english communication",
+      "proview",
+      "develop",
+      "communicate effectively",
+      "prioritize tasks"
+    ],
     "remote": "Hybrid",
     "type": "Full time",
     "descriptionTeaser": "Join our Global Legal Commentary team to source, create, edit, and maintain high-quality legal content for platforms like Westlaw, print, and Proview. Editorial Responsibilities:Source, review, and ma...",
@@ -522,7 +525,7 @@
     "category": "News & Editorial Careers",
     "ml_job_parser": {
       "descriptionTeaser": "Join our Global Legal Commentary team to source, create, edit, and maintain high-quality legal content for platforms like Westlaw, print, and Proview. Editorial Responsibilities:Source, review, and ma...",
-      "descriptionTeaser_first200": "Join our Global Legal Commentary team to source, create, edit, and maintain high-quality legal content for platforms like Westlaw, print, and Proview. This entry-level role requires strong editoria...",
+      "descriptionTeaser_first200": "Join our Global Legal Commentary team to source, create, edit, and maintain high-quality legal content for platforms like Westlaw, print, and Proview. This entry-level role requires strong editori...",
       "descriptionTeaser_keyword": "Join our Global Legal Commentary team to source, create, edit, and maintain high-quality legal content for platforms like Westlaw, print, and Proview. This entry-level role requires strong editorial s...",
       "descriptionTeaser_ats": ""
     },
@@ -6955,86 +6958,6 @@
           "lat": 31.24097799999999
         },
         "location": "Shanghai, Shanghai, China"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "London",
-    "country": "United Kingdom",
-    "ml_skills": [
-      "itil",
-      "it security",
-      "apple products",
-      "communication systems",
-      "unix",
-      "video production",
-      "linux",
-      "computer science",
-      "cloud computing",
-      "jamf",
-      "ip technologies",
-      "scripting language",
-      "change management",
-      "system configuration",
-      "video over ip",
-      "system configuration management tools",
-      "change management process",
-      "cloud computing concepts",
-      "service improvement",
-      "editing"
-    ],
-    "remote": "On-Site",
-    "type": "Full time",
-    "descriptionTeaser": "Excellent knowledge of video over IP technologies, e. Excellent knowledge of Apple products and management systems like JAMF. Knowledge of IT security best practices. Knowledge of server-based product...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-0.0185088",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ182593",
-    "jobId": "JREQ182593",
-    "city": "London",
-    "latitude": "51.5056439",
-    "locale": "en_US",
-    "multi_location": [
-      "London, United Kingdom"
-    ],
-    "title": "Maintenance & Support Specialist",
-    "jobSeqNo": "THTTRUUSJREQ182593EXTERNALENUS",
-    "postedDate": "2024-09-20T00:00:00.000+0000",
-    "dateCreated": "2024-09-20T12:38:58.841+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Maintenance---Support-Specialist_JREQ182593/apply",
-    "location": "London, United Kingdom",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Excellent knowledge of video over IP technologies, e. Excellent knowledge of Apple products and management systems like JAMF. Knowledge of IT security best practices. Knowledge of server-based product...",
-      "descriptionTeaser_first200": "Thomson Reuters is looking for a Maintenance & Support Specialist to be a part of our Special Technology Services and TV Support Teams based in London. The successful candidate will be accountable...",
-      "descriptionTeaser_keyword": "Thomson Reuters is looking for a Maintenance & Support Specialist to be a part of our Special Technology Services and TV Support Teams based in London. The successful candidate will be accountable for...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -0.0185088,
-          "lat": 51.5056439
-        },
-        "location": "London, United Kingdom"
       }
     ],
     "isMultiCategory": true,
