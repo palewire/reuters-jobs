@@ -140,6 +140,74 @@
     "badge": ""
   },
   {
+    "cityState": "Gdansk",
+    "country": "Poland",
+    "ml_skills": [
+      "journalism",
+      "italian",
+      "portuguese",
+      "french",
+      "german",
+      "multimedia",
+      "journalists",
+      "collaborate"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Applicants must speak fluent English and have strong conversational skills in at least one additional European language. How to translate market reports, general, political, economic and company news...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "18.5752702",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ187710",
+    "jobId": "JREQ187710",
+    "city": "Gdansk",
+    "latitude": "54.4004235",
+    "locale": "en_US",
+    "multi_location": [
+      "Gdansk, Poland"
+    ],
+    "title": "Reuters News Summer Internship Programme (Gdansk, Poland)",
+    "jobSeqNo": "THTTRUUSJREQ187710EXTERNALENUS",
+    "postedDate": "2025-02-17T00:00:00.000+0000",
+    "dateCreated": "2025-02-12T16:43:36.928+0000",
+    "cityStateCountry": "Gdansk, Poland",
+    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/Reuters-News-Summer-Internship-Programme--Gdansk--Poland-_JREQ187710/apply",
+    "location": "Gdansk, Poland",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Applicants must speak fluent English and have strong conversational skills in at least one additional European language. How to translate market reports, general, political, economic and company news...",
+      "descriptionTeaser_first200": "Reuters News Summer Internship Programme (Gdansk, Poland) . Reuters is seeking ambitious, energetic graduates and/or final year students with excellent language skills to join its real-time news op...",
+      "descriptionTeaser_keyword": "Reuters News Summer Internship Programme (Gdansk, Poland). Reuters is seeking ambitious, energetic graduates and/or final year students with excellent language skills to join its real-time news operat...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 18.5752702,
+          "lat": 54.4004235
+        },
+        "location": "Gdansk, Poland"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Moscow",
     "country": "Russian Federation",
     "ml_skills": [
@@ -770,73 +838,6 @@
           "lat": 44.8527611
         },
         "location": "Eagan, Minnesota, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Gdansk",
-    "country": "Poland",
-    "ml_skills": [
-      "journalism",
-      "italian",
-      "portuguese",
-      "french",
-      "german",
-      "multimedia",
-      "collaborate"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Applicants must speak fluent English and have strong conversational skills in at least one additional European language. How to translate market reports, general, political, economic and company news...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "18.5752702",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ187710",
-    "jobId": "JREQ187710",
-    "city": "Gdansk",
-    "latitude": "54.4004235",
-    "locale": "en_US",
-    "multi_location": [
-      "Gdansk, Poland"
-    ],
-    "title": "Reuters News Summer Internship Programme (Gdansk, Poland)",
-    "jobSeqNo": "THTTRUUSJREQ187710EXTERNALENUS",
-    "postedDate": "2025-02-12T00:00:00.000+0000",
-    "dateCreated": "2025-02-12T16:43:36.928+0000",
-    "cityStateCountry": "Gdansk, Poland",
-    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/Reuters-News-Summer-Internship-Programme--Gdansk--Poland-_JREQ187710/apply",
-    "location": "Gdansk, Poland",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Applicants must speak fluent English and have strong conversational skills in at least one additional European language. How to translate market reports, general, political, economic and company news...",
-      "descriptionTeaser_first200": "Reuters News Summer Internship Programme (Gdansk, Poland) . Reuters is seeking ambitious, energetic graduates and/or final year students with excellent language skills to join its real-time news o...",
-      "descriptionTeaser_keyword": "Reuters News Summer Internship Programme (Gdansk, Poland). Reuters is seeking ambitious, energetic graduates and/or final year students with excellent language skills to join its real-time news operat...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 18.5752702,
-          "lat": 54.4004235
-        },
-        "location": "Gdansk, Poland"
       }
     ],
     "isMultiCategory": true,
