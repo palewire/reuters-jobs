@@ -1,5 +1,71 @@
 [
   {
+    "cityState": "Berlin",
+    "country": "Germany",
+    "ml_skills": [
+      "journalism",
+      "multimedia",
+      "breaking news",
+      "accuracy",
+      "change management",
+      "fluent german"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Helping to ensure our coverage in the region meets the Reuters ambitions for accuracy, speed and insight and adheres to the Reuters Trust Principles. Coordinating coverage with the regional Breaking N...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "13.3754362",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ187071",
+    "jobId": "JREQ187071",
+    "city": "Berlin",
+    "latitude": "52.5111897",
+    "locale": "en_US",
+    "multi_location": [
+      "Berlin, Germany"
+    ],
+    "title": "Deputy Bureau Chief, Germany, Switzerland and Austria",
+    "jobSeqNo": "THTTRUUSJREQ187071EXTERNALENUS",
+    "postedDate": "2025-02-18T00:00:00.000+0000",
+    "dateCreated": "2025-01-22T12:39:45.422+0000",
+    "cityStateCountry": "Berlin, Germany",
+    "address": "Berliner Freiheit 2, 10785 Berlin, Germany",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/DEU-Berlin-Berliner-Freiheit-2/Deputy-Bureau-Chief--Germany--Switzerland-and-Austria_JREQ187071/apply",
+    "location": "Berlin, Germany",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Helping to ensure our coverage in the region meets the Reuters ambitions for accuracy, speed and insight and adheres to the Reuters Trust Principles. Coordinating coverage with the regional Breaking N...",
+      "descriptionTeaser_first200": "Deputy Bureau Chief, Germany, Switzerland and Austria - Reuters. Reuters is seeking an outstanding journalist to be its deputy bureau chief for Germany, Switzerland and Austria. Based in Berlin, th...",
+      "descriptionTeaser_keyword": "Deputy Bureau Chief, Germany, Switzerland and Austria - Reuters. Reuters is seeking an outstanding journalist to be its deputy bureau chief for Germany, Switzerland and Austria. Based in Berlin, this...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 13.3754362,
+          "lat": 52.5111897
+        },
+        "location": "Berlin, Germany"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Tokyo",
     "country": "Japan",
     "ml_skills": [
@@ -4797,72 +4863,6 @@
           "lat": 14.5344436
         },
         "location": "Manila, Philippines"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Berlin",
-    "country": "Germany",
-    "ml_skills": [
-      "journalism",
-      "multimedia",
-      "breaking news",
-      "accuracy",
-      "change management",
-      "fluent german"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Helping to ensure our coverage in the region meets the Reuters ambitions for accuracy, speed and insight and adheres to the Reuters Trust Principles. Coordinating coverage with the regional Breaking N...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "13.3754362",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ187071",
-    "jobId": "JREQ187071",
-    "city": "Berlin",
-    "latitude": "52.5111897",
-    "locale": "en_US",
-    "multi_location": [
-      "Berlin, Germany"
-    ],
-    "title": "Deputy Bureau Chief, Germany, Switzerland and Austria",
-    "jobSeqNo": "THTTRUUSJREQ187071EXTERNALENUS",
-    "postedDate": "2025-01-22T00:00:00.000+0000",
-    "dateCreated": "2025-01-22T12:39:45.422+0000",
-    "cityStateCountry": "Berlin, Germany",
-    "address": "Berliner Freiheit 2, 10785 Berlin, Germany",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/DEU-Berlin-Berliner-Freiheit-2/Deputy-Bureau-Chief--Germany--Switzerland-and-Austria_JREQ187071/apply",
-    "location": "Berlin, Germany",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Helping to ensure our coverage in the region meets the Reuters ambitions for accuracy, speed and insight and adheres to the Reuters Trust Principles. Coordinating coverage with the regional Breaking N...",
-      "descriptionTeaser_first200": "Deputy Bureau Chief, Germany, Switzerland and Austria - Reuters. Reuters is seeking an outstanding journalist to be its deputy bureau chief for Germany, Switzerland and Austria. Based in Berlin, t...",
-      "descriptionTeaser_keyword": "Deputy Bureau Chief, Germany, Switzerland and Austria - Reuters. Reuters is seeking an outstanding journalist to be its deputy bureau chief for Germany, Switzerland and Austria. Based in Berlin, this...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 13.3754362,
-          "lat": 52.5111897
-        },
-        "location": "Berlin, Germany"
       }
     ],
     "isMultiCategory": true,
