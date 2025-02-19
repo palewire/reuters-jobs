@@ -1,5 +1,74 @@
 [
   {
+    "cityState": "",
+    "country": "Korea, Republic of",
+    "ml_skills": [
+      "publishing",
+      "build",
+      "brand management",
+      "product development",
+      "new product development",
+      "develop",
+      "product delivery",
+      "entrepreneurial",
+      "customer relationship"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Research Korea legal market to identify contributors/authors for substantive new product development of Annotated Commentary and Practical legal content. Build and nurture a diverse, collaborative, hi...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "127.766922",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ188193",
+    "jobId": "JREQ188193",
+    "city": "",
+    "latitude": "35.907757",
+    "locale": "en_US",
+    "multi_location": [
+      "Korea, Republic of"
+    ],
+    "title": "Commissioning Editor",
+    "jobSeqNo": "THTTRUUSJREQ188193EXTERNALENUS",
+    "postedDate": "2025-02-19T00:00:00.000+0000",
+    "dateCreated": "2025-02-19T08:43:00.304+0000",
+    "cityStateCountry": "Korea, Republic of",
+    "address": "03185, Korea, Republic of",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/KOR-Seoul-10th-Floor-S-Tower/Commissioning-Editor_JREQ188193/apply",
+    "location": "Korea, Republic of",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Research Korea legal market to identify contributors/authors for substantive new product development of Annotated Commentary and Practical legal content. Build and nurture a diverse, collaborative, hi...",
+      "descriptionTeaser_first200": "Commissioning Editor. As part of our continuous improvement of LAWnB and Korea market growth, we are planning to intensify our original content. We are therefore looking to recruit legal experts wi...",
+      "descriptionTeaser_keyword": "Commissioning Editor. As part of our continuous improvement of LAWnB and Korea market growth, we are planning to intensify our original content. We are therefore looking to recruit legal experts with...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 127.766922,
+          "lat": 35.907757
+        },
+        "location": "Korea, Republic of"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Ann Arbor, Michigan",
     "country": "United States of America",
     "ml_skills": [
@@ -6489,70 +6558,6 @@
           "lat": 12.9743998
         },
         "location": "Bengaluru, Karnataka, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Beijing, Beijing",
-    "country": "China",
-    "ml_skills": [
-      "breaking news",
-      "mandarin",
-      "graphics",
-      "multimedia"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Reuters is seeking a dynamic journalist with strong source-building skills, great story ideas and a track record of breaking news to join our Beijing-based team as China energy correspondent. Break ne...",
-    "state": "Beijing",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "116.40108",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ180722",
-    "jobId": "JREQ180722",
-    "city": "Beijing",
-    "latitude": "39.9515199",
-    "locale": "en_US",
-    "multi_location": [
-      "Beijing, Beijing, China"
-    ],
-    "title": "China Energy Correspondent",
-    "jobSeqNo": "THTTRUUSJREQ180722EXTERNALENUS",
-    "postedDate": "2024-11-04T00:00:00.000+0000",
-    "dateCreated": "2024-07-15T12:40:51.750+0000",
-    "cityStateCountry": "Beijing, Beijing, China",
-    "address": "Units 5-12, 18F / 20F, Office Tower E1 of Oriental Plaza, No.1, East Chang An Avenue, Dong Cheng District, Beijing, 100738 Beijing, China",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CHN-Beijing-Oriental-Plaza/China-Energy-Correspondent_JREQ180722/apply",
-    "location": "Beijing, Beijing, China",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Reuters is seeking a dynamic journalist with strong source-building skills, great story ideas and a track record of breaking news to join our Beijing-based team as China energy correspondent. Break ne...",
-      "descriptionTeaser_first200": "China Energy Correspondent. Reuters is seeking a dynamic journalist with strong source-building skills, great story ideas and a track record of breaking news to join our Beijing-based team as China energy...",
-      "descriptionTeaser_keyword": "China Energy Correspondent. Reuters is seeking a dynamic journalist with strong source-building skills, great story ideas and a track record of breaking news to join our Beijing-based team as China en...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 116.40108,
-          "lat": 39.9515199
-        },
-        "location": "Beijing, Beijing, China"
       }
     ],
     "isMultiCategory": true,
