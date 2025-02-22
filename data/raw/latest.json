@@ -151,6 +151,190 @@
     "badge": ""
   },
   {
+    "cityState": "New York, New York",
+    "country": "United States of America",
+    "ml_skills": [],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "The Legal Writer will research, write and publish timely legal analysis articles on developments in litigation, legislation and regulation. Experience in legal journalism, news or other writing enviro...",
+    "state": "New York",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-73.9866995",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ186959",
+    "jobId": "JREQ186959",
+    "city": "New York",
+    "latitude": "40.7566955",
+    "locale": "en_US",
+    "multi_location": [
+      "New York, New York, United States of America",
+      "Ann Arbor, Michigan, United States of America",
+      "Eagan, Minnesota, United States of America",
+      "Washington, District of Columbia, United States of America"
+    ],
+    "title": "Legal Writer",
+    "jobSeqNo": "THTTRUUSJREQ186959EXTERNALENUS",
+    "postedDate": "2025-02-21T00:00:00.000+0000",
+    "dateCreated": "2025-01-22T00:45:23.379+0000",
+    "cityStateCountry": "New York, New York, United States of America",
+    "address": "3 Times Square, New York, NY 10036, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-New-York-3-Times-Square/Legal-Writer_JREQ186959/apply",
+    "location": "New York, New York, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "The Legal Writer will research, write and publish timely legal analysis articles on developments in litigation, legislation and regulation. Experience in legal journalism, news or other writing enviro...",
+      "descriptionTeaser_first200": "Legal Writer. Do you enjoy researching, writing and publishing legal articles? Thomson Reuters is seeking a Legal Writer to deliver legal analysis and current awareness information to Westlaw Today...",
+      "descriptionTeaser_keyword": "Legal Writer. Do you enjoy researching, writing and publishing legal articles? Thomson Reuters is seeking a Legal Writer to deliver legal analysis and current awareness information to Westlaw Today fo...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -73.9866995,
+          "lat": 40.7566955
+        },
+        "location": "New York, New York, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -83.7267835,
+          "lat": 42.1957259
+        },
+        "location": "Ann Arbor, Michigan, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -93.10808019999999,
+          "lat": 44.8527611
+        },
+        "location": "Eagan, Minnesota, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -77.0311952,
+          "lat": 38.9004793
+        },
+        "location": "Washington, District of Columbia, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "New York, New York",
+    "country": "United States of America",
+    "ml_skills": [
+      "feedback",
+      "communication",
+      "collaborate",
+      "ai",
+      "developing",
+      "llms",
+      "quality",
+      "productivity",
+      "openai",
+      "develop",
+      "hands-on development",
+      "ai solutions",
+      "cross-functional teams",
+      "technology solutions",
+      "ai technologies",
+      "product strategy",
+      "collaboration skills"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "You will play a key role in crafting and refining prompts, developing methodologies for evaluating and grading LLM outputs, and integrating these technologies into our suite of legal products. Stay in...",
+    "state": "New York",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-73.9866995",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ183018",
+    "jobId": "JREQ183018",
+    "city": "New York",
+    "latitude": "40.7566955",
+    "locale": "en_US",
+    "multi_location": [
+      "New York, New York, United States of America",
+      "Ann Arbor, Michigan, United States of America",
+      "Frisco, Texas, United States of America",
+      "Eagan, Minnesota, United States of America"
+    ],
+    "title": "Legal AI Prompter / Evaluator",
+    "jobSeqNo": "THTTRUUSJREQ183018EXTERNALENUS",
+    "postedDate": "2025-02-21T00:00:00.000+0000",
+    "dateCreated": "2024-10-04T16:41:09.669+0000",
+    "cityStateCountry": "New York, New York, United States of America",
+    "address": "3 Times Square, New York, NY 10036, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-New-York-3-Times-Square/Legal-AI-Prompter---Evaluator_JREQ183018/apply",
+    "location": "New York, New York, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "You will play a key role in crafting and refining prompts, developing methodologies for evaluating and grading LLM outputs, and integrating these technologies into our suite of legal products. Stay in...",
+      "descriptionTeaser_first200": "Legal AI Prompter / Evaluator. Role Summary. We are seeking a dynamic Legal Prompter / Evaluator with a Juris Doctor (JD) degree and a strong interest in emerging technologies. This role is crucial...",
+      "descriptionTeaser_keyword": "Legal AI Prompter / Evaluator. Role Summary. We are seeking a dynamic Legal Prompter / Evaluator with a Juris Doctor (JD) degree and a strong interest in emerging technologies. This role is crucial in...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -73.9866995,
+          "lat": 40.7566955
+        },
+        "location": "New York, New York, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -83.7267835,
+          "lat": 42.1957259
+        },
+        "location": "Ann Arbor, Michigan, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -96.833545,
+          "lat": 33.1073049
+        },
+        "location": "Frisco, Texas, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -93.10808019999999,
+          "lat": 44.8527611
+        },
+        "location": "Eagan, Minnesota, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "London",
     "country": "United Kingdom",
     "ml_skills": [
@@ -5086,97 +5270,6 @@
     "badge": ""
   },
   {
-    "cityState": "Frisco, Texas",
-    "country": "United States of America",
-    "ml_skills": [
-      "feedback",
-      "communication",
-      "collaborate",
-      "ai",
-      "developing",
-      "llms",
-      "quality",
-      "productivity",
-      "openai",
-      "develop",
-      "hands-on development",
-      "cross-functional teams",
-      "technology solutions",
-      "product strategy",
-      "collaboration skills"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "You will play a key role in crafting and refining prompts, developing methodologies for evaluating and grading LLM outputs, and integrating these technologies into our suite of legal products. Stay in...",
-    "state": "Texas",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-96.833545",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ183018",
-    "jobId": "JREQ183018",
-    "city": "Frisco",
-    "latitude": "33.1073049",
-    "locale": "en_US",
-    "multi_location": [
-      "Frisco, Texas, United States of America",
-      "Ann Arbor, Michigan, United States of America",
-      "Eagan, Minnesota, United States of America"
-    ],
-    "title": "Legal AI Prompter / Evaluator",
-    "jobSeqNo": "THTTRUUSJREQ183018EXTERNALENUS",
-    "postedDate": "2025-01-23T00:00:00.000+0000",
-    "dateCreated": "2024-10-04T16:41:09.669+0000",
-    "cityStateCountry": "Frisco, Texas, United States of America",
-    "address": "6160 Warren Parkway, Frisco, TX 75034, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Frisco-6160-Warren-Parkway/Legal-AI-Prompter---Evaluator_JREQ183018/apply",
-    "location": "Frisco, Texas, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "You will play a key role in crafting and refining prompts, developing methodologies for evaluating and grading LLM outputs, and integrating these technologies into our suite of legal products. Stay in...",
-      "descriptionTeaser_first200": "Legal AI Prompter / Evaluator. Role Summary. We are seeking a dynamic Legal Prompter / Evaluator with a Juris Doctor (JD) degree and a strong interest in emerging technologies. This role is crucial...",
-      "descriptionTeaser_keyword": "Legal AI Prompter / Evaluator. Role Summary. We are seeking a dynamic Legal Prompter / Evaluator with a Juris Doctor (JD) degree and a strong interest in emerging technologies. This role is crucial in...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -96.833545,
-          "lat": 33.1073049
-        },
-        "location": "Frisco, Texas, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -83.7267835,
-          "lat": 42.1957259
-        },
-        "location": "Ann Arbor, Michigan, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -93.10808019999999,
-          "lat": 44.8527611
-        },
-        "location": "Eagan, Minnesota, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Eagan, Minnesota",
     "country": "United States of America",
     "ml_skills": [
@@ -5467,101 +5560,6 @@
           "lat": 35.6621409
         },
         "location": "Tokyo, Japan"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Eagan, Minnesota",
-    "country": "United States of America",
-    "ml_skills": [
-      "legal research",
-      "english",
-      "legal analysis",
-      "jurisprudence",
-      "accuracy",
-      "westlaw",
-      "writer",
-      "journalism",
-      "product development",
-      "quality",
-      "develop"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "The Legal Writer will research, write and publish timely legal analysis articles on developments in litigation, legislation and regulation. Experience in legal journalism, news or other writing enviro...",
-    "state": "Minnesota",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-93.10808019999999",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ186959",
-    "jobId": "JREQ186959",
-    "city": "Eagan",
-    "latitude": "44.8527611",
-    "locale": "en_US",
-    "multi_location": [
-      "Eagan, Minnesota, United States of America",
-      "Ann Arbor, Michigan, United States of America",
-      "New York, New York, United States of America",
-      "Washington, District of Columbia, United States of America"
-    ],
-    "title": "Legal Writer",
-    "jobSeqNo": "THTTRUUSJREQ186959EXTERNALENUS",
-    "postedDate": "2025-01-21T00:00:00.000+0000",
-    "dateCreated": "2025-01-22T00:45:23.379+0000",
-    "cityStateCountry": "Eagan, Minnesota, United States of America",
-    "address": "2900 Ames Crossing Road, Ste 100, Eagan, MN 55121, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MSP-2900-Ames-Crossing-Road/Legal-Writer_JREQ186959/apply",
-    "location": "Eagan, Minnesota, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "The Legal Writer will research, write and publish timely legal analysis articles on developments in litigation, legislation and regulation. Experience in legal journalism, news or other writing enviro...",
-      "descriptionTeaser_first200": "Legal Writer. Do you enjoy researching, writing and publishing legal articles? Thomson Reuters is seeking a Legal Writer to deliver legal analysis and current awareness information to Westlaw Toda...",
-      "descriptionTeaser_keyword": "Legal Writer. Do you enjoy researching, writing and publishing legal articles? Thomson Reuters is seeking a Legal Writer to deliver legal analysis and current awareness information to Westlaw Today fo...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -93.10808019999999,
-          "lat": 44.8527611
-        },
-        "location": "Eagan, Minnesota, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -83.7267835,
-          "lat": 42.1957259
-        },
-        "location": "Ann Arbor, Michigan, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -73.9866995,
-          "lat": 40.7566955
-        },
-        "location": "New York, New York, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -77.0311952,
-          "lat": 38.9004793
-        },
-        "location": "Washington, District of Columbia, United States of America"
       }
     ],
     "isMultiCategory": true,
