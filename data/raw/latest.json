@@ -5,8 +5,8 @@
     "ml_skills": [
       "publishing",
       "copy editing",
-      "content management",
       "author management",
+      "content management",
       "content curation",
       "journals",
       "content review",
@@ -34,9 +34,9 @@
     "multi_location": [
       "Pyrmont, New South Wales, Australia"
     ],
-    "title": "Senior Publishing Editor",
+    "title": "Publishing Editor",
     "jobSeqNo": "THTTRUUSJREQ188188EXTERNALENUS",
-    "postedDate": "2025-02-27T00:00:00.000+0000",
+    "postedDate": "2025-02-28T00:00:00.000+0000",
     "dateCreated": "2025-02-27T00:38:49.877+0000",
     "cityStateCountry": "Pyrmont, New South Wales, Australia",
     "address": "19 Harris Street, Pyrmont NSW 2009, Australia",
@@ -61,6 +61,76 @@
           "lat": -33.8664432
         },
         "location": "Pyrmont, New South Wales, Australia"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Hong Kong",
+    "country": "Hong Kong",
+    "ml_skills": [
+      "publishing",
+      "author management",
+      "copy editing",
+      "content management",
+      "content review",
+      "cantonese",
+      "content management systems",
+      "xml",
+      "production schedules",
+      "stakeholder management"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Coordination of end-to-end publishing activities: commissioning new content, author management (including contract preparation, liaison re payments), content review, scheduling of updates, vendor liai...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "114.2168499",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ188189",
+    "jobId": "JREQ188189",
+    "city": "Hong Kong",
+    "latitude": "22.2876498",
+    "locale": "en_US",
+    "multi_location": [
+      "Hong Kong, Hong Kong"
+    ],
+    "title": "Legal Editor",
+    "jobSeqNo": "THTTRUUSJREQ188189EXTERNALENUS",
+    "postedDate": "2025-02-28T00:00:00.000+0000",
+    "dateCreated": "2025-02-28T04:38:24.652+0000",
+    "cityStateCountry": "Hong Kong, Hong Kong",
+    "address": "15/F, 14 Taikoo Wan Road, Taikoo Shing, Hong Kong, Hong Kong",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/HKG-Taikoo-14-Taikoo-Wan-Road/Legal-Editor_JREQ188189/apply",
+    "location": "Hong Kong, Hong Kong",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Coordination of end-to-end publishing activities: commissioning new content, author management (including contract preparation, liaison re payments), content review, scheduling of updates, vendor liai...",
+      "descriptionTeaser_first200": "Legal Editor. Are you interested in the law and publishing \u2013 do you want to join the world leader in providing trusted legal, tax and regulatory content to professionals and academia? Thomson Reute...",
+      "descriptionTeaser_keyword": "Legal Editor. Are you interested in the law and publishing \u2013 do you want to join the world leader in providing trusted legal, tax and regulatory content to professionals and academia? Thomson Reuters...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 114.2168499,
+          "lat": 22.2876498
+        },
+        "location": "Hong Kong, Hong Kong"
       }
     ],
     "isMultiCategory": true,
@@ -207,52 +277,53 @@
     "badge": ""
   },
   {
-    "cityState": "",
-    "country": "Korea, Republic of",
+    "cityState": "Toronto, Ontario",
+    "country": "Canada",
     "ml_skills": [
-      "publishing",
-      "build",
-      "brand management",
-      "product development",
-      "develop",
-      "product delivery",
-      "entrepreneurial",
-      "customer relationship"
+      "copy editing",
+      "seo",
+      "multimedia",
+      "breaking news",
+      "engaging",
+      "collaborate",
+      "search",
+      "optimizing",
+      "team ethic"
     ],
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "Research Korea legal market to identify contributors/authors for substantive new product development of Korea legal content. Contract and manage timely manuscript delivery, provide oversight to third...",
-    "state": "",
+    "descriptionTeaser": "Write and edit breaking news stories from around the globe whilst producing clean, engaging stories at speed. Have strong digital and multimedia expertise and familiarity with the needs of a digital a...",
+    "state": "Ontario",
     "visibilityType": "External",
     "siteType": "external",
-    "longitude": "127.766922",
+    "longitude": "-79.3884094",
     "multi_category": [
       "News & Editorial Careers"
     ],
-    "reqId": "JREQ188193",
-    "jobId": "JREQ188193",
-    "city": "",
-    "latitude": "35.907757",
+    "reqId": "JREQ187225",
+    "jobId": "JREQ187225",
+    "city": "Toronto",
+    "latitude": "43.6480117",
     "locale": "en_US",
     "multi_location": [
-      "Korea, Republic of"
+      "Toronto, Ontario, Canada"
     ],
-    "title": "Commissioning Editor",
-    "jobSeqNo": "THTTRUUSJREQ188193EXTERNALENUS",
+    "title": "Desk Editor",
+    "jobSeqNo": "THTTRUUSJREQ187225EXTERNALENUS",
     "postedDate": "2025-02-26T00:00:00.000+0000",
-    "dateCreated": "2025-02-19T08:43:00.304+0000",
-    "cityStateCountry": "Korea, Republic of",
-    "address": "03185, Korea, Republic of",
+    "dateCreated": "2025-01-28T20:38:30.212+0000",
+    "cityStateCountry": "Toronto, Ontario, Canada",
+    "address": "19 Duncan Street, Toronto, ON M5H 3H1, Canada",
     "jobVisibility": [
       "external"
     ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/KOR-Seoul-10th-Floor-S-Tower/Commissioning-Editor_JREQ188193/apply",
-    "location": "Korea, Republic of",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CAN-Toronto-19-Duncan-Street/Desk-Editor_JREQ187225/apply",
+    "location": "Toronto, Ontario, Canada",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "Research Korea legal market to identify contributors/authors for substantive new product development of Korea legal content. Contract and manage timely manuscript delivery, provide oversight to third...",
-      "descriptionTeaser_first200": "Commissioning Editor. As part of our continuous improvement of LAWnB and Korea market growth, we are planning to intensify content acquisition. We are therefore looking to recruit legal experts wit...",
-      "descriptionTeaser_keyword": "Commissioning Editor. As part of our continuous improvement of LAWnB and Korea market growth, we are planning to intensify content acquisition. We are therefore looking to recruit legal experts with e...",
+      "descriptionTeaser": "Write and edit breaking news stories from around the globe whilst producing clean, engaging stories at speed. Have strong digital and multimedia expertise and familiarity with the needs of a digital a...",
+      "descriptionTeaser_first200": "Reuters is looking for an ambitious Desk Editor for our fast-paced, round-the-clock Global News Desk. Expect to work alongside award-winning journalists in a global news organization long recognize...",
+      "descriptionTeaser_keyword": "Reuters is looking for an ambitious Desk Editor for our fast-paced, round-the-clock Global News Desk. Expect to work alongside award-winning journalists in a global news organization long recognized f...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
@@ -260,10 +331,10 @@
     "multi_location_array": [
       {
         "latlong": {
-          "lon": 127.766922,
-          "lat": 35.907757
+          "lon": -79.3884094,
+          "lat": 43.6480117
         },
-        "location": "Korea, Republic of"
+        "location": "Toronto, Ontario, Canada"
       }
     ],
     "isMultiCategory": true,
@@ -409,53 +480,52 @@
     "badge": ""
   },
   {
-    "cityState": "Toronto, Ontario",
-    "country": "Canada",
+    "cityState": "",
+    "country": "Korea, Republic of",
     "ml_skills": [
-      "copy editing",
-      "seo",
-      "multimedia",
-      "breaking news",
-      "engaging",
-      "collaborate",
-      "search",
-      "optimizing",
-      "team ethic"
+      "publishing",
+      "build",
+      "brand management",
+      "product development",
+      "develop",
+      "product delivery",
+      "entrepreneurial",
+      "customer relationship"
     ],
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "Write and edit breaking news stories from around the globe whilst producing clean, engaging stories at speed. Have strong digital and multimedia expertise and familiarity with the needs of a digital a...",
-    "state": "Ontario",
+    "descriptionTeaser": "Research Korea legal market to identify contributors/authors for substantive new product development of Korea legal content. Contract and manage timely manuscript delivery, provide oversight to third...",
+    "state": "",
     "visibilityType": "External",
     "siteType": "external",
-    "longitude": "-79.3884094",
+    "longitude": "127.766922",
     "multi_category": [
       "News & Editorial Careers"
     ],
-    "reqId": "JREQ187225",
-    "jobId": "JREQ187225",
-    "city": "Toronto",
-    "latitude": "43.6480117",
+    "reqId": "JREQ188193",
+    "jobId": "JREQ188193",
+    "city": "",
+    "latitude": "35.907757",
     "locale": "en_US",
     "multi_location": [
-      "Toronto, Ontario, Canada"
+      "Korea, Republic of"
     ],
-    "title": "Desk Editor",
-    "jobSeqNo": "THTTRUUSJREQ187225EXTERNALENUS",
+    "title": "Commissioning Editor",
+    "jobSeqNo": "THTTRUUSJREQ188193EXTERNALENUS",
     "postedDate": "2025-02-26T00:00:00.000+0000",
-    "dateCreated": "2025-01-28T20:38:30.212+0000",
-    "cityStateCountry": "Toronto, Ontario, Canada",
-    "address": "19 Duncan Street, Toronto, ON M5H 3H1, Canada",
+    "dateCreated": "2025-02-19T08:43:00.304+0000",
+    "cityStateCountry": "Korea, Republic of",
+    "address": "03185, Korea, Republic of",
     "jobVisibility": [
       "external"
     ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CAN-Toronto-19-Duncan-Street/Desk-Editor_JREQ187225/apply",
-    "location": "Toronto, Ontario, Canada",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/KOR-Seoul-10th-Floor-S-Tower/Commissioning-Editor_JREQ188193/apply",
+    "location": "Korea, Republic of",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "Write and edit breaking news stories from around the globe whilst producing clean, engaging stories at speed. Have strong digital and multimedia expertise and familiarity with the needs of a digital a...",
-      "descriptionTeaser_first200": "Reuters is looking for an ambitious Desk Editor for our fast-paced, round-the-clock Global News Desk. Expect to work alongside award-winning journalists in a global news organization long recognize...",
-      "descriptionTeaser_keyword": "Reuters is looking for an ambitious Desk Editor for our fast-paced, round-the-clock Global News Desk. Expect to work alongside award-winning journalists in a global news organization long recognized f...",
+      "descriptionTeaser": "Research Korea legal market to identify contributors/authors for substantive new product development of Korea legal content. Contract and manage timely manuscript delivery, provide oversight to third...",
+      "descriptionTeaser_first200": "Commissioning Editor. As part of our continuous improvement of LAWnB and Korea market growth, we are planning to intensify content acquisition. We are therefore looking to recruit legal experts wit...",
+      "descriptionTeaser_keyword": "Commissioning Editor. As part of our continuous improvement of LAWnB and Korea market growth, we are planning to intensify content acquisition. We are therefore looking to recruit legal experts with e...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
@@ -463,10 +533,76 @@
     "multi_location_array": [
       {
         "latlong": {
-          "lon": -79.3884094,
-          "lat": 43.6480117
+          "lon": 127.766922,
+          "lat": 35.907757
         },
-        "location": "Toronto, Ontario, Canada"
+        "location": "Korea, Republic of"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Beijing, Beijing",
+    "country": "China",
+    "ml_skills": [
+      "multimedia",
+      "automotive-industry",
+      "automotive industry",
+      "develop",
+      "market positioning",
+      "corporate strategy"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Ability to speak Chinese and experience covering the automotive industry are strongly preferred. Deliver exclusive news and deeply reported explanatory and investigative stories offering distinctive i...",
+    "state": "Beijing",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "116.40108",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ183065",
+    "jobId": "JREQ183065",
+    "city": "Beijing",
+    "latitude": "39.9515199",
+    "locale": "en_US",
+    "multi_location": [
+      "Beijing, Beijing, China"
+    ],
+    "title": "China Autos Correspondent",
+    "jobSeqNo": "THTTRUUSJREQ183065EXTERNALENUS",
+    "postedDate": "2025-02-25T00:00:00.000+0000",
+    "dateCreated": "2024-12-19T04:49:29.837+0000",
+    "cityStateCountry": "Beijing, Beijing, China",
+    "address": "Units 5-12, 18F / 20F, Office Tower E1 of Oriental Plaza, No.1, East Chang An Avenue, Dong Cheng District, Beijing, 100738 Beijing, China",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CHN-Beijing-Oriental-Plaza/China-Autos-Correspondent_JREQ183065-1/apply",
+    "location": "Beijing, Beijing, China",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Ability to speak Chinese and experience covering the automotive industry are strongly preferred. Deliver exclusive news and deeply reported explanatory and investigative stories offering distinctive i...",
+      "descriptionTeaser_first200": "Reuters is seeking a Beijing-based auto reporter at a time when China\u2019s electric-vehicle sector is upending the global industry. This exciting beat stretches beyond companies and earnings and into ...",
+      "descriptionTeaser_keyword": "Reuters is seeking a Beijing-based auto reporter at a time when China\u2019s electric-vehicle sector is upending the global industry. This exciting beat stretches beyond companies and earnings and into the...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 116.40108,
+          "lat": 39.9515199
+        },
+        "location": "Beijing, Beijing, China"
       }
     ],
     "isMultiCategory": true,
@@ -537,72 +673,6 @@
           "lat": 1.2938815
         },
         "location": "Singapore, Singapore"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Beijing, Beijing",
-    "country": "China",
-    "ml_skills": [
-      "multimedia",
-      "automotive-industry",
-      "automotive industry",
-      "develop",
-      "market positioning",
-      "corporate strategy"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Ability to speak Chinese and experience covering the automotive industry are strongly preferred. Deliver exclusive news and deeply reported explanatory and investigative stories offering distinctive i...",
-    "state": "Beijing",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "116.40108",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ183065",
-    "jobId": "JREQ183065",
-    "city": "Beijing",
-    "latitude": "39.9515199",
-    "locale": "en_US",
-    "multi_location": [
-      "Beijing, Beijing, China"
-    ],
-    "title": "China Autos Correspondent",
-    "jobSeqNo": "THTTRUUSJREQ183065EXTERNALENUS",
-    "postedDate": "2025-02-25T00:00:00.000+0000",
-    "dateCreated": "2024-12-19T04:49:29.837+0000",
-    "cityStateCountry": "Beijing, Beijing, China",
-    "address": "Units 5-12, 18F / 20F, Office Tower E1 of Oriental Plaza, No.1, East Chang An Avenue, Dong Cheng District, Beijing, 100738 Beijing, China",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CHN-Beijing-Oriental-Plaza/China-Autos-Correspondent_JREQ183065-1/apply",
-    "location": "Beijing, Beijing, China",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Ability to speak Chinese and experience covering the automotive industry are strongly preferred. Deliver exclusive news and deeply reported explanatory and investigative stories offering distinctive i...",
-      "descriptionTeaser_first200": "Reuters is seeking a Beijing-based auto reporter at a time when China\u2019s electric-vehicle sector is upending the global industry. This exciting beat stretches beyond companies and earnings and into ...",
-      "descriptionTeaser_keyword": "Reuters is seeking a Beijing-based auto reporter at a time when China\u2019s electric-vehicle sector is upending the global industry. This exciting beat stretches beyond companies and earnings and into the...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 116.40108,
-          "lat": 39.9515199
-        },
-        "location": "Beijing, Beijing, China"
       }
     ],
     "isMultiCategory": true,
@@ -1423,8 +1493,8 @@
     "multi_category": [
       "News & Editorial Careers"
     ],
-    "reqId": "JREQ187698",
-    "jobId": "JREQ187698",
+    "reqId": "JREQ187813",
+    "jobId": "JREQ187813",
     "city": "Mexico City",
     "latitude": "19.4343664",
     "locale": "en_US",
@@ -1432,15 +1502,15 @@
       "Mexico City, Mexico"
     ],
     "title": "Analyst - Global Trade Content",
-    "jobSeqNo": "THTTRUUSJREQ187698EXTERNALENUS",
+    "jobSeqNo": "THTTRUUSJREQ187813EXTERNALENUS",
     "postedDate": "2025-02-19T00:00:00.000+0000",
-    "dateCreated": "2025-02-19T16:49:39.827+0000",
+    "dateCreated": "2025-02-19T16:49:39.826+0000",
     "cityStateCountry": "Mexico City, Mexico",
     "address": "Av. Paseo de la Reforma #26, Floor 36th, Colonia Ju\u00e1rez, Cuauht\u00e9moc, 06600 Mexico City, Mexico",
     "jobVisibility": [
       "external"
     ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/MEX-Distrito-Federal-Reforma-26/Analyst---Global-Trade-Content_JREQ187698/apply",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/MEX-Distrito-Federal-Reforma-26/Analyst---Global-Trade-Content_JREQ187813/apply",
     "location": "Mexico City, Mexico",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
@@ -1491,8 +1561,8 @@
     "multi_category": [
       "News & Editorial Careers"
     ],
-    "reqId": "JREQ187813",
-    "jobId": "JREQ187813",
+    "reqId": "JREQ187698",
+    "jobId": "JREQ187698",
     "city": "Mexico City",
     "latitude": "19.4343664",
     "locale": "en_US",
@@ -1500,15 +1570,15 @@
       "Mexico City, Mexico"
     ],
     "title": "Analyst - Global Trade Content",
-    "jobSeqNo": "THTTRUUSJREQ187813EXTERNALENUS",
+    "jobSeqNo": "THTTRUUSJREQ187698EXTERNALENUS",
     "postedDate": "2025-02-19T00:00:00.000+0000",
-    "dateCreated": "2025-02-19T16:49:39.826+0000",
+    "dateCreated": "2025-02-19T16:49:39.827+0000",
     "cityStateCountry": "Mexico City, Mexico",
     "address": "Av. Paseo de la Reforma #26, Floor 36th, Colonia Ju\u00e1rez, Cuauht\u00e9moc, 06600 Mexico City, Mexico",
     "jobVisibility": [
       "external"
     ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/MEX-Distrito-Federal-Reforma-26/Analyst---Global-Trade-Content_JREQ187813/apply",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/MEX-Distrito-Federal-Reforma-26/Analyst---Global-Trade-Content_JREQ187698/apply",
     "location": "Mexico City, Mexico",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
@@ -1603,52 +1673,54 @@
     "badge": ""
   },
   {
-    "cityState": "Gdansk",
-    "country": "Poland",
+    "cityState": "Tokyo",
+    "country": "Japan",
     "ml_skills": [
-      "journalism",
-      "italian",
-      "portuguese",
-      "french",
-      "german",
+      "reporter",
+      "japanese",
+      "english",
       "multimedia",
-      "journalists",
-      "collaborate"
+      "english communication",
+      "collaborate",
+      "coordinate",
+      "in-depth knowledge",
+      "quality",
+      "develop"
     ],
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "Applicants must speak fluent English and have strong conversational skills in at least one additional European language. How to translate market reports, general, political, economic and company news...",
+    "descriptionTeaser": "Reuters is seeking a highly motivated news reporter who can analyse global trends and their impact on the Japanese economy. The role requires the ability to explain how global structural changes, such...",
     "state": "",
     "visibilityType": "External",
     "siteType": "external",
-    "longitude": "18.5752702",
+    "longitude": "139.7488929",
     "multi_category": [
       "News & Editorial Careers"
     ],
-    "reqId": "JREQ187710",
-    "jobId": "JREQ187710",
-    "city": "Gdansk",
-    "latitude": "54.4004235",
+    "reqId": "JREQ187702",
+    "jobId": "JREQ187702",
+    "city": "Tokyo",
+    "latitude": "35.6621409",
     "locale": "en_US",
     "multi_location": [
-      "Gdansk, Poland"
+      "Tokyo, Japan"
     ],
-    "title": "Reuters News Summer Internship Programme (Gdansk, Poland)",
-    "jobSeqNo": "THTTRUUSJREQ187710EXTERNALENUS",
+    "title": "Correspondent/ \u30b3\u30ec\u30b9\u30dd\u30f3\u30c7\u30f3\u30c8\uff08\u7d4c\u6e08\u30cb\u30e5\u30fc\u30b9)",
+    "jobSeqNo": "THTTRUUSJREQ187702EXTERNALENUS",
     "postedDate": "2025-02-17T00:00:00.000+0000",
-    "dateCreated": "2025-02-12T16:43:36.928+0000",
-    "cityStateCountry": "Gdansk, Poland",
-    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
+    "dateCreated": "2025-02-17T04:42:32.333+0000",
+    "cityStateCountry": "Tokyo, Japan",
+    "address": "10F Atago Green Hills Mori Tower, 2-5-1 Atago, Minato-ku, Tokyo, 105-6210, Japan",
     "jobVisibility": [
       "external"
     ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/Reuters-News-Summer-Internship-Programme--Gdansk--Poland-_JREQ187710/apply",
-    "location": "Gdansk, Poland",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/JPN-Tokyo-Atago-Green-Hills/Correspondent----_JREQ187702/apply",
+    "location": "Tokyo, Japan",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "Applicants must speak fluent English and have strong conversational skills in at least one additional European language. How to translate market reports, general, political, economic and company news...",
-      "descriptionTeaser_first200": "Reuters News Summer Internship Programme (Gdansk, Poland) . Reuters is seeking ambitious, energetic graduates and/or final year students with excellent language skills to join its real-time news op...",
-      "descriptionTeaser_keyword": "Reuters News Summer Internship Programme (Gdansk, Poland). Reuters is seeking ambitious, energetic graduates and/or final year students with excellent language skills to join its real-time news operat...",
+      "descriptionTeaser": "Reuters is seeking a highly motivated news reporter who can analyse global trends and their impact on the Japanese economy. The role requires the ability to explain how global structural changes, such...",
+      "descriptionTeaser_first200": "Correspondent. \u30b3\u30ec\u30b9\u30dd\u30f3\u30c7\u30f3\u30c8\uff08\u7d4c\u6e08\u30cb\u30e5\u30fc\u30b9). Reuters is seeking a highly motivated news reporter who can analyse global trends and their impact on the Japanese economy. The successful candidate will provide in...",
+      "descriptionTeaser_keyword": "Correspondent. \u30b3\u30ec\u30b9\u30dd\u30f3\u30c7\u30f3\u30c8\uff08\u7d4c\u6e08\u30cb\u30e5\u30fc\u30b9). Reuters is seeking a highly motivated news reporter who can analyse global trends and their impact on the Japanese economy. The successful candidate will provide in-de...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
@@ -1656,10 +1728,10 @@
     "multi_location_array": [
       {
         "latlong": {
-          "lon": 18.5752702,
-          "lat": 54.4004235
+          "lon": 139.7488929,
+          "lat": 35.6621409
         },
-        "location": "Gdansk, Poland"
+        "location": "Tokyo, Japan"
       }
     ],
     "isMultiCategory": true,
@@ -1741,54 +1813,52 @@
     "badge": ""
   },
   {
-    "cityState": "Tokyo",
-    "country": "Japan",
+    "cityState": "Gdansk",
+    "country": "Poland",
     "ml_skills": [
-      "reporter",
-      "japanese",
-      "english",
+      "journalism",
+      "italian",
+      "portuguese",
+      "french",
+      "german",
       "multimedia",
-      "english communication",
-      "collaborate",
-      "coordinate",
-      "in-depth knowledge",
-      "quality",
-      "develop"
+      "journalists",
+      "collaborate"
     ],
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "Reuters is seeking a highly motivated news reporter who can analyse global trends and their impact on the Japanese economy. The role requires the ability to explain how global structural changes, such...",
+    "descriptionTeaser": "Applicants must speak fluent English and have strong conversational skills in at least one additional European language. How to translate market reports, general, political, economic and company news...",
     "state": "",
     "visibilityType": "External",
     "siteType": "external",
-    "longitude": "139.7488929",
+    "longitude": "18.5752702",
     "multi_category": [
       "News & Editorial Careers"
     ],
-    "reqId": "JREQ187702",
-    "jobId": "JREQ187702",
-    "city": "Tokyo",
-    "latitude": "35.6621409",
+    "reqId": "JREQ187710",
+    "jobId": "JREQ187710",
+    "city": "Gdansk",
+    "latitude": "54.4004235",
     "locale": "en_US",
     "multi_location": [
-      "Tokyo, Japan"
+      "Gdansk, Poland"
     ],
-    "title": "Correspondent/ \u30b3\u30ec\u30b9\u30dd\u30f3\u30c7\u30f3\u30c8\uff08\u7d4c\u6e08\u30cb\u30e5\u30fc\u30b9)",
-    "jobSeqNo": "THTTRUUSJREQ187702EXTERNALENUS",
+    "title": "Reuters News Summer Internship Programme (Gdansk, Poland)",
+    "jobSeqNo": "THTTRUUSJREQ187710EXTERNALENUS",
     "postedDate": "2025-02-17T00:00:00.000+0000",
-    "dateCreated": "2025-02-17T04:42:32.333+0000",
-    "cityStateCountry": "Tokyo, Japan",
-    "address": "10F Atago Green Hills Mori Tower, 2-5-1 Atago, Minato-ku, Tokyo, 105-6210, Japan",
+    "dateCreated": "2025-02-12T16:43:36.928+0000",
+    "cityStateCountry": "Gdansk, Poland",
+    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
     "jobVisibility": [
       "external"
     ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/JPN-Tokyo-Atago-Green-Hills/Correspondent----_JREQ187702/apply",
-    "location": "Tokyo, Japan",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/Reuters-News-Summer-Internship-Programme--Gdansk--Poland-_JREQ187710/apply",
+    "location": "Gdansk, Poland",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "Reuters is seeking a highly motivated news reporter who can analyse global trends and their impact on the Japanese economy. The role requires the ability to explain how global structural changes, such...",
-      "descriptionTeaser_first200": "Correspondent. \u30b3\u30ec\u30b9\u30dd\u30f3\u30c7\u30f3\u30c8\uff08\u7d4c\u6e08\u30cb\u30e5\u30fc\u30b9). Reuters is seeking a highly motivated news reporter who can analyse global trends and their impact on the Japanese economy. The successful candidate will provide in...",
-      "descriptionTeaser_keyword": "Correspondent. \u30b3\u30ec\u30b9\u30dd\u30f3\u30c7\u30f3\u30c8\uff08\u7d4c\u6e08\u30cb\u30e5\u30fc\u30b9). Reuters is seeking a highly motivated news reporter who can analyse global trends and their impact on the Japanese economy. The successful candidate will provide in-de...",
+      "descriptionTeaser": "Applicants must speak fluent English and have strong conversational skills in at least one additional European language. How to translate market reports, general, political, economic and company news...",
+      "descriptionTeaser_first200": "Reuters News Summer Internship Programme (Gdansk, Poland) . Reuters is seeking ambitious, energetic graduates and/or final year students with excellent language skills to join its real-time news op...",
+      "descriptionTeaser_keyword": "Reuters News Summer Internship Programme (Gdansk, Poland). Reuters is seeking ambitious, energetic graduates and/or final year students with excellent language skills to join its real-time news operat...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
@@ -1796,10 +1866,10 @@
     "multi_location_array": [
       {
         "latlong": {
-          "lon": 139.7488929,
-          "lat": 35.6621409
+          "lon": 18.5752702,
+          "lat": 54.4004235
         },
-        "location": "Tokyo, Japan"
+        "location": "Gdansk, Poland"
       }
     ],
     "isMultiCategory": true,
@@ -2693,6 +2763,71 @@
     "badge": ""
   },
   {
+    "cityState": "Almaty",
+    "country": "Kazakhstan",
+    "ml_skills": [
+      "writing skills",
+      "multimedia",
+      "hostile environments",
+      "geopolitics",
+      "develop"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "You will be fluent in English and Russian (any of the languages of Central Asia would be a plus), have superior writing skills on everything from snaps to deeper stories and help manage a network of s...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "76.946606",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ187699",
+    "jobId": "JREQ187699",
+    "city": "Almaty",
+    "latitude": "43.25761",
+    "locale": "en_US",
+    "multi_location": [
+      "Almaty, Kazakhstan"
+    ],
+    "title": "Central Asia Correspondent - Reuters",
+    "jobSeqNo": "THTTRUUSJREQ187699EXTERNALENUS",
+    "postedDate": "2025-02-12T00:00:00.000+0000",
+    "dateCreated": "2025-02-12T16:43:36.927+0000",
+    "cityStateCountry": "Almaty, Kazakhstan",
+    "address": "2nd Floor, Furmanov St. 100-G, Almaty, 480091, Kazakhstan",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/KAZ-Almaty-2nd-Flr-Furmanov-St/Central-Asia-Correspondent---Reuters_JREQ187699/apply",
+    "location": "Almaty, Kazakhstan",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "You will be fluent in English and Russian (any of the languages of Central Asia would be a plus), have superior writing skills on everything from snaps to deeper stories and help manage a network of s...",
+      "descriptionTeaser_first200": "Central Asia Correspondent - Reuters. We expect the successful candidate for this position to be based in Almaty or Astana. Reuters are seeking a correspondent to cover Central Asia, bringing one...",
+      "descriptionTeaser_keyword": "Central Asia Correspondent - Reuters. We expect the successful candidate for this position to be based in Almaty or Astana. Reuters are seeking a correspondent to cover Central Asia, bringing one of t...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 76.946606,
+          "lat": 43.25761
+        },
+        "location": "Almaty, Kazakhstan"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "London",
     "country": "United Kingdom",
     "ml_skills": [
@@ -2749,71 +2884,6 @@
           "lat": 51.5056439
         },
         "location": "London, United Kingdom"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Almaty",
-    "country": "Kazakhstan",
-    "ml_skills": [
-      "writing skills",
-      "multimedia",
-      "hostile environments",
-      "geopolitics",
-      "develop"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "You will be fluent in English and Russian (any of the languages of Central Asia would be a plus), have superior writing skills on everything from snaps to deeper stories and help manage a network of s...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "76.946606",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ187699",
-    "jobId": "JREQ187699",
-    "city": "Almaty",
-    "latitude": "43.25761",
-    "locale": "en_US",
-    "multi_location": [
-      "Almaty, Kazakhstan"
-    ],
-    "title": "Central Asia Correspondent - Reuters",
-    "jobSeqNo": "THTTRUUSJREQ187699EXTERNALENUS",
-    "postedDate": "2025-02-12T00:00:00.000+0000",
-    "dateCreated": "2025-02-12T16:43:36.927+0000",
-    "cityStateCountry": "Almaty, Kazakhstan",
-    "address": "2nd Floor, Furmanov St. 100-G, Almaty, 480091, Kazakhstan",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/KAZ-Almaty-2nd-Flr-Furmanov-St/Central-Asia-Correspondent---Reuters_JREQ187699/apply",
-    "location": "Almaty, Kazakhstan",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "You will be fluent in English and Russian (any of the languages of Central Asia would be a plus), have superior writing skills on everything from snaps to deeper stories and help manage a network of s...",
-      "descriptionTeaser_first200": "Central Asia Correspondent - Reuters. We expect the successful candidate for this position to be based in Almaty or Astana. Reuters are seeking a correspondent to cover Central Asia, bringing one...",
-      "descriptionTeaser_keyword": "Central Asia Correspondent - Reuters. We expect the successful candidate for this position to be based in Almaty or Astana. Reuters are seeking a correspondent to cover Central Asia, bringing one of t...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 76.946606,
-          "lat": 43.25761
-        },
-        "location": "Almaty, Kazakhstan"
       }
     ],
     "isMultiCategory": true,
@@ -4260,6 +4330,99 @@
     "cityState": "Frisco, Texas",
     "country": "United States of America",
     "ml_skills": [
+      "corporate tax",
+      "tax research",
+      "online research",
+      "develop",
+      "microsoft excel",
+      "product management",
+      "accuracy",
+      "checkpoint",
+      "configuration"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Research, analyze, interpret, and document tax laws and regulations over a wide range of industries in complex and demanding jurisdictions. Superior written and verbal communication skills, including...",
+    "state": "Texas",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-96.833545",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ187498",
+    "jobId": "JREQ187498",
+    "city": "Frisco",
+    "latitude": "33.1073049",
+    "locale": "en_US",
+    "multi_location": [
+      "Frisco, Texas, United States of America",
+      "Ann Arbor, Michigan, United States of America",
+      "Eagan, Minnesota, United States of America",
+      "Washington, District of Columbia, United States of America"
+    ],
+    "title": "Senior Analyst, Tax Research and Content",
+    "jobSeqNo": "THTTRUUSJREQ187498EXTERNALENUS",
+    "postedDate": "2025-02-04T00:00:00.000+0000",
+    "dateCreated": "2025-02-04T20:42:12.271+0000",
+    "cityStateCountry": "Frisco, Texas, United States of America",
+    "address": "6160 Warren Parkway, Frisco, TX 75034, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Frisco-6160-Warren-Parkway/Senior-Analyst--Tax-Research-and-Content_JREQ187498/apply",
+    "location": "Frisco, Texas, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Research, analyze, interpret, and document tax laws and regulations over a wide range of industries in complex and demanding jurisdictions. Superior written and verbal communication skills, including...",
+      "descriptionTeaser_first200": "The Senior Tax Analyst, Indirect Tax is responsible for research, configuration, ongoing maintenance, and testing to ensure that ONESOURCE\u2122 applications and offerings comply with indirect tax rule...",
+      "descriptionTeaser_keyword": "The Senior Tax Analyst, Indirect Tax is responsible for research, configuration, ongoing maintenance, and testing to ensure that ONESOURCE\u2122 applications and offerings comply with indirect tax rules an...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -96.833545,
+          "lat": 33.1073049
+        },
+        "location": "Frisco, Texas, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -83.7267835,
+          "lat": 42.1957259
+        },
+        "location": "Ann Arbor, Michigan, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -93.11336709999999,
+          "lat": 44.8250902
+        },
+        "location": "Eagan, Minnesota, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -77.0311952,
+          "lat": 38.9004793
+        },
+        "location": "Washington, District of Columbia, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Frisco, Texas",
+    "country": "United States of America",
+    "ml_skills": [
       "content delivery",
       "collaborate",
       "analytical skills",
@@ -4394,99 +4557,6 @@
           "lat": 38.912068
         },
         "location": "Washington, DC, District of Columbia, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Frisco, Texas",
-    "country": "United States of America",
-    "ml_skills": [
-      "corporate tax",
-      "tax research",
-      "online research",
-      "develop",
-      "microsoft excel",
-      "product management",
-      "accuracy",
-      "checkpoint",
-      "configuration"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Research, analyze, interpret, and document tax laws and regulations over a wide range of industries in complex and demanding jurisdictions. Superior written and verbal communication skills, including...",
-    "state": "Texas",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-96.833545",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ187498",
-    "jobId": "JREQ187498",
-    "city": "Frisco",
-    "latitude": "33.1073049",
-    "locale": "en_US",
-    "multi_location": [
-      "Frisco, Texas, United States of America",
-      "Ann Arbor, Michigan, United States of America",
-      "Eagan, Minnesota, United States of America",
-      "Washington, District of Columbia, United States of America"
-    ],
-    "title": "Senior Analyst, Tax Research and Content",
-    "jobSeqNo": "THTTRUUSJREQ187498EXTERNALENUS",
-    "postedDate": "2025-02-04T00:00:00.000+0000",
-    "dateCreated": "2025-02-04T20:42:12.271+0000",
-    "cityStateCountry": "Frisco, Texas, United States of America",
-    "address": "6160 Warren Parkway, Frisco, TX 75034, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Frisco-6160-Warren-Parkway/Senior-Analyst--Tax-Research-and-Content_JREQ187498/apply",
-    "location": "Frisco, Texas, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Research, analyze, interpret, and document tax laws and regulations over a wide range of industries in complex and demanding jurisdictions. Superior written and verbal communication skills, including...",
-      "descriptionTeaser_first200": "The Senior Tax Analyst, Indirect Tax is responsible for research, configuration, ongoing maintenance, and testing to ensure that ONESOURCE\u2122 applications and offerings comply with indirect tax rule...",
-      "descriptionTeaser_keyword": "The Senior Tax Analyst, Indirect Tax is responsible for research, configuration, ongoing maintenance, and testing to ensure that ONESOURCE\u2122 applications and offerings comply with indirect tax rules an...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -96.833545,
-          "lat": 33.1073049
-        },
-        "location": "Frisco, Texas, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -83.7267835,
-          "lat": 42.1957259
-        },
-        "location": "Ann Arbor, Michigan, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -93.11336709999999,
-          "lat": 44.8250902
-        },
-        "location": "Eagan, Minnesota, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -77.0311952,
-          "lat": 38.9004793
-        },
-        "location": "Washington, District of Columbia, United States of America"
       }
     ],
     "isMultiCategory": true,
@@ -5852,80 +5922,6 @@
           "lat": 39.9515199
         },
         "location": "Beijing, Beijing, China"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Pyrmont, New South Wales",
-    "country": "Australia",
-    "ml_skills": [
-      "commercial law",
-      "legal expertise",
-      "quality",
-      "build",
-      "advertising",
-      "communicate effectively"
-    ],
-    "remote": "Remote",
-    "type": "Full time",
-    "descriptionTeaser": "Keep up-to-date with commercial law topics and monitor legal, practice and market developments relevant to lawyers in both in house and private practice environments. Assist in the planning, developme...",
-    "state": "New South Wales",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "151.1915144",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ181773",
-    "jobId": "JREQ181773",
-    "city": "Pyrmont",
-    "latitude": "-33.8664432",
-    "locale": "en_US",
-    "multi_location": [
-      "Pyrmont, New South Wales, Australia",
-      "Melbourne, Victoria, Australia"
-    ],
-    "title": "Senior Lawyer Writer, Commercial, Practical Law",
-    "jobSeqNo": "THTTRUUSJREQ181773EXTERNALENUS",
-    "postedDate": "2025-01-06T00:00:00.000+0000",
-    "dateCreated": "2024-09-09T04:38:14.133+0000",
-    "cityStateCountry": "Pyrmont, New South Wales, Australia",
-    "address": "19 Harris Street, Pyrmont NSW 2009, Australia",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/AUS-Pyrmont-19-Harris-St/Senior-Lawyer-Writer--Commercial--Practical-Law_JREQ181773/apply",
-    "location": "Pyrmont, New South Wales, Australia",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Keep up-to-date with commercial law topics and monitor legal, practice and market developments relevant to lawyers in both in house and private practice environments. Assist in the planning, developme...",
-      "descriptionTeaser_first200": "Do you have 5 years\u2019+ PQE experience working as a Commercial Lawyer within an in-house team and/or top or mid-tier law firm? Have you got experience advising across a wide range of commercial legal...",
-      "descriptionTeaser_keyword": "Do you have 5 years\u2019+ PQE experience working as a Commercial Lawyer within an in-house team and/or top or mid-tier law firm? Have you got experience advising across a wide range of commercial legal to...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 151.1915144,
-          "lat": -33.8664432
-        },
-        "location": "Pyrmont, New South Wales, Australia"
-      },
-      {
-        "latlong": {
-          "lon": 144.9633347,
-          "lat": -37.8169726
-        },
-        "location": "Melbourne, Victoria, Australia"
       }
     ],
     "isMultiCategory": true,
