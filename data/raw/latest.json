@@ -1,5 +1,145 @@
 [
   {
+    "cityState": "Singapore",
+    "country": "Singapore",
+    "ml_skills": [
+      "breaking news",
+      "newsgathering",
+      "photography",
+      "multimedia",
+      "english",
+      "collaborate",
+      "verification",
+      "metadata",
+      "ai",
+      "artificial intelligence"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "You will be based in our Singapore newsroom and will collaborate with video, text and photography colleagues on major global stories, working on breaking news, personal insight stories, conflicts and...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "103.792796",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ188432",
+    "jobId": "JREQ188432",
+    "city": "Singapore",
+    "latitude": "1.2938815",
+    "locale": "en_US",
+    "multi_location": [
+      "Singapore, Singapore"
+    ],
+    "title": "Visual Verification & Newsgathering Producer (Contract)",
+    "jobSeqNo": "THTTRUUSJREQ188432EXTERNALENUS",
+    "postedDate": "2025-03-03T00:00:00.000+0000",
+    "dateCreated": "2025-02-25T12:39:37.784+0000",
+    "cityStateCountry": "Singapore, Singapore",
+    "address": "ALICE@Mediapolis, 29 Media Circle,  #09-05, Singapore 138565, Singapore",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/SGP-Singapore-ALICEMediapolis/Visual-Verification---Newsgathering-Producer--Contract-_JREQ188432/apply",
+    "location": "Singapore, Singapore",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "You will be based in our Singapore newsroom and will collaborate with video, text and photography colleagues on major global stories, working on breaking news, personal insight stories, conflicts and...",
+      "descriptionTeaser_first200": "Reuters is looking for an enthusiastic and diligent journalist to join our fast-paced visual verification and newsgathering team on a short-term contract basis, with a commitment period of four mon...",
+      "descriptionTeaser_keyword": "Reuters is looking for an enthusiastic and diligent journalist to join our fast-paced visual verification and newsgathering team on a short-term contract basis, with a commitment period of four months...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 103.792796,
+          "lat": 1.2938815
+        },
+        "location": "Singapore, Singapore"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Hong Kong",
+    "country": "Hong Kong",
+    "ml_skills": [
+      "publishing",
+      "author management",
+      "copy editing",
+      "content management",
+      "content review",
+      "cantonese",
+      "content management systems",
+      "xml",
+      "production schedules",
+      "stakeholder management"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Coordinating of end-to-end publishing activities: commissioning new content, author management (including contract preparation, liaison re payments), content review, scheduling of updates, vendor liai...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "114.2168499",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ188189",
+    "jobId": "JREQ188189",
+    "city": "Hong Kong",
+    "latitude": "22.2876498",
+    "locale": "en_US",
+    "multi_location": [
+      "Hong Kong, Hong Kong"
+    ],
+    "title": "Legal Editor",
+    "jobSeqNo": "THTTRUUSJREQ188189EXTERNALENUS",
+    "postedDate": "2025-03-03T00:00:00.000+0000",
+    "dateCreated": "2025-02-28T04:38:24.652+0000",
+    "cityStateCountry": "Hong Kong, Hong Kong",
+    "address": "15/F, 14 Taikoo Wan Road, Taikoo Shing, Hong Kong, Hong Kong",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/HKG-Taikoo-14-Taikoo-Wan-Road/Legal-Editor_JREQ188189/apply",
+    "location": "Hong Kong, Hong Kong",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Coordinating of end-to-end publishing activities: commissioning new content, author management (including contract preparation, liaison re payments), content review, scheduling of updates, vendor liai...",
+      "descriptionTeaser_first200": "Legal Editor. Are you interested in the law and publishing \u2013 do you want to join the world leader in providing trusted legal, tax and regulatory content to professionals and academia? Thomson Reute...",
+      "descriptionTeaser_keyword": "Legal Editor. Are you interested in the law and publishing \u2013 do you want to join the world leader in providing trusted legal, tax and regulatory content to professionals and academia? Thomson Reuters...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 114.2168499,
+          "lat": 22.2876498
+        },
+        "location": "Hong Kong, Hong Kong"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "London",
     "country": "United Kingdom",
     "ml_skills": [
@@ -771,76 +911,6 @@
           "lat": 43.6480117
         },
         "location": "Toronto, Ontario, Canada"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Singapore",
-    "country": "Singapore",
-    "ml_skills": [
-      "breaking news",
-      "newsgathering",
-      "photography",
-      "multimedia",
-      "english",
-      "collaborate",
-      "verification",
-      "metadata",
-      "ai",
-      "artificial intelligence"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "You will be based in our Singapore newsroom and will collaborate with video, text and photography colleagues on major global stories, working on breaking news, personal insight stories, conflicts and...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "103.792796",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ188432",
-    "jobId": "JREQ188432",
-    "city": "Singapore",
-    "latitude": "1.2938815",
-    "locale": "en_US",
-    "multi_location": [
-      "Singapore, Singapore"
-    ],
-    "title": "Visual Verification & Newsgathering Producer (Contract)",
-    "jobSeqNo": "THTTRUUSJREQ188432EXTERNALENUS",
-    "postedDate": "2025-02-25T00:00:00.000+0000",
-    "dateCreated": "2025-02-25T12:39:37.784+0000",
-    "cityStateCountry": "Singapore, Singapore",
-    "address": "ALICE@Mediapolis, 29 Media Circle,  #09-05, Singapore 138565, Singapore",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/SGP-Singapore-ALICEMediapolis/Visual-Verification---Newsgathering-Producer--Contract-_JREQ188432/apply",
-    "location": "Singapore, Singapore",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "You will be based in our Singapore newsroom and will collaborate with video, text and photography colleagues on major global stories, working on breaking news, personal insight stories, conflicts and...",
-      "descriptionTeaser_first200": "Reuters is looking for an enthusiastic and diligent journalist to join our fast-paced visual verification and newsgathering team on a short-term contract basis, with a commitment period from March ...",
-      "descriptionTeaser_keyword": "Reuters is looking for an enthusiastic and diligent journalist to join our fast-paced visual verification and newsgathering team on a short-term contract basis, with a commitment period from March to...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 103.792796,
-          "lat": 1.2938815
-        },
-        "location": "Singapore, Singapore"
       }
     ],
     "isMultiCategory": true,
