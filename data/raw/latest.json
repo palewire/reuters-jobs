@@ -1,5 +1,64 @@
 [
   {
+    "cityState": "Bengaluru, Karnataka",
+    "country": "India",
+    "ml_skills": [],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Have the news judgment to differentiate between news that can make or break a company and PR speak - and be able to prioritize news, analysis and views for an investment audience. A journalist will be...",
+    "state": "Karnataka",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "77.7120655",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ185927",
+    "jobId": "JREQ185927",
+    "city": "Bengaluru",
+    "latitude": "12.9743998",
+    "locale": "en_US",
+    "multi_location": [
+      "Bengaluru, Karnataka, India"
+    ],
+    "title": "Associate Correspondent",
+    "jobSeqNo": "THTTRUUSJREQ185927EXTERNALENUS",
+    "postedDate": "2025-03-11T00:00:00.000+0000",
+    "dateCreated": "2025-02-19T12:47:08.835+0000",
+    "cityStateCountry": "Bengaluru, Karnataka, India",
+    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/Associate-Correspondent_JREQ185927-1/apply",
+    "location": "Bengaluru, Karnataka, India",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Have the news judgment to differentiate between news that can make or break a company and PR speak - and be able to prioritize news, analysis and views for an investment audience. A journalist will be...",
+      "descriptionTeaser_first200": "Associate Correspondent. We're looking for a talented, well-organized news hound to be a part of Reuters\u2019 Bangalore newsroom. The successful candidate will be a people person, a great communicator ...",
+      "descriptionTeaser_keyword": "Associate Correspondent. We're looking for a talented, well-organized news hound to be a part of Reuters\u2019 Bangalore newsroom. The successful candidate will be a people person, a great communicator and...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 77.7120655,
+          "lat": 12.9743998
+        },
+        "location": "Bengaluru, Karnataka, India"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Sarri\u00e0-Sant Gervasi, Barcelona",
     "country": "Spain",
     "ml_skills": [
@@ -277,6 +336,59 @@
     "badge": ""
   },
   {
+    "cityState": "Pyrmont, New South Wales",
+    "country": "Australia",
+    "ml_skills": null,
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": null,
+    "state": "New South Wales",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "151.1915144",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ188188",
+    "jobId": "JREQ188188",
+    "city": "Pyrmont",
+    "latitude": "-33.8664432",
+    "locale": "en_US",
+    "multi_location": [
+      "Pyrmont, New South Wales, Australia"
+    ],
+    "title": "Publishing Editor",
+    "jobSeqNo": "THTTRUUSJREQ188188EXTERNALENUS",
+    "postedDate": "2025-03-06T00:00:00.000+0000",
+    "dateCreated": "2025-02-27T00:38:49.877+0000",
+    "cityStateCountry": "Pyrmont, New South Wales, Australia",
+    "address": "19 Harris Street, Pyrmont NSW 2009, Australia",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/AUS-Pyrmont-19-Harris-St/Senior-Publishing-Editor_JREQ188188-1/apply",
+    "location": "Pyrmont, New South Wales, Australia",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 151.1915144,
+          "lat": -33.8664432
+        },
+        "location": "Pyrmont, New South Wales, Australia"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "New York, New York",
     "country": "United States of America",
     "ml_skills": [
@@ -425,59 +537,6 @@
           "lat": 38.9326462
         },
         "location": "McLean, Virginia, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Pyrmont, New South Wales",
-    "country": "Australia",
-    "ml_skills": null,
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": null,
-    "state": "New South Wales",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "151.1915144",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ188188",
-    "jobId": "JREQ188188",
-    "city": "Pyrmont",
-    "latitude": "-33.8664432",
-    "locale": "en_US",
-    "multi_location": [
-      "Pyrmont, New South Wales, Australia"
-    ],
-    "title": "Publishing Editor",
-    "jobSeqNo": "THTTRUUSJREQ188188EXTERNALENUS",
-    "postedDate": "2025-03-06T00:00:00.000+0000",
-    "dateCreated": "2025-02-27T00:38:49.877+0000",
-    "cityStateCountry": "Pyrmont, New South Wales, Australia",
-    "address": "19 Harris Street, Pyrmont NSW 2009, Australia",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/AUS-Pyrmont-19-Harris-St/Senior-Publishing-Editor_JREQ188188-1/apply",
-    "location": "Pyrmont, New South Wales, Australia",
-    "category": "News & Editorial Careers",
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 151.1915144,
-          "lat": -33.8664432
-        },
-        "location": "Pyrmont, New South Wales, Australia"
       }
     ],
     "isMultiCategory": true,
@@ -642,51 +701,50 @@
     "badge": ""
   },
   {
-    "cityState": "London",
-    "country": "United Kingdom",
+    "cityState": "Los Angeles, California",
+    "country": "United States of America",
     "ml_skills": [
-      "journalism",
+      "breaking news",
+      "beat reporting",
       "multimedia",
-      "fashion",
-      "trading",
-      "market structure",
-      "charts",
-      "carving"
+      "feedback",
+      "monitoring"
     ],
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "Regularly break news on some of the biggest firms that trade in markets and the regulation that shapes the business. Expertise in one or more our key reporting beats, ranging from regulation, market s...",
-    "state": "",
+    "descriptionTeaser": "The ideal candidates will have sound news judgment, a track record of producing sharp reporting on deadline and an appetite for covering stories across politics, policy and national affairs in the Uni...",
+    "state": "California",
     "visibilityType": "External",
     "siteType": "external",
-    "longitude": "-0.0185088",
+    "longitude": "-118.2414884",
     "multi_category": [
       "News & Editorial Careers"
     ],
-    "reqId": "JREQ185473",
-    "jobId": "JREQ185473",
-    "city": "London",
-    "latitude": "51.5056439",
+    "reqId": "JREQ186912",
+    "jobId": "JREQ186912",
+    "city": "Los Angeles",
+    "latitude": "34.033736",
     "locale": "en_US",
     "multi_location": [
-      "London, United Kingdom"
+      "Los Angeles, California, United States of America",
+      "Washington, District of Columbia, United States of America"
     ],
-    "title": "UK Finance Correspondent, Reuters",
-    "jobSeqNo": "THTTRUUSJREQ185473EXTERNALENUS",
+    "title": "Breaking News Correspondent (Level 1 Journalist)",
+    "jobSeqNo": "THTTRUUSJREQ186912EXTERNALENUS",
     "postedDate": "2025-03-04T00:00:00.000+0000",
-    "dateCreated": "2024-12-03T16:56:57.028+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "dateCreated": "2025-01-17T00:45:26.496+0000",
+    "cityStateCountry": "Los Angeles, California, United States of America",
+    "address": "777 S. Alameda, 2nd Floor, Los Angeles, CA 90021, United States of America",
     "jobVisibility": [
       "external"
     ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/UK-Finance-Correspondent--Reuters_JREQ185473/apply",
-    "location": "London, United Kingdom",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Los-Angeles-777-S-Alameda/Breaking-News-Correspondent--Level-1-Journalist-_JREQ186912-1/apply",
+    "location": "Los Angeles, California, United States of America",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "Regularly break news on some of the biggest firms that trade in markets and the regulation that shapes the business. Expertise in one or more our key reporting beats, ranging from regulation, market s...",
-      "descriptionTeaser_first200": "UK Finance Correspondent, Reuters. This position is based in London. Are you passionate about financial markets and the role they play in today\u2019s complex global economy? Would you like a front-row ...",
-      "descriptionTeaser_keyword": "UK Finance Correspondent, Reuters. This position is based in London. Are you passionate about financial markets and the role they play in today\u2019s complex global economy? Would you like a front-row sea...",
+      "descriptionTeaser": "The ideal candidates will have sound news judgment, a track record of producing sharp reporting on deadline and an appetite for covering stories across politics, policy and national affairs in the Uni...",
+      "descriptionTeaser_first200": "Reuters is seeking a Breaking News Correspondent (Level 1 Journalist) in Los Angeles or Washington, DC to join its U.S.-Canada Breaking News Team covering some of the biggest political and general ...",
+      "descriptionTeaser_keyword": "Reuters is seeking a Breaking News Correspondent (Level 1 Journalist) in Los Angeles or Washington, DC to join its U. S. -Canada Breaking News Team covering some of the biggest political and general n...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
@@ -694,10 +752,17 @@
     "multi_location_array": [
       {
         "latlong": {
-          "lon": -0.0185088,
-          "lat": 51.5056439
+          "lon": -118.2414884,
+          "lat": 34.033736
         },
-        "location": "London, United Kingdom"
+        "location": "Los Angeles, California, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -77.0311952,
+          "lat": 38.9004793
+        },
+        "location": "Washington, District of Columbia, United States of America"
       }
     ],
     "isMultiCategory": true,
@@ -785,50 +850,51 @@
     "badge": ""
   },
   {
-    "cityState": "Los Angeles, California",
-    "country": "United States of America",
+    "cityState": "London",
+    "country": "United Kingdom",
     "ml_skills": [
-      "breaking news",
-      "beat reporting",
+      "journalism",
       "multimedia",
-      "feedback",
-      "monitoring"
+      "fashion",
+      "trading",
+      "market structure",
+      "charts",
+      "carving"
     ],
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "The ideal candidates will have sound news judgment, a track record of producing sharp reporting on deadline and an appetite for covering stories across politics, policy and national affairs in the Uni...",
-    "state": "California",
+    "descriptionTeaser": "Regularly break news on some of the biggest firms that trade in markets and the regulation that shapes the business. Expertise in one or more our key reporting beats, ranging from regulation, market s...",
+    "state": "",
     "visibilityType": "External",
     "siteType": "external",
-    "longitude": "-118.2414884",
+    "longitude": "-0.0185088",
     "multi_category": [
       "News & Editorial Careers"
     ],
-    "reqId": "JREQ186912",
-    "jobId": "JREQ186912",
-    "city": "Los Angeles",
-    "latitude": "34.033736",
+    "reqId": "JREQ185473",
+    "jobId": "JREQ185473",
+    "city": "London",
+    "latitude": "51.5056439",
     "locale": "en_US",
     "multi_location": [
-      "Los Angeles, California, United States of America",
-      "Washington, District of Columbia, United States of America"
+      "London, United Kingdom"
     ],
-    "title": "Breaking News Correspondent (Level 1 Journalist)",
-    "jobSeqNo": "THTTRUUSJREQ186912EXTERNALENUS",
+    "title": "UK Finance Correspondent, Reuters",
+    "jobSeqNo": "THTTRUUSJREQ185473EXTERNALENUS",
     "postedDate": "2025-03-04T00:00:00.000+0000",
-    "dateCreated": "2025-01-17T00:45:26.496+0000",
-    "cityStateCountry": "Los Angeles, California, United States of America",
-    "address": "777 S. Alameda, 2nd Floor, Los Angeles, CA 90021, United States of America",
+    "dateCreated": "2024-12-03T16:56:57.028+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
     "jobVisibility": [
       "external"
     ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Los-Angeles-777-S-Alameda/Breaking-News-Correspondent--Level-1-Journalist-_JREQ186912-1/apply",
-    "location": "Los Angeles, California, United States of America",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/UK-Finance-Correspondent--Reuters_JREQ185473/apply",
+    "location": "London, United Kingdom",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "The ideal candidates will have sound news judgment, a track record of producing sharp reporting on deadline and an appetite for covering stories across politics, policy and national affairs in the Uni...",
-      "descriptionTeaser_first200": "Reuters is seeking a Breaking News Correspondent (Level 1 Journalist) in Los Angeles or Washington, DC to join its U.S.-Canada Breaking News Team covering some of the biggest political and general ...",
-      "descriptionTeaser_keyword": "Reuters is seeking a Breaking News Correspondent (Level 1 Journalist) in Los Angeles or Washington, DC to join its U. S. -Canada Breaking News Team covering some of the biggest political and general n...",
+      "descriptionTeaser": "Regularly break news on some of the biggest firms that trade in markets and the regulation that shapes the business. Expertise in one or more our key reporting beats, ranging from regulation, market s...",
+      "descriptionTeaser_first200": "UK Finance Correspondent, Reuters. This position is based in London. Are you passionate about financial markets and the role they play in today\u2019s complex global economy? Would you like a front-row ...",
+      "descriptionTeaser_keyword": "UK Finance Correspondent, Reuters. This position is based in London. Are you passionate about financial markets and the role they play in today\u2019s complex global economy? Would you like a front-row sea...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
@@ -836,17 +902,10 @@
     "multi_location_array": [
       {
         "latlong": {
-          "lon": -118.2414884,
-          "lat": 34.033736
+          "lon": -0.0185088,
+          "lat": 51.5056439
         },
-        "location": "Los Angeles, California, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -77.0311952,
-          "lat": 38.9004793
-        },
-        "location": "Washington, District of Columbia, United States of America"
+        "location": "London, United Kingdom"
       }
     ],
     "isMultiCategory": true,
@@ -1005,6 +1064,76 @@
     "badge": ""
   },
   {
+    "cityState": "Singapore",
+    "country": "Singapore",
+    "ml_skills": [
+      "breaking news",
+      "newsgathering",
+      "photography",
+      "multimedia",
+      "english",
+      "collaborate",
+      "verification",
+      "metadata",
+      "ai",
+      "artificial intelligence"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "You will be based in our Singapore newsroom and will collaborate with video, text and photography colleagues on major global stories, working on breaking news, personal insight stories, conflicts and...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "103.792796",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ188432",
+    "jobId": "JREQ188432",
+    "city": "Singapore",
+    "latitude": "1.2938815",
+    "locale": "en_US",
+    "multi_location": [
+      "Singapore, Singapore"
+    ],
+    "title": "Visual Verification & Newsgathering Producer (Contract)",
+    "jobSeqNo": "THTTRUUSJREQ188432EXTERNALENUS",
+    "postedDate": "2025-03-03T00:00:00.000+0000",
+    "dateCreated": "2025-02-25T12:39:37.784+0000",
+    "cityStateCountry": "Singapore, Singapore",
+    "address": "ALICE@Mediapolis, 29 Media Circle,  #09-05, Singapore 138565, Singapore",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/SGP-Singapore-ALICEMediapolis/Visual-Verification---Newsgathering-Producer--Contract-_JREQ188432/apply",
+    "location": "Singapore, Singapore",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "You will be based in our Singapore newsroom and will collaborate with video, text and photography colleagues on major global stories, working on breaking news, personal insight stories, conflicts and...",
+      "descriptionTeaser_first200": "Reuters is looking for an enthusiastic and diligent journalist to join our fast-paced visual verification and newsgathering team on a short-term contract basis, with a commitment period of four mon...",
+      "descriptionTeaser_keyword": "Reuters is looking for an enthusiastic and diligent journalist to join our fast-paced visual verification and newsgathering team on a short-term contract basis, with a commitment period of four months...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 103.792796,
+          "lat": 1.2938815
+        },
+        "location": "Singapore, Singapore"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Frisco, Texas",
     "country": "United States of America",
     "ml_skills": [
@@ -1089,76 +1218,6 @@
           "lat": 38.9004793
         },
         "location": "Washington, District of Columbia, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Singapore",
-    "country": "Singapore",
-    "ml_skills": [
-      "breaking news",
-      "newsgathering",
-      "photography",
-      "multimedia",
-      "english",
-      "collaborate",
-      "verification",
-      "metadata",
-      "ai",
-      "artificial intelligence"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "You will be based in our Singapore newsroom and will collaborate with video, text and photography colleagues on major global stories, working on breaking news, personal insight stories, conflicts and...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "103.792796",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ188432",
-    "jobId": "JREQ188432",
-    "city": "Singapore",
-    "latitude": "1.2938815",
-    "locale": "en_US",
-    "multi_location": [
-      "Singapore, Singapore"
-    ],
-    "title": "Visual Verification & Newsgathering Producer (Contract)",
-    "jobSeqNo": "THTTRUUSJREQ188432EXTERNALENUS",
-    "postedDate": "2025-03-03T00:00:00.000+0000",
-    "dateCreated": "2025-02-25T12:39:37.784+0000",
-    "cityStateCountry": "Singapore, Singapore",
-    "address": "ALICE@Mediapolis, 29 Media Circle,  #09-05, Singapore 138565, Singapore",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/SGP-Singapore-ALICEMediapolis/Visual-Verification---Newsgathering-Producer--Contract-_JREQ188432/apply",
-    "location": "Singapore, Singapore",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "You will be based in our Singapore newsroom and will collaborate with video, text and photography colleagues on major global stories, working on breaking news, personal insight stories, conflicts and...",
-      "descriptionTeaser_first200": "Reuters is looking for an enthusiastic and diligent journalist to join our fast-paced visual verification and newsgathering team on a short-term contract basis, with a commitment period of four mon...",
-      "descriptionTeaser_keyword": "Reuters is looking for an enthusiastic and diligent journalist to join our fast-paced visual verification and newsgathering team on a short-term contract basis, with a commitment period of four months...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 103.792796,
-          "lat": 1.2938815
-        },
-        "location": "Singapore, Singapore"
       }
     ],
     "isMultiCategory": true,
@@ -1474,6 +1533,71 @@
     "badge": ""
   },
   {
+    "cityState": "Hyderabad, Telangana",
+    "country": "India",
+    "ml_skills": [
+      "trade compliance",
+      "interpretation skills",
+      "customs regulations",
+      "harmonized tariff schedule",
+      "verification"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Analyst - Global Trade Content. The Analyst \u2013 Global Trade Content is responsible for the accurate compilation and in-depth understanding of Harmonized Tariff Schedule (HS) Tariff with a focus on sour...",
+    "state": "Telangana",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "78.3847282",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ187570",
+    "jobId": "JREQ187570",
+    "city": "Hyderabad",
+    "latitude": "17.438325",
+    "locale": "en_US",
+    "multi_location": [
+      "Hyderabad, Telangana, India"
+    ],
+    "title": "Analyst - Global Trade Content",
+    "jobSeqNo": "THTTRUUSJREQ187570EXTERNALENUS",
+    "postedDate": "2025-02-26T00:00:00.000+0000",
+    "dateCreated": "2025-02-07T08:41:18.620+0000",
+    "cityStateCountry": "Hyderabad, Telangana, India",
+    "address": "Floor 12, 13 & 14, Building 11, Raheja Mindspace, Madhapur, Hyderabad- 500081, Telangana, India",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Hyderabad-Raheja-Mindspace/Analyst---Global-Trade-Content_JREQ187570/apply",
+    "location": "Hyderabad, Telangana, India",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Analyst - Global Trade Content. The Analyst \u2013 Global Trade Content is responsible for the accurate compilation and in-depth understanding of Harmonized Tariff Schedule (HS) Tariff with a focus on sour...",
+      "descriptionTeaser_first200": "Analyst - Global Trade Content. The Analyst \u2013 Global Trade Content is responsible for the accurate compilation and in-depth understanding of Harmonized Tariff Schedule (HS) Tariff with a focus on...",
+      "descriptionTeaser_keyword": "Analyst - Global Trade Content. The Analyst \u2013 Global Trade Content is responsible for the accurate compilation and in-depth understanding of Harmonized Tariff Schedule (HS) Tariff with a focus on sour...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 78.3847282,
+          "lat": 17.438325
+        },
+        "location": "Hyderabad, Telangana, India"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "London",
     "country": "United Kingdom",
     "ml_skills": [
@@ -1532,71 +1656,6 @@
           "lat": 51.5056439
         },
         "location": "London, United Kingdom"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Hyderabad, Telangana",
-    "country": "India",
-    "ml_skills": [
-      "trade compliance",
-      "interpretation skills",
-      "customs regulations",
-      "harmonized tariff schedule",
-      "verification"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Analyst - Global Trade Content. The Analyst \u2013 Global Trade Content is responsible for the accurate compilation and in-depth understanding of Harmonized Tariff Schedule (HS) Tariff with a focus on sour...",
-    "state": "Telangana",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "78.3847282",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ187570",
-    "jobId": "JREQ187570",
-    "city": "Hyderabad",
-    "latitude": "17.438325",
-    "locale": "en_US",
-    "multi_location": [
-      "Hyderabad, Telangana, India"
-    ],
-    "title": "Analyst - Global Trade Content",
-    "jobSeqNo": "THTTRUUSJREQ187570EXTERNALENUS",
-    "postedDate": "2025-02-26T00:00:00.000+0000",
-    "dateCreated": "2025-02-07T08:41:18.620+0000",
-    "cityStateCountry": "Hyderabad, Telangana, India",
-    "address": "Floor 12, 13 & 14, Building 11, Raheja Mindspace, Madhapur, Hyderabad- 500081, Telangana, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Hyderabad-Raheja-Mindspace/Analyst---Global-Trade-Content_JREQ187570/apply",
-    "location": "Hyderabad, Telangana, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Analyst - Global Trade Content. The Analyst \u2013 Global Trade Content is responsible for the accurate compilation and in-depth understanding of Harmonized Tariff Schedule (HS) Tariff with a focus on sour...",
-      "descriptionTeaser_first200": "Analyst - Global Trade Content. The Analyst \u2013 Global Trade Content is responsible for the accurate compilation and in-depth understanding of Harmonized Tariff Schedule (HS) Tariff with a focus on...",
-      "descriptionTeaser_keyword": "Analyst - Global Trade Content. The Analyst \u2013 Global Trade Content is responsible for the accurate compilation and in-depth understanding of Harmonized Tariff Schedule (HS) Tariff with a focus on sour...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 78.3847282,
-          "lat": 17.438325
-        },
-        "location": "Hyderabad, Telangana, India"
       }
     ],
     "isMultiCategory": true,
@@ -2448,7 +2507,7 @@
     ],
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "This role involves delivering high-quality news articles and columns through comprehensive analysis of macroeconomic developments in an increasingly complex international economic environment. Researc...",
+    "descriptionTeaser": "Reuters is seeking a highly motivated news reporter who can analyse global trends and their impact on the Japanese economy. The role requires the ability to explain how global structural changes, such...",
     "state": "",
     "visibilityType": "External",
     "siteType": "external",
@@ -2456,30 +2515,30 @@
     "multi_category": [
       "News & Editorial Careers"
     ],
-    "reqId": "JREQ187700",
-    "jobId": "JREQ187700",
+    "reqId": "JREQ187702",
+    "jobId": "JREQ187702",
     "city": "Tokyo",
     "latitude": "35.6621409",
     "locale": "en_US",
     "multi_location": [
       "Tokyo, Japan"
     ],
-    "title": "Senior Economic News Correspondent/ \u30b7\u30cb\u30a2\u30b3\u30ec\u30b9\u30dd\u30f3\u30c7\u30f3\u30c8\uff08\u7d4c\u6e08\u30cb\u30e5\u30fc\u30b9\uff09",
-    "jobSeqNo": "THTTRUUSJREQ187700EXTERNALENUS",
+    "title": "Correspondent/ \u30b3\u30ec\u30b9\u30dd\u30f3\u30c7\u30f3\u30c8\uff08\u7d4c\u6e08\u30cb\u30e5\u30fc\u30b9)",
+    "jobSeqNo": "THTTRUUSJREQ187702EXTERNALENUS",
     "postedDate": "2025-02-17T00:00:00.000+0000",
-    "dateCreated": "2025-02-17T00:40:13.662+0000",
+    "dateCreated": "2025-02-17T04:42:32.333+0000",
     "cityStateCountry": "Tokyo, Japan",
     "address": "10F Atago Green Hills Mori Tower, 2-5-1 Atago, Minato-ku, Tokyo, 105-6210, Japan",
     "jobVisibility": [
       "external"
     ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/JPN-Tokyo-Atago-Green-Hills/Senior-Economic-News-Correspondent----_JREQ187700/apply",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/JPN-Tokyo-Atago-Green-Hills/Correspondent----_JREQ187702/apply",
     "location": "Tokyo, Japan",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "This role involves delivering high-quality news articles and columns through comprehensive analysis of macroeconomic developments in an increasingly complex international economic environment. Researc...",
-      "descriptionTeaser_first200": "Reuters is seeking an experienced journalist to analyse global trends and their impact on the Japanese economy. This role involves delivering high-quality news articles and columns through comprehe...",
-      "descriptionTeaser_keyword": "Reuters is seeking an experienced journalist to analyse global trends and their impact on the Japanese economy. This role involves delivering high-quality news articles and columns through comprehensi...",
+      "descriptionTeaser": "Reuters is seeking a highly motivated news reporter who can analyse global trends and their impact on the Japanese economy. The role requires the ability to explain how global structural changes, such...",
+      "descriptionTeaser_first200": "Correspondent. \u30b3\u30ec\u30b9\u30dd\u30f3\u30c7\u30f3\u30c8\uff08\u7d4c\u6e08\u30cb\u30e5\u30fc\u30b9). Reuters is seeking a highly motivated news reporter who can analyse global trends and their impact on the Japanese economy. The successful candidate will provide in...",
+      "descriptionTeaser_keyword": "Correspondent. \u30b3\u30ec\u30b9\u30dd\u30f3\u30c7\u30f3\u30c8\uff08\u7d4c\u6e08\u30cb\u30e5\u30fc\u30b9). Reuters is seeking a highly motivated news reporter who can analyse global trends and their impact on the Japanese economy. The successful candidate will provide in-de...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
@@ -2518,7 +2577,7 @@
     ],
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "Reuters is seeking a highly motivated news reporter who can analyse global trends and their impact on the Japanese economy. The role requires the ability to explain how global structural changes, such...",
+    "descriptionTeaser": "This role involves delivering high-quality news articles and columns through comprehensive analysis of macroeconomic developments in an increasingly complex international economic environment. Researc...",
     "state": "",
     "visibilityType": "External",
     "siteType": "external",
@@ -2526,30 +2585,30 @@
     "multi_category": [
       "News & Editorial Careers"
     ],
-    "reqId": "JREQ187702",
-    "jobId": "JREQ187702",
+    "reqId": "JREQ187700",
+    "jobId": "JREQ187700",
     "city": "Tokyo",
     "latitude": "35.6621409",
     "locale": "en_US",
     "multi_location": [
       "Tokyo, Japan"
     ],
-    "title": "Correspondent/ \u30b3\u30ec\u30b9\u30dd\u30f3\u30c7\u30f3\u30c8\uff08\u7d4c\u6e08\u30cb\u30e5\u30fc\u30b9)",
-    "jobSeqNo": "THTTRUUSJREQ187702EXTERNALENUS",
+    "title": "Senior Economic News Correspondent/ \u30b7\u30cb\u30a2\u30b3\u30ec\u30b9\u30dd\u30f3\u30c7\u30f3\u30c8\uff08\u7d4c\u6e08\u30cb\u30e5\u30fc\u30b9\uff09",
+    "jobSeqNo": "THTTRUUSJREQ187700EXTERNALENUS",
     "postedDate": "2025-02-17T00:00:00.000+0000",
-    "dateCreated": "2025-02-17T04:42:32.333+0000",
+    "dateCreated": "2025-02-17T00:40:13.662+0000",
     "cityStateCountry": "Tokyo, Japan",
     "address": "10F Atago Green Hills Mori Tower, 2-5-1 Atago, Minato-ku, Tokyo, 105-6210, Japan",
     "jobVisibility": [
       "external"
     ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/JPN-Tokyo-Atago-Green-Hills/Correspondent----_JREQ187702/apply",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/JPN-Tokyo-Atago-Green-Hills/Senior-Economic-News-Correspondent----_JREQ187700/apply",
     "location": "Tokyo, Japan",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "Reuters is seeking a highly motivated news reporter who can analyse global trends and their impact on the Japanese economy. The role requires the ability to explain how global structural changes, such...",
-      "descriptionTeaser_first200": "Correspondent. \u30b3\u30ec\u30b9\u30dd\u30f3\u30c7\u30f3\u30c8\uff08\u7d4c\u6e08\u30cb\u30e5\u30fc\u30b9). Reuters is seeking a highly motivated news reporter who can analyse global trends and their impact on the Japanese economy. The successful candidate will provide in...",
-      "descriptionTeaser_keyword": "Correspondent. \u30b3\u30ec\u30b9\u30dd\u30f3\u30c7\u30f3\u30c8\uff08\u7d4c\u6e08\u30cb\u30e5\u30fc\u30b9). Reuters is seeking a highly motivated news reporter who can analyse global trends and their impact on the Japanese economy. The successful candidate will provide in-de...",
+      "descriptionTeaser": "This role involves delivering high-quality news articles and columns through comprehensive analysis of macroeconomic developments in an increasingly complex international economic environment. Researc...",
+      "descriptionTeaser_first200": "Reuters is seeking an experienced journalist to analyse global trends and their impact on the Japanese economy. This role involves delivering high-quality news articles and columns through comprehe...",
+      "descriptionTeaser_keyword": "Reuters is seeking an experienced journalist to analyse global trends and their impact on the Japanese economy. This role involves delivering high-quality news articles and columns through comprehensi...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
