@@ -162,6 +162,103 @@
     "badge": ""
   },
   {
+    "cityState": "Frisco, Texas",
+    "country": "United States of America",
+    "ml_skills": [
+      "knowledge management",
+      "project management",
+      "resource planning",
+      "risk analysis",
+      "business consulting",
+      "project planning",
+      "successful implementation",
+      "project budgeting",
+      "resourceful",
+      "customer success",
+      "build",
+      "engaging",
+      "trusted relationships"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Tax Research & Content Analyst is responsible for research, configuration, ongoing maintenance, enhancements, and testing to ensure that ONESOURCE\u2122 applications and offerings comply with tax rules and...",
+    "state": "Texas",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-96.833545",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ188624",
+    "jobId": "JREQ188624",
+    "city": "Frisco",
+    "latitude": "33.1073049",
+    "locale": "en_US",
+    "multi_location": [
+      "Frisco, Texas, United States of America",
+      "Ann Arbor, Michigan, United States of America",
+      "Eagan, Minnesota, United States of America",
+      "New York, New York, United States of America"
+    ],
+    "title": "Senior Tax Analyst, Tax Research & Content",
+    "jobSeqNo": "THTTRUUSJREQ188624EXTERNALENUS",
+    "postedDate": "2025-03-12T00:00:00.000+0000",
+    "dateCreated": "2025-03-12T20:40:39.809+0000",
+    "cityStateCountry": "Frisco, Texas, United States of America",
+    "address": "6160 Warren Parkway, Frisco, TX 75034, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Frisco-6160-Warren-Parkway/Senior-Tax-Analyst--Tax-Research---Content_JREQ188624/apply",
+    "location": "Frisco, Texas, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Tax Research & Content Analyst is responsible for research, configuration, ongoing maintenance, enhancements, and testing to ensure that ONESOURCE\u2122 applications and offerings comply with tax rules and...",
+      "descriptionTeaser_first200": "Sr. Tax Research & Content Analyst. The Sr. Tax Research & Content Analyst is responsible for research, configuration, ongoing maintenance, enhancements, and testing to ensure that ONESOURCE\u2122 appli...",
+      "descriptionTeaser_keyword": "Sr. Tax Research & Content Analyst. The Sr. Tax Research & Content Analyst is responsible for research, configuration, ongoing maintenance, enhancements, and testing to ensure that ONESOURCE\u2122 applicat...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -96.833545,
+          "lat": 33.1073049
+        },
+        "location": "Frisco, Texas, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -83.7267835,
+          "lat": 42.1957259
+        },
+        "location": "Ann Arbor, Michigan, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -93.10808019999999,
+          "lat": 44.8527611
+        },
+        "location": "Eagan, Minnesota, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -73.9866995,
+          "lat": 40.7566955
+        },
+        "location": "New York, New York, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Sarri\u00e0-Sant Gervasi, Barcelona",
     "country": "Spain",
     "ml_skills": [
@@ -451,7 +548,14 @@
   {
     "cityState": "Bengaluru, Karnataka",
     "country": "India",
-    "ml_skills": [],
+    "ml_skills": [
+      "correspondent",
+      "captions",
+      "multimedia",
+      "financial data",
+      "monitoring",
+      "stock markets"
+    ],
     "remote": "Hybrid",
     "type": "Full time",
     "descriptionTeaser": "Have the news judgment to differentiate between news that can make or break a company and PR speak - and be able to prioritize news, analysis and views for an investment audience. A journalist will be...",
@@ -484,7 +588,7 @@
     "category": "News & Editorial Careers",
     "ml_job_parser": {
       "descriptionTeaser": "Have the news judgment to differentiate between news that can make or break a company and PR speak - and be able to prioritize news, analysis and views for an investment audience. A journalist will be...",
-      "descriptionTeaser_first200": "Associate Correspondent. We're looking for a talented, well-organized news hound to be a part of Reuters\u2019 Bangalore newsroom. The successful candidate will be a people person, a great communicator ...",
+      "descriptionTeaser_first200": "Associate Correspondent. We're looking for a talented, well-organized news hound to be a part of Reuters\u2019 Bangalore newsroom. The successful candidate will be a people person, a great communicator...",
       "descriptionTeaser_keyword": "Associate Correspondent. We're looking for a talented, well-organized news hound to be a part of Reuters\u2019 Bangalore newsroom. The successful candidate will be a people person, a great communicator and...",
       "descriptionTeaser_ats": ""
     },
