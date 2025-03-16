@@ -1,5 +1,319 @@
 [
   {
+    "cityState": "Washington, District of Columbia",
+    "country": "United States of America",
+    "ml_skills": [
+      "feedback",
+      "research skills",
+      "state tax",
+      "tax law",
+      "tax research",
+      "checkpoint",
+      "catalyst",
+      "agile environment",
+      "ai solutions"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "As a Thomson Reuters Tax & Accounting Specialist Editor working on Checkpoint Catalyst state content, you will create and maintain content for an exciting product line. Incorporate analysis into indus...",
+    "state": "District of Columbia",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-77.0311952",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ185592",
+    "jobId": "JREQ185592",
+    "city": "Washington",
+    "latitude": "38.9004793",
+    "locale": "en_US",
+    "multi_location": [
+      "Washington, District of Columbia, United States of America",
+      "Bloomington, Illinois, United States of America",
+      "Charleston, West Virginia, United States of America",
+      "Columbus, Ohio, United States of America",
+      "Denver, Colorado, United States of America",
+      "Durham, North Carolina, United States of America",
+      "Athens, Greece",
+      "Hartford, Connecticut, United States of America",
+      "Jacksonville, Florida, United States of America",
+      "Las Vegas, Nevada, United States of America",
+      "Los Angeles, California, United States of America",
+      "Louisville, Kentucky, United States of America",
+      "Richmond, Virginia, United States of America",
+      "Roanoke, Virginia, United States of America",
+      "San Diego, California, United States of America",
+      "Seattle, Washington, United States of America",
+      "Sterling, Virginia, United States of America",
+      "Tallahassee, Florida, United States of America",
+      "Ann Arbor, Michigan, United States of America",
+      "Frisco, Texas, United States of America",
+      "Eagan, Minnesota, United States of America",
+      "New York, New York, United States of America"
+    ],
+    "title": "State Tax Editor/Author",
+    "jobSeqNo": "THTTRUUSJREQ185592EXTERNALENUS",
+    "postedDate": "2025-03-14T00:00:00.000+0000",
+    "dateCreated": "2024-12-05T00:56:51.988+0000",
+    "cityStateCountry": "Washington, District of Columbia, United States of America",
+    "address": "1333 H Street NW, Suite 500, Washington, DC 20005, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Washington-1333-H-Street-N/State-Tax-Editor-Author_JREQ185592/apply",
+    "location": "Washington, District of Columbia, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "As a Thomson Reuters Tax & Accounting Specialist Editor working on Checkpoint Catalyst state content, you will create and maintain content for an exciting product line. Incorporate analysis into indus...",
+      "descriptionTeaser_first200": "State Tax Editor/Author. Role Summary. As a Thomson Reuters Tax & Accounting Specialist Editor working on Checkpoint Catalyst state content, you will create and maintain content for an exciting pro...",
+      "descriptionTeaser_keyword": "State Tax Editor/Author. Role Summary. As a Thomson Reuters Tax & Accounting Specialist Editor working on Checkpoint Catalyst state content, you will create and maintain content for an exciting produc...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -77.0311952,
+          "lat": 38.9004793
+        },
+        "location": "Washington, District of Columbia, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -88.93180819999999,
+          "lat": 40.4772644
+        },
+        "location": "Bloomington, Illinois, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -81.63364740000002,
+          "lat": 38.3517112
+        },
+        "location": "Charleston, West Virginia, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -83.00122100000002,
+          "lat": 39.9929821
+        },
+        "location": "Columbus, Ohio, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -104.9904855,
+          "lat": 39.7471139
+        },
+        "location": "Denver, Colorado, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -78.8920444,
+          "lat": 35.9981205
+        },
+        "location": "Durham, North Carolina, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": 23.7348157,
+          "lat": 37.9748045
+        },
+        "location": "Athens, Greece"
+      },
+      {
+        "latlong": {
+          "lon": -72.6622361,
+          "lat": 41.7899681
+        },
+        "location": "Hartford, Connecticut, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -81.7294702,
+          "lat": 30.3065729
+        },
+        "location": "Jacksonville, Florida, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -115.14,
+          "lat": 36.18
+        },
+        "location": "Las Vegas, Nevada, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -118.2543447,
+          "lat": 34.0511145
+        },
+        "location": "Los Angeles, California, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -85.4561648,
+          "lat": 38.2331559
+        },
+        "location": "Louisville, Kentucky, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -77.45,
+          "lat": 37.56
+        },
+        "location": "Richmond, Virginia, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -79.94,
+          "lat": 37.27
+        },
+        "location": "Roanoke, Virginia, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -117.0382158,
+          "lat": 32.7381191
+        },
+        "location": "San Diego, California, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -122.336407,
+          "lat": 47.6084921
+        },
+        "location": "Seattle, Washington, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -77.42999999999999,
+          "lat": 39.01
+        },
+        "location": "Sterling, Virginia, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -84.25421949999999,
+          "lat": 30.4305062
+        },
+        "location": "Tallahassee, Florida, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -83.7267835,
+          "lat": 42.1957259
+        },
+        "location": "Ann Arbor, Michigan, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -96.833545,
+          "lat": 33.1073049
+        },
+        "location": "Frisco, Texas, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -93.10808019999999,
+          "lat": 44.8527611
+        },
+        "location": "Eagan, Minnesota, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -73.9866995,
+          "lat": 40.7566955
+        },
+        "location": "New York, New York, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Madrid",
+    "country": "Spain",
+    "ml_skills": [
+      "photography",
+      "journalism",
+      "sports photography",
+      "multimedia",
+      "mass communication",
+      "english",
+      "captions",
+      "storytelling",
+      "english communication",
+      "collaborate",
+      "metadata",
+      "accuracy",
+      "quality",
+      "mentor",
+      "ai",
+      "innovative mindset",
+      "collaborative work"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "As a Senior Sport Photo Editor, you will play a crucial role in our Action Images editing team, ensuring the speed, quality, and accuracy of our sports photo delivery to clients worldwide....",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-3.6798774",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ188876",
+    "jobId": "JREQ188876",
+    "city": "Madrid",
+    "latitude": "40.4371514",
+    "locale": "en_US",
+    "multi_location": [
+      "Madrid, Spain"
+    ],
+    "title": "Senior Sport Photo Editor - Reuters",
+    "jobSeqNo": "THTTRUUSJREQ188876EXTERNALENUS",
+    "postedDate": "2025-03-13T00:00:00.000+0000",
+    "dateCreated": "2025-03-13T20:39:50.760+0000",
+    "cityStateCountry": "Madrid, Spain",
+    "address": "Calle Mar\u00eda de Molina 54, Piso 8, 28006 Madrid, Spain",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/ESP-Madrid-Mara-de-Molina/Senior-Sport-Photo-Editor---Reuters_JREQ188876/apply",
+    "location": "Madrid, Spain",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "As a Senior Sport Photo Editor, you will play a crucial role in our Action Images editing team, ensuring the speed, quality, and accuracy of our sports photo delivery to clients worldwide....",
+      "descriptionTeaser_first200": "Senior Sport Photo Editor. This position will be based in Barcelona, Spain. Reuters is seeking a highly skilled and experienced Senior Sport Photo Editor with a strong background in international s...",
+      "descriptionTeaser_keyword": "Senior Sport Photo Editor. This position will be based in Barcelona, Spain. Reuters is seeking a highly skilled and experienced Senior Sport Photo Editor with a strong background in international spor...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -3.6798774,
+          "lat": 40.4371514
+        },
+        "location": "Madrid, Spain"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Singapore",
     "country": "Singapore",
     "ml_skills": [
@@ -69,7 +383,19 @@
   {
     "cityState": "Singapore",
     "country": "Singapore",
-    "ml_skills": [],
+    "ml_skills": [
+      "contract law",
+      "commercial law",
+      "english",
+      "commercial contracts",
+      "writing skills",
+      "quality",
+      "collaborate",
+      "developing",
+      "technical expertise",
+      "franchising",
+      "customer-focused"
+    ],
     "remote": "Hybrid",
     "type": "Full time",
     "descriptionTeaser": "As a Senior Specialist Legal Editor, you will use your technical expertise and substantial experience as a practising lawyer to write and edit insightful and customer-focused content for online public...",
@@ -102,7 +428,7 @@
     "category": "News & Editorial Careers",
     "ml_job_parser": {
       "descriptionTeaser": "As a Senior Specialist Legal Editor, you will use your technical expertise and substantial experience as a practising lawyer to write and edit insightful and customer-focused content for online public...",
-      "descriptionTeaser_first200": "Senior Specialist Legal Editor, Practical Law Asia, Commercial . As a Senior Specialist Legal Editor, you will use your technical expertise and substantial experience as a practising lawyer to writ...",
+      "descriptionTeaser_first200": "Senior Specialist Legal Editor, Practical Law Asia, Commercial . As a Senior Specialist Legal Editor, you will use your technical expertise and substantial experience as a practising lawyer to wri...",
       "descriptionTeaser_keyword": "Senior Specialist Legal Editor, Practical Law Asia, Commercial. As a Senior Specialist Legal Editor, you will use your technical expertise and substantial experience as a practising lawyer to write an...",
       "descriptionTeaser_ats": ""
     },
@@ -182,101 +508,6 @@
           "lat": 40.4371514
         },
         "location": "Madrid, Spain"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Eagan, Minnesota",
-    "country": "United States of America",
-    "ml_skills": [
-      "tax research",
-      "corporate tax",
-      "online research",
-      "develop",
-      "microsoft excel",
-      "product management",
-      "accuracy",
-      "checkpoint",
-      "westlaw",
-      "configuration",
-      "ai solutions"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "The Senior Tax Analyst, Indirect Tax is responsible for research, configuration, ongoing maintenance, and testing to ensure that ONESOURCE\u2122 applications and offerings comply with indirect tax rules an...",
-    "state": "Minnesota",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-93.10808019999999",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ187498",
-    "jobId": "JREQ187498",
-    "city": "Eagan",
-    "latitude": "44.8527611",
-    "locale": "en_US",
-    "multi_location": [
-      "Eagan, Minnesota, United States of America",
-      "Ann Arbor, Michigan, United States of America",
-      "Frisco, Texas, United States of America",
-      "Washington, District of Columbia, United States of America"
-    ],
-    "title": "Senior Analyst, Tax Research and Content",
-    "jobSeqNo": "THTTRUUSJREQ187498EXTERNALENUS",
-    "postedDate": "2025-03-12T00:00:00.000+0000",
-    "dateCreated": "2025-02-04T20:42:12.271+0000",
-    "cityStateCountry": "Eagan, Minnesota, United States of America",
-    "address": "2900 Ames Crossing Road, Ste 100, Eagan, MN 55121, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MSP-2900-Ames-Crossing-Road/Senior-Analyst--Tax-Research-and-Content_JREQ187498/apply",
-    "location": "Eagan, Minnesota, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "The Senior Tax Analyst, Indirect Tax is responsible for research, configuration, ongoing maintenance, and testing to ensure that ONESOURCE\u2122 applications and offerings comply with indirect tax rules an...",
-      "descriptionTeaser_first200": "The Senior Tax Analyst, Indirect Tax is responsible for research, configuration, ongoing maintenance, and testing to ensure that ONESOURCE\u2122 applications and offerings comply with indirect tax rules...",
-      "descriptionTeaser_keyword": "The Senior Tax Analyst, Indirect Tax is responsible for research, configuration, ongoing maintenance, and testing to ensure that ONESOURCE\u2122 applications and offerings comply with indirect tax rules an...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -93.10808019999999,
-          "lat": 44.8527611
-        },
-        "location": "Eagan, Minnesota, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -83.7267835,
-          "lat": 42.1957259
-        },
-        "location": "Ann Arbor, Michigan, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -96.833545,
-          "lat": 33.1073049
-        },
-        "location": "Frisco, Texas, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -77.0311952,
-          "lat": 38.9004793
-        },
-        "location": "Washington, District of Columbia, United States of America"
       }
     ],
     "isMultiCategory": true,
@@ -738,74 +969,6 @@
     "badge": ""
   },
   {
-    "cityState": "Sarri\u00e0-Sant Gervasi, Barcelona",
-    "country": "Spain",
-    "ml_skills": [
-      "journalism",
-      "multimedia",
-      "digital media",
-      "breaking news",
-      "storytelling",
-      "quality",
-      "mentor",
-      "customer-focused"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "You will have outstanding news judgement and will be passionate about winning the big stories for a global client base that includes more than 1,100 broadcast and digital media outlets. You will have...",
-    "state": "Barcelona",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "2.1643876",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ187065",
-    "jobId": "JREQ187065",
-    "city": "Sarri\u00e0-Sant Gervasi",
-    "latitude": "41.3953587",
-    "locale": "en_US",
-    "multi_location": [
-      "Sarri\u00e0-Sant Gervasi, Barcelona, Spain"
-    ],
-    "title": "Visuals Sub Editor, Reuters News & Media",
-    "jobSeqNo": "THTTRUUSJREQ187065EXTERNALENUS",
-    "postedDate": "2025-03-10T00:00:00.000+0000",
-    "dateCreated": "2025-01-28T12:38:42.390+0000",
-    "cityStateCountry": "Sarri\u00e0-Sant Gervasi, Barcelona, Spain",
-    "address": "Thomson Reuters, 08021 Sarri\u00e0-Sant Gervasi, Barcelona, Spain",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Sarri-Sant-Gervasi-Barcelona/Visuals-Sub-Editor--Reuters-News---Media_JREQ187065/apply",
-    "location": "Sarri\u00e0-Sant Gervasi, Barcelona, Spain",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "You will have outstanding news judgement and will be passionate about winning the big stories for a global client base that includes more than 1,100 broadcast and digital media outlets. You will have...",
-      "descriptionTeaser_first200": "Reuters is looking for an experienced television news journalist to join our exciting, fast-paced global news hub in Barcelona. You will have outstanding news judgement and will be passionate about...",
-      "descriptionTeaser_keyword": "Reuters is looking for an experienced television news journalist to join our exciting, fast-paced global news hub in Barcelona. You will have outstanding news judgement and will be passionate about wi...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 2.1643876,
-          "lat": 41.3953587
-        },
-        "location": "Sarri\u00e0-Sant Gervasi, Barcelona, Spain"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Hyderabad, Telangana",
     "country": "India",
     "ml_skills": [
@@ -863,75 +1026,6 @@
           "lat": 17.438325
         },
         "location": "Hyderabad, Telangana, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Mexico City",
-    "country": "Mexico",
-    "ml_skills": [
-      "income tax",
-      "tax software",
-      "tax preparation",
-      "tax law",
-      "monitoring",
-      "filing",
-      "english",
-      "checkpoint",
-      "technical implementation"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "In this role, you will collect, analyze, and prioritize requirements from various entities to include external taxing authorities and our internal sources to define and make required changes to the Go...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-99.1510899",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ188620",
-    "jobId": "JREQ188620",
-    "city": "Mexico City",
-    "latitude": "19.4343664",
-    "locale": "en_US",
-    "multi_location": [
-      "Mexico City, Mexico"
-    ],
-    "title": "US Tax Accountant",
-    "jobSeqNo": "THTTRUUSJREQ188620EXTERNALENUS",
-    "postedDate": "2025-03-06T00:00:00.000+0000",
-    "dateCreated": "2025-03-07T04:39:18.835+0000",
-    "cityStateCountry": "Mexico City, Mexico",
-    "address": "Av. Paseo de la Reforma #26, Floor 36th, Colonia Ju\u00e1rez, Cuauht\u00e9moc, 06600 Mexico City, Mexico",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/MEX-Distrito-Federal-Reforma-26/US-Tax-Accountant_JREQ188620/apply",
-    "location": "Mexico City, Mexico",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "In this role, you will collect, analyze, and prioritize requirements from various entities to include external taxing authorities and our internal sources to define and make required changes to the Go...",
-      "descriptionTeaser_first200": "US Tax Accountant. Are you passionate about the chance to bring your experience to a world-class company that is market-leading for both content and technology? If yes, we are looking for you. Join...",
-      "descriptionTeaser_keyword": "US Tax Accountant. Are you passionate about the chance to bring your experience to a world-class company that is market-leading for both content and technology? If yes, we are looking for you. Join ou...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -99.1510899,
-          "lat": 19.4343664
-        },
-        "location": "Mexico City, Mexico"
       }
     ],
     "isMultiCategory": true,
@@ -1235,82 +1329,6 @@
           "lat": 38.9326462
         },
         "location": "McLean, Virginia, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Frisco, Texas",
-    "country": "United States of America",
-    "ml_skills": [
-      "tax software",
-      "tax preparation",
-      "auditing",
-      "feedback",
-      "accuracy",
-      "research tools",
-      "quality",
-      "provide feedback"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "As a Tax Analyst on this project, you will utilize your tax knowledge and experience within a small team in a unique, flexible work environment. Develops tax, accounting, auditing, and other specializ...",
-    "state": "Texas",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-96.833545",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ186349",
-    "jobId": "JREQ186349",
-    "city": "Frisco",
-    "latitude": "33.1073049",
-    "locale": "en_US",
-    "multi_location": [
-      "Frisco, Texas, United States of America",
-      "Ann Arbor, Michigan, United States of America"
-    ],
-    "title": "Tax Analyst",
-    "jobSeqNo": "THTTRUUSJREQ186349EXTERNALENUS",
-    "postedDate": "2025-03-04T00:00:00.000+0000",
-    "dateCreated": "2024-12-20T20:47:44.687+0000",
-    "cityStateCountry": "Frisco, Texas, United States of America",
-    "address": "6160 Warren Parkway, Frisco, TX 75034, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Frisco-6160-Warren-Parkway/Tax-Analyst_JREQ186349/apply",
-    "location": "Frisco, Texas, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "As a Tax Analyst on this project, you will utilize your tax knowledge and experience within a small team in a unique, flexible work environment. Develops tax, accounting, auditing, and other specializ...",
-      "descriptionTeaser_first200": "Summary. We are seeking a skilled and experienced Tax Analyst to join our team. The ideal candidate will deeply understand tax software and research tools. About the role. You will participate in u...",
-      "descriptionTeaser_keyword": "Summary. We are seeking a skilled and experienced Tax Analyst to join our team. The ideal candidate will deeply understand tax software and research tools. About the role. You will participate in util...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -96.833545,
-          "lat": 33.1073049
-        },
-        "location": "Frisco, Texas, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -83.7267835,
-          "lat": 42.1957259
-        },
-        "location": "Ann Arbor, Michigan, United States of America"
       }
     ],
     "isMultiCategory": true,
@@ -3157,78 +3175,6 @@
     "badge": ""
   },
   {
-    "cityState": "Eagan, Minnesota",
-    "country": "United States of America",
-    "ml_skills": [
-      "publishing",
-      "westlaw",
-      "accuracy",
-      "legal research",
-      "quality",
-      "curiosity",
-      "content delivery",
-      "english communication",
-      "proview",
-      "develop",
-      "communicate effectively",
-      "prioritize tasks"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Join our Global Legal Commentary team to source, create, edit, and maintain high-quality legal content for platforms like Westlaw, print, and Proview. Editorial Responsibilities:Source, review, and ma...",
-    "state": "Minnesota",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-93.10808019999999",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ187838",
-    "jobId": "JREQ187838",
-    "city": "Eagan",
-    "latitude": "44.8527611",
-    "locale": "en_US",
-    "multi_location": [
-      "Eagan, Minnesota, United States of America"
-    ],
-    "title": "Attorney Editor",
-    "jobSeqNo": "THTTRUUSJREQ187838EXTERNALENUS",
-    "postedDate": "2025-02-13T00:00:00.000+0000",
-    "dateCreated": "2025-02-13T16:39:15.160+0000",
-    "cityStateCountry": "Eagan, Minnesota, United States of America",
-    "address": "2900 Ames Crossing Road, Ste 100, Eagan, MN 55121, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MSP-2900-Ames-Crossing-Road/Attorney-Editor_JREQ187838/apply",
-    "location": "Eagan, Minnesota, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Join our Global Legal Commentary team to source, create, edit, and maintain high-quality legal content for platforms like Westlaw, print, and Proview. Editorial Responsibilities:Source, review, and ma...",
-      "descriptionTeaser_first200": "Join our Global Legal Commentary team to source, create, edit, and maintain high-quality legal content for platforms like Westlaw, print, and Proview. This entry-level role requires strong editori...",
-      "descriptionTeaser_keyword": "Join our Global Legal Commentary team to source, create, edit, and maintain high-quality legal content for platforms like Westlaw, print, and Proview. This entry-level role requires strong editorial s...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -93.10808019999999,
-          "lat": 44.8527611
-        },
-        "location": "Eagan, Minnesota, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Bengaluru, Karnataka",
     "country": "India",
     "remote": "Hybrid",
@@ -4454,145 +4400,6 @@
           "lat": 14.5344436
         },
         "location": "Manila, Philippines"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Mexico City",
-    "country": "Mexico",
-    "ml_skills": [
-      "breaking news",
-      "writing skills",
-      "multimedia",
-      "media relations",
-      "european language",
-      "accuracy",
-      "monitoring",
-      "hubs",
-      "mentor",
-      "mergers"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "The team also does general and political news monitoring for several hubs, including the US-Canada, UK, South Asia, and Africa hubs, during overnight hours (for the respective bureaus) and weekends. H...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-99.1510899",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ187009",
-    "jobId": "JREQ187009",
-    "city": "Mexico City",
-    "latitude": "19.4343664",
-    "locale": "en_US",
-    "multi_location": [
-      "Mexico City, Mexico"
-    ],
-    "title": "Senior Correspondent, Global News Monitoring",
-    "jobSeqNo": "THTTRUUSJREQ187009EXTERNALENUS",
-    "postedDate": "2025-01-30T00:00:00.000+0000",
-    "dateCreated": "2025-01-31T04:38:33.932+0000",
-    "cityStateCountry": "Mexico City, Mexico",
-    "address": "Av. Paseo de la Reforma #26, Floor 36th, Colonia Ju\u00e1rez, Cuauht\u00e9moc, 06600 Mexico City, Mexico",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/MEX-Distrito-Federal-Reforma-26/Senior-Correspondent--Global-News-Monitoring_JREQ187009/apply",
-    "location": "Mexico City, Mexico",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "The team also does general and political news monitoring for several hubs, including the US-Canada, UK, South Asia, and Africa hubs, during overnight hours (for the respective bureaus) and weekends. H...",
-      "descriptionTeaser_first200": "Senior Correspondent, Global News Monitoring. Are you passionate about the chance to bring your experience to a world-class company that is market-leading for both content and technology? If yes,...",
-      "descriptionTeaser_keyword": "Senior Correspondent, Global News Monitoring. Are you passionate about the chance to bring your experience to a world-class company that is market-leading for both content and technology? If yes, we a...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -99.1510899,
-          "lat": 19.4343664
-        },
-        "location": "Mexico City, Mexico"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Mexico City",
-    "country": "Mexico",
-    "ml_skills": [
-      "breaking news",
-      "writing skills",
-      "multimedia",
-      "media relations",
-      "european language",
-      "monitoring",
-      "accuracy",
-      "hubs",
-      "mergers"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "The team helps to consolidate Reuters\u2019 social-media monitoring eorts by staying on top of social media, company blogs and any other source from which news can originate. The team also does general and...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-99.1510899",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ187054",
-    "jobId": "JREQ187054",
-    "city": "Mexico City",
-    "latitude": "19.4343664",
-    "locale": "en_US",
-    "multi_location": [
-      "Mexico City, Mexico"
-    ],
-    "title": "Correspondent, Global News Monitoring",
-    "jobSeqNo": "THTTRUUSJREQ187054EXTERNALENUS",
-    "postedDate": "2025-01-30T00:00:00.000+0000",
-    "dateCreated": "2025-01-31T04:38:33.931+0000",
-    "cityStateCountry": "Mexico City, Mexico",
-    "address": "Av. Paseo de la Reforma #26, Floor 36th, Colonia Ju\u00e1rez, Cuauht\u00e9moc, 06600 Mexico City, Mexico",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/MEX-Distrito-Federal-Reforma-26/Correspondent--Global-News-Monitoring_JREQ187054/apply",
-    "location": "Mexico City, Mexico",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "The team helps to consolidate Reuters\u2019 social-media monitoring eorts by staying on top of social media, company blogs and any other source from which news can originate. The team also does general and...",
-      "descriptionTeaser_first200": "Correspondent, Global News Monitoring. Are you passionate about the chance to bring your experience to a world-class company that is market-leading for both content and technology? If yes, we are l...",
-      "descriptionTeaser_keyword": "Correspondent, Global News Monitoring. Are you passionate about the chance to bring your experience to a world-class company that is market-leading for both content and technology? If yes, we are look...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -99.1510899,
-          "lat": 19.4343664
-        },
-        "location": "Mexico City, Mexico"
       }
     ],
     "isMultiCategory": true,
