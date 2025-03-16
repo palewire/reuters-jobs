@@ -237,6 +237,83 @@
     "badge": ""
   },
   {
+    "cityState": "Madrid",
+    "country": "Spain",
+    "ml_skills": [
+      "photography",
+      "journalism",
+      "sports photography",
+      "multimedia",
+      "mass communication",
+      "english",
+      "captions",
+      "storytelling",
+      "english communication",
+      "collaborate",
+      "metadata",
+      "accuracy",
+      "quality",
+      "mentor",
+      "ai",
+      "innovative mindset",
+      "collaborative work"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "As a Senior Sport Photo Editor, you will play a crucial role in our Action Images editing team, ensuring the speed, quality, and accuracy of our sports photo delivery to clients worldwide....",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-3.6798774",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ188876",
+    "jobId": "JREQ188876",
+    "city": "Madrid",
+    "latitude": "40.4371514",
+    "locale": "en_US",
+    "multi_location": [
+      "Madrid, Spain"
+    ],
+    "title": "Senior Sport Photo Editor - Reuters",
+    "jobSeqNo": "THTTRUUSJREQ188876EXTERNALENUS",
+    "postedDate": "2025-03-13T00:00:00.000+0000",
+    "dateCreated": "2025-03-13T20:39:50.760+0000",
+    "cityStateCountry": "Madrid, Spain",
+    "address": "Calle Mar\u00eda de Molina 54, Piso 8, 28006 Madrid, Spain",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/ESP-Madrid-Mara-de-Molina/Senior-Sport-Photo-Editor---Reuters_JREQ188876/apply",
+    "location": "Madrid, Spain",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "As a Senior Sport Photo Editor, you will play a crucial role in our Action Images editing team, ensuring the speed, quality, and accuracy of our sports photo delivery to clients worldwide....",
+      "descriptionTeaser_first200": "Senior Sport Photo Editor. This position will be based in Barcelona, Spain. Reuters is seeking a highly skilled and experienced Senior Sport Photo Editor with a strong background in international s...",
+      "descriptionTeaser_keyword": "Senior Sport Photo Editor. This position will be based in Barcelona, Spain. Reuters is seeking a highly skilled and experienced Senior Sport Photo Editor with a strong background in international spor...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -3.6798774,
+          "lat": 40.4371514
+        },
+        "location": "Madrid, Spain"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Singapore",
     "country": "Singapore",
     "ml_skills": [
@@ -364,83 +441,6 @@
           "lat": 1.2938815
         },
         "location": "Singapore, Singapore"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Madrid",
-    "country": "Spain",
-    "ml_skills": [
-      "photography",
-      "journalism",
-      "sports photography",
-      "multimedia",
-      "mass communication",
-      "english",
-      "captions",
-      "storytelling",
-      "english communication",
-      "collaborate",
-      "metadata",
-      "accuracy",
-      "quality",
-      "mentor",
-      "ai",
-      "innovative mindset",
-      "collaborative work"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "As a Senior Sport Photo Editor, you will play a crucial role in our Action Images editing team, ensuring the speed, quality, and accuracy of our sports photo delivery to clients worldwide....",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-3.6798774",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ188876",
-    "jobId": "JREQ188876",
-    "city": "Madrid",
-    "latitude": "40.4371514",
-    "locale": "en_US",
-    "multi_location": [
-      "Madrid, Spain"
-    ],
-    "title": "Senior Sport Photo Editor - Reuters",
-    "jobSeqNo": "THTTRUUSJREQ188876EXTERNALENUS",
-    "postedDate": "2025-03-13T00:00:00.000+0000",
-    "dateCreated": "2025-03-13T20:39:50.760+0000",
-    "cityStateCountry": "Madrid, Spain",
-    "address": "Calle Mar\u00eda de Molina 54, Piso 8, 28006 Madrid, Spain",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/ESP-Madrid-Mara-de-Molina/Senior-Sport-Photo-Editor---Reuters_JREQ188876/apply",
-    "location": "Madrid, Spain",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "As a Senior Sport Photo Editor, you will play a crucial role in our Action Images editing team, ensuring the speed, quality, and accuracy of our sports photo delivery to clients worldwide....",
-      "descriptionTeaser_first200": "Senior Sport Photo Editor. This position will be based in Barcelona, Spain. Reuters is seeking a highly skilled and experienced Senior Sport Photo Editor with a strong background in international s...",
-      "descriptionTeaser_keyword": "Senior Sport Photo Editor. This position will be based in Barcelona, Spain. Reuters is seeking a highly skilled and experienced Senior Sport Photo Editor with a strong background in international spor...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -3.6798774,
-          "lat": 40.4371514
-        },
-        "location": "Madrid, Spain"
       }
     ],
     "isMultiCategory": true,
@@ -605,6 +605,74 @@
           "lat": 40.7566955
         },
         "location": "New York, New York, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Sarri\u00e0-Sant Gervasi, Barcelona",
+    "country": "Spain",
+    "ml_skills": [
+      "breaking news",
+      "writing skills",
+      "media relations",
+      "english language",
+      "multimedia",
+      "monitoring",
+      "accuracy",
+      "hubs"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "The team also covers general and political news monitoring for several hubs, including the US-Canada, UK, South Asia, and Africa hubs, during overnight hours (for the respective bureaus) and weekends....",
+    "state": "Barcelona",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "2.1643876",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ187062",
+    "jobId": "JREQ187062",
+    "city": "Sarri\u00e0-Sant Gervasi",
+    "latitude": "41.3953587",
+    "locale": "en_US",
+    "multi_location": [
+      "Sarri\u00e0-Sant Gervasi, Barcelona, Spain"
+    ],
+    "title": "Correspondent, Global News Monitoring",
+    "jobSeqNo": "THTTRUUSJREQ187062EXTERNALENUS",
+    "postedDate": "2025-03-11T00:00:00.000+0000",
+    "dateCreated": "2025-03-11T20:43:33.324+0000",
+    "cityStateCountry": "Sarri\u00e0-Sant Gervasi, Barcelona, Spain",
+    "address": "Thomson Reuters, 08021 Sarri\u00e0-Sant Gervasi, Barcelona, Spain",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Sarri-Sant-Gervasi-Barcelona/Correspondent--Global-News-Monitoring_JREQ187062/apply",
+    "location": "Sarri\u00e0-Sant Gervasi, Barcelona, Spain",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "The team also covers general and political news monitoring for several hubs, including the US-Canada, UK, South Asia, and Africa hubs, during overnight hours (for the respective bureaus) and weekends....",
+      "descriptionTeaser_first200": "Correspondent, Global News Monitoring - Reuters. We envisage the successful candidate being based in Barcelona, Spain. The Global News Monitoring team (GNM), is one of the most important news hubs ...",
+      "descriptionTeaser_keyword": "Correspondent, Global News Monitoring - Reuters. We envisage the successful candidate being based in Barcelona, Spain. The Global News Monitoring team (GNM), is one of the most important news hubs wit...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 2.1643876,
+          "lat": 41.3953587
+        },
+        "location": "Sarri\u00e0-Sant Gervasi, Barcelona, Spain"
       }
     ],
     "isMultiCategory": true,
@@ -835,74 +903,6 @@
     "badge": ""
   },
   {
-    "cityState": "Sarri\u00e0-Sant Gervasi, Barcelona",
-    "country": "Spain",
-    "ml_skills": [
-      "breaking news",
-      "writing skills",
-      "media relations",
-      "english language",
-      "multimedia",
-      "monitoring",
-      "accuracy",
-      "hubs"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "The team also covers general and political news monitoring for several hubs, including the US-Canada, UK, South Asia, and Africa hubs, during overnight hours (for the respective bureaus) and weekends....",
-    "state": "Barcelona",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "2.1643876",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ187062",
-    "jobId": "JREQ187062",
-    "city": "Sarri\u00e0-Sant Gervasi",
-    "latitude": "41.3953587",
-    "locale": "en_US",
-    "multi_location": [
-      "Sarri\u00e0-Sant Gervasi, Barcelona, Spain"
-    ],
-    "title": "Correspondent, Global News Monitoring",
-    "jobSeqNo": "THTTRUUSJREQ187062EXTERNALENUS",
-    "postedDate": "2025-03-11T00:00:00.000+0000",
-    "dateCreated": "2025-03-11T20:43:33.324+0000",
-    "cityStateCountry": "Sarri\u00e0-Sant Gervasi, Barcelona, Spain",
-    "address": "Thomson Reuters, 08021 Sarri\u00e0-Sant Gervasi, Barcelona, Spain",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Sarri-Sant-Gervasi-Barcelona/Correspondent--Global-News-Monitoring_JREQ187062/apply",
-    "location": "Sarri\u00e0-Sant Gervasi, Barcelona, Spain",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "The team also covers general and political news monitoring for several hubs, including the US-Canada, UK, South Asia, and Africa hubs, during overnight hours (for the respective bureaus) and weekends....",
-      "descriptionTeaser_first200": "Correspondent, Global News Monitoring - Reuters. We envisage the successful candidate being based in Barcelona, Spain. The Global News Monitoring team (GNM), is one of the most important news hubs ...",
-      "descriptionTeaser_keyword": "Correspondent, Global News Monitoring - Reuters. We envisage the successful candidate being based in Barcelona, Spain. The Global News Monitoring team (GNM), is one of the most important news hubs wit...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 2.1643876,
-          "lat": 41.3953587
-        },
-        "location": "Sarri\u00e0-Sant Gervasi, Barcelona, Spain"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Bengaluru, Karnataka",
     "country": "India",
     "ml_skills": [
@@ -1109,6 +1109,78 @@
     "badge": ""
   },
   {
+    "cityState": "Pyrmont, New South Wales",
+    "country": "Australia",
+    "ml_skills": [
+      "publishing",
+      "copy editing",
+      "author management",
+      "content management",
+      "content curation",
+      "journals",
+      "content review",
+      "content management systems",
+      "research skills",
+      "xml",
+      "production schedules",
+      "stakeholder management"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Coordination of end-to-end publishing activities: commissioning new content, author management (including contract preparation, liaison re payments), content review, scheduling of updates, vendor liai...",
+    "state": "New South Wales",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "151.1915144",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ188188",
+    "jobId": "JREQ188188",
+    "city": "Pyrmont",
+    "latitude": "-33.8664432",
+    "locale": "en_US",
+    "multi_location": [
+      "Pyrmont, New South Wales, Australia"
+    ],
+    "title": "Publishing Editor",
+    "jobSeqNo": "THTTRUUSJREQ188188EXTERNALENUS",
+    "postedDate": "2025-03-06T00:00:00.000+0000",
+    "dateCreated": "2025-02-27T00:38:49.877+0000",
+    "cityStateCountry": "Pyrmont, New South Wales, Australia",
+    "address": "19 Harris Street, Pyrmont NSW 2009, Australia",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/AUS-Pyrmont-19-Harris-St/Senior-Publishing-Editor_JREQ188188-1/apply",
+    "location": "Pyrmont, New South Wales, Australia",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Coordination of end-to-end publishing activities: commissioning new content, author management (including contract preparation, liaison re payments), content review, scheduling of updates, vendor liai...",
+      "descriptionTeaser_keyword": "Are you interested in the law and publishing \u2013 do you want to join the world leader in providing trusted legal, tax and regulatory content to professionals and academia? Thomson Reuters is a world lea...",
+      "descriptionTeaser_ats": "",
+      "descriptionTeaser_first200": "Are you interested in the law and publishing \u2013 do you want to join the world leader in providing trusted legal, tax and regulatory content to professionals and academia? Thomson Reuters is a world..."
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 151.1915144,
+          "lat": -33.8664432
+        },
+        "location": "Pyrmont, New South Wales, Australia"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "New York, New York",
     "country": "United States of America",
     "ml_skills": [
@@ -1257,78 +1329,6 @@
           "lat": 38.9326462
         },
         "location": "McLean, Virginia, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Pyrmont, New South Wales",
-    "country": "Australia",
-    "ml_skills": [
-      "publishing",
-      "copy editing",
-      "author management",
-      "content management",
-      "content curation",
-      "journals",
-      "content review",
-      "content management systems",
-      "research skills",
-      "xml",
-      "production schedules",
-      "stakeholder management"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Coordination of end-to-end publishing activities: commissioning new content, author management (including contract preparation, liaison re payments), content review, scheduling of updates, vendor liai...",
-    "state": "New South Wales",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "151.1915144",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ188188",
-    "jobId": "JREQ188188",
-    "city": "Pyrmont",
-    "latitude": "-33.8664432",
-    "locale": "en_US",
-    "multi_location": [
-      "Pyrmont, New South Wales, Australia"
-    ],
-    "title": "Publishing Editor",
-    "jobSeqNo": "THTTRUUSJREQ188188EXTERNALENUS",
-    "postedDate": "2025-03-06T00:00:00.000+0000",
-    "dateCreated": "2025-02-27T00:38:49.877+0000",
-    "cityStateCountry": "Pyrmont, New South Wales, Australia",
-    "address": "19 Harris Street, Pyrmont NSW 2009, Australia",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/AUS-Pyrmont-19-Harris-St/Senior-Publishing-Editor_JREQ188188-1/apply",
-    "location": "Pyrmont, New South Wales, Australia",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Coordination of end-to-end publishing activities: commissioning new content, author management (including contract preparation, liaison re payments), content review, scheduling of updates, vendor liai...",
-      "descriptionTeaser_keyword": "Are you interested in the law and publishing \u2013 do you want to join the world leader in providing trusted legal, tax and regulatory content to professionals and academia? Thomson Reuters is a world lea...",
-      "descriptionTeaser_ats": "",
-      "descriptionTeaser_first200": "Are you interested in the law and publishing \u2013 do you want to join the world leader in providing trusted legal, tax and regulatory content to professionals and academia? Thomson Reuters is a world..."
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 151.1915144,
-          "lat": -33.8664432
-        },
-        "location": "Pyrmont, New South Wales, Australia"
       }
     ],
     "isMultiCategory": true,
@@ -2837,7 +2837,7 @@
     ],
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "This role involves delivering high-quality news articles and columns through comprehensive analysis of macroeconomic developments in an increasingly complex international economic environment. Researc...",
+    "descriptionTeaser": "Reuters is seeking a highly motivated news reporter who can analyse global trends and their impact on the Japanese economy. The role requires the ability to explain how global structural changes, such...",
     "state": "",
     "visibilityType": "External",
     "siteType": "external",
@@ -2845,30 +2845,30 @@
     "multi_category": [
       "News & Editorial Careers"
     ],
-    "reqId": "JREQ187700",
-    "jobId": "JREQ187700",
+    "reqId": "JREQ187702",
+    "jobId": "JREQ187702",
     "city": "Tokyo",
     "latitude": "35.6621409",
     "locale": "en_US",
     "multi_location": [
       "Tokyo, Japan"
     ],
-    "title": "Senior Economic News Correspondent/ \u30b7\u30cb\u30a2\u30b3\u30ec\u30b9\u30dd\u30f3\u30c7\u30f3\u30c8\uff08\u7d4c\u6e08\u30cb\u30e5\u30fc\u30b9\uff09",
-    "jobSeqNo": "THTTRUUSJREQ187700EXTERNALENUS",
+    "title": "Correspondent/ \u30b3\u30ec\u30b9\u30dd\u30f3\u30c7\u30f3\u30c8\uff08\u7d4c\u6e08\u30cb\u30e5\u30fc\u30b9)",
+    "jobSeqNo": "THTTRUUSJREQ187702EXTERNALENUS",
     "postedDate": "2025-02-17T00:00:00.000+0000",
-    "dateCreated": "2025-02-17T00:40:13.662+0000",
+    "dateCreated": "2025-02-17T04:42:32.333+0000",
     "cityStateCountry": "Tokyo, Japan",
     "address": "10F Atago Green Hills Mori Tower, 2-5-1 Atago, Minato-ku, Tokyo, 105-6210, Japan",
     "jobVisibility": [
       "external"
     ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/JPN-Tokyo-Atago-Green-Hills/Senior-Economic-News-Correspondent----_JREQ187700/apply",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/JPN-Tokyo-Atago-Green-Hills/Correspondent----_JREQ187702/apply",
     "location": "Tokyo, Japan",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "This role involves delivering high-quality news articles and columns through comprehensive analysis of macroeconomic developments in an increasingly complex international economic environment. Researc...",
-      "descriptionTeaser_first200": "Reuters is seeking an experienced journalist to analyse global trends and their impact on the Japanese economy. This role involves delivering high-quality news articles and columns through comprehe...",
-      "descriptionTeaser_keyword": "Reuters is seeking an experienced journalist to analyse global trends and their impact on the Japanese economy. This role involves delivering high-quality news articles and columns through comprehensi...",
+      "descriptionTeaser": "Reuters is seeking a highly motivated news reporter who can analyse global trends and their impact on the Japanese economy. The role requires the ability to explain how global structural changes, such...",
+      "descriptionTeaser_first200": "Correspondent. \u30b3\u30ec\u30b9\u30dd\u30f3\u30c7\u30f3\u30c8\uff08\u7d4c\u6e08\u30cb\u30e5\u30fc\u30b9). Reuters is seeking a highly motivated news reporter who can analyse global trends and their impact on the Japanese economy. The successful candidate will provide in...",
+      "descriptionTeaser_keyword": "Correspondent. \u30b3\u30ec\u30b9\u30dd\u30f3\u30c7\u30f3\u30c8\uff08\u7d4c\u6e08\u30cb\u30e5\u30fc\u30b9). Reuters is seeking a highly motivated news reporter who can analyse global trends and their impact on the Japanese economy. The successful candidate will provide in-de...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
@@ -2907,7 +2907,7 @@
     ],
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "Reuters is seeking a highly motivated news reporter who can analyse global trends and their impact on the Japanese economy. The role requires the ability to explain how global structural changes, such...",
+    "descriptionTeaser": "This role involves delivering high-quality news articles and columns through comprehensive analysis of macroeconomic developments in an increasingly complex international economic environment. Researc...",
     "state": "",
     "visibilityType": "External",
     "siteType": "external",
@@ -2915,30 +2915,30 @@
     "multi_category": [
       "News & Editorial Careers"
     ],
-    "reqId": "JREQ187702",
-    "jobId": "JREQ187702",
+    "reqId": "JREQ187700",
+    "jobId": "JREQ187700",
     "city": "Tokyo",
     "latitude": "35.6621409",
     "locale": "en_US",
     "multi_location": [
       "Tokyo, Japan"
     ],
-    "title": "Correspondent/ \u30b3\u30ec\u30b9\u30dd\u30f3\u30c7\u30f3\u30c8\uff08\u7d4c\u6e08\u30cb\u30e5\u30fc\u30b9)",
-    "jobSeqNo": "THTTRUUSJREQ187702EXTERNALENUS",
+    "title": "Senior Economic News Correspondent/ \u30b7\u30cb\u30a2\u30b3\u30ec\u30b9\u30dd\u30f3\u30c7\u30f3\u30c8\uff08\u7d4c\u6e08\u30cb\u30e5\u30fc\u30b9\uff09",
+    "jobSeqNo": "THTTRUUSJREQ187700EXTERNALENUS",
     "postedDate": "2025-02-17T00:00:00.000+0000",
-    "dateCreated": "2025-02-17T04:42:32.333+0000",
+    "dateCreated": "2025-02-17T00:40:13.662+0000",
     "cityStateCountry": "Tokyo, Japan",
     "address": "10F Atago Green Hills Mori Tower, 2-5-1 Atago, Minato-ku, Tokyo, 105-6210, Japan",
     "jobVisibility": [
       "external"
     ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/JPN-Tokyo-Atago-Green-Hills/Correspondent----_JREQ187702/apply",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/JPN-Tokyo-Atago-Green-Hills/Senior-Economic-News-Correspondent----_JREQ187700/apply",
     "location": "Tokyo, Japan",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "Reuters is seeking a highly motivated news reporter who can analyse global trends and their impact on the Japanese economy. The role requires the ability to explain how global structural changes, such...",
-      "descriptionTeaser_first200": "Correspondent. \u30b3\u30ec\u30b9\u30dd\u30f3\u30c7\u30f3\u30c8\uff08\u7d4c\u6e08\u30cb\u30e5\u30fc\u30b9). Reuters is seeking a highly motivated news reporter who can analyse global trends and their impact on the Japanese economy. The successful candidate will provide in...",
-      "descriptionTeaser_keyword": "Correspondent. \u30b3\u30ec\u30b9\u30dd\u30f3\u30c7\u30f3\u30c8\uff08\u7d4c\u6e08\u30cb\u30e5\u30fc\u30b9). Reuters is seeking a highly motivated news reporter who can analyse global trends and their impact on the Japanese economy. The successful candidate will provide in-de...",
+      "descriptionTeaser": "This role involves delivering high-quality news articles and columns through comprehensive analysis of macroeconomic developments in an increasingly complex international economic environment. Researc...",
+      "descriptionTeaser_first200": "Reuters is seeking an experienced journalist to analyse global trends and their impact on the Japanese economy. This role involves delivering high-quality news articles and columns through comprehe...",
+      "descriptionTeaser_keyword": "Reuters is seeking an experienced journalist to analyse global trends and their impact on the Japanese economy. This role involves delivering high-quality news articles and columns through comprehensi...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
