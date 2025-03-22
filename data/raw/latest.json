@@ -138,65 +138,6 @@
     "badge": ""
   },
   {
-    "cityState": "London",
-    "country": "United Kingdom",
-    "ml_skills": [],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "This editor must have the ability to direct not just the look and feel of a visual investigation but also, critically, the conception, reporting and bullet-proofing of it. You will marshal the right a...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-0.0185088",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ189253",
-    "jobId": "JREQ189253",
-    "city": "London",
-    "latitude": "51.5056439",
-    "locale": "en_US",
-    "multi_location": [
-      "London, United Kingdom"
-    ],
-    "title": "Visual Investigations Editor, Reuters",
-    "jobSeqNo": "THTTRUUSJREQ189253EXTERNALENUS",
-    "postedDate": "2025-03-20T00:00:00.000+0000",
-    "dateCreated": "2025-03-20T20:39:42.719+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Visual-Investigations-Editor--Reuters_JREQ189253/apply",
-    "location": "London, United Kingdom",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "This editor must have the ability to direct not just the look and feel of a visual investigation but also, critically, the conception, reporting and bullet-proofing of it. You will marshal the right a...",
-      "descriptionTeaser_first200": "Visual Investigations Editor, Reuters. We anticipate the successful candidate being based in London, UK. Reuters is seeking a creative editor with impeccable news judgment, spellbinding storytellin...",
-      "descriptionTeaser_keyword": "Visual Investigations Editor, Reuters. We anticipate the successful candidate being based in London, UK. Reuters is seeking a creative editor with impeccable news judgment, spellbinding storytelling s...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -0.0185088,
-          "lat": 51.5056439
-        },
-        "location": "London, United Kingdom"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "New York, New York",
     "country": "United States of America",
     "ml_skills": [
@@ -253,6 +194,74 @@
           "lat": 40.7566955
         },
         "location": "New York, New York, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "London",
+    "country": "United Kingdom",
+    "ml_skills": [
+      "visual storytelling",
+      "storytelling",
+      "writing skills",
+      "multimedia",
+      "animation",
+      "reporting skills",
+      "satellite imagery",
+      "forensic"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "This editor must have the ability to direct not just the look and feel of a visual investigation but also, critically, the conception, reporting and bullet-proofing of it. You will marshal the right a...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.0185088",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ189253",
+    "jobId": "JREQ189253",
+    "city": "London",
+    "latitude": "51.5056439",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom"
+    ],
+    "title": "Visual Investigations Editor, Reuters",
+    "jobSeqNo": "THTTRUUSJREQ189253EXTERNALENUS",
+    "postedDate": "2025-03-20T00:00:00.000+0000",
+    "dateCreated": "2025-03-20T20:39:42.719+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Visual-Investigations-Editor--Reuters_JREQ189253/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "This editor must have the ability to direct not just the look and feel of a visual investigation but also, critically, the conception, reporting and bullet-proofing of it. You will marshal the right a...",
+      "descriptionTeaser_first200": "Visual Investigations Editor, Reuters. We anticipate the successful candidate being based in London, UK. Reuters is seeking a creative editor with impeccable news judgment, spellbinding storytelli...",
+      "descriptionTeaser_keyword": "Visual Investigations Editor, Reuters. We anticipate the successful candidate being based in London, UK. Reuters is seeking a creative editor with impeccable news judgment, spellbinding storytelling s...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.0185088,
+          "lat": 51.5056439
+        },
+        "location": "London, United Kingdom"
       }
     ],
     "isMultiCategory": true,
