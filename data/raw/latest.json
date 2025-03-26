@@ -1,5 +1,75 @@
 [
   {
+    "cityState": "Eagan, Minnesota",
+    "country": "United States of America",
+    "ml_skills": [
+      "westlaw",
+      "publishing",
+      "accuracy",
+      "legal research",
+      "quality",
+      "english communication",
+      "curiosity",
+      "content delivery",
+      "prioritize tasks",
+      "proview"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Join our Global Legal Commentary team to source, create, edit, and maintain high-quality legal content for platforms like Westlaw, print, and Proview. Editorial Responsibilities:Source, review, and ma...",
+    "state": "Minnesota",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-93.10808019999999",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ188330",
+    "jobId": "JREQ188330",
+    "city": "Eagan",
+    "latitude": "44.8527611",
+    "locale": "en_US",
+    "multi_location": [
+      "Eagan, Minnesota, United States of America"
+    ],
+    "title": "Attorney Editor",
+    "jobSeqNo": "THTTRUUSJREQ188330EXTERNALENUS",
+    "postedDate": "2025-03-25T00:00:00.000+0000",
+    "dateCreated": "2025-03-25T20:41:40.814+0000",
+    "cityStateCountry": "Eagan, Minnesota, United States of America",
+    "address": "2900 Ames Crossing Road, Ste 100, Eagan, MN 55121, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MSP-2900-Ames-Crossing-Road/Attorney-Editor_JREQ188330/apply",
+    "location": "Eagan, Minnesota, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Join our Global Legal Commentary team to source, create, edit, and maintain high-quality legal content for platforms like Westlaw, print, and Proview. Editorial Responsibilities:Source, review, and ma...",
+      "descriptionTeaser_first200": "Join our Global Legal Commentary team to source, create, edit, and maintain high-quality legal content for platforms like Westlaw, print, and Proview. This entry-level role requires strong editoria...",
+      "descriptionTeaser_keyword": "Join our Global Legal Commentary team to source, create, edit, and maintain high-quality legal content for platforms like Westlaw, print, and Proview. This entry-level role requires strong editorial s...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -93.10808019999999,
+          "lat": 44.8527611
+        },
+        "location": "Eagan, Minnesota, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "New York, New York",
     "country": "United States of America",
     "ml_skills": [
@@ -1274,73 +1344,6 @@
     "badge": ""
   },
   {
-    "cityState": "Madrid",
-    "country": "Spain",
-    "ml_skills": [
-      "collaborate",
-      "multimedia",
-      "moderating",
-      "developing",
-      "reinsurance",
-      "engagement",
-      "risk"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "The Global (Re)Insurance Correspondent will take a key role in developing the team\u2019s market-leading coverage of the specialty non-life (re)insurance industry for its website and newsletter subscribers...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-3.6798774",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ188840",
-    "jobId": "JREQ188840",
-    "city": "Madrid",
-    "latitude": "40.4371514",
-    "locale": "en_US",
-    "multi_location": [
-      "Madrid, Spain"
-    ],
-    "title": "Global (Re)Insurance Correspondent",
-    "jobSeqNo": "THTTRUUSJREQ188840EXTERNALENUS",
-    "postedDate": "2025-03-12T00:00:00.000+0000",
-    "dateCreated": "2025-03-12T12:40:26.167+0000",
-    "cityStateCountry": "Madrid, Spain",
-    "address": "Calle Mar\u00eda de Molina 54, Piso 8, 28006 Madrid, Spain",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/ESP-Madrid-Mara-de-Molina/Global--Re-Insurance-Correspondent_JREQ188840-1/apply",
-    "location": "Madrid, Spain",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "The Global (Re)Insurance Correspondent will take a key role in developing the team\u2019s market-leading coverage of the specialty non-life (re)insurance industry for its website and newsletter subscribers...",
-      "descriptionTeaser_first200": "Global (Re)Insurance Correspondent. The Insurer is looking for an experienced journalist with deep industry knowledge and engagement for the new role of Global (Re)Insurance Correspondent. The Glob...",
-      "descriptionTeaser_keyword": "Global (Re)Insurance Correspondent. The Insurer is looking for an experienced journalist with deep industry knowledge and engagement for the new role of Global (Re)Insurance Correspondent. The Global...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -3.6798774,
-          "lat": 40.4371514
-        },
-        "location": "Madrid, Spain"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Frisco, Texas",
     "country": "United States of America",
     "ml_skills": [
@@ -2134,75 +2137,6 @@
           "lat": 35.907757
         },
         "location": "Korea, Republic of"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "London",
-    "country": "United Kingdom",
-    "ml_skills": [
-      "journalism",
-      "youtube",
-      "content strategy",
-      "video editing",
-      "multimedia",
-      "community",
-      "build",
-      "engagement",
-      "actionable insights"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Create and implement a comprehensive strategy to grow our YouTube presence, ensuring alignment with overall brand goals and content priorities. Work across teams to ensure content is tailored to YouTu...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-0.0185088",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ186306",
-    "jobId": "JREQ186306",
-    "city": "London",
-    "latitude": "51.5056439",
-    "locale": "en_US",
-    "multi_location": [
-      "London, United Kingdom"
-    ],
-    "title": "Social Media Editor - Reuters",
-    "jobSeqNo": "THTTRUUSJREQ186306EXTERNALENUS",
-    "postedDate": "2025-02-26T00:00:00.000+0000",
-    "dateCreated": "2025-01-08T16:40:02.482+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Social-Media-Editor_JREQ186306/apply",
-    "location": "London, United Kingdom",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Create and implement a comprehensive strategy to grow our YouTube presence, ensuring alignment with overall brand goals and content priorities. Work across teams to ensure content is tailored to YouTu...",
-      "descriptionTeaser_first200": "Reuters seeks an experienced digital editor for the social-media team to help lead coverage on our various platforms with a focus on YouTube. This person will be responsible for setting and leadin...",
-      "descriptionTeaser_keyword": "Reuters seeks an experienced digital editor for the social-media team to help lead coverage on our various platforms with a focus on YouTube. This person will be responsible for setting and leading th...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -0.0185088,
-          "lat": 51.5056439
-        },
-        "location": "London, United Kingdom"
       }
     ],
     "isMultiCategory": true,
