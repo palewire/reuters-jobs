@@ -1,10 +1,69 @@
 [
   {
+    "cityState": "Gdansk",
+    "country": "Poland",
+    "ml_skills": [],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Reuters is seeking a candidate who can speak fluent English and Italian to join its real-time news operation in Gdansk, Poland. Write headlines and news summaries accurately, quickly and with high sta...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "18.5752702",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ189534",
+    "jobId": "JREQ189534",
+    "city": "Gdansk",
+    "latitude": "54.4004235",
+    "locale": "en_US",
+    "multi_location": [
+      "Gdansk, Poland"
+    ],
+    "title": "News Translator with Italian, Reuters",
+    "jobSeqNo": "THTTRUUSJREQ189534EXTERNALENUS",
+    "postedDate": "2025-03-31T00:00:00.000+0000",
+    "dateCreated": "2025-03-31T16:38:20.071+0000",
+    "cityStateCountry": "Gdansk, Poland",
+    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/News-Translator-with-Italian--Reuters_JREQ189534/apply",
+    "location": "Gdansk, Poland",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Reuters is seeking a candidate who can speak fluent English and Italian to join its real-time news operation in Gdansk, Poland. Write headlines and news summaries accurately, quickly and with high sta...",
+      "descriptionTeaser_first200": "Reuters is seeking a candidate who can speak fluent English and Italian to join its real-time news operation in Gdansk, Poland. The translator will work in a fast-paced, international environment a...",
+      "descriptionTeaser_keyword": "Reuters is seeking a candidate who can speak fluent English and Italian to join its real-time news operation in Gdansk, Poland. The translator will work in a fast-paced, international environment and...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 18.5752702,
+          "lat": 54.4004235
+        },
+        "location": "Gdansk, Poland"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Eagan, Minnesota",
     "country": "United States of America",
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "Want to work with a team of attorney editors to provide world-class annotated statutory and regulatory information for legal professionals using Thomson Reuters\u2019 Westlaw, ProView and print products?At",
+    "descriptionTeaser": "Legal Research, Analysis and Enhancement of Primary Law Content: Create editorial enhancements to help customers understand the context and developments of the law, classify legal information in the f...",
     "state": "Minnesota",
     "visibilityType": "External",
     "siteType": "external",
@@ -33,6 +92,23 @@
     "location": "Eagan, Minnesota, United States of America",
     "category": "News & Editorial Careers",
     "externalApply": true,
+    "ml_skills": [
+      "legal research",
+      "publishing",
+      "westlaw",
+      "accuracy",
+      "analytical skills",
+      "feedback",
+      "quality",
+      "ability to communicate",
+      "prioritize tasks"
+    ],
+    "ml_job_parser": {
+      "descriptionTeaser": "Legal Research, Analysis and Enhancement of Primary Law Content: Create editorial enhancements to help customers understand the context and developments of the law, classify legal information in the f...",
+      "descriptionTeaser_keyword": "Want to work with a team of attorney editors to provide world-class annotated statutory and regulatory information for legal professionals using Thomson Reuters\u2019 Westlaw, ProView and print products? A...",
+      "descriptionTeaser_ats": "",
+      "descriptionTeaser_first200": "Want to work with a team of attorney editors to provide world-class annotated statutory and regulatory information for legal professionals using Thomson Reuters\u2019 Westlaw, ProView and print product..."
+    },
     "isMultiLocation": true,
     "multi_location_array": [
       {
@@ -1022,74 +1098,6 @@
           "lat": 51.5056439
         },
         "location": "London, United Kingdom"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "New York, New York",
-    "country": "United States of America",
-    "ml_skills": [
-      "visual storytelling",
-      "storytelling",
-      "writing skills",
-      "multimedia",
-      "animation",
-      "reporting skills",
-      "satellite imagery",
-      "forensic"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "This editor must have the ability to direct not just the look and feel of a visual investigation but also, critically, the conception, reporting and bullet-proofing of it. You will marshal the right a...",
-    "state": "New York",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-73.9866995",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ188605",
-    "jobId": "JREQ188605",
-    "city": "New York",
-    "latitude": "40.7566955",
-    "locale": "en_US",
-    "multi_location": [
-      "New York, New York, United States of America"
-    ],
-    "title": "Visual Investigations Editor, Reuters",
-    "jobSeqNo": "THTTRUUSJREQ188605EXTERNALENUS",
-    "postedDate": "2025-03-20T00:00:00.000+0000",
-    "dateCreated": "2025-03-06T16:42:34.160+0000",
-    "cityStateCountry": "New York, New York, United States of America",
-    "address": "3 Times Square, New York, NY 10036, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-New-York-3-Times-Square/Visual-Investigations-Editor--Reuters_JREQ188605/apply",
-    "location": "New York, New York, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "This editor must have the ability to direct not just the look and feel of a visual investigation but also, critically, the conception, reporting and bullet-proofing of it. You will marshal the right a...",
-      "descriptionTeaser_first200": "Reuters is seeking a creative editor with impeccable news judgment, spellbinding storytelling skills and a thirst and aptitude for innovation to produce engaging and ground-breaking visual investi...",
-      "descriptionTeaser_keyword": "Reuters is seeking a creative editor with impeccable news judgment, spellbinding storytelling skills and a thirst and aptitude for innovation to produce engaging and ground-breaking visual investigati...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -73.9866995,
-          "lat": 40.7566955
-        },
-        "location": "New York, New York, United States of America"
       }
     ],
     "isMultiCategory": true,
@@ -2109,75 +2117,6 @@
     "badge": ""
   },
   {
-    "cityState": "Sarri\u00e0-Sant Gervasi, Barcelona",
-    "country": "Spain",
-    "ml_skills": [
-      "breaking news",
-      "writing skills",
-      "multimedia",
-      "media relations",
-      "english language",
-      "accuracy",
-      "monitoring",
-      "hubs",
-      "mergers"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "The team also covers general and political news monitoring for several hubs, including the US-Canada, UK, South Asia, and Africa hubs, during overnight hours (for the respective bureaus) and weekends....",
-    "state": "Barcelona",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "2.1643876",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ187062",
-    "jobId": "JREQ187062",
-    "city": "Sarri\u00e0-Sant Gervasi",
-    "latitude": "41.3953587",
-    "locale": "en_US",
-    "multi_location": [
-      "Sarri\u00e0-Sant Gervasi, Barcelona, Spain"
-    ],
-    "title": "Correspondent, Global News Monitoring",
-    "jobSeqNo": "THTTRUUSJREQ187062EXTERNALENUS",
-    "postedDate": "2025-03-11T00:00:00.000+0000",
-    "dateCreated": "2025-03-11T20:43:33.324+0000",
-    "cityStateCountry": "Sarri\u00e0-Sant Gervasi, Barcelona, Spain",
-    "address": "Thomson Reuters, 08021 Sarri\u00e0-Sant Gervasi, Barcelona, Spain",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Sarri-Sant-Gervasi-Barcelona/Correspondent--Global-News-Monitoring_JREQ187062/apply",
-    "location": "Sarri\u00e0-Sant Gervasi, Barcelona, Spain",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "The team also covers general and political news monitoring for several hubs, including the US-Canada, UK, South Asia, and Africa hubs, during overnight hours (for the respective bureaus) and weekends....",
-      "descriptionTeaser_first200": "Correspondent, Global News Monitoring - Reuters. We envisage the successful candidate being based in Barcelona, Spain. The Global News Monitoring team (GNM), is one of the most important news hubs...",
-      "descriptionTeaser_keyword": "Correspondent, Global News Monitoring - Reuters. We envisage the successful candidate being based in Barcelona, Spain. The Global News Monitoring team (GNM), is one of the most important news hubs wit...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 2.1643876,
-          "lat": 41.3953587
-        },
-        "location": "Sarri\u00e0-Sant Gervasi, Barcelona, Spain"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Pyrmont, New South Wales",
     "country": "Australia",
     "ml_skills": [
@@ -2239,73 +2178,6 @@
           "lat": -33.8664432
         },
         "location": "Pyrmont, New South Wales, Australia"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "London",
-    "country": "United Kingdom",
-    "ml_skills": [
-      "journalism",
-      "multimedia",
-      "fashion",
-      "trading",
-      "market structure",
-      "charts",
-      "carving"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Regularly break news on some of the biggest firms that trade in markets and the regulation that shapes the business. Expertise in one or more our key reporting beats, ranging from regulation, market s...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-0.0185088",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ185473",
-    "jobId": "JREQ185473",
-    "city": "London",
-    "latitude": "51.5056439",
-    "locale": "en_US",
-    "multi_location": [
-      "London, United Kingdom"
-    ],
-    "title": "UK Finance Correspondent, Reuters",
-    "jobSeqNo": "THTTRUUSJREQ185473EXTERNALENUS",
-    "postedDate": "2025-03-04T00:00:00.000+0000",
-    "dateCreated": "2024-12-03T16:56:57.028+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/UK-Finance-Correspondent--Reuters_JREQ185473/apply",
-    "location": "London, United Kingdom",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Regularly break news on some of the biggest firms that trade in markets and the regulation that shapes the business. Expertise in one or more our key reporting beats, ranging from regulation, market s...",
-      "descriptionTeaser_first200": "UK Finance Correspondent, Reuters. This position is based in London. Are you passionate about financial markets and the role they play in today\u2019s complex global economy? Would you like a front-row ...",
-      "descriptionTeaser_keyword": "UK Finance Correspondent, Reuters. This position is based in London. Are you passionate about financial markets and the role they play in today\u2019s complex global economy? Would you like a front-row sea...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -0.0185088,
-          "lat": 51.5056439
-        },
-        "location": "London, United Kingdom"
       }
     ],
     "isMultiCategory": true,
