@@ -1,5 +1,146 @@
 [
   {
+    "cityState": "Mumbai, Maharashtra",
+    "country": "India",
+    "ml_skills": [
+      "breaking news",
+      "writing skills",
+      "multimedia",
+      "build",
+      "storytelling",
+      "collaborate",
+      "corporate finance",
+      "investment banking"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "The role will extend beyond breaking news and will involve writing insightful, analytics and in-depth stories about trends in India\u2019s corporate and deal making landscape. Work closely with colleagues...",
+    "state": "Maharashtra",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "72.86508599999999",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ189532",
+    "jobId": "JREQ189532",
+    "city": "Mumbai",
+    "latitude": "19.0579879",
+    "locale": "en_US",
+    "multi_location": [
+      "Mumbai, Maharashtra, India"
+    ],
+    "title": "India M&A and Deals Correspondent, Reuters",
+    "jobSeqNo": "THTTRUUSJREQ189532EXTERNALENUS",
+    "postedDate": "2025-04-02T00:00:00.000+0000",
+    "dateCreated": "2025-04-01T12:39:10.594+0000",
+    "cityStateCountry": "Mumbai, Maharashtra, India",
+    "address": "Office No. B101, level 15,, WeWork Enam Sambhav, G Block, C-20, Bandra Kurla Complex,, Mumbai- 400051, Maharashtra, India",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Mumbai-Bandra-Kurla-Complex/India-M-A-and-Deals-Correspondent--Reuters_JREQ189532/apply",
+    "location": "Mumbai, Maharashtra, India",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "The role will extend beyond breaking news and will involve writing insightful, analytics and in-depth stories about trends in India\u2019s corporate and deal making landscape. Work closely with colleagues...",
+      "descriptionTeaser_first200": "India M&A and Deals Correspondent, Reuters. Reuters is looking for an experienced, driven and scoop-hungry journalist with a passion for breaking news and writing ahead-of-the-curve stories on Indi...",
+      "descriptionTeaser_keyword": "India M&A and Deals Correspondent, Reuters. Reuters is looking for an experienced, driven and scoop-hungry journalist with a passion for breaking news and writing ahead-of-the-curve stories on India\u2019s...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 72.86508599999999,
+          "lat": 19.0579879
+        },
+        "location": "Mumbai, Maharashtra, India"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Gdansk",
+    "country": "Poland",
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Research, analyze, interpret and document tax laws and regulations. You\u2019re a fit for the role of Tax Associate in our Tax Research and Content team if your background includes. Demonstrated tax resear...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "18.5752702",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ189025",
+    "jobId": "JREQ189025",
+    "city": "Gdansk",
+    "latitude": "54.4004235",
+    "locale": "en_US",
+    "multi_location": [
+      "Gdansk, Poland"
+    ],
+    "title": "Tax Associate",
+    "jobSeqNo": "THTTRUUSJREQ189025EXTERNALENUS",
+    "postedDate": "2025-04-02T00:00:00.000+0000",
+    "dateCreated": "2025-03-19T08:38:11.452+0000",
+    "cityStateCountry": "Gdansk, Poland",
+    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/Tax-Associate_JREQ189025/apply",
+    "location": "Gdansk, Poland",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "ml_skills": [
+      "tax research",
+      "prioritizing",
+      "microsoft excel",
+      "risk",
+      "online research",
+      "meet deadlines",
+      "accuracy",
+      "ukrainian",
+      "westlaw",
+      "checkpoint",
+      "database",
+      "writing skills",
+      "language skills"
+    ],
+    "ml_job_parser": {
+      "descriptionTeaser": "Research, analyze, interpret and document tax laws and regulations. You\u2019re a fit for the role of Tax Associate in our Tax Research and Content team if your background includes. Demonstrated tax resear...",
+      "descriptionTeaser_keyword": "We welcome applications to our full-time vacancies from all citizens who have been granted protection within the territory of the Republic of Poland under the EU Temporary Protection Directive*. WE AR...",
+      "descriptionTeaser_ats": "",
+      "descriptionTeaser_first200": "We welcome applications to our full-time vacancies from all citizens who have been granted protection within the territory of the Republic of Poland under the EU Temporary Protection Directive*. WE..."
+    },
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 18.5752702,
+          "lat": 54.4004235
+        },
+        "location": "Gdansk, Poland"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Eagan, Minnesota",
     "country": "United States of America",
     "ml_skills": [
@@ -131,74 +272,6 @@
           "lat": 12.9743998
         },
         "location": "Bengaluru, Karnataka, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "New Delhi, Delhi",
-    "country": "India",
-    "ml_skills": [
-      "breaking news",
-      "writing skills",
-      "multimedia",
-      "build",
-      "storytelling",
-      "collaborate",
-      "corporate finance",
-      "investment banking"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "The role will extend beyond breaking news and will involve writing insightful, analytics and in-depth stories about trends in India\u2019s corporate and deal making landscape. Work closely with colleagues...",
-    "state": "Delhi",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "77.2236343",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ189532",
-    "jobId": "JREQ189532",
-    "city": "New Delhi",
-    "latitude": "28.6298791",
-    "locale": "en_US",
-    "multi_location": [
-      "New Delhi, Delhi, India"
-    ],
-    "title": "India M&A and Deals Correspondent, Reuters",
-    "jobSeqNo": "THTTRUUSJREQ189532EXTERNALENUS",
-    "postedDate": "2025-04-01T00:00:00.000+0000",
-    "dateCreated": "2025-04-01T12:39:10.594+0000",
-    "cityStateCountry": "New Delhi, Delhi, India",
-    "address": "1st Floor, No-25, Birla Tower, Barakhamba Road, New Delhi- 110001, Delhi, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-New-Delhi-1st-Floor-Birla-Tower/India-M-A-and-Deals-Correspondent--Reuters_JREQ189532/apply",
-    "location": "New Delhi, Delhi, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "The role will extend beyond breaking news and will involve writing insightful, analytics and in-depth stories about trends in India\u2019s corporate and deal making landscape. Work closely with colleagues...",
-      "descriptionTeaser_first200": "India M&A and Deals Correspondent, Reuters. Reuters is looking for an experienced, driven and scoop-hungry journalist with a passion for breaking news and writing ahead-of-the-curve stories on Indi...",
-      "descriptionTeaser_keyword": "India M&A and Deals Correspondent, Reuters. Reuters is looking for an experienced, driven and scoop-hungry journalist with a passion for breaking news and writing ahead-of-the-curve stories on India\u2019s...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 77.2236343,
-          "lat": 28.6298791
-        },
-        "location": "New Delhi, Delhi, India"
       }
     ],
     "isMultiCategory": true,
@@ -457,71 +530,6 @@
           "lat": 33.1073049
         },
         "location": "Frisco, Texas, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Bengaluru, Karnataka",
-    "country": "India",
-    "ml_skills": [
-      "multimedia",
-      "quality",
-      "geography",
-      "ai",
-      "decipher"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "You must consider the role if you can adeptly decipher earnings statements from around the world, have a passion for technology (well, AI) and data crunching and are buzzing with ideas to deliver news...",
-    "state": "Karnataka",
-    "visibilityType": "External",
-    "longitude": "77.7120655",
-    "siteType": "external",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ189286",
-    "jobId": "JREQ189286",
-    "city": "Bengaluru",
-    "latitude": "12.9743998",
-    "locale": "en_US",
-    "multi_location": [
-      "Bengaluru, Karnataka, India"
-    ],
-    "title": "Desk Editor, AI News Production, Bangalore Desk",
-    "jobSeqNo": "THTTRUUSJREQ189286EXTERNALENUS",
-    "postedDate": "2025-03-27T00:00:00.000+0000",
-    "dateCreated": "2025-03-24T12:38:24.641+0000",
-    "cityStateCountry": "Bengaluru, Karnataka, India",
-    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/Desk-Editor--AI-News-Production--Bangalore-Desk_JREQ189286/apply",
-    "location": "Bengaluru, Karnataka, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "You must consider the role if you can adeptly decipher earnings statements from around the world, have a passion for technology (well, AI) and data crunching and are buzzing with ideas to deliver news...",
-      "descriptionTeaser_first200": "Desk Editor, AI News Production, Bangalore Desk . Reuters is looking for tech-savvy newshounds in Bangalore \u2013 the largest Reuters newsroom \u2013 to be part of a team that will drive the delivery of Reu...",
-      "descriptionTeaser_keyword": "Desk Editor, AI News Production, Bangalore Desk. Reuters is looking for tech-savvy newshounds in Bangalore \u2013 the largest Reuters newsroom \u2013 to be part of a team that will drive the delivery of Reuters...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 77.7120655,
-          "lat": 12.9743998
-        },
-        "location": "Bengaluru, Karnataka, India"
       }
     ],
     "isMultiCategory": true,
@@ -1509,79 +1517,6 @@
           "lat": 17.438325
         },
         "location": "Hyderabad, Telangana, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Gdansk",
-    "country": "Poland",
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Research, analyze, interpret and document tax laws and regulations. You\u2019re a fit for the role of Tax Associate in our Tax Research and Content team if your background includes. Demonstrated tax resear...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "18.5752702",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ189025",
-    "jobId": "JREQ189025",
-    "city": "Gdansk",
-    "latitude": "54.4004235",
-    "locale": "en_US",
-    "multi_location": [
-      "Gdansk, Poland"
-    ],
-    "title": "Tax Associate",
-    "jobSeqNo": "THTTRUUSJREQ189025EXTERNALENUS",
-    "postedDate": "2025-03-19T00:00:00.000+0000",
-    "dateCreated": "2025-03-19T08:38:11.452+0000",
-    "cityStateCountry": "Gdansk, Poland",
-    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/Tax-Associate_JREQ189025/apply",
-    "location": "Gdansk, Poland",
-    "category": "News & Editorial Careers",
-    "externalApply": true,
-    "ml_skills": [
-      "tax research",
-      "prioritizing",
-      "microsoft excel",
-      "risk",
-      "online research",
-      "meet deadlines",
-      "accuracy",
-      "ukrainian",
-      "westlaw",
-      "checkpoint",
-      "database",
-      "writing skills",
-      "language skills"
-    ],
-    "ml_job_parser": {
-      "descriptionTeaser": "Research, analyze, interpret and document tax laws and regulations. You\u2019re a fit for the role of Tax Associate in our Tax Research and Content team if your background includes. Demonstrated tax resear...",
-      "descriptionTeaser_keyword": "We welcome applications to our full-time vacancies from all citizens who have been granted protection within the territory of the Republic of Poland under the EU Temporary Protection Directive*. WE AR...",
-      "descriptionTeaser_ats": "",
-      "descriptionTeaser_first200": "We welcome applications to our full-time vacancies from all citizens who have been granted protection within the territory of the Republic of Poland under the EU Temporary Protection Directive*. WE..."
-    },
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 18.5752702,
-          "lat": 54.4004235
-        },
-        "location": "Gdansk, Poland"
       }
     ],
     "isMultiCategory": true,
