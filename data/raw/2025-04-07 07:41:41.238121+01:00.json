@@ -1,5 +1,70 @@
 [
   {
+    "cityState": "Pyrmont, New South Wales",
+    "country": "Australia",
+    "ml_skills": [
+      "technical writing",
+      "engaging",
+      "developing",
+      "meet deadlines",
+      "ai"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "In this pivotal role, you will leverage your extensive knowledge of tax regulations and exceptional writing abilities to produce insightful and accurate tax commentary. As a Senior Tax Writer, you wil...",
+    "state": "New South Wales",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "151.1915144",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ187910",
+    "jobId": "JREQ187910",
+    "city": "Pyrmont",
+    "latitude": "-33.8664432",
+    "locale": "en_US",
+    "multi_location": [
+      "Pyrmont, New South Wales, Australia"
+    ],
+    "title": "Senior Tax Writer",
+    "jobSeqNo": "THTTRUUSJREQ187910EXTERNALENUS",
+    "postedDate": "2025-04-07T00:00:00.000+0000",
+    "dateCreated": "2025-04-07T04:37:57.961+0000",
+    "cityStateCountry": "Pyrmont, New South Wales, Australia",
+    "address": "19 Harris Street, Pyrmont NSW 2009, Australia",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/AUS-Pyrmont-19-Harris-St/Senior-Tax-Writer_JREQ187910/apply",
+    "location": "Pyrmont, New South Wales, Australia",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "In this pivotal role, you will leverage your extensive knowledge of tax regulations and exceptional writing abilities to produce insightful and accurate tax commentary. As a Senior Tax Writer, you wil...",
+      "descriptionTeaser_first200": "Are you an experienced tax professional with a flair for writing and a passion for simplifying complex tax concepts? We are seeking a highly skilled and experienced Senior Tax Writer to join our dy...",
+      "descriptionTeaser_keyword": "Are you an experienced tax professional with a flair for writing and a passion for simplifying complex tax concepts? We are seeking a highly skilled and experienced Senior Tax Writer to join our dynam...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 151.1915144,
+          "lat": -33.8664432
+        },
+        "location": "Pyrmont, New South Wales, Australia"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Hyderabad, Telangana",
     "country": "India",
     "ml_skills": [
@@ -2338,83 +2403,6 @@
           "lat": 40.7566955
         },
         "location": "New York, New York, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Madrid",
-    "country": "Spain",
-    "ml_skills": [
-      "photography",
-      "journalism",
-      "sports photography",
-      "multimedia",
-      "mass communication",
-      "english",
-      "captions",
-      "storytelling",
-      "english communication",
-      "collaborate",
-      "metadata",
-      "accuracy",
-      "quality",
-      "mentor",
-      "ai",
-      "innovative mindset",
-      "collaborative work"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "As a Senior Sport Photo Editor, you will play a crucial role in our Action Images editing team, ensuring the speed, quality, and accuracy of our sports photo delivery to clients worldwide....",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-3.6798774",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ188876",
-    "jobId": "JREQ188876",
-    "city": "Madrid",
-    "latitude": "40.4371514",
-    "locale": "en_US",
-    "multi_location": [
-      "Madrid, Spain"
-    ],
-    "title": "Senior Sport Photo Editor - Reuters",
-    "jobSeqNo": "THTTRUUSJREQ188876EXTERNALENUS",
-    "postedDate": "2025-03-13T00:00:00.000+0000",
-    "dateCreated": "2025-03-13T20:39:50.760+0000",
-    "cityStateCountry": "Madrid, Spain",
-    "address": "Calle Mar\u00eda de Molina 54, Piso 8, 28006 Madrid, Spain",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/ESP-Madrid-Mara-de-Molina/Senior-Sport-Photo-Editor---Reuters_JREQ188876/apply",
-    "location": "Madrid, Spain",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "As a Senior Sport Photo Editor, you will play a crucial role in our Action Images editing team, ensuring the speed, quality, and accuracy of our sports photo delivery to clients worldwide....",
-      "descriptionTeaser_first200": "Senior Sport Photo Editor. This position will be based in Barcelona, Spain. Reuters is seeking a highly skilled and experienced Senior Sport Photo Editor with a strong background in international s...",
-      "descriptionTeaser_keyword": "Senior Sport Photo Editor. This position will be based in Barcelona, Spain. Reuters is seeking a highly skilled and experienced Senior Sport Photo Editor with a strong background in international spor...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -3.6798774,
-          "lat": 40.4371514
-        },
-        "location": "Madrid, Spain"
       }
     ],
     "isMultiCategory": true,
