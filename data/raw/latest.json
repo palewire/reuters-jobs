@@ -67,6 +67,139 @@
     "badge": ""
   },
   {
+    "cityState": "Zhongshan, Taipei City",
+    "country": "Taiwan",
+    "ml_skills": [
+      "photographers",
+      "visual storytelling",
+      "news reporting",
+      "politics",
+      "english language",
+      "write scripts",
+      "collaborate",
+      "shifting priorities",
+      "coordinate"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Independently film news events and features using broadcast-quality video cameras, mirrorless cameras as well as other equipment. Produce, film, edit video content, and craft precise news stories unde...",
+    "state": "Taipei City",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "121.5327351",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ190322",
+    "jobId": "JREQ190322",
+    "city": "Zhongshan",
+    "latitude": "25.0512312",
+    "locale": "en_US",
+    "multi_location": [
+      "Zhongshan, Taipei City, Taiwan"
+    ],
+    "title": "Video Journalist, Taiwan",
+    "jobSeqNo": "THTTRUUSJREQ190322EXTERNALENUS",
+    "postedDate": "2025-04-16T00:00:00.000+0000",
+    "dateCreated": "2025-04-16T08:38:33.349+0000",
+    "cityStateCountry": "Zhongshan, Taipei City, Taiwan",
+    "address": "Yuanta Venus Building, Unit B, 2F, No.106, Songjiang Road, Zhongshan, Taipei City 10491, Taiwan",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/TWN-Taipei-106-Songjiang-Road/Video-Journalist--Taiwan_JREQ190322/apply",
+    "location": "Zhongshan, Taipei City, Taiwan",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Independently film news events and features using broadcast-quality video cameras, mirrorless cameras as well as other equipment. Produce, film, edit video content, and craft precise news stories unde...",
+      "descriptionTeaser_first200": "VIDEO JOURNALIST, TAIWAN. Reuters is looking for a passionate Video Journalist with keen interest in telling Taiwan story to join our team in Taipei. We are seeking for a hands-on, experienced vide...",
+      "descriptionTeaser_keyword": "VIDEO JOURNALIST, TAIWAN. Reuters is looking for a passionate Video Journalist with keen interest in telling Taiwan story to join our team in Taipei. We are seeking for a hands-on, experienced video j...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 121.5327351,
+          "lat": 25.0512312
+        },
+        "location": "Zhongshan, Taipei City, Taiwan"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Singapore",
+    "country": "Singapore",
+    "ml_skills": [
+      "writing skills",
+      "financial markets",
+      "forex",
+      "monitoring"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Have strong writing skills, thrive in a breaking news environment and be keen on processes and market dynamics. Report to the Asia breaking news editor for the finance and markets team. A strong inter...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "103.792796",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ189971",
+    "jobId": "JREQ189971",
+    "city": "Singapore",
+    "latitude": "1.2938815",
+    "locale": "en_US",
+    "multi_location": [
+      "Singapore, Singapore"
+    ],
+    "title": "Asia Finance & Markets Breaking News Correspondent",
+    "jobSeqNo": "THTTRUUSJREQ189971EXTERNALENUS",
+    "postedDate": "2025-04-16T00:00:00.000+0000",
+    "dateCreated": "2025-04-16T12:41:37.093+0000",
+    "cityStateCountry": "Singapore, Singapore",
+    "address": "ALICE@Mediapolis, 29 Media Circle,  #09-05, Singapore 138565, Singapore",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/SGP-Singapore-ALICEMediapolis/Asia-Finance---Markets-Breaking-News-Correspondent_JREQ189971-1/apply",
+    "location": "Singapore, Singapore",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Have strong writing skills, thrive in a breaking news environment and be keen on processes and market dynamics. Report to the Asia breaking news editor for the finance and markets team. A strong inter...",
+      "descriptionTeaser_first200": "Reuters is looking for a strong journalist to join its finance and markets breaking news team in Singapore. The breaking news team is at the heart of the financial industry and markets team. The te...",
+      "descriptionTeaser_keyword": "Reuters is looking for a strong journalist to join its finance and markets breaking news team in Singapore. The breaking news team is at the heart of the financial industry and markets team. The team...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 103.792796,
+          "lat": 1.2938815
+        },
+        "location": "Singapore, Singapore"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "New York, New York",
     "country": "United States of America",
     "remote": "Hybrid",
@@ -3256,84 +3389,6 @@
     "badge": ""
   },
   {
-    "cityState": "Bengaluru, Karnataka",
-    "country": "India",
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Support the Commentary Editorial tools strategy by acting as a liaison between Editorial and our Product Management and Technology teams to help drive the development and/or enhancement of existing Ed...",
-    "state": "Karnataka",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "77.7120655",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ186598",
-    "jobId": "JREQ186598",
-    "city": "Bengaluru",
-    "latitude": "12.9743998",
-    "locale": "en_US",
-    "multi_location": [
-      "Bengaluru, Karnataka, India"
-    ],
-    "title": "Specialist, Commentary Content Design & Development",
-    "jobSeqNo": "THTTRUUSJREQ186598EXTERNALENUS",
-    "postedDate": "2025-02-12T00:00:00.000+0000",
-    "dateCreated": "2025-01-23T16:38:30.113+0000",
-    "cityStateCountry": "Bengaluru, Karnataka, India",
-    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/Specialist--Commentary-Content-Design---Development_JREQ186598/apply",
-    "location": "Bengaluru, Karnataka, India",
-    "category": "News & Editorial Careers",
-    "externalApply": true,
-    "ml_skills": [
-      "content management",
-      "content creation",
-      "content quality",
-      "technical proficiency",
-      "engaging",
-      "legal writing",
-      "communicate effectively",
-      "product management",
-      "meet deadlines",
-      "analysis skills",
-      "developing",
-      "develop",
-      "cross-functional teams",
-      "developing knowledge",
-      "domain expertise",
-      "guiding",
-      "technology knowledge",
-      "project skills"
-    ],
-    "ml_job_parser": {
-      "descriptionTeaser": "Support the Commentary Editorial tools strategy by acting as a liaison between Editorial and our Product Management and Technology teams to help drive the development and/or enhancement of existing Ed...",
-      "descriptionTeaser_keyword": "Support the Commentary Editorial tools strategy by acting as a liaison between Editorial and our Product Management and Technology teams to help drive the development and/or enhancement of existing Ed...",
-      "descriptionTeaser_ats": "",
-      "descriptionTeaser_first200": "Support the Commentary Editorial tools strategy by acting as a liaison between Editorial and our Product Management and Technology teams to help drive the development and/or enhancement of existin..."
-    },
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 77.7120655,
-          "lat": 12.9743998
-        },
-        "location": "Bengaluru, Karnataka, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Gdansk",
     "country": "Poland",
     "ml_skills": [
@@ -3447,84 +3502,6 @@
     "category": "News & Editorial Careers",
     "ml_job_parser": {
       "descriptionTeaser": "K. and Canadian Judicial cases content by acting as a liaison between Editorial and our Product Management and Technology teams to help drive the development and/or enhancement of existing Editorial t...",
-      "descriptionTeaser_first200": "Support the Editorial tools strategy for U.S., U.K. and Canadian Judicial cases content by acting as a liaison between Editorial and our Product Management and Technology teams to help drive the d...",
-      "descriptionTeaser_keyword": "Support the Editorial tools strategy for U. S. , U. K. and Canadian Judicial cases content by acting as a liaison between Editorial and our Product Management and Technology teams to help drive the de...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 77.7120655,
-          "lat": 12.9743998
-        },
-        "location": "Bengaluru, Karnataka, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Bengaluru, Karnataka",
-    "country": "India",
-    "ml_skills": [
-      "legal writing",
-      "legal research",
-      "develop",
-      "content creation",
-      "developing",
-      "analysis skills",
-      "developing knowledge",
-      "engaging",
-      "technical proficiency",
-      "guiding",
-      "content quality",
-      "domain expertise",
-      "cross-functional teams",
-      "communicate effectively",
-      "meet deadlines",
-      "project skills",
-      "product management",
-      "technology knowledge"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "K. and Canadian Judicial Cases legal content by acting as a liaison between Editorial and our Product Management and Technology teams to help drive the development and/or enhancement of existing Edito...",
-    "state": "Karnataka",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "77.7120655",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ187300",
-    "jobId": "JREQ187300",
-    "city": "Bengaluru",
-    "latitude": "12.9743998",
-    "locale": "en_US",
-    "multi_location": [
-      "Bengaluru, Karnataka, India"
-    ],
-    "title": "Specialist Content Development & Design Judicial Cases",
-    "jobSeqNo": "THTTRUUSJREQ187300EXTERNALENUS",
-    "postedDate": "2025-02-11T00:00:00.000+0000",
-    "dateCreated": "2025-02-11T08:41:44.328+0000",
-    "cityStateCountry": "Bengaluru, Karnataka, India",
-    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/Specialist-Content-Development---Design-Judicial-Cases_JREQ187300/apply",
-    "location": "Bengaluru, Karnataka, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "K. and Canadian Judicial Cases legal content by acting as a liaison between Editorial and our Product Management and Technology teams to help drive the development and/or enhancement of existing Edito...",
       "descriptionTeaser_first200": "Support the Editorial tools strategy for U.S., U.K. and Canadian Judicial cases content by acting as a liaison between Editorial and our Product Management and Technology teams to help drive the d...",
       "descriptionTeaser_keyword": "Support the Editorial tools strategy for U. S. , U. K. and Canadian Judicial cases content by acting as a liaison between Editorial and our Product Management and Technology teams to help drive the de...",
       "descriptionTeaser_ats": ""
