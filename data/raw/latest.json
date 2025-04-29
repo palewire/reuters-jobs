@@ -1,5 +1,142 @@
 [
   {
+    "cityState": "Singapore",
+    "country": "Singapore",
+    "ml_skills": [
+      "copy editing",
+      "seo",
+      "collaborate",
+      "search",
+      "accuracy",
+      "team ethic"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Write and edit breaking news stories from around the globe while producing clean, engaging stories at speed. Have strong news judgment and ability to shape a story by asking smart questions and challe...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "103.792796",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ190450",
+    "jobId": "JREQ190450",
+    "city": "Singapore",
+    "latitude": "1.2938815",
+    "locale": "en_US",
+    "multi_location": [
+      "Singapore, Singapore",
+      "Bangkok, Thailand"
+    ],
+    "title": "Editor, Global News Desk",
+    "jobSeqNo": "THTTRUUSJREQ190450EXTERNALENUS",
+    "postedDate": "2025-04-29T00:00:00.000+0000",
+    "dateCreated": "2025-04-29T04:38:46.948+0000",
+    "cityStateCountry": "Singapore, Singapore",
+    "address": "ALICE@Mediapolis, 29 Media Circle,  #09-05, Singapore 138565, Singapore",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/SGP-Singapore-ALICEMediapolis/Editor--Global-News-Desk_JREQ190450/apply",
+    "location": "Singapore, Singapore",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Write and edit breaking news stories from around the globe while producing clean, engaging stories at speed. Have strong news judgment and ability to shape a story by asking smart questions and challe...",
+      "descriptionTeaser_first200": "Editor, Global News Desk. Reuters is looking for an ambitious desk editor for our fast-paced, round-the-clock Global News Desk. Expect to work alongside award-winning journalists in a global news o...",
+      "descriptionTeaser_keyword": "Editor, Global News Desk. Reuters is looking for an ambitious desk editor for our fast-paced, round-the-clock Global News Desk. Expect to work alongside award-winning journalists in a global news orga...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 103.792796,
+          "lat": 1.2938815
+        },
+        "location": "Singapore, Singapore"
+      },
+      {
+        "latlong": {
+          "lon": 100.5479365,
+          "lat": 13.739104
+        },
+        "location": "Bangkok, Thailand"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Beijing, Beijing",
+    "country": "China",
+    "ml_skills": [
+      "stakeholder relationships",
+      "mandarin",
+      "journalism"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Reuters seeks an experienced newsroom leader with the skills and experience to run editorial operations and manage challenging situations to become our General Manager, North Asia. The General Manager...",
+    "state": "Beijing",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "116.41197",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ190538",
+    "jobId": "JREQ190538",
+    "city": "Beijing",
+    "latitude": "39.90927",
+    "locale": "en_US",
+    "multi_location": [
+      "Beijing, Beijing, China"
+    ],
+    "title": "General Manager, North Asia",
+    "jobSeqNo": "THTTRUUSJREQ190538EXTERNALENUS",
+    "postedDate": "2025-04-29T00:00:00.000+0000",
+    "dateCreated": "2025-04-29T04:38:46.947+0000",
+    "cityStateCountry": "Beijing, Beijing, China",
+    "address": "Units 5-12, 18F / 20F, Office Tower E1 of Oriental Plaza, No.1, East Chang An Avenue, Dong Cheng District, Beijing, 100738 Beijing, China",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CHN-Beijing-Oriental-Plaza/General-Manager--North-Asia_JREQ190538/apply",
+    "location": "Beijing, Beijing, China",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Reuters seeks an experienced newsroom leader with the skills and experience to run editorial operations and manage challenging situations to become our General Manager, North Asia. The General Manager...",
+      "descriptionTeaser_first200": "General Manager, North Asia. Reuters seeks an experienced newsroom leader with the skills and experience to run editorial operations and manage challenging situations to become our General Manager,...",
+      "descriptionTeaser_keyword": "General Manager, North Asia. Reuters seeks an experienced newsroom leader with the skills and experience to run editorial operations and manage challenging situations to become our General Manager, No...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 116.41197,
+          "lat": 39.90927
+        },
+        "location": "Beijing, Beijing, China"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Hyderabad, Telangana",
     "country": "India",
     "ml_skills": [
