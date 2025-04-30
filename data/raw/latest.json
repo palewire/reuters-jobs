@@ -145,6 +145,136 @@
     "badge": ""
   },
   {
+    "cityState": "Beijing, Beijing",
+    "country": "China",
+    "ml_skills": [
+      "quantitative research",
+      "ai",
+      "monitoring",
+      "analytical tools",
+      "mandarin",
+      "collaborate"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Reuters is looking for an energetic Researcher with strong news judgement to join our team in Beijing. We are looking for a researcher who has excellent news judgement, is a great team player and is a...",
+    "state": "Beijing",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "116.41197",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ190888",
+    "jobId": "JREQ190888",
+    "city": "Beijing",
+    "latitude": "39.90927",
+    "locale": "en_US",
+    "multi_location": [
+      "Beijing, Beijing, China"
+    ],
+    "title": "Researcher, Beijing Bureau",
+    "jobSeqNo": "THTTRUUSJREQ190888EXTERNALENUS",
+    "postedDate": "2025-04-30T00:00:00.000+0000",
+    "dateCreated": "2025-04-30T04:38:50.377+0000",
+    "cityStateCountry": "Beijing, Beijing, China",
+    "address": "Units 5-12, 18F / 20F, Office Tower E1 of Oriental Plaza, No.1, East Chang An Avenue, Dong Cheng District, Beijing, 100738 Beijing, China",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CHN-Beijing-Oriental-Plaza/Researcher--Beijing-Bureau_JREQ190888/apply",
+    "location": "Beijing, Beijing, China",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Reuters is looking for an energetic Researcher with strong news judgement to join our team in Beijing. We are looking for a researcher who has excellent news judgement, is a great team player and is a...",
+      "descriptionTeaser_first200": "Researcher, Beijing Bureau . Reuters is looking for an energetic Researcher with strong news judgement to join our team in Beijing. The Beijing Researcher will be responsible for researching and mo...",
+      "descriptionTeaser_keyword": "Researcher, Beijing Bureau. Reuters is looking for an energetic Researcher with strong news judgement to join our team in Beijing. The Beijing Researcher will be responsible for researching and monito...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 116.41197,
+          "lat": 39.90927
+        },
+        "location": "Beijing, Beijing, China"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Wellington",
+    "country": "New Zealand",
+    "ml_skills": [
+      "seo",
+      "collaborate",
+      "search",
+      "accuracy"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Have strong digital and multimedia expertise and familiarity with the needs of a digital audience; experience optimising stories for search (SEO) and other platforms, as well as an understanding of an...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "174.7743618",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ190501",
+    "jobId": "JREQ190501",
+    "city": "Wellington",
+    "latitude": "-41.2859199",
+    "locale": "en_US",
+    "multi_location": [
+      "Wellington, New Zealand"
+    ],
+    "title": "Editor, Global News Desk",
+    "jobSeqNo": "THTTRUUSJREQ190501EXTERNALENUS",
+    "postedDate": "2025-04-30T00:00:00.000+0000",
+    "dateCreated": "2025-04-23T04:37:37.312+0000",
+    "cityStateCountry": "Wellington, New Zealand",
+    "address": "Level 19, Plimmer Towers, 2-6 Gilmer Terrace, Wellington 6011, New Zealand",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/NZL-Wellington-Plimmer-Towers/Editor--Global-News-Desk_JREQ190501/apply",
+    "location": "Wellington, New Zealand",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Have strong digital and multimedia expertise and familiarity with the needs of a digital audience; experience optimising stories for search (SEO) and other platforms, as well as an understanding of an...",
+      "descriptionTeaser_first200": "Reuters is looking for an ambitious Editor for our fast-paced, round-the-clock Global News Desk. Expect to work alongside award-winning journalists in a global news organisation long recognised for...",
+      "descriptionTeaser_keyword": "Reuters is looking for an ambitious Editor for our fast-paced, round-the-clock Global News Desk. Expect to work alongside award-winning journalists in a global news organisation long recognised for it...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 174.7743618,
+          "lat": -41.2859199
+        },
+        "location": "Wellington, New Zealand"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Mexico City",
     "country": "Mexico",
     "ml_skills": [
@@ -1791,70 +1921,6 @@
           "lat": 41.39567599999999
         },
         "location": "Barcelona, Spain"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Wellington",
-    "country": "New Zealand",
-    "ml_skills": [
-      "seo",
-      "collaborate",
-      "search",
-      "accuracy"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Have strong digital and multimedia expertise and familiarity with the needs of a digital audience; experience optimising stories for search (SEO) and other platforms, as well as an understanding of an...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "174.7743618",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ190501",
-    "jobId": "JREQ190501",
-    "city": "Wellington",
-    "latitude": "-41.2859199",
-    "locale": "en_US",
-    "multi_location": [
-      "Wellington, New Zealand"
-    ],
-    "title": "Editor, Global News Desk",
-    "jobSeqNo": "THTTRUUSJREQ190501EXTERNALENUS",
-    "postedDate": "2025-04-23T00:00:00.000+0000",
-    "dateCreated": "2025-04-23T04:37:37.312+0000",
-    "cityStateCountry": "Wellington, New Zealand",
-    "address": "Level 19, Plimmer Towers, 2-6 Gilmer Terrace, Wellington 6011, New Zealand",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/NZL-Wellington-Plimmer-Towers/Editor--Global-News-Desk_JREQ190501/apply",
-    "location": "Wellington, New Zealand",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Have strong digital and multimedia expertise and familiarity with the needs of a digital audience; experience optimising stories for search (SEO) and other platforms, as well as an understanding of an...",
-      "descriptionTeaser_first200": "Reuters is looking for an ambitious Editor for our fast-paced, round-the-clock Global News Desk. Expect to work alongside award-winning journalists in a global news organisation long recognised for...",
-      "descriptionTeaser_keyword": "Reuters is looking for an ambitious Editor for our fast-paced, round-the-clock Global News Desk. Expect to work alongside award-winning journalists in a global news organisation long recognised for it...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 174.7743618,
-          "lat": -41.2859199
-        },
-        "location": "Wellington, New Zealand"
       }
     ],
     "isMultiCategory": true,
