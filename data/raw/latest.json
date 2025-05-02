@@ -146,6 +146,126 @@
   {
     "cityState": "Washington, District of Columbia",
     "country": "United States of America",
+    "ml_skills": [],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Reuters is seeking an experienced, tenacious and agile reporter to cover major U. The reporter must be well-versed in a wide range of topics across the legal industry, with a proven background coverin...",
+    "state": "District of Columbia",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-77.0311952",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ190992",
+    "jobId": "JREQ190992",
+    "city": "Washington",
+    "latitude": "38.9004793",
+    "locale": "en_US",
+    "multi_location": [
+      "Washington, District of Columbia, United States of America"
+    ],
+    "title": "U.S. Legal Reporter (Level 1 Journalist)",
+    "jobSeqNo": "THTTRUUSJREQ190992EXTERNALENUS",
+    "postedDate": "2025-05-02T00:00:00.000+0000",
+    "dateCreated": "2025-05-02T16:38:18.532+0000",
+    "cityStateCountry": "Washington, District of Columbia, United States of America",
+    "address": "1333 H Street NW, Suite 500, Washington, DC 20005, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Washington-1333-H-Street-N/US-Legal-Reporter--Level-1-Journalist-_JREQ190992/apply",
+    "location": "Washington, District of Columbia, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Reuters is seeking an experienced, tenacious and agile reporter to cover major U. The reporter must be well-versed in a wide range of topics across the legal industry, with a proven background coverin...",
+      "descriptionTeaser_first200": "Reuters is seeking an experienced, tenacious and agile reporter to cover major U.S. litigation, with a focus on cases involving urgent questions of executive power and how their resolution could af...",
+      "descriptionTeaser_keyword": "Reuters is seeking an experienced, tenacious and agile reporter to cover major U. S. litigation, with a focus on cases involving urgent questions of executive power and how their resolution could affe...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -77.0311952,
+          "lat": 38.9004793
+        },
+        "location": "Washington, District of Columbia, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "San Francisco, California",
+    "country": "United States of America",
+    "ml_skills": [
+      "journalism"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "The reporter should be creative and collaborative \u2013 capable of generating highly original story ideas and project proposals on their own, and also able to partner closely with other reporters and visu...",
+    "state": "California",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-122.3973037",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ191027",
+    "jobId": "JREQ191027",
+    "city": "San Francisco",
+    "latitude": "37.7940487",
+    "locale": "en_US",
+    "multi_location": [
+      "San Francisco, California, United States of America"
+    ],
+    "title": "Technology Investigations Reporter  (Level 1 Journalist)",
+    "jobSeqNo": "THTTRUUSJREQ191027EXTERNALENUS",
+    "postedDate": "2025-05-02T00:00:00.000+0000",
+    "dateCreated": "2025-05-02T16:38:18.527+0000",
+    "cityStateCountry": "San Francisco, California, United States of America",
+    "address": "50 California Street, 3rd Floor, San Francisco, CA 94111, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-San-Francisco-California-S/Technology-Investigations-Reporter---Level-1-Journalist-_JREQ191027/apply",
+    "location": "San Francisco, California, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "The reporter should be creative and collaborative \u2013 capable of generating highly original story ideas and project proposals on their own, and also able to partner closely with other reporters and visu...",
+      "descriptionTeaser_first200": "Reuters is looking for an intrepid, tenacious and accomplished reporter to cover the commanding heights of technology. The reporter, a member of the Reuters Global Enterprise team, will produce a m...",
+      "descriptionTeaser_keyword": "Reuters is looking for an intrepid, tenacious and accomplished reporter to cover the commanding heights of technology. The reporter, a member of the Reuters Global Enterprise team, will produce a mixt...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -122.3973037,
+          "lat": 37.7940487
+        },
+        "location": "San Francisco, California, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Washington, District of Columbia",
+    "country": "United States of America",
     "ml_skills": [
       "storytelling",
       "visual storytelling"
@@ -2636,104 +2756,6 @@
           "lat": 39.90927
         },
         "location": "Beijing, Beijing, China"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Frisco, Texas",
-    "country": "United States of America",
-    "ml_skills": [
-      "feedback",
-      "collaborate",
-      "communication",
-      "ai",
-      "developing",
-      "quality",
-      "productivity",
-      "hands-on development",
-      "ai solutions",
-      "cross-functional teams",
-      "technology solutions",
-      "ai technologies",
-      "product strategy",
-      "collaboration skills"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "You will play a key role in crafting and refining prompts, developing methodologies for evaluating and grading LLM outputs, and integrating these technologies into our suite of legal products. Stay in...",
-    "state": "Texas",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-96.833545",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ183018",
-    "jobId": "JREQ183018",
-    "city": "Frisco",
-    "latitude": "33.1073049",
-    "locale": "en_US",
-    "multi_location": [
-      "Frisco, Texas, United States of America",
-      "Ann Arbor, Michigan, United States of America",
-      "Eagan, Minnesota, United States of America",
-      "New York, New York, United States of America"
-    ],
-    "title": "Legal AI Prompter / Evaluator",
-    "jobSeqNo": "THTTRUUSJREQ183018EXTERNALENUS",
-    "postedDate": "2025-04-18T00:00:00.000+0000",
-    "dateCreated": "2024-10-04T16:41:09.669+0000",
-    "cityStateCountry": "Frisco, Texas, United States of America",
-    "address": "6160 Warren Parkway, Frisco, TX 75034, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Frisco-6160-Warren-Parkway/Legal-AI-Prompter---Evaluator_JREQ183018/apply",
-    "location": "Frisco, Texas, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "You will play a key role in crafting and refining prompts, developing methodologies for evaluating and grading LLM outputs, and integrating these technologies into our suite of legal products. Stay in...",
-      "descriptionTeaser_first200": "Legal AI Prompter / Evaluator. Role Summary. We are seeking a dynamic Legal Prompter / Evaluator with a Juris Doctor (JD) degree and a strong interest in emerging technologies. This role is crucial...",
-      "descriptionTeaser_keyword": "Legal AI Prompter / Evaluator. Role Summary. We are seeking a dynamic Legal Prompter / Evaluator with a Juris Doctor (JD) degree and a strong interest in emerging technologies. This role is crucial in...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -96.833545,
-          "lat": 33.1073049
-        },
-        "location": "Frisco, Texas, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -83.72689749999999,
-          "lat": 42.1961884
-        },
-        "location": "Ann Arbor, Michigan, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -93.10793129999999,
-          "lat": 44.8524402
-        },
-        "location": "Eagan, Minnesota, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -73.9870076,
-          "lat": 40.756572
-        },
-        "location": "New York, New York, United States of America"
       }
     ],
     "isMultiCategory": true,
