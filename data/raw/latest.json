@@ -1,5 +1,77 @@
 [
   {
+    "cityState": "Pyrmont, New South Wales",
+    "country": "Australia",
+    "ml_skills": [
+      "property law",
+      "legal expertise",
+      "commercial leasing",
+      "legal research"
+    ],
+    "remote": "Hybrid",
+    "type": "Part time",
+    "descriptionTeaser": "Meet with external customers, industry and sector experts to maintain and build a superior understanding of property law related developments to ensure relevant and premium quality content is delivere...",
+    "state": "New South Wales",
+    "visibilityType": "External",
+    "longitude": "151.1915764",
+    "siteType": "external",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ184412",
+    "jobId": "JREQ184412",
+    "city": "Pyrmont",
+    "latitude": "-33.8664391",
+    "locale": "en_US",
+    "multi_location": [
+      "Pyrmont, New South Wales, Australia",
+      "Perth, Western Australia, Australia"
+    ],
+    "title": "Senior Lawyer Writer, Real Estate - 12 Month Contract",
+    "jobSeqNo": "THTTRUUSJREQ184412EXTERNALENUS",
+    "postedDate": "2025-05-05T00:00:00.000+0000",
+    "dateCreated": "2024-11-21T00:42:28.089+0000",
+    "cityStateCountry": "Pyrmont, New South Wales, Australia",
+    "address": "19 Harris Street, Pyrmont NSW 2009, Australia",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/AUS-Pyrmont-19-Harris-St/Senior-Lawyer-Writer--Real-Estate---12-Month-Contract_JREQ184412/apply",
+    "location": "Pyrmont, New South Wales, Australia",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Meet with external customers, industry and sector experts to maintain and build a superior understanding of property law related developments to ensure relevant and premium quality content is delivere...",
+      "descriptionTeaser_first200": "Are you a Property Lawyer within a top or mid-tier law firm or experience working as a specialist commercial property lawyer with an in-house team? Has your experience predominantly related to comm...",
+      "descriptionTeaser_keyword": "Are you a Property Lawyer within a top or mid-tier law firm or experience working as a specialist commercial property lawyer with an in-house team? Has your experience predominantly related to commerc...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 151.1915764,
+          "lat": -33.8664391
+        },
+        "location": "Pyrmont, New South Wales, Australia"
+      },
+      {
+        "latlong": {
+          "lon": 115.8426337,
+          "lat": -31.9522114
+        },
+        "location": "Perth, Western Australia, Australia"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "San Francisco, California",
     "country": "United States of America",
     "ml_skills": [
@@ -122,78 +194,6 @@
           "lat": 13.739104
         },
         "location": "Bangkok, Thailand"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Pyrmont, New South Wales",
-    "country": "Australia",
-    "ml_skills": [
-      "property law",
-      "legal expertise",
-      "commercial leasing",
-      "legal research"
-    ],
-    "remote": "Hybrid",
-    "type": "Part time",
-    "descriptionTeaser": "Meet with external customers, industry and sector experts to maintain and build a superior understanding of property law related developments to ensure relevant and premium quality content is delivere...",
-    "state": "New South Wales",
-    "visibilityType": "External",
-    "longitude": "151.1915764",
-    "siteType": "external",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ184412",
-    "jobId": "JREQ184412",
-    "city": "Pyrmont",
-    "latitude": "-33.8664391",
-    "locale": "en_US",
-    "multi_location": [
-      "Pyrmont, New South Wales, Australia",
-      "Perth, Western Australia, Australia"
-    ],
-    "title": "Senior Lawyer Writer, Real Estate - 12 Month Contract",
-    "jobSeqNo": "THTTRUUSJREQ184412EXTERNALENUS",
-    "postedDate": "2025-05-02T00:00:00.000+0000",
-    "dateCreated": "2024-11-21T00:42:28.089+0000",
-    "cityStateCountry": "Pyrmont, New South Wales, Australia",
-    "address": "19 Harris Street, Pyrmont NSW 2009, Australia",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/AUS-Pyrmont-19-Harris-St/Senior-Lawyer-Writer--Real-Estate---12-Month-Contract_JREQ184412/apply",
-    "location": "Pyrmont, New South Wales, Australia",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Meet with external customers, industry and sector experts to maintain and build a superior understanding of property law related developments to ensure relevant and premium quality content is delivere...",
-      "descriptionTeaser_first200": "Are you a Property Lawyer within a top or mid-tier law firm or experience working as a specialist commercial property lawyer with an in-house team? Has your experience predominantly related to comm...",
-      "descriptionTeaser_keyword": "Are you a Property Lawyer within a top or mid-tier law firm or experience working as a specialist commercial property lawyer with an in-house team? Has your experience predominantly related to commerc...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 151.1915764,
-          "lat": -33.8664391
-        },
-        "location": "Pyrmont, New South Wales, Australia"
-      },
-      {
-        "latlong": {
-          "lon": 115.8426337,
-          "lat": -31.9522114
-        },
-        "location": "Perth, Western Australia, Australia"
       }
     ],
     "isMultiCategory": true,
