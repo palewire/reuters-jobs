@@ -195,6 +195,89 @@
     "badge": ""
   },
   {
+    "cityState": "London",
+    "country": "United Kingdom",
+    "ml_skills": [
+      "architect",
+      "crm",
+      "salesforce",
+      "erp",
+      "system design",
+      "solution architecture",
+      "process implementation",
+      "ai capabilities",
+      "integration services",
+      "data modeling",
+      "application architecture",
+      "customer relationship management",
+      "enterprise resource planning",
+      "product lifecycle management",
+      "cpq platform"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Edit and package pictures and news presentations for our client and consumer products. 3-5 years of picture editing, packaging, and production experience within the news industry. Digital design and l...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.0185088",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ190908",
+    "jobId": "JREQ190908",
+    "city": "London",
+    "latitude": "51.5056439",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom",
+      "Barcelona, Spain"
+    ],
+    "title": "Visuals Producer, Reuters Digital",
+    "jobSeqNo": "THTTRUUSJREQ190908EXTERNALENUS",
+    "postedDate": "2025-05-05T00:00:00.000+0000",
+    "dateCreated": "2025-05-05T16:38:35.533+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Visuals-Producer--Reuters-Digital_JREQ190908/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Edit and package pictures and news presentations for our client and consumer products. 3-5 years of picture editing, packaging, and production experience within the news industry. Digital design and l...",
+      "descriptionTeaser_first200": "Reuters is looking for a talented Visuals Producer to join our digital team. The candidate for this position will ensure that Reuters most engaging visual journalism is showcased across our digital...",
+      "descriptionTeaser_keyword": "Reuters is looking for a talented Visuals Producer to join our digital team. The candidate for this position will ensure that Reuters most engaging visual journalism is showcased across our digital pr...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.0185088,
+          "lat": 51.5056439
+        },
+        "location": "London, United Kingdom"
+      },
+      {
+        "latlong": {
+          "lon": 2.1486417,
+          "lat": 41.39567599999999
+        },
+        "location": "Barcelona, Spain"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Singapore",
     "country": "Singapore",
     "ml_skills": [
@@ -256,80 +339,6 @@
           "lat": 13.739104
         },
         "location": "Bangkok, Thailand"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Eagan, Minnesota",
-    "country": "United States of America",
-    "ml_skills": [
-      "accuracy",
-      "content quality",
-      "content management systems",
-      "legal research",
-      "collaborate",
-      "ai",
-      "generative ai",
-      "editing",
-      "content strategy",
-      "content creation",
-      "analytical skills",
-      "quality assurance",
-      "product management",
-      "feedback"
-    ],
-    "remote": "Remote",
-    "type": "Full time",
-    "descriptionTeaser": "Develop, research, write, and edit a variety of content formats, including articles, reports, and online resources, ensuring clarity, accuracy, and engagement on Employment Law Litigation. Use experie...",
-    "state": "Minnesota",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-93.10793129999999",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ189543",
-    "jobId": "JREQ189543",
-    "city": "Eagan",
-    "latitude": "44.8524402",
-    "locale": "en_US",
-    "multi_location": [
-      "Eagan, Minnesota, United States of America"
-    ],
-    "title": "Jr. Specialist Editor - Employment Law Litigation",
-    "jobSeqNo": "THTTRUUSJREQ189543EXTERNALENUS",
-    "postedDate": "2025-05-02T00:00:00.000+0000",
-    "dateCreated": "2025-04-01T16:39:21.518+0000",
-    "cityStateCountry": "Eagan, Minnesota, United States of America",
-    "address": "2900 Ames Crossing Road, Ste 100, Eagan, MN 55121, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MSP-2900-Ames-Crossing-Road/Jr-Specialist-Editor_JREQ189543/apply",
-    "location": "Eagan, Minnesota, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Develop, research, write, and edit a variety of content formats, including articles, reports, and online resources, ensuring clarity, accuracy, and engagement on Employment Law Litigation. Use experie...",
-      "descriptionTeaser_first200": "Thomson Reuters is a pioneering leader in content-driven technology, committed to delivering cutting-edge insights and comprehensive content solutions to professionals globally. Our innovative appr...",
-      "descriptionTeaser_keyword": "Thomson Reuters is a pioneering leader in content-driven technology, committed to delivering cutting-edge insights and comprehensive content solutions to professionals globally. Our innovative approac...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -93.10793129999999,
-          "lat": 44.8524402
-        },
-        "location": "Eagan, Minnesota, United States of America"
       }
     ],
     "isMultiCategory": true,
