@@ -187,6 +187,91 @@
     "badge": ""
   },
   {
+    "cityState": "Eagan, Minnesota",
+    "country": "United States of America",
+    "ml_skills": [
+      "legal analysis",
+      "westlaw",
+      "responsibilities",
+      "legal research",
+      "mergers and acquisitions",
+      "bankruptcy",
+      "journalism",
+      "product development",
+      "corporate finance"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Thomson Reuters is seeking an Attorney Editor/legal author with 2+ years writing and/or editing legal news. The Attorney Editor will research, write and publish timely legal analysis articles on devel...",
+    "state": "Minnesota",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-93.10793129999999",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ190949",
+    "jobId": "JREQ190949",
+    "city": "Eagan",
+    "latitude": "44.8524402",
+    "locale": "en_US",
+    "multi_location": [
+      "Eagan, Minnesota, United States of America",
+      "New York, New York, United States of America",
+      "Washington, District of Columbia, United States of America"
+    ],
+    "title": "Attorney Editor for Westlaw Today",
+    "jobSeqNo": "THTTRUUSJREQ190949EXTERNALENUS",
+    "postedDate": "2025-05-06T00:00:00.000+0000",
+    "dateCreated": "2025-05-06T20:45:25.019+0000",
+    "cityStateCountry": "Eagan, Minnesota, United States of America",
+    "address": "2900 Ames Crossing Road, Ste 100, Eagan, MN 55121, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MSP-2900-Ames-Crossing-Road/Attorney-Editor-for-Westlaw-Today_JREQ190949/apply",
+    "location": "Eagan, Minnesota, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Thomson Reuters is seeking an Attorney Editor/legal author with 2+ years writing and/or editing legal news. The Attorney Editor will research, write and publish timely legal analysis articles on devel...",
+      "descriptionTeaser_first200": "Attorney Editor . Role Summary. Thomson Reuters is seeking an Attorney Editor/legal author with 2+ years writing and/or editing legal news. The applicant will write and edit current awareness conte...",
+      "descriptionTeaser_keyword": "Attorney Editor. Role Summary. Thomson Reuters is seeking an Attorney Editor/legal author with 2+ years writing and/or editing legal news. The applicant will write and edit current awareness content f...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -93.10793129999999,
+          "lat": 44.8524402
+        },
+        "location": "Eagan, Minnesota, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -73.9870076,
+          "lat": 40.756572
+        },
+        "location": "New York, New York, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -77.0311952,
+          "lat": 38.9004793
+        },
+        "location": "Washington, District of Columbia, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "London",
     "country": "United Kingdom",
     "ml_skills": [
