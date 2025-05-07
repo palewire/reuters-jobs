@@ -12,21 +12,21 @@
     "state": "",
     "visibilityType": "External",
     "siteType": "external",
-    "longitude": "0.0",
+    "longitude": "103.792796",
     "multi_category": [
       "News & Editorial Careers"
     ],
     "reqId": "JREQ190493",
     "jobId": "JREQ190493",
     "city": "Singapore",
-    "latitude": "0.0",
+    "latitude": "1.2938815",
     "locale": "en_US",
     "multi_location": [
       "Singapore, Singapore"
     ],
     "title": "Output Editor",
     "jobSeqNo": "THTTRUUSJREQ190493EXTERNALENUS",
-    "postedDate": "2025-05-06T00:00:00.000+0000",
+    "postedDate": "2025-05-07T00:00:00.000+0000",
     "dateCreated": "2025-05-05T08:42:38.725+0000",
     "cityStateCountry": "Singapore, Singapore",
     "address": "ALICE@Mediapolis, 29 Media Circle,  #09-05, Singapore 138565, Singapore",
@@ -38,8 +38,8 @@
     "category": "News & Editorial Careers",
     "ml_job_parser": {
       "descriptionTeaser": "You will be responsible for overseeing a daily news file and shaping the day-to-day priorities of a team of staff tasked with delivering fast, accurate and original coverage to our diverse global clie...",
-      "descriptionTeaser_first200": "Reuters is looking for an accomplished and dynamic news editor to run our video news Output desk in our global news hub in London. This is a great opportunity to join a multi-skilled and passionate...",
-      "descriptionTeaser_keyword": "Reuters is looking for an accomplished and dynamic news editor to run our video news Output desk in our global news hub in London. This is a great opportunity to join a multi-skilled and passionate te...",
+      "descriptionTeaser_first200": "Reuters is looking for an accomplished and dynamic news editor to run our video news Output desk in our global news hub in Singapore. This is a great opportunity to join a multi-skilled and passion...",
+      "descriptionTeaser_keyword": "Reuters is looking for an accomplished and dynamic news editor to run our video news Output desk in our global news hub in Singapore. This is a great opportunity to join a multi-skilled and passionate...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
@@ -47,8 +47,8 @@
     "multi_location_array": [
       {
         "latlong": {
-          "lon": 0,
-          "lat": 0
+          "lon": 103.792796,
+          "lat": 1.2938815
         },
         "location": "Singapore, Singapore"
       }
