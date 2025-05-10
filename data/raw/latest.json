@@ -214,69 +214,6 @@
     "badge": ""
   },
   {
-    "cityState": "Washington, District of Columbia",
-    "country": "United States of America",
-    "ml_skills": [
-      "storytelling",
-      "visual storytelling",
-      "collaborate"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Work with reporters to cover spot developments, and to break news, primarily on Washington topics, including the White House and foreign policy, and secondarily on broader U. Work closely with photo a...",
-    "state": "District of Columbia",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-77.0311952",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ190820",
-    "jobId": "JREQ190820",
-    "city": "Washington",
-    "latitude": "38.9004793",
-    "locale": "en_US",
-    "multi_location": [
-      "Washington, District of Columbia, United States of America"
-    ],
-    "title": "Washington/U.S. Weekend Editor, Reuters",
-    "jobSeqNo": "THTTRUUSJREQ190820EXTERNALENUS",
-    "postedDate": "2025-05-08T00:00:00.000+0000",
-    "dateCreated": "2025-05-01T16:38:31.020+0000",
-    "cityStateCountry": "Washington, District of Columbia, United States of America",
-    "address": "1333 H Street NW, Suite 500, Washington, DC 20005, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Washington-1333-H-Street-N/Washington-US-Weekend-Editor--Reuters_JREQ190820/apply",
-    "location": "Washington, District of Columbia, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Work with reporters to cover spot developments, and to break news, primarily on Washington topics, including the White House and foreign policy, and secondarily on broader U. Work closely with photo a...",
-      "descriptionTeaser_first200": "Reuters is seeking an editor to run its Washington news report and broader U.S. news report through weekend hours, including serving as a backup editor for our White House coverage team, during a c...",
-      "descriptionTeaser_keyword": "Reuters is seeking an editor to run its Washington news report and broader U. S. news report through weekend hours, including serving as a backup editor for our White House coverage team, during a con...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -77.0311952,
-          "lat": 38.9004793
-        },
-        "location": "Washington, District of Columbia, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "London",
     "country": "United Kingdom",
     "ml_skills": [
@@ -345,7 +282,9 @@
     "cityState": "Bengaluru, Karnataka",
     "country": "India",
     "ml_skills": [
-      "journalism"
+      "journalism",
+      "proofreading",
+      "accuracy"
     ],
     "remote": "Hybrid",
     "type": "Full time",
@@ -392,6 +331,132 @@
           "lat": 12.9776035
         },
         "location": "Bengaluru, Karnataka, India"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Washington, District of Columbia",
+    "country": "United States of America",
+    "ml_skills": [
+      "storytelling",
+      "visual storytelling",
+      "collaborate"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Work with reporters to cover spot developments, and to break news, primarily on Washington topics, including the White House and foreign policy, and secondarily on broader U. Work closely with photo a...",
+    "state": "District of Columbia",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-77.0311952",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ190820",
+    "jobId": "JREQ190820",
+    "city": "Washington",
+    "latitude": "38.9004793",
+    "locale": "en_US",
+    "multi_location": [
+      "Washington, District of Columbia, United States of America"
+    ],
+    "title": "Washington/U.S. Weekend Editor, Reuters",
+    "jobSeqNo": "THTTRUUSJREQ190820EXTERNALENUS",
+    "postedDate": "2025-05-08T00:00:00.000+0000",
+    "dateCreated": "2025-05-01T16:38:31.020+0000",
+    "cityStateCountry": "Washington, District of Columbia, United States of America",
+    "address": "1333 H Street NW, Suite 500, Washington, DC 20005, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Washington-1333-H-Street-N/Washington-US-Weekend-Editor--Reuters_JREQ190820/apply",
+    "location": "Washington, District of Columbia, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Work with reporters to cover spot developments, and to break news, primarily on Washington topics, including the White House and foreign policy, and secondarily on broader U. Work closely with photo a...",
+      "descriptionTeaser_first200": "Reuters is seeking an editor to run its Washington news report and broader U.S. news report through weekend hours, including serving as a backup editor for our White House coverage team, during a c...",
+      "descriptionTeaser_keyword": "Reuters is seeking an editor to run its Washington news report and broader U. S. news report through weekend hours, including serving as a backup editor for our White House coverage team, during a con...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -77.0311952,
+          "lat": 38.9004793
+        },
+        "location": "Washington, District of Columbia, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "London",
+    "country": "United Kingdom",
+    "ml_skills": [
+      "conceptualization",
+      "writing skills",
+      "collaborative approach"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "The successful candidate will produce stories, building a substantial spot news file, writing daily market reports and delivering exclusives and other enterprise stories. Break exclusives and write ag...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.0185088",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ190970",
+    "jobId": "JREQ190970",
+    "city": "London",
+    "latitude": "51.5056439",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom"
+    ],
+    "title": "Metals Correspondent",
+    "jobSeqNo": "THTTRUUSJREQ190970EXTERNALENUS",
+    "postedDate": "2025-05-07T00:00:00.000+0000",
+    "dateCreated": "2025-05-07T16:38:40.526+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Metals-Correspondent_JREQ190970/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "The successful candidate will produce stories, building a substantial spot news file, writing daily market reports and delivering exclusives and other enterprise stories. Break exclusives and write ag...",
+      "descriptionTeaser_first200": "Reuters is looking for an outstanding journalist with exceptional source-building skills to uncover the industrial metal sector\u2019s most important stories, delving deep into what is usually an opaque...",
+      "descriptionTeaser_keyword": "Reuters is looking for an outstanding journalist with exceptional source-building skills to uncover the industrial metal sector\u2019s most important stories, delving deep into what is usually an opaque an...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.0185088,
+          "lat": 51.5056439
+        },
+        "location": "London, United Kingdom"
       }
     ],
     "isMultiCategory": true,
@@ -467,72 +532,6 @@
     "badge": ""
   },
   {
-    "cityState": "Manila",
-    "country": "Philippines",
-    "ml_skills": [
-      "westlaw",
-      "writing skills",
-      "legal research",
-      "accuracy",
-      "collaborate",
-      "prioritize tasks"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Attorney Editors must maintain and develop legal knowledge and skills training as needed to complete their work and stay current on legal trends and developments related to editorial responsibilities....",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "121.0497015",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ189806",
-    "jobId": "JREQ189806",
-    "city": "Manila",
-    "latitude": "14.5348768",
-    "locale": "en_US",
-    "multi_location": [
-      "Manila, Philippines"
-    ],
-    "title": "Attorney Editor",
-    "jobSeqNo": "THTTRUUSJREQ189806EXTERNALENUS",
-    "postedDate": "2025-05-07T00:00:00.000+0000",
-    "dateCreated": "2025-04-30T00:38:50.773+0000",
-    "cityStateCountry": "Manila, Philippines",
-    "address": "20 Upper McKinley Building, Upper McKinley Road, McKinley Hill, Manila, 1634, Philippines",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/PHL-Taguig-20-Upper-McKinley-Bldg/Attorney-Editor_JREQ189806/apply",
-    "location": "Manila, Philippines",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Attorney Editors must maintain and develop legal knowledge and skills training as needed to complete their work and stay current on legal trends and developments related to editorial responsibilities....",
-      "descriptionTeaser_first200": "Attorney Editor - Primary Law Editorial. Primary Law Attorney Editors are responsible for legal research, analysis, and writing to support the development and maintenance of Thomson Reuters\u2019 legal ...",
-      "descriptionTeaser_keyword": "Attorney Editor - Primary Law Editorial. Primary Law Attorney Editors are responsible for legal research, analysis, and writing to support the development and maintenance of Thomson Reuters\u2019 legal inf...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 121.0497015,
-          "lat": 14.5348768
-        },
-        "location": "Manila, Philippines"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Singapore",
     "country": "Singapore",
     "ml_skills": [
@@ -595,46 +594,52 @@
     "badge": ""
   },
   {
-    "cityState": "London",
-    "country": "United Kingdom",
+    "cityState": "Manila",
+    "country": "Philippines",
     "ml_skills": [
-      "liaising",
-      "product management"
+      "legal research",
+      "westlaw",
+      "writing skills",
+      "accuracy",
+      "proofreading",
+      "prioritizing",
+      "pivot",
+      "collaborate"
     ],
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "As a Senior Specialist Legal Editor in Practical Law, you will use your specialist legal knowledge of advising on Employment law matters to provide and maintain a wide range of Practical Law content....",
+    "descriptionTeaser": "Primary Law Attorney Editors are responsible for legal research, analysis, and writing to support the development and maintenance of Thomson Reuters\u2019 legal information in all media. All roles on the C...",
     "state": "",
     "visibilityType": "External",
     "siteType": "external",
-    "longitude": "-0.0185088",
+    "longitude": "121.0497015",
     "multi_category": [
       "News & Editorial Careers"
     ],
-    "reqId": "JREQ190708",
-    "jobId": "JREQ190708",
-    "city": "London",
-    "latitude": "51.5056439",
+    "reqId": "JREQ189806",
+    "jobId": "JREQ189806",
+    "city": "Manila",
+    "latitude": "14.5348768",
     "locale": "en_US",
     "multi_location": [
-      "London, United Kingdom"
+      "Manila, Philippines"
     ],
-    "title": "Senior Specialist Legal Editor, Practical Law Employment",
-    "jobSeqNo": "THTTRUUSJREQ190708EXTERNALENUS",
+    "title": "Attorney Editor",
+    "jobSeqNo": "THTTRUUSJREQ189806EXTERNALENUS",
     "postedDate": "2025-05-07T00:00:00.000+0000",
-    "dateCreated": "2025-05-07T16:38:40.518+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "dateCreated": "2025-04-30T00:38:50.773+0000",
+    "cityStateCountry": "Manila, Philippines",
+    "address": "20 Upper McKinley Building, Upper McKinley Road, McKinley Hill, Manila, 1634, Philippines",
     "jobVisibility": [
       "external"
     ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Senior-Specialist-Legal-Editor--Practical-Law-Employment_JREQ190708/apply",
-    "location": "London, United Kingdom",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/PHL-Taguig-20-Upper-McKinley-Bldg/Attorney-Editor_JREQ189806/apply",
+    "location": "Manila, Philippines",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "As a Senior Specialist Legal Editor in Practical Law, you will use your specialist legal knowledge of advising on Employment law matters to provide and maintain a wide range of Practical Law content....",
-      "descriptionTeaser_first200": "Senior Specialist Legal Editor, Practical Law Employment. We are seeking an experienced Employment law practitioner (e.g. solicitor, barrister, legal executive) to join the Practical Law Employment...",
-      "descriptionTeaser_keyword": "Senior Specialist Legal Editor, Practical Law Employment. We are seeking an experienced Employment law practitioner (e. g. solicitor, barrister, legal executive) to join the Practical Law Employment t...",
+      "descriptionTeaser": "Primary Law Attorney Editors are responsible for legal research, analysis, and writing to support the development and maintenance of Thomson Reuters\u2019 legal information in all media. All roles on the C...",
+      "descriptionTeaser_first200": "Attorney Editor, Primary Law Editorial. Primary Law Attorney Editors are responsible for legal research, analysis, and writing to support the development and maintenance of Thomson Reuters\u2019 legal i...",
+      "descriptionTeaser_keyword": "Attorney Editor, Primary Law Editorial. Primary Law Attorney Editors are responsible for legal research, analysis, and writing to support the development and maintenance of Thomson Reuters\u2019 legal info...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
@@ -642,10 +647,73 @@
     "multi_location_array": [
       {
         "latlong": {
-          "lon": -0.0185088,
-          "lat": 51.5056439
+          "lon": 121.0497015,
+          "lat": 14.5348768
         },
-        "location": "London, United Kingdom"
+        "location": "Manila, Philippines"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Perth, Western Australia",
+    "country": "Australia",
+    "remote": "Remote",
+    "type": "Full time",
+    "descriptionTeaser": "The successful candidate will produce a full range of Reuters stories \u2013 building a substantial spot news file and writing smart market reports as well as delivering high-value exclusives and insightfu...",
+    "state": "Western Australia",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "115.8426337",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ190451",
+    "jobId": "JREQ190451",
+    "city": "Perth",
+    "latitude": "-31.9522114",
+    "locale": "en_US",
+    "multi_location": [
+      "Perth, Western Australia, Australia"
+    ],
+    "title": "Energy Correspondent, Australia",
+    "jobSeqNo": "THTTRUUSJREQ190451EXTERNALENUS",
+    "postedDate": "2025-05-07T00:00:00.000+0000",
+    "dateCreated": "2025-05-07T08:44:46.717+0000",
+    "cityStateCountry": "Perth, Western Australia, Australia",
+    "address": "Ground Floor, 7 Havelock Street, Perth WA 6005, Australia",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/AUS-Perth-7-Havelock-St/Energy-Correspondent--Australia_JREQ190451/apply",
+    "location": "Perth, Western Australia, Australia",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "ml_skills": [
+      "conceptualization",
+      "ai",
+      "collaborative approach"
+    ],
+    "ml_job_parser": {
+      "descriptionTeaser": "The successful candidate will produce a full range of Reuters stories \u2013 building a substantial spot news file and writing smart market reports as well as delivering high-value exclusives and insightfu...",
+      "descriptionTeaser_keyword": "Reuters is looking for a driven and enterprising Energy Correspondent who can break news and produce agenda-setting news coverage from Australia, home to some of the region\u2019s biggest oil and gas corpo...",
+      "descriptionTeaser_ats": "",
+      "descriptionTeaser_first200": "Reuters is looking for a driven and enterprising Energy Correspondent who can break news and produce agenda-setting news coverage from Australia, home to some of the region\u2019s biggest oil and gas co..."
+    },
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 115.8426337,
+          "lat": -31.9522114
+        },
+        "location": "Perth, Western Australia, Australia"
       }
     ],
     "isMultiCategory": true,
@@ -660,12 +728,11 @@
     "cityState": "Frisco, Texas",
     "country": "United States of America",
     "ml_skills": [
-      "tax law",
-      "irs",
       "income tax",
+      "irs",
       "tax planning",
-      "development tools",
-      "tax software"
+      "tax software",
+      "tax law"
     ],
     "remote": "Hybrid",
     "type": "Full time",
@@ -739,80 +806,17 @@
     "badge": ""
   },
   {
-    "cityState": "Perth, Western Australia",
-    "country": "Australia",
-    "remote": "Remote",
-    "type": "Full time",
-    "descriptionTeaser": "The successful candidate will produce a full range of Reuters stories \u2013 building a substantial spot news file and writing smart market reports as well as delivering high-value exclusives and insightfu...",
-    "state": "Western Australia",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "115.8426337",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ190451",
-    "jobId": "JREQ190451",
-    "city": "Perth",
-    "latitude": "-31.9522114",
-    "locale": "en_US",
-    "multi_location": [
-      "Perth, Western Australia, Australia"
-    ],
-    "title": "Energy Correspondent, Australia",
-    "jobSeqNo": "THTTRUUSJREQ190451EXTERNALENUS",
-    "postedDate": "2025-05-07T00:00:00.000+0000",
-    "dateCreated": "2025-05-07T08:44:46.717+0000",
-    "cityStateCountry": "Perth, Western Australia, Australia",
-    "address": "Ground Floor, 7 Havelock Street, Perth WA 6005, Australia",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/AUS-Perth-7-Havelock-St/Energy-Correspondent--Australia_JREQ190451/apply",
-    "location": "Perth, Western Australia, Australia",
-    "category": "News & Editorial Careers",
-    "externalApply": true,
-    "ml_skills": [
-      "conceptualization",
-      "ai",
-      "ai tools",
-      "collaborative approach"
-    ],
-    "ml_job_parser": {
-      "descriptionTeaser": "The successful candidate will produce a full range of Reuters stories \u2013 building a substantial spot news file and writing smart market reports as well as delivering high-value exclusives and insightfu...",
-      "descriptionTeaser_keyword": "Reuters is looking for a driven and enterprising Energy Correspondent who can break news and produce agenda-setting news coverage from Australia, home to some of the region\u2019s biggest oil and gas corpo...",
-      "descriptionTeaser_ats": "",
-      "descriptionTeaser_first200": "Reuters is looking for a driven and enterprising Energy Correspondent who can break news and produce agenda-setting news coverage from Australia, home to some of the region\u2019s biggest oil and gas co..."
-    },
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 115.8426337,
-          "lat": -31.9522114
-        },
-        "location": "Perth, Western Australia, Australia"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "London",
     "country": "United Kingdom",
     "ml_skills": [
-      "conceptualization",
-      "writing skills",
-      "collaborative approach"
+      "liaising",
+      "build",
+      "product management",
+      "analysing"
     ],
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "The successful candidate will produce stories, building a substantial spot news file, writing daily market reports and delivering exclusives and other enterprise stories. Break exclusives and write ag...",
+    "descriptionTeaser": "As a Senior Specialist Legal Editor in Practical Law, you will use your specialist legal knowledge of advising on Employment law matters to provide and maintain a wide range of Practical Law content....",
     "state": "",
     "visibilityType": "External",
     "siteType": "external",
@@ -820,30 +824,30 @@
     "multi_category": [
       "News & Editorial Careers"
     ],
-    "reqId": "JREQ190970",
-    "jobId": "JREQ190970",
+    "reqId": "JREQ190708",
+    "jobId": "JREQ190708",
     "city": "London",
     "latitude": "51.5056439",
     "locale": "en_US",
     "multi_location": [
       "London, United Kingdom"
     ],
-    "title": "Metals Correspondent",
-    "jobSeqNo": "THTTRUUSJREQ190970EXTERNALENUS",
+    "title": "Senior Specialist Legal Editor, Practical Law Employment",
+    "jobSeqNo": "THTTRUUSJREQ190708EXTERNALENUS",
     "postedDate": "2025-05-07T00:00:00.000+0000",
-    "dateCreated": "2025-05-07T16:38:40.526+0000",
+    "dateCreated": "2025-05-07T16:38:40.518+0000",
     "cityStateCountry": "London, United Kingdom",
     "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
     "jobVisibility": [
       "external"
     ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Metals-Correspondent_JREQ190970/apply",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Senior-Specialist-Legal-Editor--Practical-Law-Employment_JREQ190708/apply",
     "location": "London, United Kingdom",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "The successful candidate will produce stories, building a substantial spot news file, writing daily market reports and delivering exclusives and other enterprise stories. Break exclusives and write ag...",
-      "descriptionTeaser_first200": "Reuters is looking for an outstanding journalist with exceptional source-building skills to uncover the industrial metal sector\u2019s most important stories, delving deep into what is usually an opaque...",
-      "descriptionTeaser_keyword": "Reuters is looking for an outstanding journalist with exceptional source-building skills to uncover the industrial metal sector\u2019s most important stories, delving deep into what is usually an opaque an...",
+      "descriptionTeaser": "As a Senior Specialist Legal Editor in Practical Law, you will use your specialist legal knowledge of advising on Employment law matters to provide and maintain a wide range of Practical Law content....",
+      "descriptionTeaser_first200": "Senior Specialist Legal Editor, Practical Law Employment. We are seeking an experienced Employment law practitioner (e.g. solicitor, barrister, legal executive) to join the Practical Law Employment...",
+      "descriptionTeaser_keyword": "Senior Specialist Legal Editor, Practical Law Employment. We are seeking an experienced Employment law practitioner (e. g. solicitor, barrister, legal executive) to join the Practical Law Employment t...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
@@ -855,6 +859,68 @@
           "lat": 51.5056439
         },
         "location": "London, United Kingdom"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Gdansk",
+    "country": "Poland",
+    "ml_skills": [
+      "english",
+      "stock markets"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Reuters is seeking candidates who can speak fluent English and French to join its real-time news operation in Gdansk, Poland. Scan press releases from companies and regulators in English and French to...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "18.5757343",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ190968",
+    "jobId": "JREQ190968",
+    "city": "Gdansk",
+    "latitude": "54.400578",
+    "locale": "en_US",
+    "multi_location": [
+      "Gdansk, Poland"
+    ],
+    "title": "News Reporter with French, Reuters",
+    "jobSeqNo": "THTTRUUSJREQ190968EXTERNALENUS",
+    "postedDate": "2025-05-06T00:00:00.000+0000",
+    "dateCreated": "2025-05-06T16:39:47.063+0000",
+    "cityStateCountry": "Gdansk, Poland",
+    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/News-Reporter-with-French--Reuters_JREQ190968/apply",
+    "location": "Gdansk, Poland",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Reuters is seeking candidates who can speak fluent English and French to join its real-time news operation in Gdansk, Poland. Scan press releases from companies and regulators in English and French to...",
+      "descriptionTeaser_first200": "Reuters is seeking candidates who can speak fluent English and French to join its real-time news operation in Gdansk, Poland. The reporters will work in fast paced, international environment to pro...",
+      "descriptionTeaser_keyword": "Reuters is seeking candidates who can speak fluent English and French to join its real-time news operation in Gdansk, Poland. The reporters will work in fast paced, international environment to produc...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 18.5757343,
+          "lat": 54.400578
+        },
+        "location": "Gdansk, Poland"
       }
     ],
     "isMultiCategory": true,
@@ -1014,151 +1080,6 @@
     "badge": ""
   },
   {
-    "cityState": "Gdansk",
-    "country": "Poland",
-    "ml_skills": [
-      "english",
-      "stock markets"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Reuters is seeking candidates who can speak fluent English and French to join its real-time news operation in Gdansk, Poland. Scan press releases from companies and regulators in English and French to...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "18.5757343",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ190968",
-    "jobId": "JREQ190968",
-    "city": "Gdansk",
-    "latitude": "54.400578",
-    "locale": "en_US",
-    "multi_location": [
-      "Gdansk, Poland"
-    ],
-    "title": "News Reporter with French, Reuters",
-    "jobSeqNo": "THTTRUUSJREQ190968EXTERNALENUS",
-    "postedDate": "2025-05-06T00:00:00.000+0000",
-    "dateCreated": "2025-05-06T16:39:47.063+0000",
-    "cityStateCountry": "Gdansk, Poland",
-    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/News-Reporter-with-French--Reuters_JREQ190968/apply",
-    "location": "Gdansk, Poland",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Reuters is seeking candidates who can speak fluent English and French to join its real-time news operation in Gdansk, Poland. Scan press releases from companies and regulators in English and French to...",
-      "descriptionTeaser_first200": "Reuters is seeking candidates who can speak fluent English and French to join its real-time news operation in Gdansk, Poland. The reporters will work in fast paced, international environment to pro...",
-      "descriptionTeaser_keyword": "Reuters is seeking candidates who can speak fluent English and French to join its real-time news operation in Gdansk, Poland. The reporters will work in fast paced, international environment to produc...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 18.5757343,
-          "lat": 54.400578
-        },
-        "location": "Gdansk, Poland"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "London",
-    "country": "United Kingdom",
-    "ml_skills": [
-      "architect",
-      "crm",
-      "salesforce",
-      "erp",
-      "system design",
-      "solution architecture",
-      "process implementation",
-      "ai capabilities",
-      "integration services",
-      "data modeling",
-      "application architecture",
-      "customer relationship management",
-      "enterprise resource planning",
-      "product lifecycle management",
-      "cpq platform"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Edit and package pictures and news presentations for our client and consumer products. 3-5 years of picture editing, packaging, and production experience within the news industry. Digital design and l...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-0.0185088",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ190908",
-    "jobId": "JREQ190908",
-    "city": "London",
-    "latitude": "51.5056439",
-    "locale": "en_US",
-    "multi_location": [
-      "London, United Kingdom",
-      "Barcelona, Spain"
-    ],
-    "title": "Visuals Producer, Reuters Digital",
-    "jobSeqNo": "THTTRUUSJREQ190908EXTERNALENUS",
-    "postedDate": "2025-05-05T00:00:00.000+0000",
-    "dateCreated": "2025-05-05T16:38:35.533+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Visuals-Producer--Reuters-Digital_JREQ190908/apply",
-    "location": "London, United Kingdom",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Edit and package pictures and news presentations for our client and consumer products. 3-5 years of picture editing, packaging, and production experience within the news industry. Digital design and l...",
-      "descriptionTeaser_first200": "Reuters is looking for a talented Visuals Producer to join our digital team. The candidate for this position will ensure that Reuters most engaging visual journalism is showcased across our digital...",
-      "descriptionTeaser_keyword": "Reuters is looking for a talented Visuals Producer to join our digital team. The candidate for this position will ensure that Reuters most engaging visual journalism is showcased across our digital pr...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -0.0185088,
-          "lat": 51.5056439
-        },
-        "location": "London, United Kingdom"
-      },
-      {
-        "latlong": {
-          "lon": 2.1486417,
-          "lat": 41.39567599999999
-        },
-        "location": "Barcelona, Spain"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Bengaluru, Karnataka",
     "country": "India",
     "ml_skills": [
@@ -1272,6 +1193,75 @@
           "lat": 0
         },
         "location": "Toronto, Ontario, Canada"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "London",
+    "country": "United Kingdom",
+    "ml_skills": [
+      "adobe photoshop"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Edit and package pictures and news presentations for our client and consumer products. 3-5 years of picture editing, packaging, and production experience within the news industry. Digital design and l...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.0185088",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ190908",
+    "jobId": "JREQ190908",
+    "city": "London",
+    "latitude": "51.5056439",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom",
+      "Barcelona, Spain"
+    ],
+    "title": "Visuals Producer, Reuters Digital",
+    "jobSeqNo": "THTTRUUSJREQ190908EXTERNALENUS",
+    "postedDate": "2025-05-05T00:00:00.000+0000",
+    "dateCreated": "2025-05-05T16:38:35.533+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Visuals-Producer--Reuters-Digital_JREQ190908/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Edit and package pictures and news presentations for our client and consumer products. 3-5 years of picture editing, packaging, and production experience within the news industry. Digital design and l...",
+      "descriptionTeaser_first200": "Reuters is looking for a talented Visuals Producer to join our digital team. The candidate for this position will ensure that Reuters most engaging visual journalism is showcased across our digital...",
+      "descriptionTeaser_keyword": "Reuters is looking for a talented Visuals Producer to join our digital team. The candidate for this position will ensure that Reuters most engaging visual journalism is showcased across our digital pr...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.0185088,
+          "lat": 51.5056439
+        },
+        "location": "London, United Kingdom"
+      },
+      {
+        "latlong": {
+          "lon": 2.1486417,
+          "lat": 41.39567599999999
+        },
+        "location": "Barcelona, Spain"
       }
     ],
     "isMultiCategory": true,
@@ -5754,10 +5744,20 @@
     "cityState": "Eagan, Minnesota",
     "country": "United States of America",
     "ml_skills": [
+      "intellectual property",
+      "accuracy",
+      "legal research",
+      "intellectual property law",
       "editing",
-      "content creation",
+      "feedback",
+      "ai",
+      "quality assurance",
       "analytical skills",
-      "quality assurance"
+      "product management",
+      "content quality",
+      "collaborate",
+      "content creation",
+      "content strategy"
     ],
     "remote": "Hybrid",
     "type": "Full time",
