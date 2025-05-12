@@ -581,6 +581,126 @@
     "badge": ""
   },
   {
+    "cityState": "Los Angeles, California",
+    "country": "United States of America",
+    "ml_skills": [],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Produce, edit, write, and deliver compelling and creative video stories and live coverage on breaking news stories, sometimes in challenging weather conditions. S. , including breaking news, entertain...",
+    "state": "California",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-118.2414884",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ191252",
+    "jobId": "JREQ191252",
+    "city": "Los Angeles",
+    "latitude": "34.033736",
+    "locale": "en_US",
+    "multi_location": [
+      "Los Angeles, California, United States of America"
+    ],
+    "title": "Cameraperson (Level 1 Journalist - Temp Guild)",
+    "jobSeqNo": "THTTRUUSJREQ191252EXTERNALENUS",
+    "postedDate": "2025-05-12T00:00:00.000+0000",
+    "dateCreated": "2025-05-12T16:37:30.335+0000",
+    "cityStateCountry": "Los Angeles, California, United States of America",
+    "address": "777 S. Alameda, 2nd Floor, Los Angeles, CA 90021, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Los-Angeles-777-S-Alameda/Cameraperson--Level-1-Journalist---Temp-Guild-_JREQ191252/apply",
+    "location": "Los Angeles, California, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Produce, edit, write, and deliver compelling and creative video stories and live coverage on breaking news stories, sometimes in challenging weather conditions. S. , including breaking news, entertain...",
+      "descriptionTeaser_first200": "Reuters Video News is looking for a dynamic and talented VJ/Cameraperson (Level 1 Journalist - Temp) for a TEMPORARY position based in Los Angeles, California. About the Role. As Cameraperson (Leve...",
+      "descriptionTeaser_keyword": "Reuters Video News is looking for a dynamic and talented VJ/Cameraperson (Level 1 Journalist - Temp) for a TEMPORARY position based in Los Angeles, California. About the Role. As Cameraperson (Level 1...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -118.2414884,
+          "lat": 34.033736
+        },
+        "location": "Los Angeles, California, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Washington, District of Columbia",
+    "country": "United States of America",
+    "ml_skills": [
+      "writer"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Reuters is seeking a US Space & Defense Correspondent (Level 1 Journalist) with exceptional writing and reporting skills. The ideal candidate will be a versatile writer and reporter, equally comfortab...",
+    "state": "District of Columbia",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-77.0311952",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ191257",
+    "jobId": "JREQ191257",
+    "city": "Washington",
+    "latitude": "38.9004793",
+    "locale": "en_US",
+    "multi_location": [
+      "Washington, District of Columbia, United States of America"
+    ],
+    "title": "U.S. Space & Defense Correspondent (Level 1 Journalist)",
+    "jobSeqNo": "THTTRUUSJREQ191257EXTERNALENUS",
+    "postedDate": "2025-05-12T00:00:00.000+0000",
+    "dateCreated": "2025-05-12T16:37:30.334+0000",
+    "cityStateCountry": "Washington, District of Columbia, United States of America",
+    "address": "1333 H Street NW, Suite 500, Washington, DC 20005, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Washington-1333-H-Street-N/US-Space---Defense-Correspondent--Level-1-Journalist-_JREQ191257/apply",
+    "location": "Washington, District of Columbia, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Reuters is seeking a US Space & Defense Correspondent (Level 1 Journalist) with exceptional writing and reporting skills. The ideal candidate will be a versatile writer and reporter, equally comfortab...",
+      "descriptionTeaser_first200": "Reuters is seeking a US Space & Defense Correspondent (Level 1 Journalist) with exceptional writing and reporting skills. This is an exciting opportunity to join a small team of reporters covering ...",
+      "descriptionTeaser_keyword": "Reuters is seeking a US Space & Defense Correspondent (Level 1 Journalist) with exceptional writing and reporting skills. This is an exciting opportunity to join a small team of reporters covering the...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -77.0311952,
+          "lat": 38.9004793
+        },
+        "location": "Washington, District of Columbia, United States of America"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "London",
     "country": "United Kingdom",
     "ml_skills": [
