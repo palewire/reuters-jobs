@@ -1,5 +1,67 @@
 [
   {
+    "cityState": "Hyderabad, Telangana",
+    "country": "India",
+    "ml_skills": [
+      "accounting",
+      "troubleshoot"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "The ideal candidate will ensure that all forms comply with specific guidelines and specifications, maintaining the integrity and completeness of each work product. Create dimensioned objects, scenario...",
+    "state": "Telangana",
+    "visibilityType": "External",
+    "longitude": "78.38589340000001",
+    "siteType": "external",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ183542",
+    "jobId": "JREQ183542",
+    "city": "Hyderabad",
+    "latitude": "17.4367243",
+    "locale": "en_US",
+    "multi_location": [
+      "Hyderabad, Telangana, India"
+    ],
+    "title": "Process Associate - Tax Forms",
+    "jobSeqNo": "THTTRUUSJREQ183542EXTERNALENUS",
+    "postedDate": "2025-05-15T00:00:00.000+0000",
+    "dateCreated": "2025-04-03T16:38:57.580+0000",
+    "cityStateCountry": "Hyderabad, Telangana, India",
+    "address": "Floor 12, 13 & 14, Building 11, Raheja Mindspace, Madhapur, Hyderabad- 500081, Telangana, India",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Hyderabad-Raheja-Mindspace/Process-Associate_JREQ183542/apply",
+    "location": "Hyderabad, Telangana, India",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "The ideal candidate will ensure that all forms comply with specific guidelines and specifications, maintaining the integrity and completeness of each work product. Create dimensioned objects, scenario...",
+      "descriptionTeaser_first200": "We are seeking a detail-oriented and creative individual to design, create, and deliver legal and tax forms for various media platforms. The ideal candidate will ensure that all forms comply with s...",
+      "descriptionTeaser_keyword": "We are seeking a detail-oriented and creative individual to design, create, and deliver legal and tax forms for various media platforms. The ideal candidate will ensure that all forms comply with spec...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 78.38589340000001,
+          "lat": 17.4367243
+        },
+        "location": "Hyderabad, Telangana, India"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Manila",
     "country": "Philippines",
     "ml_skills": [
@@ -4517,72 +4579,6 @@
     "badge": ""
   },
   {
-    "cityState": "Brussels",
-    "country": "Belgium",
-    "ml_skills": [
-      "journalism",
-      "french",
-      "english",
-      "accuracy",
-      "mergers",
-      "guiding"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "The successful candidate will be part of a specialist team that monitors news sources, makes split-second decisions about what matters to our readers, and pushes out headlines that are read around the...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "4.3640587",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ190332",
-    "jobId": "JREQ190332",
-    "city": "Brussels",
-    "latitude": "50.8389779",
-    "locale": "en_US",
-    "multi_location": [
-      "Brussels, Belgium"
-    ],
-    "title": "Senior Breaking News Correspondent, France & Benelux",
-    "jobSeqNo": "THTTRUUSJREQ190332EXTERNALENUS",
-    "postedDate": "2025-04-22T00:00:00.000+0000",
-    "dateCreated": "2025-04-22T12:38:08.994+0000",
-    "cityStateCountry": "Brussels, Belgium",
-    "address": "Marnixlaan 17, Avenue Marnix, 1000 Brussels, Belgium",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/BEL-Brussels-Avenue-Marnix/Senior-Breaking-News-Correspondent--France---Benelux_JREQ190332/apply",
-    "location": "Brussels, Belgium",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "The successful candidate will be part of a specialist team that monitors news sources, makes split-second decisions about what matters to our readers, and pushes out headlines that are read around the...",
-      "descriptionTeaser_first200": "Reuters is looking for an enthusiastic, ambitious journalist with sharp news judgment to join our breaking news team in THE FRANCE & Benelux region. The position is based in our Brussels bureau. Fr...",
-      "descriptionTeaser_keyword": "Reuters is looking for an enthusiastic, ambitious journalist with sharp news judgment to join our breaking news team in THE FRANCE & Benelux region. The position is based in our Brussels bureau. From...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 4.3640587,
-          "lat": 50.8389779
-        },
-        "location": "Brussels, Belgium"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Bengaluru, Karnataka",
     "country": "India",
     "ml_skills": [
@@ -5054,80 +5050,6 @@
           "lat": 14.5348768
         },
         "location": "Manila, Philippines"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Auckland",
-    "country": "New Zealand",
-    "ml_skills": [
-      "legal research",
-      "accuracy",
-      "case law",
-      "classification",
-      "feedback",
-      "communication skills"
-    ],
-    "remote": "Remote",
-    "type": "Part time",
-    "descriptionTeaser": "To be successful in the role you will love legal research, editing, writing, and possess a high degree of attention to detail. Maintain and develop legal knowledge and skills training as required to c...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "174.7497687",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ188681",
-    "jobId": "JREQ188681",
-    "city": "Auckland",
-    "latitude": "-36.848623",
-    "locale": "en_US",
-    "multi_location": [
-      "Auckland, New Zealand",
-      "Wellington, New Zealand"
-    ],
-    "title": "Casual Legal Editor",
-    "jobSeqNo": "THTTRUUSJREQ188681EXTERNALENUS",
-    "postedDate": "2025-04-18T00:00:00.000+0000",
-    "dateCreated": "2025-04-16T00:40:34.243+0000",
-    "cityStateCountry": "Auckland, New Zealand",
-    "address": "16 College Hill, Ponsonby, Auckland 1144, New Zealand",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/NZL-Auckland-Fosters-House/Casual-Legal-Editor_JREQ188681/apply",
-    "location": "Auckland, New Zealand",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "To be successful in the role you will love legal research, editing, writing, and possess a high degree of attention to detail. Maintain and develop legal knowledge and skills training as required to c...",
-      "descriptionTeaser_first200": "Do you love legal research, editing and writing? We are looking for a diligent Legal Editor (Casual) to join our team of experienced editors and work collaboratively in a team with a strong work et...",
-      "descriptionTeaser_keyword": "Do you love legal research, editing and writing? We are looking for a diligent Legal Editor (Casual) to join our team of experienced editors and work collaboratively in a team with a strong work ethic...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 174.7497687,
-          "lat": -36.848623
-        },
-        "location": "Auckland, New Zealand"
-      },
-      {
-        "latlong": {
-          "lon": 174.7743618,
-          "lat": -41.2859199
-        },
-        "location": "Wellington, New Zealand"
       }
     ],
     "isMultiCategory": true,
