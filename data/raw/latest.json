@@ -63,47 +63,59 @@
     "badge": ""
   },
   {
-    "cityState": "",
-    "country": "South Africa",
+    "cityState": "Bengaluru, Karnataka",
+    "country": "India",
+    "ml_skills": [
+      "journalism",
+      "english language",
+      "photography",
+      "adobe photoshop"
+    ],
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "Breaking\u00a0News\u00a0Correspondent,\u00a0Sub-Saharan\u00a0AfricaReuters is looking for a journalist with strong news\u00a0judgement and a passion for speed and accuracy to join our Breaking\u00a0News\u00a0team in\u00a0Sub-Saharan\u00a0Africa.",
-    "state": "",
+    "descriptionTeaser": "Reuters is looking for an enthusiastic and globally minded journalist with strong English and a sharp eye for detail who can effortlessly sift through the thousands of photos our photographers shoot e...",
+    "state": "Karnataka",
     "visibilityType": "External",
     "siteType": "external",
-    "longitude": "28.0535995",
+    "longitude": "77.708722",
     "multi_category": [
       "News & Editorial Careers"
     ],
-    "reqId": "JREQ190338",
-    "jobId": "JREQ190338",
-    "city": "",
-    "latitude": "-26.1069543",
+    "reqId": "JREQ188833",
+    "jobId": "JREQ188833",
+    "city": "Bengaluru",
+    "latitude": "12.9776035",
     "locale": "en_US",
     "multi_location": [
-      "South Africa"
+      "Bengaluru, Karnataka, India"
     ],
-    "title": "Breaking News Correspondent, Sub-Saharan Africa",
-    "jobSeqNo": "THTTRUUSJREQ190338EXTERNALENUS",
-    "postedDate": "2025-05-15T00:00:00.000+0000",
-    "dateCreated": "2025-05-15T16:38:08.861+0000",
-    "cityStateCountry": "South Africa",
-    "address": "2 Maude Street, Sandton, Johannesburg, 2196, South Africa",
+    "title": "Associate Editor, Global Pictures Desk",
+    "jobSeqNo": "THTTRUUSJREQ188833EXTERNALENUS",
+    "postedDate": "2025-05-16T00:00:00.000+0000",
+    "dateCreated": "2025-05-16T08:44:56.915+0000",
+    "cityStateCountry": "Bengaluru, Karnataka, India",
+    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
     "jobVisibility": [
       "external"
     ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/ZAF-Johannesburg-2-Maude-Street/Breaking-News-Correspondent--Sub-Saharan-Africa_JREQ190338/apply",
-    "location": "South Africa",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/Associate-Editor--Global-Pictures-Desk_JREQ188833/apply",
+    "location": "Bengaluru, Karnataka, India",
     "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Reuters is looking for an enthusiastic and globally minded journalist with strong English and a sharp eye for detail who can effortlessly sift through the thousands of photos our photographers shoot e...",
+      "descriptionTeaser_first200": "Associate Editor, Global Pictures Desk. Reuters is looking for an enthusiastic and globally minded journalist with strong English and a sharp eye for detail who can effortlessly sift through the th...",
+      "descriptionTeaser_keyword": "Associate Editor, Global Pictures Desk. Reuters is looking for an enthusiastic and globally minded journalist with strong English and a sharp eye for detail who can effortlessly sift through the thous...",
+      "descriptionTeaser_ats": ""
+    },
     "externalApply": true,
     "isMultiLocation": true,
     "multi_location_array": [
       {
         "latlong": {
-          "lon": 28.0535995,
-          "lat": -26.1069543
+          "lon": 77.708722,
+          "lat": 12.9776035
         },
-        "location": "South Africa"
+        "location": "Bengaluru, Karnataka, India"
       }
     ],
     "isMultiCategory": true,
@@ -301,6 +313,71 @@
     "badge": ""
   },
   {
+    "cityState": "",
+    "country": "South Africa",
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Reuters is looking for a journalist with strong news judgement and a passion for speed and accuracy to join our Breaking News team in Sub-Saharan Africa. They will work under the direction of the Brea...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "28.0535995",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ190338",
+    "jobId": "JREQ190338",
+    "city": "",
+    "latitude": "-26.1069543",
+    "locale": "en_US",
+    "multi_location": [
+      "South Africa"
+    ],
+    "title": "Breaking News Correspondent, Sub-Saharan Africa",
+    "jobSeqNo": "THTTRUUSJREQ190338EXTERNALENUS",
+    "postedDate": "2025-05-15T00:00:00.000+0000",
+    "dateCreated": "2025-05-15T16:38:08.861+0000",
+    "cityStateCountry": "South Africa",
+    "address": "2 Maude Street, Sandton, Johannesburg, 2196, South Africa",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/ZAF-Johannesburg-2-Maude-Street/Breaking-News-Correspondent--Sub-Saharan-Africa_JREQ190338/apply",
+    "location": "South Africa",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "ml_skills": [
+      "writing skills",
+      "portuguese",
+      "french",
+      "accuracy",
+      "coordinate"
+    ],
+    "ml_job_parser": {
+      "descriptionTeaser": "Reuters is looking for a journalist with strong news judgement and a passion for speed and accuracy to join our Breaking News team in Sub-Saharan Africa. They will work under the direction of the Brea...",
+      "descriptionTeaser_keyword": "Breaking News Correspondent, Sub-Saharan Africa. Reuters is looking for a journalist with strong news judgement and a passion for speed and accuracy to join our Breaking News team in Sub-Saharan Afric...",
+      "descriptionTeaser_ats": "",
+      "descriptionTeaser_first200": "Breaking News Correspondent, Sub-Saharan Africa. Reuters is looking for a journalist with strong news judgement and a passion for speed and accuracy to join our Breaking News team in Sub-Saharan Af..."
+    },
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 28.0535995,
+          "lat": -26.1069543
+        },
+        "location": "South Africa"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Manila",
     "country": "Philippines",
     "ml_skills": [
@@ -353,67 +430,6 @@
           "lat": 14.5348768
         },
         "location": "Manila, Philippines"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Bengaluru, Karnataka",
-    "country": "India",
-    "ml_skills": [
-      "journalism"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "We need producers who can think on their feet, and value accuracy and speed. You're a fit for the role of Multimedia News Producer if your background includes. Impeccable writing Strong news judgement...",
-    "state": "Karnataka",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "77.708722",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ185984",
-    "jobId": "JREQ185984",
-    "city": "Bengaluru",
-    "latitude": "12.9776035",
-    "locale": "en_US",
-    "multi_location": [
-      "Bengaluru, Karnataka, India"
-    ],
-    "title": "Multimedia News Producer",
-    "jobSeqNo": "THTTRUUSJREQ185984EXTERNALENUS",
-    "postedDate": "2025-05-13T00:00:00.000+0000",
-    "dateCreated": "2024-12-17T08:43:26.412+0000",
-    "cityStateCountry": "Bengaluru, Karnataka, India",
-    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/Multimedia-News-Producer_JREQ185984/apply",
-    "location": "Bengaluru, Karnataka, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "We need producers who can think on their feet, and value accuracy and speed. You're a fit for the role of Multimedia News Producer if your background includes. Impeccable writing Strong news judgement...",
-      "descriptionTeaser_first200": "Multimedia News Producer. Are you a journalist who desires to be part of a news production team that can reach millions of readers in a matter of seconds? Digital Desk at Reuters in Bangalore does ...",
-      "descriptionTeaser_keyword": "Multimedia News Producer. Are you a journalist who desires to be part of a news production team that can reach millions of readers in a matter of seconds? Digital Desk at Reuters in Bangalore does exa...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 77.708722,
-          "lat": 12.9776035
-        },
-        "location": "Bengaluru, Karnataka, India"
       }
     ],
     "isMultiCategory": true,
@@ -1219,82 +1235,6 @@
           "lat": 19.0581602
         },
         "location": "Mumbai, Maharashtra, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Bengaluru, Karnataka",
-    "country": "India",
-    "ml_skills": [
-      "linux",
-      "cloud",
-      "python",
-      "software development",
-      "aws",
-      "bash",
-      "application development",
-      "powershell",
-      "system monitoring",
-      "hardware support",
-      "correlation",
-      "datadog",
-      "cloud automation",
-      "systems administrator",
-      "azure",
-      "devops engineer"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "We need producers who can think on their feet, and value accuracy and speed. You're a fit for the role of Multimedia News Producer if your background includes. Impeccable writing Strong news judgement...",
-    "state": "Karnataka",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "77.708722",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ185986",
-    "jobId": "JREQ185986",
-    "city": "Bengaluru",
-    "latitude": "12.9776035",
-    "locale": "en_US",
-    "multi_location": [
-      "Bengaluru, Karnataka, India"
-    ],
-    "title": "Multimedia News Producer",
-    "jobSeqNo": "THTTRUUSJREQ185986EXTERNALENUS",
-    "postedDate": "2025-05-12T00:00:00.000+0000",
-    "dateCreated": "2025-04-01T08:39:03.194+0000",
-    "cityStateCountry": "Bengaluru, Karnataka, India",
-    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/Multimedia-News-Producer_JREQ185986/apply",
-    "location": "Bengaluru, Karnataka, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "We need producers who can think on their feet, and value accuracy and speed. You're a fit for the role of Multimedia News Producer if your background includes. Impeccable writing Strong news judgement...",
-      "descriptionTeaser_first200": "Multimedia News Producer. Are you a journalist who desires to be part of a news production team that can reach millions of readers in a matter of seconds? Digital Desk at Reuters in Bangalore does ...",
-      "descriptionTeaser_keyword": "Multimedia News Producer. Are you a journalist who desires to be part of a news production team that can reach millions of readers in a matter of seconds? Digital Desk at Reuters in Bangalore does exa...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 77.708722,
-          "lat": 12.9776035
-        },
-        "location": "Bengaluru, Karnataka, India"
       }
     ],
     "isMultiCategory": true,
