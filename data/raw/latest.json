@@ -70,6 +70,72 @@
     "badge": ""
   },
   {
+    "cityState": "Moscow",
+    "country": "Russian Federation",
+    "ml_skills": [
+      "photography",
+      "visual storytelling",
+      "storytelling",
+      "russian",
+      "video editing",
+      "english language"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Work on day-to-day news coverage and react fast to breaking news stories as part of the Russia Pictures team. Work alongside colleagues from Text and Video to help create a truly unified newsgathering...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "37.6175753",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ191496",
+    "jobId": "JREQ191496",
+    "city": "Moscow",
+    "latitude": "55.7618924",
+    "locale": "en_US",
+    "multi_location": [
+      "Moscow, Russian Federation"
+    ],
+    "title": "Photojournalist - Reuters",
+    "jobSeqNo": "THTTRUUSJREQ191496EXTERNALENUS",
+    "postedDate": "2025-05-22T00:00:00.000+0000",
+    "dateCreated": "2025-05-22T16:42:23.612+0000",
+    "cityStateCountry": "Moscow, Russian Federation",
+    "address": "5 Petrovka street, Berlin Haus Business Centre, Moscow, 107031, Russian Federation",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/RUS-Moscow-5-Petrovka-Street/Photojournalist---Reuters_JREQ191496/apply",
+    "location": "Moscow, Russian Federation",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Work on day-to-day news coverage and react fast to breaking news stories as part of the Russia Pictures team. Work alongside colleagues from Text and Video to help create a truly unified newsgathering...",
+      "descriptionTeaser_first200": "Photojournalist - Reuters. We expect the successful candidate to be based in Moscow. Reuters is looking for a talented Photojournalist to join the team in our bureau in Moscow. We are looking for a...",
+      "descriptionTeaser_keyword": "Photojournalist - Reuters. We expect the successful candidate to be based in Moscow. Reuters is looking for a talented Photojournalist to join the team in our bureau in Moscow. We are looking for a te...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 37.6175753,
+          "lat": 55.7618924
+        },
+        "location": "Moscow, Russian Federation"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Manila",
     "country": "Philippines",
     "remote": "Hybrid",
