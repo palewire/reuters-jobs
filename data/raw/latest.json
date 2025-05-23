@@ -1,5 +1,233 @@
 [
   {
+    "cityState": "Gothenburg",
+    "country": "Sweden",
+    "ml_skills": [
+      "erp",
+      "managed services",
+      "e-invoicing",
+      "business cases",
+      "french",
+      "data integration",
+      "collaborate",
+      "mandarin"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Are you looking for an opportunity to drive global regulatory compliance in e-invoicing and tax technology? You'll analyze market requirements, create compliance content, and collaborate across teams while addressing stakeholder queries. Ideal candidates are fluent in English, possess relevant academic backgrounds, and have strong communication skills.",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "11.962773",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ189266",
+    "jobId": "JREQ189266",
+    "city": "Gothenburg",
+    "latitude": "57.7053919",
+    "locale": "en_US",
+    "multi_location": [
+      "Gothenburg, Sweden",
+      "Brussels, Belgium",
+      "Prague, Czechia",
+      "Berlin, Germany",
+      "Oberhausen, Germany",
+      "Madrid, Spain",
+      "Madrid, Spain",
+      "Madrid, Spain",
+      "Paris, France",
+      "Paris, France",
+      "London, United Kingdom",
+      "London, United Kingdom",
+      "Athens, Greece",
+      "Budapest, Hungary",
+      "Budapest, Budapest, Hungary",
+      "Gdansk, Poland",
+      "Warsaw, Poland",
+      "Lisbon, Lisbon, Portugal",
+      "Lisbon, Lisbon, Portugal",
+      "Bucharest, Romania",
+      "Kyiv, Kyiv, Ukraine"
+    ],
+    "title": "Regulatory Associate",
+    "jobSeqNo": "THTTRUUSJREQ189266EXTERNALENUS",
+    "postedDate": "2025-05-23T00:00:00.000+0000",
+    "dateCreated": "2025-05-12T12:37:23.933+0000",
+    "cityStateCountry": "Gothenburg, Sweden",
+    "address": "V\u00e4stra Hamngatan 1, 411 17 Gothenburg, Sweden",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/SWE-Gothenburg-Vastra-Hamngatan-1/Regulatory-Associate_JREQ189266/apply",
+    "location": "Gothenburg, Sweden",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Are you looking for an opportunity to drive global regulatory compliance in e-invoicing and tax technology? You'll analyze market requirements, create compliance content, and collaborate across teams while addressing stakeholder queries. Ideal candidates are fluent in English, possess relevant academic backgrounds, and have strong communication skills.",
+      "descriptionTeaser_first200": "Are you ready to tackle the complexities of global regulatory compliance and drive innovation in e-invoicing and tax technology? As a member of the Regulatory Affairs team, you can be a part of our jo...",
+      "descriptionTeaser_keyword": "Are you ready to tackle the complexities of global regulatory compliance and drive innovation in e-invoicing and tax technology? As a member of the Regulatory Affairs team, you can be a part of our jo...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 11.962773,
+          "lat": 57.7053919
+        },
+        "location": "Gothenburg, Sweden"
+      },
+      {
+        "latlong": {
+          "lon": 4.3640587,
+          "lat": 50.8389779
+        },
+        "location": "Brussels, Belgium"
+      },
+      {
+        "latlong": {
+          "lon": 14.41883,
+          "lat": 50.08259229999999
+        },
+        "location": "Prague, Czechia"
+      },
+      {
+        "latlong": {
+          "lon": 13.3754011,
+          "lat": 52.5109307
+        },
+        "location": "Berlin, Germany"
+      },
+      {
+        "latlong": {
+          "lon": 6.873727499999999,
+          "lat": 51.4869006
+        },
+        "location": "Oberhausen, Germany"
+      },
+      {
+        "latlong": {
+          "lon": -3.7032569,
+          "lat": 40.4304869
+        },
+        "location": "Madrid, Spain"
+      },
+      {
+        "latlong": {
+          "lon": -3.6798774,
+          "lat": 40.4371514
+        },
+        "location": "Madrid, Spain"
+      },
+      {
+        "latlong": {
+          "lon": -3.6914081,
+          "lat": 40.4244892
+        },
+        "location": "Madrid, Spain"
+      },
+      {
+        "latlong": {
+          "lon": 2.3315849,
+          "lat": 48.8678008
+        },
+        "location": "Paris, France"
+      },
+      {
+        "latlong": {
+          "lon": 2.3364006,
+          "lat": 48.8705434
+        },
+        "location": "Paris, France"
+      },
+      {
+        "latlong": {
+          "lon": -0.0185088,
+          "lat": 51.5056439
+        },
+        "location": "London, United Kingdom"
+      },
+      {
+        "latlong": {
+          "lon": -0.0928853,
+          "lat": 51.5109795
+        },
+        "location": "London, United Kingdom"
+      },
+      {
+        "latlong": {
+          "lon": 23.7348211,
+          "lat": 37.97486660000001
+        },
+        "location": "Athens, Greece"
+      },
+      {
+        "latlong": {
+          "lon": 19.0232308,
+          "lat": 47.4193401
+        },
+        "location": "Budapest, Hungary"
+      },
+      {
+        "latlong": {
+          "lon": 19.0489757,
+          "lat": 47.47502249999999
+        },
+        "location": "Budapest, Budapest, Hungary"
+      },
+      {
+        "latlong": {
+          "lon": 18.5757343,
+          "lat": 54.400578
+        },
+        "location": "Gdansk, Poland"
+      },
+      {
+        "latlong": {
+          "lon": 20.9925648,
+          "lat": 52.2326267
+        },
+        "location": "Warsaw, Poland"
+      },
+      {
+        "latlong": {
+          "lon": -9.1426987,
+          "lat": 38.7328862
+        },
+        "location": "Lisbon, Lisbon, Portugal"
+      },
+      {
+        "latlong": {
+          "lon": -9.1489136,
+          "lat": 38.7258502
+        },
+        "location": "Lisbon, Lisbon, Portugal"
+      },
+      {
+        "latlong": {
+          "lon": 26.1008858,
+          "lat": 44.4410816
+        },
+        "location": "Bucharest, Romania"
+      },
+      {
+        "latlong": {
+          "lon": 30.5245025,
+          "lat": 50.4503596
+        },
+        "location": "Kyiv, Kyiv, Ukraine"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Beijing, Beijing",
     "country": "China",
     "ml_skills": [
@@ -2242,258 +2470,6 @@
           "lat": 33.1073049
         },
         "location": "Frisco, Texas, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Gothenburg",
-    "country": "Sweden",
-    "ml_skills": [
-      "erp",
-      "managed services",
-      "e-invoicing",
-      "business cases",
-      "french",
-      "data integration",
-      "collaborate",
-      "mandarin"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Are you looking for an opportunity to drive global regulatory compliance in e-invoicing and tax technology? You'll analyze market requirements, create compliance content, and collaborate across teams while addressing stakeholder queries. Ideal candidates are fluent in English, possess relevant academic backgrounds, and have strong communication skills.",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "11.962773",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ189266",
-    "jobId": "JREQ189266",
-    "city": "Gothenburg",
-    "latitude": "57.7053919",
-    "locale": "en_US",
-    "multi_location": [
-      "Gothenburg, Sweden",
-      "Brussels, Belgium",
-      "Prague, Czechia",
-      "Berlin, Germany",
-      "Oberhausen, Germany",
-      "Madrid, Spain",
-      "Madrid, Spain",
-      "Madrid, Spain",
-      "Paris, France",
-      "Paris, France",
-      "London, United Kingdom",
-      "London, United Kingdom",
-      "Athens, Greece",
-      "Budapest, Hungary",
-      "Budapest, Budapest, Hungary",
-      "Gdansk, Poland",
-      "Warsaw, Poland",
-      "Lisbon, Lisbon, Portugal",
-      "Lisbon, Lisbon, Portugal",
-      "Bucharest, Romania",
-      "Kyiv, Kyiv, Ukraine",
-      "Dallas, Texas, United States of America",
-      "Frisco, Texas, United States of America",
-      "Minneapolis, Minnesota, United States of America"
-    ],
-    "title": "Regulatory Associate",
-    "jobSeqNo": "THTTRUUSJREQ189266EXTERNALENUS",
-    "postedDate": "2025-05-12T00:00:00.000+0000",
-    "dateCreated": "2025-05-12T12:37:23.933+0000",
-    "cityStateCountry": "Gothenburg, Sweden",
-    "address": "V\u00e4stra Hamngatan 1, 411 17 Gothenburg, Sweden",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/SWE-Gothenburg-Vastra-Hamngatan-1/Regulatory-Associate_JREQ189266/apply",
-    "location": "Gothenburg, Sweden",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Are you looking for an opportunity to drive global regulatory compliance in e-invoicing and tax technology? You'll analyze market requirements, create compliance content, and collaborate across teams while addressing stakeholder queries. Ideal candidates are fluent in English, possess relevant academic backgrounds, and have strong communication skills.",
-      "descriptionTeaser_first200": "Are you ready to tackle the complexities of global regulatory compliance and drive innovation in e-invoicing and tax technology? As a member of the Regulatory Affairs team, you can be a part of our jo...",
-      "descriptionTeaser_keyword": "Are you ready to tackle the complexities of global regulatory compliance and drive innovation in e-invoicing and tax technology? As a member of the Regulatory Affairs team, you can be a part of our jo...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 11.962773,
-          "lat": 57.7053919
-        },
-        "location": "Gothenburg, Sweden"
-      },
-      {
-        "latlong": {
-          "lon": 4.3640587,
-          "lat": 50.8389779
-        },
-        "location": "Brussels, Belgium"
-      },
-      {
-        "latlong": {
-          "lon": 14.41883,
-          "lat": 50.08259229999999
-        },
-        "location": "Prague, Czechia"
-      },
-      {
-        "latlong": {
-          "lon": 13.3754011,
-          "lat": 52.5109307
-        },
-        "location": "Berlin, Germany"
-      },
-      {
-        "latlong": {
-          "lon": 6.873727499999999,
-          "lat": 51.4869006
-        },
-        "location": "Oberhausen, Germany"
-      },
-      {
-        "latlong": {
-          "lon": -3.7032569,
-          "lat": 40.4304869
-        },
-        "location": "Madrid, Spain"
-      },
-      {
-        "latlong": {
-          "lon": -3.6798774,
-          "lat": 40.4371514
-        },
-        "location": "Madrid, Spain"
-      },
-      {
-        "latlong": {
-          "lon": -3.6914081,
-          "lat": 40.4244892
-        },
-        "location": "Madrid, Spain"
-      },
-      {
-        "latlong": {
-          "lon": 2.3315849,
-          "lat": 48.8678008
-        },
-        "location": "Paris, France"
-      },
-      {
-        "latlong": {
-          "lon": 2.3364006,
-          "lat": 48.8705434
-        },
-        "location": "Paris, France"
-      },
-      {
-        "latlong": {
-          "lon": -0.0185088,
-          "lat": 51.5056439
-        },
-        "location": "London, United Kingdom"
-      },
-      {
-        "latlong": {
-          "lon": -0.0928853,
-          "lat": 51.5109795
-        },
-        "location": "London, United Kingdom"
-      },
-      {
-        "latlong": {
-          "lon": 23.7348211,
-          "lat": 37.97486660000001
-        },
-        "location": "Athens, Greece"
-      },
-      {
-        "latlong": {
-          "lon": 19.0232308,
-          "lat": 47.4193401
-        },
-        "location": "Budapest, Hungary"
-      },
-      {
-        "latlong": {
-          "lon": 19.0489757,
-          "lat": 47.47502249999999
-        },
-        "location": "Budapest, Budapest, Hungary"
-      },
-      {
-        "latlong": {
-          "lon": 18.5757343,
-          "lat": 54.400578
-        },
-        "location": "Gdansk, Poland"
-      },
-      {
-        "latlong": {
-          "lon": 20.9925648,
-          "lat": 52.2326267
-        },
-        "location": "Warsaw, Poland"
-      },
-      {
-        "latlong": {
-          "lon": -9.1426987,
-          "lat": 38.7328862
-        },
-        "location": "Lisbon, Lisbon, Portugal"
-      },
-      {
-        "latlong": {
-          "lon": -9.1489136,
-          "lat": 38.7258502
-        },
-        "location": "Lisbon, Lisbon, Portugal"
-      },
-      {
-        "latlong": {
-          "lon": 26.1008858,
-          "lat": 44.4410816
-        },
-        "location": "Bucharest, Romania"
-      },
-      {
-        "latlong": {
-          "lon": 30.5245025,
-          "lat": 50.4503596
-        },
-        "location": "Kyiv, Kyiv, Ukraine"
-      },
-      {
-        "latlong": {
-          "lon": -96.82291699999999,
-          "lat": 33.083351
-        },
-        "location": "Dallas, Texas, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -96.833545,
-          "lat": 33.1073049
-        },
-        "location": "Frisco, Texas, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -93.27801439999999,
-          "lat": 44.987962
-        },
-        "location": "Minneapolis, Minnesota, United States of America"
       }
     ],
     "isMultiCategory": true,

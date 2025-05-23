@@ -1,5 +1,694 @@
 [
   {
+    "cityState": "Gothenburg",
+    "country": "Sweden",
+    "ml_skills": [
+      "erp",
+      "managed services",
+      "e-invoicing",
+      "business cases",
+      "french",
+      "data integration",
+      "collaborate",
+      "mandarin"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Are you looking for an opportunity to drive global regulatory compliance in e-invoicing and tax technology? You'll analyze market requirements, create compliance content, and collaborate across teams while addressing stakeholder queries. Ideal candidates are fluent in English, possess relevant academic backgrounds, and have strong communication skills.",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "11.962773",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ189266",
+    "jobId": "JREQ189266",
+    "city": "Gothenburg",
+    "latitude": "57.7053919",
+    "locale": "en_US",
+    "multi_location": [
+      "Gothenburg, Sweden",
+      "Brussels, Belgium",
+      "Prague, Czechia",
+      "Berlin, Germany",
+      "Oberhausen, Germany",
+      "Madrid, Spain",
+      "Madrid, Spain",
+      "Madrid, Spain",
+      "Paris, France",
+      "Paris, France",
+      "London, United Kingdom",
+      "London, United Kingdom",
+      "Athens, Greece",
+      "Budapest, Hungary",
+      "Budapest, Budapest, Hungary",
+      "Gdansk, Poland",
+      "Warsaw, Poland",
+      "Lisbon, Lisbon, Portugal",
+      "Lisbon, Lisbon, Portugal",
+      "Bucharest, Romania",
+      "Kyiv, Kyiv, Ukraine"
+    ],
+    "title": "Regulatory Associate",
+    "jobSeqNo": "THTTRUUSJREQ189266EXTERNALENUS",
+    "postedDate": "2025-05-23T00:00:00.000+0000",
+    "dateCreated": "2025-05-12T12:37:23.933+0000",
+    "cityStateCountry": "Gothenburg, Sweden",
+    "address": "V\u00e4stra Hamngatan 1, 411 17 Gothenburg, Sweden",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/SWE-Gothenburg-Vastra-Hamngatan-1/Regulatory-Associate_JREQ189266/apply",
+    "location": "Gothenburg, Sweden",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Are you looking for an opportunity to drive global regulatory compliance in e-invoicing and tax technology? You'll analyze market requirements, create compliance content, and collaborate across teams while addressing stakeholder queries. Ideal candidates are fluent in English, possess relevant academic backgrounds, and have strong communication skills.",
+      "descriptionTeaser_first200": "Are you ready to tackle the complexities of global regulatory compliance and drive innovation in e-invoicing and tax technology? As a member of the Regulatory Affairs team, you can be a part of our jo...",
+      "descriptionTeaser_keyword": "Are you ready to tackle the complexities of global regulatory compliance and drive innovation in e-invoicing and tax technology? As a member of the Regulatory Affairs team, you can be a part of our jo...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 11.962773,
+          "lat": 57.7053919
+        },
+        "location": "Gothenburg, Sweden"
+      },
+      {
+        "latlong": {
+          "lon": 4.3640587,
+          "lat": 50.8389779
+        },
+        "location": "Brussels, Belgium"
+      },
+      {
+        "latlong": {
+          "lon": 14.41883,
+          "lat": 50.08259229999999
+        },
+        "location": "Prague, Czechia"
+      },
+      {
+        "latlong": {
+          "lon": 13.3754011,
+          "lat": 52.5109307
+        },
+        "location": "Berlin, Germany"
+      },
+      {
+        "latlong": {
+          "lon": 6.873727499999999,
+          "lat": 51.4869006
+        },
+        "location": "Oberhausen, Germany"
+      },
+      {
+        "latlong": {
+          "lon": -3.7032569,
+          "lat": 40.4304869
+        },
+        "location": "Madrid, Spain"
+      },
+      {
+        "latlong": {
+          "lon": -3.6798774,
+          "lat": 40.4371514
+        },
+        "location": "Madrid, Spain"
+      },
+      {
+        "latlong": {
+          "lon": -3.6914081,
+          "lat": 40.4244892
+        },
+        "location": "Madrid, Spain"
+      },
+      {
+        "latlong": {
+          "lon": 2.3315849,
+          "lat": 48.8678008
+        },
+        "location": "Paris, France"
+      },
+      {
+        "latlong": {
+          "lon": 2.3364006,
+          "lat": 48.8705434
+        },
+        "location": "Paris, France"
+      },
+      {
+        "latlong": {
+          "lon": -0.0185088,
+          "lat": 51.5056439
+        },
+        "location": "London, United Kingdom"
+      },
+      {
+        "latlong": {
+          "lon": -0.0928853,
+          "lat": 51.5109795
+        },
+        "location": "London, United Kingdom"
+      },
+      {
+        "latlong": {
+          "lon": 23.7348211,
+          "lat": 37.97486660000001
+        },
+        "location": "Athens, Greece"
+      },
+      {
+        "latlong": {
+          "lon": 19.0232308,
+          "lat": 47.4193401
+        },
+        "location": "Budapest, Hungary"
+      },
+      {
+        "latlong": {
+          "lon": 19.0489757,
+          "lat": 47.47502249999999
+        },
+        "location": "Budapest, Budapest, Hungary"
+      },
+      {
+        "latlong": {
+          "lon": 18.5757343,
+          "lat": 54.400578
+        },
+        "location": "Gdansk, Poland"
+      },
+      {
+        "latlong": {
+          "lon": 20.9925648,
+          "lat": 52.2326267
+        },
+        "location": "Warsaw, Poland"
+      },
+      {
+        "latlong": {
+          "lon": -9.1426987,
+          "lat": 38.7328862
+        },
+        "location": "Lisbon, Lisbon, Portugal"
+      },
+      {
+        "latlong": {
+          "lon": -9.1489136,
+          "lat": 38.7258502
+        },
+        "location": "Lisbon, Lisbon, Portugal"
+      },
+      {
+        "latlong": {
+          "lon": 26.1008858,
+          "lat": 44.4410816
+        },
+        "location": "Bucharest, Romania"
+      },
+      {
+        "latlong": {
+          "lon": 30.5245025,
+          "lat": 50.4503596
+        },
+        "location": "Kyiv, Kyiv, Ukraine"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Beijing, Beijing",
+    "country": "China",
+    "ml_skills": [
+      "mandarin",
+      "commodity markets"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Reuters is seeking an outstanding journalist with strong source-building skills, great story ideas and a track record of breaking news to join our team as China metals correspondent. The successful ca...",
+    "state": "Beijing",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "116.41197",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ191612",
+    "jobId": "JREQ191612",
+    "city": "Beijing",
+    "latitude": "39.90927",
+    "locale": "en_US",
+    "multi_location": [
+      "Beijing, Beijing, China",
+      "Shanghai, Shanghai, China"
+    ],
+    "title": "China Metals Correspondent",
+    "jobSeqNo": "THTTRUUSJREQ191612EXTERNALENUS",
+    "postedDate": "2025-05-22T00:00:00.000+0000",
+    "dateCreated": "2025-05-22T04:42:05.070+0000",
+    "cityStateCountry": "Beijing, Beijing, China",
+    "address": "Units 5-12, 18F / 20F, Office Tower E1 of Oriental Plaza, No.1, East Chang An Avenue, Dong Cheng District, Beijing, 100738 Beijing, China",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CHN-Beijing-Oriental-Plaza/China-Metals-Correspondent_JREQ191612/apply",
+    "location": "Beijing, Beijing, China",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Reuters is seeking an outstanding journalist with strong source-building skills, great story ideas and a track record of breaking news to join our team as China metals correspondent. The successful ca...",
+      "descriptionTeaser_first200": "China Metals Correspondent. Reuters is seeking an outstanding journalist with strong source-building skills, great story ideas and a track record of breaking news to join our team as China metals c...",
+      "descriptionTeaser_keyword": "China Metals Correspondent. Reuters is seeking an outstanding journalist with strong source-building skills, great story ideas and a track record of breaking news to join our team as China metals corr...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 116.41197,
+          "lat": 39.90927
+        },
+        "location": "Beijing, Beijing, China"
+      },
+      {
+        "latlong": {
+          "lon": 121.504161,
+          "lat": 31.24097799999999
+        },
+        "location": "Shanghai, Shanghai, China"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Moscow",
+    "country": "Russian Federation",
+    "ml_skills": [
+      "photography",
+      "visual storytelling",
+      "storytelling",
+      "russian",
+      "video editing",
+      "english language"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Work on day-to-day news coverage and react fast to breaking news stories as part of the Russia Pictures team. Work alongside colleagues from Text and Video to help create a truly unified newsgathering...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "37.6175753",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ191496",
+    "jobId": "JREQ191496",
+    "city": "Moscow",
+    "latitude": "55.7618924",
+    "locale": "en_US",
+    "multi_location": [
+      "Moscow, Russian Federation"
+    ],
+    "title": "Photojournalist - Reuters",
+    "jobSeqNo": "THTTRUUSJREQ191496EXTERNALENUS",
+    "postedDate": "2025-05-22T00:00:00.000+0000",
+    "dateCreated": "2025-05-22T16:42:23.612+0000",
+    "cityStateCountry": "Moscow, Russian Federation",
+    "address": "5 Petrovka street, Berlin Haus Business Centre, Moscow, 107031, Russian Federation",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/RUS-Moscow-5-Petrovka-Street/Photojournalist---Reuters_JREQ191496/apply",
+    "location": "Moscow, Russian Federation",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Work on day-to-day news coverage and react fast to breaking news stories as part of the Russia Pictures team. Work alongside colleagues from Text and Video to help create a truly unified newsgathering...",
+      "descriptionTeaser_first200": "Photojournalist - Reuters. We expect the successful candidate to be based in Moscow. Reuters is looking for a talented Photojournalist to join the team in our bureau in Moscow. We are looking for a...",
+      "descriptionTeaser_keyword": "Photojournalist - Reuters. We expect the successful candidate to be based in Moscow. Reuters is looking for a talented Photojournalist to join the team in our bureau in Moscow. We are looking for a te...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 37.6175753,
+          "lat": 55.7618924
+        },
+        "location": "Moscow, Russian Federation"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Manila",
+    "country": "Philippines",
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Research, write, and edit high-quality articles daily. Two or more years of recent experience related to U. Excellent writing and editing skills, with a keen eye for detail and accuracy. Experience in...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "121.0497015",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ191515",
+    "jobId": "JREQ191515",
+    "city": "Manila",
+    "latitude": "14.5348768",
+    "locale": "en_US",
+    "multi_location": [
+      "Manila, Philippines"
+    ],
+    "title": "CPA Editor",
+    "jobSeqNo": "THTTRUUSJREQ191515EXTERNALENUS",
+    "postedDate": "2025-05-22T00:00:00.000+0000",
+    "dateCreated": "2025-05-21T12:38:06.125+0000",
+    "cityStateCountry": "Manila, Philippines",
+    "address": "20 Upper McKinley Building, Upper McKinley Road, McKinley Hill, Manila, 1634, Philippines",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/PHL-Taguig-20-Upper-McKinley-Bldg/CPA-Enrolled-Agent-Editor_JREQ191515/apply",
+    "location": "Manila, Philippines",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "ml_skills": [
+      "accounting",
+      "income tax",
+      "pivot tables",
+      "proficient in excel"
+    ],
+    "ml_job_parser": {
+      "descriptionTeaser": "Research, write, and edit high-quality articles daily. Two or more years of recent experience related to U. Excellent writing and editing skills, with a keen eye for detail and accuracy. Experience in...",
+      "descriptionTeaser_keyword": "CPA Editor, Product - Research. About the role. In this opportunity, as CPA Editor, you will. Research, write, and edit high-quality articles daily. Prioritize concurrent projects to meet challenging...",
+      "descriptionTeaser_first200": "CPA Editor, Product - Research. About the role. In this opportunity, as CPA Editor, you will. Research, write, and edit high-quality articles daily. Prioritize concurrent projects to meet challengi...",
+      "descriptionTeaser_ats": ""
+    },
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 121.0497015,
+          "lat": 14.5348768
+        },
+        "location": "Manila, Philippines"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "London",
+    "country": "United Kingdom",
+    "ml_skills": [
+      "digital storytelling",
+      "storytelling",
+      "digital journalism",
+      "build",
+      "collaborate",
+      "developing"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Set the long term editorial direction for Reuters digital offerings with specific focus on developing content for consumer audiences across our websites, apps, mobile and social platforms. Substantial...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.0185088",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ191668",
+    "jobId": "JREQ191668",
+    "city": "London",
+    "latitude": "51.5056439",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom"
+    ],
+    "title": "Digital Director, Reuters",
+    "jobSeqNo": "THTTRUUSJREQ191668EXTERNALENUS",
+    "postedDate": "2025-05-21T00:00:00.000+0000",
+    "dateCreated": "2025-05-21T16:45:56.100+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Digital-Director--Reuters_JREQ191668/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Set the long term editorial direction for Reuters digital offerings with specific focus on developing content for consumer audiences across our websites, apps, mobile and social platforms. Substantial...",
+      "descriptionTeaser_first200": "Digital Director - Reuters. We expect the successful candidate to be based in our New York City bureau. Reuters are looking for a visionary digital leader to run our digital news team. Having recen...",
+      "descriptionTeaser_keyword": "Digital Director - Reuters. We expect the successful candidate to be based in our New York City bureau. Reuters are looking for a visionary digital leader to run our digital news team. Having recently...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.0185088,
+          "lat": 51.5056439
+        },
+        "location": "London, United Kingdom"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Bengaluru, Karnataka",
+    "country": "India",
+    "ml_skills": [
+      "english language"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "We are looking for an enthusiastic journalist with 1+ year of experience in caption editing and a keen eye for detail. Responsibilities include gathering and editing global images, writing accurate captions, and collaborating with a dynamic team to deliver timely multimedia news coverage. Flexibility for a 24/7 shift system is required.",
+    "state": "Karnataka",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "77.708722",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ188833",
+    "jobId": "JREQ188833",
+    "city": "Bengaluru",
+    "latitude": "12.9776035",
+    "locale": "en_US",
+    "multi_location": [
+      "Bengaluru, Karnataka, India"
+    ],
+    "title": "Associate Editor, Global Pictures Desk",
+    "jobSeqNo": "THTTRUUSJREQ188833EXTERNALENUS",
+    "postedDate": "2025-05-21T00:00:00.000+0000",
+    "dateCreated": "2025-05-16T08:44:56.915+0000",
+    "cityStateCountry": "Bengaluru, Karnataka, India",
+    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/Associate-Editor--Global-Pictures-Desk_JREQ188833/apply",
+    "location": "Bengaluru, Karnataka, India",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "We are looking for an enthusiastic journalist with 1+ year of experience in caption editing and a keen eye for detail. Responsibilities include gathering and editing global images, writing accurate captions, and collaborating with a dynamic team to deliver timely multimedia news coverage. Flexibility for a 24/7 shift system is required.",
+      "descriptionTeaser_first200": "Associate Editor, Global Pictures Desk. Reuters is looking for an enthusiastic and globally minded journalist with strong English and a sharp eye for detail who can effortlessly sift through the thous...",
+      "descriptionTeaser_keyword": "Associate Editor, Global Pictures Desk. Reuters is looking for an enthusiastic and globally minded journalist with strong English and a sharp eye for detail who can effortlessly sift through the thous...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 77.708722,
+          "lat": 12.9776035
+        },
+        "location": "Bengaluru, Karnataka, India"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Shanghai, Shanghai",
+    "country": "China",
+    "ml_skills": [
+      "diplomacy",
+      "mandarin"
+    ],
+    "remote": "On-Site",
+    "type": "Full time",
+    "descriptionTeaser": "Reuters is looking for an energetic Researcher with strong news judgement to join our team in Shanghai. The Shanghai Researcher will work closely with the text, video and photo teams in Shanghai and S...",
+    "state": "Shanghai",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "121.504161",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ190760",
+    "jobId": "JREQ190760",
+    "city": "Shanghai",
+    "latitude": "31.24097799999999",
+    "locale": "en_US",
+    "multi_location": [
+      "Shanghai, Shanghai, China"
+    ],
+    "title": "Researcher, Shanghai Bureau",
+    "jobSeqNo": "THTTRUUSJREQ190760EXTERNALENUS",
+    "postedDate": "2025-05-21T00:00:00.000+0000",
+    "dateCreated": "2025-05-20T08:45:16.167+0000",
+    "cityStateCountry": "Shanghai, Shanghai, China",
+    "address": "Azia Centre, 11F, Unit 1105A & 1106, No. 1233 Lujiazui Ring Rd, Pudong, Shanghai, 200120 Shanghai, China",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CHN-Shanghai-Azia-Centre/Researcher--Shanghai-Bureau_JREQ190760/apply",
+    "location": "Shanghai, Shanghai, China",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Reuters is looking for an energetic Researcher with strong news judgement to join our team in Shanghai. The Shanghai Researcher will work closely with the text, video and photo teams in Shanghai and S...",
+      "descriptionTeaser_first200": "Researcher, Shanghai Bureau . Reuters is looking for an energetic Researcher with strong news judgement to join our team in Shanghai. The Shanghai Researcher will work closely with the text, video ...",
+      "descriptionTeaser_keyword": "Researcher, Shanghai Bureau. Reuters is looking for an energetic Researcher with strong news judgement to join our team in Shanghai. The Shanghai Researcher will work closely with the text, video and...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 121.504161,
+          "lat": 31.24097799999999
+        },
+        "location": "Shanghai, Shanghai, China"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Mumbai, Maharashtra",
+    "country": "India",
+    "ml_skills": [
+      "excel",
+      "microsoft suites",
+      "applicant tracking systems",
+      "talent acquisition"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "The role involves writing short pieces of news daily, tracking and researching on key news and developments within the legal market in Asia and beyond, helping in managing the website and social media...",
+    "state": "Maharashtra",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "72.8651798",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ191090",
+    "jobId": "JREQ191090",
+    "city": "Mumbai",
+    "latitude": "19.0581602",
+    "locale": "en_US",
+    "multi_location": [
+      "Mumbai, Maharashtra, India",
+      "Bengaluru, Karnataka, India"
+    ],
+    "title": "Asia Writer",
+    "jobSeqNo": "THTTRUUSJREQ191090EXTERNALENUS",
+    "postedDate": "2025-05-21T00:00:00.000+0000",
+    "dateCreated": "2025-05-21T09:03:00.946+0000",
+    "cityStateCountry": "Mumbai, Maharashtra, India",
+    "address": "Office No. B101, level 15,, WeWork Enam Sambhav, G Block, C-20, Bandra Kurla Complex,, Mumbai- 400051, Maharashtra, India",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Mumbai-Bandra-Kurla-Complex/Asia-Writer_JREQ191090/apply",
+    "location": "Mumbai, Maharashtra, India",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "The role involves writing short pieces of news daily, tracking and researching on key news and developments within the legal market in Asia and beyond, helping in managing the website and social media...",
+      "descriptionTeaser_first200": "Summary. Thomson Reuters is seeking a writer based in Mumbai or Bengaluru for its market-leading legal magazine, Asian Legal Business (ALB) and website www.legalbusinessonline. The role involves wr...",
+      "descriptionTeaser_keyword": "Summary. Thomson Reuters is seeking a writer based in Mumbai or Bengaluru for its market-leading legal magazine, Asian Legal Business (ALB) and website www. legalbusinessonline. The role involves writ...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 72.8651798,
+          "lat": 19.0581602
+        },
+        "location": "Mumbai, Maharashtra, India"
+      },
+      {
+        "latlong": {
+          "lon": 77.708722,
+          "lat": 12.9776035
+        },
+        "location": "Bengaluru, Karnataka, India"
+      }
+    ],
+    "isMultiCategory": true,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "New York, New York",
     "country": "United States of America",
     "ml_skills": [
@@ -265,68 +954,6 @@
     "badge": ""
   },
   {
-    "cityState": "Shanghai, Shanghai",
-    "country": "China",
-    "ml_skills": [
-      "diplomacy",
-      "mandarin"
-    ],
-    "remote": "On-Site",
-    "type": "Full time",
-    "descriptionTeaser": "Reuters is looking for an energetic Researcher with strong news judgement to join our team in Shanghai. The Shanghai Researcher will work closely with the text, video and photo teams in Shanghai and S...",
-    "state": "Shanghai",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "121.504161",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ190760",
-    "jobId": "JREQ190760",
-    "city": "Shanghai",
-    "latitude": "31.24097799999999",
-    "locale": "en_US",
-    "multi_location": [
-      "Shanghai, Shanghai, China"
-    ],
-    "title": "Researcher, Shanghai Bureau",
-    "jobSeqNo": "THTTRUUSJREQ190760EXTERNALENUS",
-    "postedDate": "2025-05-20T00:00:00.000+0000",
-    "dateCreated": "2025-05-20T08:45:16.167+0000",
-    "cityStateCountry": "Shanghai, Shanghai, China",
-    "address": "Azia Centre, 11F, Unit 1105A & 1106, No. 1233 Lujiazui Ring Rd, Pudong, Shanghai, 200120 Shanghai, China",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CHN-Shanghai-Azia-Centre/Researcher--Shanghai-Bureau_JREQ190760/apply",
-    "location": "Shanghai, Shanghai, China",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Reuters is looking for an energetic Researcher with strong news judgement to join our team in Shanghai. The Shanghai Researcher will work closely with the text, video and photo teams in Shanghai and S...",
-      "descriptionTeaser_first200": "Researcher, Shanghai Bureau . Reuters is looking for an energetic Researcher with strong news judgement to join our team in Shanghai. The Shanghai Researcher will work closely with the text, video ...",
-      "descriptionTeaser_keyword": "Researcher, Shanghai Bureau. Reuters is looking for an energetic Researcher with strong news judgement to join our team in Shanghai. The Shanghai Researcher will work closely with the text, video and...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 121.504161,
-          "lat": 31.24097799999999
-        },
-        "location": "Shanghai, Shanghai, China"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "",
     "country": "Korea, Republic of",
     "ml_skills": [
@@ -378,78 +1005,6 @@
           "lat": 37.5697244
         },
         "location": "Korea, Republic of"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Auckland",
-    "country": "New Zealand",
-    "ml_skills": [
-      "legal research",
-      "case law",
-      "legal research skills",
-      "time management skills"
-    ],
-    "remote": "Remote",
-    "type": "Part time",
-    "descriptionTeaser": "To be successful in the role you will love legal research, editing, writing, and possess a high degree of attention to detail. Maintain and develop legal knowledge and skills training as required to c...",
-    "state": "",
-    "visibilityType": "External",
-    "longitude": "174.7497687",
-    "siteType": "external",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ188681",
-    "jobId": "JREQ188681",
-    "city": "Auckland",
-    "latitude": "-36.848623",
-    "locale": "en_US",
-    "multi_location": [
-      "Auckland, New Zealand",
-      "Wellington, New Zealand"
-    ],
-    "title": "Casual Legal Editor",
-    "jobSeqNo": "THTTRUUSJREQ188681EXTERNALENUS",
-    "postedDate": "2025-05-19T00:00:00.000+0000",
-    "dateCreated": "2025-04-16T00:40:34.243+0000",
-    "cityStateCountry": "Auckland, New Zealand",
-    "address": "16 College Hill, Ponsonby, Auckland 1144, New Zealand",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/NZL-Auckland-Fosters-House/Casual-Legal-Editor_JREQ188681/apply",
-    "location": "Auckland, New Zealand",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "To be successful in the role you will love legal research, editing, writing, and possess a high degree of attention to detail. Maintain and develop legal knowledge and skills training as required to c...",
-      "descriptionTeaser_first200": "Do you love legal research, editing and writing? We are looking for a diligent Legal Editor (Casual) to join our team of experienced editors and work collaboratively in a team with a strong work et...",
-      "descriptionTeaser_keyword": "Do you love legal research, editing and writing? We are looking for a diligent Legal Editor (Casual) to join our team of experienced editors and work collaboratively in a team with a strong work ethic...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 174.7497687,
-          "lat": -36.848623
-        },
-        "location": "Auckland, New Zealand"
-      },
-      {
-        "latlong": {
-          "lon": 174.7743618,
-          "lat": -41.2859199
-        },
-        "location": "Wellington, New Zealand"
       }
     ],
     "isMultiCategory": true,
@@ -647,129 +1202,6 @@
           "lat": -33.8664391
         },
         "location": "Pyrmont, New South Wales, Australia"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Bengaluru, Karnataka",
-    "country": "India",
-    "ml_skills": [
-      "english language"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "We are looking for an enthusiastic journalist with 1+ year of experience in caption editing and a keen eye for detail. Responsibilities include gathering and editing global images, writing accurate captions, and collaborating with a dynamic team to deliver timely multimedia news coverage. Flexibility for a 24/7 shift system is required.",
-    "state": "Karnataka",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "77.708722",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ188833",
-    "jobId": "JREQ188833",
-    "city": "Bengaluru",
-    "latitude": "12.9776035",
-    "locale": "en_US",
-    "multi_location": [
-      "Bengaluru, Karnataka, India"
-    ],
-    "title": "Associate Editor, Global Pictures Desk",
-    "jobSeqNo": "THTTRUUSJREQ188833EXTERNALENUS",
-    "postedDate": "2025-05-16T00:00:00.000+0000",
-    "dateCreated": "2025-05-16T08:44:56.915+0000",
-    "cityStateCountry": "Bengaluru, Karnataka, India",
-    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/Associate-Editor--Global-Pictures-Desk_JREQ188833/apply",
-    "location": "Bengaluru, Karnataka, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "We are looking for an enthusiastic journalist with 1+ year of experience in caption editing and a keen eye for detail. Responsibilities include gathering and editing global images, writing accurate captions, and collaborating with a dynamic team to deliver timely multimedia news coverage. Flexibility for a 24/7 shift system is required.",
-      "descriptionTeaser_first200": "Associate Editor, Global Pictures Desk. Reuters is looking for an enthusiastic and globally minded journalist with strong English and a sharp eye for detail who can effortlessly sift through the thous...",
-      "descriptionTeaser_keyword": "Associate Editor, Global Pictures Desk. Reuters is looking for an enthusiastic and globally minded journalist with strong English and a sharp eye for detail who can effortlessly sift through the thous...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 77.708722,
-          "lat": 12.9776035
-        },
-        "location": "Bengaluru, Karnataka, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Hyderabad, Telangana",
-    "country": "India",
-    "ml_skills": [
-      "accounting",
-      "troubleshoot"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Seeking a detail-oriented and creative professional with a minimum of 2 years' experience to design and deliver legal and tax forms. Responsibilities include ensuring compliance, troubleshooting issues, enhancing functionality, and maintaining high-quality standards. Strong communication skills and attention to detail are essential for success in this role.",
-    "state": "Telangana",
-    "visibilityType": "External",
-    "longitude": "78.38589340000001",
-    "siteType": "external",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ183542",
-    "jobId": "JREQ183542",
-    "city": "Hyderabad",
-    "latitude": "17.4367243",
-    "locale": "en_US",
-    "multi_location": [
-      "Hyderabad, Telangana, India"
-    ],
-    "title": "Process Associate - Tax Forms",
-    "jobSeqNo": "THTTRUUSJREQ183542EXTERNALENUS",
-    "postedDate": "2025-05-15T00:00:00.000+0000",
-    "dateCreated": "2025-04-03T16:38:57.580+0000",
-    "cityStateCountry": "Hyderabad, Telangana, India",
-    "address": "Floor 12, 13 & 14, Building 11, Raheja Mindspace, Madhapur, Hyderabad- 500081, Telangana, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Hyderabad-Raheja-Mindspace/Process-Associate_JREQ183542/apply",
-    "location": "Hyderabad, Telangana, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Seeking a detail-oriented and creative professional with a minimum of 2 years' experience to design and deliver legal and tax forms. Responsibilities include ensuring compliance, troubleshooting issues, enhancing functionality, and maintaining high-quality standards. Strong communication skills and attention to detail are essential for success in this role.",
-      "descriptionTeaser_first200": "We are seeking a detail-oriented and creative individual to design, create, and deliver legal and tax forms for various media platforms. The ideal candidate will ensure that all forms comply with spec...",
-      "descriptionTeaser_keyword": "We are seeking a detail-oriented and creative individual to design, create, and deliver legal and tax forms for various media platforms. The ideal candidate will ensure that all forms comply with spec...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 78.38589340000001,
-          "lat": 17.4367243
-        },
-        "location": "Hyderabad, Telangana, India"
       }
     ],
     "isMultiCategory": true,
@@ -2049,320 +2481,6 @@
     "badge": ""
   },
   {
-    "cityState": "Hyderabad, Telangana",
-    "country": "India",
-    "ml_skills": [
-      "harmonized tariff schedule",
-      "customs regulations"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Are you experienced in global trade content and customs regulations? Join a dynamic team where you'll research and compile Harmonized Tariff Schedule data, interpret legislation, and ensure quality assurance. Strong analytical skills, attention to detail, and proficiency in MS Excel are essential for success in this role.",
-    "state": "Telangana",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "78.38589340000001",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ191197",
-    "jobId": "JREQ191197",
-    "city": "Hyderabad",
-    "latitude": "17.4367243",
-    "locale": "en_US",
-    "multi_location": [
-      "Hyderabad, Telangana, India"
-    ],
-    "title": "Analyst - Global Trade Content",
-    "jobSeqNo": "THTTRUUSJREQ191197EXTERNALENUS",
-    "postedDate": "2025-05-12T00:00:00.000+0000",
-    "dateCreated": "2025-05-12T08:45:27.332+0000",
-    "cityStateCountry": "Hyderabad, Telangana, India",
-    "address": "Floor 12, 13 & 14, Building 11, Raheja Mindspace, Madhapur, Hyderabad- 500081, Telangana, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Hyderabad-Raheja-Mindspace/Analyst---GTC---International-Trade---Logistics_JREQ191197/apply",
-    "location": "Hyderabad, Telangana, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Are you experienced in global trade content and customs regulations? Join a dynamic team where you'll research and compile Harmonized Tariff Schedule data, interpret legislation, and ensure quality assurance. Strong analytical skills, attention to detail, and proficiency in MS Excel are essential for success in this role.",
-      "descriptionTeaser_first200": "The Analyst \u2013 Global Trade Content is responsible for the accurate compilation and in-depth understanding of Harmonized Tariff Schedule (HS) Tariff with a focus on sourcing, verification, conversion,...",
-      "descriptionTeaser_keyword": "The Analyst \u2013 Global Trade Content is responsible for the accurate compilation and in-depth understanding of Harmonized Tariff Schedule (HS) Tariff with a focus on sourcing, verification, conversion,...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 78.38589340000001,
-          "lat": 17.4367243
-        },
-        "location": "Hyderabad, Telangana, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Gothenburg",
-    "country": "Sweden",
-    "ml_skills": [
-      "erp",
-      "managed services",
-      "e-invoicing",
-      "business cases",
-      "french",
-      "data integration",
-      "collaborate",
-      "mandarin"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Are you looking for an opportunity to drive global regulatory compliance in e-invoicing and tax technology? You'll analyze market requirements, create compliance content, and collaborate across teams while addressing stakeholder queries. Ideal candidates are fluent in English, possess relevant academic backgrounds, and have strong communication skills.",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "11.962773",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ189266",
-    "jobId": "JREQ189266",
-    "city": "Gothenburg",
-    "latitude": "57.7053919",
-    "locale": "en_US",
-    "multi_location": [
-      "Gothenburg, Sweden",
-      "Brussels, Belgium",
-      "Prague, Czechia",
-      "Berlin, Germany",
-      "Oberhausen, Germany",
-      "Madrid, Spain",
-      "Madrid, Spain",
-      "Madrid, Spain",
-      "Paris, France",
-      "Paris, France",
-      "London, United Kingdom",
-      "London, United Kingdom",
-      "Athens, Greece",
-      "Budapest, Hungary",
-      "Budapest, Budapest, Hungary",
-      "Gdansk, Poland",
-      "Warsaw, Poland",
-      "Lisbon, Lisbon, Portugal",
-      "Lisbon, Lisbon, Portugal",
-      "Bucharest, Romania",
-      "Kyiv, Kyiv, Ukraine",
-      "Dallas, Texas, United States of America",
-      "Frisco, Texas, United States of America",
-      "Minneapolis, Minnesota, United States of America"
-    ],
-    "title": "Regulatory Associate",
-    "jobSeqNo": "THTTRUUSJREQ189266EXTERNALENUS",
-    "postedDate": "2025-05-12T00:00:00.000+0000",
-    "dateCreated": "2025-05-12T12:37:23.933+0000",
-    "cityStateCountry": "Gothenburg, Sweden",
-    "address": "V\u00e4stra Hamngatan 1, 411 17 Gothenburg, Sweden",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/SWE-Gothenburg-Vastra-Hamngatan-1/Regulatory-Associate_JREQ189266/apply",
-    "location": "Gothenburg, Sweden",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Are you looking for an opportunity to drive global regulatory compliance in e-invoicing and tax technology? You'll analyze market requirements, create compliance content, and collaborate across teams while addressing stakeholder queries. Ideal candidates are fluent in English, possess relevant academic backgrounds, and have strong communication skills.",
-      "descriptionTeaser_first200": "Are you ready to tackle the complexities of global regulatory compliance and drive innovation in e-invoicing and tax technology? As a member of the Regulatory Affairs team, you can be a part of our jo...",
-      "descriptionTeaser_keyword": "Are you ready to tackle the complexities of global regulatory compliance and drive innovation in e-invoicing and tax technology? As a member of the Regulatory Affairs team, you can be a part of our jo...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 11.962773,
-          "lat": 57.7053919
-        },
-        "location": "Gothenburg, Sweden"
-      },
-      {
-        "latlong": {
-          "lon": 4.3640587,
-          "lat": 50.8389779
-        },
-        "location": "Brussels, Belgium"
-      },
-      {
-        "latlong": {
-          "lon": 14.41883,
-          "lat": 50.08259229999999
-        },
-        "location": "Prague, Czechia"
-      },
-      {
-        "latlong": {
-          "lon": 13.3754011,
-          "lat": 52.5109307
-        },
-        "location": "Berlin, Germany"
-      },
-      {
-        "latlong": {
-          "lon": 6.873727499999999,
-          "lat": 51.4869006
-        },
-        "location": "Oberhausen, Germany"
-      },
-      {
-        "latlong": {
-          "lon": -3.7032569,
-          "lat": 40.4304869
-        },
-        "location": "Madrid, Spain"
-      },
-      {
-        "latlong": {
-          "lon": -3.6798774,
-          "lat": 40.4371514
-        },
-        "location": "Madrid, Spain"
-      },
-      {
-        "latlong": {
-          "lon": -3.6914081,
-          "lat": 40.4244892
-        },
-        "location": "Madrid, Spain"
-      },
-      {
-        "latlong": {
-          "lon": 2.3315849,
-          "lat": 48.8678008
-        },
-        "location": "Paris, France"
-      },
-      {
-        "latlong": {
-          "lon": 2.3364006,
-          "lat": 48.8705434
-        },
-        "location": "Paris, France"
-      },
-      {
-        "latlong": {
-          "lon": -0.0185088,
-          "lat": 51.5056439
-        },
-        "location": "London, United Kingdom"
-      },
-      {
-        "latlong": {
-          "lon": -0.0928853,
-          "lat": 51.5109795
-        },
-        "location": "London, United Kingdom"
-      },
-      {
-        "latlong": {
-          "lon": 23.7348211,
-          "lat": 37.97486660000001
-        },
-        "location": "Athens, Greece"
-      },
-      {
-        "latlong": {
-          "lon": 19.0232308,
-          "lat": 47.4193401
-        },
-        "location": "Budapest, Hungary"
-      },
-      {
-        "latlong": {
-          "lon": 19.0489757,
-          "lat": 47.47502249999999
-        },
-        "location": "Budapest, Budapest, Hungary"
-      },
-      {
-        "latlong": {
-          "lon": 18.5757343,
-          "lat": 54.400578
-        },
-        "location": "Gdansk, Poland"
-      },
-      {
-        "latlong": {
-          "lon": 20.9925648,
-          "lat": 52.2326267
-        },
-        "location": "Warsaw, Poland"
-      },
-      {
-        "latlong": {
-          "lon": -9.1426987,
-          "lat": 38.7328862
-        },
-        "location": "Lisbon, Lisbon, Portugal"
-      },
-      {
-        "latlong": {
-          "lon": -9.1489136,
-          "lat": 38.7258502
-        },
-        "location": "Lisbon, Lisbon, Portugal"
-      },
-      {
-        "latlong": {
-          "lon": 26.1008858,
-          "lat": 44.4410816
-        },
-        "location": "Bucharest, Romania"
-      },
-      {
-        "latlong": {
-          "lon": 30.5245025,
-          "lat": 50.4503596
-        },
-        "location": "Kyiv, Kyiv, Ukraine"
-      },
-      {
-        "latlong": {
-          "lon": -96.82291699999999,
-          "lat": 33.083351
-        },
-        "location": "Dallas, Texas, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -96.833545,
-          "lat": 33.1073049
-        },
-        "location": "Frisco, Texas, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -93.27801439999999,
-          "lat": 44.987962
-        },
-        "location": "Minneapolis, Minnesota, United States of America"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Aichi",
     "country": "Japan",
     "ml_skills": [
@@ -3430,75 +3548,6 @@
           "lat": 0
         },
         "location": "Toronto, Ontario, Canada"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "London",
-    "country": "United Kingdom",
-    "ml_skills": [
-      "adobe photoshop"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Are you looking for an opportunity to showcase your visual journalism skills? Bring 3-5 years of experience in picture editing and production, along with strong Adobe Photoshop and Premiere skills, to drive innovation across digital platforms while ensuring accuracy and clarity in a fast-paced news environment.",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-0.0185088",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ190908",
-    "jobId": "JREQ190908",
-    "city": "London",
-    "latitude": "51.5056439",
-    "locale": "en_US",
-    "multi_location": [
-      "London, United Kingdom",
-      "Barcelona, Spain"
-    ],
-    "title": "Visuals Producer, Reuters Digital",
-    "jobSeqNo": "THTTRUUSJREQ190908EXTERNALENUS",
-    "postedDate": "2025-05-05T00:00:00.000+0000",
-    "dateCreated": "2025-05-05T16:38:35.533+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Visuals-Producer--Reuters-Digital_JREQ190908/apply",
-    "location": "London, United Kingdom",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Are you looking for an opportunity to showcase your visual journalism skills? Bring 3-5 years of experience in picture editing and production, along with strong Adobe Photoshop and Premiere skills, to drive innovation across digital platforms while ensuring accuracy and clarity in a fast-paced news environment.",
-      "descriptionTeaser_first200": "Reuters is looking for a talented Visuals Producer to join our digital team. The candidate for this position will ensure that Reuters most engaging visual journalism is showcased across our digital pr...",
-      "descriptionTeaser_keyword": "Reuters is looking for a talented Visuals Producer to join our digital team. The candidate for this position will ensure that Reuters most engaging visual journalism is showcased across our digital pr...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -0.0185088,
-          "lat": 51.5056439
-        },
-        "location": "London, United Kingdom"
-      },
-      {
-        "latlong": {
-          "lon": 2.1486417,
-          "lat": 41.39567599999999
-        },
-        "location": "Barcelona, Spain"
       }
     ],
     "isMultiCategory": true,
@@ -4709,74 +4758,6 @@
     "badge": ""
   },
   {
-    "cityState": "Hyderabad, Telangana",
-    "country": "India",
-    "ml_skills": [
-      "testing experience",
-      "testing process",
-      "user testing",
-      "html",
-      "xml",
-      "accounting",
-      "tax software",
-      "communication skills"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Independently, the candidate must be able to analyze and resolve complex tax software problems, document software deficiencies and understand the business/customer requirements. Evaluate design, speci...",
-    "state": "Telangana",
-    "visibilityType": "External",
-    "longitude": "78.38589340000001",
-    "siteType": "external",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ189595",
-    "jobId": "JREQ189595",
-    "city": "Hyderabad",
-    "latitude": "17.4367243",
-    "locale": "en_US",
-    "multi_location": [
-      "Hyderabad, Telangana, India"
-    ],
-    "title": "US Taxation - Associate Quality Assurance & E-File Analyst",
-    "jobSeqNo": "THTTRUUSJREQ189595EXTERNALENUS",
-    "postedDate": "2025-04-23T00:00:00.000+0000",
-    "dateCreated": "2025-04-07T08:39:06.775+0000",
-    "cityStateCountry": "Hyderabad, Telangana, India",
-    "address": "Floor 12, 13 & 14, Building 11, Raheja Mindspace, Madhapur, Hyderabad- 500081, Telangana, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Hyderabad-Raheja-Mindspace/US-Taxation---Associate-Quality-Assurance---E-File-Analyst_JREQ189595/apply",
-    "location": "Hyderabad, Telangana, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Independently, the candidate must be able to analyze and resolve complex tax software problems, document software deficiencies and understand the business/customer requirements. Evaluate design, speci...",
-      "descriptionTeaser_first200": "Job Description. Independently, the candidate must be able to analyze and resolve complex tax software problems, document software deficiencies and understand the business/customer requirements. Ab...",
-      "descriptionTeaser_keyword": "Job Description. Independently, the candidate must be able to analyze and resolve complex tax software problems, document software deficiencies and understand the business/customer requirements. About...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 78.38589340000001,
-          "lat": 17.4367243
-        },
-        "location": "Hyderabad, Telangana, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "London",
     "country": "United Kingdom",
     "ml_skills": [
@@ -5116,68 +5097,6 @@
     "badge": ""
   },
   {
-    "cityState": "",
-    "country": "Korea, Republic of",
-    "ml_skills": [
-      "journalism",
-      "english"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "The successful candidate will have strong news judgment and be able to work with editors and other correspondents to issue news alerts and write fast, accurate and insightful stories for a global audi...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "126.9735937",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ190334",
-    "jobId": "JREQ190334",
-    "city": "",
-    "latitude": "37.5697244",
-    "locale": "en_US",
-    "multi_location": [
-      "Korea, Republic of"
-    ],
-    "title": "Breaking News Correspondent, Korea",
-    "jobSeqNo": "THTTRUUSJREQ190334EXTERNALENUS",
-    "postedDate": "2025-04-18T00:00:00.000+0000",
-    "dateCreated": "2025-04-17T04:38:15.938+0000",
-    "cityStateCountry": "Korea, Republic of",
-    "address": "03185, Korea, Republic of",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/KOR-Seoul-10th-Floor-S-Tower/Breaking-News-Correspondent--Korea_JREQ190334-1/apply",
-    "location": "Korea, Republic of",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "The successful candidate will have strong news judgment and be able to work with editors and other correspondents to issue news alerts and write fast, accurate and insightful stories for a global audi...",
-      "descriptionTeaser_first200": "Breaking News Correspondent, Korea. Reuters is seeking a versatile journalist to join the Breaking News Hub in the Seoul bureau. The Hub is at the beating heart of a busy newsroom handling unpredic...",
-      "descriptionTeaser_keyword": "Breaking News Correspondent, Korea. Reuters is seeking a versatile journalist to join the Breaking News Hub in the Seoul bureau. The Hub is at the beating heart of a busy newsroom handling unpredictab...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 126.9735937,
-          "lat": 37.5697244
-        },
-        "location": "Korea, Republic of"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Manila",
     "country": "Philippines",
     "ml_skills": [
@@ -5456,73 +5375,6 @@
           "lat": 17.4367243
         },
         "location": "Hyderabad, Telangana, India"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Zhongshan, Taipei City",
-    "country": "Taiwan",
-    "ml_skills": [
-      "visual storytelling",
-      "news reporting",
-      "english language",
-      "write scripts",
-      "collaborate",
-      "shifting priorities",
-      "coordinate"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Independently film news events and features using broadcast-quality video cameras, mirrorless cameras as well as other equipment. Produce, film, edit video content, and craft precise news stories unde...",
-    "state": "Taipei City",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "121.5327351",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ190322",
-    "jobId": "JREQ190322",
-    "city": "Zhongshan",
-    "latitude": "25.0512312",
-    "locale": "en_US",
-    "multi_location": [
-      "Zhongshan, Taipei City, Taiwan"
-    ],
-    "title": "Video Journalist, Taiwan",
-    "jobSeqNo": "THTTRUUSJREQ190322EXTERNALENUS",
-    "postedDate": "2025-04-18T00:00:00.000+0000",
-    "dateCreated": "2025-04-16T08:38:33.349+0000",
-    "cityStateCountry": "Zhongshan, Taipei City, Taiwan",
-    "address": "Yuanta Venus Building, Unit B, 2F, No.106, Songjiang Road, Zhongshan, Taipei City 10491, Taiwan",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/TWN-Taipei-106-Songjiang-Road/Video-Journalist--Taiwan_JREQ190322/apply",
-    "location": "Zhongshan, Taipei City, Taiwan",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Independently film news events and features using broadcast-quality video cameras, mirrorless cameras as well as other equipment. Produce, film, edit video content, and craft precise news stories unde...",
-      "descriptionTeaser_first200": "VIDEO JOURNALIST, TAIWAN. Reuters is looking for a passionate Video Journalist with keen interest in telling Taiwan story to join our team in Taipei. We are seeking for a hands-on, experienced vide...",
-      "descriptionTeaser_keyword": "VIDEO JOURNALIST, TAIWAN. Reuters is looking for a passionate Video Journalist with keen interest in telling Taiwan story to join our team in Taipei. We are seeking for a hands-on, experienced video j...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 121.5327351,
-          "lat": 25.0512312
-        },
-        "location": "Zhongshan, Taipei City, Taiwan"
       }
     ],
     "isMultiCategory": true,
