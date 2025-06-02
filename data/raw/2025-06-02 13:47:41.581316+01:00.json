@@ -1,5 +1,316 @@
 [
   {
+    "cityState": "Tokyo",
+    "country": "Japan",
+    "ml_skills": [
+      "lawyer"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Join a dynamic team seeking a skilled legal editor with expertise in the Japanese legal market. Responsibilities include researching, writing, and translating high-quality legal content, mentoring colleagues, and fostering relationships with third parties. Ideal candidates possess substantial legal experience, excellent communication skills in Japanese and English, and a passion for writing.",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "139.7488929",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ190924",
+    "jobId": "JREQ190924",
+    "city": "Tokyo",
+    "latitude": "35.6621409",
+    "locale": "en_US",
+    "multi_location": [
+      "Tokyo, Japan"
+    ],
+    "title": "Senior Specialist Legal Editor, Practical Law Japan",
+    "jobSeqNo": "THTTRUUSJREQ190924EXTERNALENUS",
+    "postedDate": "2025-06-02T00:00:00.000+0000",
+    "dateCreated": "2025-05-29T08:38:36.979+0000",
+    "cityStateCountry": "Tokyo, Japan",
+    "address": "10F Atago Green Hills Mori Tower, 2-5-1 Atago, Minato-ku, Tokyo, 105-6210, Japan",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/JPN-Tokyo-Atago-Green-Hills/Senior-Specialist-Legal-Editor--Practical-Law-Japan_JREQ190924/apply",
+    "location": "Tokyo, Japan",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Join a dynamic team seeking a skilled legal editor with expertise in the Japanese legal market. Responsibilities include researching, writing, and translating high-quality legal content, mentoring colleagues, and fostering relationships with third parties. Ideal candidates possess substantial legal experience, excellent communication skills in Japanese and English, and a passion for writing.",
+      "descriptionTeaser_first200": "We are looking for a talented and motivated Senior Specialist Legal Editor to work closely with our Director to research, write, and deliver well-written, up-to-date content for online publication. Th...",
+      "descriptionTeaser_keyword": "We are looking for a talented and motivated Senior Specialist Legal Editor to work closely with our Director to research, write, and deliver well-written, up-to-date content for online publication. Th...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 139.7488929,
+          "lat": 35.6621409
+        },
+        "location": "Tokyo, Japan"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Pyrmont, New South Wales",
+    "country": "Australia",
+    "ml_skills": [
+      "legal expertise",
+      "legal research skills",
+      "time management skills"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Seeking a detail-oriented legal professional with a strong background in case law and legal research. Responsibilities include creating and editing legal content, identifying key issues, and collaborating with teams. Ideal candidates possess excellent analytical skills, adaptability, and a commitment to quality and continuous learning.",
+    "state": "New South Wales",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "151.1915764",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ191137",
+    "jobId": "JREQ191137",
+    "city": "Pyrmont",
+    "latitude": "-33.8664391",
+    "locale": "en_US",
+    "multi_location": [
+      "Pyrmont, New South Wales, Australia"
+    ],
+    "title": "Legal Editor",
+    "jobSeqNo": "THTTRUUSJREQ191137EXTERNALENUS",
+    "postedDate": "2025-06-02T00:00:00.000+0000",
+    "dateCreated": "2025-05-16T00:38:05.408+0000",
+    "cityStateCountry": "Pyrmont, New South Wales, Australia",
+    "address": "19 Harris Street, Pyrmont NSW 2009, Australia",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/AUS-Pyrmont-19-Harris-St/Legal-Editor_JREQ191137/apply",
+    "location": "Pyrmont, New South Wales, Australia",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Seeking a detail-oriented legal professional with a strong background in case law and legal research. Responsibilities include creating and editing legal content, identifying key issues, and collaborating with teams. Ideal candidates possess excellent analytical skills, adaptability, and a commitment to quality and continuous learning.",
+      "descriptionTeaser_first200": "Do you love reading case law? We are looking for a diligent Legal Editor to join our team of experienced editors working on Westlaw and the Australian Digest. We are a close, collaborative team with a...",
+      "descriptionTeaser_keyword": "Do you love reading case law? We are looking for a diligent Legal Editor to join our team of experienced editors working on Westlaw and the Australian Digest. We are a close, collaborative team with a...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 151.1915764,
+          "lat": -33.8664391
+        },
+        "location": "Pyrmont, New South Wales, Australia"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Pyrmont, New South Wales",
+    "country": "Australia",
+    "remote": "Remote",
+    "type": "Full time",
+    "descriptionTeaser": "We are looking for a qualified Lawyer to leverage legal expertise in publishing. Key responsibilities include drafting and editing online content, monitoring legal developments, conducting research, and responding to customer queries. Strong writing skills, attention to detail, and proficiency in Microsoft Office are essential for success in this role.",
+    "state": "New South Wales",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "151.1915764",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ188759",
+    "jobId": "JREQ188759",
+    "city": "Pyrmont",
+    "latitude": "-33.8664391",
+    "locale": "en_US",
+    "multi_location": [
+      "Pyrmont, New South Wales, Australia"
+    ],
+    "title": "Lawyer Editor",
+    "jobSeqNo": "THTTRUUSJREQ188759EXTERNALENUS",
+    "postedDate": "2025-06-02T00:00:00.000+0000",
+    "dateCreated": "2025-03-18T04:39:04.743+0000",
+    "cityStateCountry": "Pyrmont, New South Wales, Australia",
+    "address": "19 Harris Street, Pyrmont NSW 2009, Australia",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/AUS-Pyrmont-19-Harris-St/Lawyer-Editor_JREQ188759-1/apply",
+    "location": "Pyrmont, New South Wales, Australia",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "ml_skills": [],
+    "ml_job_parser": {
+      "descriptionTeaser": "We are looking for a qualified Lawyer to leverage legal expertise in publishing. Key responsibilities include drafting and editing online content, monitoring legal developments, conducting research, and responding to customer queries. Strong writing skills, attention to detail, and proficiency in Microsoft Office are essential for success in this role.",
+      "descriptionTeaser_keyword": "Are you qualified as a Lawyer in Australia and keen to use your legal skills in publishing? Practical Law Australia is growing and we are searching for a Lawyer Editor to join a supportive team. As a...",
+      "descriptionTeaser_ats": "",
+      "descriptionTeaser_first200": "Are you qualified as a Lawyer in Australia and keen to use your legal skills in publishing? Practical Law Australia is growing and we are searching for a Lawyer Editor to join a supportive team. As a..."
+    },
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 151.1915764,
+          "lat": -33.8664391
+        },
+        "location": "Pyrmont, New South Wales, Australia"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Bengaluru, Karnataka",
+    "country": "India",
+    "ml_skills": [
+      "journalism",
+      "organizational skills"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "This position involves providing across-the-board production support for our team of editors and columnists in North America. The ideal candidate will have exceptional organisational skills, an abilit...",
+    "state": "Karnataka",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "77.708722",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ191563",
+    "jobId": "JREQ191563",
+    "city": "Bengaluru",
+    "latitude": "12.9776035",
+    "locale": "en_US",
+    "multi_location": [
+      "Bengaluru, Karnataka, India"
+    ],
+    "title": "EMEA Production Assistant",
+    "jobSeqNo": "THTTRUUSJREQ191563EXTERNALENUS",
+    "postedDate": "2025-06-02T00:00:00.000+0000",
+    "dateCreated": "2025-06-02T12:44:05.236+0000",
+    "cityStateCountry": "Bengaluru, Karnataka, India",
+    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/EMEA-Production-Assistant_JREQ191563/apply",
+    "location": "Bengaluru, Karnataka, India",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "This position involves providing across-the-board production support for our team of editors and columnists in North America. The ideal candidate will have exceptional organisational skills, an abilit...",
+      "descriptionTeaser_first200": "Summary . EMEA Production Assistant. About Breakingviews. Reuters Breakingviews is the leading provider of agenda-setting insight to the global financial community. With around 30 columnists worldw...",
+      "descriptionTeaser_keyword": "Summary. EMEA Production Assistant. About Breakingviews. Reuters Breakingviews is the leading provider of agenda-setting insight to the global financial community. With around 30 columnists worldwide,...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 77.708722,
+          "lat": 12.9776035
+        },
+        "location": "Bengaluru, Karnataka, India"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Manila",
+    "country": "Philippines",
+    "ml_skills": [
+      "journalism",
+      "english",
+      "content management systems",
+      "product development",
+      "westlaw",
+      "accounting research"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Experience in legal or financial journalism, news, or other writing environment. Ability to write about complex legal or tax issues clearly and simply. Experience using online legal, tax, or accountin...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "121.0497015",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ191512",
+    "jobId": "JREQ191512",
+    "city": "Manila",
+    "latitude": "14.5348768",
+    "locale": "en_US",
+    "multi_location": [
+      "Manila, Philippines"
+    ],
+    "title": "Editor, Current Awareness",
+    "jobSeqNo": "THTTRUUSJREQ191512EXTERNALENUS",
+    "postedDate": "2025-06-02T00:00:00.000+0000",
+    "dateCreated": "2025-06-02T12:44:05.237+0000",
+    "cityStateCountry": "Manila, Philippines",
+    "address": "20 Upper McKinley Building, Upper McKinley Road, McKinley Hill, Manila, 1634, Philippines",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/PHL-Taguig-20-Upper-McKinley-Bldg/Editor--Current-Awareness_JREQ191512/apply",
+    "location": "Manila, Philippines",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Experience in legal or financial journalism, news, or other writing environment. Ability to write about complex legal or tax issues clearly and simply. Experience using online legal, tax, or accountin...",
+      "descriptionTeaser_first200": "Editor Current Awareness, Product - Research. About the Role. In this opportunity as an Editor, you will. Research, write, and edit high-quality articles daily. Prioritize concurrent projects to me...",
+      "descriptionTeaser_keyword": "Editor Current Awareness, Product - Research. About the Role. In this opportunity as an Editor, you will. Research, write, and edit high-quality articles daily. Prioritize concurrent projects to meet...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 121.0497015,
+          "lat": 14.5348768
+        },
+        "location": "Manila, Philippines"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "San Francisco, California",
     "country": "United States of America",
     "ml_skills": [
@@ -7,7 +318,7 @@
     ],
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "The successful candidate will already have a record of breaking news and executing deep dives into corporate strategy, boardroom dynamics and investment decisions, developing sources and mining data t...",
+    "descriptionTeaser": "Seeking an enterprising journalist with 10+ years of experience in reporting and writing impactful stories. Responsibilities include generating exclusives on major tech companies, collaborating globally, and cultivating sources. Ideal candidates should excel in producing both quick news and in-depth investigations while enhancing stories with multimedia elements.",
     "state": "California",
     "visibilityType": "External",
     "siteType": "external",
@@ -36,8 +347,8 @@
     "location": "San Francisco, California, United States of America",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "The successful candidate will already have a record of breaking news and executing deep dives into corporate strategy, boardroom dynamics and investment decisions, developing sources and mining data t...",
-      "descriptionTeaser_first200": "Reuters is looking for an enterprising business journalist to generate exclusives and to spearhead ambitious stories revealing how the world\u2019s most powerful technology companies really work, and ho...",
+      "descriptionTeaser": "Seeking an enterprising journalist with 10+ years of experience in reporting and writing impactful stories. Responsibilities include generating exclusives on major tech companies, collaborating globally, and cultivating sources. Ideal candidates should excel in producing both quick news and in-depth investigations while enhancing stories with multimedia elements.",
+      "descriptionTeaser_first200": "Reuters is looking for an enterprising business journalist to generate exclusives and to spearhead ambitious stories revealing how the world\u2019s most powerful technology companies really work, and how t...",
       "descriptionTeaser_keyword": "Reuters is looking for an enterprising business journalist to generate exclusives and to spearhead ambitious stories revealing how the world\u2019s most powerful technology companies really work, and how t...",
       "descriptionTeaser_ats": ""
     },
@@ -52,68 +363,7 @@
         "location": "San Francisco, California, United States of America"
       }
     ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Tokyo",
-    "country": "Japan",
-    "ml_skills": [
-      "lawyer"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Join a dynamic team seeking a skilled legal editor with expertise in the Japanese legal market. Responsibilities include researching, writing, and translating high-quality legal content, mentoring colleagues, and fostering relationships with third parties. Ideal candidates possess substantial legal experience, excellent communication skills in Japanese and English, and a passion for writing.",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "139.7488929",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ190924",
-    "jobId": "JREQ190924",
-    "city": "Tokyo",
-    "latitude": "35.6621409",
-    "locale": "en_US",
-    "multi_location": [
-      "Tokyo, Japan"
-    ],
-    "title": "Senior Specialist Legal Editor, Practical Law Japan",
-    "jobSeqNo": "THTTRUUSJREQ190924EXTERNALENUS",
-    "postedDate": "2025-05-29T00:00:00.000+0000",
-    "dateCreated": "2025-05-29T08:38:36.979+0000",
-    "cityStateCountry": "Tokyo, Japan",
-    "address": "10F Atago Green Hills Mori Tower, 2-5-1 Atago, Minato-ku, Tokyo, 105-6210, Japan",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/JPN-Tokyo-Atago-Green-Hills/Senior-Specialist-Legal-Editor--Practical-Law-Japan_JREQ190924/apply",
-    "location": "Tokyo, Japan",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Join a dynamic team seeking a skilled legal editor with expertise in the Japanese legal market. Responsibilities include researching, writing, and translating high-quality legal content, mentoring colleagues, and fostering relationships with third parties. Ideal candidates possess substantial legal experience, excellent communication skills in Japanese and English, and a passion for writing.",
-      "descriptionTeaser_first200": "We are looking for a talented and motivated Senior Specialist Legal Editor to work closely with our Director to research, write, and deliver well-written, up-to-date content for online publication. Th...",
-      "descriptionTeaser_keyword": "We are looking for a talented and motivated Senior Specialist Legal Editor to work closely with our Director to research, write, and deliver well-written, up-to-date content for online publication. Th...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 139.7488929,
-          "lat": 35.6621409
-        },
-        "location": "Tokyo, Japan"
-      }
-    ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -183,7 +433,7 @@
         "location": "Manila, Philippines"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -278,7 +528,7 @@
         "location": "New York, New York, United States of America"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -359,7 +609,7 @@
         "location": "Frisco, Texas, United States of America"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -426,7 +676,7 @@
         "location": "Hong Kong, Hong Kong"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -496,7 +746,7 @@
         "location": "Bengaluru, Karnataka, India"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -574,7 +824,7 @@
         "location": "Tokyo, Japan"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -643,7 +893,7 @@
         "location": "Manila, Philippines"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -655,30 +905,18 @@
     "cityState": "Gothenburg",
     "country": "Sweden",
     "ml_skills": [
-      "project management",
-      "accounting",
-      "data analysis",
-      "project implementation",
-      "portfolio analysis",
-      "programme management",
-      "financial expertise",
-      "data visualization",
-      "excel skills",
-      "stakeholder engagement",
-      "project monitoring",
-      "portfolio manager",
-      "dashboard design",
-      "research design",
-      "excel",
-      "training delivery",
-      "finance manager",
-      "governance frameworks",
-      "sql",
-      "project design"
+      "erp",
+      "managed services",
+      "e-invoicing",
+      "business cases",
+      "french",
+      "data integration",
+      "collaborate",
+      "mandarin"
     ],
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "Maintain and monitor up-to-date knowledge of regulatory requirements in markets that Pagero currently supports. Experience in ERP, B2B and data integration including solutions such as managed services...",
+    "descriptionTeaser": "We are looking for a detail-oriented professional to analyze global regulatory compliance, create content, and collaborate with stakeholders. Strong communication skills and a background in business, law, or economics are essential. Familiarity with indirect tax and e-invoicing trends is a plus. Join us to drive innovation in compliance solutions.",
     "state": "",
     "visibilityType": "External",
     "siteType": "external",
@@ -727,8 +965,8 @@
     "location": "Gothenburg, Sweden",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "Maintain and monitor up-to-date knowledge of regulatory requirements in markets that Pagero currently supports. Experience in ERP, B2B and data integration including solutions such as managed services...",
-      "descriptionTeaser_first200": "Are you ready to tackle the complexities of global regulatory compliance and drive innovation in e-invoicing and tax technology? As a member of the Regulatory Affairs team, you can be a part of our...",
+      "descriptionTeaser": "We are looking for a detail-oriented professional to analyze global regulatory compliance, create content, and collaborate with stakeholders. Strong communication skills and a background in business, law, or economics are essential. Familiarity with indirect tax and e-invoicing trends is a plus. Join us to drive innovation in compliance solutions.",
+      "descriptionTeaser_first200": "Are you ready to tackle the complexities of global regulatory compliance and drive innovation in e-invoicing and tax technology? As a member of the Regulatory Affairs team, you can be a part of our jo...",
       "descriptionTeaser_keyword": "Are you ready to tackle the complexities of global regulatory compliance and drive innovation in e-invoicing and tax technology? As a member of the Regulatory Affairs team, you can be a part of our jo...",
       "descriptionTeaser_ats": ""
     },
@@ -883,7 +1121,7 @@
         "location": "Kyiv, Kyiv, Ukraine"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -953,7 +1191,7 @@
         "location": "Shanghai, Shanghai, China"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -1017,7 +1255,7 @@
         "location": "Manila, Philippines"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -1083,7 +1321,7 @@
         "location": "Moscow, Russian Federation"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -1144,7 +1382,7 @@
         "location": "Bengaluru, Karnataka, India"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -1206,7 +1444,7 @@
         "location": "Shanghai, Shanghai, China"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -1272,7 +1510,7 @@
         "location": "London, United Kingdom"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -1337,7 +1575,7 @@
         "location": "Singapore, Singapore"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -1401,7 +1639,7 @@
         "location": "Manila, Philippines"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -1472,7 +1710,7 @@
         "location": "London, United Kingdom"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -1537,7 +1775,7 @@
         "location": "Mexico City, Mexico"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -1602,7 +1840,7 @@
         "location": "Manila, Philippines"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -1671,7 +1909,7 @@
         "location": "Manila, Philippines"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -1736,70 +1974,7 @@
         "location": "Korea, Republic of"
       }
     ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Pyrmont, New South Wales",
-    "country": "Australia",
-    "ml_skills": [
-      "legal expertise",
-      "legal research skills",
-      "time management skills"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Seeking a detail-oriented legal professional with a strong background in case law and legal research. Responsibilities include creating and editing legal content, identifying key issues, and collaborating with teams. Ideal candidates possess excellent analytical skills, adaptability, and a commitment to quality and continuous learning.",
-    "state": "New South Wales",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "151.1915764",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ191137",
-    "jobId": "JREQ191137",
-    "city": "Pyrmont",
-    "latitude": "-33.8664391",
-    "locale": "en_US",
-    "multi_location": [
-      "Pyrmont, New South Wales, Australia"
-    ],
-    "title": "Legal Editor",
-    "jobSeqNo": "THTTRUUSJREQ191137EXTERNALENUS",
-    "postedDate": "2025-05-16T00:00:00.000+0000",
-    "dateCreated": "2025-05-16T00:38:05.408+0000",
-    "cityStateCountry": "Pyrmont, New South Wales, Australia",
-    "address": "19 Harris Street, Pyrmont NSW 2009, Australia",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/AUS-Pyrmont-19-Harris-St/Legal-Editor_JREQ191137/apply",
-    "location": "Pyrmont, New South Wales, Australia",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Seeking a detail-oriented legal professional with a strong background in case law and legal research. Responsibilities include creating and editing legal content, identifying key issues, and collaborating with teams. Ideal candidates possess excellent analytical skills, adaptability, and a commitment to quality and continuous learning.",
-      "descriptionTeaser_first200": "Do you love reading case law? We are looking for a diligent Legal Editor to join our team of experienced editors working on Westlaw and the Australian Digest. We are a close, collaborative team with a...",
-      "descriptionTeaser_keyword": "Do you love reading case law? We are looking for a diligent Legal Editor to join our team of experienced editors working on Westlaw and the Australian Digest. We are a close, collaborative team with a...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 151.1915764,
-          "lat": -33.8664391
-        },
-        "location": "Pyrmont, New South Wales, Australia"
-      }
-    ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -1860,7 +2035,7 @@
         "location": "Washington, District of Columbia, United States of America"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -1925,7 +2100,7 @@
         "location": "South Africa"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -1991,7 +2166,7 @@
         "location": "Manila, Philippines"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -2080,7 +2255,7 @@
         "location": "New York, New York, United States of America"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -2145,203 +2320,7 @@
         "location": "Mexico City, Mexico"
       }
     ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Jerusalem",
-    "country": "Israel",
-    "ml_skills": [
-      "news writing",
-      "fact checks",
-      "english",
-      "reporting skills",
-      "hebrew",
-      "verification",
-      "monitoring",
-      "swift"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Join a dynamic team to combat misinformation through daily fact-checking articles in Hebrew and English. Ideal candidates will have 3+ years of reporting experience, strong analytical skills, and fluency in both languages. Collaborate with colleagues across the region while ensuring unbiased, accurate reporting.",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "35.185601",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ191173",
-    "jobId": "JREQ191173",
-    "city": "Jerusalem",
-    "latitude": "31.74867729999999",
-    "locale": "en_US",
-    "multi_location": [
-      "Jerusalem, Israel"
-    ],
-    "title": "Fact-Checking Producer - Reuters",
-    "jobSeqNo": "THTTRUUSJREQ191173EXTERNALENUS",
-    "postedDate": "2025-05-13T00:00:00.000+0000",
-    "dateCreated": "2025-05-13T16:39:11.620+0000",
-    "cityStateCountry": "Jerusalem, Israel",
-    "address": "Technological Garden Tower Bldg, 12th Floor, Malcha, Jerusalem 96951, Israel",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/ISR-Jerusalem-Tech-Grdn-Twr/Fact-Checking-Producer---Reuters_JREQ191173-1/apply",
-    "location": "Jerusalem, Israel",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Join a dynamic team to combat misinformation through daily fact-checking articles in Hebrew and English. Ideal candidates will have 3+ years of reporting experience, strong analytical skills, and fluency in both languages. Collaborate with colleagues across the region while ensuring unbiased, accurate reporting.",
-      "descriptionTeaser_first200": "Fact-Checking Producer (Israel). This hybrid role is based in Jerusalem, Israel. The role will be offered on a fixed term contract initially running until March 2026. Reuters is looking for an energet...",
-      "descriptionTeaser_keyword": "Fact-Checking Producer (Israel). This hybrid role is based in Jerusalem, Israel. The role will be offered on a fixed term contract initially running until March 2026. Reuters is looking for an energet...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 35.185601,
-          "lat": 31.74867729999999
-        },
-        "location": "Jerusalem, Israel"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Jerusalem",
-    "country": "Israel",
-    "ml_skills": [
-      "news writing",
-      "fact checks",
-      "constructive feedback",
-      "hebrew",
-      "write copy"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Are you looking for an opportunity to combat misinformation in a dynamic environment? This role requires fluency in Hebrew and English, with at least 5 years of reporting experience. You'll deliver fact-checking articles, collaborate with global teams, and monitor social media trends to ensure accurate reporting.",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "35.185601",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ191174",
-    "jobId": "JREQ191174",
-    "city": "Jerusalem",
-    "latitude": "31.74867729999999",
-    "locale": "en_US",
-    "multi_location": [
-      "Jerusalem, Israel"
-    ],
-    "title": "Senior Fact-Checking Producer",
-    "jobSeqNo": "THTTRUUSJREQ191174EXTERNALENUS",
-    "postedDate": "2025-05-13T00:00:00.000+0000",
-    "dateCreated": "2025-05-13T16:39:11.513+0000",
-    "cityStateCountry": "Jerusalem, Israel",
-    "address": "Technological Garden Tower Bldg, 12th Floor, Malcha, Jerusalem 96951, Israel",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/ISR-Jerusalem-Tech-Grdn-Twr/Senior-Fact-Checking-Producer_JREQ191174/apply",
-    "location": "Jerusalem, Israel",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Are you looking for an opportunity to combat misinformation in a dynamic environment? This role requires fluency in Hebrew and English, with at least 5 years of reporting experience. You'll deliver fact-checking articles, collaborate with global teams, and monitor social media trends to ensure accurate reporting.",
-      "descriptionTeaser_first200": "Senior Fact-Checking Producer (Israel). This hybrid position is based in Jerusalem, Israel. Reuters is looking for an energetic journalist to deliver a daily stream of fact-checking articles and verif...",
-      "descriptionTeaser_keyword": "Senior Fact-Checking Producer (Israel). This hybrid position is based in Jerusalem, Israel. Reuters is looking for an energetic journalist to deliver a daily stream of fact-checking articles and verif...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 35.185601,
-          "lat": 31.74867729999999
-        },
-        "location": "Jerusalem, Israel"
-      }
-    ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Barcelona",
-    "country": "Spain",
-    "ml_skills": [
-      "news writing",
-      "english",
-      "irish"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "We are looking for a journalist with strong research and writing skills, at least 3 years of reporting experience, and a keen interest in misinformation. Responsibilities include tracking viral content, identifying misinformation trends, and producing clear, unbiased fact-check articles as part of a collaborative team.",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "2.1486417",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ190940",
-    "jobId": "JREQ190940",
-    "city": "Barcelona",
-    "latitude": "41.39567599999999",
-    "locale": "en_US",
-    "multi_location": [
-      "Barcelona, Spain"
-    ],
-    "title": "Fact-Checking Producer - 12-month FTC",
-    "jobSeqNo": "THTTRUUSJREQ190940EXTERNALENUS",
-    "postedDate": "2025-05-13T00:00:00.000+0000",
-    "dateCreated": "2025-05-13T16:39:11.516+0000",
-    "cityStateCountry": "Barcelona, Spain",
-    "address": "Travessera de Gr\u00e0cia, 47-49, 08021 Barcelona, Spain",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/ESP-Barcelona-Travessera-de-Grcia/Fact-Checking-Producer---12-month-FTC_JREQ190940/apply",
-    "location": "Barcelona, Spain",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "We are looking for a journalist with strong research and writing skills, at least 3 years of reporting experience, and a keen interest in misinformation. Responsibilities include tracking viral content, identifying misinformation trends, and producing clear, unbiased fact-check articles as part of a collaborative team.",
-      "descriptionTeaser_first200": "Fact-Checking Producer - 12-month FTC - Reuters. This hybrid position will be based in Barcelona and will initially be offered on a 12-month fixed term contract. Reuters is looking for a journalist wi...",
-      "descriptionTeaser_keyword": "Fact-Checking Producer - 12-month FTC - Reuters. This hybrid position will be based in Barcelona and will initially be offered on a 12-month fixed term contract. Reuters is looking for a journalist wi...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 2.1486417,
-          "lat": 41.39567599999999
-        },
-        "location": "Barcelona, Spain"
-      }
-    ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -2405,7 +2384,7 @@
         "location": "Mexico City, Mexico"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -2477,7 +2456,7 @@
         "location": "Gdansk, Poland"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -2544,7 +2523,7 @@
         "location": "Mumbai, Maharashtra, India"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -2610,7 +2589,7 @@
         "location": "Eagan, Minnesota, United States of America"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -2681,7 +2660,7 @@
         "location": "Frisco, Texas, United States of America"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -2748,7 +2727,7 @@
         "location": "Gdansk, Poland"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -2820,7 +2799,7 @@
         "location": "Perth, Western Australia, Australia"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -2885,7 +2864,7 @@
         "location": "London, United Kingdom"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -2952,7 +2931,7 @@
         "location": "Bengaluru, Karnataka, India"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -3014,7 +2993,7 @@
         "location": "Singapore, Singapore"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -3077,7 +3056,7 @@
         "location": "Perth, Western Australia, Australia"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -3141,7 +3120,7 @@
         "location": "London, United Kingdom"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -3222,7 +3201,7 @@
         "location": "Eagan, Minnesota, United States of America"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -3290,7 +3269,7 @@
         "location": "Manila, Philippines"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -3353,7 +3332,7 @@
         "location": "Bengaluru, Karnataka, India"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -3415,7 +3394,7 @@
         "location": "Gdansk, Poland"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -3500,7 +3479,7 @@
         "location": "Washington, District of Columbia, United States of America"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -3561,7 +3540,7 @@
         "location": "Bengaluru, Karnataka, India"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -3624,7 +3603,7 @@
         "location": "Toronto, Ontario, Canada"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -3696,7 +3675,7 @@
         "location": "Bangkok, Thailand"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -3762,71 +3741,7 @@
         "location": "Gdansk, Poland"
       }
     ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Wellington",
-    "country": "New Zealand",
-    "ml_skills": [
-      "seo",
-      "collaborate",
-      "search",
-      "accuracy"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Have strong digital and multimedia expertise and familiarity with the needs of a digital audience; experience optimising stories for search (SEO) and other platforms, as well as an understanding of an...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "174.7743618",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ190501",
-    "jobId": "JREQ190501",
-    "city": "Wellington",
-    "latitude": "-41.2859199",
-    "locale": "en_US",
-    "multi_location": [
-      "Wellington, New Zealand"
-    ],
-    "title": "Editor, Global News Desk",
-    "jobSeqNo": "THTTRUUSJREQ190501EXTERNALENUS",
-    "postedDate": "2025-04-30T00:00:00.000+0000",
-    "dateCreated": "2025-04-23T04:37:37.312+0000",
-    "cityStateCountry": "Wellington, New Zealand",
-    "address": "Level 19, Plimmer Towers, 2-6 Gilmer Terrace, Wellington 6011, New Zealand",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/NZL-Wellington-Plimmer-Towers/Editor--Global-News-Desk_JREQ190501/apply",
-    "location": "Wellington, New Zealand",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Have strong digital and multimedia expertise and familiarity with the needs of a digital audience; experience optimising stories for search (SEO) and other platforms, as well as an understanding of an...",
-      "descriptionTeaser_first200": "Reuters is looking for an ambitious Editor for our fast-paced, round-the-clock Global News Desk. Expect to work alongside award-winning journalists in a global news organisation long recognised for...",
-      "descriptionTeaser_keyword": "Reuters is looking for an ambitious Editor for our fast-paced, round-the-clock Global News Desk. Expect to work alongside award-winning journalists in a global news organisation long recognised for it...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 174.7743618,
-          "lat": -41.2859199
-        },
-        "location": "Wellington, New Zealand"
-      }
-    ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -3891,7 +3806,7 @@
         "location": "Hyderabad, Telangana, India"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -3954,7 +3869,7 @@
         "location": "Beijing, Beijing, China"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -4023,7 +3938,7 @@
         "location": "Mexico City, Mexico"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -4088,7 +4003,7 @@
         "location": "Hyderabad, Telangana, India"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -4150,7 +4065,7 @@
         "location": "Hong Kong, Hong Kong"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -4213,7 +4128,7 @@
         "location": "Beijing, Beijing, China"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -4279,7 +4194,7 @@
         "location": "Eagan, Minnesota, United States of America"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -4349,7 +4264,7 @@
         "location": "Willingham, Cambridgeshire, United Kingdom"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -4413,7 +4328,7 @@
         "location": "Bengaluru, Karnataka, India"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -4476,7 +4391,7 @@
         "location": "Gdansk, Poland"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -4539,7 +4454,7 @@
         "location": "London, United Kingdom"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -4603,7 +4518,7 @@
         "location": "Ottawa, Ontario, Canada"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -4664,77 +4579,7 @@
         "location": "Bengaluru, Karnataka, India"
       }
     ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Manila",
-    "country": "Philippines",
-    "ml_skills": [
-      "english",
-      "accuracy",
-      "legal analysis",
-      "westlaw",
-      "writer",
-      "product development",
-      "quality",
-      "checkpoint",
-      "new technologies",
-      "ai solutions"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "The Legal Writer will write and publish timely legal analysis articles on developments in US tax and accounting, including legislation, regulations, and agency guidance. Experience in legal or financi...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "121.0497015",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ183331",
-    "jobId": "JREQ183331",
-    "city": "Manila",
-    "latitude": "14.5348768",
-    "locale": "en_US",
-    "multi_location": [
-      "Manila, Philippines"
-    ],
-    "title": "Legal Writer",
-    "jobSeqNo": "THTTRUUSJREQ183331EXTERNALENUS",
-    "postedDate": "2025-04-18T00:00:00.000+0000",
-    "dateCreated": "2024-10-14T12:44:09.457+0000",
-    "cityStateCountry": "Manila, Philippines",
-    "address": "20 Upper McKinley Building, Upper McKinley Road, McKinley Hill, Manila, 1634, Philippines",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/PHL-Taguig-20-Upper-McKinley-Bldg/Legal-Writer_JREQ183331/apply",
-    "location": "Manila, Philippines",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "The Legal Writer will write and publish timely legal analysis articles on developments in US tax and accounting, including legislation, regulations, and agency guidance. Experience in legal or financi...",
-      "descriptionTeaser_first200": "Legal Writer, Product Research. Thomson Reuters is seeking multiple Legal Writers to provide legal analysis and current awareness information for US tax and accounting professionals. The Legal Writ...",
-      "descriptionTeaser_keyword": "Legal Writer, Product Research. Thomson Reuters is seeking multiple Legal Writers to provide legal analysis and current awareness information for US tax and accounting professionals. The Legal Writer...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 121.0497015,
-          "lat": 14.5348768
-        },
-        "location": "Manila, Philippines"
-      }
-    ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -4824,7 +4669,7 @@
         "location": "Washington, District of Columbia, United States of America"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -4889,7 +4734,7 @@
         "location": "Manila, Philippines"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -4957,7 +4802,7 @@
         "location": "Hyderabad, Telangana, India"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -5026,7 +4871,7 @@
         "location": "Beijing, Beijing, China"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -5095,7 +4940,7 @@
         "location": "Bengaluru, Karnataka, India"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -5161,7 +5006,7 @@
         "location": "Houston, Texas, United States of America"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -5234,7 +5079,7 @@
         "location": "Bengaluru, Karnataka, India"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -5302,7 +5147,7 @@
         "location": "Manila, Philippines"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -5364,7 +5209,7 @@
         "location": "Bengaluru, Karnataka, India"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -5438,7 +5283,7 @@
         "location": "Bengaluru, Karnataka, India"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -5501,66 +5346,7 @@
         "location": "Mumbai, Maharashtra, India"
       }
     ],
-    "isMultiCategory": true,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Pyrmont, New South Wales",
-    "country": "Australia",
-    "remote": "Remote",
-    "type": "Full time",
-    "descriptionTeaser": "With support and supervision from colleagues, maintain content to ensure that it is up to date and reflects current legal and market practice, and is of the quality and scope that meets business objec...",
-    "state": "New South Wales",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "151.1915764",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ188759",
-    "jobId": "JREQ188759",
-    "city": "Pyrmont",
-    "latitude": "-33.8664391",
-    "locale": "en_US",
-    "multi_location": [
-      "Pyrmont, New South Wales, Australia"
-    ],
-    "title": "Lawyer Editor",
-    "jobSeqNo": "THTTRUUSJREQ188759EXTERNALENUS",
-    "postedDate": "2025-04-18T00:00:00.000+0000",
-    "dateCreated": "2025-03-18T04:39:04.743+0000",
-    "cityStateCountry": "Pyrmont, New South Wales, Australia",
-    "address": "19 Harris Street, Pyrmont NSW 2009, Australia",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/AUS-Pyrmont-19-Harris-St/Lawyer-Editor_JREQ188759-1/apply",
-    "location": "Pyrmont, New South Wales, Australia",
-    "category": "News & Editorial Careers",
-    "externalApply": true,
-    "ml_skills": [],
-    "ml_job_parser": {
-      "descriptionTeaser": "With support and supervision from colleagues, maintain content to ensure that it is up to date and reflects current legal and market practice, and is of the quality and scope that meets business objec...",
-      "descriptionTeaser_keyword": "Are you qualified as a Lawyer in Australia and keen to use your legal skills in publishing? Practical Law Australia is growing and we are searching for a Lawyer Editor to join a supportive team. As a...",
-      "descriptionTeaser_ats": "",
-      "descriptionTeaser_first200": "Are you qualified as a Lawyer in Australia and keen to use your legal skills in publishing? Practical Law Australia is growing and we are searching for a Lawyer Editor to join a supportive team. As..."
-    },
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 151.1915764,
-          "lat": -33.8664391
-        },
-        "location": "Pyrmont, New South Wales, Australia"
-      }
-    ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -5634,7 +5420,7 @@
         "location": "Eagan, Minnesota, United States of America"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -5697,7 +5483,7 @@
         "location": "London, United Kingdom"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -5759,7 +5545,7 @@
         "location": "London, United Kingdom"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -5821,7 +5607,7 @@
         "location": "London, United Kingdom"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -5885,7 +5671,7 @@
         "location": "London, United Kingdom"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -5947,7 +5733,7 @@
         "location": "London, United Kingdom"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -6013,7 +5799,7 @@
         "location": "Manila, Philippines"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
@@ -6077,7 +5863,7 @@
         "location": "London, United Kingdom"
       }
     ],
-    "isMultiCategory": true,
+    "isMultiCategory": false,
     "multi_category_array": [
       {
         "category": "News & Editorial Careers"
