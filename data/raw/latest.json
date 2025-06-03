@@ -78,6 +78,272 @@
     "badge": ""
   },
   {
+    "cityState": "London",
+    "country": "United Kingdom",
+    "ml_skills": [
+      "storytelling",
+      "journalism",
+      "ai"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Do you thrive in a fast-paced newsroom and enjoy shaping high-quality financial journalism? Edit and refine copy: Ensure stories are accurate, clear, and ready for publication on The Insurer website a...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.0185088",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ191713",
+    "jobId": "JREQ191713",
+    "city": "London",
+    "latitude": "51.5056439",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom"
+    ],
+    "title": "Desk Editor, The Insurer - Reuters",
+    "jobSeqNo": "THTTRUUSJREQ191713EXTERNALENUS",
+    "postedDate": "2025-06-03T00:00:00.000+0000",
+    "dateCreated": "2025-06-03T14:24:55.012+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Desk-Editor--The-Insurer---Reuters_JREQ191713/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Do you thrive in a fast-paced newsroom and enjoy shaping high-quality financial journalism? Edit and refine copy: Ensure stories are accurate, clear, and ready for publication on The Insurer website a...",
+      "descriptionTeaser_first200": "Desk Editor, The Insurer - Reuters. This position will be based in Reuters' London bureau, with hybrid working available. Are you a sharp-eyed editor with a flair for writing impactful stories? Do ...",
+      "descriptionTeaser_keyword": "Desk Editor, The Insurer - Reuters. This position will be based in Reuters' London bureau, with hybrid working available. Are you a sharp-eyed editor with a flair for writing impactful stories? Do you...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.0185088,
+          "lat": 51.5056439
+        },
+        "location": "London, United Kingdom"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Gdansk",
+    "country": "Poland",
+    "ml_skills": [
+      "gis",
+      "spatial analysis",
+      "querying",
+      "relational databases",
+      "computer science",
+      "configuration",
+      "arcgis",
+      "python",
+      "oracle sql",
+      "test scenarios",
+      "accuracy",
+      "customer support"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Seeking a detail-oriented professional with 1+ years of GIS experience to source, analyze, and maintain geographic tax data. Responsibilities include updating tax boundaries, implementing content changes, and collaborating with stakeholders. Proficiency in ArcGIS, relational databases, and strong communication skills are essential for success in this role.",
+    "state": "",
+    "visibilityType": "External",
+    "longitude": "18.5757343",
+    "siteType": "external",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ187358",
+    "jobId": "JREQ187358",
+    "city": "Gdansk",
+    "latitude": "54.400578",
+    "locale": "en_US",
+    "multi_location": [
+      "Gdansk, Poland"
+    ],
+    "title": "GIS Analyst",
+    "jobSeqNo": "THTTRUUSJREQ187358EXTERNALENUS",
+    "postedDate": "2025-06-03T00:00:00.000+0000",
+    "dateCreated": "2025-02-06T12:39:28.984+0000",
+    "cityStateCountry": "Gdansk, Poland",
+    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/GIS-Analyst_JREQ187358/apply",
+    "location": "Gdansk, Poland",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Seeking a detail-oriented professional with 1+ years of GIS experience to source, analyze, and maintain geographic tax data. Responsibilities include updating tax boundaries, implementing content changes, and collaborating with stakeholders. Proficiency in ArcGIS, relational databases, and strong communication skills are essential for success in this role.",
+      "descriptionTeaser_first200": "As a GIS Analyst you will be responsible for sourcing, configuration, ongoing maintenance and testing to ensure that ONESOURCE\u2122 applications and offerings support up-to-date tax boundaries. About the...",
+      "descriptionTeaser_keyword": "As a GIS Analyst you will be responsible for sourcing, configuration, ongoing maintenance and testing to ensure that ONESOURCE\u2122 applications and offerings support up-to-date tax boundaries. About the...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 18.5757343,
+          "lat": 54.400578
+        },
+        "location": "Gdansk, Poland"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Gdansk",
+    "country": "Poland",
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Research, analyze, interpret and document tax laws and regulations. You\u2019re a fit for the role of Tax Associate in our Tax Research and Content team if your background includes. Demonstrated tax resear...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "18.5757343",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ189025",
+    "jobId": "JREQ189025",
+    "city": "Gdansk",
+    "latitude": "54.400578",
+    "locale": "en_US",
+    "multi_location": [
+      "Gdansk, Poland"
+    ],
+    "title": "Tax Associate",
+    "jobSeqNo": "THTTRUUSJREQ189025EXTERNALENUS",
+    "postedDate": "2025-06-03T00:00:00.000+0000",
+    "dateCreated": "2025-03-19T08:38:11.452+0000",
+    "cityStateCountry": "Gdansk, Poland",
+    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/Tax-Associate_JREQ189025/apply",
+    "location": "Gdansk, Poland",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "ml_skills": [
+      "tax research",
+      "prioritizing",
+      "meet deadlines",
+      "microsoft excel",
+      "online research",
+      "accuracy",
+      "writing skills"
+    ],
+    "ml_job_parser": {
+      "descriptionTeaser": "Research, analyze, interpret and document tax laws and regulations. You\u2019re a fit for the role of Tax Associate in our Tax Research and Content team if your background includes. Demonstrated tax resear...",
+      "descriptionTeaser_keyword": "WE ARE LOOKING FOR A NEW COLLEAGUE. Tax Associate. YOU AND YOUR TEAM. The successful candidate will join the team responsible for the analyzing, researching, interpreting and documenting laws and regu...",
+      "descriptionTeaser_ats": "",
+      "descriptionTeaser_first200": "WE ARE LOOKING FOR A NEW COLLEAGUE. Tax Associate. YOU AND YOUR TEAM. The successful candidate will join the team responsible for the analyzing, researching, interpreting and documenting laws and r..."
+    },
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 18.5757343,
+          "lat": 54.400578
+        },
+        "location": "Gdansk, Poland"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "London",
+    "country": "United Kingdom",
+    "ml_skills": [
+      "journalism",
+      "visual storytelling",
+      "ai",
+      "data insights"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Are you a sharp, fast-moving reporter with a passion for financial news? Deliver fast, accurate reporting: Cover breaking news and developments in the (re)insurance and financial services sectors. Bui...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.0185088",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ191712",
+    "jobId": "JREQ191712",
+    "city": "London",
+    "latitude": "51.5056439",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom"
+    ],
+    "title": "Correspondent, The Insurer - Reuters",
+    "jobSeqNo": "THTTRUUSJREQ191712EXTERNALENUS",
+    "postedDate": "2025-06-03T00:00:00.000+0000",
+    "dateCreated": "2025-06-03T14:24:55.016+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Correspondent--The-Insurer---Reuters_JREQ191712-1/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Are you a sharp, fast-moving reporter with a passion for financial news? Deliver fast, accurate reporting: Cover breaking news and developments in the (re)insurance and financial services sectors. Bui...",
+      "descriptionTeaser_first200": "Correspondent, The Insurer - Reuters. This position is based in our London bureau. Are you a sharp, fast-moving reporter with a passion for financial news? Want to cover one of the most dynamic and...",
+      "descriptionTeaser_keyword": "Correspondent, The Insurer - Reuters. This position is based in our London bureau. Are you a sharp, fast-moving reporter with a passion for financial news? Want to cover one of the most dynamic and gl...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.0185088,
+          "lat": 51.5056439
+        },
+        "location": "London, United Kingdom"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Tokyo",
     "country": "Japan",
     "ml_skills": [
@@ -2534,78 +2800,6 @@
     "badge": ""
   },
   {
-    "cityState": "Gdansk",
-    "country": "Poland",
-    "ml_skills": [
-      "gis",
-      "spatial analysis",
-      "querying",
-      "relational databases",
-      "computer science",
-      "configuration",
-      "arcgis",
-      "python",
-      "oracle sql",
-      "test scenarios",
-      "accuracy",
-      "customer support"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Seeking a detail-oriented professional with 1+ years of GIS experience to source, analyze, and maintain geographic tax data. Responsibilities include updating tax boundaries, implementing content changes, and collaborating with stakeholders. Proficiency in ArcGIS, relational databases, and strong communication skills are essential for success in this role.",
-    "state": "",
-    "visibilityType": "External",
-    "longitude": "18.5757343",
-    "siteType": "external",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ187358",
-    "jobId": "JREQ187358",
-    "city": "Gdansk",
-    "latitude": "54.400578",
-    "locale": "en_US",
-    "multi_location": [
-      "Gdansk, Poland"
-    ],
-    "title": "GIS Analyst",
-    "jobSeqNo": "THTTRUUSJREQ187358EXTERNALENUS",
-    "postedDate": "2025-05-13T00:00:00.000+0000",
-    "dateCreated": "2025-02-06T12:39:28.984+0000",
-    "cityStateCountry": "Gdansk, Poland",
-    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/GIS-Analyst_JREQ187358/apply",
-    "location": "Gdansk, Poland",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Seeking a detail-oriented professional with 1+ years of GIS experience to source, analyze, and maintain geographic tax data. Responsibilities include updating tax boundaries, implementing content changes, and collaborating with stakeholders. Proficiency in ArcGIS, relational databases, and strong communication skills are essential for success in this role.",
-      "descriptionTeaser_first200": "As a GIS Analyst you will be responsible for sourcing, configuration, ongoing maintenance and testing to ensure that ONESOURCE\u2122 applications and offerings support up-to-date tax boundaries. About the...",
-      "descriptionTeaser_keyword": "As a GIS Analyst you will be responsible for sourcing, configuration, ongoing maintenance and testing to ensure that ONESOURCE\u2122 applications and offerings support up-to-date tax boundaries. About the...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 18.5757343,
-          "lat": 54.400578
-        },
-        "location": "Gdansk, Poland"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Mumbai, Maharashtra",
     "country": "India",
     "ml_skills": [
@@ -2728,73 +2922,6 @@
           "lat": 44.8524402
         },
         "location": "Eagan, Minnesota, United States of America"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Gdansk",
-    "country": "Poland",
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Research, analyze, interpret and document tax laws and regulations. You\u2019re a fit for the role of Tax Associate in our Tax Research and Content team if your background includes. Demonstrated tax resear...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "18.5757343",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ189025",
-    "jobId": "JREQ189025",
-    "city": "Gdansk",
-    "latitude": "54.400578",
-    "locale": "en_US",
-    "multi_location": [
-      "Gdansk, Poland"
-    ],
-    "title": "Tax Associate",
-    "jobSeqNo": "THTTRUUSJREQ189025EXTERNALENUS",
-    "postedDate": "2025-05-12T00:00:00.000+0000",
-    "dateCreated": "2025-03-19T08:38:11.452+0000",
-    "cityStateCountry": "Gdansk, Poland",
-    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/Tax-Associate_JREQ189025/apply",
-    "location": "Gdansk, Poland",
-    "category": "News & Editorial Careers",
-    "externalApply": true,
-    "ml_skills": [
-      "tax research",
-      "prioritizing",
-      "meet deadlines",
-      "microsoft excel",
-      "online research",
-      "accuracy",
-      "writing skills"
-    ],
-    "ml_job_parser": {
-      "descriptionTeaser": "Research, analyze, interpret and document tax laws and regulations. You\u2019re a fit for the role of Tax Associate in our Tax Research and Content team if your background includes. Demonstrated tax resear...",
-      "descriptionTeaser_keyword": "WE ARE LOOKING FOR A NEW COLLEAGUE. Tax Associate. YOU AND YOUR TEAM. The successful candidate will join the team responsible for the analyzing, researching, interpreting and documenting laws and regu...",
-      "descriptionTeaser_ats": "",
-      "descriptionTeaser_first200": "WE ARE LOOKING FOR A NEW COLLEAGUE. Tax Associate. YOU AND YOUR TEAM. The successful candidate will join the team responsible for the analyzing, researching, interpreting and documenting laws and r..."
-    },
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 18.5757343,
-          "lat": 54.400578
-        },
-        "location": "Gdansk, Poland"
       }
     ],
     "isMultiCategory": false,
