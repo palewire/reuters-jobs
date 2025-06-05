@@ -1,5 +1,261 @@
 [
   {
+    "cityState": "Hong Kong",
+    "country": "Hong Kong",
+    "ml_skills": [
+      "ms office",
+      "invoice processing",
+      "sap",
+      "computer literacy",
+      "ms excel",
+      "vendor management",
+      "ariba"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "This role will help in the delivery of specialist knowledge through timely and responsive support to the HK Team and wider AEM regions. Accurate, timely and responsive support to the HK Print Team and...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "114.2169064",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ191680",
+    "jobId": "JREQ191680",
+    "city": "Hong Kong",
+    "latitude": "22.2876586",
+    "locale": "en_US",
+    "multi_location": [
+      "Hong Kong, Hong Kong"
+    ],
+    "title": "Administrative Assistant",
+    "jobSeqNo": "THTTRUUSJREQ191680EXTERNALENUS",
+    "postedDate": "2025-06-05T00:00:00.000+0000",
+    "dateCreated": "2025-05-28T04:37:59.620+0000",
+    "cityStateCountry": "Hong Kong, Hong Kong",
+    "address": "15/F, 14 Taikoo Wan Road, Taikoo Shing, Hong Kong, Hong Kong",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/HKG-Taikoo-14-Taikoo-Wan-Road/Administrative-Assistant_JREQ191680/apply",
+    "location": "Hong Kong, Hong Kong",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "This role will help in the delivery of specialist knowledge through timely and responsive support to the HK Team and wider AEM regions. Accurate, timely and responsive support to the HK Print Team and...",
+      "descriptionTeaser_first200": "Administrative Assistant . Join one of Asia\u2019s most respected providers for the business and legal professions, Thomson Reuters. This role will help in the delivery of specialist knowledge through t...",
+      "descriptionTeaser_keyword": "Administrative Assistant. Join one of Asia\u2019s most respected providers for the business and legal professions, Thomson Reuters. This role will help in the delivery of specialist knowledge through timel...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 114.2169064,
+          "lat": 22.2876586
+        },
+        "location": "Hong Kong, Hong Kong"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Shanghai, Shanghai",
+    "country": "China",
+    "ml_skills": [
+      "mandarin"
+    ],
+    "remote": "On-Site",
+    "type": "Full time",
+    "descriptionTeaser": "Reuters is looking for an energetic Researcher with strong news judgement to join our team in Shanghai. The Shanghai Researcher will work closely with the text, video and photo teams in Shanghai and S...",
+    "state": "Shanghai",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "121.504161",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ190760",
+    "jobId": "JREQ190760",
+    "city": "Shanghai",
+    "latitude": "31.24097799999999",
+    "locale": "en_US",
+    "multi_location": [
+      "Shanghai, Shanghai, China"
+    ],
+    "title": "Researcher, Shanghai Bureau",
+    "jobSeqNo": "THTTRUUSJREQ190760EXTERNALENUS",
+    "postedDate": "2025-06-05T00:00:00.000+0000",
+    "dateCreated": "2025-05-20T08:45:16.167+0000",
+    "cityStateCountry": "Shanghai, Shanghai, China",
+    "address": "Azia Centre, 11F, Unit 1105A & 1106, No. 1233 Lujiazui Ring Rd, Pudong, Shanghai, 200120 Shanghai, China",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CHN-Shanghai-Azia-Centre/Researcher--Shanghai-Bureau_JREQ190760/apply",
+    "location": "Shanghai, Shanghai, China",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Reuters is looking for an energetic Researcher with strong news judgement to join our team in Shanghai. The Shanghai Researcher will work closely with the text, video and photo teams in Shanghai and S...",
+      "descriptionTeaser_first200": "Researcher, Shanghai Bureau . Reuters is looking for an energetic Researcher with strong news judgement to join our team in Shanghai. The Shanghai Researcher will work closely with the text, video ...",
+      "descriptionTeaser_keyword": "Researcher, Shanghai Bureau. Reuters is looking for an energetic Researcher with strong news judgement to join our team in Shanghai. The Shanghai Researcher will work closely with the text, video and...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 121.504161,
+          "lat": 31.24097799999999
+        },
+        "location": "Shanghai, Shanghai, China"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Beijing, Beijing",
+    "country": "China",
+    "ml_skills": [
+      "mandarin",
+      "build",
+      "international trade"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "The successful candidate will break news and report and write on a full range of agriculture stories for a demanding global audience, from grain harvests and international trade frictions to futures a...",
+    "state": "Beijing",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "116.41197",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ190728",
+    "jobId": "JREQ190728",
+    "city": "Beijing",
+    "latitude": "39.90927",
+    "locale": "en_US",
+    "multi_location": [
+      "Beijing, Beijing, China"
+    ],
+    "title": "China Agriculture Correspondent",
+    "jobSeqNo": "THTTRUUSJREQ190728EXTERNALENUS",
+    "postedDate": "2025-06-05T00:00:00.000+0000",
+    "dateCreated": "2025-04-25T04:38:46.897+0000",
+    "cityStateCountry": "Beijing, Beijing, China",
+    "address": "Units 5-12, 18F / 20F, Office Tower E1 of Oriental Plaza, No.1, East Chang An Avenue, Dong Cheng District, Beijing, 100738 Beijing, China",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CHN-Beijing-Oriental-Plaza/China-Agriculture-Correspondent_JREQ190728/apply",
+    "location": "Beijing, Beijing, China",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "The successful candidate will break news and report and write on a full range of agriculture stories for a demanding global audience, from grain harvests and international trade frictions to futures a...",
+      "descriptionTeaser_first200": "China Agriculture Correspondent. Reuters is seeking a dynamic journalist with a track record of outstanding beat reporting to cover China\u2019s vast agriculture sector. The successful candidate will br...",
+      "descriptionTeaser_keyword": "China Agriculture Correspondent. Reuters is seeking a dynamic journalist with a track record of outstanding beat reporting to cover China\u2019s vast agriculture sector. The successful candidate will break...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 116.41197,
+          "lat": 39.90927
+        },
+        "location": "Beijing, Beijing, China"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "",
+    "country": "Korea, Republic of",
+    "ml_skills": [
+      "build",
+      "brand management",
+      "product development",
+      "product delivery",
+      "customer relationship"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Are you looking for a role that leverages your legal expertise and content acquisition skills? Join a dynamic team to research the legal market, manage author relationships, and drive product development, while achieving ambitious revenue goals. A minimum of 5 years' experience in the legal publishing industry is preferred.",
+    "state": "",
+    "visibilityType": "External",
+    "longitude": "126.9735937",
+    "siteType": "external",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ188193",
+    "jobId": "JREQ188193",
+    "city": "",
+    "latitude": "37.5697244",
+    "locale": "en_US",
+    "multi_location": [
+      "Korea, Republic of"
+    ],
+    "title": "Commissioning Editor",
+    "jobSeqNo": "THTTRUUSJREQ188193EXTERNALENUS",
+    "postedDate": "2025-06-05T00:00:00.000+0000",
+    "dateCreated": "2025-02-19T08:43:00.304+0000",
+    "cityStateCountry": "Korea, Republic of",
+    "address": "03185, Korea, Republic of",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/KOR-Seoul-10th-Floor-S-Tower/Commissioning-Editor_JREQ188193/apply",
+    "location": "Korea, Republic of",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Are you looking for a role that leverages your legal expertise and content acquisition skills? Join a dynamic team to research the legal market, manage author relationships, and drive product development, while achieving ambitious revenue goals. A minimum of 5 years' experience in the legal publishing industry is preferred.",
+      "descriptionTeaser_first200": "Commissioning Editor. As part of our continuous improvement of LAWnB and Korea market growth, we are planning to intensify content acquisition. We are therefore looking to recruit legal experts wit...",
+      "descriptionTeaser_keyword": "Commissioning Editor. As part of our continuous improvement of LAWnB and Korea market growth, we are planning to intensify content acquisition. We are therefore looking to recruit legal experts with e...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 126.9735937,
+          "lat": 37.5697244
+        },
+        "location": "Korea, Republic of"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Eagan, Minnesota",
     "country": "United States of America",
     "remote": "Hybrid",
@@ -812,65 +1068,6 @@
     "badge": ""
   },
   {
-    "cityState": "Pyrmont, New South Wales",
-    "country": "Australia",
-    "remote": "Remote",
-    "type": "Full time",
-    "descriptionTeaser": "Are you looking for an opportunity to leverage your legal expertise in publishing? Join a dynamic editorial team to monitor legal developments, draft and edit online content, conduct research, and respond to customer queries, all while ensuring high-quality standards and consistency in style. Excellent writing and communication skills are essential.",
-    "state": "New South Wales",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "151.1915764",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ188759",
-    "jobId": "JREQ188759",
-    "city": "Pyrmont",
-    "latitude": "-33.8664391",
-    "locale": "en_US",
-    "multi_location": [
-      "Pyrmont, New South Wales, Australia"
-    ],
-    "title": "Lawyer Editor",
-    "jobSeqNo": "THTTRUUSJREQ188759EXTERNALENUS",
-    "postedDate": "2025-06-02T00:00:00.000+0000",
-    "dateCreated": "2025-03-18T04:39:04.743+0000",
-    "cityStateCountry": "Pyrmont, New South Wales, Australia",
-    "address": "19 Harris Street, Pyrmont NSW 2009, Australia",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/AUS-Pyrmont-19-Harris-St/Lawyer-Editor_JREQ188759-1/apply",
-    "location": "Pyrmont, New South Wales, Australia",
-    "category": "News & Editorial Careers",
-    "externalApply": true,
-    "ml_skills": [],
-    "ml_job_parser": {
-      "descriptionTeaser": "Are you looking for an opportunity to leverage your legal expertise in publishing? Join a dynamic editorial team to monitor legal developments, draft and edit online content, conduct research, and respond to customer queries, all while ensuring high-quality standards and consistency in style. Excellent writing and communication skills are essential.",
-      "descriptionTeaser_keyword": "Are you qualified as a Lawyer in Australia and keen to use your legal skills in publishing? Practical Law Australia is growing and we are searching for a Lawyer Editor to join a supportive team. As a...",
-      "descriptionTeaser_ats": "",
-      "descriptionTeaser_first200": "Are you qualified as a Lawyer in Australia and keen to use your legal skills in publishing? Practical Law Australia is growing and we are searching for a Lawyer Editor to join a supportive team. As..."
-    },
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 151.1915764,
-          "lat": -33.8664391
-        },
-        "location": "Pyrmont, New South Wales, Australia"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Toronto, Ontario",
     "country": "Canada",
     "ml_skills": [
@@ -928,6 +1125,65 @@
           "lat": 43.6480117
         },
         "location": "Toronto, Ontario, Canada"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Pyrmont, New South Wales",
+    "country": "Australia",
+    "remote": "Remote",
+    "type": "Full time",
+    "descriptionTeaser": "Are you looking for an opportunity to leverage your legal expertise in publishing? Join a dynamic editorial team to monitor legal developments, draft and edit online content, conduct research, and respond to customer queries, all while ensuring high-quality standards and consistency in style. Excellent writing and communication skills are essential.",
+    "state": "New South Wales",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "151.1915764",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ188759",
+    "jobId": "JREQ188759",
+    "city": "Pyrmont",
+    "latitude": "-33.8664391",
+    "locale": "en_US",
+    "multi_location": [
+      "Pyrmont, New South Wales, Australia"
+    ],
+    "title": "Lawyer Editor",
+    "jobSeqNo": "THTTRUUSJREQ188759EXTERNALENUS",
+    "postedDate": "2025-06-02T00:00:00.000+0000",
+    "dateCreated": "2025-03-18T04:39:04.743+0000",
+    "cityStateCountry": "Pyrmont, New South Wales, Australia",
+    "address": "19 Harris Street, Pyrmont NSW 2009, Australia",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/AUS-Pyrmont-19-Harris-St/Lawyer-Editor_JREQ188759-1/apply",
+    "location": "Pyrmont, New South Wales, Australia",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "ml_skills": [],
+    "ml_job_parser": {
+      "descriptionTeaser": "Are you looking for an opportunity to leverage your legal expertise in publishing? Join a dynamic editorial team to monitor legal developments, draft and edit online content, conduct research, and respond to customer queries, all while ensuring high-quality standards and consistency in style. Excellent writing and communication skills are essential.",
+      "descriptionTeaser_keyword": "Are you qualified as a Lawyer in Australia and keen to use your legal skills in publishing? Practical Law Australia is growing and we are searching for a Lawyer Editor to join a supportive team. As a...",
+      "descriptionTeaser_ats": "",
+      "descriptionTeaser_first200": "Are you qualified as a Lawyer in Australia and keen to use your legal skills in publishing? Practical Law Australia is growing and we are searching for a Lawyer Editor to join a supportive team. As..."
+    },
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 151.1915764,
+          "lat": -33.8664391
+        },
+        "location": "Pyrmont, New South Wales, Australia"
       }
     ],
     "isMultiCategory": false,
@@ -1235,73 +1491,6 @@
           "lat": 40.756572
         },
         "location": "New York, New York, United States of America"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Hong Kong",
-    "country": "Hong Kong",
-    "ml_skills": [
-      "ms office",
-      "invoice processing",
-      "sap",
-      "computer literacy",
-      "ms excel",
-      "vendor management",
-      "ariba"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "We are looking for a proactive professional with a minimum of 2 years\u2019 experience in administrative support, preferably in legal environments. Key responsibilities include contract management, document organization, financial coordination, and effective communication with stakeholders. Strong computer skills and attention to detail are essential for success in this role.",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "114.2169064",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ191680",
-    "jobId": "JREQ191680",
-    "city": "Hong Kong",
-    "latitude": "22.2876586",
-    "locale": "en_US",
-    "multi_location": [
-      "Hong Kong, Hong Kong"
-    ],
-    "title": "Administrative Assistant",
-    "jobSeqNo": "THTTRUUSJREQ191680EXTERNALENUS",
-    "postedDate": "2025-05-28T00:00:00.000+0000",
-    "dateCreated": "2025-05-28T04:37:59.620+0000",
-    "cityStateCountry": "Hong Kong, Hong Kong",
-    "address": "15/F, 14 Taikoo Wan Road, Taikoo Shing, Hong Kong, Hong Kong",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/HKG-Taikoo-14-Taikoo-Wan-Road/Administrative-Assistant_JREQ191680/apply",
-    "location": "Hong Kong, Hong Kong",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "We are looking for a proactive professional with a minimum of 2 years\u2019 experience in administrative support, preferably in legal environments. Key responsibilities include contract management, document organization, financial coordination, and effective communication with stakeholders. Strong computer skills and attention to detail are essential for success in this role.",
-      "descriptionTeaser_first200": "Administrative Assistant. Join one of Asia\u2019s most respected providers for the business and legal professions, Thomson Reuters. This role will help in the delivery of specialist knowledge through timel...",
-      "descriptionTeaser_keyword": "Administrative Assistant. Join one of Asia\u2019s most respected providers for the business and legal professions, Thomson Reuters. This role will help in the delivery of specialist knowledge through timel...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 114.2169064,
-          "lat": 22.2876586
-        },
-        "location": "Hong Kong, Hong Kong"
       }
     ],
     "isMultiCategory": false,
@@ -1744,76 +1933,6 @@
     "badge": ""
   },
   {
-    "cityState": "Beijing, Beijing",
-    "country": "China",
-    "ml_skills": [
-      "mandarin",
-      "commodity markets"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Are you looking for an opportunity to break news in the industrial metals sector? We seek a journalist with strong source-building skills and experience in commodity markets, particularly copper, nickel, and lithium. Your role will involve delivering impactful stories and identifying trends for a global audience.",
-    "state": "Beijing",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "116.41197",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ191612",
-    "jobId": "JREQ191612",
-    "city": "Beijing",
-    "latitude": "39.90927",
-    "locale": "en_US",
-    "multi_location": [
-      "Beijing, Beijing, China",
-      "Shanghai, Shanghai, China"
-    ],
-    "title": "China Metals Correspondent",
-    "jobSeqNo": "THTTRUUSJREQ191612EXTERNALENUS",
-    "postedDate": "2025-05-22T00:00:00.000+0000",
-    "dateCreated": "2025-05-22T04:42:05.070+0000",
-    "cityStateCountry": "Beijing, Beijing, China",
-    "address": "Units 5-12, 18F / 20F, Office Tower E1 of Oriental Plaza, No.1, East Chang An Avenue, Dong Cheng District, Beijing, 100738 Beijing, China",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CHN-Beijing-Oriental-Plaza/China-Metals-Correspondent_JREQ191612/apply",
-    "location": "Beijing, Beijing, China",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Are you looking for an opportunity to break news in the industrial metals sector? We seek a journalist with strong source-building skills and experience in commodity markets, particularly copper, nickel, and lithium. Your role will involve delivering impactful stories and identifying trends for a global audience.",
-      "descriptionTeaser_first200": "China Metals Correspondent. Reuters is seeking an outstanding journalist with strong source-building skills, great story ideas and a track record of breaking news to join our team as China metals corr...",
-      "descriptionTeaser_keyword": "China Metals Correspondent. Reuters is seeking an outstanding journalist with strong source-building skills, great story ideas and a track record of breaking news to join our team as China metals corr...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 116.41197,
-          "lat": 39.90927
-        },
-        "location": "Beijing, Beijing, China"
-      },
-      {
-        "latlong": {
-          "lon": 121.504161,
-          "lat": 31.24097799999999
-        },
-        "location": "Shanghai, Shanghai, China"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Moscow",
     "country": "Russian Federation",
     "ml_skills": [
@@ -1930,68 +2049,6 @@
           "lat": 12.9776035
         },
         "location": "Bengaluru, Karnataka, India"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Shanghai, Shanghai",
-    "country": "China",
-    "ml_skills": [
-      "diplomacy",
-      "mandarin"
-    ],
-    "remote": "On-Site",
-    "type": "Full time",
-    "descriptionTeaser": "Join a dynamic team in Shanghai, where you'll leverage your strong news judgement to research and monitor stories, assist in news coverage, and collaborate on compelling text and visual narratives. Fluency in English and Mandarin, along with excellent communication and teamwork skills, are essential for success.",
-    "state": "Shanghai",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "121.504161",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ190760",
-    "jobId": "JREQ190760",
-    "city": "Shanghai",
-    "latitude": "31.24097799999999",
-    "locale": "en_US",
-    "multi_location": [
-      "Shanghai, Shanghai, China"
-    ],
-    "title": "Researcher, Shanghai Bureau",
-    "jobSeqNo": "THTTRUUSJREQ190760EXTERNALENUS",
-    "postedDate": "2025-05-21T00:00:00.000+0000",
-    "dateCreated": "2025-05-20T08:45:16.167+0000",
-    "cityStateCountry": "Shanghai, Shanghai, China",
-    "address": "Azia Centre, 11F, Unit 1105A & 1106, No. 1233 Lujiazui Ring Rd, Pudong, Shanghai, 200120 Shanghai, China",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CHN-Shanghai-Azia-Centre/Researcher--Shanghai-Bureau_JREQ190760/apply",
-    "location": "Shanghai, Shanghai, China",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Join a dynamic team in Shanghai, where you'll leverage your strong news judgement to research and monitor stories, assist in news coverage, and collaborate on compelling text and visual narratives. Fluency in English and Mandarin, along with excellent communication and teamwork skills, are essential for success.",
-      "descriptionTeaser_first200": "Researcher, Shanghai Bureau. Reuters is looking for an energetic Researcher with strong news judgement to join our team in Shanghai. The Shanghai Researcher will work closely with the text, video and...",
-      "descriptionTeaser_keyword": "Researcher, Shanghai Bureau. Reuters is looking for an energetic Researcher with strong news judgement to join our team in Shanghai. The Shanghai Researcher will work closely with the text, video and...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 121.504161,
-          "lat": 31.24097799999999
-        },
-        "location": "Shanghai, Shanghai, China"
       }
     ],
     "isMultiCategory": false,
@@ -2457,71 +2514,6 @@
           "lat": 14.5348768
         },
         "location": "Manila, Philippines"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "",
-    "country": "Korea, Republic of",
-    "ml_skills": [
-      "build",
-      "brand management",
-      "product development",
-      "product delivery",
-      "customer relationship"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Are you looking for a role that leverages your legal expertise and content acquisition skills? Join a dynamic team to research the legal market, manage author relationships, and drive product development, while achieving ambitious revenue goals. A minimum of 5 years' experience in the legal publishing industry is preferred.",
-    "state": "",
-    "visibilityType": "External",
-    "longitude": "126.9735937",
-    "siteType": "external",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ188193",
-    "jobId": "JREQ188193",
-    "city": "",
-    "latitude": "37.5697244",
-    "locale": "en_US",
-    "multi_location": [
-      "Korea, Republic of"
-    ],
-    "title": "Commissioning Editor",
-    "jobSeqNo": "THTTRUUSJREQ188193EXTERNALENUS",
-    "postedDate": "2025-05-19T00:00:00.000+0000",
-    "dateCreated": "2025-02-19T08:43:00.304+0000",
-    "cityStateCountry": "Korea, Republic of",
-    "address": "03185, Korea, Republic of",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/KOR-Seoul-10th-Floor-S-Tower/Commissioning-Editor_JREQ188193/apply",
-    "location": "Korea, Republic of",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Are you looking for a role that leverages your legal expertise and content acquisition skills? Join a dynamic team to research the legal market, manage author relationships, and drive product development, while achieving ambitious revenue goals. A minimum of 5 years' experience in the legal publishing industry is preferred.",
-      "descriptionTeaser_first200": "Commissioning Editor. As part of our continuous improvement of LAWnB and Korea market growth, we are planning to intensify content acquisition. We are therefore looking to recruit legal experts wit...",
-      "descriptionTeaser_keyword": "Commissioning Editor. As part of our continuous improvement of LAWnB and Korea market growth, we are planning to intensify content acquisition. We are therefore looking to recruit legal experts with e...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 126.9735937,
-          "lat": 37.5697244
-        },
-        "location": "Korea, Republic of"
       }
     ],
     "isMultiCategory": false,
@@ -4345,69 +4337,6 @@
     "badge": ""
   },
   {
-    "cityState": "Beijing, Beijing",
-    "country": "China",
-    "ml_skills": [
-      "mandarin",
-      "build",
-      "international trade"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "The successful candidate will break news and report and write on a full range of agriculture stories for a demanding global audience, from grain harvests and international trade frictions to futures a...",
-    "state": "Beijing",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "116.41197",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ190728",
-    "jobId": "JREQ190728",
-    "city": "Beijing",
-    "latitude": "39.90927",
-    "locale": "en_US",
-    "multi_location": [
-      "Beijing, Beijing, China"
-    ],
-    "title": "China Agriculture Correspondent",
-    "jobSeqNo": "THTTRUUSJREQ190728EXTERNALENUS",
-    "postedDate": "2025-04-25T00:00:00.000+0000",
-    "dateCreated": "2025-04-25T04:38:46.897+0000",
-    "cityStateCountry": "Beijing, Beijing, China",
-    "address": "Units 5-12, 18F / 20F, Office Tower E1 of Oriental Plaza, No.1, East Chang An Avenue, Dong Cheng District, Beijing, 100738 Beijing, China",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CHN-Beijing-Oriental-Plaza/China-Agriculture-Correspondent_JREQ190728/apply",
-    "location": "Beijing, Beijing, China",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "The successful candidate will break news and report and write on a full range of agriculture stories for a demanding global audience, from grain harvests and international trade frictions to futures a...",
-      "descriptionTeaser_first200": "China Agriculture Correspondent. Reuters is seeking a dynamic journalist with a track record of outstanding beat reporting to cover China\u2019s vast agriculture sector. The successful candidate will br...",
-      "descriptionTeaser_keyword": "China Agriculture Correspondent. Reuters is seeking a dynamic journalist with a track record of outstanding beat reporting to cover China\u2019s vast agriculture sector. The successful candidate will break...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 116.41197,
-          "lat": 39.90927
-        },
-        "location": "Beijing, Beijing, China"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Willingham, Cambridgeshire",
     "country": "United Kingdom",
     "ml_skills": [
@@ -5016,75 +4945,6 @@
     "badge": ""
   },
   {
-    "cityState": "Beijing, Beijing",
-    "country": "China",
-    "ml_skills": [
-      "journalism",
-      "video editing",
-      "story telling",
-      "script writing",
-      "story writing",
-      "english",
-      "storytelling",
-      "mandarin",
-      "mentor"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Inspire staff and contractors across all media to produce their best breaking news and storytelling work. Excellent news judgment and a solid track record of working in a breaking news environment. So...",
-    "state": "Beijing",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "116.41197",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ186718",
-    "jobId": "JREQ186718",
-    "city": "Beijing",
-    "latitude": "39.90927",
-    "locale": "en_US",
-    "multi_location": [
-      "Beijing, Beijing, China"
-    ],
-    "title": "Senior Producer, China",
-    "jobSeqNo": "THTTRUUSJREQ186718EXTERNALENUS",
-    "postedDate": "2025-04-18T00:00:00.000+0000",
-    "dateCreated": "2025-01-09T08:39:54.036+0000",
-    "cityStateCountry": "Beijing, Beijing, China",
-    "address": "Units 5-12, 18F / 20F, Office Tower E1 of Oriental Plaza, No.1, East Chang An Avenue, Dong Cheng District, Beijing, 100738 Beijing, China",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CHN-Beijing-Oriental-Plaza/Senior-Producer--China_JREQ186718/apply",
-    "location": "Beijing, Beijing, China",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Inspire staff and contractors across all media to produce their best breaking news and storytelling work. Excellent news judgment and a solid track record of working in a breaking news environment. So...",
-      "descriptionTeaser_first200": "Senior Producer, China . Reuters is looking for a Senior Video Producer to manage our coverage from China. The successful candidate will lead a high-profile, high-performing team of journalists bas...",
-      "descriptionTeaser_keyword": "Senior Producer, China. Reuters is looking for a Senior Video Producer to manage our coverage from China. The successful candidate will lead a high-profile, high-performing team of journalists based i...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 116.41197,
-          "lat": 39.90927
-        },
-        "location": "Beijing, Beijing, China"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Bengaluru, Karnataka",
     "country": "India",
     "ml_skills": [
@@ -5350,68 +5210,6 @@
           "lat": 29.7542979
         },
         "location": "Houston, Texas, United States of America"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Bengaluru, Karnataka",
-    "country": "India",
-    "ml_skills": [
-      "build",
-      "accuracy"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "The ideal candidate must be a self-starting and ambitious correspondent with the skills and ambition to build relationships at some of the world\u2019s biggest financial companies. A strong grasp of global...",
-    "state": "Karnataka",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "77.708722",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ188976",
-    "jobId": "JREQ188976",
-    "city": "Bengaluru",
-    "latitude": "12.9776035",
-    "locale": "en_US",
-    "multi_location": [
-      "Bengaluru, Karnataka, India"
-    ],
-    "title": "Breaking News Correspondent, Finance and Markets",
-    "jobSeqNo": "THTTRUUSJREQ188976EXTERNALENUS",
-    "postedDate": "2025-04-18T00:00:00.000+0000",
-    "dateCreated": "2025-03-26T12:38:14.464+0000",
-    "cityStateCountry": "Bengaluru, Karnataka, India",
-    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/Breaking-News-Correspondent--Finance-and-Markets_JREQ188976/apply",
-    "location": "Bengaluru, Karnataka, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "The ideal candidate must be a self-starting and ambitious correspondent with the skills and ambition to build relationships at some of the world\u2019s biggest financial companies. A strong grasp of global...",
-      "descriptionTeaser_first200": "Reuters is seeking an experienced and ambitious Breaking News Correspondent, Finance and Markets to run a social media- and contacts-driven operation that will dig into day-to-day developments in b...",
-      "descriptionTeaser_keyword": "Reuters is seeking an experienced and ambitious Breaking News Correspondent, Finance and Markets to run a social media- and contacts-driven operation that will dig into day-to-day developments in bank...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 77.708722,
-          "lat": 12.9776035
-        },
-        "location": "Bengaluru, Karnataka, India"
       }
     ],
     "isMultiCategory": false,
