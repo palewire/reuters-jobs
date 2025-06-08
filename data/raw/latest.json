@@ -417,65 +417,6 @@
     "badge": ""
   },
   {
-    "cityState": "Pyrmont, New South Wales",
-    "country": "Australia",
-    "remote": "Remote",
-    "type": "Full time",
-    "descriptionTeaser": "We are looking for a qualified lawyer in Australia to leverage legal expertise in publishing. Key responsibilities include drafting and editing online content, conducting research, and maintaining up-to-date materials. Strong writing skills, attention to detail, and proficiency in Microsoft Office are essential. Join a supportive team committed to professional growth.",
-    "state": "New South Wales",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "151.1915764",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ188759",
-    "jobId": "JREQ188759",
-    "city": "Pyrmont",
-    "latitude": "-33.8664391",
-    "locale": "en_US",
-    "multi_location": [
-      "Pyrmont, New South Wales, Australia"
-    ],
-    "title": "Lawyer Editor",
-    "jobSeqNo": "THTTRUUSJREQ188759EXTERNALENUS",
-    "postedDate": "2025-06-06T00:00:00.000+0000",
-    "dateCreated": "2025-03-18T04:39:04.743+0000",
-    "cityStateCountry": "Pyrmont, New South Wales, Australia",
-    "address": "19 Harris Street, Pyrmont NSW 2009, Australia",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/AUS-Pyrmont-19-Harris-St/Lawyer-Editor_JREQ188759-1/apply",
-    "location": "Pyrmont, New South Wales, Australia",
-    "category": "News & Editorial Careers",
-    "externalApply": true,
-    "ml_skills": [],
-    "ml_job_parser": {
-      "descriptionTeaser": "We are looking for a qualified lawyer in Australia to leverage legal expertise in publishing. Key responsibilities include drafting and editing online content, conducting research, and maintaining up-to-date materials. Strong writing skills, attention to detail, and proficiency in Microsoft Office are essential. Join a supportive team committed to professional growth.",
-      "descriptionTeaser_keyword": "Lawyer Editor. Are you qualified as a Lawyer in Australia and keen to use your legal skills in publishing? Practical Law Australia is growing and we are searching for a Lawyer Editor to join a support...",
-      "descriptionTeaser_ats": "",
-      "descriptionTeaser_first200": "Lawyer Editor. Are you qualified as a Lawyer in Australia and keen to use your legal skills in publishing? Practical Law Australia is growing and we are searching for a Lawyer Editor to join a supp..."
-    },
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 151.1915764,
-          "lat": -33.8664391
-        },
-        "location": "Pyrmont, New South Wales, Australia"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Singapore",
     "country": "Singapore",
     "ml_skills": [
@@ -656,6 +597,65 @@
           "lat": -31.9522114
         },
         "location": "Perth, Western Australia, Australia"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Pyrmont, New South Wales",
+    "country": "Australia",
+    "remote": "Remote",
+    "type": "Full time",
+    "descriptionTeaser": "We are looking for a qualified lawyer in Australia to leverage legal expertise in publishing. Key responsibilities include drafting and editing online content, conducting research, and maintaining up-to-date materials. Strong writing skills, attention to detail, and proficiency in Microsoft Office are essential. Join a supportive team committed to professional growth.",
+    "state": "New South Wales",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "151.1915764",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ188759",
+    "jobId": "JREQ188759",
+    "city": "Pyrmont",
+    "latitude": "-33.8664391",
+    "locale": "en_US",
+    "multi_location": [
+      "Pyrmont, New South Wales, Australia"
+    ],
+    "title": "Lawyer Editor",
+    "jobSeqNo": "THTTRUUSJREQ188759EXTERNALENUS",
+    "postedDate": "2025-06-06T00:00:00.000+0000",
+    "dateCreated": "2025-03-18T04:39:04.743+0000",
+    "cityStateCountry": "Pyrmont, New South Wales, Australia",
+    "address": "19 Harris Street, Pyrmont NSW 2009, Australia",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/AUS-Pyrmont-19-Harris-St/Lawyer-Editor_JREQ188759-1/apply",
+    "location": "Pyrmont, New South Wales, Australia",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "ml_skills": [],
+    "ml_job_parser": {
+      "descriptionTeaser": "We are looking for a qualified lawyer in Australia to leverage legal expertise in publishing. Key responsibilities include drafting and editing online content, conducting research, and maintaining up-to-date materials. Strong writing skills, attention to detail, and proficiency in Microsoft Office are essential. Join a supportive team committed to professional growth.",
+      "descriptionTeaser_keyword": "Lawyer Editor. Are you qualified as a Lawyer in Australia and keen to use your legal skills in publishing? Practical Law Australia is growing and we are searching for a Lawyer Editor to join a support...",
+      "descriptionTeaser_ats": "",
+      "descriptionTeaser_first200": "Lawyer Editor. Are you qualified as a Lawyer in Australia and keen to use your legal skills in publishing? Practical Law Australia is growing and we are searching for a Lawyer Editor to join a supp..."
+    },
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 151.1915764,
+          "lat": -33.8664391
+        },
+        "location": "Pyrmont, New South Wales, Australia"
       }
     ],
     "isMultiCategory": false,
