@@ -75,72 +75,6 @@
     "badge": ""
   },
   {
-    "cityState": "London",
-    "country": "United Kingdom",
-    "ml_skills": [
-      "digital storytelling",
-      "storytelling",
-      "digital journalism",
-      "build",
-      "collaborate",
-      "developing"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Are you experienced in leading digital news teams with a strong focus on audience engagement and subscription growth? We seek a visionary leader with exemplary news judgment, innovative storytelling skills, and a proven track record in a fast-paced digital environment to shape the future of news delivery.",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-0.0185088",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ191668",
-    "jobId": "JREQ191668",
-    "city": "London",
-    "latitude": "51.5056439",
-    "locale": "en_US",
-    "multi_location": [
-      "London, United Kingdom"
-    ],
-    "title": "Digital Director, Reuters",
-    "jobSeqNo": "THTTRUUSJREQ191668EXTERNALENUS",
-    "postedDate": "2025-06-06T00:00:00.000+0000",
-    "dateCreated": "2025-05-21T16:45:56.100+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Digital-Director--Reuters_JREQ191668/apply",
-    "location": "London, United Kingdom",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Are you experienced in leading digital news teams with a strong focus on audience engagement and subscription growth? We seek a visionary leader with exemplary news judgment, innovative storytelling skills, and a proven track record in a fast-paced digital environment to shape the future of news delivery.",
-      "descriptionTeaser_first200": "Digital Director - Reuters. We expect the successful candidate to be based in our New York City bureau. Reuters are looking for a visionary digital leader to run our digital news team. Having recently...",
-      "descriptionTeaser_keyword": "Digital Director - Reuters. We expect the successful candidate to be based in our New York City bureau. Reuters are looking for a visionary digital leader to run our digital news team. Having recently...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -0.0185088,
-          "lat": 51.5056439
-        },
-        "location": "London, United Kingdom"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Bengaluru, Karnataka",
     "country": "India",
     "ml_skills": [
@@ -545,6 +479,65 @@
     "badge": ""
   },
   {
+    "cityState": "Pyrmont, New South Wales",
+    "country": "Australia",
+    "remote": "Remote",
+    "type": "Full time",
+    "descriptionTeaser": "We are looking for a qualified lawyer in Australia to leverage legal expertise in publishing. Key responsibilities include drafting and editing online content, conducting research, and maintaining up-to-date materials. Strong writing skills, attention to detail, and proficiency in Microsoft Office are essential. Join a supportive team committed to professional growth.",
+    "state": "New South Wales",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "151.1915764",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ188759",
+    "jobId": "JREQ188759",
+    "city": "Pyrmont",
+    "latitude": "-33.8664391",
+    "locale": "en_US",
+    "multi_location": [
+      "Pyrmont, New South Wales, Australia"
+    ],
+    "title": "Lawyer Editor",
+    "jobSeqNo": "THTTRUUSJREQ188759EXTERNALENUS",
+    "postedDate": "2025-06-06T00:00:00.000+0000",
+    "dateCreated": "2025-03-18T04:39:04.743+0000",
+    "cityStateCountry": "Pyrmont, New South Wales, Australia",
+    "address": "19 Harris Street, Pyrmont NSW 2009, Australia",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/AUS-Pyrmont-19-Harris-St/Lawyer-Editor_JREQ188759-1/apply",
+    "location": "Pyrmont, New South Wales, Australia",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "ml_skills": [],
+    "ml_job_parser": {
+      "descriptionTeaser": "We are looking for a qualified lawyer in Australia to leverage legal expertise in publishing. Key responsibilities include drafting and editing online content, conducting research, and maintaining up-to-date materials. Strong writing skills, attention to detail, and proficiency in Microsoft Office are essential. Join a supportive team committed to professional growth.",
+      "descriptionTeaser_keyword": "Lawyer Editor. Are you qualified as a Lawyer in Australia and keen to use your legal skills in publishing? Practical Law Australia is growing and we are searching for a Lawyer Editor to join a support...",
+      "descriptionTeaser_ats": "",
+      "descriptionTeaser_first200": "Lawyer Editor. Are you qualified as a Lawyer in Australia and keen to use your legal skills in publishing? Practical Law Australia is growing and we are searching for a Lawyer Editor to join a supp..."
+    },
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 151.1915764,
+          "lat": -33.8664391
+        },
+        "location": "Pyrmont, New South Wales, Australia"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Perth, Western Australia",
     "country": "Australia",
     "remote": "Remote",
@@ -597,65 +590,6 @@
           "lat": -31.9522114
         },
         "location": "Perth, Western Australia, Australia"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Pyrmont, New South Wales",
-    "country": "Australia",
-    "remote": "Remote",
-    "type": "Full time",
-    "descriptionTeaser": "We are looking for a qualified lawyer in Australia to leverage legal expertise in publishing. Key responsibilities include drafting and editing online content, conducting research, and maintaining up-to-date materials. Strong writing skills, attention to detail, and proficiency in Microsoft Office are essential. Join a supportive team committed to professional growth.",
-    "state": "New South Wales",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "151.1915764",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ188759",
-    "jobId": "JREQ188759",
-    "city": "Pyrmont",
-    "latitude": "-33.8664391",
-    "locale": "en_US",
-    "multi_location": [
-      "Pyrmont, New South Wales, Australia"
-    ],
-    "title": "Lawyer Editor",
-    "jobSeqNo": "THTTRUUSJREQ188759EXTERNALENUS",
-    "postedDate": "2025-06-06T00:00:00.000+0000",
-    "dateCreated": "2025-03-18T04:39:04.743+0000",
-    "cityStateCountry": "Pyrmont, New South Wales, Australia",
-    "address": "19 Harris Street, Pyrmont NSW 2009, Australia",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/AUS-Pyrmont-19-Harris-St/Lawyer-Editor_JREQ188759-1/apply",
-    "location": "Pyrmont, New South Wales, Australia",
-    "category": "News & Editorial Careers",
-    "externalApply": true,
-    "ml_skills": [],
-    "ml_job_parser": {
-      "descriptionTeaser": "We are looking for a qualified lawyer in Australia to leverage legal expertise in publishing. Key responsibilities include drafting and editing online content, conducting research, and maintaining up-to-date materials. Strong writing skills, attention to detail, and proficiency in Microsoft Office are essential. Join a supportive team committed to professional growth.",
-      "descriptionTeaser_keyword": "Lawyer Editor. Are you qualified as a Lawyer in Australia and keen to use your legal skills in publishing? Practical Law Australia is growing and we are searching for a Lawyer Editor to join a support...",
-      "descriptionTeaser_ats": "",
-      "descriptionTeaser_first200": "Lawyer Editor. Are you qualified as a Lawyer in Australia and keen to use your legal skills in publishing? Practical Law Australia is growing and we are searching for a Lawyer Editor to join a supp..."
-    },
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 151.1915764,
-          "lat": -33.8664391
-        },
-        "location": "Pyrmont, New South Wales, Australia"
       }
     ],
     "isMultiCategory": false,
@@ -3111,71 +3045,6 @@
           "lat": 38.9004793
         },
         "location": "Washington, District of Columbia, United States of America"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "",
-    "country": "South Africa",
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Seeking a dynamic journalist with strong news judgment and a passion for speed and accuracy. Ideal candidates will have at least three years of experience, exceptional writing skills, and the ability to cover breaking news across Sub-Saharan Africa while collaborating with colleagues and monitoring key developments in real-time.",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "28.0535995",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ190338",
-    "jobId": "JREQ190338",
-    "city": "",
-    "latitude": "-26.1069543",
-    "locale": "en_US",
-    "multi_location": [
-      "South Africa"
-    ],
-    "title": "Breaking News Correspondent, Sub-Saharan Africa",
-    "jobSeqNo": "THTTRUUSJREQ190338EXTERNALENUS",
-    "postedDate": "2025-05-15T00:00:00.000+0000",
-    "dateCreated": "2025-05-15T16:38:08.861+0000",
-    "cityStateCountry": "South Africa",
-    "address": "2 Maude Street, Sandton, Johannesburg, 2196, South Africa",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/ZAF-Johannesburg-2-Maude-Street/Breaking-News-Correspondent--Sub-Saharan-Africa_JREQ190338/apply",
-    "location": "South Africa",
-    "category": "News & Editorial Careers",
-    "externalApply": true,
-    "ml_skills": [
-      "writing skills",
-      "portuguese",
-      "french",
-      "accuracy",
-      "coordinate"
-    ],
-    "ml_job_parser": {
-      "descriptionTeaser": "Seeking a dynamic journalist with strong news judgment and a passion for speed and accuracy. Ideal candidates will have at least three years of experience, exceptional writing skills, and the ability to cover breaking news across Sub-Saharan Africa while collaborating with colleagues and monitoring key developments in real-time.",
-      "descriptionTeaser_keyword": "Breaking News Correspondent, Sub-Saharan Africa. Reuters is looking for a journalist with strong news judgement and a passion for speed and accuracy to join our Breaking News team in Sub-Saharan Afric...",
-      "descriptionTeaser_ats": "",
-      "descriptionTeaser_first200": "Breaking News Correspondent, Sub-Saharan Africa. Reuters is looking for a journalist with strong news judgement and a passion for speed and accuracy to join our Breaking News team in Sub-Saharan Afric..."
-    },
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 28.0535995,
-          "lat": -26.1069543
-        },
-        "location": "South Africa"
       }
     ],
     "isMultiCategory": false,
