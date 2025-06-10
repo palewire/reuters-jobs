@@ -1,5 +1,74 @@
 [
   {
+    "cityState": "Tokyo",
+    "country": "Japan",
+    "ml_skills": [
+      "journalism",
+      "digital media",
+      "task flexibility",
+      "ms excel",
+      "technical skills",
+      "uploaders",
+      "data analysis",
+      "data entry",
+      "performing data analysis"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Data entry, distribution and other tasks as assigned by the Editorial news operation. Maintaining and updating administrative records and reports using MS Excel, including tracking metrics, creating s...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "139.7488929",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ191566",
+    "jobId": "JREQ191566",
+    "city": "Tokyo",
+    "latitude": "35.6621409",
+    "locale": "en_US",
+    "multi_location": [
+      "Tokyo, Japan"
+    ],
+    "title": "Digital News Assistant Producer (12 Month FTC)",
+    "jobSeqNo": "THTTRUUSJREQ191566EXTERNALENUS",
+    "postedDate": "2025-06-10T00:00:00.000+0000",
+    "dateCreated": "2025-06-10T04:46:06.103+0000",
+    "cityStateCountry": "Tokyo, Japan",
+    "address": "10F Atago Green Hills Mori Tower, 2-5-1 Atago, Minato-ku, Tokyo, 105-6210, Japan",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/JPN-Tokyo-Atago-Green-Hills/Digital-News-Assistant-Producer--12-Month-FTC-_JREQ191566/apply",
+    "location": "Tokyo, Japan",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Data entry, distribution and other tasks as assigned by the Editorial news operation. Maintaining and updating administrative records and reports using MS Excel, including tracking metrics, creating s...",
+      "descriptionTeaser_first200": "Digital News Assistant Producer (12 Month Fixed-Term Contract). Thomson Reuters is seeking a Digital News Assistant Producer to contribute to the Reuters Japan online team. You will be responsible ...",
+      "descriptionTeaser_keyword": "Digital News Assistant Producer (12 Month Fixed-Term Contract). Thomson Reuters is seeking a Digital News Assistant Producer to contribute to the Reuters Japan online team. You will be responsible for...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 139.7488929,
+          "lat": 35.6621409
+        },
+        "location": "Tokyo, Japan"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "London",
     "country": "United Kingdom",
     "ml_skills": [
