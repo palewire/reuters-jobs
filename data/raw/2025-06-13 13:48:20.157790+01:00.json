@@ -1,79 +1,10 @@
 [
   {
-    "cityState": "Tokyo",
-    "country": "Japan",
-    "ml_skills": [
-      "journalism",
-      "digital media",
-      "task flexibility",
-      "ms excel",
-      "technical skills",
-      "uploaders",
-      "data analysis",
-      "data entry",
-      "performing data analysis"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Data entry, distribution and other tasks as assigned by the Editorial news operation. Maintaining and updating administrative records and reports using MS Excel, including tracking metrics, creating s...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "139.7488929",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ191566",
-    "jobId": "JREQ191566",
-    "city": "Tokyo",
-    "latitude": "35.6621409",
-    "locale": "en_US",
-    "multi_location": [
-      "Tokyo, Japan"
-    ],
-    "title": "Digital News Assistant Producer (12 Month FTC)",
-    "jobSeqNo": "THTTRUUSJREQ191566EXTERNALENUS",
-    "postedDate": "2025-06-10T00:00:00.000+0000",
-    "dateCreated": "2025-06-10T04:46:06.103+0000",
-    "cityStateCountry": "Tokyo, Japan",
-    "address": "10F Atago Green Hills Mori Tower, 2-5-1 Atago, Minato-ku, Tokyo, 105-6210, Japan",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/JPN-Tokyo-Atago-Green-Hills/Digital-News-Assistant-Producer--12-Month-FTC-_JREQ191566/apply",
-    "location": "Tokyo, Japan",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Data entry, distribution and other tasks as assigned by the Editorial news operation. Maintaining and updating administrative records and reports using MS Excel, including tracking metrics, creating s...",
-      "descriptionTeaser_first200": "Digital News Assistant Producer (12 Month Fixed-Term Contract). Thomson Reuters is seeking a Digital News Assistant Producer to contribute to the Reuters Japan online team. You will be responsible ...",
-      "descriptionTeaser_keyword": "Digital News Assistant Producer (12 Month Fixed-Term Contract). Thomson Reuters is seeking a Digital News Assistant Producer to contribute to the Reuters Japan online team. You will be responsible for...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 139.7488929,
-          "lat": 35.6621409
-        },
-        "location": "Tokyo, Japan"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "London",
     "country": "United Kingdom",
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "Senior Correspondent - Reuters, The InsurerAre you an experienced journalist looking for a new challenge? Want to cover a dynamic segment of the financial services sector as part of the Reuters newsro",
+    "descriptionTeaser": "Working within the Reuters newsroom, you\u2019ll break exclusive news for The Insurer\u2019s readers as well as the Reuters global audience of financial professionals. Break exclusives: Generate valuable news c...",
     "state": "",
     "visibilityType": "External",
     "siteType": "external",
@@ -89,9 +20,9 @@
     "multi_location": [
       "London, United Kingdom"
     ],
-    "title": "Senior Correspondent - Reuters, The Insurer",
+    "title": "Senior Correspondent - The Insurer",
     "jobSeqNo": "THTTRUUSJREQ191711EXTERNALENUS",
-    "postedDate": "2025-06-10T00:00:00.000+0000",
+    "postedDate": "2025-06-13T00:00:00.000+0000",
     "dateCreated": "2025-06-10T16:44:36.582+0000",
     "cityStateCountry": "London, United Kingdom",
     "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
@@ -102,6 +33,19 @@
     "location": "London, United Kingdom",
     "category": "News & Editorial Careers",
     "externalApply": true,
+    "ml_skills": [
+      "pitching",
+      "pitching ideas",
+      "financial services",
+      "reinsurance",
+      "ai"
+    ],
+    "ml_job_parser": {
+      "descriptionTeaser": "Working within the Reuters newsroom, you\u2019ll break exclusive news for The Insurer\u2019s readers as well as the Reuters global audience of financial professionals. Break exclusives: Generate valuable news c...",
+      "descriptionTeaser_keyword": "Senior Correspondent - Reuters, The Insurer. This position will be based in London with hybrid working available. Are you an experienced journalist looking for a new challenge? Like the sound of cover...",
+      "descriptionTeaser_ats": "",
+      "descriptionTeaser_first200": "Senior Correspondent - Reuters, The Insurer. This position will be based in London with hybrid working available. Are you an experienced journalist looking for a new challenge? Like the sound of co..."
+    },
     "isMultiLocation": true,
     "multi_location_array": [
       {
@@ -121,46 +65,47 @@
     "badge": ""
   },
   {
-    "cityState": "London",
-    "country": "United Kingdom",
+    "cityState": "Eagan, Minnesota",
+    "country": "United States of America",
     "ml_skills": [
-      "liaising",
-      "product management"
+      "legal research"
     ],
-    "remote": "Remote",
-    "type": "Part time",
-    "descriptionTeaser": "Seeking an experienced Scots Private Client lawyer with substantial post-qualification experience to create and maintain diverse legal content. Responsibilities include writing, editing, and collaborating with teams to deliver high-quality resources. A strong understanding of trusts and estates law and a passion for writing are essential.",
-    "state": "",
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "In this role you will provide legal interpretation in the form of research, analysis, and writing to support the development and maintenance of Thomson Reuters Legal information in all media. To be mo...",
+    "state": "Minnesota",
     "visibilityType": "External",
     "siteType": "external",
-    "longitude": "-0.0185088",
+    "longitude": "-93.10793129999999",
     "multi_category": [
       "News & Editorial Careers"
     ],
-    "reqId": "JREQ189533",
-    "jobId": "JREQ189533",
-    "city": "London",
-    "latitude": "51.5056439",
+    "reqId": "JREQ190580",
+    "jobId": "JREQ190580",
+    "city": "Eagan",
+    "latitude": "44.8524402",
     "locale": "en_US",
     "multi_location": [
-      "London, United Kingdom"
+      "Eagan, Minnesota, United States of America",
+      "Ann Arbor, Michigan, United States of America",
+      "Frisco, Texas, United States of America"
     ],
-    "title": "Senior Specialist Legal Editor, Practical Law Private Client",
-    "jobSeqNo": "THTTRUUSJREQ189533EXTERNALENUS",
-    "postedDate": "2025-06-10T00:00:00.000+0000",
-    "dateCreated": "2025-04-07T16:38:46.952+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "title": "Attorney Editor",
+    "jobSeqNo": "THTTRUUSJREQ190580EXTERNALENUS",
+    "postedDate": "2025-06-12T00:00:00.000+0000",
+    "dateCreated": "2025-04-24T00:38:22.120+0000",
+    "cityStateCountry": "Eagan, Minnesota, United States of America",
+    "address": "2900 Ames Crossing Road, Ste 100, Eagan, MN 55121, United States of America",
     "jobVisibility": [
       "external"
     ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Senior-Specialist-Legal-Editor--Practical-Law-Private-Client_JREQ189533/apply",
-    "location": "London, United Kingdom",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MSP-2900-Ames-Crossing-Road/Attorney-Editor_JREQ190580-1/apply",
+    "location": "Eagan, Minnesota, United States of America",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "Seeking an experienced Scots Private Client lawyer with substantial post-qualification experience to create and maintain diverse legal content. Responsibilities include writing, editing, and collaborating with teams to deliver high-quality resources. A strong understanding of trusts and estates law and a passion for writing are essential.",
-      "descriptionTeaser_first200": "Senior Specialist Legal Editor, Practical Law Private Client (Scots Law). We are seeking an experienced Scots Private Client lawyer to join the Practical Law Private Client team in the UK. Practical L...",
-      "descriptionTeaser_keyword": "Senior Specialist Legal Editor, Practical Law Private Client (Scots Law). We are seeking an experienced Scots Private Client lawyer to join the Practical Law Private Client team in the UK. Practical L...",
+      "descriptionTeaser": "In this role you will provide legal interpretation in the form of research, analysis, and writing to support the development and maintenance of Thomson Reuters Legal information in all media. To be mo...",
+      "descriptionTeaser_first200": "Attorney Editor. In this role you will provide legal interpretation in the form of research, analysis, and writing to support the development and maintenance of Thomson Reuters Legal information in...",
+      "descriptionTeaser_keyword": "Attorney Editor. In this role you will provide legal interpretation in the form of research, analysis, and writing to support the development and maintenance of Thomson Reuters Legal information in al...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
@@ -168,10 +113,24 @@
     "multi_location_array": [
       {
         "latlong": {
-          "lon": -0.0185088,
-          "lat": 51.5056439
+          "lon": -93.10793129999999,
+          "lat": 44.8524402
         },
-        "location": "London, United Kingdom"
+        "location": "Eagan, Minnesota, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -83.72689749999999,
+          "lat": 42.1961884
+        },
+        "location": "Ann Arbor, Michigan, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -96.833545,
+          "lat": 33.1073049
+        },
+        "location": "Frisco, Texas, United States of America"
       }
     ],
     "isMultiCategory": false,
@@ -183,47 +142,58 @@
     "badge": ""
   },
   {
-    "cityState": "Manila",
-    "country": "Philippines",
+    "cityState": "Wellington",
+    "country": "New Zealand",
+    "ml_skills": [
+      "collaborate",
+      "search",
+      "generative ai"
+    ],
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "Attorney Editor - Practical Law Editorial: Practical Law Attorney Editors are responsible for legal research, analysis, and writing to support the maintenance of Practical Law content. Members of this",
+    "descriptionTeaser": "Are you looking for an exciting opportunity to craft and edit compelling stories on global events? Join a dynamic team where you\u2019ll produce breaking news, collaborate with award-winning journalists, and drive innovation in storytelling while honing your skills in a fast-paced environment.",
     "state": "",
     "visibilityType": "External",
+    "longitude": "174.7743618",
     "siteType": "external",
-    "longitude": "121.0497015",
     "multi_category": [
       "News & Editorial Careers"
     ],
-    "reqId": "JREQ191337",
-    "jobId": "JREQ191337",
-    "city": "Manila",
-    "latitude": "14.5348768",
+    "reqId": "JREQ190501",
+    "jobId": "JREQ190501",
+    "city": "Wellington",
+    "latitude": "-41.2859199",
     "locale": "en_US",
     "multi_location": [
-      "Manila, Philippines"
+      "Wellington, New Zealand"
     ],
-    "title": "Attorney Editor",
-    "jobSeqNo": "THTTRUUSJREQ191337EXTERNALENUS",
-    "postedDate": "2025-06-10T00:00:00.000+0000",
-    "dateCreated": "2025-06-10T12:46:30.606+0000",
-    "cityStateCountry": "Manila, Philippines",
-    "address": "20 Upper McKinley Building, Upper McKinley Road, McKinley Hill, Manila, 1634, Philippines",
+    "title": "Editor, Global News Desk",
+    "jobSeqNo": "THTTRUUSJREQ190501EXTERNALENUS",
+    "postedDate": "2025-06-12T00:00:00.000+0000",
+    "dateCreated": "2025-04-23T04:37:37.312+0000",
+    "cityStateCountry": "Wellington, New Zealand",
+    "address": "Level 19, Plimmer Towers, 2-6 Gilmer Terrace, Wellington 6011, New Zealand",
     "jobVisibility": [
       "external"
     ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/PHL-Taguig-20-Upper-McKinley-Bldg/Attorney-Editor_JREQ191337/apply",
-    "location": "Manila, Philippines",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/NZL-Wellington-Plimmer-Towers/Editor--Global-News-Desk_JREQ190501/apply",
+    "location": "Wellington, New Zealand",
     "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Are you looking for an exciting opportunity to craft and edit compelling stories on global events? Join a dynamic team where you\u2019ll produce breaking news, collaborate with award-winning journalists, and drive innovation in storytelling while honing your skills in a fast-paced environment.",
+      "descriptionTeaser_first200": "Editor, Global News Desk. Reuters is looking for an ambitious Editor for our fast-paced, round-the-clock Global News Desk. Expect to work alongside award-winning journalists in a global news organi...",
+      "descriptionTeaser_keyword": "Editor, Global News Desk. Reuters is looking for an ambitious Editor for our fast-paced, round-the-clock Global News Desk. Expect to work alongside award-winning journalists in a global news organisat...",
+      "descriptionTeaser_ats": ""
+    },
     "externalApply": true,
     "isMultiLocation": true,
     "multi_location_array": [
       {
         "latlong": {
-          "lon": 121.0497015,
-          "lat": 14.5348768
+          "lon": 174.7743618,
+          "lat": -41.2859199
         },
-        "location": "Manila, Philippines"
+        "location": "Wellington, New Zealand"
       }
     ],
     "isMultiCategory": false,
@@ -235,47 +205,60 @@
     "badge": ""
   },
   {
-    "cityState": "Bengaluru, Karnataka",
+    "cityState": "Hyderabad, Telangana",
     "country": "India",
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "Reuters is seeking a Correspondent for the Markets team. This is a great opportunity for a dynamic correspondent, who has experience in reporting, source-building and writing on financial markets or c",
-    "state": "Karnataka",
+    "descriptionTeaser": "The successful candidate will be responsible for formatting, editing and managing content on the web. Support the editorial teams in formatting and updating the content in accordance with the specifie...",
+    "state": "Telangana",
     "visibilityType": "External",
     "siteType": "external",
-    "longitude": "77.708722",
+    "longitude": "78.38589340000001",
     "multi_category": [
       "News & Editorial Careers"
     ],
-    "reqId": "JREQ191724",
-    "jobId": "JREQ191724",
-    "city": "Bengaluru",
-    "latitude": "12.9776035",
+    "reqId": "JREQ191773",
+    "jobId": "JREQ191773",
+    "city": "Hyderabad",
+    "latitude": "17.4367243",
     "locale": "en_US",
     "multi_location": [
-      "Bengaluru, Karnataka, India"
+      "Hyderabad, Telangana, India"
     ],
-    "title": "Correspondent, Markets",
-    "jobSeqNo": "THTTRUUSJREQ191724EXTERNALENUS",
-    "postedDate": "2025-06-10T00:00:00.000+0000",
-    "dateCreated": "2025-06-10T12:46:30.606+0000",
-    "cityStateCountry": "Bengaluru, Karnataka, India",
-    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
+    "title": "Editorial Support Associate",
+    "jobSeqNo": "THTTRUUSJREQ191773EXTERNALENUS",
+    "postedDate": "2025-06-11T00:00:00.000+0000",
+    "dateCreated": "2025-06-11T12:42:05.158+0000",
+    "cityStateCountry": "Hyderabad, Telangana, India",
+    "address": "Floor 12, 13 & 14, Building 11, Raheja Mindspace, Madhapur, Hyderabad- 500081, Telangana, India",
     "jobVisibility": [
       "external"
     ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/Correspondent--Markets_JREQ191724-1/apply",
-    "location": "Bengaluru, Karnataka, India",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Hyderabad-Raheja-Mindspace/Editorial-Support-Associate_JREQ191773/apply",
+    "location": "Hyderabad, Telangana, India",
     "category": "News & Editorial Careers",
     "externalApply": true,
+    "ml_skills": [
+      "content management systems",
+      "accuracy",
+      "ai",
+      "llm models",
+      "generative ai"
+    ],
+    "ml_job_parser": {
+      "descriptionTeaser": "The successful candidate will be responsible for formatting, editing and managing content on the web. Support the editorial teams in formatting and updating the content in accordance with the specifie...",
+      "descriptionTeaser_keyword": "Job Description Summary. Thomson Reuters is seeking an experienced content editor for our legal content team in India. The successful candidate will be responsible for formatting, editing and managing...",
+      "descriptionTeaser_ats": "",
+      "descriptionTeaser_first200": "Job Description Summary. Thomson Reuters is seeking an experienced content editor for our legal content team in India. The successful candidate will be responsible for formatting, editing and manag..."
+    },
     "isMultiLocation": true,
     "multi_location_array": [
       {
         "latlong": {
-          "lon": 77.708722,
-          "lat": 12.9776035
+          "lon": 78.38589340000001,
+          "lat": 17.4367243
         },
-        "location": "Bengaluru, Karnataka, India"
+        "location": "Hyderabad, Telangana, India"
       }
     ],
     "isMultiCategory": false,
@@ -287,47 +270,125 @@
     "badge": ""
   },
   {
-    "cityState": "Bengaluru, Karnataka",
-    "country": "India",
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Reuters is seeking a Senior Correspondent for the Markets team to take on one of the most important writing and reporting roles in our Bangalore newsroom.\u00a0This is an excellent opportunity for a motiva",
-    "state": "Karnataka",
+    "cityState": "Melbourne, Victoria",
+    "country": "Australia",
+    "remote": "Remote",
+    "type": "Part time",
+    "descriptionTeaser": "In this Casual Senior Publishing Specialist role you will provide leadership and work direction to the Law Reports team to assist them to resolve issues and ensure all publishing deliverables are met....",
+    "state": "Victoria",
     "visibilityType": "External",
     "siteType": "external",
-    "longitude": "77.708722",
+    "longitude": "144.9633292",
     "multi_category": [
       "News & Editorial Careers"
     ],
-    "reqId": "JREQ191722",
-    "jobId": "JREQ191722",
-    "city": "Bengaluru",
-    "latitude": "12.9776035",
+    "reqId": "JREQ191557",
+    "jobId": "JREQ191557",
+    "city": "Melbourne",
+    "latitude": "-37.8169635",
     "locale": "en_US",
     "multi_location": [
-      "Bengaluru, Karnataka, India"
+      "Melbourne, Victoria, Australia"
     ],
-    "title": "Senior Correspondent, Markets",
-    "jobSeqNo": "THTTRUUSJREQ191722EXTERNALENUS",
-    "postedDate": "2025-06-10T00:00:00.000+0000",
-    "dateCreated": "2025-06-10T12:46:30.605+0000",
-    "cityStateCountry": "Bengaluru, Karnataka, India",
-    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
+    "title": "Casual Senior Publishing Specialist (Law Reports)",
+    "jobSeqNo": "THTTRUUSJREQ191557EXTERNALENUS",
+    "postedDate": "2025-06-11T00:00:00.000+0000",
+    "dateCreated": "2025-06-11T04:47:39.341+0000",
+    "cityStateCountry": "Melbourne, Victoria, Australia",
+    "address": "333 Collins Street, Melbourne VIC 3000, Australia",
     "jobVisibility": [
       "external"
     ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/Senior-Correspondent--Markets_JREQ191722-1/apply",
-    "location": "Bengaluru, Karnataka, India",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/AUS-Melbourne-333-Collins-St/Casual-Senior-Publishing-Specialist--Law-Reports-_JREQ191557/apply",
+    "location": "Melbourne, Victoria, Australia",
     "category": "News & Editorial Careers",
+    "externalApply": true,
+    "ml_skills": [
+      "mentor"
+    ],
+    "ml_job_parser": {
+      "descriptionTeaser": "In this Casual Senior Publishing Specialist role you will provide leadership and work direction to the Law Reports team to assist them to resolve issues and ensure all publishing deliverables are met....",
+      "descriptionTeaser_first200": "Casual Senior Publishing Specialist. Do you have experience in Legal Publishing and enjoy problem solving? In this Casual Senior Publishing Specialist role you will provide leadership and work dire...",
+      "descriptionTeaser_keyword": "Casual Senior Publishing Specialist. Do you have experience in Legal Publishing and enjoy problem solving? In this Casual Senior Publishing Specialist role you will provide leadership and work directi...",
+      "descriptionTeaser_ats": ""
+    },
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 144.9633292,
+          "lat": -37.8169635
+        },
+        "location": "Melbourne, Victoria, Australia"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "New York, New York",
+    "country": "United States of America",
+    "ml_skills": [
+      "data quality",
+      "product testing",
+      "ai",
+      "process documentation",
+      "testing standards",
+      "implementing",
+      "execution",
+      "guiding",
+      "coordinate"
+    ],
+    "remote": "Remote",
+    "type": "Full time",
+    "descriptionTeaser": "Are you experienced in product testing and quality assurance? Join a dynamic team where you'll lead complex product testing, evaluate designs, and drive business initiatives. Bring your 3-5+ years of expertise to ensure top-notch functionality and make impactful recommendations. Your leadership can shape the future!",
+    "state": "New York",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-73.9870076",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ192094",
+    "jobId": "JREQ192094",
+    "city": "New York",
+    "latitude": "40.756572",
+    "locale": "en_US",
+    "multi_location": [
+      "New York, New York, United States of America"
+    ],
+    "title": "Legal AI Data Quality Lead",
+    "jobSeqNo": "THTTRUUSJREQ192094EXTERNALENUS",
+    "postedDate": "2025-06-11T00:00:00.000+0000",
+    "dateCreated": "2025-06-11T16:44:29.105+0000",
+    "cityStateCountry": "New York, New York, United States of America",
+    "address": "3 Times Square, New York, NY 10036, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-New-York-3-Times-Square/Legal-AI-Data-Quality-Lead_JREQ192094/apply",
+    "location": "New York, New York, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Are you experienced in product testing and quality assurance? Join a dynamic team where you'll lead complex product testing, evaluate designs, and drive business initiatives. Bring your 3-5+ years of expertise to ensure top-notch functionality and make impactful recommendations. Your leadership can shape the future!",
+      "descriptionTeaser_first200": "Thomson Reuters is seeking a Legal AI Data Quality to join our team. This person will manage quality assurance of assigned complex products or projects including testing the products and the systems t...",
+      "descriptionTeaser_keyword": "Thomson Reuters is seeking a Legal AI Data Quality to join our team. This person will manage quality assurance of assigned complex products or projects including testing the products and the systems t...",
+      "descriptionTeaser_ats": ""
+    },
     "externalApply": true,
     "isMultiLocation": true,
     "multi_location_array": [
       {
         "latlong": {
-          "lon": 77.708722,
-          "lat": 12.9776035
+          "lon": -73.9870076,
+          "lat": 40.756572
         },
-        "location": "Bengaluru, Karnataka, India"
+        "location": "New York, New York, United States of America"
       }
     ],
     "isMultiCategory": false,
@@ -567,6 +628,265 @@
     "badge": ""
   },
   {
+    "cityState": "Tokyo",
+    "country": "Japan",
+    "ml_skills": [
+      "journalism",
+      "digital media",
+      "task flexibility",
+      "ms excel",
+      "technical skills",
+      "uploaders",
+      "data analysis",
+      "data entry",
+      "performing data analysis"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Are you looking for an exciting opportunity to curate and upload news content in Japanese for major digital platforms? Join a dynamic team where your news judgment and technical skills will shine, enhancing audience outreach and supporting operations in a fast-paced online news environment.",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "139.7488929",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ191566",
+    "jobId": "JREQ191566",
+    "city": "Tokyo",
+    "latitude": "35.6621409",
+    "locale": "en_US",
+    "multi_location": [
+      "Tokyo, Japan"
+    ],
+    "title": "Digital News Assistant Producer (12 Month FTC)",
+    "jobSeqNo": "THTTRUUSJREQ191566EXTERNALENUS",
+    "postedDate": "2025-06-10T00:00:00.000+0000",
+    "dateCreated": "2025-06-10T04:46:06.103+0000",
+    "cityStateCountry": "Tokyo, Japan",
+    "address": "10F Atago Green Hills Mori Tower, 2-5-1 Atago, Minato-ku, Tokyo, 105-6210, Japan",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/JPN-Tokyo-Atago-Green-Hills/Digital-News-Assistant-Producer--12-Month-FTC-_JREQ191566/apply",
+    "location": "Tokyo, Japan",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Are you looking for an exciting opportunity to curate and upload news content in Japanese for major digital platforms? Join a dynamic team where your news judgment and technical skills will shine, enhancing audience outreach and supporting operations in a fast-paced online news environment.",
+      "descriptionTeaser_first200": "Digital News Assistant Producer (12 Month Fixed-Term Contract). Thomson Reuters is seeking a Digital News Assistant Producer to contribute to the Reuters Japan online team. You will be responsible for...",
+      "descriptionTeaser_keyword": "Digital News Assistant Producer (12 Month Fixed-Term Contract). Thomson Reuters is seeking a Digital News Assistant Producer to contribute to the Reuters Japan online team. You will be responsible for...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 139.7488929,
+          "lat": 35.6621409
+        },
+        "location": "Tokyo, Japan"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Manila",
+    "country": "Philippines",
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Seeking a detail-oriented professional with a Juris Doctorate to conduct legal research, analysis, and writing. Collaborate globally to maintain high-quality editorial content while engaging with AI development. Enjoy a flexible work environment and opportunities for continuous growth in a supportive culture.",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "121.0497015",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ191337",
+    "jobId": "JREQ191337",
+    "city": "Manila",
+    "latitude": "14.5348768",
+    "locale": "en_US",
+    "multi_location": [
+      "Manila, Philippines"
+    ],
+    "title": "Attorney Editor",
+    "jobSeqNo": "THTTRUUSJREQ191337EXTERNALENUS",
+    "postedDate": "2025-06-10T00:00:00.000+0000",
+    "dateCreated": "2025-06-10T12:46:30.606+0000",
+    "cityStateCountry": "Manila, Philippines",
+    "address": "20 Upper McKinley Building, Upper McKinley Road, McKinley Hill, Manila, 1634, Philippines",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/PHL-Taguig-20-Upper-McKinley-Bldg/Attorney-Editor_JREQ191337/apply",
+    "location": "Manila, Philippines",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "ml_skills": [
+      "legal research",
+      "westlaw",
+      "accuracy",
+      "pivot",
+      "collaborate",
+      "prioritize tasks"
+    ],
+    "ml_job_parser": {
+      "descriptionTeaser": "Seeking a detail-oriented professional with a Juris Doctorate to conduct legal research, analysis, and writing. Collaborate globally to maintain high-quality editorial content while engaging with AI development. Enjoy a flexible work environment and opportunities for continuous growth in a supportive culture.",
+      "descriptionTeaser_keyword": "Attorney Editor - Practical Law Editorial. Practical Law Attorney Editors are responsible for legal research, analysis, and writing to support the maintenance of Practical Law content. Members of this...",
+      "descriptionTeaser_ats": "",
+      "descriptionTeaser_first200": "Attorney Editor - Practical Law Editorial. Practical Law Attorney Editors are responsible for legal research, analysis, and writing to support the maintenance of Practical Law content. Members of this..."
+    },
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 121.0497015,
+          "lat": 14.5348768
+        },
+        "location": "Manila, Philippines"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Bengaluru, Karnataka",
+    "country": "India",
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Join a dynamic team where your reporting skills and market insights can shine. With 3-6 years of experience, you'll cover U.S. stocks and emerging markets, delivering impactful stories that shape investor decisions. Collaborate globally and grow your career in a fast-paced, award-winning environment.",
+    "state": "Karnataka",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "77.708722",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ191724",
+    "jobId": "JREQ191724",
+    "city": "Bengaluru",
+    "latitude": "12.9776035",
+    "locale": "en_US",
+    "multi_location": [
+      "Bengaluru, Karnataka, India"
+    ],
+    "title": "Correspondent, Markets",
+    "jobSeqNo": "THTTRUUSJREQ191724EXTERNALENUS",
+    "postedDate": "2025-06-10T00:00:00.000+0000",
+    "dateCreated": "2025-06-10T12:46:30.606+0000",
+    "cityStateCountry": "Bengaluru, Karnataka, India",
+    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/Correspondent--Markets_JREQ191724-1/apply",
+    "location": "Bengaluru, Karnataka, India",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "ml_skills": [
+      "journalism",
+      "market research"
+    ],
+    "ml_job_parser": {
+      "descriptionTeaser": "Join a dynamic team where your reporting skills and market insights can shine. With 3-6 years of experience, you'll cover U.S. stocks and emerging markets, delivering impactful stories that shape investor decisions. Collaborate globally and grow your career in a fast-paced, award-winning environment.",
+      "descriptionTeaser_keyword": "Reuters is seeking a Correspondent for the Markets team. This is a great opportunity for a dynamic correspondent, who has experience in reporting, source-building and writing on financial markets or c...",
+      "descriptionTeaser_ats": "",
+      "descriptionTeaser_first200": "Reuters is seeking a Correspondent for the Markets team. This is a great opportunity for a dynamic correspondent, who has experience in reporting, source-building and writing on financial markets or c..."
+    },
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 77.708722,
+          "lat": 12.9776035
+        },
+        "location": "Bengaluru, Karnataka, India"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Bengaluru, Karnataka",
+    "country": "India",
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "We are looking for a seasoned journalist with 6+ years of experience to drive coverage of major financial markets. Engage with Wall Street contacts, uncover stock trends, and deliver compelling stories that shape global narratives in a dynamic, collaborative newsroom environment. Join us in making impactful journalism!",
+    "state": "Karnataka",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "77.708722",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ191722",
+    "jobId": "JREQ191722",
+    "city": "Bengaluru",
+    "latitude": "12.9776035",
+    "locale": "en_US",
+    "multi_location": [
+      "Bengaluru, Karnataka, India"
+    ],
+    "title": "Senior Correspondent, Markets",
+    "jobSeqNo": "THTTRUUSJREQ191722EXTERNALENUS",
+    "postedDate": "2025-06-10T00:00:00.000+0000",
+    "dateCreated": "2025-06-10T12:46:30.605+0000",
+    "cityStateCountry": "Bengaluru, Karnataka, India",
+    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/Senior-Correspondent--Markets_JREQ191722-1/apply",
+    "location": "Bengaluru, Karnataka, India",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "ml_skills": [
+      "journalism",
+      "writing skills"
+    ],
+    "ml_job_parser": {
+      "descriptionTeaser": "We are looking for a seasoned journalist with 6+ years of experience to drive coverage of major financial markets. Engage with Wall Street contacts, uncover stock trends, and deliver compelling stories that shape global narratives in a dynamic, collaborative newsroom environment. Join us in making impactful journalism!",
+      "descriptionTeaser_keyword": "Reuters is seeking a Senior Correspondent for the Markets team to take on one of the most important writing and reporting roles in our Bangalore newsroom. This is an excellent opportunity for a motiva...",
+      "descriptionTeaser_ats": "",
+      "descriptionTeaser_first200": "Reuters is seeking a Senior Correspondent for the Markets team to take on one of the most important writing and reporting roles in our Bangalore newsroom. This is an excellent opportunity for a motiva..."
+    },
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 77.708722,
+          "lat": 12.9776035
+        },
+        "location": "Bengaluru, Karnataka, India"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Washington, District of Columbia",
     "country": "United States of America",
     "ml_skills": [
@@ -576,7 +896,7 @@
     ],
     "remote": "Remote",
     "type": "Full time",
-    "descriptionTeaser": "As a Senior Associate Editor at Practical Law, you will collaborate with US and global colleagues to interpret and explain legal developments in antitrust law. Research, draft, edit, and update core a...",
+    "descriptionTeaser": "Are you experienced in antitrust law with a J.D. and a passion for legal research? Join a dynamic team to draft, edit, and update essential legal resources while monitoring market developments. Embrace innovation and contribute to meaningful legal insights that empower professionals.",
     "state": "District of Columbia",
     "visibilityType": "External",
     "siteType": "external",
@@ -609,8 +929,8 @@
     "location": "Washington, District of Columbia, United States of America",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "As a Senior Associate Editor at Practical Law, you will collaborate with US and global colleagues to interpret and explain legal developments in antitrust law. Research, draft, edit, and update core a...",
-      "descriptionTeaser_first200": "Senior Associate Editor. Role Summary. As a Senior Associate Editor at Practical Law, you will collaborate with US and global colleagues to interpret and explain legal developments in antitrust law...",
+      "descriptionTeaser": "Are you experienced in antitrust law with a J.D. and a passion for legal research? Join a dynamic team to draft, edit, and update essential legal resources while monitoring market developments. Embrace innovation and contribute to meaningful legal insights that empower professionals.",
+      "descriptionTeaser_first200": "Senior Associate Editor. Role Summary. As a Senior Associate Editor at Practical Law, you will collaborate with US and global colleagues to interpret and explain legal developments in antitrust law. T...",
       "descriptionTeaser_keyword": "Senior Associate Editor. Role Summary. As a Senior Associate Editor at Practical Law, you will collaborate with US and global colleagues to interpret and explain legal developments in antitrust law. T...",
       "descriptionTeaser_ats": ""
     },
@@ -673,7 +993,7 @@
     ],
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "Provide legal interpretation through analysis and research to develop and review content for customers. Maintain and develop legal knowledge and skills training as needed to complete your work and to...",
+    "descriptionTeaser": "Join a dynamic team where your legal expertise will shape high-quality content for U.S. jurisdictions. Collaborate globally, utilize your strong analytical skills, and ensure accuracy in legal materials. Embrace flexibility, continuous growth, and the opportunity to make a real-world impact in the legal field.",
     "state": "",
     "visibilityType": "External",
     "siteType": "external",
@@ -702,8 +1022,8 @@
     "location": "Manila, Philippines",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "Provide legal interpretation through analysis and research to develop and review content for customers. Maintain and develop legal knowledge and skills training as needed to complete your work and to...",
-      "descriptionTeaser_first200": "Attorney Editor, Product - Research. Attorney Editors are responsible for validating and directing the review and publishing of United States content updates for their assigned jurisdictions and pr...",
+      "descriptionTeaser": "Join a dynamic team where your legal expertise will shape high-quality content for U.S. jurisdictions. Collaborate globally, utilize your strong analytical skills, and ensure accuracy in legal materials. Embrace flexibility, continuous growth, and the opportunity to make a real-world impact in the legal field.",
+      "descriptionTeaser_first200": "Attorney Editor, Product - Research. Attorney Editors are responsible for validating and directing the review and publishing of United States content updates for their assigned jurisdictions and produ...",
       "descriptionTeaser_keyword": "Attorney Editor, Product - Research. Attorney Editors are responsible for validating and directing the review and publishing of United States content updates for their assigned jurisdictions and produ...",
       "descriptionTeaser_ats": ""
     },
@@ -735,7 +1055,7 @@
     ],
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "As a Senior Specialist Legal Editor in Practical Law, you will use your specialist legal knowledge of advising on Employment law matters to provide and maintain a wide range of Practical Law content....",
+    "descriptionTeaser": "Are you experienced in Employment law and passionate about creating high-quality legal content? Join a dynamic team where you'll analyze developments, craft resources, and engage with industry experts. Embrace a flexible work environment while contributing to meaningful legal solutions. Your expertise can make a real impact!",
     "state": "",
     "visibilityType": "External",
     "siteType": "external",
@@ -764,8 +1084,8 @@
     "location": "London, United Kingdom",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "As a Senior Specialist Legal Editor in Practical Law, you will use your specialist legal knowledge of advising on Employment law matters to provide and maintain a wide range of Practical Law content....",
-      "descriptionTeaser_first200": "Senior Specialist Legal Editor, Practical Law Employment. We are seeking an experienced Employment law practitioner (e.g. solicitor, barrister, legal executive) to join the Practical Law Employment...",
+      "descriptionTeaser": "Are you experienced in Employment law and passionate about creating high-quality legal content? Join a dynamic team where you'll analyze developments, craft resources, and engage with industry experts. Embrace a flexible work environment while contributing to meaningful legal solutions. Your expertise can make a real impact!",
+      "descriptionTeaser_first200": "Senior Specialist Legal Editor, Practical Law Employment. We are seeking an experienced Employment law practitioner (e. g. solicitor, barrister, legal executive) to join the Practical Law Employment t...",
       "descriptionTeaser_keyword": "Senior Specialist Legal Editor, Practical Law Employment. We are seeking an experienced Employment law practitioner (e. g. solicitor, barrister, legal executive) to join the Practical Law Employment t...",
       "descriptionTeaser_ats": ""
     },
@@ -925,278 +1245,6 @@
     "badge": ""
   },
   {
-    "cityState": "Eagan, Minnesota",
-    "country": "United States of America",
-    "ml_skills": [
-      "search",
-      "english",
-      "document retrieval",
-      "feedback",
-      "meet deadlines"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "The attorney editor will learn to use a variety of editorial tools and develop or expand skill sets including writing and editing, statutory and case-law research, and gain diverse subject-matter expo...",
-    "state": "Minnesota",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-93.10793129999999",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ191880",
-    "jobId": "JREQ191880",
-    "city": "Eagan",
-    "latitude": "44.8524402",
-    "locale": "en_US",
-    "multi_location": [
-      "Eagan, Minnesota, United States of America",
-      "Frisco, Texas, United States of America",
-      "New York, New York, United States of America"
-    ],
-    "title": "Attorney Editor",
-    "jobSeqNo": "THTTRUUSJREQ191880EXTERNALENUS",
-    "postedDate": "2025-06-06T00:00:00.000+0000",
-    "dateCreated": "2025-06-06T20:42:30.709+0000",
-    "cityStateCountry": "Eagan, Minnesota, United States of America",
-    "address": "2900 Ames Crossing Road, Ste 100, Eagan, MN 55121, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MSP-2900-Ames-Crossing-Road/Attorney-Editor_JREQ191880/apply",
-    "location": "Eagan, Minnesota, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "The attorney editor will learn to use a variety of editorial tools and develop or expand skill sets including writing and editing, statutory and case-law research, and gain diverse subject-matter expo...",
-      "descriptionTeaser_first200": "Attorney Editor. Role Summary. The attorney editor in this Twin Cities based Core Editorial position will gain improved understanding of the business objectives and editorial processes for know-how pr...",
-      "descriptionTeaser_keyword": "Attorney Editor. Role Summary. The attorney editor in this Twin Cities based Core Editorial position will gain improved understanding of the business objectives and editorial processes for know-how pr...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -93.10793129999999,
-          "lat": 44.8524402
-        },
-        "location": "Eagan, Minnesota, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -96.833545,
-          "lat": 33.1073049
-        },
-        "location": "Frisco, Texas, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -73.9870076,
-          "lat": 40.756572
-        },
-        "location": "New York, New York, United States of America"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Singapore",
-    "country": "Singapore",
-    "ml_skills": [
-      "video production",
-      "video editing"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Lead Digital Producer, Packaged Video. Reuters is looking for a lead producer with outstanding news judgement, excellent writing and editing skills, and extensive experience creating news and features...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "103.7934252",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ191433",
-    "jobId": "JREQ191433",
-    "city": "Singapore",
-    "latitude": "1.2938457",
-    "locale": "en_US",
-    "multi_location": [
-      "Singapore, Singapore"
-    ],
-    "title": "Lead Digital Producer, Packaged Video",
-    "jobSeqNo": "THTTRUUSJREQ191433EXTERNALENUS",
-    "postedDate": "2025-06-06T00:00:00.000+0000",
-    "dateCreated": "2025-05-20T08:45:16.154+0000",
-    "cityStateCountry": "Singapore, Singapore",
-    "address": "ALICE@Mediapolis, 29 Media Circle,  #09-05, Singapore 138565, Singapore",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/SGP-Singapore-ALICEMediapolis/Lead-Digital-Producer--Packaged-Video_JREQ191433/apply",
-    "location": "Singapore, Singapore",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Lead Digital Producer, Packaged Video. Reuters is looking for a lead producer with outstanding news judgement, excellent writing and editing skills, and extensive experience creating news and features...",
-      "descriptionTeaser_first200": "Lead Digital Producer, Packaged Video. This is a key role within the Asia video team of the world\u2019s largest international multimedia news provider. Reuters is looking for a lead producer with outstand...",
-      "descriptionTeaser_keyword": "Lead Digital Producer, Packaged Video. This is a key role within the Asia video team of the world\u2019s largest international multimedia news provider. Reuters is looking for a lead producer with outstand...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 103.7934252,
-          "lat": 1.2938457
-        },
-        "location": "Singapore, Singapore"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Perth, Western Australia",
-    "country": "Australia",
-    "remote": "Remote",
-    "type": "Full time",
-    "descriptionTeaser": "The successful candidate will produce a full range of Reuters stories \u2013 building a substantial spot news file and writing smart market reports as well as delivering high-value exclusives and insightfu...",
-    "state": "Western Australia",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "115.8426337",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ190451",
-    "jobId": "JREQ190451",
-    "city": "Perth",
-    "latitude": "-31.9522114",
-    "locale": "en_US",
-    "multi_location": [
-      "Perth, Western Australia, Australia"
-    ],
-    "title": "Energy Correspondent, Australia",
-    "jobSeqNo": "THTTRUUSJREQ190451EXTERNALENUS",
-    "postedDate": "2025-06-06T00:00:00.000+0000",
-    "dateCreated": "2025-05-07T08:44:46.717+0000",
-    "cityStateCountry": "Perth, Western Australia, Australia",
-    "address": "Ground Floor, 7 Havelock Street, Perth WA 6005, Australia",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/AUS-Perth-7-Havelock-St/Energy-Correspondent--Australia_JREQ190451/apply",
-    "location": "Perth, Western Australia, Australia",
-    "category": "News & Editorial Careers",
-    "externalApply": true,
-    "ml_skills": [
-      "conceptualization",
-      "ai",
-      "collaborative approach"
-    ],
-    "ml_job_parser": {
-      "descriptionTeaser": "The successful candidate will produce a full range of Reuters stories \u2013 building a substantial spot news file and writing smart market reports as well as delivering high-value exclusives and insightfu...",
-      "descriptionTeaser_keyword": "Energy Correspondent, Australia. Reuters is looking for a driven and enterprising Energy Correspondent who can break news and produce agenda-setting news coverage from Australia, home to some of the r...",
-      "descriptionTeaser_ats": "",
-      "descriptionTeaser_first200": "Energy Correspondent, Australia. Reuters is looking for a driven and enterprising Energy Correspondent who can break news and produce agenda-setting news coverage from Australia, home to some of the r..."
-    },
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 115.8426337,
-          "lat": -31.9522114
-        },
-        "location": "Perth, Western Australia, Australia"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Singapore",
-    "country": "Singapore",
-    "ml_skills": [
-      "digital media",
-      "storytelling",
-      "feedback",
-      "coordinate",
-      "accuracy",
-      "management skills"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "You will be responsible for overseeing a daily news file and shaping the day-to-day priorities of a team of staff tasked with delivering fast, accurate and original coverage to our diverse global clie...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "103.7934252",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ190493",
-    "jobId": "JREQ190493",
-    "city": "Singapore",
-    "latitude": "1.2938457",
-    "locale": "en_US",
-    "multi_location": [
-      "Singapore, Singapore"
-    ],
-    "title": "Output Editor",
-    "jobSeqNo": "THTTRUUSJREQ190493EXTERNALENUS",
-    "postedDate": "2025-06-06T00:00:00.000+0000",
-    "dateCreated": "2025-05-05T08:42:38.725+0000",
-    "cityStateCountry": "Singapore, Singapore",
-    "address": "ALICE@Mediapolis, 29 Media Circle,  #09-05, Singapore 138565, Singapore",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/SGP-Singapore-ALICEMediapolis/Output-Editor_JREQ190493-1/apply",
-    "location": "Singapore, Singapore",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "You will be responsible for overseeing a daily news file and shaping the day-to-day priorities of a team of staff tasked with delivering fast, accurate and original coverage to our diverse global clie...",
-      "descriptionTeaser_first200": "Output Editor. Reuters is looking for an accomplished and dynamic news editor to run our video news Output desk in our global news hub in Singapore. This is a great opportunity to join a multi-skilled...",
-      "descriptionTeaser_keyword": "Output Editor. Reuters is looking for an accomplished and dynamic news editor to run our video news Output desk in our global news hub in Singapore. This is a great opportunity to join a multi-skilled...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 103.7934252,
-          "lat": 1.2938457
-        },
-        "location": "Singapore, Singapore"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Beijing, Beijing",
     "country": "China",
     "ml_skills": [
@@ -1331,6 +1379,278 @@
     "badge": ""
   },
   {
+    "cityState": "Perth, Western Australia",
+    "country": "Australia",
+    "remote": "Remote",
+    "type": "Full time",
+    "descriptionTeaser": "Seeking a driven journalist with a knack for breaking news in the energy sector. Dive into Australia\u2019s dynamic oil and gas landscape, craft exclusive stories, and collaborate with a global team to deliver impactful coverage. Join us to shape the future of energy reporting!",
+    "state": "Western Australia",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "115.8426337",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ190451",
+    "jobId": "JREQ190451",
+    "city": "Perth",
+    "latitude": "-31.9522114",
+    "locale": "en_US",
+    "multi_location": [
+      "Perth, Western Australia, Australia"
+    ],
+    "title": "Energy Correspondent, Australia",
+    "jobSeqNo": "THTTRUUSJREQ190451EXTERNALENUS",
+    "postedDate": "2025-06-06T00:00:00.000+0000",
+    "dateCreated": "2025-05-07T08:44:46.717+0000",
+    "cityStateCountry": "Perth, Western Australia, Australia",
+    "address": "Ground Floor, 7 Havelock Street, Perth WA 6005, Australia",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/AUS-Perth-7-Havelock-St/Energy-Correspondent--Australia_JREQ190451/apply",
+    "location": "Perth, Western Australia, Australia",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "ml_skills": [
+      "conceptualization",
+      "ai",
+      "collaborative approach"
+    ],
+    "ml_job_parser": {
+      "descriptionTeaser": "Seeking a driven journalist with a knack for breaking news in the energy sector. Dive into Australia\u2019s dynamic oil and gas landscape, craft exclusive stories, and collaborate with a global team to deliver impactful coverage. Join us to shape the future of energy reporting!",
+      "descriptionTeaser_keyword": "Energy Correspondent, Australia. Reuters is looking for a driven and enterprising Energy Correspondent who can break news and produce agenda-setting news coverage from Australia, home to some of the r...",
+      "descriptionTeaser_ats": "",
+      "descriptionTeaser_first200": "Energy Correspondent, Australia. Reuters is looking for a driven and enterprising Energy Correspondent who can break news and produce agenda-setting news coverage from Australia, home to some of the r..."
+    },
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 115.8426337,
+          "lat": -31.9522114
+        },
+        "location": "Perth, Western Australia, Australia"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Singapore",
+    "country": "Singapore",
+    "ml_skills": [
+      "digital media",
+      "storytelling",
+      "feedback",
+      "coordinate",
+      "accuracy",
+      "management skills"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "We are looking for an accomplished news editor to lead a dynamic video news team in delivering fast, accurate coverage. Utilize your strong leadership, exceptional communication skills, and extensive visual journalism experience to shape daily priorities and respond to breaking news in a global setting.",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "103.7934252",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ190493",
+    "jobId": "JREQ190493",
+    "city": "Singapore",
+    "latitude": "1.2938457",
+    "locale": "en_US",
+    "multi_location": [
+      "Singapore, Singapore"
+    ],
+    "title": "Output Editor",
+    "jobSeqNo": "THTTRUUSJREQ190493EXTERNALENUS",
+    "postedDate": "2025-06-06T00:00:00.000+0000",
+    "dateCreated": "2025-05-05T08:42:38.725+0000",
+    "cityStateCountry": "Singapore, Singapore",
+    "address": "ALICE@Mediapolis, 29 Media Circle,  #09-05, Singapore 138565, Singapore",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/SGP-Singapore-ALICEMediapolis/Output-Editor_JREQ190493-1/apply",
+    "location": "Singapore, Singapore",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "We are looking for an accomplished news editor to lead a dynamic video news team in delivering fast, accurate coverage. Utilize your strong leadership, exceptional communication skills, and extensive visual journalism experience to shape daily priorities and respond to breaking news in a global setting.",
+      "descriptionTeaser_first200": "Output Editor. Reuters is looking for an accomplished and dynamic news editor to run our video news Output desk in our global news hub in Singapore. This is a great opportunity to join a multi-skilled...",
+      "descriptionTeaser_keyword": "Output Editor. Reuters is looking for an accomplished and dynamic news editor to run our video news Output desk in our global news hub in Singapore. This is a great opportunity to join a multi-skilled...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 103.7934252,
+          "lat": 1.2938457
+        },
+        "location": "Singapore, Singapore"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Singapore",
+    "country": "Singapore",
+    "ml_skills": [
+      "video production",
+      "video editing"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Seeking a dynamic digital producer with strong news judgment and video editing expertise to craft compelling visual stories. Collaborate with a talented team, supervise fellow producers, and innovate formats for digital platforms. Join a fast-paced environment where your creativity and leadership can shine!",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "103.7934252",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ191433",
+    "jobId": "JREQ191433",
+    "city": "Singapore",
+    "latitude": "1.2938457",
+    "locale": "en_US",
+    "multi_location": [
+      "Singapore, Singapore"
+    ],
+    "title": "Lead Digital Producer, Packaged Video",
+    "jobSeqNo": "THTTRUUSJREQ191433EXTERNALENUS",
+    "postedDate": "2025-06-06T00:00:00.000+0000",
+    "dateCreated": "2025-05-20T08:45:16.154+0000",
+    "cityStateCountry": "Singapore, Singapore",
+    "address": "ALICE@Mediapolis, 29 Media Circle,  #09-05, Singapore 138565, Singapore",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/SGP-Singapore-ALICEMediapolis/Lead-Digital-Producer--Packaged-Video_JREQ191433/apply",
+    "location": "Singapore, Singapore",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Seeking a dynamic digital producer with strong news judgment and video editing expertise to craft compelling visual stories. Collaborate with a talented team, supervise fellow producers, and innovate formats for digital platforms. Join a fast-paced environment where your creativity and leadership can shine!",
+      "descriptionTeaser_first200": "Lead Digital Producer, Packaged Video. This is a key role within the Asia video team of the world\u2019s largest international multimedia news provider. Reuters is looking for a lead producer with outstand...",
+      "descriptionTeaser_keyword": "Lead Digital Producer, Packaged Video. This is a key role within the Asia video team of the world\u2019s largest international multimedia news provider. Reuters is looking for a lead producer with outstand...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 103.7934252,
+          "lat": 1.2938457
+        },
+        "location": "Singapore, Singapore"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Eagan, Minnesota",
+    "country": "United States of America",
+    "ml_skills": [
+      "search",
+      "english",
+      "document retrieval",
+      "feedback",
+      "meet deadlines"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Are you experienced in legal writing and editing? Join a dynamic editorial team where you'll enhance your skills in statutory research and content development, while contributing to innovative legal resources. Embrace a flexible work environment and take part in shaping the future of legal services!",
+    "state": "Minnesota",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-93.10793129999999",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ191880",
+    "jobId": "JREQ191880",
+    "city": "Eagan",
+    "latitude": "44.8524402",
+    "locale": "en_US",
+    "multi_location": [
+      "Eagan, Minnesota, United States of America",
+      "Frisco, Texas, United States of America",
+      "New York, New York, United States of America"
+    ],
+    "title": "Attorney Editor",
+    "jobSeqNo": "THTTRUUSJREQ191880EXTERNALENUS",
+    "postedDate": "2025-06-06T00:00:00.000+0000",
+    "dateCreated": "2025-06-06T20:42:30.709+0000",
+    "cityStateCountry": "Eagan, Minnesota, United States of America",
+    "address": "2900 Ames Crossing Road, Ste 100, Eagan, MN 55121, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MSP-2900-Ames-Crossing-Road/Attorney-Editor_JREQ191880/apply",
+    "location": "Eagan, Minnesota, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Are you experienced in legal writing and editing? Join a dynamic editorial team where you'll enhance your skills in statutory research and content development, while contributing to innovative legal resources. Embrace a flexible work environment and take part in shaping the future of legal services!",
+      "descriptionTeaser_first200": "Attorney Editor. Role Summary. The attorney editor in this Twin Cities based Core Editorial position will gain improved understanding of the business objectives and editorial processes for know-how pr...",
+      "descriptionTeaser_keyword": "Attorney Editor. Role Summary. The attorney editor in this Twin Cities based Core Editorial position will gain improved understanding of the business objectives and editorial processes for know-how pr...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -93.10793129999999,
+          "lat": 44.8524402
+        },
+        "location": "Eagan, Minnesota, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -96.833545,
+          "lat": 33.1073049
+        },
+        "location": "Frisco, Texas, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -73.9870076,
+          "lat": 40.756572
+        },
+        "location": "New York, New York, United States of America"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Pyrmont, New South Wales",
     "country": "Australia",
     "remote": "Remote",
@@ -1379,74 +1699,6 @@
           "lat": -33.8664391
         },
         "location": "Pyrmont, New South Wales, Australia"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Hyderabad, Telangana",
-    "country": "India",
-    "ml_skills": [
-      "testing experience",
-      "testing process",
-      "user testing",
-      "html",
-      "xml",
-      "accounting",
-      "tax software",
-      "communication skills"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Independently, the candidate must be able to analyze and resolve complex tax software problems, document software deficiencies and understand the business/customer requirements. Evaluate design, speci...",
-    "state": "Telangana",
-    "visibilityType": "External",
-    "longitude": "78.38589340000001",
-    "siteType": "external",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ189595",
-    "jobId": "JREQ189595",
-    "city": "Hyderabad",
-    "latitude": "17.4367243",
-    "locale": "en_US",
-    "multi_location": [
-      "Hyderabad, Telangana, India"
-    ],
-    "title": "US Taxation - Associate Quality Assurance & E-File Analyst",
-    "jobSeqNo": "THTTRUUSJREQ189595EXTERNALENUS",
-    "postedDate": "2025-06-05T00:00:00.000+0000",
-    "dateCreated": "2025-04-07T08:39:06.775+0000",
-    "cityStateCountry": "Hyderabad, Telangana, India",
-    "address": "Floor 12, 13 & 14, Building 11, Raheja Mindspace, Madhapur, Hyderabad- 500081, Telangana, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Hyderabad-Raheja-Mindspace/US-Taxation---Associate-Quality-Assurance---E-File-Analyst_JREQ189595/apply",
-    "location": "Hyderabad, Telangana, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Independently, the candidate must be able to analyze and resolve complex tax software problems, document software deficiencies and understand the business/customer requirements. Evaluate design, speci...",
-      "descriptionTeaser_first200": "Job Description. Independently, the candidate must be able to analyze and resolve complex tax software problems, document software deficiencies and understand the business/customer requirements. Ab...",
-      "descriptionTeaser_keyword": "Job Description. Independently, the candidate must be able to analyze and resolve complex tax software problems, document software deficiencies and understand the business/customer requirements. About...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 78.38589340000001,
-          "lat": 17.4367243
-        },
-        "location": "Hyderabad, Telangana, India"
       }
     ],
     "isMultiCategory": false,
@@ -1585,137 +1837,6 @@
     "badge": ""
   },
   {
-    "cityState": "Hong Kong",
-    "country": "Hong Kong",
-    "ml_skills": [
-      "administrative support",
-      "invoice processing",
-      "document management",
-      "sap",
-      "computer literacy",
-      "developing",
-      "full lifecycle",
-      "vendor management"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "This role will help in the delivery of specialist knowledge through timely and responsive support to the HK Team and wider AEM regions. Accurate, timely and responsive support to the HK Print Team and...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "114.2169064",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ191680",
-    "jobId": "JREQ191680",
-    "city": "Hong Kong",
-    "latitude": "22.2876586",
-    "locale": "en_US",
-    "multi_location": [
-      "Hong Kong, Hong Kong"
-    ],
-    "title": "Administrative Assistant",
-    "jobSeqNo": "THTTRUUSJREQ191680EXTERNALENUS",
-    "postedDate": "2025-06-05T00:00:00.000+0000",
-    "dateCreated": "2025-05-28T04:37:59.620+0000",
-    "cityStateCountry": "Hong Kong, Hong Kong",
-    "address": "15/F, 14 Taikoo Wan Road, Taikoo Shing, Hong Kong, Hong Kong",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/HKG-Taikoo-14-Taikoo-Wan-Road/Administrative-Assistant_JREQ191680/apply",
-    "location": "Hong Kong, Hong Kong",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "This role will help in the delivery of specialist knowledge through timely and responsive support to the HK Team and wider AEM regions. Accurate, timely and responsive support to the HK Print Team and...",
-      "descriptionTeaser_first200": "Administrative Assistant. Join one of Asia\u2019s most respected providers for the business and legal professions, Thomson Reuters. This role will help in the delivery of specialist knowledge through timel...",
-      "descriptionTeaser_keyword": "Administrative Assistant. Join one of Asia\u2019s most respected providers for the business and legal professions, Thomson Reuters. This role will help in the delivery of specialist knowledge through timel...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 114.2169064,
-          "lat": 22.2876586
-        },
-        "location": "Hong Kong, Hong Kong"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Shanghai, Shanghai",
-    "country": "China",
-    "ml_skills": [
-      "monitoring",
-      "mandarin",
-      "collaborate"
-    ],
-    "remote": "On-Site",
-    "type": "Full time",
-    "descriptionTeaser": "Reuters is looking for an energetic Researcher with strong news judgement to join our team in Shanghai. The Shanghai Researcher will work closely with the text, video and photo teams in Shanghai and S...",
-    "state": "Shanghai",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "121.504161",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ190760",
-    "jobId": "JREQ190760",
-    "city": "Shanghai",
-    "latitude": "31.24097799999999",
-    "locale": "en_US",
-    "multi_location": [
-      "Shanghai, Shanghai, China"
-    ],
-    "title": "Researcher, Shanghai Bureau",
-    "jobSeqNo": "THTTRUUSJREQ190760EXTERNALENUS",
-    "postedDate": "2025-06-05T00:00:00.000+0000",
-    "dateCreated": "2025-05-20T08:45:16.167+0000",
-    "cityStateCountry": "Shanghai, Shanghai, China",
-    "address": "Azia Centre, 11F, Unit 1105A & 1106, No. 1233 Lujiazui Ring Rd, Pudong, Shanghai, 200120 Shanghai, China",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CHN-Shanghai-Azia-Centre/Researcher--Shanghai-Bureau_JREQ190760/apply",
-    "location": "Shanghai, Shanghai, China",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Reuters is looking for an energetic Researcher with strong news judgement to join our team in Shanghai. The Shanghai Researcher will work closely with the text, video and photo teams in Shanghai and S...",
-      "descriptionTeaser_first200": "Researcher, Shanghai Bureau. Reuters is looking for an energetic Researcher with strong news judgement to join our team in Shanghai. The Shanghai Researcher will work closely with the text, video and...",
-      "descriptionTeaser_keyword": "Researcher, Shanghai Bureau. Reuters is looking for an energetic Researcher with strong news judgement to join our team in Shanghai. The Shanghai Researcher will work closely with the text, video and...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 121.504161,
-          "lat": 31.24097799999999
-        },
-        "location": "Shanghai, Shanghai, China"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "",
     "country": "Korea, Republic of",
     "ml_skills": [
@@ -1770,6 +1891,137 @@
           "lat": 37.5697244
         },
         "location": "Korea, Republic of"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Shanghai, Shanghai",
+    "country": "China",
+    "ml_skills": [
+      "monitoring",
+      "mandarin",
+      "collaborate"
+    ],
+    "remote": "On-Site",
+    "type": "Full time",
+    "descriptionTeaser": "Are you experienced in research and news coverage? Join a dynamic team in Shanghai, where you'll monitor breaking stories, collaborate on compelling visual narratives, and enhance your skills in a fast-paced environment. Bring your fluency in English and Mandarin to help tell the world's most important stories.",
+    "state": "Shanghai",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "121.504161",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ190760",
+    "jobId": "JREQ190760",
+    "city": "Shanghai",
+    "latitude": "31.24097799999999",
+    "locale": "en_US",
+    "multi_location": [
+      "Shanghai, Shanghai, China"
+    ],
+    "title": "Researcher, Shanghai Bureau",
+    "jobSeqNo": "THTTRUUSJREQ190760EXTERNALENUS",
+    "postedDate": "2025-06-05T00:00:00.000+0000",
+    "dateCreated": "2025-05-20T08:45:16.167+0000",
+    "cityStateCountry": "Shanghai, Shanghai, China",
+    "address": "Azia Centre, 11F, Unit 1105A & 1106, No. 1233 Lujiazui Ring Rd, Pudong, Shanghai, 200120 Shanghai, China",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CHN-Shanghai-Azia-Centre/Researcher--Shanghai-Bureau_JREQ190760/apply",
+    "location": "Shanghai, Shanghai, China",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Are you experienced in research and news coverage? Join a dynamic team in Shanghai, where you'll monitor breaking stories, collaborate on compelling visual narratives, and enhance your skills in a fast-paced environment. Bring your fluency in English and Mandarin to help tell the world's most important stories.",
+      "descriptionTeaser_first200": "Researcher, Shanghai Bureau. Reuters is looking for an energetic Researcher with strong news judgement to join our team in Shanghai. The Shanghai Researcher will work closely with the text, video and...",
+      "descriptionTeaser_keyword": "Researcher, Shanghai Bureau. Reuters is looking for an energetic Researcher with strong news judgement to join our team in Shanghai. The Shanghai Researcher will work closely with the text, video and...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 121.504161,
+          "lat": 31.24097799999999
+        },
+        "location": "Shanghai, Shanghai, China"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Hong Kong",
+    "country": "Hong Kong",
+    "ml_skills": [
+      "administrative support",
+      "invoice processing",
+      "document management",
+      "sap",
+      "computer literacy",
+      "developing",
+      "full lifecycle",
+      "vendor management"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Are you experienced in providing proactive administrative support? Join a dynamic team where you\u2019ll manage document and contract administration, coordinate financial tasks, and facilitate communication between stakeholders. Bring your organizational skills and attention to detail to help deliver exceptional service in the legal market.",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "114.2169064",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ191680",
+    "jobId": "JREQ191680",
+    "city": "Hong Kong",
+    "latitude": "22.2876586",
+    "locale": "en_US",
+    "multi_location": [
+      "Hong Kong, Hong Kong"
+    ],
+    "title": "Administrative Assistant",
+    "jobSeqNo": "THTTRUUSJREQ191680EXTERNALENUS",
+    "postedDate": "2025-06-05T00:00:00.000+0000",
+    "dateCreated": "2025-05-28T04:37:59.620+0000",
+    "cityStateCountry": "Hong Kong, Hong Kong",
+    "address": "15/F, 14 Taikoo Wan Road, Taikoo Shing, Hong Kong, Hong Kong",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/HKG-Taikoo-14-Taikoo-Wan-Road/Administrative-Assistant_JREQ191680/apply",
+    "location": "Hong Kong, Hong Kong",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Are you experienced in providing proactive administrative support? Join a dynamic team where you\u2019ll manage document and contract administration, coordinate financial tasks, and facilitate communication between stakeholders. Bring your organizational skills and attention to detail to help deliver exceptional service in the legal market.",
+      "descriptionTeaser_first200": "Administrative Assistant. Join one of Asia\u2019s most respected providers for the business and legal professions, Thomson Reuters. This role will help in the delivery of specialist knowledge through timel...",
+      "descriptionTeaser_keyword": "Administrative Assistant. Join one of Asia\u2019s most respected providers for the business and legal professions, Thomson Reuters. This role will help in the delivery of specialist knowledge through timel...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 114.2169064,
+          "lat": 22.2876586
+        },
+        "location": "Hong Kong, Hong Kong"
       }
     ],
     "isMultiCategory": false,
@@ -2642,87 +2894,6 @@
     "badge": ""
   },
   {
-    "cityState": "Eagan, Minnesota",
-    "country": "United States of America",
-    "ml_skills": [
-      "legal research",
-      "accuracy",
-      "feedback",
-      "employee evaluation",
-      "prioritize tasks"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Join a dynamic team where you'll leverage your legal expertise to conduct research, analysis, and writing, ensuring the delivery of premium legal content. Ideal candidates are analytical thinkers with strong communication skills, adept at navigating online research tools, and committed to maintaining high editorial standards.",
-    "state": "Minnesota",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-93.10793129999999",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ190580",
-    "jobId": "JREQ190580",
-    "city": "Eagan",
-    "latitude": "44.8524402",
-    "locale": "en_US",
-    "multi_location": [
-      "Eagan, Minnesota, United States of America",
-      "Ann Arbor, Michigan, United States of America",
-      "Frisco, Texas, United States of America"
-    ],
-    "title": "Attorney Editor",
-    "jobSeqNo": "THTTRUUSJREQ190580EXTERNALENUS",
-    "postedDate": "2025-05-29T00:00:00.000+0000",
-    "dateCreated": "2025-04-24T00:38:22.120+0000",
-    "cityStateCountry": "Eagan, Minnesota, United States of America",
-    "address": "2900 Ames Crossing Road, Ste 100, Eagan, MN 55121, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MSP-2900-Ames-Crossing-Road/Attorney-Editor_JREQ190580-1/apply",
-    "location": "Eagan, Minnesota, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Join a dynamic team where you'll leverage your legal expertise to conduct research, analysis, and writing, ensuring the delivery of premium legal content. Ideal candidates are analytical thinkers with strong communication skills, adept at navigating online research tools, and committed to maintaining high editorial standards.",
-      "descriptionTeaser_first200": "In this role you will provide legal interpretation in the form of research, analysis, and writing to support the development and maintenance of Thomson Reuters Legal information in all media. Members...",
-      "descriptionTeaser_keyword": "In this role you will provide legal interpretation in the form of research, analysis, and writing to support the development and maintenance of Thomson Reuters Legal information in all media. Members...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -93.10793129999999,
-          "lat": 44.8524402
-        },
-        "location": "Eagan, Minnesota, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -83.72689749999999,
-          "lat": 42.1961884
-        },
-        "location": "Ann Arbor, Michigan, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -96.833545,
-          "lat": 33.1073049
-        },
-        "location": "Frisco, Texas, United States of America"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Mumbai, Maharashtra",
     "country": "India",
     "ml_skills": [
@@ -3042,71 +3213,6 @@
           "lat": 12.9776035
         },
         "location": "Bengaluru, Karnataka, India"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Mexico City",
-    "country": "Mexico",
-    "ml_skills": [
-      "journalism",
-      "search",
-      "portuguese",
-      "international relations",
-      "collaborative skills"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Seeking a detail-oriented researcher with a degree in Journalism, Communications, or International Relations. Responsibilities include gathering and updating data on political candidates, monitoring news events, and collaborating with international teams. Fluency in Spanish and English is essential, with Portuguese as a plus. Ideal candidates have 1-2 years of relevant experience.",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-99.15156759999999",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ191347",
-    "jobId": "JREQ191347",
-    "city": "Mexico City",
-    "latitude": "19.4342738",
-    "locale": "en_US",
-    "multi_location": [
-      "Mexico City, Mexico"
-    ],
-    "title": "Elections Data Researcher",
-    "jobSeqNo": "THTTRUUSJREQ191347EXTERNALENUS",
-    "postedDate": "2025-05-20T00:00:00.000+0000",
-    "dateCreated": "2025-05-20T16:41:55.045+0000",
-    "cityStateCountry": "Mexico City, Mexico",
-    "address": "Av. Paseo de la Reforma #26, Floor 36th, Colonia Ju\u00e1rez, Cuauht\u00e9moc, 06600 Mexico City, Mexico",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/MEX-Distrito-Federal-Reforma-26/Elections-Data-Researcher_JREQ191347/apply",
-    "location": "Mexico City, Mexico",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Seeking a detail-oriented researcher with a degree in Journalism, Communications, or International Relations. Responsibilities include gathering and updating data on political candidates, monitoring news events, and collaborating with international teams. Fluency in Spanish and English is essential, with Portuguese as a plus. Ideal candidates have 1-2 years of relevant experience.",
-      "descriptionTeaser_first200": "About the Role. In this opportunity as a Elections Data Researcher, you will be responsible to. Dig up info on office holders/candidates (socials, websites, contact details, start dates, etc. ). Get p...",
-      "descriptionTeaser_keyword": "About the Role. In this opportunity as a Elections Data Researcher, you will be responsible to. Dig up info on office holders/candidates (socials, websites, contact details, start dates, etc. ). Get p...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -99.15156759999999,
-          "lat": 19.4342738
-        },
-        "location": "Mexico City, Mexico"
       }
     ],
     "isMultiCategory": false,
@@ -3986,8 +4092,7 @@
     "country": "Canada",
     "ml_skills": [
       "journalism",
-      "german language",
-      "financial markets"
+      "german language"
     ],
     "remote": "Hybrid",
     "type": "Full time",
@@ -4021,7 +4126,7 @@
     "category": "News & Editorial Careers",
     "ml_job_parser": {
       "descriptionTeaser": "Seeking a self-driven journalist with a strong command of German and excellent writing skills. You will cover breaking international news during the European night shift, tailoring stories for German audiences. Ideal candidates have at least three years of agency experience and a keen understanding of economic and financial topics.",
-      "descriptionTeaser_first200": "We are seeking a self-driven, news-savvy journalist with experience in writing German agency-style news to cover the European night shift for the Reuters German language service from Toronto. You will...",
+      "descriptionTeaser_first200": "We are seeking a self-driven, news-savvy journalist with experience in writing German agency-style news to cover the European night shift for the Reuters German language service from Toronto. You w...",
       "descriptionTeaser_keyword": "We are seeking a self-driven, news-savvy journalist with experience in writing German agency-style news to cover the European night shift for the Reuters German language service from Toronto. You will...",
       "descriptionTeaser_ats": ""
     },
@@ -4030,8 +4135,8 @@
     "multi_location_array": [
       {
         "latlong": {
-          "lon": 0,
-          "lat": 0
+          "lon": -79.3884094,
+          "lat": 43.6480117
         },
         "location": "Toronto, Ontario, Canada"
       }
