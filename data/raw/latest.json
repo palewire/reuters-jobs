@@ -79,7 +79,11 @@
   {
     "cityState": "Wellington",
     "country": "New Zealand",
-    "ml_skills": [],
+    "ml_skills": [
+      "collaborate",
+      "search",
+      "generative ai"
+    ],
     "remote": "Hybrid",
     "type": "Full time",
     "descriptionTeaser": "Are you looking for an exciting opportunity to craft and edit compelling stories on global events? Join a dynamic team where you\u2019ll produce breaking news, collaborate with award-winning journalists, and drive innovation in storytelling while honing your skills in a fast-paced environment.",
@@ -112,7 +116,7 @@
     "category": "News & Editorial Careers",
     "ml_job_parser": {
       "descriptionTeaser": "Are you looking for an exciting opportunity to craft and edit compelling stories on global events? Join a dynamic team where you\u2019ll produce breaking news, collaborate with award-winning journalists, and drive innovation in storytelling while honing your skills in a fast-paced environment.",
-      "descriptionTeaser_first200": "Editor, Global News Desk. Reuters is looking for an ambitious Editor for our fast-paced, round-the-clock Global News Desk. Expect to work alongside award-winning journalists in a global news organisat...",
+      "descriptionTeaser_first200": "Editor, Global News Desk. Reuters is looking for an ambitious Editor for our fast-paced, round-the-clock Global News Desk. Expect to work alongside award-winning journalists in a global news organi...",
       "descriptionTeaser_keyword": "Editor, Global News Desk. Reuters is looking for an ambitious Editor for our fast-paced, round-the-clock Global News Desk. Expect to work alongside award-winning journalists in a global news organisat...",
       "descriptionTeaser_ats": ""
     },
