@@ -1,5 +1,136 @@
 [
   {
+    "cityState": "Beijing, Beijing",
+    "country": "China",
+    "ml_skills": [
+      "quantitative research",
+      "ai",
+      "analytical tools",
+      "mandarin",
+      "visual storytelling",
+      "video production"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Reuters is seeking an energetic Researcher with strong news judgment to join our Beijing team. Responsibilities include researching and monitoring news stories, assisting field coverage, and learning...",
+    "state": "Beijing",
+    "visibilityType": "External",
+    "longitude": "116.41197",
+    "siteType": "external",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ190888",
+    "jobId": "JREQ190888",
+    "city": "Beijing",
+    "latitude": "39.90927",
+    "locale": "en_US",
+    "multi_location": [
+      "Beijing, Beijing, China"
+    ],
+    "title": "Researcher, Beijing Bureau",
+    "jobSeqNo": "THTTRUUSJREQ190888EXTERNALENUS",
+    "postedDate": "2025-06-27T00:00:00.000+0000",
+    "dateCreated": "2025-04-30T04:38:50.377+0000",
+    "cityStateCountry": "Beijing, Beijing, China",
+    "address": "Units 5-12, 18F / 20F, Office Tower E1 of Oriental Plaza, No.1, East Chang An Avenue, Dong Cheng District, Beijing, 100738 Beijing, China",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CHN-Beijing-Oriental-Plaza/Researcher--Beijing-Bureau_JREQ190888/apply",
+    "location": "Beijing, Beijing, China",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Reuters is seeking an energetic Researcher with strong news judgment to join our Beijing team. Responsibilities include researching and monitoring news stories, assisting field coverage, and learning...",
+      "descriptionTeaser_first200": "Researcher, Beijing Bureau . Reuters is seeking an energetic Researcher with strong news judgment to join our Beijing team. Responsibilities include researching and monitoring news stories, assisti...",
+      "descriptionTeaser_keyword": "Researcher, Beijing Bureau. Reuters is seeking an energetic Researcher with strong news judgment to join our Beijing team. Responsibilities include researching and monitoring news stories, assisting f...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 116.41197,
+          "lat": 39.90927
+        },
+        "location": "Beijing, Beijing, China"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Hyderabad, Telangana",
+    "country": "India",
+    "ml_skills": [
+      "new testing",
+      "software development",
+      "product training",
+      "elearning",
+      "atmosphere"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Should work on testing the MTB\u2019s and post issues accordingly on each release. Should be able to take the ownership of the work given and make sure all the issues are posted. Candidate should be able t...",
+    "state": "Telangana",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "78.38589340000001",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ192401",
+    "jobId": "JREQ192401",
+    "city": "Hyderabad",
+    "latitude": "17.4367243",
+    "locale": "en_US",
+    "multi_location": [
+      "Hyderabad, Telangana, India"
+    ],
+    "title": "Senior Quality Assurance and E-File Analyst",
+    "jobSeqNo": "THTTRUUSJREQ192401EXTERNALENUS",
+    "postedDate": "2025-06-27T00:00:00.000+0000",
+    "dateCreated": "2025-06-27T12:39:28.259+0000",
+    "cityStateCountry": "Hyderabad, Telangana, India",
+    "address": "Floor 12, 13 & 14, Building 11, Raheja Mindspace, Madhapur, Hyderabad- 500081, Telangana, India",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Hyderabad-Raheja-Mindspace/Senior-Quality-Assurance-and-E-File-Analyst_JREQ192401/apply",
+    "location": "Hyderabad, Telangana, India",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Should work on testing the MTB\u2019s and post issues accordingly on each release. Should be able to take the ownership of the work given and make sure all the issues are posted. Candidate should be able t...",
+      "descriptionTeaser_first200": "Job Description. Independently, the candidate must be able to analyze and resolve complex tax software problems, document software deficiencies and understand the business/customer requirements. Ab...",
+      "descriptionTeaser_keyword": "Job Description. Independently, the candidate must be able to analyze and resolve complex tax software problems, document software deficiencies and understand the business/customer requirements. About...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 78.38589340000001,
+          "lat": 17.4367243
+        },
+        "location": "Hyderabad, Telangana, India"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Mexico City",
     "country": "Mexico",
     "ml_skills": [
@@ -53,87 +184,6 @@
           "lat": 19.4342738
         },
         "location": "Mexico City, Mexico"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Eagan, Minnesota",
-    "country": "United States of America",
-    "ml_skills": [
-      "search",
-      "document retrieval",
-      "ai",
-      "microsoft word.",
-      "microsoft office 365"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "The attorney editor in this Twin Cities based Core Editorial position will gain improved understanding of the business objectives and editorial processes for know-how products including Practical Law,...",
-    "state": "Minnesota",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-93.10793129999999",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ191880",
-    "jobId": "JREQ191880",
-    "city": "Eagan",
-    "latitude": "44.8524402",
-    "locale": "en_US",
-    "multi_location": [
-      "Eagan, Minnesota, United States of America",
-      "Frisco, Texas, United States of America",
-      "New York, New York, United States of America"
-    ],
-    "title": "Attorney Editor",
-    "jobSeqNo": "THTTRUUSJREQ191880EXTERNALENUS",
-    "postedDate": "2025-06-26T00:00:00.000+0000",
-    "dateCreated": "2025-06-06T20:42:30.709+0000",
-    "cityStateCountry": "Eagan, Minnesota, United States of America",
-    "address": "2900 Ames Crossing Road, Ste 100, Eagan, MN 55121, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MSP-2900-Ames-Crossing-Road/Attorney-Editor_JREQ191880/apply",
-    "location": "Eagan, Minnesota, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "The attorney editor in this Twin Cities based Core Editorial position will gain improved understanding of the business objectives and editorial processes for know-how products including Practical Law,...",
-      "descriptionTeaser_first200": "Attorney Editor . Role Summary. The attorney editor in this Twin Cities based Core Editorial position will gain improved understanding of the business objectives and editorial processes for know-ho...",
-      "descriptionTeaser_keyword": "Attorney Editor. Role Summary. The attorney editor in this Twin Cities based Core Editorial position will gain improved understanding of the business objectives and editorial processes for know-how pr...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -93.10793129999999,
-          "lat": 44.8524402
-        },
-        "location": "Eagan, Minnesota, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -96.833545,
-          "lat": 33.1073049
-        },
-        "location": "Frisco, Texas, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -73.9870076,
-          "lat": 40.756572
-        },
-        "location": "New York, New York, United States of America"
       }
     ],
     "isMultiCategory": false,
@@ -295,6 +345,87 @@
           "lat": 41.3953587
         },
         "location": "Sarri\u00e0-Sant Gervasi, Barcelona, Spain"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Eagan, Minnesota",
+    "country": "United States of America",
+    "ml_skills": [
+      "search",
+      "document retrieval",
+      "ai",
+      "microsoft word.",
+      "microsoft office 365"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "The attorney editor in this Twin Cities based Core Editorial position will gain improved understanding of the business objectives and editorial processes for know-how products including Practical Law,...",
+    "state": "Minnesota",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-93.10793129999999",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ191880",
+    "jobId": "JREQ191880",
+    "city": "Eagan",
+    "latitude": "44.8524402",
+    "locale": "en_US",
+    "multi_location": [
+      "Eagan, Minnesota, United States of America",
+      "Frisco, Texas, United States of America",
+      "New York, New York, United States of America"
+    ],
+    "title": "Attorney Editor",
+    "jobSeqNo": "THTTRUUSJREQ191880EXTERNALENUS",
+    "postedDate": "2025-06-26T00:00:00.000+0000",
+    "dateCreated": "2025-06-06T20:42:30.709+0000",
+    "cityStateCountry": "Eagan, Minnesota, United States of America",
+    "address": "2900 Ames Crossing Road, Ste 100, Eagan, MN 55121, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MSP-2900-Ames-Crossing-Road/Attorney-Editor_JREQ191880/apply",
+    "location": "Eagan, Minnesota, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "The attorney editor in this Twin Cities based Core Editorial position will gain improved understanding of the business objectives and editorial processes for know-how products including Practical Law,...",
+      "descriptionTeaser_first200": "Attorney Editor . Role Summary. The attorney editor in this Twin Cities based Core Editorial position will gain improved understanding of the business objectives and editorial processes for know-ho...",
+      "descriptionTeaser_keyword": "Attorney Editor. Role Summary. The attorney editor in this Twin Cities based Core Editorial position will gain improved understanding of the business objectives and editorial processes for know-how pr...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -93.10793129999999,
+          "lat": 44.8524402
+        },
+        "location": "Eagan, Minnesota, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -96.833545,
+          "lat": 33.1073049
+        },
+        "location": "Frisco, Texas, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -73.9870076,
+          "lat": 40.756572
+        },
+        "location": "New York, New York, United States of America"
       }
     ],
     "isMultiCategory": false,
