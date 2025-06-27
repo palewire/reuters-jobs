@@ -1,5 +1,92 @@
 [
   {
+    "cityState": "Frisco, Texas",
+    "country": "United States of America",
+    "ml_skills": [
+      "salesforce",
+      "crm",
+      "saas"
+    ],
+    "remote": "Remote",
+    "type": "Full time",
+    "descriptionTeaser": "As a Tax Editor, you will have the chance to create industry-leading content and make a significant impact on the tax advisory profession. Provide subject matter expertise, including in the testing an...",
+    "state": "Texas",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-96.833545",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ192659",
+    "jobId": "JREQ192659",
+    "city": "Frisco",
+    "latitude": "33.1073049",
+    "locale": "en_US",
+    "multi_location": [
+      "Frisco, Texas, United States of America",
+      "Ann Arbor, Michigan, United States of America",
+      "Eagan, Minnesota, United States of America",
+      "New York, New York, United States of America"
+    ],
+    "title": "Tax Editor",
+    "jobSeqNo": "THTTRUUSJREQ192659EXTERNALENUS",
+    "postedDate": "2025-06-27T00:00:00.000+0000",
+    "dateCreated": "2025-06-27T16:39:17.049+0000",
+    "cityStateCountry": "Frisco, Texas, United States of America",
+    "address": "6160 Warren Parkway, Frisco, TX 75034, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Frisco-6160-Warren-Parkway/Tax-Editor_JREQ192659-1/apply",
+    "location": "Frisco, Texas, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "As a Tax Editor, you will have the chance to create industry-leading content and make a significant impact on the tax advisory profession. Provide subject matter expertise, including in the testing an...",
+      "descriptionTeaser_first200": "Tax Editor. Role Summary. We are seeking a passionate tax professional who thrives on the complexity and intricacy of tax advisory work. The ideal candidate is a lifelong learner with an insatiable...",
+      "descriptionTeaser_keyword": "Tax Editor. Role Summary. We are seeking a passionate tax professional who thrives on the complexity and intricacy of tax advisory work. The ideal candidate is a lifelong learner with an insatiable cu...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -96.833545,
+          "lat": 33.1073049
+        },
+        "location": "Frisco, Texas, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -83.72689749999999,
+          "lat": 42.1961884
+        },
+        "location": "Ann Arbor, Michigan, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -93.10793129999999,
+          "lat": 44.8524402
+        },
+        "location": "Eagan, Minnesota, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -73.9870076,
+          "lat": 40.756572
+        },
+        "location": "New York, New York, United States of America"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Beijing, Beijing",
     "country": "China",
     "ml_skills": [
@@ -12,7 +99,7 @@
     ],
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "Reuters is seeking an energetic Researcher with strong news judgment to join our Beijing team. Responsibilities include researching and monitoring news stories, assisting field coverage, and learning...",
+    "descriptionTeaser": "Join a dynamic team where your research skills and news judgment will shine! Monitor and analyze news stories, assist in field coverage, and contribute to compelling text and visual storytelling. Bring your fluency in English and Mandarin, and collaborate with passionate professionals in a fast-paced environment.",
     "state": "Beijing",
     "visibilityType": "External",
     "longitude": "116.41197",
@@ -41,8 +128,8 @@
     "location": "Beijing, Beijing, China",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "Reuters is seeking an energetic Researcher with strong news judgment to join our Beijing team. Responsibilities include researching and monitoring news stories, assisting field coverage, and learning...",
-      "descriptionTeaser_first200": "Researcher, Beijing Bureau . Reuters is seeking an energetic Researcher with strong news judgment to join our Beijing team. Responsibilities include researching and monitoring news stories, assisti...",
+      "descriptionTeaser": "Join a dynamic team where your research skills and news judgment will shine! Monitor and analyze news stories, assist in field coverage, and contribute to compelling text and visual storytelling. Bring your fluency in English and Mandarin, and collaborate with passionate professionals in a fast-paced environment.",
+      "descriptionTeaser_first200": "Researcher, Beijing Bureau. Reuters is seeking an energetic Researcher with strong news judgment to join our Beijing team. Responsibilities include researching and monitoring news stories, assisting f...",
       "descriptionTeaser_keyword": "Researcher, Beijing Bureau. Reuters is seeking an energetic Researcher with strong news judgment to join our Beijing team. Responsibilities include researching and monitoring news stories, assisting f...",
       "descriptionTeaser_ats": ""
     },
@@ -77,7 +164,7 @@
     ],
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "Should work on testing the MTB\u2019s and post issues accordingly on each release. Should be able to take the ownership of the work given and make sure all the issues are posted. Candidate should be able t...",
+    "descriptionTeaser": "We are looking for a detail-oriented professional to analyze and resolve complex tax software issues, ensure quality assurance, and mentor team members. Join us to enhance your skills in a collaborative environment while making a real impact in the world of tax software solutions.",
     "state": "Telangana",
     "visibilityType": "External",
     "siteType": "external",
@@ -106,8 +193,8 @@
     "location": "Hyderabad, Telangana, India",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "Should work on testing the MTB\u2019s and post issues accordingly on each release. Should be able to take the ownership of the work given and make sure all the issues are posted. Candidate should be able t...",
-      "descriptionTeaser_first200": "Job Description. Independently, the candidate must be able to analyze and resolve complex tax software problems, document software deficiencies and understand the business/customer requirements. Ab...",
+      "descriptionTeaser": "We are looking for a detail-oriented professional to analyze and resolve complex tax software issues, ensure quality assurance, and mentor team members. Join us to enhance your skills in a collaborative environment while making a real impact in the world of tax software solutions.",
+      "descriptionTeaser_first200": "Job Description. Independently, the candidate must be able to analyze and resolve complex tax software problems, document software deficiencies and understand the business/customer requirements. About...",
       "descriptionTeaser_keyword": "Job Description. Independently, the candidate must be able to analyze and resolve complex tax software problems, document software deficiencies and understand the business/customer requirements. About...",
       "descriptionTeaser_ats": ""
     },
