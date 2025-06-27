@@ -67,6 +67,87 @@
     "cityState": "Eagan, Minnesota",
     "country": "United States of America",
     "ml_skills": [
+      "search",
+      "document retrieval",
+      "ai",
+      "microsoft word.",
+      "microsoft office 365"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "The attorney editor in this Twin Cities based Core Editorial position will gain improved understanding of the business objectives and editorial processes for know-how products including Practical Law,...",
+    "state": "Minnesota",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-93.10793129999999",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ191880",
+    "jobId": "JREQ191880",
+    "city": "Eagan",
+    "latitude": "44.8524402",
+    "locale": "en_US",
+    "multi_location": [
+      "Eagan, Minnesota, United States of America",
+      "Frisco, Texas, United States of America",
+      "New York, New York, United States of America"
+    ],
+    "title": "Attorney Editor",
+    "jobSeqNo": "THTTRUUSJREQ191880EXTERNALENUS",
+    "postedDate": "2025-06-26T00:00:00.000+0000",
+    "dateCreated": "2025-06-06T20:42:30.709+0000",
+    "cityStateCountry": "Eagan, Minnesota, United States of America",
+    "address": "2900 Ames Crossing Road, Ste 100, Eagan, MN 55121, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MSP-2900-Ames-Crossing-Road/Attorney-Editor_JREQ191880/apply",
+    "location": "Eagan, Minnesota, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "The attorney editor in this Twin Cities based Core Editorial position will gain improved understanding of the business objectives and editorial processes for know-how products including Practical Law,...",
+      "descriptionTeaser_first200": "Attorney Editor . Role Summary. The attorney editor in this Twin Cities based Core Editorial position will gain improved understanding of the business objectives and editorial processes for know-ho...",
+      "descriptionTeaser_keyword": "Attorney Editor. Role Summary. The attorney editor in this Twin Cities based Core Editorial position will gain improved understanding of the business objectives and editorial processes for know-how pr...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -93.10793129999999,
+          "lat": 44.8524402
+        },
+        "location": "Eagan, Minnesota, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -96.833545,
+          "lat": 33.1073049
+        },
+        "location": "Frisco, Texas, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -73.9870076,
+          "lat": 40.756572
+        },
+        "location": "New York, New York, United States of America"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Eagan, Minnesota",
+    "country": "United States of America",
+    "ml_skills": [
       "implementing",
       "operational processes",
       "accounting",
@@ -80,7 +161,7 @@
     ],
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "Produce, edit, write, and deliver compelling and creative video stories and live coverage on breaking news stories, sometimes in challenging weather conditions. S. Film events and feature stories usin...",
+    "descriptionTeaser": "Are you experienced in video newsgathering and production? Join a dynamic team to produce compelling stories and live coverage across diverse events. Work independently with top-notch equipment, embrace challenges, and travel to breaking news\u2014all while collaborating with award-winning professionals. Your next adventure awaits!",
     "state": "Minnesota",
     "visibilityType": "External",
     "siteType": "external",
@@ -112,8 +193,8 @@
     "location": "Eagan, Minnesota, United States of America",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "Produce, edit, write, and deliver compelling and creative video stories and live coverage on breaking news stories, sometimes in challenging weather conditions. S. Film events and feature stories usin...",
-      "descriptionTeaser_first200": "Reuters Video News is looking for a dynamic and talented Video Cameraperson for a TEMPORARY position based in Phoenix, Arizona. Talented candidates within commutable distance to Las Vegas, Nevada o...",
+      "descriptionTeaser": "Are you experienced in video newsgathering and production? Join a dynamic team to produce compelling stories and live coverage across diverse events. Work independently with top-notch equipment, embrace challenges, and travel to breaking news\u2014all while collaborating with award-winning professionals. Your next adventure awaits!",
+      "descriptionTeaser_first200": "Reuters Video News is looking for a dynamic and talented Video Cameraperson for a TEMPORARY position based in Phoenix, Arizona. Talented candidates within commutable distance to Las Vegas, Nevada or D...",
       "descriptionTeaser_keyword": "Reuters Video News is looking for a dynamic and talented Video Cameraperson for a TEMPORARY position based in Phoenix, Arizona. Talented candidates within commutable distance to Las Vegas, Nevada or D...",
       "descriptionTeaser_ats": ""
     },
@@ -171,7 +252,7 @@
     ],
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "As AI Video Producer, you will work alongside our Global Production Editor to test and develop AI tools to integrate into our workflows. Use your deep understanding of scripting processes and pressure...",
+    "descriptionTeaser": "Are you experienced in video production and passionate about AI? Join a dynamic team in Barcelona to innovate news delivery, test cutting-edge AI tools, and create compelling content for a global audience. Bring your strong editing skills and news judgment to a fast-paced environment!",
     "state": "Barcelona",
     "visibilityType": "External",
     "siteType": "external",
@@ -200,8 +281,8 @@
     "location": "Sarri\u00e0-Sant Gervasi, Barcelona, Spain",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "As AI Video Producer, you will work alongside our Global Production Editor to test and develop AI tools to integrate into our workflows. Use your deep understanding of scripting processes and pressure...",
-      "descriptionTeaser_first200": "AI Video Producer - Reuters. This position is based in Barcelona, Spain. Want to combine your knowledge of video production with your interest in Ai and technology? Like the sound of working on an ...",
+      "descriptionTeaser": "Are you experienced in video production and passionate about AI? Join a dynamic team in Barcelona to innovate news delivery, test cutting-edge AI tools, and create compelling content for a global audience. Bring your strong editing skills and news judgment to a fast-paced environment!",
+      "descriptionTeaser_first200": "AI Video Producer - Reuters. This position is based in Barcelona, Spain. Want to combine your knowledge of video production with your interest in Ai and technology? Like the sound of working on an evo...",
       "descriptionTeaser_keyword": "AI Video Producer - Reuters. This position is based in Barcelona, Spain. Want to combine your knowledge of video production with your interest in Ai and technology? Like the sound of working on an evo...",
       "descriptionTeaser_ats": ""
     },
@@ -2836,87 +2917,6 @@
           "lat": 1.2938457
         },
         "location": "Singapore, Singapore"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Eagan, Minnesota",
-    "country": "United States of America",
-    "ml_skills": [
-      "search",
-      "english",
-      "document retrieval",
-      "feedback",
-      "meet deadlines"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Are you experienced in legal writing and editing? Join a dynamic editorial team where you'll enhance your skills in statutory research and content development, while contributing to innovative legal resources. Embrace a flexible work environment and take part in shaping the future of legal services!",
-    "state": "Minnesota",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-93.10793129999999",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ191880",
-    "jobId": "JREQ191880",
-    "city": "Eagan",
-    "latitude": "44.8524402",
-    "locale": "en_US",
-    "multi_location": [
-      "Eagan, Minnesota, United States of America",
-      "Frisco, Texas, United States of America",
-      "New York, New York, United States of America"
-    ],
-    "title": "Attorney Editor",
-    "jobSeqNo": "THTTRUUSJREQ191880EXTERNALENUS",
-    "postedDate": "2025-06-06T00:00:00.000+0000",
-    "dateCreated": "2025-06-06T20:42:30.709+0000",
-    "cityStateCountry": "Eagan, Minnesota, United States of America",
-    "address": "2900 Ames Crossing Road, Ste 100, Eagan, MN 55121, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MSP-2900-Ames-Crossing-Road/Attorney-Editor_JREQ191880/apply",
-    "location": "Eagan, Minnesota, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Are you experienced in legal writing and editing? Join a dynamic editorial team where you'll enhance your skills in statutory research and content development, while contributing to innovative legal resources. Embrace a flexible work environment and take part in shaping the future of legal services!",
-      "descriptionTeaser_first200": "Attorney Editor. Role Summary. The attorney editor in this Twin Cities based Core Editorial position will gain improved understanding of the business objectives and editorial processes for know-how pr...",
-      "descriptionTeaser_keyword": "Attorney Editor. Role Summary. The attorney editor in this Twin Cities based Core Editorial position will gain improved understanding of the business objectives and editorial processes for know-how pr...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -93.10793129999999,
-          "lat": 44.8524402
-        },
-        "location": "Eagan, Minnesota, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -96.833545,
-          "lat": 33.1073049
-        },
-        "location": "Frisco, Texas, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -73.9870076,
-          "lat": 40.756572
-        },
-        "location": "New York, New York, United States of America"
       }
     ],
     "isMultiCategory": false,
