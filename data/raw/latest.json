@@ -218,70 +218,6 @@
     "badge": ""
   },
   {
-    "cityState": "Mexico City",
-    "country": "Mexico",
-    "ml_skills": [
-      "script writing",
-      "english",
-      "storytelling",
-      "write scripts"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "We are looking for a passionate storyteller with strong English proficiency to create compelling news content focused on Mexico and Central America. The ideal candidate excels in a fast-paced environment, possesses excellent news judgment, and collaborates effectively across teams while bringing diverse perspectives to life.",
-    "state": "",
-    "visibilityType": "External",
-    "longitude": "-99.15156759999999",
-    "siteType": "external",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ190886",
-    "jobId": "JREQ190886",
-    "city": "Mexico City",
-    "latitude": "19.4342738",
-    "locale": "en_US",
-    "multi_location": [
-      "Mexico City, Mexico"
-    ],
-    "title": "Producer, Mexico",
-    "jobSeqNo": "THTTRUUSJREQ190886EXTERNALENUS",
-    "postedDate": "2025-06-26T00:00:00.000+0000",
-    "dateCreated": "2025-05-12T20:39:45.840+0000",
-    "cityStateCountry": "Mexico City, Mexico",
-    "address": "Av. Paseo de la Reforma #26, Floor 36th, Colonia Ju\u00e1rez, Cuauht\u00e9moc, 06600 Mexico City, Mexico",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/MEX-Distrito-Federal-Reforma-26/Producer--Mexico_JREQ190886-1/apply",
-    "location": "Mexico City, Mexico",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "We are looking for a passionate storyteller with strong English proficiency to create compelling news content focused on Mexico and Central America. The ideal candidate excels in a fast-paced environment, possesses excellent news judgment, and collaborates effectively across teams while bringing diverse perspectives to life.",
-      "descriptionTeaser_first200": "TV Producer. This role requires passion for news and culture of Mexico and the Central American Region, agility in a fast-paced environment, and proficiency in new technologies and digi-friendly stori...",
-      "descriptionTeaser_keyword": "TV Producer. This role requires passion for news and culture of Mexico and the Central American Region, agility in a fast-paced environment, and proficiency in new technologies and digi-friendly stori...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -99.15156759999999,
-          "lat": 19.4342738
-        },
-        "location": "Mexico City, Mexico"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Eagan, Minnesota",
     "country": "United States of America",
     "ml_skills": [
@@ -443,6 +379,70 @@
     "badge": ""
   },
   {
+    "cityState": "Mexico City",
+    "country": "Mexico",
+    "ml_skills": [
+      "script writing",
+      "english",
+      "storytelling",
+      "write scripts"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "We are looking for a passionate storyteller with strong English proficiency to create compelling news content focused on Mexico and Central America. The ideal candidate excels in a fast-paced environment, possesses excellent news judgment, and collaborates effectively across teams while bringing diverse perspectives to life.",
+    "state": "",
+    "visibilityType": "External",
+    "longitude": "-99.15156759999999",
+    "siteType": "external",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ190886",
+    "jobId": "JREQ190886",
+    "city": "Mexico City",
+    "latitude": "19.4342738",
+    "locale": "en_US",
+    "multi_location": [
+      "Mexico City, Mexico"
+    ],
+    "title": "Producer, Mexico",
+    "jobSeqNo": "THTTRUUSJREQ190886EXTERNALENUS",
+    "postedDate": "2025-06-26T00:00:00.000+0000",
+    "dateCreated": "2025-05-12T20:39:45.840+0000",
+    "cityStateCountry": "Mexico City, Mexico",
+    "address": "Av. Paseo de la Reforma #26, Floor 36th, Colonia Ju\u00e1rez, Cuauht\u00e9moc, 06600 Mexico City, Mexico",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/MEX-Distrito-Federal-Reforma-26/Producer--Mexico_JREQ190886-1/apply",
+    "location": "Mexico City, Mexico",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "We are looking for a passionate storyteller with strong English proficiency to create compelling news content focused on Mexico and Central America. The ideal candidate excels in a fast-paced environment, possesses excellent news judgment, and collaborates effectively across teams while bringing diverse perspectives to life.",
+      "descriptionTeaser_first200": "TV Producer. This role requires passion for news and culture of Mexico and the Central American Region, agility in a fast-paced environment, and proficiency in new technologies and digi-friendly stori...",
+      "descriptionTeaser_keyword": "TV Producer. This role requires passion for news and culture of Mexico and the Central American Region, agility in a fast-paced environment, and proficiency in new technologies and digi-friendly stori...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -99.15156759999999,
+          "lat": 19.4342738
+        },
+        "location": "Mexico City, Mexico"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Eagan, Minnesota",
     "country": "United States of America",
     "ml_skills": [
@@ -591,6 +591,82 @@
     "cityState": "Eagan, Minnesota",
     "country": "United States of America",
     "ml_skills": [
+      "commercial contracting",
+      "english",
+      "build",
+      "ai",
+      "product development",
+      "project management",
+      "collaborate",
+      "model performance"
+    ],
+    "remote": "Remote",
+    "type": "Full time",
+    "descriptionTeaser": "Seeking a seasoned legal professional with a JD and 8+ years of experience to craft impactful commercial legal content. Join a collaborative environment to develop resources, support AI initiatives, and engage with top legal minds while enjoying work-life balance and growth opportunities.",
+    "state": "Minnesota",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-93.10793129999999",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ192163",
+    "jobId": "JREQ192163",
+    "city": "Eagan",
+    "latitude": "44.8524402",
+    "locale": "en_US",
+    "multi_location": [
+      "Eagan, Minnesota, United States of America",
+      "New York, New York, United States of America"
+    ],
+    "title": "Practical Law Senior Specialist Legal Editor",
+    "jobSeqNo": "THTTRUUSJREQ192163EXTERNALENUS",
+    "postedDate": "2025-06-25T00:00:00.000+0000",
+    "dateCreated": "2025-06-16T16:42:23.709+0000",
+    "cityStateCountry": "Eagan, Minnesota, United States of America",
+    "address": "2900 Ames Crossing Road, Ste 100, Eagan, MN 55121, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MSP-2900-Ames-Crossing-Road/Practical-Law-Senior-Specialist-Legal-Editor_JREQ192163/apply",
+    "location": "Eagan, Minnesota, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Seeking a seasoned legal professional with a JD and 8+ years of experience to craft impactful commercial legal content. Join a collaborative environment to develop resources, support AI initiatives, and engage with top legal minds while enjoying work-life balance and growth opportunities.",
+      "descriptionTeaser_first200": "Practical Law Senior Specialist Legal Editor. Role Summary. Practical Law US is looking for a Senior Specialist Legal Editor to work on resources for our Law Firm and Law Department subscribers. About...",
+      "descriptionTeaser_keyword": "Practical Law Senior Specialist Legal Editor. Role Summary. Practical Law US is looking for a Senior Specialist Legal Editor to work on resources for our Law Firm and Law Department subscribers. About...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -93.10793129999999,
+          "lat": 44.8524402
+        },
+        "location": "Eagan, Minnesota, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -73.9870076,
+          "lat": 40.756572
+        },
+        "location": "New York, New York, United States of America"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Eagan, Minnesota",
+    "country": "United States of America",
+    "ml_skills": [
       "data governance",
       "saas",
       "ms sharepoint",
@@ -669,53 +745,45 @@
     "badge": ""
   },
   {
-    "cityState": "Eagan, Minnesota",
-    "country": "United States of America",
+    "cityState": "Gdansk",
+    "country": "Poland",
     "ml_skills": [
-      "commercial contracting",
-      "english",
-      "build",
-      "ai",
-      "product development",
-      "project management",
-      "collaborate",
-      "model performance"
+      "english"
     ],
-    "remote": "Remote",
+    "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "Seeking a seasoned legal professional with a JD and 8+ years of experience to craft impactful commercial legal content. Join a collaborative environment to develop resources, support AI initiatives, and engage with top legal minds while enjoying work-life balance and growth opportunities.",
-    "state": "Minnesota",
+    "descriptionTeaser": "Are you experienced in journalism and fluent in English with advanced German? Join a dynamic team where you'll craft impactful headlines and stories about major companies in Europe\u2019s largest economies. Embrace the fast-paced world of real-time news and make your mark on a global stage!",
+    "state": "",
     "visibilityType": "External",
     "siteType": "external",
-    "longitude": "-93.10793129999999",
+    "longitude": "18.5757343",
     "multi_category": [
       "News & Editorial Careers"
     ],
-    "reqId": "JREQ192163",
-    "jobId": "JREQ192163",
-    "city": "Eagan",
-    "latitude": "44.8524402",
+    "reqId": "JREQ192548",
+    "jobId": "JREQ192548",
+    "city": "Gdansk",
+    "latitude": "54.400578",
     "locale": "en_US",
     "multi_location": [
-      "Eagan, Minnesota, United States of America",
-      "New York, New York, United States of America"
+      "Gdansk, Poland"
     ],
-    "title": "Practical Law Senior Specialist Legal Editor",
-    "jobSeqNo": "THTTRUUSJREQ192163EXTERNALENUS",
-    "postedDate": "2025-06-25T00:00:00.000+0000",
-    "dateCreated": "2025-06-16T16:42:23.709+0000",
-    "cityStateCountry": "Eagan, Minnesota, United States of America",
-    "address": "2900 Ames Crossing Road, Ste 100, Eagan, MN 55121, United States of America",
+    "title": "News Reporter, Reuters (German speaking)",
+    "jobSeqNo": "THTTRUUSJREQ192548EXTERNALENUS",
+    "postedDate": "2025-06-24T00:00:00.000+0000",
+    "dateCreated": "2025-06-24T12:39:28.490+0000",
+    "cityStateCountry": "Gdansk, Poland",
+    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
     "jobVisibility": [
       "external"
     ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MSP-2900-Ames-Crossing-Road/Practical-Law-Senior-Specialist-Legal-Editor_JREQ192163/apply",
-    "location": "Eagan, Minnesota, United States of America",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/News-Reporter--Reuters--German-speaking-_JREQ192548/apply",
+    "location": "Gdansk, Poland",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "Seeking a seasoned legal professional with a JD and 8+ years of experience to craft impactful commercial legal content. Join a collaborative environment to develop resources, support AI initiatives, and engage with top legal minds while enjoying work-life balance and growth opportunities.",
-      "descriptionTeaser_first200": "Practical Law Senior Specialist Legal Editor. Role Summary. Practical Law US is looking for a Senior Specialist Legal Editor to work on resources for our Law Firm and Law Department subscribers. About...",
-      "descriptionTeaser_keyword": "Practical Law Senior Specialist Legal Editor. Role Summary. Practical Law US is looking for a Senior Specialist Legal Editor to work on resources for our Law Firm and Law Department subscribers. About...",
+      "descriptionTeaser": "Are you experienced in journalism and fluent in English with advanced German? Join a dynamic team where you'll craft impactful headlines and stories about major companies in Europe\u2019s largest economies. Embrace the fast-paced world of real-time news and make your mark on a global stage!",
+      "descriptionTeaser_first200": "Reuters is seeking a graduate who can speak fluent English and advanced German to join its real-time news operation in Gdansk, Poland. The reporter will work in fast-paced, international environment a...",
+      "descriptionTeaser_keyword": "Reuters is seeking a graduate who can speak fluent English and advanced German to join its real-time news operation in Gdansk, Poland. The reporter will work in fast-paced, international environment a...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
@@ -723,11 +791,66 @@
     "multi_location_array": [
       {
         "latlong": {
-          "lon": -93.10793129999999,
-          "lat": 44.8524402
+          "lon": 18.5757343,
+          "lat": 54.400578
         },
-        "location": "Eagan, Minnesota, United States of America"
-      },
+        "location": "Gdansk, Poland"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "New York, New York",
+    "country": "United States of America",
+    "ml_skills": [
+      "writing skills",
+      "management skills"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Are you experienced in financial markets and breaking news? Lead a dynamic team in delivering real-time market coverage, crafting high-quality reports, and managing creative growth. Thrive in a fast-paced environment where your journalistic skills and passion for finance can shine. Join a team that shapes the news!",
+    "state": "New York",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-73.9870076",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ192378",
+    "jobId": "JREQ192378",
+    "city": "New York",
+    "latitude": "40.756572",
+    "locale": "en_US",
+    "multi_location": [
+      "New York, New York, United States of America"
+    ],
+    "title": "U.S. Breaking News Editor, Finance and Markets",
+    "jobSeqNo": "THTTRUUSJREQ192378EXTERNALENUS",
+    "postedDate": "2025-06-24T00:00:00.000+0000",
+    "dateCreated": "2025-06-17T16:38:03.129+0000",
+    "cityStateCountry": "New York, New York, United States of America",
+    "address": "3 Times Square, New York, NY 10036, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-New-York-3-Times-Square/US-Breaking-News-Editor--Finance-and-Markets_JREQ192378/apply",
+    "location": "New York, New York, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Are you experienced in financial markets and breaking news? Lead a dynamic team in delivering real-time market coverage, crafting high-quality reports, and managing creative growth. Thrive in a fast-paced environment where your journalistic skills and passion for finance can shine. Join a team that shapes the news!",
+      "descriptionTeaser_first200": "Reuters is looking for a strong journalist to lead its finance and markets breaking news team in the United States. The breaking news team is at the heart of the finance and markets team, serving the...",
+      "descriptionTeaser_keyword": "Reuters is looking for a strong journalist to lead its finance and markets breaking news team in the United States. The breaking news team is at the heart of the finance and markets team, serving the...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
       {
         "latlong": {
           "lon": -73.9870076,
@@ -945,45 +1068,52 @@
     "badge": ""
   },
   {
-    "cityState": "Gdansk",
-    "country": "Poland",
+    "cityState": "Aichi",
+    "country": "Japan",
     "ml_skills": [
-      "english"
+      "content development",
+      "stakeholder relationships",
+      "team development",
+      "stakeholder management",
+      "functional expertise",
+      "ai",
+      "commercial acumen"
     ],
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "Are you experienced in journalism and fluent in English with advanced German? Join a dynamic team where you'll craft impactful headlines and stories about major companies in Europe\u2019s largest economies. Embrace the fast-paced world of real-time news and make your mark on a global stage!",
+    "descriptionTeaser": "Are you experienced in leading diverse teams and driving editorial excellence? Join us to shape high-quality content for the legal market in Japan, while managing stakeholder relationships and fostering talent. Bring your strategic vision and bilingual skills to make a real impact in a dynamic environment!",
     "state": "",
     "visibilityType": "External",
     "siteType": "external",
-    "longitude": "18.5757343",
+    "longitude": "136.8966607",
     "multi_category": [
       "News & Editorial Careers"
     ],
-    "reqId": "JREQ192548",
-    "jobId": "JREQ192548",
-    "city": "Gdansk",
-    "latitude": "54.400578",
+    "reqId": "JREQ189648",
+    "jobId": "JREQ189648",
+    "city": "Aichi",
+    "latitude": "35.1636282",
     "locale": "en_US",
     "multi_location": [
-      "Gdansk, Poland"
+      "Aichi, Japan",
+      "Tokyo, Japan"
     ],
-    "title": "News Reporter, Reuters (German speaking)",
-    "jobSeqNo": "THTTRUUSJREQ192548EXTERNALENUS",
-    "postedDate": "2025-06-24T00:00:00.000+0000",
-    "dateCreated": "2025-06-24T12:39:28.490+0000",
-    "cityStateCountry": "Gdansk, Poland",
-    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
+    "title": "Director, Editorial",
+    "jobSeqNo": "THTTRUUSJREQ189648EXTERNALENUS",
+    "postedDate": "2025-06-23T00:00:00.000+0000",
+    "dateCreated": "2025-04-30T00:38:50.774+0000",
+    "cityStateCountry": "Aichi, Japan",
+    "address": "Shinnippon Hoki Publishing Annex 7F 1-26-11 Sakae, Naka-ku, Nagoya-shi, Aichi, 460-0008, Japan",
     "jobVisibility": [
       "external"
     ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/News-Reporter--Reuters--German-speaking-_JREQ192548/apply",
-    "location": "Gdansk, Poland",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/JPN-Aichi-Shinnippon-Hoki/Senior-Editorial-Manager_JREQ189648/apply",
+    "location": "Aichi, Japan",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "Are you experienced in journalism and fluent in English with advanced German? Join a dynamic team where you'll craft impactful headlines and stories about major companies in Europe\u2019s largest economies. Embrace the fast-paced world of real-time news and make your mark on a global stage!",
-      "descriptionTeaser_first200": "Reuters is seeking a graduate who can speak fluent English and advanced German to join its real-time news operation in Gdansk, Poland. The reporter will work in fast-paced, international environment a...",
-      "descriptionTeaser_keyword": "Reuters is seeking a graduate who can speak fluent English and advanced German to join its real-time news operation in Gdansk, Poland. The reporter will work in fast-paced, international environment a...",
+      "descriptionTeaser": "Are you experienced in leading diverse teams and driving editorial excellence? Join us to shape high-quality content for the legal market in Japan, while managing stakeholder relationships and fostering talent. Bring your strategic vision and bilingual skills to make a real impact in a dynamic environment!",
+      "descriptionTeaser_first200": "Director, Editorial. We are seeking an experienced and strategic leader to join our team as a Director, Editorial, based in Japan. As a key member of our editorial team, you will play a vital role in...",
+      "descriptionTeaser_keyword": "Director, Editorial. We are seeking an experienced and strategic leader to join our team as a Director, Editorial, based in Japan. As a key member of our editorial team, you will play a vital role in...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
@@ -991,72 +1121,17 @@
     "multi_location_array": [
       {
         "latlong": {
-          "lon": 18.5757343,
-          "lat": 54.400578
+          "lon": 136.8966607,
+          "lat": 35.1636282
         },
-        "location": "Gdansk, Poland"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "New York, New York",
-    "country": "United States of America",
-    "ml_skills": [
-      "writing skills",
-      "management skills"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Are you experienced in financial markets and breaking news? Lead a dynamic team in delivering real-time market coverage, crafting high-quality reports, and managing creative growth. Thrive in a fast-paced environment where your journalistic skills and passion for finance can shine. Join a team that shapes the news!",
-    "state": "New York",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-73.9870076",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ192378",
-    "jobId": "JREQ192378",
-    "city": "New York",
-    "latitude": "40.756572",
-    "locale": "en_US",
-    "multi_location": [
-      "New York, New York, United States of America"
-    ],
-    "title": "U.S. Breaking News Editor, Finance and Markets",
-    "jobSeqNo": "THTTRUUSJREQ192378EXTERNALENUS",
-    "postedDate": "2025-06-24T00:00:00.000+0000",
-    "dateCreated": "2025-06-17T16:38:03.129+0000",
-    "cityStateCountry": "New York, New York, United States of America",
-    "address": "3 Times Square, New York, NY 10036, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-New-York-3-Times-Square/US-Breaking-News-Editor--Finance-and-Markets_JREQ192378/apply",
-    "location": "New York, New York, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Are you experienced in financial markets and breaking news? Lead a dynamic team in delivering real-time market coverage, crafting high-quality reports, and managing creative growth. Thrive in a fast-paced environment where your journalistic skills and passion for finance can shine. Join a team that shapes the news!",
-      "descriptionTeaser_first200": "Reuters is looking for a strong journalist to lead its finance and markets breaking news team in the United States. The breaking news team is at the heart of the finance and markets team, serving the...",
-      "descriptionTeaser_keyword": "Reuters is looking for a strong journalist to lead its finance and markets breaking news team in the United States. The breaking news team is at the heart of the finance and markets team, serving the...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
+        "location": "Aichi, Japan"
+      },
       {
         "latlong": {
-          "lon": -73.9870076,
-          "lat": 40.756572
+          "lon": 139.7488929,
+          "lat": 35.6621409
         },
-        "location": "New York, New York, United States of America"
+        "location": "Tokyo, Japan"
       }
     ],
     "isMultiCategory": false,
@@ -1261,52 +1336,46 @@
     "badge": ""
   },
   {
-    "cityState": "Aichi",
-    "country": "Japan",
+    "cityState": "Gdansk",
+    "country": "Poland",
     "ml_skills": [
-      "content development",
-      "stakeholder relationships",
-      "team development",
-      "stakeholder management",
-      "functional expertise",
-      "ai",
-      "commercial acumen"
+      "dutch",
+      "accuracy"
     ],
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "Are you experienced in leading diverse teams and driving editorial excellence? Join us to shape high-quality content for the legal market in Japan, while managing stakeholder relationships and fostering talent. Bring your strategic vision and bilingual skills to make a real impact in a dynamic environment!",
+    "descriptionTeaser": "We are looking for fluent English and French speakers to thrive in a fast-paced news environment. Your role will involve crafting headlines, translating stories, and delivering timely updates on financial markets. Join a global network and make your mark in journalism that reaches billions daily!",
     "state": "",
     "visibilityType": "External",
     "siteType": "external",
-    "longitude": "136.8966607",
+    "longitude": "18.5757343",
     "multi_category": [
       "News & Editorial Careers"
     ],
-    "reqId": "JREQ189648",
-    "jobId": "JREQ189648",
-    "city": "Aichi",
-    "latitude": "35.1636282",
+    "reqId": "JREQ192454",
+    "jobId": "JREQ192454",
+    "city": "Gdansk",
+    "latitude": "54.400578",
     "locale": "en_US",
     "multi_location": [
-      "Aichi, Japan",
-      "Tokyo, Japan"
+      "Gdansk, Poland"
     ],
-    "title": "Director, Editorial",
-    "jobSeqNo": "THTTRUUSJREQ189648EXTERNALENUS",
-    "postedDate": "2025-06-23T00:00:00.000+0000",
-    "dateCreated": "2025-04-30T00:38:50.774+0000",
-    "cityStateCountry": "Aichi, Japan",
-    "address": "Shinnippon Hoki Publishing Annex 7F 1-26-11 Sakae, Naka-ku, Nagoya-shi, Aichi, 460-0008, Japan",
+    "title": "News Reporter with French, Reuters",
+    "jobSeqNo": "THTTRUUSJREQ192454EXTERNALENUS",
+    "postedDate": "2025-06-18T00:00:00.000+0000",
+    "dateCreated": "2025-06-18T08:40:34.080+0000",
+    "cityStateCountry": "Gdansk, Poland",
+    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
     "jobVisibility": [
       "external"
     ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/JPN-Aichi-Shinnippon-Hoki/Senior-Editorial-Manager_JREQ189648/apply",
-    "location": "Aichi, Japan",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/News-Reporter-with-French--Reuters_JREQ192454/apply",
+    "location": "Gdansk, Poland",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "Are you experienced in leading diverse teams and driving editorial excellence? Join us to shape high-quality content for the legal market in Japan, while managing stakeholder relationships and fostering talent. Bring your strategic vision and bilingual skills to make a real impact in a dynamic environment!",
-      "descriptionTeaser_first200": "Director, Editorial. We are seeking an experienced and strategic leader to join our team as a Director, Editorial, based in Japan. As a key member of our editorial team, you will play a vital role in...",
-      "descriptionTeaser_keyword": "Director, Editorial. We are seeking an experienced and strategic leader to join our team as a Director, Editorial, based in Japan. As a key member of our editorial team, you will play a vital role in...",
+      "descriptionTeaser": "We are looking for fluent English and French speakers to thrive in a fast-paced news environment. Your role will involve crafting headlines, translating stories, and delivering timely updates on financial markets. Join a global network and make your mark in journalism that reaches billions daily!",
+      "descriptionTeaser_first200": "Reuters is seeking candidates who can speak fluent English and French to join its real-time news operation in Gdansk, Poland. The reporters will work in fast paced, international environment to pro...",
+      "descriptionTeaser_keyword": "Reuters is seeking candidates who can speak fluent English and French to join its real-time news operation in Gdansk, Poland. The reporters will work in fast paced, international environment to produc...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
@@ -1314,17 +1383,10 @@
     "multi_location_array": [
       {
         "latlong": {
-          "lon": 136.8966607,
-          "lat": 35.1636282
+          "lon": 18.5757343,
+          "lat": 54.400578
         },
-        "location": "Aichi, Japan"
-      },
-      {
-        "latlong": {
-          "lon": 139.7488929,
-          "lat": 35.6621409
-        },
-        "location": "Tokyo, Japan"
+        "location": "Gdansk, Poland"
       }
     ],
     "isMultiCategory": false,
@@ -1426,68 +1488,6 @@
     "badge": ""
   },
   {
-    "cityState": "Gdansk",
-    "country": "Poland",
-    "ml_skills": [
-      "dutch",
-      "accuracy"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "We are looking for fluent English and French speakers to thrive in a fast-paced news environment. Your role will involve crafting headlines, translating stories, and delivering timely updates on financial markets. Join a global network and make your mark in journalism that reaches billions daily!",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "18.5757343",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ192454",
-    "jobId": "JREQ192454",
-    "city": "Gdansk",
-    "latitude": "54.400578",
-    "locale": "en_US",
-    "multi_location": [
-      "Gdansk, Poland"
-    ],
-    "title": "News Reporter with French, Reuters",
-    "jobSeqNo": "THTTRUUSJREQ192454EXTERNALENUS",
-    "postedDate": "2025-06-18T00:00:00.000+0000",
-    "dateCreated": "2025-06-18T08:40:34.080+0000",
-    "cityStateCountry": "Gdansk, Poland",
-    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/News-Reporter-with-French--Reuters_JREQ192454/apply",
-    "location": "Gdansk, Poland",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "We are looking for fluent English and French speakers to thrive in a fast-paced news environment. Your role will involve crafting headlines, translating stories, and delivering timely updates on financial markets. Join a global network and make your mark in journalism that reaches billions daily!",
-      "descriptionTeaser_first200": "Reuters is seeking candidates who can speak fluent English and French to join its real-time news operation in Gdansk, Poland. The reporters will work in fast paced, international environment to pro...",
-      "descriptionTeaser_keyword": "Reuters is seeking candidates who can speak fluent English and French to join its real-time news operation in Gdansk, Poland. The reporters will work in fast paced, international environment to produc...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 18.5757343,
-          "lat": 54.400578
-        },
-        "location": "Gdansk, Poland"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "S\u00e3o Paulo, S\u00e3o Paulo",
     "country": "Brazil",
     "ml_skills": [
@@ -1543,96 +1543,6 @@
           "lat": -23.5697209
         },
         "location": "S\u00e3o Paulo, S\u00e3o Paulo, Brazil"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Frisco, Texas",
-    "country": "United States of America",
-    "ml_skills": [
-      "software development",
-      "application operations",
-      "relational databases",
-      "application development",
-      "application architecture",
-      "salesforce",
-      "service cloud",
-      "itil processes",
-      "data center",
-      "cloud infrastructure",
-      "java",
-      "software quality",
-      "linux",
-      "node",
-      "sales cloud",
-      "javascript frameworks",
-      "computer science",
-      "project management",
-      "itil certification",
-      "jquery",
-      "scripting languages",
-      "typescript",
-      "html/css",
-      "incident management",
-      "it service management",
-      "aws cloud",
-      "js",
-      "development experience",
-      "aws/azure",
-      "conflict management"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Seeking a detail-oriented professional to design, develop, and test tax software. Must possess strong knowledge of tax laws, software modification experience, and excellent communication skills. Responsibilities include analyzing requirements, coordinating projects, ensuring quality, and providing client support while adapting to evolving tax regulations.",
-    "state": "Texas",
-    "visibilityType": "External",
-    "longitude": "-96.833545",
-    "siteType": "external",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ191179",
-    "jobId": "JREQ191179",
-    "city": "Frisco",
-    "latitude": "33.1073049",
-    "locale": "en_US",
-    "multi_location": [
-      "Frisco, Texas, United States of America"
-    ],
-    "title": "Tax Analyst",
-    "jobSeqNo": "THTTRUUSJREQ191179EXTERNALENUS",
-    "postedDate": "2025-06-17T00:00:00.000+0000",
-    "dateCreated": "2025-05-12T20:39:45.843+0000",
-    "cityStateCountry": "Frisco, Texas, United States of America",
-    "address": "6160 Warren Parkway, Frisco, TX 75034, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Frisco-6160-Warren-Parkway/Tax-Analyst_JREQ191179/apply",
-    "location": "Frisco, Texas, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Seeking a detail-oriented professional to design, develop, and test tax software. Must possess strong knowledge of tax laws, software modification experience, and excellent communication skills. Responsibilities include analyzing requirements, coordinating projects, ensuring quality, and providing client support while adapting to evolving tax regulations.",
-      "descriptionTeaser_first200": "Summary. You will participate in the design, development, and testing of our GoSystem Tax using in-house development tools. In this role, you will collect, analyze, and prioritize requirements from...",
-      "descriptionTeaser_keyword": "Summary. You will participate in the design, development, and testing of our GoSystem Tax using in-house development tools. In this role, you will collect, analyze, and prioritize requirements from va...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -96.833545,
-          "lat": 33.1073049
-        },
-        "location": "Frisco, Texas, United States of America"
       }
     ],
     "isMultiCategory": false,
@@ -1771,6 +1681,96 @@
           "lat": 40.756572
         },
         "location": "New York, New York, United States of America"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Frisco, Texas",
+    "country": "United States of America",
+    "ml_skills": [
+      "software development",
+      "application operations",
+      "relational databases",
+      "application development",
+      "application architecture",
+      "salesforce",
+      "service cloud",
+      "itil processes",
+      "data center",
+      "cloud infrastructure",
+      "java",
+      "software quality",
+      "linux",
+      "node",
+      "sales cloud",
+      "javascript frameworks",
+      "computer science",
+      "project management",
+      "itil certification",
+      "jquery",
+      "scripting languages",
+      "typescript",
+      "html/css",
+      "incident management",
+      "it service management",
+      "aws cloud",
+      "js",
+      "development experience",
+      "aws/azure",
+      "conflict management"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Seeking a detail-oriented professional to design, develop, and test tax software. Must possess strong knowledge of tax laws, software modification experience, and excellent communication skills. Responsibilities include analyzing requirements, coordinating projects, ensuring quality, and providing client support while adapting to evolving tax regulations.",
+    "state": "Texas",
+    "visibilityType": "External",
+    "longitude": "-96.833545",
+    "siteType": "external",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ191179",
+    "jobId": "JREQ191179",
+    "city": "Frisco",
+    "latitude": "33.1073049",
+    "locale": "en_US",
+    "multi_location": [
+      "Frisco, Texas, United States of America"
+    ],
+    "title": "Tax Analyst",
+    "jobSeqNo": "THTTRUUSJREQ191179EXTERNALENUS",
+    "postedDate": "2025-06-17T00:00:00.000+0000",
+    "dateCreated": "2025-05-12T20:39:45.843+0000",
+    "cityStateCountry": "Frisco, Texas, United States of America",
+    "address": "6160 Warren Parkway, Frisco, TX 75034, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Frisco-6160-Warren-Parkway/Tax-Analyst_JREQ191179/apply",
+    "location": "Frisco, Texas, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Seeking a detail-oriented professional to design, develop, and test tax software. Must possess strong knowledge of tax laws, software modification experience, and excellent communication skills. Responsibilities include analyzing requirements, coordinating projects, ensuring quality, and providing client support while adapting to evolving tax regulations.",
+      "descriptionTeaser_first200": "Summary. You will participate in the design, development, and testing of our GoSystem Tax using in-house development tools. In this role, you will collect, analyze, and prioritize requirements from...",
+      "descriptionTeaser_keyword": "Summary. You will participate in the design, development, and testing of our GoSystem Tax using in-house development tools. In this role, you will collect, analyze, and prioritize requirements from va...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -96.833545,
+          "lat": 33.1073049
+        },
+        "location": "Frisco, Texas, United States of America"
       }
     ],
     "isMultiCategory": false,
@@ -3477,69 +3477,6 @@
     "cityState": "London",
     "country": "United Kingdom",
     "ml_skills": [
-      "storytelling",
-      "journalism",
-      "ai"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Join a dynamic newsroom as a sharp-eyed editor skilled in crafting impactful financial stories. You will edit and refine copy, lead major coverage, and collaborate with reporters, all while translating complex concepts into engaging journalism. Experience in financial news editing and a passion for clarity are essential.",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-0.0185088",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ191713",
-    "jobId": "JREQ191713",
-    "city": "London",
-    "latitude": "51.5056439",
-    "locale": "en_US",
-    "multi_location": [
-      "London, United Kingdom"
-    ],
-    "title": "Desk Editor, The Insurer - Reuters",
-    "jobSeqNo": "THTTRUUSJREQ191713EXTERNALENUS",
-    "postedDate": "2025-06-03T00:00:00.000+0000",
-    "dateCreated": "2025-06-03T14:24:55.012+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Desk-Editor--The-Insurer---Reuters_JREQ191713/apply",
-    "location": "London, United Kingdom",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Join a dynamic newsroom as a sharp-eyed editor skilled in crafting impactful financial stories. You will edit and refine copy, lead major coverage, and collaborate with reporters, all while translating complex concepts into engaging journalism. Experience in financial news editing and a passion for clarity are essential.",
-      "descriptionTeaser_first200": "Desk Editor, The Insurer - Reuters. This position will be based in Reuters' London bureau, with hybrid working available. Are you a sharp-eyed editor with a flair for writing impactful stories? Do you...",
-      "descriptionTeaser_keyword": "Desk Editor, The Insurer - Reuters. This position will be based in Reuters' London bureau, with hybrid working available. Are you a sharp-eyed editor with a flair for writing impactful stories? Do you...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -0.0185088,
-          "lat": 51.5056439
-        },
-        "location": "London, United Kingdom"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "London",
-    "country": "United Kingdom",
-    "ml_skills": [
       "journalism",
       "visual storytelling",
       "ai",
@@ -3668,45 +3605,47 @@
     "badge": ""
   },
   {
-    "cityState": "Tokyo",
-    "country": "Japan",
+    "cityState": "London",
+    "country": "United Kingdom",
     "ml_skills": [
-      "lawyer"
+      "storytelling",
+      "journalism",
+      "ai"
     ],
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "Join a dynamic team seeking a skilled legal editor with expertise in the Japanese legal market. Responsibilities include researching, writing, and translating high-quality legal content, mentoring colleagues, and fostering relationships with third parties. Ideal candidates possess substantial legal experience, excellent communication skills in Japanese and English, and a passion for writing.",
+    "descriptionTeaser": "Join a dynamic newsroom as a sharp-eyed editor skilled in crafting impactful financial stories. You will edit and refine copy, lead major coverage, and collaborate with reporters, all while translating complex concepts into engaging journalism. Experience in financial news editing and a passion for clarity are essential.",
     "state": "",
     "visibilityType": "External",
     "siteType": "external",
-    "longitude": "139.7488929",
+    "longitude": "-0.0185088",
     "multi_category": [
       "News & Editorial Careers"
     ],
-    "reqId": "JREQ190924",
-    "jobId": "JREQ190924",
-    "city": "Tokyo",
-    "latitude": "35.6621409",
+    "reqId": "JREQ191713",
+    "jobId": "JREQ191713",
+    "city": "London",
+    "latitude": "51.5056439",
     "locale": "en_US",
     "multi_location": [
-      "Tokyo, Japan"
+      "London, United Kingdom"
     ],
-    "title": "Senior Specialist Legal Editor, Practical Law Japan",
-    "jobSeqNo": "THTTRUUSJREQ190924EXTERNALENUS",
-    "postedDate": "2025-06-02T00:00:00.000+0000",
-    "dateCreated": "2025-05-29T08:38:36.979+0000",
-    "cityStateCountry": "Tokyo, Japan",
-    "address": "10F Atago Green Hills Mori Tower, 2-5-1 Atago, Minato-ku, Tokyo, 105-6210, Japan",
+    "title": "Desk Editor, The Insurer - Reuters",
+    "jobSeqNo": "THTTRUUSJREQ191713EXTERNALENUS",
+    "postedDate": "2025-06-03T00:00:00.000+0000",
+    "dateCreated": "2025-06-03T14:24:55.012+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
     "jobVisibility": [
       "external"
     ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/JPN-Tokyo-Atago-Green-Hills/Senior-Specialist-Legal-Editor--Practical-Law-Japan_JREQ190924/apply",
-    "location": "Tokyo, Japan",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Desk-Editor--The-Insurer---Reuters_JREQ191713/apply",
+    "location": "London, United Kingdom",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "Join a dynamic team seeking a skilled legal editor with expertise in the Japanese legal market. Responsibilities include researching, writing, and translating high-quality legal content, mentoring colleagues, and fostering relationships with third parties. Ideal candidates possess substantial legal experience, excellent communication skills in Japanese and English, and a passion for writing.",
-      "descriptionTeaser_first200": "We are looking for a talented and motivated Senior Specialist Legal Editor to work closely with our Director to research, write, and deliver well-written, up-to-date content for online publication. Th...",
-      "descriptionTeaser_keyword": "We are looking for a talented and motivated Senior Specialist Legal Editor to work closely with our Director to research, write, and deliver well-written, up-to-date content for online publication. Th...",
+      "descriptionTeaser": "Join a dynamic newsroom as a sharp-eyed editor skilled in crafting impactful financial stories. You will edit and refine copy, lead major coverage, and collaborate with reporters, all while translating complex concepts into engaging journalism. Experience in financial news editing and a passion for clarity are essential.",
+      "descriptionTeaser_first200": "Desk Editor, The Insurer - Reuters. This position will be based in Reuters' London bureau, with hybrid working available. Are you a sharp-eyed editor with a flair for writing impactful stories? Do you...",
+      "descriptionTeaser_keyword": "Desk Editor, The Insurer - Reuters. This position will be based in Reuters' London bureau, with hybrid working available. Are you a sharp-eyed editor with a flair for writing impactful stories? Do you...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
@@ -3714,10 +3653,10 @@
     "multi_location_array": [
       {
         "latlong": {
-          "lon": 139.7488929,
-          "lat": 35.6621409
+          "lon": -0.0185088,
+          "lat": 51.5056439
         },
-        "location": "Tokyo, Japan"
+        "location": "London, United Kingdom"
       }
     ],
     "isMultiCategory": false,
@@ -3846,6 +3785,67 @@
           "lat": 12.9776035
         },
         "location": "Bengaluru, Karnataka, India"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Tokyo",
+    "country": "Japan",
+    "ml_skills": [
+      "lawyer"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Join a dynamic team seeking a skilled legal editor with expertise in the Japanese legal market. Responsibilities include researching, writing, and translating high-quality legal content, mentoring colleagues, and fostering relationships with third parties. Ideal candidates possess substantial legal experience, excellent communication skills in Japanese and English, and a passion for writing.",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "139.7488929",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ190924",
+    "jobId": "JREQ190924",
+    "city": "Tokyo",
+    "latitude": "35.6621409",
+    "locale": "en_US",
+    "multi_location": [
+      "Tokyo, Japan"
+    ],
+    "title": "Senior Specialist Legal Editor, Practical Law Japan",
+    "jobSeqNo": "THTTRUUSJREQ190924EXTERNALENUS",
+    "postedDate": "2025-06-02T00:00:00.000+0000",
+    "dateCreated": "2025-05-29T08:38:36.979+0000",
+    "cityStateCountry": "Tokyo, Japan",
+    "address": "10F Atago Green Hills Mori Tower, 2-5-1 Atago, Minato-ku, Tokyo, 105-6210, Japan",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/JPN-Tokyo-Atago-Green-Hills/Senior-Specialist-Legal-Editor--Practical-Law-Japan_JREQ190924/apply",
+    "location": "Tokyo, Japan",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Join a dynamic team seeking a skilled legal editor with expertise in the Japanese legal market. Responsibilities include researching, writing, and translating high-quality legal content, mentoring colleagues, and fostering relationships with third parties. Ideal candidates possess substantial legal experience, excellent communication skills in Japanese and English, and a passion for writing.",
+      "descriptionTeaser_first200": "We are looking for a talented and motivated Senior Specialist Legal Editor to work closely with our Director to research, write, and deliver well-written, up-to-date content for online publication. Th...",
+      "descriptionTeaser_keyword": "We are looking for a talented and motivated Senior Specialist Legal Editor to work closely with our Director to research, write, and deliver well-written, up-to-date content for online publication. Th...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 139.7488929,
+          "lat": 35.6621409
+        },
+        "location": "Tokyo, Japan"
       }
     ],
     "isMultiCategory": false,
