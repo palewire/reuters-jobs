@@ -240,48 +240,43 @@
     "badge": ""
   },
   {
-    "cityState": "Mexico City",
-    "country": "Mexico",
-    "ml_skills": [
-      "script writing",
-      "english",
-      "storytelling",
-      "write scripts"
-    ],
+    "cityState": "Washington, District of Columbia",
+    "country": "United States of America",
+    "ml_skills": [],
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "We are looking for a passionate storyteller with strong English proficiency to create compelling news content focused on Mexico and Central America. The ideal candidate excels in a fast-paced environment, possesses excellent news judgment, and collaborates effectively across teams while bringing diverse perspectives to life.",
-    "state": "",
+    "descriptionTeaser": "Produce, edit, write and deliver agency video stories, both from the office and sometimes in the field. Have the ability to work long hours, some weekend shifts, often under extreme pressure. The abil...",
+    "state": "District of Columbia",
     "visibilityType": "External",
-    "longitude": "-99.15156759999999",
     "siteType": "external",
+    "longitude": "-77.0311952",
     "multi_category": [
       "News & Editorial Careers"
     ],
-    "reqId": "JREQ190886",
-    "jobId": "JREQ190886",
-    "city": "Mexico City",
-    "latitude": "19.4342738",
+    "reqId": "JREQ192734",
+    "jobId": "JREQ192734",
+    "city": "Washington",
+    "latitude": "38.9004793",
     "locale": "en_US",
     "multi_location": [
-      "Mexico City, Mexico"
+      "Washington, District of Columbia, United States of America"
     ],
-    "title": "Producer, Mexico",
-    "jobSeqNo": "THTTRUUSJREQ190886EXTERNALENUS",
-    "postedDate": "2025-06-30T00:00:00.000+0000",
-    "dateCreated": "2025-05-12T20:39:45.840+0000",
-    "cityStateCountry": "Mexico City, Mexico",
-    "address": "Av. Paseo de la Reforma #26, Floor 36th, Colonia Ju\u00e1rez, Cuauht\u00e9moc, 06600 Mexico City, Mexico",
+    "title": "Video Producer (Level 1 Journalist - Temp Guild)",
+    "jobSeqNo": "THTTRUUSJREQ192734EXTERNALENUS",
+    "postedDate": "2025-07-01T00:00:00.000+0000",
+    "dateCreated": "2025-07-01T16:42:00.812+0000",
+    "cityStateCountry": "Washington, District of Columbia, United States of America",
+    "address": "1333 H Street NW, Suite 500, Washington, DC 20005, United States of America",
     "jobVisibility": [
       "external"
     ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/MEX-Distrito-Federal-Reforma-26/Producer--Mexico_JREQ190886-1/apply",
-    "location": "Mexico City, Mexico",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Washington-1333-H-Street-N/Video-Producer--Level-1-Journalist---Temp-Guild-_JREQ192734/apply",
+    "location": "Washington, District of Columbia, United States of America",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "We are looking for a passionate storyteller with strong English proficiency to create compelling news content focused on Mexico and Central America. The ideal candidate excels in a fast-paced environment, possesses excellent news judgment, and collaborates effectively across teams while bringing diverse perspectives to life.",
-      "descriptionTeaser_first200": "TV Producer. This role requires passion for news and culture of Mexico and the Central American Region, agility in a fast-paced environment, and proficiency in new technologies and digi-friendly stori...",
-      "descriptionTeaser_keyword": "TV Producer. This role requires passion for news and culture of Mexico and the Central American Region, agility in a fast-paced environment, and proficiency in new technologies and digi-friendly stori...",
+      "descriptionTeaser": "Produce, edit, write and deliver agency video stories, both from the office and sometimes in the field. Have the ability to work long hours, some weekend shifts, often under extreme pressure. The abil...",
+      "descriptionTeaser_first200": "Reuters Video News is looking for a versatile and creative news producer for a TEMPORARY role as a Video Producer to join our team in Washington, DC. We are looking for a candidate who is obsessed ...",
+      "descriptionTeaser_keyword": "Reuters Video News is looking for a versatile and creative news producer for a TEMPORARY role as a Video Producer to join our team in Washington, DC. We are looking for a candidate who is obsessed wit...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
@@ -289,10 +284,74 @@
     "multi_location_array": [
       {
         "latlong": {
-          "lon": -99.15156759999999,
-          "lat": 19.4342738
+          "lon": -77.0311952,
+          "lat": 38.9004793
         },
-        "location": "Mexico City, Mexico"
+        "location": "Washington, District of Columbia, United States of America"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Washington, District of Columbia",
+    "country": "United States of America",
+    "ml_skills": [
+      "shooting",
+      "video editing",
+      "dslr",
+      "drone"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Shoot video of events and feature stories using broadcast-quality video camera, DSLR, GoPro, and other camera equipment. Work autonomously when shooting, while collaborating with multimedia and video...",
+    "state": "District of Columbia",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-77.0311952",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ192736",
+    "jobId": "JREQ192736",
+    "city": "Washington",
+    "latitude": "38.9004793",
+    "locale": "en_US",
+    "multi_location": [
+      "Washington, District of Columbia, United States of America"
+    ],
+    "title": "Video Producer (Level 1 Journalist - Temp)",
+    "jobSeqNo": "THTTRUUSJREQ192736EXTERNALENUS",
+    "postedDate": "2025-07-01T00:00:00.000+0000",
+    "dateCreated": "2025-07-01T16:42:00.808+0000",
+    "cityStateCountry": "Washington, District of Columbia, United States of America",
+    "address": "1333 H Street NW, Suite 500, Washington, DC 20005, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Washington-1333-H-Street-N/Video-Producer--Level-1-Journalist---Temp-_JREQ192736/apply",
+    "location": "Washington, District of Columbia, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Shoot video of events and feature stories using broadcast-quality video camera, DSLR, GoPro, and other camera equipment. Work autonomously when shooting, while collaborating with multimedia and video...",
+      "descriptionTeaser_first200": "Reuters Video News is looking for a dynamic and talented Video Journalist for a TEMPORARY position based in Washington, D.C. About the Role. As Video Journalist (Level 1 Journalist - Temp), you wil...",
+      "descriptionTeaser_keyword": "Reuters Video News is looking for a dynamic and talented Video Journalist for a TEMPORARY position based in Washington, D. C. About the Role. As Video Journalist (Level 1 Journalist - Temp), you will....",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -77.0311952,
+          "lat": 38.9004793
+        },
+        "location": "Washington, District of Columbia, United States of America"
       }
     ],
     "isMultiCategory": false,
@@ -519,65 +578,6 @@
     "badge": ""
   },
   {
-    "cityState": "North Hollywood, California",
-    "country": "United States of America",
-    "ml_skills": [],
-    "remote": "Remote",
-    "type": "Full time",
-    "descriptionTeaser": "In this critical role, you will leverage your expertise in California law to conduct in-depth legal research, rigorous analysis, and sophisticated writing, directly shaping the comprehensive legal com...",
-    "state": "California",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-118.3747284",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ192406",
-    "jobId": "JREQ192406",
-    "city": "North Hollywood",
-    "latitude": "34.1642783",
-    "locale": "en_US",
-    "multi_location": [
-      "North Hollywood, California, United States of America"
-    ],
-    "title": "Senior Attorney Editor",
-    "jobSeqNo": "THTTRUUSJREQ192406EXTERNALENUS",
-    "postedDate": "2025-06-30T00:00:00.000+0000",
-    "dateCreated": "2025-06-30T16:43:17.812+0000",
-    "cityStateCountry": "North Hollywood, California, United States of America",
-    "address": "5161 Lankershim Blvd, North Hollywood, CA 91601, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-North-Hollywood-5161-Lankershim-Blvd/Senior-Attorney-Editor_JREQ192406/apply",
-    "location": "North Hollywood, California, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "In this critical role, you will leverage your expertise in California law to conduct in-depth legal research, rigorous analysis, and sophisticated writing, directly shaping the comprehensive legal com...",
-      "descriptionTeaser_first200": "Senior Attorney Editor. Role Summary. Are you ready to be part of the team that produces the definitive resources for practicing California attorneys? Thomson Reuters is seeking a Senior Attorney Edit...",
-      "descriptionTeaser_keyword": "Senior Attorney Editor. Role Summary. Are you ready to be part of the team that produces the definitive resources for practicing California attorneys? Thomson Reuters is seeking a Senior Attorney Edit...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -118.3747284,
-          "lat": 34.1642783
-        },
-        "location": "North Hollywood, California, United States of America"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "S\u00e3o Paulo, S\u00e3o Paulo",
     "country": "Brazil",
     "ml_skills": [
@@ -633,6 +633,73 @@
           "lat": -23.5697209
         },
         "location": "S\u00e3o Paulo, S\u00e3o Paulo, Brazil"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "North Hollywood, California",
+    "country": "United States of America",
+    "ml_skills": [
+      "accuracy",
+      "legal research",
+      "westlaw",
+      "case law",
+      "monitoring",
+      "collaborate",
+      "prioritize tasks"
+    ],
+    "remote": "Remote",
+    "type": "Full time",
+    "descriptionTeaser": "In this critical role, you will leverage your expertise in California law to conduct in-depth legal research, rigorous analysis, and sophisticated writing, directly shaping the comprehensive legal com...",
+    "state": "California",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-118.3747284",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ192406",
+    "jobId": "JREQ192406",
+    "city": "North Hollywood",
+    "latitude": "34.1642783",
+    "locale": "en_US",
+    "multi_location": [
+      "North Hollywood, California, United States of America"
+    ],
+    "title": "Senior Attorney Editor",
+    "jobSeqNo": "THTTRUUSJREQ192406EXTERNALENUS",
+    "postedDate": "2025-06-30T00:00:00.000+0000",
+    "dateCreated": "2025-06-30T16:43:17.812+0000",
+    "cityStateCountry": "North Hollywood, California, United States of America",
+    "address": "5161 Lankershim Blvd, North Hollywood, CA 91601, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-North-Hollywood-5161-Lankershim-Blvd/Senior-Attorney-Editor_JREQ192406/apply",
+    "location": "North Hollywood, California, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "In this critical role, you will leverage your expertise in California law to conduct in-depth legal research, rigorous analysis, and sophisticated writing, directly shaping the comprehensive legal com...",
+      "descriptionTeaser_first200": "Senior Attorney Editor. Role Summary. Are you ready to be part of the team that produces the definitive resources for practicing California attorneys? Thomson Reuters is seeking a Senior Attorney E...",
+      "descriptionTeaser_keyword": "Senior Attorney Editor. Role Summary. Are you ready to be part of the team that produces the definitive resources for practicing California attorneys? Thomson Reuters is seeking a Senior Attorney Edit...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -118.3747284,
+          "lat": 34.1642783
+        },
+        "location": "North Hollywood, California, United States of America"
       }
     ],
     "isMultiCategory": false,
