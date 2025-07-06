@@ -1,5 +1,68 @@
 [
   {
+    "cityState": "Hyderabad, Telangana",
+    "country": "India",
+    "ml_skills": [
+      "written communication skills",
+      "pro tools",
+      "elixir"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Composition Technicians must learn and closely adhere to forms-design procedures, which include designing forms that comply with state specifications, established form guidelines, and other TRTA produ...",
+    "state": "Telangana",
+    "visibilityType": "External",
+    "longitude": "78.38589340000001",
+    "siteType": "external",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ192451",
+    "jobId": "JREQ192451",
+    "city": "Hyderabad",
+    "latitude": "17.4367243",
+    "locale": "en_US",
+    "multi_location": [
+      "Hyderabad, Telangana, India"
+    ],
+    "title": "Process Associate",
+    "jobSeqNo": "THTTRUUSJREQ192451EXTERNALENUS",
+    "postedDate": "2025-07-04T00:00:00.000+0000",
+    "dateCreated": "2025-06-20T08:44:30.617+0000",
+    "cityStateCountry": "Hyderabad, Telangana, India",
+    "address": "Floor 12, 13 & 14, Building 11, Raheja Mindspace, Madhapur, Hyderabad- 500081, Telangana, India",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Hyderabad-Raheja-Mindspace/Process-Associate_JREQ192451/apply",
+    "location": "Hyderabad, Telangana, India",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Composition Technicians must learn and closely adhere to forms-design procedures, which include designing forms that comply with state specifications, established form guidelines, and other TRTA produ...",
+      "descriptionTeaser_first200": "Summary. We are looking for a self-motivated individual with appetite to learn new skills and be part of creation, design, preparation and delivery of legal and/or tax forms. Responsibilities of th...",
+      "descriptionTeaser_keyword": "Summary. We are looking for a self-motivated individual with appetite to learn new skills and be part of creation, design, preparation and delivery of legal and/or tax forms. Responsibilities of this...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 78.38589340000001,
+          "lat": 17.4367243
+        },
+        "location": "Hyderabad, Telangana, India"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Tokyo",
     "country": "Japan",
     "ml_skills": [
@@ -135,18 +198,82 @@
     "badge": ""
   },
   {
+    "cityState": "Washington, District of Columbia",
+    "country": "United States of America",
+    "ml_skills": [
+      "video editing",
+      "shooting",
+      "dslr",
+      "drone"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Shoot video of events and feature stories using broadcast-quality video camera, DSLR, GoPro, and other camera equipment. Work autonomously when shooting, while collaborating with multimedia and video...",
+    "state": "District of Columbia",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-77.0311952",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ192736",
+    "jobId": "JREQ192736",
+    "city": "Washington",
+    "latitude": "38.9004793",
+    "locale": "en_US",
+    "multi_location": [
+      "Washington, District of Columbia, United States of America"
+    ],
+    "title": "Video Journalist (Level 1 Journalist - Temp Guild)",
+    "jobSeqNo": "THTTRUUSJREQ192736EXTERNALENUS",
+    "postedDate": "2025-07-03T00:00:00.000+0000",
+    "dateCreated": "2025-07-01T16:42:00.808+0000",
+    "cityStateCountry": "Washington, District of Columbia, United States of America",
+    "address": "1333 H Street NW, Suite 500, Washington, DC 20005, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Washington-1333-H-Street-N/Video-Producer--Level-1-Journalist---Temp-_JREQ192736/apply",
+    "location": "Washington, District of Columbia, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Shoot video of events and feature stories using broadcast-quality video camera, DSLR, GoPro, and other camera equipment. Work autonomously when shooting, while collaborating with multimedia and video...",
+      "descriptionTeaser_first200": "Reuters Video News is looking for a dynamic and talented Video Journalist for a TEMPORARY position based in Washington, D. C. About the Role. As Video Journalist (Level 1 Journalist - Temp), you will....",
+      "descriptionTeaser_keyword": "Reuters Video News is looking for a dynamic and talented Video Journalist for a TEMPORARY position based in Washington, D. C. About the Role. As Video Journalist (Level 1 Journalist - Temp), you will....",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -77.0311952,
+          "lat": 38.9004793
+        },
+        "location": "Washington, District of Columbia, United States of America"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Hyderabad, Telangana",
     "country": "India",
     "ml_skills": [
       "legal research",
-      "liaising",
       "content creation",
-      "microsoft office applications",
-      "microsoft office"
+      "liaising",
+      "microsoft office",
+      "microsoft office applications"
     ],
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "Help identify content that needs review and ensure the review process takes place, liaising where appropriate with colleagues and external contributors. Experience with UK and US legal systems strongl...",
+    "descriptionTeaser": "Assist with writing and copy-editing and technical legal editing of content. Experience with UK and US legal systems strongly preferred. Prior legal training and/or experience preferred. Previous expe...",
     "state": "Telangana",
     "visibilityType": "External",
     "siteType": "external",
@@ -154,30 +281,30 @@
     "multi_category": [
       "News & Editorial Careers"
     ],
-    "reqId": "JREQ183456",
-    "jobId": "JREQ183456",
+    "reqId": "JREQ183332",
+    "jobId": "JREQ183332",
     "city": "Hyderabad",
     "latitude": "17.4367243",
     "locale": "en_US",
     "multi_location": [
       "Hyderabad, Telangana, India"
     ],
-    "title": "Legal Editorial Associate - Practical Law UK, US",
-    "jobSeqNo": "THTTRUUSJREQ183456EXTERNALENUS",
+    "title": "Legal Editorial Associate - (Global) UK/US - LLB/LLM",
+    "jobSeqNo": "THTTRUUSJREQ183332EXTERNALENUS",
     "postedDate": "2025-07-02T00:00:00.000+0000",
-    "dateCreated": "2025-07-02T08:43:33.690+0000",
+    "dateCreated": "2024-11-18T08:42:59.663+0000",
     "cityStateCountry": "Hyderabad, Telangana, India",
     "address": "Floor 12, 13 & 14, Building 11, Raheja Mindspace, Madhapur, Hyderabad- 500081, Telangana, India",
     "jobVisibility": [
       "external"
     ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Hyderabad-Raheja-Mindspace/Legal-Editorial-Associate---Practical-Law-UK--US_JREQ183456/apply",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Hyderabad-Raheja-Mindspace/Legal-Editorial-Associate---Practical-Law-UK--US---LLB-LLM_JREQ183332/apply",
     "location": "Hyderabad, Telangana, India",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "Help identify content that needs review and ensure the review process takes place, liaising where appropriate with colleagues and external contributors. Experience with UK and US legal systems strongl...",
-      "descriptionTeaser_first200": "Legal Editorial Associate - Practical Law UK, US. We are seeking to hire Legal Editorial Associates (LEA) to support the Practical Law editorial teams with the creation, publication, delivery, and ...",
-      "descriptionTeaser_keyword": "Legal Editorial Associate - Practical Law UK, US. We are seeking to hire Legal Editorial Associates (LEA) to support the Practical Law editorial teams with the creation, publication, delivery, and pre...",
+      "descriptionTeaser": "Assist with writing and copy-editing and technical legal editing of content. Experience with UK and US legal systems strongly preferred. Prior legal training and/or experience preferred. Previous expe...",
+      "descriptionTeaser_first200": "We are seeking Legal Editorial Associates (LEAs) to support the Practical Law editorial teams with the creation, publication, delivery, and presentation of content for Practical Law Global. At Practic...",
+      "descriptionTeaser_keyword": "We are seeking Legal Editorial Associates (LEAs) to support the Practical Law editorial teams with the creation, publication, delivery, and presentation of content for Practical Law Global. At Practic...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
@@ -428,14 +555,14 @@
     "country": "India",
     "ml_skills": [
       "legal research",
-      "content creation",
       "liaising",
-      "microsoft office",
-      "microsoft office applications"
+      "content creation",
+      "microsoft office applications",
+      "microsoft office"
     ],
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "Assist with writing and copy-editing and technical legal editing of content. Experience with UK and US legal systems strongly preferred. Prior legal training and/or experience preferred. Previous expe...",
+    "descriptionTeaser": "Help identify content that needs review and ensure the review process takes place, liaising where appropriate with colleagues and external contributors. Experience with UK and US legal systems strongl...",
     "state": "Telangana",
     "visibilityType": "External",
     "siteType": "external",
@@ -443,30 +570,30 @@
     "multi_category": [
       "News & Editorial Careers"
     ],
-    "reqId": "JREQ183332",
-    "jobId": "JREQ183332",
+    "reqId": "JREQ183456",
+    "jobId": "JREQ183456",
     "city": "Hyderabad",
     "latitude": "17.4367243",
     "locale": "en_US",
     "multi_location": [
       "Hyderabad, Telangana, India"
     ],
-    "title": "Legal Editorial Associate - (Global) UK/US - LLB/LLM",
-    "jobSeqNo": "THTTRUUSJREQ183332EXTERNALENUS",
+    "title": "Legal Editorial Associate - Practical Law UK, US",
+    "jobSeqNo": "THTTRUUSJREQ183456EXTERNALENUS",
     "postedDate": "2025-07-02T00:00:00.000+0000",
-    "dateCreated": "2024-11-18T08:42:59.663+0000",
+    "dateCreated": "2025-07-02T08:43:33.690+0000",
     "cityStateCountry": "Hyderabad, Telangana, India",
     "address": "Floor 12, 13 & 14, Building 11, Raheja Mindspace, Madhapur, Hyderabad- 500081, Telangana, India",
     "jobVisibility": [
       "external"
     ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Hyderabad-Raheja-Mindspace/Legal-Editorial-Associate---Practical-Law-UK--US---LLB-LLM_JREQ183332/apply",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Hyderabad-Raheja-Mindspace/Legal-Editorial-Associate---Practical-Law-UK--US_JREQ183456/apply",
     "location": "Hyderabad, Telangana, India",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "Assist with writing and copy-editing and technical legal editing of content. Experience with UK and US legal systems strongly preferred. Prior legal training and/or experience preferred. Previous expe...",
-      "descriptionTeaser_first200": "We are seeking Legal Editorial Associates (LEAs) to support the Practical Law editorial teams with the creation, publication, delivery, and presentation of content for Practical Law Global. At Prac...",
-      "descriptionTeaser_keyword": "We are seeking Legal Editorial Associates (LEAs) to support the Practical Law editorial teams with the creation, publication, delivery, and presentation of content for Practical Law Global. At Practic...",
+      "descriptionTeaser": "Help identify content that needs review and ensure the review process takes place, liaising where appropriate with colleagues and external contributors. Experience with UK and US legal systems strongl...",
+      "descriptionTeaser_first200": "Legal Editorial Associate - Practical Law UK, US. We are seeking to hire Legal Editorial Associates (LEA) to support the Practical Law editorial teams with the creation, publication, delivery, and pre...",
+      "descriptionTeaser_keyword": "Legal Editorial Associate - Practical Law UK, US. We are seeking to hire Legal Editorial Associates (LEA) to support the Practical Law editorial teams with the creation, publication, delivery, and pre...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
@@ -530,7 +657,7 @@
     "category": "News & Editorial Careers",
     "ml_job_parser": {
       "descriptionTeaser": "Members of this team are also tasked with ensuring that published indexes contain and deliver appropriate legal concepts and terms to create a quality finding aid for our customers. To be most effecti...",
-      "descriptionTeaser_first200": "Job Description Summary. Analyse, create, and deliver content that enhances the research value to customers of Thomson Reuters legal information, within parameters established by management and/or ...",
+      "descriptionTeaser_first200": "Job Description Summary. Analyse, create, and deliver content that enhances the research value to customers of Thomson Reuters legal information, within parameters established by management and/or edi...",
       "descriptionTeaser_keyword": "Job Description Summary. Analyse, create, and deliver content that enhances the research value to customers of Thomson Reuters legal information, within parameters established by management and/or edi...",
       "descriptionTeaser_ats": ""
     },
@@ -606,139 +733,6 @@
           "lat": 14.5348768
         },
         "location": "Manila, Philippines"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Tokyo",
-    "country": "Japan",
-    "remote": "Remote",
-    "type": "Full time",
-    "descriptionTeaser": "The ideal candidate will have a strong understanding of the Japanese legal landscape, exceptional writing and translation skills, and the ability to foster relationships with external partners. Excell...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "139.7488929",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ192786",
-    "jobId": "JREQ192786",
-    "city": "Tokyo",
-    "latitude": "35.6621409",
-    "locale": "en_US",
-    "multi_location": [
-      "Tokyo, Japan"
-    ],
-    "title": "Legal Executive (Japanese Speaking)",
-    "jobSeqNo": "THTTRUUSJREQ192786EXTERNALENUS",
-    "postedDate": "2025-07-01T00:00:00.000+0000",
-    "dateCreated": "2025-07-01T04:45:00.295+0000",
-    "cityStateCountry": "Tokyo, Japan",
-    "address": "10F Atago Green Hills Mori Tower, 2-5-1 Atago, Minato-ku, Tokyo, 105-6210, Japan",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/JPN-Tokyo-Atago-Green-Hills/Legal-Executive--Japanese-Speaking-_JREQ192786/apply",
-    "location": "Tokyo, Japan",
-    "category": "News & Editorial Careers",
-    "externalApply": true,
-    "ml_skills": [
-      "lawyer",
-      "legal research",
-      "writing skills",
-      "accuracy",
-      "english",
-      "developing",
-      "mentor",
-      "collaborate",
-      "business development"
-    ],
-    "ml_job_parser": {
-      "descriptionTeaser": "The ideal candidate will have a strong understanding of the Japanese legal landscape, exceptional writing and translation skills, and the ability to foster relationships with external partners. Excell...",
-      "descriptionTeaser_keyword": "Legal Executive (Japanese Speaking). We are seeking a talented and motivated Legal Executive (Japanese Speaking) to join our team. In this role, you will collaborate closely with leadership to researc...",
-      "descriptionTeaser_ats": "",
-      "descriptionTeaser_first200": "Legal Executive (Japanese Speaking). We are seeking a talented and motivated Legal Executive (Japanese Speaking) to join our team. In this role, you will collaborate closely with leadership to rese..."
-    },
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 139.7488929,
-          "lat": 35.6621409
-        },
-        "location": "Tokyo, Japan"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Washington, District of Columbia",
-    "country": "United States of America",
-    "ml_skills": [
-      "shooting",
-      "video editing",
-      "dslr",
-      "drone"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Shoot video of events and feature stories using broadcast-quality video camera, DSLR, GoPro, and other camera equipment. Work autonomously when shooting, while collaborating with multimedia and video...",
-    "state": "District of Columbia",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-77.0311952",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ192736",
-    "jobId": "JREQ192736",
-    "city": "Washington",
-    "latitude": "38.9004793",
-    "locale": "en_US",
-    "multi_location": [
-      "Washington, District of Columbia, United States of America"
-    ],
-    "title": "Video Producer (Level 1 Journalist - Temp)",
-    "jobSeqNo": "THTTRUUSJREQ192736EXTERNALENUS",
-    "postedDate": "2025-07-01T00:00:00.000+0000",
-    "dateCreated": "2025-07-01T16:42:00.808+0000",
-    "cityStateCountry": "Washington, District of Columbia, United States of America",
-    "address": "1333 H Street NW, Suite 500, Washington, DC 20005, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Washington-1333-H-Street-N/Video-Producer--Level-1-Journalist---Temp-_JREQ192736/apply",
-    "location": "Washington, District of Columbia, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Shoot video of events and feature stories using broadcast-quality video camera, DSLR, GoPro, and other camera equipment. Work autonomously when shooting, while collaborating with multimedia and video...",
-      "descriptionTeaser_first200": "Reuters Video News is looking for a dynamic and talented Video Journalist for a TEMPORARY position based in Washington, D. C. About the Role. As Video Journalist (Level 1 Journalist - Temp), you will....",
-      "descriptionTeaser_keyword": "Reuters Video News is looking for a dynamic and talented Video Journalist for a TEMPORARY position based in Washington, D. C. About the Role. As Video Journalist (Level 1 Journalist - Temp), you will....",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -77.0311952,
-          "lat": 38.9004793
-        },
-        "location": "Washington, District of Columbia, United States of America"
       }
     ],
     "isMultiCategory": false,
@@ -866,6 +860,75 @@
           "lat": 12.9776035
         },
         "location": "Bengaluru, Karnataka, India"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Tokyo",
+    "country": "Japan",
+    "remote": "Remote",
+    "type": "Full time",
+    "descriptionTeaser": "The ideal candidate will have a strong understanding of the Japanese legal landscape, exceptional writing and translation skills, and the ability to foster relationships with external partners. Excell...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "139.7488929",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ192786",
+    "jobId": "JREQ192786",
+    "city": "Tokyo",
+    "latitude": "35.6621409",
+    "locale": "en_US",
+    "multi_location": [
+      "Tokyo, Japan"
+    ],
+    "title": "Legal Executive (Japanese Speaking)",
+    "jobSeqNo": "THTTRUUSJREQ192786EXTERNALENUS",
+    "postedDate": "2025-07-01T00:00:00.000+0000",
+    "dateCreated": "2025-07-01T04:45:00.295+0000",
+    "cityStateCountry": "Tokyo, Japan",
+    "address": "10F Atago Green Hills Mori Tower, 2-5-1 Atago, Minato-ku, Tokyo, 105-6210, Japan",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/JPN-Tokyo-Atago-Green-Hills/Legal-Executive--Japanese-Speaking-_JREQ192786/apply",
+    "location": "Tokyo, Japan",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "ml_skills": [
+      "lawyer",
+      "legal research",
+      "writing skills",
+      "accuracy",
+      "english",
+      "developing",
+      "mentor",
+      "collaborate",
+      "business development"
+    ],
+    "ml_job_parser": {
+      "descriptionTeaser": "The ideal candidate will have a strong understanding of the Japanese legal landscape, exceptional writing and translation skills, and the ability to foster relationships with external partners. Excell...",
+      "descriptionTeaser_keyword": "Legal Executive (Japanese Speaking). We are seeking a talented and motivated Legal Executive (Japanese Speaking) to join our team. In this role, you will collaborate closely with leadership to researc...",
+      "descriptionTeaser_ats": "",
+      "descriptionTeaser_first200": "Legal Executive (Japanese Speaking). We are seeking a talented and motivated Legal Executive (Japanese Speaking) to join our team. In this role, you will collaborate closely with leadership to researc..."
+    },
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 139.7488929,
+          "lat": 35.6621409
+        },
+        "location": "Tokyo, Japan"
       }
     ],
     "isMultiCategory": false,
@@ -1092,6 +1155,72 @@
     "badge": ""
   },
   {
+    "cityState": "Eagan, Minnesota",
+    "country": "United States of America",
+    "ml_skills": [
+      "westlaw",
+      "legal research",
+      "proview",
+      "content delivery",
+      "microsoft office 365",
+      "ai solutions"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Join our Global Legal Commentary team to source, create, edit, and maintain high-quality legal content for platforms like Westlaw, print, and Proview. Prioritize work and communicate effectively with...",
+    "state": "Minnesota",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-93.10793129999999",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ191618",
+    "jobId": "JREQ191618",
+    "city": "Eagan",
+    "latitude": "44.8524402",
+    "locale": "en_US",
+    "multi_location": [
+      "Eagan, Minnesota, United States of America"
+    ],
+    "title": "Attorney Editor, US Legal Commentary",
+    "jobSeqNo": "THTTRUUSJREQ191618EXTERNALENUS",
+    "postedDate": "2025-06-30T00:00:00.000+0000",
+    "dateCreated": "2025-06-30T20:43:51.587+0000",
+    "cityStateCountry": "Eagan, Minnesota, United States of America",
+    "address": "2900 Ames Crossing Road, Ste 100, Eagan, MN 55121, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MSP-2900-Ames-Crossing-Road/Attorney-Editor--US-Legal-Commentary_JREQ191618-1/apply",
+    "location": "Eagan, Minnesota, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Join our Global Legal Commentary team to source, create, edit, and maintain high-quality legal content for platforms like Westlaw, print, and Proview. Prioritize work and communicate effectively with...",
+      "descriptionTeaser_first200": "Attorney Editor, US Legal Commentary. Role Summary. Join our Global Legal Commentary team to source, create, edit, and maintain high-quality legal content for platforms like Westlaw, print, and Provie...",
+      "descriptionTeaser_keyword": "Attorney Editor, US Legal Commentary. Role Summary. Join our Global Legal Commentary team to source, create, edit, and maintain high-quality legal content for platforms like Westlaw, print, and Provie...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -93.10793129999999,
+          "lat": 44.8524402
+        },
+        "location": "Eagan, Minnesota, United States of America"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "North Hollywood, California",
     "country": "United States of America",
     "ml_skills": [
@@ -1148,72 +1277,6 @@
           "lat": 34.1642783
         },
         "location": "North Hollywood, California, United States of America"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Eagan, Minnesota",
-    "country": "United States of America",
-    "ml_skills": [
-      "westlaw",
-      "legal research",
-      "proview",
-      "content delivery",
-      "microsoft office 365",
-      "ai solutions"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Join our Global Legal Commentary team to source, create, edit, and maintain high-quality legal content for platforms like Westlaw, print, and Proview. Prioritize work and communicate effectively with...",
-    "state": "Minnesota",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-93.10793129999999",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ191618",
-    "jobId": "JREQ191618",
-    "city": "Eagan",
-    "latitude": "44.8524402",
-    "locale": "en_US",
-    "multi_location": [
-      "Eagan, Minnesota, United States of America"
-    ],
-    "title": "Attorney Editor, US Legal Commentary",
-    "jobSeqNo": "THTTRUUSJREQ191618EXTERNALENUS",
-    "postedDate": "2025-06-30T00:00:00.000+0000",
-    "dateCreated": "2025-06-30T20:43:51.587+0000",
-    "cityStateCountry": "Eagan, Minnesota, United States of America",
-    "address": "2900 Ames Crossing Road, Ste 100, Eagan, MN 55121, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MSP-2900-Ames-Crossing-Road/Attorney-Editor--US-Legal-Commentary_JREQ191618-1/apply",
-    "location": "Eagan, Minnesota, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Join our Global Legal Commentary team to source, create, edit, and maintain high-quality legal content for platforms like Westlaw, print, and Proview. Prioritize work and communicate effectively with...",
-      "descriptionTeaser_first200": "Attorney Editor, US Legal Commentary. Role Summary. Join our Global Legal Commentary team to source, create, edit, and maintain high-quality legal content for platforms like Westlaw, print, and Provie...",
-      "descriptionTeaser_keyword": "Attorney Editor, US Legal Commentary. Role Summary. Join our Global Legal Commentary team to source, create, edit, and maintain high-quality legal content for platforms like Westlaw, print, and Provie...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -93.10793129999999,
-          "lat": 44.8524402
-        },
-        "location": "Eagan, Minnesota, United States of America"
       }
     ],
     "isMultiCategory": false,
@@ -2407,96 +2470,6 @@
           "lat": 40.756572
         },
         "location": "New York, New York, United States of America"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Frisco, Texas",
-    "country": "United States of America",
-    "ml_skills": [
-      "software development",
-      "application operations",
-      "relational databases",
-      "application development",
-      "application architecture",
-      "salesforce",
-      "service cloud",
-      "itil processes",
-      "data center",
-      "cloud infrastructure",
-      "java",
-      "software quality",
-      "linux",
-      "node",
-      "sales cloud",
-      "javascript frameworks",
-      "computer science",
-      "project management",
-      "itil certification",
-      "jquery",
-      "scripting languages",
-      "typescript",
-      "html/css",
-      "incident management",
-      "it service management",
-      "aws cloud",
-      "js",
-      "development experience",
-      "aws/azure",
-      "conflict management"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Seeking a detail-oriented professional to design, develop, and test tax software. Must possess strong knowledge of tax laws, software modification experience, and excellent communication skills. Responsibilities include analyzing requirements, coordinating projects, ensuring quality, and providing client support while adapting to evolving tax regulations.",
-    "state": "Texas",
-    "visibilityType": "External",
-    "longitude": "-96.833545",
-    "siteType": "external",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ191179",
-    "jobId": "JREQ191179",
-    "city": "Frisco",
-    "latitude": "33.1073049",
-    "locale": "en_US",
-    "multi_location": [
-      "Frisco, Texas, United States of America"
-    ],
-    "title": "Tax Analyst",
-    "jobSeqNo": "THTTRUUSJREQ191179EXTERNALENUS",
-    "postedDate": "2025-06-17T00:00:00.000+0000",
-    "dateCreated": "2025-05-12T20:39:45.843+0000",
-    "cityStateCountry": "Frisco, Texas, United States of America",
-    "address": "6160 Warren Parkway, Frisco, TX 75034, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Frisco-6160-Warren-Parkway/Tax-Analyst_JREQ191179/apply",
-    "location": "Frisco, Texas, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Seeking a detail-oriented professional to design, develop, and test tax software. Must possess strong knowledge of tax laws, software modification experience, and excellent communication skills. Responsibilities include analyzing requirements, coordinating projects, ensuring quality, and providing client support while adapting to evolving tax regulations.",
-      "descriptionTeaser_first200": "Summary. You will participate in the design, development, and testing of our GoSystem Tax using in-house development tools. In this role, you will collect, analyze, and prioritize requirements from...",
-      "descriptionTeaser_keyword": "Summary. You will participate in the design, development, and testing of our GoSystem Tax using in-house development tools. In this role, you will collect, analyze, and prioritize requirements from va...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -96.833545,
-          "lat": 33.1073049
-        },
-        "location": "Frisco, Texas, United States of America"
       }
     ],
     "isMultiCategory": false,
@@ -3790,149 +3763,6 @@
           "lat": 31.24097799999999
         },
         "location": "Shanghai, Shanghai, China"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Eagan, Minnesota",
-    "country": "United States of America",
-    "ml_skills": [
-      "accounting",
-      "auditing",
-      "accounting standards",
-      "cpa license",
-      "research methodologies",
-      "content delivery",
-      "artificial intelligence",
-      "technical expertise",
-      "ai",
-      "ai solutions",
-      "agile environment"
-    ],
-    "remote": "Remote",
-    "type": "Full time",
-    "descriptionTeaser": "Are you experienced in audit and accounting with a CPA license and over 7 years in consulting? Join an elite team to create impactful content, analyze industry developments, and enhance advisory solutions using advanced technologies. Bring your strong communication and analytical skills to shape the future of auditing and accounting.",
-    "state": "Minnesota",
-    "visibilityType": "External",
-    "longitude": "-93.10793129999999",
-    "siteType": "external",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ188904",
-    "jobId": "JREQ188904",
-    "city": "Eagan",
-    "latitude": "44.8524402",
-    "locale": "en_US",
-    "multi_location": [
-      "Eagan, Minnesota, United States of America",
-      "Denver, Colorado, United States of America",
-      "Hartford, Connecticut, United States of America",
-      "Las Vegas, Nevada, United States of America",
-      "Los Angeles, California, United States of America",
-      "Seattle, Washington, United States of America",
-      "Ann Arbor, Michigan, United States of America",
-      "Frisco, Texas, United States of America",
-      "New York, New York, United States of America",
-      "Washington, DC, District of Columbia, United States of America"
-    ],
-    "title": "Accounting Specialist Editor(Remote)",
-    "jobSeqNo": "THTTRUUSJREQ188904EXTERNALENUS",
-    "postedDate": "2025-06-04T00:00:00.000+0000",
-    "dateCreated": "2025-03-11T20:43:33.387+0000",
-    "cityStateCountry": "Eagan, Minnesota, United States of America",
-    "address": "2900 Ames Crossing Road, Ste 100, Eagan, MN 55121, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MSP-2900-Ames-Crossing-Road/Accounting-Specialist-Editor_JREQ188904/apply",
-    "location": "Eagan, Minnesota, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Are you experienced in audit and accounting with a CPA license and over 7 years in consulting? Join an elite team to create impactful content, analyze industry developments, and enhance advisory solutions using advanced technologies. Bring your strong communication and analytical skills to shape the future of auditing and accounting.",
-      "descriptionTeaser_first200": "Accounting Specialist Editor(Remote). Role Summary. We are seeking a passionate audit/accounting professional who thrives on the complexity and intricacy of consulting and advisory work. The ideal can...",
-      "descriptionTeaser_keyword": "Accounting Specialist Editor(Remote). Role Summary. We are seeking a passionate audit/accounting professional who thrives on the complexity and intricacy of consulting and advisory work. The ideal can...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -93.10793129999999,
-          "lat": 44.8524402
-        },
-        "location": "Eagan, Minnesota, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -104.9904855,
-          "lat": 39.7471139
-        },
-        "location": "Denver, Colorado, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -72.6622361,
-          "lat": 41.7899681
-        },
-        "location": "Hartford, Connecticut, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -115.14,
-          "lat": 36.18
-        },
-        "location": "Las Vegas, Nevada, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -118.2543447,
-          "lat": 34.0511145
-        },
-        "location": "Los Angeles, California, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -122.336407,
-          "lat": 47.6084921
-        },
-        "location": "Seattle, Washington, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -83.72689749999999,
-          "lat": 42.1961884
-        },
-        "location": "Ann Arbor, Michigan, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -96.833545,
-          "lat": 33.1073049
-        },
-        "location": "Frisco, Texas, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -73.9870076,
-          "lat": 40.756572
-        },
-        "location": "New York, New York, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -77.0190228,
-          "lat": 38.912068
-        },
-        "location": "Washington, DC, District of Columbia, United States of America"
       }
     ],
     "isMultiCategory": false,
