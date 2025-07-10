@@ -1,68 +1,5 @@
 [
   {
-    "cityState": "Bengaluru, Karnataka",
-    "country": "India",
-    "ml_skills": [
-      "reporter",
-      "writer",
-      "developing"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "The Sports Correspondent is a senior reporter with a track record of developing sources and building beats. The ideal candidate is an excellent reporter and storyteller, with sound news judgment and t...",
-    "state": "Karnataka",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "77.708722",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ192485",
-    "jobId": "JREQ192485",
-    "city": "Bengaluru",
-    "latitude": "12.9776035",
-    "locale": "en_US",
-    "multi_location": [
-      "Bengaluru, Karnataka, India"
-    ],
-    "title": "Sports Correspondent",
-    "jobSeqNo": "THTTRUUSJREQ192485EXTERNALENUS",
-    "postedDate": "2025-07-09T00:00:00.000+0000",
-    "dateCreated": "2025-07-01T08:43:43.508+0000",
-    "cityStateCountry": "Bengaluru, Karnataka, India",
-    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/Sports-Correspondent_JREQ192485/apply",
-    "location": "Bengaluru, Karnataka, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "The Sports Correspondent is a senior reporter with a track record of developing sources and building beats. The ideal candidate is an excellent reporter and storyteller, with sound news judgment and t...",
-      "descriptionTeaser_first200": "Sports Correspondent. The Sports Correspondent is a senior reporter with a track record of developing sources and building beats. The ideal candidate is an excellent reporter and storyteller, with sou...",
-      "descriptionTeaser_keyword": "Sports Correspondent. The Sports Correspondent is a senior reporter with a track record of developing sources and building beats. The ideal candidate is an excellent reporter and storyteller, with sou...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 77.708722,
-          "lat": 12.9776035
-        },
-        "location": "Bengaluru, Karnataka, India"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Eagan, Minnesota",
     "country": "United States of America",
     "ml_skills": [
@@ -134,6 +71,121 @@
           "lat": 40.756572
         },
         "location": "New York, New York, United States of America"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Mexico City",
+    "country": "Mexico",
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Global Trade Analyst II \u2013 Data/Product Tech (FTA Content )We are looking for someone who excels in research, analytical thinking, has good technical skills, and is interested in designing and implemen",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-99.15156759999999",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ192164",
+    "jobId": "JREQ192164",
+    "city": "Mexico City",
+    "latitude": "19.4342738",
+    "locale": "en_US",
+    "multi_location": [
+      "Mexico City, Mexico"
+    ],
+    "title": "Global Trade Analyst II - FTA Content",
+    "jobSeqNo": "THTTRUUSJREQ192164EXTERNALENUS",
+    "postedDate": "2025-07-09T00:00:00.000+0000",
+    "dateCreated": "2025-07-09T20:40:07.409+0000",
+    "cityStateCountry": "Mexico City, Mexico",
+    "address": "Av. Paseo de la Reforma #26, Floor 36th, Colonia Ju\u00e1rez, Cuauht\u00e9moc, 06600 Mexico City, Mexico",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/MEX-Distrito-Federal-Reforma-26/Global-Trade-Analyst-II---FTA-Content_JREQ192164-1/apply",
+    "location": "Mexico City, Mexico",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -99.15156759999999,
+          "lat": 19.4342738
+        },
+        "location": "Mexico City, Mexico"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Bengaluru, Karnataka",
+    "country": "India",
+    "ml_skills": [
+      "reporter",
+      "writer",
+      "developing"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "The Sports Correspondent is a senior reporter with a track record of developing sources and building beats. The ideal candidate is an excellent reporter and storyteller, with sound news judgment and t...",
+    "state": "Karnataka",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "77.708722",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ192485",
+    "jobId": "JREQ192485",
+    "city": "Bengaluru",
+    "latitude": "12.9776035",
+    "locale": "en_US",
+    "multi_location": [
+      "Bengaluru, Karnataka, India"
+    ],
+    "title": "Sports Correspondent",
+    "jobSeqNo": "THTTRUUSJREQ192485EXTERNALENUS",
+    "postedDate": "2025-07-09T00:00:00.000+0000",
+    "dateCreated": "2025-07-01T08:43:43.508+0000",
+    "cityStateCountry": "Bengaluru, Karnataka, India",
+    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/Sports-Correspondent_JREQ192485/apply",
+    "location": "Bengaluru, Karnataka, India",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "The Sports Correspondent is a senior reporter with a track record of developing sources and building beats. The ideal candidate is an excellent reporter and storyteller, with sound news judgment and t...",
+      "descriptionTeaser_first200": "Sports Correspondent. The Sports Correspondent is a senior reporter with a track record of developing sources and building beats. The ideal candidate is an excellent reporter and storyteller, with sou...",
+      "descriptionTeaser_keyword": "Sports Correspondent. The Sports Correspondent is a senior reporter with a track record of developing sources and building beats. The ideal candidate is an excellent reporter and storyteller, with sou...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 77.708722,
+          "lat": 12.9776035
+        },
+        "location": "Bengaluru, Karnataka, India"
       }
     ],
     "isMultiCategory": false,
@@ -1640,100 +1692,6 @@
           "lat": 40.756572
         },
         "location": "New York, New York, United States of America"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Eagan, Minnesota",
-    "country": "United States of America",
-    "ml_skills": [
-      "implementing",
-      "operational processes",
-      "accounting",
-      "management reporting",
-      "data analytics",
-      "sap systems",
-      "internal audits",
-      "finance operations",
-      "ai",
-      "system implementations"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Are you experienced in video newsgathering and production? Join a dynamic team to produce compelling stories and live coverage across diverse events. Work independently with top-notch equipment, embrace challenges, and travel to breaking news\u2014all while collaborating with award-winning professionals. Your next adventure awaits!",
-    "state": "Minnesota",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-93.10793129999999",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ192574",
-    "jobId": "JREQ192574",
-    "city": "Eagan",
-    "latitude": "44.8524402",
-    "locale": "en_US",
-    "multi_location": [
-      "Eagan, Minnesota, United States of America",
-      "Denver, Colorado, United States of America",
-      "Las Vegas, Nevada, United States of America",
-      "Phoenix, Arizona, United States of America"
-    ],
-    "title": "Video Cameraperson (Level 1 Journalist - Temp)",
-    "jobSeqNo": "THTTRUUSJREQ192574EXTERNALENUS",
-    "postedDate": "2025-06-26T00:00:00.000+0000",
-    "dateCreated": "2025-06-26T16:40:32.306+0000",
-    "cityStateCountry": "Eagan, Minnesota, United States of America",
-    "address": "2900 Ames Crossing Road, Ste 100, Eagan, MN 55121, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MSP-2900-Ames-Crossing-Road/Video-Cameraperson--Level-1-Journalist---Temp-_JREQ192574/apply",
-    "location": "Eagan, Minnesota, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Are you experienced in video newsgathering and production? Join a dynamic team to produce compelling stories and live coverage across diverse events. Work independently with top-notch equipment, embrace challenges, and travel to breaking news\u2014all while collaborating with award-winning professionals. Your next adventure awaits!",
-      "descriptionTeaser_first200": "Reuters Video News is looking for a dynamic and talented Video Cameraperson for a TEMPORARY position based in Phoenix, Arizona. Talented candidates within commutable distance to Las Vegas, Nevada or D...",
-      "descriptionTeaser_keyword": "Reuters Video News is looking for a dynamic and talented Video Cameraperson for a TEMPORARY position based in Phoenix, Arizona. Talented candidates within commutable distance to Las Vegas, Nevada or D...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -93.10793129999999,
-          "lat": 44.8524402
-        },
-        "location": "Eagan, Minnesota, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -104.9904855,
-          "lat": 39.7471139
-        },
-        "location": "Denver, Colorado, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -115.14,
-          "lat": 36.18
-        },
-        "location": "Las Vegas, Nevada, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -112.0702225,
-          "lat": 33.4499672
-        },
-        "location": "Phoenix, Arizona, United States of America"
       }
     ],
     "isMultiCategory": false,
