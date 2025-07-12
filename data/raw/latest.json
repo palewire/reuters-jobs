@@ -65,53 +65,56 @@
     "badge": ""
   },
   {
-    "cityState": "Hyderabad, Telangana",
-    "country": "India",
+    "cityState": "New York, New York",
+    "country": "United States of America",
     "ml_skills": [
-      "accounting",
-      "tax-related",
-      "tax software",
-      "testing process",
-      "user testing",
-      "html",
-      "testing experience",
-      "strong computer skills.",
-      "written communication skills"
+      "audio editing",
+      "sound design",
+      "sound designer",
+      "adobe audition",
+      "post-production",
+      "podcast",
+      "creative direction",
+      "storytelling",
+      "journalism",
+      "squadcast",
+      "descript",
+      "reverb"
     ],
-    "remote": "Hybrid",
+    "remote": "Remote",
     "type": "Full time",
-    "descriptionTeaser": "Join our team as an Associate Quality Assurance & E-file Analyst, where you'll play a crucial role in ensuring the quality and performance of our tax-related products. You'll leverage your expertise i...",
-    "state": "Telangana",
+    "descriptionTeaser": "Reuters is looking for a sound designer with exceptional audio editing skills, creative sound design instincts, and a strong grasp of news storytelling for a TEMPORARY role to assist with the weekend...",
+    "state": "New York",
     "visibilityType": "External",
     "siteType": "external",
-    "longitude": "78.38589340000001",
+    "longitude": "-73.9870076",
     "multi_category": [
       "News & Editorial Careers"
     ],
-    "reqId": "JREQ189601",
-    "jobId": "JREQ189601",
-    "city": "Hyderabad",
-    "latitude": "17.4367243",
+    "reqId": "JREQ193024",
+    "jobId": "JREQ193024",
+    "city": "New York",
+    "latitude": "40.756572",
     "locale": "en_US",
     "multi_location": [
-      "Hyderabad, Telangana, India"
+      "New York, New York, United States of America"
     ],
-    "title": "Associate Quality Assurance & E-File Analyst-US Taxation",
-    "jobSeqNo": "THTTRUUSJREQ189601EXTERNALENUS",
+    "title": "Weekend Sound Designer, Podcasts (Level 1 Journalist - Temp)",
+    "jobSeqNo": "THTTRUUSJREQ193024EXTERNALENUS",
     "postedDate": "2025-07-11T00:00:00.000+0000",
-    "dateCreated": "2025-07-11T08:49:59.344+0000",
-    "cityStateCountry": "Hyderabad, Telangana, India",
-    "address": "Floor 12, 13 & 14, Building 11, Raheja Mindspace, Madhapur, Hyderabad- 500081, Telangana, India",
+    "dateCreated": "2025-07-11T20:45:46.495+0000",
+    "cityStateCountry": "New York, New York, United States of America",
+    "address": "3 Times Square, New York, NY 10036, United States of America",
     "jobVisibility": [
       "external"
     ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Hyderabad-Raheja-Mindspace/Associate-Quality-Assurance---E-File-Analyst-US-Taxation_JREQ189601-1/apply",
-    "location": "Hyderabad, Telangana, India",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-New-York-3-Times-Square/Weekend-Sound-Designer--Podcasts--Level-1-Journalist---Temp-_JREQ193024/apply",
+    "location": "New York, New York, United States of America",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "Join our team as an Associate Quality Assurance & E-file Analyst, where you'll play a crucial role in ensuring the quality and performance of our tax-related products. You'll leverage your expertise i...",
-      "descriptionTeaser_first200": "Join our team as an Associate Quality Assurance & E-file Analyst, where you'll play a crucial role in ensuring the quality and performance of our tax-related products. You'll leverage your expertis...",
-      "descriptionTeaser_keyword": "Join our team as an Associate Quality Assurance & E-file Analyst, where you'll play a crucial role in ensuring the quality and performance of our tax-related products. You'll leverage your expertise i...",
+      "descriptionTeaser": "Reuters is looking for a sound designer with exceptional audio editing skills, creative sound design instincts, and a strong grasp of news storytelling for a TEMPORARY role to assist with the weekend...",
+      "descriptionTeaser_first200": "Reuters is looking for a sound designer with exceptional audio editing skills, creative sound design instincts, and a strong grasp of news storytelling for a TEMPORARY role to assist with the weeke...",
+      "descriptionTeaser_keyword": "Reuters is looking for a sound designer with exceptional audio editing skills, creative sound design instincts, and a strong grasp of news storytelling for a TEMPORARY role to assist with the weekend...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
@@ -119,10 +122,69 @@
     "multi_location_array": [
       {
         "latlong": {
-          "lon": 78.38589340000001,
-          "lat": 17.4367243
+          "lon": -73.9870076,
+          "lat": 40.756572
         },
-        "location": "Hyderabad, Telangana, India"
+        "location": "New York, New York, United States of America"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "London",
+    "country": "United Kingdom",
+    "ml_skills": [],
+    "remote": "On-Site",
+    "type": "Full time",
+    "descriptionTeaser": "Supervise and assess signal qualities, ensuring that all areas of the operation run to a high technical standard, and will take a key role in the preparation, testing and deployment of equipment for f...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.0185088",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ192923",
+    "jobId": "JREQ192923",
+    "city": "London",
+    "latitude": "51.5056439",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom"
+    ],
+    "title": "MCR Technical Operations Engineer - Reuters",
+    "jobSeqNo": "THTTRUUSJREQ192923EXTERNALENUS",
+    "postedDate": "2025-07-11T00:00:00.000+0000",
+    "dateCreated": "2025-07-11T20:45:46.501+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/MCR-Technical-Operations-Engineer---Reuters_JREQ192923/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Supervise and assess signal qualities, ensuring that all areas of the operation run to a high technical standard, and will take a key role in the preparation, testing and deployment of equipment for f...",
+      "descriptionTeaser_first200": "MCR Technical Operations Engineer - Reuters. This position is based in Canary Wharf, London. Want to be part of the Master Control Room at one of the world's leading news agencies? Want to play a c...",
+      "descriptionTeaser_keyword": "MCR Technical Operations Engineer - Reuters. This position is based in Canary Wharf, London. Want to be part of the Master Control Room at one of the world's leading news agencies? Want to play a cruc...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.0185088,
+          "lat": 51.5056439
+        },
+        "location": "London, United Kingdom"
       }
     ],
     "isMultiCategory": false,
