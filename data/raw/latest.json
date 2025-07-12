@@ -139,7 +139,15 @@
   {
     "cityState": "London",
     "country": "United Kingdom",
-    "ml_skills": [],
+    "ml_skills": [
+      "technical planning",
+      "deployment",
+      "networks",
+      "tcp/ip",
+      "it infrastructure",
+      "situational awareness",
+      "vlan"
+    ],
     "remote": "On-Site",
     "type": "Full time",
     "descriptionTeaser": "Supervise and assess signal qualities, ensuring that all areas of the operation run to a high technical standard, and will take a key role in the preparation, testing and deployment of equipment for f...",
