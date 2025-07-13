@@ -1,46 +1,48 @@
 [
   {
-    "cityState": "Hyderabad, Telangana",
-    "country": "India",
+    "cityState": "New York, New York",
+    "country": "United States of America",
     "ml_skills": [
-      "written communication skills",
-      "pro tools",
-      "elixir"
+      "podcast",
+      "podcasting",
+      "audio editing",
+      "adobe audition",
+      "pro tools"
     ],
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "Composition Technicians must learn and closely adhere to forms-design procedures, which include designing forms that comply with state specifications, established form guidelines, and other TRTA produ...",
-    "state": "Telangana",
+    "descriptionTeaser": "Reuters is looking for a podcast producer with excellent audio editing skills and experience creating audio content for a TEMPORARY position to assist with the weekend expansion of our flagship podcas...",
+    "state": "New York",
     "visibilityType": "External",
-    "longitude": "78.38589340000001",
     "siteType": "external",
+    "longitude": "-73.9870076",
     "multi_category": [
       "News & Editorial Careers"
     ],
-    "reqId": "JREQ192451",
-    "jobId": "JREQ192451",
-    "city": "Hyderabad",
-    "latitude": "17.4367243",
+    "reqId": "JREQ193022",
+    "jobId": "JREQ193022",
+    "city": "New York",
+    "latitude": "40.756572",
     "locale": "en_US",
     "multi_location": [
-      "Hyderabad, Telangana, India"
+      "New York, New York, United States of America"
     ],
-    "title": "Process Associate",
-    "jobSeqNo": "THTTRUUSJREQ192451EXTERNALENUS",
-    "postedDate": "2025-07-10T00:00:00.000+0000",
-    "dateCreated": "2025-06-20T08:44:30.617+0000",
-    "cityStateCountry": "Hyderabad, Telangana, India",
-    "address": "Floor 12, 13 & 14, Building 11, Raheja Mindspace, Madhapur, Hyderabad- 500081, Telangana, India",
+    "title": "Weekend Podcast Producer (Level 1 Journalist - Temp Guild)",
+    "jobSeqNo": "THTTRUUSJREQ193022EXTERNALENUS",
+    "postedDate": "2025-07-11T00:00:00.000+0000",
+    "dateCreated": "2025-07-11T16:39:50.931+0000",
+    "cityStateCountry": "New York, New York, United States of America",
+    "address": "3 Times Square, New York, NY 10036, United States of America",
     "jobVisibility": [
       "external"
     ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Hyderabad-Raheja-Mindspace/Process-Associate_JREQ192451/apply",
-    "location": "Hyderabad, Telangana, India",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-New-York-3-Times-Square/Weekend-Podcast-Producer--Level-1-Journalist---Temp-Guild-_JREQ193022/apply",
+    "location": "New York, New York, United States of America",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "Composition Technicians must learn and closely adhere to forms-design procedures, which include designing forms that comply with state specifications, established form guidelines, and other TRTA produ...",
-      "descriptionTeaser_first200": "Summary. We are looking for a self-motivated individual with appetite to learn new skills and be part of creation, design, preparation and delivery of legal and/or tax forms. Responsibilities of th...",
-      "descriptionTeaser_keyword": "Summary. We are looking for a self-motivated individual with appetite to learn new skills and be part of creation, design, preparation and delivery of legal and/or tax forms. Responsibilities of this...",
+      "descriptionTeaser": "Reuters is looking for a podcast producer with excellent audio editing skills and experience creating audio content for a TEMPORARY position to assist with the weekend expansion of our flagship podcas...",
+      "descriptionTeaser_first200": "Reuters is looking for a podcast producer with excellent audio editing skills and experience creating audio content for a TEMPORARY position to assist with the weekend expansion of our flagship pod...",
+      "descriptionTeaser_keyword": "Reuters is looking for a podcast producer with excellent audio editing skills and experience creating audio content for a TEMPORARY position to assist with the weekend expansion of our flagship podcas...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
@@ -48,10 +50,149 @@
     "multi_location_array": [
       {
         "latlong": {
-          "lon": 78.38589340000001,
-          "lat": 17.4367243
+          "lon": -73.9870076,
+          "lat": 40.756572
         },
-        "location": "Hyderabad, Telangana, India"
+        "location": "New York, New York, United States of America"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "New York, New York",
+    "country": "United States of America",
+    "ml_skills": [
+      "audio editing",
+      "sound design",
+      "sound designer",
+      "adobe audition",
+      "post-production",
+      "podcast",
+      "creative direction",
+      "storytelling",
+      "journalism",
+      "squadcast",
+      "descript",
+      "reverb"
+    ],
+    "remote": "Remote",
+    "type": "Full time",
+    "descriptionTeaser": "Reuters is looking for a sound designer with exceptional audio editing skills, creative sound design instincts, and a strong grasp of news storytelling for a TEMPORARY role to assist with the weekend...",
+    "state": "New York",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-73.9870076",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ193024",
+    "jobId": "JREQ193024",
+    "city": "New York",
+    "latitude": "40.756572",
+    "locale": "en_US",
+    "multi_location": [
+      "New York, New York, United States of America"
+    ],
+    "title": "Weekend Sound Designer, Podcasts (Level 1 Journalist - Temp)",
+    "jobSeqNo": "THTTRUUSJREQ193024EXTERNALENUS",
+    "postedDate": "2025-07-11T00:00:00.000+0000",
+    "dateCreated": "2025-07-11T20:45:46.495+0000",
+    "cityStateCountry": "New York, New York, United States of America",
+    "address": "3 Times Square, New York, NY 10036, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-New-York-3-Times-Square/Weekend-Sound-Designer--Podcasts--Level-1-Journalist---Temp-_JREQ193024/apply",
+    "location": "New York, New York, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Reuters is looking for a sound designer with exceptional audio editing skills, creative sound design instincts, and a strong grasp of news storytelling for a TEMPORARY role to assist with the weekend...",
+      "descriptionTeaser_first200": "Reuters is looking for a sound designer with exceptional audio editing skills, creative sound design instincts, and a strong grasp of news storytelling for a TEMPORARY role to assist with the weeke...",
+      "descriptionTeaser_keyword": "Reuters is looking for a sound designer with exceptional audio editing skills, creative sound design instincts, and a strong grasp of news storytelling for a TEMPORARY role to assist with the weekend...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -73.9870076,
+          "lat": 40.756572
+        },
+        "location": "New York, New York, United States of America"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "London",
+    "country": "United Kingdom",
+    "ml_skills": [
+      "technical planning",
+      "deployment",
+      "networks",
+      "tcp/ip",
+      "it infrastructure",
+      "situational awareness",
+      "vlan"
+    ],
+    "remote": "On-Site",
+    "type": "Full time",
+    "descriptionTeaser": "Supervise and assess signal qualities, ensuring that all areas of the operation run to a high technical standard, and will take a key role in the preparation, testing and deployment of equipment for f...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.0185088",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ192923",
+    "jobId": "JREQ192923",
+    "city": "London",
+    "latitude": "51.5056439",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom"
+    ],
+    "title": "MCR Technical Operations Engineer - Reuters",
+    "jobSeqNo": "THTTRUUSJREQ192923EXTERNALENUS",
+    "postedDate": "2025-07-11T00:00:00.000+0000",
+    "dateCreated": "2025-07-11T20:45:46.501+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/MCR-Technical-Operations-Engineer---Reuters_JREQ192923/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Supervise and assess signal qualities, ensuring that all areas of the operation run to a high technical standard, and will take a key role in the preparation, testing and deployment of equipment for f...",
+      "descriptionTeaser_first200": "MCR Technical Operations Engineer - Reuters. This position is based in Canary Wharf, London. Want to be part of the Master Control Room at one of the world's leading news agencies? Want to play a c...",
+      "descriptionTeaser_keyword": "MCR Technical Operations Engineer - Reuters. This position is based in Canary Wharf, London. Want to be part of the Master Control Room at one of the world's leading news agencies? Want to play a cruc...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.0185088,
+          "lat": 51.5056439
+        },
+        "location": "London, United Kingdom"
       }
     ],
     "isMultiCategory": false,
