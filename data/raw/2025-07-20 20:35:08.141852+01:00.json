@@ -9,7 +9,7 @@
     ],
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "Provide legal interpretation through analysis and research to develop and review content for customers. Maintain and develop legal knowledge and skills training as needed to complete your work and to...",
+    "descriptionTeaser": "We are looking for a detail-oriented legal professional to validate and direct the review of U.S. content updates. Collaborate globally, apply your analytical skills, and ensure the highest quality of legal information while staying current with legal trends. Join us to make a real-world impact!",
     "state": "",
     "visibilityType": "External",
     "siteType": "external",
@@ -38,8 +38,8 @@
     "location": "Manila, Philippines",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "Provide legal interpretation through analysis and research to develop and review content for customers. Maintain and develop legal knowledge and skills training as needed to complete your work and to...",
-      "descriptionTeaser_first200": "Attorney Editor, Product - Research. Global Codes Attorney Editors are responsible for validating and directing the review and publishing of United States content updates for their assigned jurisdi...",
+      "descriptionTeaser": "We are looking for a detail-oriented legal professional to validate and direct the review of U.S. content updates. Collaborate globally, apply your analytical skills, and ensure the highest quality of legal information while staying current with legal trends. Join us to make a real-world impact!",
+      "descriptionTeaser_first200": "Attorney Editor, Product - Research. Global Codes Attorney Editors are responsible for validating and directing the review and publishing of United States content updates for their assigned jurisdicti...",
       "descriptionTeaser_keyword": "Attorney Editor, Product - Research. Global Codes Attorney Editors are responsible for validating and directing the review and publishing of United States content updates for their assigned jurisdicti...",
       "descriptionTeaser_ats": ""
     },
@@ -67,7 +67,7 @@
     "country": "India",
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "Deputy Editor, Bangalore DeskReuters News is looking for a Deputy Editor to help run its fast-paced editing desk in the Bangalore bureau. The ideal candidate will be an individual who can combine exce",
+    "descriptionTeaser": "Are you experienced in news editing and passionate about business journalism? Join a dynamic team where you'll lead editors, craft compelling stories, and uphold high standards of accuracy and clarity. Bring your 10+ years of expertise to a fast-paced environment that values your insights and leadership.",
     "state": "Karnataka",
     "visibilityType": "External",
     "siteType": "external",
@@ -96,6 +96,18 @@
     "location": "Bengaluru, Karnataka, India",
     "category": "News & Editorial Careers",
     "externalApply": true,
+    "ml_skills": [
+      "guiding",
+      "fixed income",
+      "investment decisions",
+      "financial markets"
+    ],
+    "ml_job_parser": {
+      "descriptionTeaser": "Are you experienced in news editing and passionate about business journalism? Join a dynamic team where you'll lead editors, craft compelling stories, and uphold high standards of accuracy and clarity. Bring your 10+ years of expertise to a fast-paced environment that values your insights and leadership.",
+      "descriptionTeaser_first200": "Deputy Editor, Bangalore Desk. Reuters News is looking for a Deputy Editor to help run its fast-paced editing desk in the Bangalore bureau. The ideal candidate will be an individual who can combine ex...",
+      "descriptionTeaser_keyword": "Deputy Editor, Bangalore Desk. Reuters News is looking for a Deputy Editor to help run its fast-paced editing desk in the Bangalore bureau. The ideal candidate will be an individual who can combine ex...",
+      "descriptionTeaser_ats": ""
+    },
     "isMultiLocation": true,
     "multi_location_array": [
       {
@@ -104,72 +116,6 @@
           "lat": 12.9776035
         },
         "location": "Bengaluru, Karnataka, India"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Hyderabad, Telangana",
-    "country": "India",
-    "ml_skills": [
-      "taxation",
-      "tax software",
-      "xml",
-      "xsd",
-      "regression testing",
-      "ultratax"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Candidate should be working on the Quality Assurance of Go system/UltraTax product in terms of e- file. Should be working on the mapping with various codes/attributes in the XSD schema to the software...",
-    "state": "Telangana",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "78.38589340000001",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ191266",
-    "jobId": "JREQ191266",
-    "city": "Hyderabad",
-    "latitude": "17.4367243",
-    "locale": "en_US",
-    "multi_location": [
-      "Hyderabad, Telangana, India"
-    ],
-    "title": "Associate Quality Assurance & E-File Analyst-US Taxation",
-    "jobSeqNo": "THTTRUUSJREQ191266EXTERNALENUS",
-    "postedDate": "2025-07-15T00:00:00.000+0000",
-    "dateCreated": "2025-07-15T08:41:27.758+0000",
-    "cityStateCountry": "Hyderabad, Telangana, India",
-    "address": "Floor 12, 13 & 14, Building 11, Raheja Mindspace, Madhapur, Hyderabad- 500081, Telangana, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Hyderabad-Raheja-Mindspace/Associate-Quality-Assurance---E-File-Analyst-US-Taxation_JREQ191266/apply",
-    "location": "Hyderabad, Telangana, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Candidate should be working on the Quality Assurance of Go system/UltraTax product in terms of e- file. Should be working on the mapping with various codes/attributes in the XSD schema to the software...",
-      "descriptionTeaser_first200": "Plays a central role in establishing a quality driven production operation within editorial operations. Works alongside editorial team leads and/or management to help determine effective workflows ...",
-      "descriptionTeaser_keyword": "Plays a central role in establishing a quality driven production operation within editorial operations. Works alongside editorial team leads and/or management to help determine effective workflows and...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 78.38589340000001,
-          "lat": 17.4367243
-        },
-        "location": "Hyderabad, Telangana, India"
       }
     ],
     "isMultiCategory": false,
@@ -338,52 +284,52 @@
     "badge": ""
   },
   {
-    "cityState": "Frisco, Texas",
+    "cityState": "Eagan, Minnesota",
     "country": "United States of America",
     "ml_skills": [
-      "tax accounting",
-      "tax law",
-      "software development",
-      "computer science",
-      "written communication skills",
-      "computer software",
-      "development tools",
-      "operating systems"
+      "westlaw",
+      "legal research",
+      "proview",
+      "content delivery",
+      "microsoft office 365",
+      "ai solutions"
     ],
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "Depending on the nature of the project undertakes a combination of technical implementation and testing analyst tasks to understand customer and product needs in the context of internal & external req...",
-    "state": "Texas",
+    "descriptionTeaser": "Join a dynamic team to create and maintain high-quality legal content across various platforms. Utilize your legal expertise and editorial skills to manage relationships, stay ahead of trends, and deliver timely, accurate commentary. Enjoy a hybrid work model and opportunities for professional growth.",
+    "state": "Minnesota",
     "visibilityType": "External",
     "siteType": "external",
-    "longitude": "-96.833545",
+    "longitude": "-93.10793129999999",
     "multi_category": [
       "News & Editorial Careers"
     ],
-    "reqId": "JREQ193014",
-    "jobId": "JREQ193014",
-    "city": "Frisco",
-    "latitude": "33.1073049",
+    "reqId": "JREQ191618",
+    "jobId": "JREQ191618",
+    "city": "Eagan",
+    "latitude": "44.8524402",
     "locale": "en_US",
     "multi_location": [
-      "Frisco, Texas, United States of America"
+      "Eagan, Minnesota, United States of America",
+      "Frisco, Texas, United States of America",
+      "New York, New York, United States of America"
     ],
-    "title": "Tax Analyst",
-    "jobSeqNo": "THTTRUUSJREQ193014EXTERNALENUS",
+    "title": "Attorney Editor, US Legal Commentary",
+    "jobSeqNo": "THTTRUUSJREQ191618EXTERNALENUS",
     "postedDate": "2025-07-15T00:00:00.000+0000",
-    "dateCreated": "2025-07-15T20:37:14.205+0000",
-    "cityStateCountry": "Frisco, Texas, United States of America",
-    "address": "6160 Warren Parkway, Frisco, TX 75034, United States of America",
+    "dateCreated": "2025-06-30T20:43:51.587+0000",
+    "cityStateCountry": "Eagan, Minnesota, United States of America",
+    "address": "2900 Ames Crossing Road, Ste 100, Eagan, MN 55121, United States of America",
     "jobVisibility": [
       "external"
     ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Frisco-6160-Warren-Parkway/Tax-Analyst_JREQ193014/apply",
-    "location": "Frisco, Texas, United States of America",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MSP-2900-Ames-Crossing-Road/Attorney-Editor--US-Legal-Commentary_JREQ191618-1/apply",
+    "location": "Eagan, Minnesota, United States of America",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "Depending on the nature of the project undertakes a combination of technical implementation and testing analyst tasks to understand customer and product needs in the context of internal & external req...",
-      "descriptionTeaser_first200": "Summary. You will participate in the design, development, and testing of our GoSystem Tax using in-house development tools. In this role, you will collect, analyze, and prioritize requirements from...",
-      "descriptionTeaser_keyword": "Summary. You will participate in the design, development, and testing of our GoSystem Tax using in-house development tools. In this role, you will collect, analyze, and prioritize requirements from va...",
+      "descriptionTeaser": "Join a dynamic team to create and maintain high-quality legal content across various platforms. Utilize your legal expertise and editorial skills to manage relationships, stay ahead of trends, and deliver timely, accurate commentary. Enjoy a hybrid work model and opportunities for professional growth.",
+      "descriptionTeaser_first200": "Attorney Editor, US Legal Commentary. Role Summary. Join our Global Legal Commentary team to source, create, edit, and maintain high-quality legal content for platforms like Westlaw, print, and Provie...",
+      "descriptionTeaser_keyword": "Attorney Editor, US Legal Commentary. Role Summary. Join our Global Legal Commentary team to source, create, edit, and maintain high-quality legal content for platforms like Westlaw, print, and Provie...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
@@ -391,10 +337,90 @@
     "multi_location_array": [
       {
         "latlong": {
+          "lon": -93.10793129999999,
+          "lat": 44.8524402
+        },
+        "location": "Eagan, Minnesota, United States of America"
+      },
+      {
+        "latlong": {
           "lon": -96.833545,
           "lat": 33.1073049
         },
         "location": "Frisco, Texas, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -73.9870076,
+          "lat": 40.756572
+        },
+        "location": "New York, New York, United States of America"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Hyderabad, Telangana",
+    "country": "India",
+    "ml_skills": [
+      "taxation",
+      "tax software",
+      "xml",
+      "xsd",
+      "regression testing",
+      "ultratax"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "We are looking for a detail-oriented professional to ensure quality in US tax software, focusing on e-file processes and XML output. Utilize your US tax knowledge and testing skills to enhance workflows, resolve complex issues, and contribute to impactful content initiatives in a dynamic environment.",
+    "state": "Telangana",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "78.38589340000001",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ191266",
+    "jobId": "JREQ191266",
+    "city": "Hyderabad",
+    "latitude": "17.4367243",
+    "locale": "en_US",
+    "multi_location": [
+      "Hyderabad, Telangana, India"
+    ],
+    "title": "Associate Quality Assurance & E-File Analyst-US Taxation",
+    "jobSeqNo": "THTTRUUSJREQ191266EXTERNALENUS",
+    "postedDate": "2025-07-15T00:00:00.000+0000",
+    "dateCreated": "2025-07-15T08:41:27.758+0000",
+    "cityStateCountry": "Hyderabad, Telangana, India",
+    "address": "Floor 12, 13 & 14, Building 11, Raheja Mindspace, Madhapur, Hyderabad- 500081, Telangana, India",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Hyderabad-Raheja-Mindspace/Associate-Quality-Assurance---E-File-Analyst-US-Taxation_JREQ191266/apply",
+    "location": "Hyderabad, Telangana, India",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "We are looking for a detail-oriented professional to ensure quality in US tax software, focusing on e-file processes and XML output. Utilize your US tax knowledge and testing skills to enhance workflows, resolve complex issues, and contribute to impactful content initiatives in a dynamic environment.",
+      "descriptionTeaser_first200": "Plays a central role in establishing a quality driven production operation within editorial operations. Works alongside editorial team leads and/or management to help determine effective workflows and...",
+      "descriptionTeaser_keyword": "Plays a central role in establishing a quality driven production operation within editorial operations. Works alongside editorial team leads and/or management to help determine effective workflows and...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 78.38589340000001,
+          "lat": 17.4367243
+        },
+        "location": "Hyderabad, Telangana, India"
       }
     ],
     "isMultiCategory": false,
@@ -420,7 +446,7 @@
     ],
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "Depending on the nature of the project undertakes a combination of technical implementation and testing analyst tasks to understand customer and product needs in the context of internal & external req...",
+    "descriptionTeaser": "Seeking a detail-oriented professional to design, develop, and test tax software while analyzing requirements from various sources. Leverage your expertise in tax concepts and software changes to enhance products and ensure quality, all within a flexible, supportive work environment that prioritizes your growth and work-life balance.",
     "state": "Texas",
     "visibilityType": "External",
     "siteType": "external",
@@ -449,8 +475,8 @@
     "location": "Frisco, Texas, United States of America",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "Depending on the nature of the project undertakes a combination of technical implementation and testing analyst tasks to understand customer and product needs in the context of internal & external req...",
-      "descriptionTeaser_first200": "Summary. You will participate in the design, development, and testing of our GoSystem Tax using in-house development tools. In this role, you will collect, analyze, and prioritize requirements from...",
+      "descriptionTeaser": "Seeking a detail-oriented professional to design, develop, and test tax software while analyzing requirements from various sources. Leverage your expertise in tax concepts and software changes to enhance products and ensure quality, all within a flexible, supportive work environment that prioritizes your growth and work-life balance.",
+      "descriptionTeaser_first200": "Summary. You will participate in the design, development, and testing of our GoSystem Tax using in-house development tools. In this role, you will collect, analyze, and prioritize requirements from va...",
       "descriptionTeaser_keyword": "Summary. You will participate in the design, development, and testing of our GoSystem Tax using in-house development tools. In this role, you will collect, analyze, and prioritize requirements from va...",
       "descriptionTeaser_ats": ""
     },
@@ -488,7 +514,7 @@
     ],
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "Depending on the nature of the project undertakes a combination of technical implementation and testing analyst tasks to understand customer and product needs in the context of internal & external req...",
+    "descriptionTeaser": "We are looking for a detail-oriented professional to design, develop, and test tax software, ensuring compliance with state and federal regulations. Collaborate with teams, analyze requirements, and implement enhancements while enjoying a flexible hybrid work environment and opportunities for growth. Join us in making a real-world impact!",
     "state": "Texas",
     "visibilityType": "External",
     "siteType": "external",
@@ -519,8 +545,8 @@
     "location": "Frisco, Texas, United States of America",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "Depending on the nature of the project undertakes a combination of technical implementation and testing analyst tasks to understand customer and product needs in the context of internal & external req...",
-      "descriptionTeaser_first200": "You will participate in the design, development, and testing of our GoSystem Tax using in-house development tools. In this role, you will collect, analyze, and prioritize requirements from various ...",
+      "descriptionTeaser": "We are looking for a detail-oriented professional to design, develop, and test tax software, ensuring compliance with state and federal regulations. Collaborate with teams, analyze requirements, and implement enhancements while enjoying a flexible hybrid work environment and opportunities for growth. Join us in making a real-world impact!",
+      "descriptionTeaser_first200": "You will participate in the design, development, and testing of our GoSystem Tax using in-house development tools. In this role, you will collect, analyze, and prioritize requirements from various ent...",
       "descriptionTeaser_keyword": "You will participate in the design, development, and testing of our GoSystem Tax using in-house development tools. In this role, you will collect, analyze, and prioritize requirements from various ent...",
       "descriptionTeaser_ats": ""
     },
@@ -558,52 +584,52 @@
     "badge": ""
   },
   {
-    "cityState": "Eagan, Minnesota",
+    "cityState": "Frisco, Texas",
     "country": "United States of America",
     "ml_skills": [
-      "westlaw",
-      "legal research",
-      "proview",
-      "content delivery",
-      "microsoft office 365",
-      "ai solutions"
+      "tax accounting",
+      "tax law",
+      "software development",
+      "computer science",
+      "written communication skills",
+      "computer software",
+      "development tools",
+      "operating systems"
     ],
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "Join our Global Legal Commentary team to source, create, edit, and maintain high-quality legal content for platforms like Westlaw, print, and Proview. Prioritize work and communicate effectively with...",
-    "state": "Minnesota",
+    "descriptionTeaser": "Are you experienced in tax concepts and software development? Join a dynamic team where you'll analyze requirements, implement tax law changes, and collaborate with various departments to enhance a leading tax software. Embrace flexibility, continuous learning, and the chance to make a real-world impact!",
+    "state": "Texas",
     "visibilityType": "External",
     "siteType": "external",
-    "longitude": "-93.10793129999999",
+    "longitude": "-96.833545",
     "multi_category": [
       "News & Editorial Careers"
     ],
-    "reqId": "JREQ191618",
-    "jobId": "JREQ191618",
-    "city": "Eagan",
-    "latitude": "44.8524402",
+    "reqId": "JREQ193014",
+    "jobId": "JREQ193014",
+    "city": "Frisco",
+    "latitude": "33.1073049",
     "locale": "en_US",
     "multi_location": [
-      "Eagan, Minnesota, United States of America",
-      "Frisco, Texas, United States of America",
-      "New York, New York, United States of America"
+      "Frisco, Texas, United States of America"
     ],
-    "title": "Attorney Editor, US Legal Commentary",
-    "jobSeqNo": "THTTRUUSJREQ191618EXTERNALENUS",
+    "title": "Tax Analyst",
+    "jobSeqNo": "THTTRUUSJREQ193014EXTERNALENUS",
     "postedDate": "2025-07-15T00:00:00.000+0000",
-    "dateCreated": "2025-06-30T20:43:51.587+0000",
-    "cityStateCountry": "Eagan, Minnesota, United States of America",
-    "address": "2900 Ames Crossing Road, Ste 100, Eagan, MN 55121, United States of America",
+    "dateCreated": "2025-07-15T20:37:14.205+0000",
+    "cityStateCountry": "Frisco, Texas, United States of America",
+    "address": "6160 Warren Parkway, Frisco, TX 75034, United States of America",
     "jobVisibility": [
       "external"
     ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MSP-2900-Ames-Crossing-Road/Attorney-Editor--US-Legal-Commentary_JREQ191618-1/apply",
-    "location": "Eagan, Minnesota, United States of America",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Frisco-6160-Warren-Parkway/Tax-Analyst_JREQ193014/apply",
+    "location": "Frisco, Texas, United States of America",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "Join our Global Legal Commentary team to source, create, edit, and maintain high-quality legal content for platforms like Westlaw, print, and Proview. Prioritize work and communicate effectively with...",
-      "descriptionTeaser_first200": "Attorney Editor, US Legal Commentary. Role Summary. Join our Global Legal Commentary team to source, create, edit, and maintain high-quality legal content for platforms like Westlaw, print, and Pro...",
-      "descriptionTeaser_keyword": "Attorney Editor, US Legal Commentary. Role Summary. Join our Global Legal Commentary team to source, create, edit, and maintain high-quality legal content for platforms like Westlaw, print, and Provie...",
+      "descriptionTeaser": "Are you experienced in tax concepts and software development? Join a dynamic team where you'll analyze requirements, implement tax law changes, and collaborate with various departments to enhance a leading tax software. Embrace flexibility, continuous learning, and the chance to make a real-world impact!",
+      "descriptionTeaser_first200": "Summary. You will participate in the design, development, and testing of our GoSystem Tax using in-house development tools. In this role, you will collect, analyze, and prioritize requirements from va...",
+      "descriptionTeaser_keyword": "Summary. You will participate in the design, development, and testing of our GoSystem Tax using in-house development tools. In this role, you will collect, analyze, and prioritize requirements from va...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
@@ -611,24 +637,10 @@
     "multi_location_array": [
       {
         "latlong": {
-          "lon": -93.10793129999999,
-          "lat": 44.8524402
-        },
-        "location": "Eagan, Minnesota, United States of America"
-      },
-      {
-        "latlong": {
           "lon": -96.833545,
           "lat": 33.1073049
         },
         "location": "Frisco, Texas, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -73.9870076,
-          "lat": 40.756572
-        },
-        "location": "New York, New York, United States of America"
       }
     ],
     "isMultiCategory": false,
@@ -786,7 +798,7 @@
     ],
     "remote": "On-Site",
     "type": "Full time",
-    "descriptionTeaser": "Supervise and assess signal qualities, ensuring that all areas of the operation run to a high technical standard, and will take a key role in the preparation, testing and deployment of equipment for f...",
+    "descriptionTeaser": "Join a dynamic team in a fast-paced Master Control Room, utilizing your German language skills to ensure the seamless delivery of live news content. Leverage your technical expertise in broadcast operations and problem-solving to support global news coverage and make a real impact on millions.",
     "state": "",
     "visibilityType": "External",
     "siteType": "external",
@@ -815,8 +827,8 @@
     "location": "London, United Kingdom",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "Supervise and assess signal qualities, ensuring that all areas of the operation run to a high technical standard, and will take a key role in the preparation, testing and deployment of equipment for f...",
-      "descriptionTeaser_first200": "German Speaking MCR Technical Operations Engineer - Reuters. This position is based in Canary Wharf, London. Want to deploy your knowledge of the German language within the Master Control Room at o...",
+      "descriptionTeaser": "Join a dynamic team in a fast-paced Master Control Room, utilizing your German language skills to ensure the seamless delivery of live news content. Leverage your technical expertise in broadcast operations and problem-solving to support global news coverage and make a real impact on millions.",
+      "descriptionTeaser_first200": "German Speaking MCR Technical Operations Engineer - Reuters. This position is based in Canary Wharf, London. Want to deploy your knowledge of the German language within the Master Control Room at one...",
       "descriptionTeaser_keyword": "German Speaking MCR Technical Operations Engineer - Reuters. This position is based in Canary Wharf, London. Want to deploy your knowledge of the German language within the Master Control Room at one...",
       "descriptionTeaser_ats": ""
     },
@@ -923,7 +935,7 @@
     ],
     "remote": "Remote",
     "type": "Full time",
-    "descriptionTeaser": "Reuters is looking for a sound designer with exceptional audio editing skills, creative sound design instincts, and a strong grasp of news storytelling for a TEMPORARY role to assist with the weekend...",
+    "descriptionTeaser": "Are you experienced in audio editing and sound design? Join a dynamic team to craft compelling podcast episodes, enhancing storytelling with music and effects. Bring your creativity and technical skills to shape the sound of impactful news stories every weekend.",
     "state": "New York",
     "visibilityType": "External",
     "siteType": "external",
@@ -952,8 +964,8 @@
     "location": "New York, New York, United States of America",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "Reuters is looking for a sound designer with exceptional audio editing skills, creative sound design instincts, and a strong grasp of news storytelling for a TEMPORARY role to assist with the weekend...",
-      "descriptionTeaser_first200": "Reuters is looking for a sound designer with exceptional audio editing skills, creative sound design instincts, and a strong grasp of news storytelling for a TEMPORARY role to assist with the weeke...",
+      "descriptionTeaser": "Are you experienced in audio editing and sound design? Join a dynamic team to craft compelling podcast episodes, enhancing storytelling with music and effects. Bring your creativity and technical skills to shape the sound of impactful news stories every weekend.",
+      "descriptionTeaser_first200": "Reuters is looking for a sound designer with exceptional audio editing skills, creative sound design instincts, and a strong grasp of news storytelling for a TEMPORARY role to assist with the weekend...",
       "descriptionTeaser_keyword": "Reuters is looking for a sound designer with exceptional audio editing skills, creative sound design instincts, and a strong grasp of news storytelling for a TEMPORARY role to assist with the weekend...",
       "descriptionTeaser_ats": ""
     },
@@ -990,7 +1002,7 @@
     ],
     "remote": "On-Site",
     "type": "Full time",
-    "descriptionTeaser": "Supervise and assess signal qualities, ensuring that all areas of the operation run to a high technical standard, and will take a key role in the preparation, testing and deployment of equipment for f...",
+    "descriptionTeaser": "Join a dynamic team in a fast-paced Master Control Room, where you'll ensure live news content reaches millions. Utilize your broadcast experience to manage video/audio signals, troubleshoot issues, and support field operations while collaborating globally. Embrace the challenge and make an impact in the world of news!",
     "state": "",
     "visibilityType": "External",
     "siteType": "external",
@@ -1019,8 +1031,8 @@
     "location": "London, United Kingdom",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "Supervise and assess signal qualities, ensuring that all areas of the operation run to a high technical standard, and will take a key role in the preparation, testing and deployment of equipment for f...",
-      "descriptionTeaser_first200": "MCR Technical Operations Engineer - Reuters. This position is based in Canary Wharf, London. Want to be part of the Master Control Room at one of the world's leading news agencies? Want to play a c...",
+      "descriptionTeaser": "Join a dynamic team in a fast-paced Master Control Room, where you'll ensure live news content reaches millions. Utilize your broadcast experience to manage video/audio signals, troubleshoot issues, and support field operations while collaborating globally. Embrace the challenge and make an impact in the world of news!",
+      "descriptionTeaser_first200": "MCR Technical Operations Engineer - Reuters. This position is based in Canary Wharf, London. Want to be part of the Master Control Room at one of the world's leading news agencies? Want to play a cruc...",
       "descriptionTeaser_keyword": "MCR Technical Operations Engineer - Reuters. This position is based in Canary Wharf, London. Want to be part of the Master Control Room at one of the world's leading news agencies? Want to play a cruc...",
       "descriptionTeaser_ats": ""
     },
@@ -1056,7 +1068,7 @@
     ],
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "The attorney editor in this Twin Cities based Core Editorial position will gain improved understanding of the business objectives and editorial processes for know-how products including Practical Law,...",
+    "descriptionTeaser": "Are you experienced in legal writing and editing? Join a dynamic team where you'll work with AI tools, enhance Practical Law resources, and collaborate across practice areas. Enjoy a flexible hybrid work model and opportunities for professional growth in a supportive environment.",
     "state": "Minnesota",
     "visibilityType": "External",
     "siteType": "external",
@@ -1087,7 +1099,7 @@
     "location": "Eagan, Minnesota, United States of America",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "The attorney editor in this Twin Cities based Core Editorial position will gain improved understanding of the business objectives and editorial processes for know-how products including Practical Law,...",
+      "descriptionTeaser": "Are you experienced in legal writing and editing? Join a dynamic team where you'll work with AI tools, enhance Practical Law resources, and collaborate across practice areas. Enjoy a flexible hybrid work model and opportunities for professional growth in a supportive environment.",
       "descriptionTeaser_first200": "Attorney Editor. Role Summary. The attorney editor in this Twin Cities based Core Editorial position will gain improved understanding of the business objectives and editorial processes for know-how pr...",
       "descriptionTeaser_keyword": "Attorney Editor. Role Summary. The attorney editor in this Twin Cities based Core Editorial position will gain improved understanding of the business objectives and editorial processes for know-how pr...",
       "descriptionTeaser_ats": ""
@@ -1135,7 +1147,7 @@
     ],
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "The Sports Correspondent is a senior reporter with a track record of developing sources and building beats. The ideal candidate is an excellent reporter and storyteller, with sound news judgment and t...",
+    "descriptionTeaser": "Are you looking for an opportunity to break exclusive sports stories and develop your reporting skills? With at least five years of experience, you\u2019ll engage audiences through compelling storytelling and insightful analysis on the biggest sports events, all while thriving in a dynamic, diverse environment.",
     "state": "Karnataka",
     "visibilityType": "External",
     "siteType": "external",
@@ -1164,7 +1176,7 @@
     "location": "Bengaluru, Karnataka, India",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "The Sports Correspondent is a senior reporter with a track record of developing sources and building beats. The ideal candidate is an excellent reporter and storyteller, with sound news judgment and t...",
+      "descriptionTeaser": "Are you looking for an opportunity to break exclusive sports stories and develop your reporting skills? With at least five years of experience, you\u2019ll engage audiences through compelling storytelling and insightful analysis on the biggest sports events, all while thriving in a dynamic, diverse environment.",
       "descriptionTeaser_first200": "Sports Correspondent. The Sports Correspondent is a senior reporter with a track record of developing sources and building beats. The ideal candidate is an excellent reporter and storyteller, with sou...",
       "descriptionTeaser_keyword": "Sports Correspondent. The Sports Correspondent is a senior reporter with a track record of developing sources and building beats. The ideal candidate is an excellent reporter and storyteller, with sou...",
       "descriptionTeaser_ats": ""
@@ -1193,7 +1205,7 @@
     "country": "Mexico",
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "We are looking for someone who excels in research, analytical thinking, has good technical skills, and is interested in designing and implementing direct filing solutions for various customs agencies...",
+    "descriptionTeaser": "Are you experienced in research and analytical thinking? Join a dynamic team where you'll design database queries, maintain data integrity, troubleshoot technical issues, and collaborate across departments. Bring your SQL expertise and attention to detail to help drive impactful solutions in global trade.",
     "state": "",
     "visibilityType": "External",
     "siteType": "external",
@@ -1241,7 +1253,7 @@
       "strategic decision-making"
     ],
     "ml_job_parser": {
-      "descriptionTeaser": "We are looking for someone who excels in research, analytical thinking, has good technical skills, and is interested in designing and implementing direct filing solutions for various customs agencies...",
+      "descriptionTeaser": "Are you experienced in research and analytical thinking? Join a dynamic team where you'll design database queries, maintain data integrity, troubleshoot technical issues, and collaborate across departments. Bring your SQL expertise and attention to detail to help drive impactful solutions in global trade.",
       "descriptionTeaser_keyword": "Global Trade Analyst II \u2013 Data/Product Tech (FTA Content ). We are looking for someone who excels in research, analytical thinking, has good technical skills, and is interested in designing and implem...",
       "descriptionTeaser_ats": "",
       "descriptionTeaser_first200": "Global Trade Analyst II \u2013 Data/Product Tech (FTA Content ). We are looking for someone who excels in research, analytical thinking, has good technical skills, and is interested in designing and implem..."
@@ -1276,7 +1288,7 @@
     ],
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "In this senior role, the candidate will be contributing to global macroeconomic and markets coverage, offering an opportunity to shape debate on closely-watched interest rate decisions, prospects for...",
+    "descriptionTeaser": "Are you experienced in economic policy and market reporting? Join a dynamic team where you'll lead exclusive polling coverage, analyze macroeconomic trends, and collaborate globally. Bring your strong writing skills and passion for impactful storytelling to shape critical financial narratives.",
     "state": "Karnataka",
     "visibilityType": "External",
     "siteType": "external",
@@ -1305,7 +1317,7 @@
     "location": "Bengaluru, Karnataka, India",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "In this senior role, the candidate will be contributing to global macroeconomic and markets coverage, offering an opportunity to shape debate on closely-watched interest rate decisions, prospects for...",
+      "descriptionTeaser": "Are you experienced in economic policy and market reporting? Join a dynamic team where you'll lead exclusive polling coverage, analyze macroeconomic trends, and collaborate globally. Bring your strong writing skills and passion for impactful storytelling to shape critical financial narratives.",
       "descriptionTeaser_first200": "Reuters is seeking a Senior Correspondent to conduct and report on exclusive polls covering major and emerging economies from our newsroom in Bengaluru. In this senior role, the candidate will be cont...",
       "descriptionTeaser_keyword": "Reuters is seeking a Senior Correspondent to conduct and report on exclusive polls covering major and emerging economies from our newsroom in Bengaluru. In this senior role, the candidate will be cont...",
       "descriptionTeaser_ats": ""
@@ -1392,76 +1404,6 @@
     "badge": ""
   },
   {
-    "cityState": "Manila",
-    "country": "Philippines",
-    "ml_skills": [
-      "journalism",
-      "english",
-      "content management systems",
-      "product development",
-      "legal analysis",
-      "westlaw",
-      "corporate finance",
-      "accounting research",
-      "bankruptcy",
-      "mergers and acquisitions"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Thomson Reuters is seeking an Editor to write, edit, and provide legal news and analysis, and current awareness information for a professional audience across a broad range of practice areas that may...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "121.0497015",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ191934",
-    "jobId": "JREQ191934",
-    "city": "Manila",
-    "latitude": "14.5348768",
-    "locale": "en_US",
-    "multi_location": [
-      "Manila, Philippines"
-    ],
-    "title": "Editor, Current Awareness",
-    "jobSeqNo": "THTTRUUSJREQ191934EXTERNALENUS",
-    "postedDate": "2025-07-07T00:00:00.000+0000",
-    "dateCreated": "2025-07-07T16:37:45.012+0000",
-    "cityStateCountry": "Manila, Philippines",
-    "address": "20 Upper McKinley Building, Upper McKinley Road, McKinley Hill, Manila, 1634, Philippines",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/PHL-Taguig-20-Upper-McKinley-Bldg/Editor--Current-Awareness_JREQ191934-1/apply",
-    "location": "Manila, Philippines",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Thomson Reuters is seeking an Editor to write, edit, and provide legal news and analysis, and current awareness information for a professional audience across a broad range of practice areas that may...",
-      "descriptionTeaser_first200": "Editor, Current Awareness | Product - Research. Position Summary. Thomson Reuters is seeking an Editor to write, edit, and provide legal news and analysis, and current awareness information for a prof...",
-      "descriptionTeaser_keyword": "Editor, Current Awareness | Product - Research. Position Summary. Thomson Reuters is seeking an Editor to write, edit, and provide legal news and analysis, and current awareness information for a prof...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 121.0497015,
-          "lat": 14.5348768
-        },
-        "location": "Manila, Philippines"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Eagan, Minnesota",
     "country": "United States of America",
     "ml_skills": [
@@ -1476,7 +1418,7 @@
     ],
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "The Editor/Attorney Editor will research, write and publish timely legal analysis articles on developments related to corporate transactions, litigation, legislation and regulation. D. or experience w...",
+    "descriptionTeaser": "Are you looking for a dynamic role where you can research and craft insightful legal analysis articles? Join a team that values superior writing skills and a keen eye for detail, while engaging with the legal community on current developments in corporate transactions and regulations.",
     "state": "Minnesota",
     "visibilityType": "External",
     "siteType": "external",
@@ -1506,7 +1448,7 @@
     "location": "Eagan, Minnesota, United States of America",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "The Editor/Attorney Editor will research, write and publish timely legal analysis articles on developments related to corporate transactions, litigation, legislation and regulation. D. or experience w...",
+      "descriptionTeaser": "Are you looking for a dynamic role where you can research and craft insightful legal analysis articles? Join a team that values superior writing skills and a keen eye for detail, while engaging with the legal community on current developments in corporate transactions and regulations.",
       "descriptionTeaser_first200": "Editor/Attorney Editor for Westlaw Today. Role Summary. Thomson Reuters is seeking an Editor/Attorney Editor to write and edit current awareness content for Westlaw Today for legal practitioners acros...",
       "descriptionTeaser_keyword": "Editor/Attorney Editor for Westlaw Today. Role Summary. Thomson Reuters is seeking an Editor/Attorney Editor to write and edit current awareness content for Westlaw Today for legal practitioners acros...",
       "descriptionTeaser_ats": ""
@@ -1527,6 +1469,76 @@
           "lat": 40.756572
         },
         "location": "New York, New York, United States of America"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Manila",
+    "country": "Philippines",
+    "ml_skills": [
+      "journalism",
+      "english",
+      "content management systems",
+      "product development",
+      "legal analysis",
+      "westlaw",
+      "corporate finance",
+      "accounting research",
+      "bankruptcy",
+      "mergers and acquisitions"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Are you looking for a dynamic role where you can research and write high-quality legal analysis articles? Join a team that values your superior writing skills and keen eye for detail while tackling complex legal topics and meeting challenging deadlines in a flexible, supportive work environment.",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "121.0497015",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ191934",
+    "jobId": "JREQ191934",
+    "city": "Manila",
+    "latitude": "14.5348768",
+    "locale": "en_US",
+    "multi_location": [
+      "Manila, Philippines"
+    ],
+    "title": "Editor, Current Awareness",
+    "jobSeqNo": "THTTRUUSJREQ191934EXTERNALENUS",
+    "postedDate": "2025-07-07T00:00:00.000+0000",
+    "dateCreated": "2025-07-07T16:37:45.012+0000",
+    "cityStateCountry": "Manila, Philippines",
+    "address": "20 Upper McKinley Building, Upper McKinley Road, McKinley Hill, Manila, 1634, Philippines",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/PHL-Taguig-20-Upper-McKinley-Bldg/Editor--Current-Awareness_JREQ191934-1/apply",
+    "location": "Manila, Philippines",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Are you looking for a dynamic role where you can research and write high-quality legal analysis articles? Join a team that values your superior writing skills and keen eye for detail while tackling complex legal topics and meeting challenging deadlines in a flexible, supportive work environment.",
+      "descriptionTeaser_first200": "Editor, Current Awareness | Product - Research. Position Summary. Thomson Reuters is seeking an Editor to write, edit, and provide legal news and analysis, and current awareness information for a prof...",
+      "descriptionTeaser_keyword": "Editor, Current Awareness | Product - Research. Position Summary. Thomson Reuters is seeking an Editor to write, edit, and provide legal news and analysis, and current awareness information for a prof...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 121.0497015,
+          "lat": 14.5348768
+        },
+        "location": "Manila, Philippines"
       }
     ],
     "isMultiCategory": false,
@@ -1615,7 +1627,7 @@
     ],
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "Shoot video of events and feature stories using broadcast-quality video camera, DSLR, GoPro, and other camera equipment. Work autonomously when shooting, while collaborating with multimedia and video...",
+    "descriptionTeaser": "Are you experienced in video journalism and ready to cover breaking news in Washington, D.C.? Join a dynamic team where you'll produce, edit, and deliver compelling stories, using top-notch equipment. Embrace the thrill of live reporting and collaborate with industry leaders while advancing your career!",
     "state": "District of Columbia",
     "visibilityType": "External",
     "siteType": "external",
@@ -1644,7 +1656,7 @@
     "location": "Washington, District of Columbia, United States of America",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "Shoot video of events and feature stories using broadcast-quality video camera, DSLR, GoPro, and other camera equipment. Work autonomously when shooting, while collaborating with multimedia and video...",
+      "descriptionTeaser": "Are you experienced in video journalism and ready to cover breaking news in Washington, D.C.? Join a dynamic team where you'll produce, edit, and deliver compelling stories, using top-notch equipment. Embrace the thrill of live reporting and collaborate with industry leaders while advancing your career!",
       "descriptionTeaser_first200": "Reuters Video News is looking for a dynamic and talented Video Journalist for a TEMPORARY position based in Washington, D. C. About the Role. As Video Journalist (Level 1 Journalist - Temp), you will....",
       "descriptionTeaser_keyword": "Reuters Video News is looking for a dynamic and talented Video Journalist for a TEMPORARY position based in Washington, D. C. About the Role. As Video Journalist (Level 1 Journalist - Temp), you will....",
       "descriptionTeaser_ats": ""
@@ -1683,7 +1695,7 @@
     ],
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "Join our team as an Associate Quality Assurance & E-file Analyst, where you'll play a crucial role in ensuring the quality and performance of our tax-related products. You'll leverage your expertise i...",
+    "descriptionTeaser": "Join a dynamic team where your accounting and tax preparation expertise will shine! You'll ensure the quality of tax-related products, conduct thorough testing, and contribute to documentation standards. If you have 1-2 years of experience and strong analytical skills, this is your chance to make an impact!",
     "state": "Telangana",
     "visibilityType": "External",
     "siteType": "external",
@@ -1712,7 +1724,7 @@
     "location": "Hyderabad, Telangana, India",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "Join our team as an Associate Quality Assurance & E-file Analyst, where you'll play a crucial role in ensuring the quality and performance of our tax-related products. You'll leverage your expertise i...",
+      "descriptionTeaser": "Join a dynamic team where your accounting and tax preparation expertise will shine! You'll ensure the quality of tax-related products, conduct thorough testing, and contribute to documentation standards. If you have 1-2 years of experience and strong analytical skills, this is your chance to make an impact!",
       "descriptionTeaser_first200": "Join our team as an Associate Quality Assurance & E-file Analyst, where you'll play a crucial role in ensuring the quality and performance of our tax-related products. You'll leverage your expertise i...",
       "descriptionTeaser_keyword": "Join our team as an Associate Quality Assurance & E-file Analyst, where you'll play a crucial role in ensuring the quality and performance of our tax-related products. You'll leverage your expertise i...",
       "descriptionTeaser_ats": ""
@@ -1972,7 +1984,7 @@
     ],
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "Help identify content that needs review and ensure the review process takes place, liaising where appropriate with colleagues and external contributors. Experience with UK and US legal systems strongl...",
+    "descriptionTeaser": "Are you looking for a role where your legal expertise shines? Join a dynamic team to proofread, copy-edit, and research engaging content while enhancing your skills in a flexible, supportive environment. Bring your attention to detail and passion for law to make a real-world impact!",
     "state": "Telangana",
     "visibilityType": "External",
     "siteType": "external",
@@ -2001,7 +2013,7 @@
     "location": "Hyderabad, Telangana, India",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "Help identify content that needs review and ensure the review process takes place, liaising where appropriate with colleagues and external contributors. Experience with UK and US legal systems strongl...",
+      "descriptionTeaser": "Are you looking for a role where your legal expertise shines? Join a dynamic team to proofread, copy-edit, and research engaging content while enhancing your skills in a flexible, supportive environment. Bring your attention to detail and passion for law to make a real-world impact!",
       "descriptionTeaser_first200": "Legal Editorial Associate - Practical Law UK, US. We are seeking to hire Legal Editorial Associates (LEA) to support the Practical Law editorial teams with the creation, publication, delivery, and pre...",
       "descriptionTeaser_keyword": "Legal Editorial Associate - Practical Law UK, US. We are seeking to hire Legal Editorial Associates (LEA) to support the Practical Law editorial teams with the creation, publication, delivery, and pre...",
       "descriptionTeaser_ats": ""
@@ -2026,6 +2038,69 @@
     "badge": ""
   },
   {
+    "cityState": "Manila",
+    "country": "Philippines",
+    "ml_skills": [
+      "westlaw",
+      "legal research",
+      "pivot"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Seeking skilled legal researchers and writers to analyze and classify Australian and New Zealand law. Bring your strong analytical skills and attention to detail to create premium legal content while collaborating with a global team. Experience a flexible work environment and opportunities for career growth.",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "121.0497015",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ192066",
+    "jobId": "JREQ192066",
+    "city": "Manila",
+    "latitude": "14.5348768",
+    "locale": "en_US",
+    "multi_location": [
+      "Manila, Philippines"
+    ],
+    "title": "ANZ Cases Editor",
+    "jobSeqNo": "THTTRUUSJREQ192066EXTERNALENUS",
+    "postedDate": "2025-07-01T00:00:00.000+0000",
+    "dateCreated": "2025-07-01T12:45:28.158+0000",
+    "cityStateCountry": "Manila, Philippines",
+    "address": "20 Upper McKinley Building, Upper McKinley Road, McKinley Hill, Manila, 1634, Philippines",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/PHL-Taguig-20-Upper-McKinley-Bldg/ANZ-Cases-Editor_JREQ192066/apply",
+    "location": "Manila, Philippines",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Seeking skilled legal researchers and writers to analyze and classify Australian and New Zealand law. Bring your strong analytical skills and attention to detail to create premium legal content while collaborating with a global team. Experience a flexible work environment and opportunities for career growth.",
+      "descriptionTeaser_first200": "ANZ Cases Editor - Primary Law Editorial - Product Research. Primary Law ANZ Cases Editors are responsible for legal research, analysis, and writing to support the development and maintenance of Thoms...",
+      "descriptionTeaser_keyword": "ANZ Cases Editor - Primary Law Editorial - Product Research. Primary Law ANZ Cases Editors are responsible for legal research, analysis, and writing to support the development and maintenance of Thoms...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 121.0497015,
+          "lat": 14.5348768
+        },
+        "location": "Manila, Philippines"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Washington, District of Columbia",
     "country": "United States of America",
     "ml_skills": [
@@ -2036,7 +2111,7 @@
     ],
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "Produce, edit, write and deliver agency video stories, both from the office and sometimes in the field. Have the ability to work long hours, some weekend shifts, often under extreme pressure. The abil...",
+    "descriptionTeaser": "Seeking a creative news producer ready to deliver fast, accurate video stories on pressing global events. Join a dynamic team in Washington, DC, where your skills in editing, storytelling, and multimedia production will shine. Embrace the challenge of working under pressure and contributing to impactful journalism.",
     "state": "District of Columbia",
     "visibilityType": "External",
     "siteType": "external",
@@ -2065,7 +2140,7 @@
     "location": "Washington, District of Columbia, United States of America",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "Produce, edit, write and deliver agency video stories, both from the office and sometimes in the field. Have the ability to work long hours, some weekend shifts, often under extreme pressure. The abil...",
+      "descriptionTeaser": "Seeking a creative news producer ready to deliver fast, accurate video stories on pressing global events. Join a dynamic team in Washington, DC, where your skills in editing, storytelling, and multimedia production will shine. Embrace the challenge of working under pressure and contributing to impactful journalism.",
       "descriptionTeaser_first200": "Reuters Video News is looking for a versatile and creative news producer for a TEMPORARY role as a Video Producer to join our team in Washington, DC. We are looking for a candidate who is obsessed wit...",
       "descriptionTeaser_keyword": "Reuters Video News is looking for a versatile and creative news producer for a TEMPORARY role as a Video Producer to join our team in Washington, DC. We are looking for a candidate who is obsessed wit...",
       "descriptionTeaser_ats": ""
@@ -2094,7 +2169,7 @@
     "country": "Japan",
     "remote": "Remote",
     "type": "Full time",
-    "descriptionTeaser": "The ideal candidate will have a strong understanding of the Japanese legal landscape, exceptional writing and translation skills, and the ability to foster relationships with external partners. Excell...",
+    "descriptionTeaser": "Are you looking for an opportunity to leverage your legal expertise and Japanese fluency? Join a dynamic team where you'll conduct legal research, produce high-quality content, and mentor others while staying at the forefront of legal trends. Embrace a flexible work environment that supports your growth and work-life balance!",
     "state": "",
     "visibilityType": "External",
     "siteType": "external",
@@ -2135,7 +2210,7 @@
       "business development"
     ],
     "ml_job_parser": {
-      "descriptionTeaser": "The ideal candidate will have a strong understanding of the Japanese legal landscape, exceptional writing and translation skills, and the ability to foster relationships with external partners. Excell...",
+      "descriptionTeaser": "Are you looking for an opportunity to leverage your legal expertise and Japanese fluency? Join a dynamic team where you'll conduct legal research, produce high-quality content, and mentor others while staying at the forefront of legal trends. Embrace a flexible work environment that supports your growth and work-life balance!",
       "descriptionTeaser_keyword": "Legal Executive (Japanese Speaking). We are seeking a talented and motivated Legal Executive (Japanese Speaking) to join our team. In this role, you will collaborate closely with leadership to researc...",
       "descriptionTeaser_ats": "",
       "descriptionTeaser_first200": "Legal Executive (Japanese Speaking). We are seeking a talented and motivated Legal Executive (Japanese Speaking) to join our team. In this role, you will collaborate closely with leadership to researc..."
@@ -2148,136 +2223,6 @@
           "lat": 35.6621409
         },
         "location": "Tokyo, Japan"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Manila",
-    "country": "Philippines",
-    "ml_skills": [
-      "westlaw",
-      "legal research",
-      "pivot"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "ANZ Cases Editors must maintain and develop legal knowledge and skills training as needed to complete their work and stay current on legal trends and developments related to editorial responsibilities...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "121.0497015",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ192066",
-    "jobId": "JREQ192066",
-    "city": "Manila",
-    "latitude": "14.5348768",
-    "locale": "en_US",
-    "multi_location": [
-      "Manila, Philippines"
-    ],
-    "title": "ANZ Cases Editor",
-    "jobSeqNo": "THTTRUUSJREQ192066EXTERNALENUS",
-    "postedDate": "2025-07-01T00:00:00.000+0000",
-    "dateCreated": "2025-07-01T12:45:28.158+0000",
-    "cityStateCountry": "Manila, Philippines",
-    "address": "20 Upper McKinley Building, Upper McKinley Road, McKinley Hill, Manila, 1634, Philippines",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/PHL-Taguig-20-Upper-McKinley-Bldg/ANZ-Cases-Editor_JREQ192066/apply",
-    "location": "Manila, Philippines",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "ANZ Cases Editors must maintain and develop legal knowledge and skills training as needed to complete their work and stay current on legal trends and developments related to editorial responsibilities...",
-      "descriptionTeaser_first200": "ANZ Cases Editor - Primary Law Editorial - Product Research. Primary Law ANZ Cases Editors are responsible for legal research, analysis, and writing to support the development and maintenance of Thoms...",
-      "descriptionTeaser_keyword": "ANZ Cases Editor - Primary Law Editorial - Product Research. Primary Law ANZ Cases Editors are responsible for legal research, analysis, and writing to support the development and maintenance of Thoms...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 121.0497015,
-          "lat": 14.5348768
-        },
-        "location": "Manila, Philippines"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "London",
-    "country": "United Kingdom",
-    "ml_skills": [
-      "seo",
-      "content management",
-      "indesign",
-      "content management systems",
-      "layout",
-      "photoshop",
-      "adobe creative cloud"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "This is a role that requires a range of production and sub-editing skills and would suit someone with prior experience of working in a business-to-business publishing environment. Sub-edit a range of...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-0.0185088",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ192667",
-    "jobId": "JREQ192667",
-    "city": "London",
-    "latitude": "51.5056439",
-    "locale": "en_US",
-    "multi_location": [
-      "London, United Kingdom"
-    ],
-    "title": "Sub-Editor - The Insurer, Reuters",
-    "jobSeqNo": "THTTRUUSJREQ192667EXTERNALENUS",
-    "postedDate": "2025-06-30T00:00:00.000+0000",
-    "dateCreated": "2025-06-30T16:43:17.811+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Sub-Editor---The-Insurer--Reuters_JREQ192667/apply",
-    "location": "London, United Kingdom",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "This is a role that requires a range of production and sub-editing skills and would suit someone with prior experience of working in a business-to-business publishing environment. Sub-edit a range of...",
-      "descriptionTeaser_first200": "Sub-Editor - The Insurer, Reuters. This position will be based in London with hybrid working available. Like the sound of deploying your production and sub-editing skills in the Reuters newsroom, work...",
-      "descriptionTeaser_keyword": "Sub-Editor - The Insurer, Reuters. This position will be based in London with hybrid working available. Like the sound of deploying your production and sub-editing skills in the Reuters newsroom, work...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -0.0185088,
-          "lat": 51.5056439
-        },
-        "location": "London, United Kingdom"
       }
     ],
     "isMultiCategory": false,
@@ -2302,7 +2247,7 @@
     ],
     "remote": "Remote",
     "type": "Full time",
-    "descriptionTeaser": "In this critical role, you will leverage your expertise in California law to conduct in-depth legal research, rigorous analysis, and sophisticated writing, directly shaping the comprehensive legal com...",
+    "descriptionTeaser": "Are you experienced in California law and ready to shape essential legal resources? Join a dedicated editorial team to conduct in-depth research, craft high-quality commentary, and innovate content that supports legal professionals statewide. Embrace a role that values your expertise and attention to detail.",
     "state": "California",
     "visibilityType": "External",
     "siteType": "external",
@@ -2331,7 +2276,7 @@
     "location": "North Hollywood, California, United States of America",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "In this critical role, you will leverage your expertise in California law to conduct in-depth legal research, rigorous analysis, and sophisticated writing, directly shaping the comprehensive legal com...",
+      "descriptionTeaser": "Are you experienced in California law and ready to shape essential legal resources? Join a dedicated editorial team to conduct in-depth research, craft high-quality commentary, and innovate content that supports legal professionals statewide. Embrace a role that values your expertise and attention to detail.",
       "descriptionTeaser_first200": "Senior Attorney Editor. Role Summary. Are you ready to be part of the team that produces the definitive resources for practicing California attorneys? Thomson Reuters is seeking a Senior Attorney Edit...",
       "descriptionTeaser_keyword": "Senior Attorney Editor. Role Summary. Are you ready to be part of the team that produces the definitive resources for practicing California attorneys? Thomson Reuters is seeking a Senior Attorney Edit...",
       "descriptionTeaser_ats": ""
@@ -2345,6 +2290,73 @@
           "lat": 34.1642783
         },
         "location": "North Hollywood, California, United States of America"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "London",
+    "country": "United Kingdom",
+    "ml_skills": [
+      "seo",
+      "content management",
+      "indesign",
+      "content management systems",
+      "layout",
+      "photoshop",
+      "adobe creative cloud"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Are you looking for an exciting opportunity to utilize your sub-editing skills in a dynamic newsroom? Join a vibrant team focused on delivering high-quality financial news and analysis, where your meticulous attention to detail and creativity can thrive in a fast-paced environment.",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.0185088",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ192667",
+    "jobId": "JREQ192667",
+    "city": "London",
+    "latitude": "51.5056439",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom"
+    ],
+    "title": "Sub-Editor - The Insurer, Reuters",
+    "jobSeqNo": "THTTRUUSJREQ192667EXTERNALENUS",
+    "postedDate": "2025-06-30T00:00:00.000+0000",
+    "dateCreated": "2025-06-30T16:43:17.811+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Sub-Editor---The-Insurer--Reuters_JREQ192667/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Are you looking for an exciting opportunity to utilize your sub-editing skills in a dynamic newsroom? Join a vibrant team focused on delivering high-quality financial news and analysis, where your meticulous attention to detail and creativity can thrive in a fast-paced environment.",
+      "descriptionTeaser_first200": "Sub-Editor - The Insurer, Reuters. This position will be based in London with hybrid working available. Like the sound of deploying your production and sub-editing skills in the Reuters newsroom, work...",
+      "descriptionTeaser_keyword": "Sub-Editor - The Insurer, Reuters. This position will be based in London with hybrid working available. Like the sound of deploying your production and sub-editing skills in the Reuters newsroom, work...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.0185088,
+          "lat": 51.5056439
+        },
+        "location": "London, United Kingdom"
       }
     ],
     "isMultiCategory": false,
@@ -4518,70 +4530,6 @@
           "lat": 12.9776035
         },
         "location": "Bengaluru, Karnataka, India"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Manila",
-    "country": "Philippines",
-    "ml_skills": [
-      "content management",
-      "talent development",
-      "candidate selection",
-      "microsoft 365"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Are you experienced in leading teams and managing editorial processes? We seek a proactive communicator with a strong background in content management and legal research. You will coach staff, drive collaboration, and enhance team performance while ensuring alignment with business goals and customer needs. Join us to make a real impact!",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "121.0497015",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ190943",
-    "jobId": "JREQ190943",
-    "city": "Manila",
-    "latitude": "14.5348768",
-    "locale": "en_US",
-    "multi_location": [
-      "Manila, Philippines"
-    ],
-    "title": "Manager, Publishing Editorial",
-    "jobSeqNo": "THTTRUUSJREQ190943EXTERNALENUS",
-    "postedDate": "2025-05-20T00:00:00.000+0000",
-    "dateCreated": "2025-05-20T16:41:55.033+0000",
-    "cityStateCountry": "Manila, Philippines",
-    "address": "20 Upper McKinley Building, Upper McKinley Road, McKinley Hill, Manila, 1634, Philippines",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/PHL-Taguig-20-Upper-McKinley-Bldg/Manager--Publishing-Editorial_JREQ190943/apply",
-    "location": "Manila, Philippines",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Are you experienced in leading teams and managing editorial processes? We seek a proactive communicator with a strong background in content management and legal research. You will coach staff, drive collaboration, and enhance team performance while ensuring alignment with business goals and customer needs. Join us to make a real impact!",
-      "descriptionTeaser_first200": "Manager, Publishing Editorial - Product Research. About the Role. People Management. Successfully coach individual contributors and support direct communication between Director and team. Model behavi...",
-      "descriptionTeaser_keyword": "Manager, Publishing Editorial - Product Research. About the Role. People Management. Successfully coach individual contributors and support direct communication between Director and team. Model behavi...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 121.0497015,
-          "lat": 14.5348768
-        },
-        "location": "Manila, Philippines"
       }
     ],
     "isMultiCategory": false,
