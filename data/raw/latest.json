@@ -281,65 +281,6 @@
     "badge": ""
   },
   {
-    "cityState": "Willingham, Cambridgeshire",
-    "country": "United Kingdom",
-    "ml_skills": [],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "This role serves as a vital conduit between Product Development, Professional Services, Account and Project Management, tasked with the comprehensive gathering, understanding, documenting, maintaining...",
-    "state": "Cambridgeshire",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-0.037714",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ193415",
-    "jobId": "JREQ193415",
-    "city": "Willingham",
-    "latitude": "52.0834748",
-    "locale": "en_US",
-    "multi_location": [
-      "Willingham, Cambridgeshire, United Kingdom"
-    ],
-    "title": "Agile Business Analyst - Reuters Imagen",
-    "jobSeqNo": "THTTRUUSJREQ193415EXTERNALENUS",
-    "postedDate": "2025-07-22T00:00:00.000+0000",
-    "dateCreated": "2025-07-22T16:37:27.135+0000",
-    "cityStateCountry": "Willingham, Cambridgeshire, United Kingdom",
-    "address": "1 Grange Court, Covent Garden, Willingham, Cambridgeshire, CB24 5AH, United Kingdom",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-Willingham-1-Grange-Court/Agile-Business-Analyst---Reuters-Imagen_JREQ193415/apply",
-    "location": "Willingham, Cambridgeshire, United Kingdom",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "This role serves as a vital conduit between Product Development, Professional Services, Account and Project Management, tasked with the comprehensive gathering, understanding, documenting, maintaining...",
-      "descriptionTeaser_first200": "Imagen helps sports and media companies manage and distribute their ever-growing video libraries, enabling fast, easy, secure and controlled access to content through a highly customisable content ...",
-      "descriptionTeaser_keyword": "Imagen helps sports and media companies manage and distribute their ever-growing video libraries, enabling fast, easy, secure and controlled access to content through a highly customisable content por...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -0.037714,
-          "lat": 52.0834748
-        },
-        "location": "Willingham, Cambridgeshire, United Kingdom"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Eagan, Minnesota",
     "country": "United States of America",
     "ml_skills": [
@@ -485,6 +426,80 @@
           "lat": -23.596257
         },
         "location": "S\u00e3o Paulo, S\u00e3o Paulo, Brazil"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Willingham, Cambridgeshire",
+    "country": "United Kingdom",
+    "ml_skills": [
+      "software development",
+      "certified scrum master",
+      "release management",
+      "agile environment",
+      "user stories",
+      "project management",
+      "azure devops",
+      "backlog",
+      "lucidchart",
+      "product specifications",
+      "user story mapping",
+      "git/github",
+      "product development",
+      "account management"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "This role serves as a vital conduit between Product Development, Professional Services, Account and Project Management, tasked with the comprehensive gathering, understanding, documenting, maintaining...",
+    "state": "Cambridgeshire",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.037714",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ193415",
+    "jobId": "JREQ193415",
+    "city": "Willingham",
+    "latitude": "52.0834748",
+    "locale": "en_US",
+    "multi_location": [
+      "Willingham, Cambridgeshire, United Kingdom"
+    ],
+    "title": "Agile Business Analyst - Reuters Imagen",
+    "jobSeqNo": "THTTRUUSJREQ193415EXTERNALENUS",
+    "postedDate": "2025-07-22T00:00:00.000+0000",
+    "dateCreated": "2025-07-22T16:37:27.135+0000",
+    "cityStateCountry": "Willingham, Cambridgeshire, United Kingdom",
+    "address": "1 Grange Court, Covent Garden, Willingham, Cambridgeshire, CB24 5AH, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-Willingham-1-Grange-Court/Agile-Business-Analyst---Reuters-Imagen_JREQ193415/apply",
+    "location": "Willingham, Cambridgeshire, United Kingdom",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "This role serves as a vital conduit between Product Development, Professional Services, Account and Project Management, tasked with the comprehensive gathering, understanding, documenting, maintaining...",
+      "descriptionTeaser_first200": "Imagen helps sports and media companies manage and distribute their ever-growing video libraries, enabling fast, easy, secure and controlled access to content through a highly customisable content ...",
+      "descriptionTeaser_keyword": "Imagen helps sports and media companies manage and distribute their ever-growing video libraries, enabling fast, easy, secure and controlled access to content through a highly customisable content por...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.037714,
+          "lat": 52.0834748
+        },
+        "location": "Willingham, Cambridgeshire, United Kingdom"
       }
     ],
     "isMultiCategory": false,
