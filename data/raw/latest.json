@@ -1,5 +1,128 @@
 [
   {
+    "cityState": "London",
+    "country": "United Kingdom",
+    "ml_skills": [
+      "organisational skills"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Seeking a skilled legal professional with at least two years of property experience to create and maintain valuable legal resources. Engage in research, drafting, and editing while collaborating with a supportive team. Embrace a flexible work environment and opportunities for growth in a dynamic field.",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.0185088",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ193527",
+    "jobId": "JREQ193527",
+    "city": "London",
+    "latitude": "51.5056439",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom"
+    ],
+    "title": "Legal Editor, Practical Law Property",
+    "jobSeqNo": "THTTRUUSJREQ193527EXTERNALENUS",
+    "postedDate": "2025-08-01T00:00:00.000+0000",
+    "dateCreated": "2025-07-30T16:38:59.357+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Legal-Editor_JREQ193527/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Seeking a skilled legal professional with at least two years of property experience to create and maintain valuable legal resources. Engage in research, drafting, and editing while collaborating with a supportive team. Embrace a flexible work environment and opportunities for growth in a dynamic field.",
+      "descriptionTeaser_first200": "Practical Law is a leading online know-how service providing rigorous, peer-reviewed resources, including practice notes, current awareness and standard documents to help legal professionals work more...",
+      "descriptionTeaser_keyword": "Practical Law is a leading online know-how service providing rigorous, peer-reviewed resources, including practice notes, current awareness and standard documents to help legal professionals work more...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.0185088,
+          "lat": 51.5056439
+        },
+        "location": "London, United Kingdom"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Mexico City",
+    "country": "Mexico",
+    "ml_skills": [
+      "verbal communication",
+      "technical skills"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Analyst \u2013 Global Trade Content. In this opportunity as a Analyst \u2013 Global Trade Content, you will be responsible to. Research Trade Content Online for various countries from authorized Government Webs...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-99.15156759999999",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ193359",
+    "jobId": "JREQ193359",
+    "city": "Mexico City",
+    "latitude": "19.4342738",
+    "locale": "en_US",
+    "multi_location": [
+      "Mexico City, Mexico"
+    ],
+    "title": "Analyst - Global Trade Content",
+    "jobSeqNo": "THTTRUUSJREQ193359EXTERNALENUS",
+    "postedDate": "2025-08-01T00:00:00.000+0000",
+    "dateCreated": "2025-07-25T20:36:32.205+0000",
+    "cityStateCountry": "Mexico City, Mexico",
+    "address": "Av. Paseo de la Reforma #26, Floor 36th, Colonia Ju\u00e1rez, Cuauht\u00e9moc, 06600 Mexico City, Mexico",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/MEX-Distrito-Federal-Reforma-26/Analyst---Global-Trade-Content_JREQ193359/apply",
+    "location": "Mexico City, Mexico",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Analyst \u2013 Global Trade Content. In this opportunity as a Analyst \u2013 Global Trade Content, you will be responsible to. Research Trade Content Online for various countries from authorized Government Webs...",
+      "descriptionTeaser_first200": "Analyst \u2013 Global Trade Content. Are you passionate about the chance to bring your experience to a world-class company that is market-leading for both content and technology? If yes, we are looking ...",
+      "descriptionTeaser_keyword": "Analyst \u2013 Global Trade Content. Are you passionate about the chance to bring your experience to a world-class company that is market-leading for both content and technology? If yes, we are looking for...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -99.15156759999999,
+          "lat": 19.4342738
+        },
+        "location": "Mexico City, Mexico"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "New York, New York",
     "country": "United States of America",
     "ml_skills": [
@@ -575,67 +698,6 @@
       "descriptionTeaser": "Are you experienced in photojournalism with a strong portfolio? Join a dynamic team to produce compelling photography across breaking news, politics, and entertainment. Collaborate closely with editors and contribute to multimedia storytelling while upholding high ethical standards in a fast-paced environment.",
       "descriptionTeaser_first200": "Reuters is seeking a talented and driven Photographer to join our UK & Ireland visuals team based in London. This role offers the opportunity to contribute to one of the world\u2019s most trusted news orga...",
       "descriptionTeaser_keyword": "Reuters is seeking a talented and driven Photographer to join our UK & Ireland visuals team based in London. This role offers the opportunity to contribute to one of the world\u2019s most trusted news orga...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -0.0185088,
-          "lat": 51.5056439
-        },
-        "location": "London, United Kingdom"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "London",
-    "country": "United Kingdom",
-    "ml_skills": [
-      "organisational skills"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Seeking a skilled legal professional with at least two years of property experience to create and maintain valuable legal resources. Engage in research, drafting, and editing while collaborating with a supportive team. Embrace a flexible work environment and opportunities for growth in a dynamic field.",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-0.0185088",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ193527",
-    "jobId": "JREQ193527",
-    "city": "London",
-    "latitude": "51.5056439",
-    "locale": "en_US",
-    "multi_location": [
-      "London, United Kingdom"
-    ],
-    "title": "Legal Editor",
-    "jobSeqNo": "THTTRUUSJREQ193527EXTERNALENUS",
-    "postedDate": "2025-07-30T00:00:00.000+0000",
-    "dateCreated": "2025-07-30T16:38:59.357+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Legal-Editor_JREQ193527/apply",
-    "location": "London, United Kingdom",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Seeking a skilled legal professional with at least two years of property experience to create and maintain valuable legal resources. Engage in research, drafting, and editing while collaborating with a supportive team. Embrace a flexible work environment and opportunities for growth in a dynamic field.",
-      "descriptionTeaser_first200": "Practical Law is a leading online know-how service providing rigorous, peer-reviewed resources, including practice notes, current awareness and standard documents to help legal professionals work more...",
-      "descriptionTeaser_keyword": "Practical Law is a leading online know-how service providing rigorous, peer-reviewed resources, including practice notes, current awareness and standard documents to help legal professionals work more...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
@@ -1609,69 +1671,6 @@
           "lat": 17.4367243
         },
         "location": "Hyderabad, Telangana, India"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Mexico City",
-    "country": "Mexico",
-    "ml_skills": [
-      "verbal communication",
-      "technical skills",
-      "free trade agreements"
-    ],
-    "remote": "Remote",
-    "type": "Full time",
-    "descriptionTeaser": "We are looking for a detail-oriented analyst with strong research and analytical skills to enhance global trade content. You'll engage with government contacts, interpret complex regulations, and implement innovative solutions, all while enjoying flexible work arrangements and opportunities for career growth. Join us in making a real-world impact!",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-99.15156759999999",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ193359",
-    "jobId": "JREQ193359",
-    "city": "Mexico City",
-    "latitude": "19.4342738",
-    "locale": "en_US",
-    "multi_location": [
-      "Mexico City, Mexico"
-    ],
-    "title": "Analyst - Global Trade Content",
-    "jobSeqNo": "THTTRUUSJREQ193359EXTERNALENUS",
-    "postedDate": "2025-07-25T00:00:00.000+0000",
-    "dateCreated": "2025-07-25T20:36:32.205+0000",
-    "cityStateCountry": "Mexico City, Mexico",
-    "address": "Av. Paseo de la Reforma #26, Floor 36th, Colonia Ju\u00e1rez, Cuauht\u00e9moc, 06600 Mexico City, Mexico",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/MEX-Distrito-Federal-Reforma-26/Analyst---Global-Trade-Content_JREQ193359/apply",
-    "location": "Mexico City, Mexico",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "We are looking for a detail-oriented analyst with strong research and analytical skills to enhance global trade content. You'll engage with government contacts, interpret complex regulations, and implement innovative solutions, all while enjoying flexible work arrangements and opportunities for career growth. Join us in making a real-world impact!",
-      "descriptionTeaser_first200": "Analyst \u2013 Global Trade Content. Are you passionate about the chance to bring your experience to a world-class company that is market-leading for both content and technology? If yes, we are looking for...",
-      "descriptionTeaser_keyword": "Analyst \u2013 Global Trade Content. Are you passionate about the chance to bring your experience to a world-class company that is market-leading for both content and technology? If yes, we are looking for...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -99.15156759999999,
-          "lat": 19.4342738
-        },
-        "location": "Mexico City, Mexico"
       }
     ],
     "isMultiCategory": false,
