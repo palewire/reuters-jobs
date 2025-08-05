@@ -1,5 +1,69 @@
 [
   {
+    "cityState": "Singapore",
+    "country": "Singapore",
+    "ml_skills": [
+      "video editing",
+      "journalism",
+      "script writing",
+      "latin"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Join a dynamic team where your passion for breaking news and strong video editing skills can shine. With at least 18 months of journalism experience, you'll deliver timely coverage, coordinate global news stories, and produce compelling content under pressure. Embrace the excitement of international news!",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "103.7934252",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ193715",
+    "jobId": "JREQ193715",
+    "city": "Singapore",
+    "latitude": "1.2938457",
+    "locale": "en_US",
+    "multi_location": [
+      "Singapore, Singapore"
+    ],
+    "title": "Video Desk Producer",
+    "jobSeqNo": "THTTRUUSJREQ193715EXTERNALENUS",
+    "postedDate": "2025-08-05T00:00:00.000+0000",
+    "dateCreated": "2025-08-05T08:39:11.531+0000",
+    "cityStateCountry": "Singapore, Singapore",
+    "address": "ALICE@Mediapolis, 29 Media Circle,  #09-05, Singapore 138565, Singapore",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/SGP-Singapore-ALICEMediapolis/Video-Desk-Producer_JREQ193715/apply",
+    "location": "Singapore, Singapore",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Join a dynamic team where your passion for breaking news and strong video editing skills can shine. With at least 18 months of journalism experience, you'll deliver timely coverage, coordinate global news stories, and produce compelling content under pressure. Embrace the excitement of international news!",
+      "descriptionTeaser_first200": "Reuters is looking for a talented television news journalist to join our team in Singapore. You will help deliver breaking and planned news coverage to more than 1,000 broadcasters and hundreds of dig...",
+      "descriptionTeaser_keyword": "Reuters is looking for a talented television news journalist to join our team in Singapore. You will help deliver breaking and planned news coverage to more than 1,000 broadcasters and hundreds of dig...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 103.7934252,
+          "lat": 1.2938457
+        },
+        "location": "Singapore, Singapore"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Hyderabad, Telangana",
     "country": "India",
     "ml_skills": [
@@ -784,74 +848,6 @@
     "badge": ""
   },
   {
-    "cityState": "Hyderabad, Telangana",
-    "country": "India",
-    "ml_skills": [
-      "testing process",
-      "testing experience",
-      "user testing",
-      "html",
-      "accounting",
-      "tax software",
-      "strong computer skills.",
-      "tax-related"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Join a dynamic team where your accounting and tax preparation expertise will shine! You'll ensure the quality of tax-related products, conduct thorough testing, and contribute to documentation standards. If you have 1-2 years of experience and strong analytical skills, this is your chance to make an impact!",
-    "state": "Telangana",
-    "visibilityType": "External",
-    "longitude": "78.38589340000001",
-    "siteType": "external",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ191394",
-    "jobId": "JREQ191394",
-    "city": "Hyderabad",
-    "latitude": "17.4367243",
-    "locale": "en_US",
-    "multi_location": [
-      "Hyderabad, Telangana, India"
-    ],
-    "title": "QA Associate - US Taxation (Tax Forms)",
-    "jobSeqNo": "THTTRUUSJREQ191394EXTERNALENUS",
-    "postedDate": "2025-07-30T00:00:00.000+0000",
-    "dateCreated": "2025-07-03T08:42:28.260+0000",
-    "cityStateCountry": "Hyderabad, Telangana, India",
-    "address": "Floor 12, 13 & 14, Building 11, Raheja Mindspace, Madhapur, Hyderabad- 500081, Telangana, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Hyderabad-Raheja-Mindspace/Associate-Quality-Assurance---Efile-Analyst_JREQ191394/apply",
-    "location": "Hyderabad, Telangana, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Join a dynamic team where your accounting and tax preparation expertise will shine! You'll ensure the quality of tax-related products, conduct thorough testing, and contribute to documentation standards. If you have 1-2 years of experience and strong analytical skills, this is your chance to make an impact!",
-      "descriptionTeaser_first200": "Join our team as an Associate Quality Assurance & E-file Analyst, where you'll play a crucial role in ensuring the quality and performance of our tax-related products. You'll leverage your expertise i...",
-      "descriptionTeaser_keyword": "Join our team as an Associate Quality Assurance & E-file Analyst, where you'll play a crucial role in ensuring the quality and performance of our tax-related products. You'll leverage your expertise i...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 78.38589340000001,
-          "lat": 17.4367243
-        },
-        "location": "Hyderabad, Telangana, India"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "London",
     "country": "United Kingdom",
     "ml_skills": [
@@ -1243,6 +1239,74 @@
           "lat": 34.1642783
         },
         "location": "North Hollywood, California, United States of America"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Hyderabad, Telangana",
+    "country": "India",
+    "ml_skills": [
+      "testing process",
+      "testing experience",
+      "user testing",
+      "html",
+      "accounting",
+      "tax software",
+      "strong computer skills.",
+      "tax-related"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Join a dynamic team where your accounting and tax preparation expertise will shine! You'll ensure the quality of tax-related products, conduct thorough testing, and contribute to documentation standards. If you have 1-2 years of experience and strong analytical skills, this is your chance to make an impact!",
+    "state": "Telangana",
+    "visibilityType": "External",
+    "longitude": "78.38589340000001",
+    "siteType": "external",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ191394",
+    "jobId": "JREQ191394",
+    "city": "Hyderabad",
+    "latitude": "17.4367243",
+    "locale": "en_US",
+    "multi_location": [
+      "Hyderabad, Telangana, India"
+    ],
+    "title": "QA Associate - US Taxation (Tax Forms)",
+    "jobSeqNo": "THTTRUUSJREQ191394EXTERNALENUS",
+    "postedDate": "2025-07-30T00:00:00.000+0000",
+    "dateCreated": "2025-07-03T08:42:28.260+0000",
+    "cityStateCountry": "Hyderabad, Telangana, India",
+    "address": "Floor 12, 13 & 14, Building 11, Raheja Mindspace, Madhapur, Hyderabad- 500081, Telangana, India",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Hyderabad-Raheja-Mindspace/Associate-Quality-Assurance---Efile-Analyst_JREQ191394/apply",
+    "location": "Hyderabad, Telangana, India",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Join a dynamic team where your accounting and tax preparation expertise will shine! You'll ensure the quality of tax-related products, conduct thorough testing, and contribute to documentation standards. If you have 1-2 years of experience and strong analytical skills, this is your chance to make an impact!",
+      "descriptionTeaser_first200": "Join our team as an Associate Quality Assurance & E-file Analyst, where you'll play a crucial role in ensuring the quality and performance of our tax-related products. You'll leverage your expertise i...",
+      "descriptionTeaser_keyword": "Join our team as an Associate Quality Assurance & E-file Analyst, where you'll play a crucial role in ensuring the quality and performance of our tax-related products. You'll leverage your expertise i...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 78.38589340000001,
+          "lat": 17.4367243
+        },
+        "location": "Hyderabad, Telangana, India"
       }
     ],
     "isMultiCategory": false,
@@ -3473,71 +3537,6 @@
           "lat": 14.5348768
         },
         "location": "Manila, Philippines"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Hyderabad, Telangana",
-    "country": "India",
-    "ml_skills": [
-      "legal research",
-      "liaising",
-      "content creation",
-      "microsoft office applications",
-      "microsoft office"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Are you looking for a role where your legal expertise shines? Join a dynamic team to proofread, copy-edit, and research engaging content while enhancing your skills in a flexible, supportive environment. Bring your attention to detail and passion for law to make a real-world impact!",
-    "state": "Telangana",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "78.38589340000001",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ183456",
-    "jobId": "JREQ183456",
-    "city": "Hyderabad",
-    "latitude": "17.4367243",
-    "locale": "en_US",
-    "multi_location": [
-      "Hyderabad, Telangana, India"
-    ],
-    "title": "Legal Editorial Associate - Practical Law UK, US",
-    "jobSeqNo": "THTTRUUSJREQ183456EXTERNALENUS",
-    "postedDate": "2025-07-02T00:00:00.000+0000",
-    "dateCreated": "2025-07-02T08:43:33.690+0000",
-    "cityStateCountry": "Hyderabad, Telangana, India",
-    "address": "Floor 12, 13 & 14, Building 11, Raheja Mindspace, Madhapur, Hyderabad- 500081, Telangana, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Hyderabad-Raheja-Mindspace/Legal-Editorial-Associate---Practical-Law-UK--US_JREQ183456/apply",
-    "location": "Hyderabad, Telangana, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Are you looking for a role where your legal expertise shines? Join a dynamic team to proofread, copy-edit, and research engaging content while enhancing your skills in a flexible, supportive environment. Bring your attention to detail and passion for law to make a real-world impact!",
-      "descriptionTeaser_first200": "Legal Editorial Associate - Practical Law UK, US. We are seeking to hire Legal Editorial Associates (LEA) to support the Practical Law editorial teams with the creation, publication, delivery, and pre...",
-      "descriptionTeaser_keyword": "Legal Editorial Associate - Practical Law UK, US. We are seeking to hire Legal Editorial Associates (LEA) to support the Practical Law editorial teams with the creation, publication, delivery, and pre...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 78.38589340000001,
-          "lat": 17.4367243
-        },
-        "location": "Hyderabad, Telangana, India"
       }
     ],
     "isMultiCategory": false,
