@@ -1,5 +1,136 @@
 [
   {
+    "cityState": "Tokyo",
+    "country": "Japan",
+    "ml_skills": [
+      "content development",
+      "stakeholder relationships",
+      "team development",
+      "stakeholder management",
+      "functional expertise",
+      "ai",
+      "commercial acumen"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Are you experienced in leading diverse teams and driving editorial excellence? Join us to shape high-quality content for the legal market in Japan, while managing stakeholder relationships and fostering talent. Bring your strategic vision and bilingual skills to make a real impact in a dynamic environment!",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "139.7488929",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ189648",
+    "jobId": "JREQ189648",
+    "city": "Tokyo",
+    "latitude": "35.6621409",
+    "locale": "en_US",
+    "multi_location": [
+      "Tokyo, Japan"
+    ],
+    "title": "Director, Editorial",
+    "jobSeqNo": "THTTRUUSJREQ189648EXTERNALENUS",
+    "postedDate": "2025-08-11T00:00:00.000+0000",
+    "dateCreated": "2025-04-30T00:38:50.774+0000",
+    "cityStateCountry": "Tokyo, Japan",
+    "address": "10F Atago Green Hills Mori Tower, 2-5-1 Atago, Minato-ku, Tokyo, 105-6210, Japan",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/JPN-Tokyo-Atago-Green-Hills/Senior-Editorial-Manager_JREQ189648/apply",
+    "location": "Tokyo, Japan",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Are you experienced in leading diverse teams and driving editorial excellence? Join us to shape high-quality content for the legal market in Japan, while managing stakeholder relationships and fostering talent. Bring your strategic vision and bilingual skills to make a real impact in a dynamic environment!",
+      "descriptionTeaser_first200": "Director, Editorial. We are seeking an experienced and strategic leader to join our team as a Director, Editorial, based in Japan. As a key member of our editorial team, you will play a vital role in...",
+      "descriptionTeaser_keyword": "Director, Editorial. We are seeking an experienced and strategic leader to join our team as a Director, Editorial, based in Japan. As a key member of our editorial team, you will play a vital role in...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 139.7488929,
+          "lat": 35.6621409
+        },
+        "location": "Tokyo, Japan"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Mumbai, Maharashtra",
+    "country": "India",
+    "ml_skills": [
+      "team management",
+      "financial statements",
+      "tax software",
+      "tax law"
+    ],
+    "remote": "On-Site",
+    "type": "Full time",
+    "descriptionTeaser": "Should be a good people manager and needs to be the go to person for resolutions related to US Taxation, both individual and business tax returns. Ability to review documentation and research tax retu...",
+    "state": "Maharashtra",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "72.8814089",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ188346",
+    "jobId": "JREQ188346",
+    "city": "Mumbai",
+    "latitude": "19.1114368",
+    "locale": "en_US",
+    "multi_location": [
+      "Mumbai, Maharashtra, India"
+    ],
+    "title": "Senior Lead - Operations",
+    "jobSeqNo": "THTTRUUSJREQ188346EXTERNALENUS",
+    "postedDate": "2025-08-11T00:00:00.000+0000",
+    "dateCreated": "2025-08-11T12:41:09.016+0000",
+    "cityStateCountry": "Mumbai, Maharashtra, India",
+    "address": "4th Flr, Dhantak Plaza, Makwana Road, Marol, Andheri East, Mumbai- 400059, Maharashtra, India",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Mumbai-Dhantak-Plaza/Senior-Lead---Operations_JREQ188346-1/apply",
+    "location": "Mumbai, Maharashtra, India",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Should be a good people manager and needs to be the go to person for resolutions related to US Taxation, both individual and business tax returns. Ability to review documentation and research tax retu...",
+      "descriptionTeaser_first200": "This is a team handling role with expertise in US Taxation. Should be a good people manager and needs to be the go to person for resolutions related to US Taxation, both individual and business tax re...",
+      "descriptionTeaser_keyword": "This is a team handling role with expertise in US Taxation. Should be a good people manager and needs to be the go to person for resolutions related to US Taxation, both individual and business tax re...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 72.8814089,
+          "lat": 19.1114368
+        },
+        "location": "Mumbai, Maharashtra, India"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Hyderabad, Telangana",
     "country": "India",
     "ml_skills": [
@@ -918,69 +1049,6 @@
     "badge": ""
   },
   {
-    "cityState": "Madrid",
-    "country": "Spain",
-    "ml_skills": [
-      "photo editor",
-      "project management",
-      "ideation"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "We are looking for an experienced photo and multimedia storyteller to manage global projects, produce compelling visual narratives, and collaborate with diverse teams. Bring your expertise in visual journalism and multimedia production to create impactful stories that resonate worldwide. Join us in shaping the future of storytelling.",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-3.6798774",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ193598",
-    "jobId": "JREQ193598",
-    "city": "Madrid",
-    "latitude": "40.4371514",
-    "locale": "en_US",
-    "multi_location": [
-      "Madrid, Spain"
-    ],
-    "title": "Photo Editor, Wider Image",
-    "jobSeqNo": "THTTRUUSJREQ193598EXTERNALENUS",
-    "postedDate": "2025-07-31T00:00:00.000+0000",
-    "dateCreated": "2025-07-31T12:41:11.273+0000",
-    "cityStateCountry": "Madrid, Spain",
-    "address": "Calle Mar\u00eda de Molina 54, Piso 8, 28006 Madrid, Spain",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/ESP-Madrid-Mara-de-Molina/Photo-Editor--Wider-Image_JREQ193598/apply",
-    "location": "Madrid, Spain",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "We are looking for an experienced photo and multimedia storyteller to manage global projects, produce compelling visual narratives, and collaborate with diverse teams. Bring your expertise in visual journalism and multimedia production to create impactful stories that resonate worldwide. Join us in shaping the future of storytelling.",
-      "descriptionTeaser_first200": "Photo Editor, Wider Image. We envisage the successful candidate being based in Madrid, Spain. Reuters is looking for an experienced photo/multimedia storyteller that has experience in project manageme...",
-      "descriptionTeaser_keyword": "Photo Editor, Wider Image. We envisage the successful candidate being based in Madrid, Spain. Reuters is looking for an experienced photo/multimedia storyteller that has experience in project manageme...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -3.6798774,
-          "lat": 40.4371514
-        },
-        "location": "Madrid, Spain"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Eagan, Minnesota",
     "country": "United States of America",
     "ml_skills": [
@@ -1532,73 +1600,6 @@
     "badge": ""
   },
   {
-    "cityState": "New York, New York",
-    "country": "United States of America",
-    "ml_skills": [
-      "test scenarios",
-      "microsoft excel",
-      "westlaw",
-      "product management",
-      "tax research",
-      "corporate tax",
-      "verbal communication"
-    ],
-    "remote": "Remote",
-    "type": "Full time",
-    "descriptionTeaser": "Are you looking for a role where you can leverage your 2-3 years of indirect tax experience? Dive into research, analysis, and compliance, while mentoring others and shaping tax applications. Join a dynamic team dedicated to navigating complex tax jurisdictions and making a real-world impact.",
-    "state": "New York",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-73.9870076",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ192662",
-    "jobId": "JREQ192662",
-    "city": "New York",
-    "latitude": "40.756572",
-    "locale": "en_US",
-    "multi_location": [
-      "New York, New York, United States of America"
-    ],
-    "title": "Senior Tax Analyst, Tax Research & Content",
-    "jobSeqNo": "THTTRUUSJREQ192662EXTERNALENUS",
-    "postedDate": "2025-07-29T00:00:00.000+0000",
-    "dateCreated": "2025-07-29T20:39:06.677+0000",
-    "cityStateCountry": "New York, New York, United States of America",
-    "address": "3 Times Square, New York, NY 10036, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-New-York-3-Times-Square/Senior-Tax-Analyst--Tax-Research---Content_JREQ192662-1/apply",
-    "location": "New York, New York, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Are you looking for a role where you can leverage your 2-3 years of indirect tax experience? Dive into research, analysis, and compliance, while mentoring others and shaping tax applications. Join a dynamic team dedicated to navigating complex tax jurisdictions and making a real-world impact.",
-      "descriptionTeaser_first200": "The Sr. Tax Research & Content Analyst is responsible for research, configuration, ongoing maintenance, enhancements, and testing to ensure that ONESOURCE\u2122 applications and offerings comply with tax r...",
-      "descriptionTeaser_keyword": "The Sr. Tax Research & Content Analyst is responsible for research, configuration, ongoing maintenance, enhancements, and testing to ensure that ONESOURCE\u2122 applications and offerings comply with tax r...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -73.9870076,
-          "lat": 40.756572
-        },
-        "location": "New York, New York, United States of America"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Bengaluru, Karnataka",
     "country": "India",
     "ml_skills": [
@@ -1869,74 +1870,6 @@
           "lat": 17.4367243
         },
         "location": "Hyderabad, Telangana, India"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Frisco, Texas",
-    "country": "United States of America",
-    "ml_skills": [
-      "tax accounting",
-      "tax law",
-      "software development",
-      "computer science",
-      "written communication skills",
-      "computer software",
-      "development tools",
-      "operating systems"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Seeking a detail-oriented professional to design, develop, and test tax software while analyzing requirements from various sources. Leverage your expertise in tax concepts and software changes to enhance products and ensure quality, all within a flexible, supportive work environment that prioritizes your growth and work-life balance.",
-    "state": "Texas",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-96.833545",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ193011",
-    "jobId": "JREQ193011",
-    "city": "Frisco",
-    "latitude": "33.1073049",
-    "locale": "en_US",
-    "multi_location": [
-      "Frisco, Texas, United States of America"
-    ],
-    "title": "Tax Analyst",
-    "jobSeqNo": "THTTRUUSJREQ193011EXTERNALENUS",
-    "postedDate": "2025-07-25T00:00:00.000+0000",
-    "dateCreated": "2025-07-15T20:37:14.203+0000",
-    "cityStateCountry": "Frisco, Texas, United States of America",
-    "address": "6160 Warren Parkway, Frisco, TX 75034, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-Frisco-6160-Warren-Parkway/Tax-Analyst_JREQ193011-1/apply",
-    "location": "Frisco, Texas, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Seeking a detail-oriented professional to design, develop, and test tax software while analyzing requirements from various sources. Leverage your expertise in tax concepts and software changes to enhance products and ensure quality, all within a flexible, supportive work environment that prioritizes your growth and work-life balance.",
-      "descriptionTeaser_first200": "Summary. You will participate in the design, development, and testing of our GoSystem Tax using in-house development tools. In this role, you will collect, analyze, and prioritize requirements from va...",
-      "descriptionTeaser_keyword": "Summary. You will participate in the design, development, and testing of our GoSystem Tax using in-house development tools. In this role, you will collect, analyze, and prioritize requirements from va...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -96.833545,
-          "lat": 33.1073049
-        },
-        "location": "Frisco, Texas, United States of America"
       }
     ],
     "isMultiCategory": false,
@@ -2841,78 +2774,6 @@
     "badge": ""
   },
   {
-    "cityState": "New York, New York",
-    "country": "United States of America",
-    "ml_skills": [
-      "audio editing",
-      "sound design",
-      "sound designer",
-      "adobe audition",
-      "post-production",
-      "podcast",
-      "creative direction",
-      "storytelling",
-      "journalism",
-      "squadcast",
-      "descript",
-      "reverb"
-    ],
-    "remote": "Remote",
-    "type": "Full time",
-    "descriptionTeaser": "Are you experienced in audio editing and sound design? Join a dynamic team to craft compelling podcast episodes, enhancing storytelling with music and effects. Bring your creativity and technical skills to shape the sound of impactful news stories every weekend.",
-    "state": "New York",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-73.9870076",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ193024",
-    "jobId": "JREQ193024",
-    "city": "New York",
-    "latitude": "40.756572",
-    "locale": "en_US",
-    "multi_location": [
-      "New York, New York, United States of America"
-    ],
-    "title": "Weekend Sound Designer, Podcasts (Level 1 Journalist - Temp)",
-    "jobSeqNo": "THTTRUUSJREQ193024EXTERNALENUS",
-    "postedDate": "2025-07-11T00:00:00.000+0000",
-    "dateCreated": "2025-07-11T20:45:46.495+0000",
-    "cityStateCountry": "New York, New York, United States of America",
-    "address": "3 Times Square, New York, NY 10036, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-New-York-3-Times-Square/Weekend-Sound-Designer--Podcasts--Level-1-Journalist---Temp-_JREQ193024/apply",
-    "location": "New York, New York, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Are you experienced in audio editing and sound design? Join a dynamic team to craft compelling podcast episodes, enhancing storytelling with music and effects. Bring your creativity and technical skills to shape the sound of impactful news stories every weekend.",
-      "descriptionTeaser_first200": "Reuters is looking for a sound designer with exceptional audio editing skills, creative sound design instincts, and a strong grasp of news storytelling for a TEMPORARY role to assist with the weekend...",
-      "descriptionTeaser_keyword": "Reuters is looking for a sound designer with exceptional audio editing skills, creative sound design instincts, and a strong grasp of news storytelling for a TEMPORARY role to assist with the weekend...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -73.9870076,
-          "lat": 40.756572
-        },
-        "location": "New York, New York, United States of America"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Bengaluru, Karnataka",
     "country": "India",
     "ml_skills": [
@@ -3675,81 +3536,6 @@
     "badge": ""
   },
   {
-    "cityState": "Aichi",
-    "country": "Japan",
-    "ml_skills": [
-      "content development",
-      "stakeholder relationships",
-      "team development",
-      "stakeholder management",
-      "functional expertise",
-      "ai",
-      "commercial acumen"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Are you experienced in leading diverse teams and driving editorial excellence? Join us to shape high-quality content for the legal market in Japan, while managing stakeholder relationships and fostering talent. Bring your strategic vision and bilingual skills to make a real impact in a dynamic environment!",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "136.8966607",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ189648",
-    "jobId": "JREQ189648",
-    "city": "Aichi",
-    "latitude": "35.1636282",
-    "locale": "en_US",
-    "multi_location": [
-      "Aichi, Japan",
-      "Tokyo, Japan"
-    ],
-    "title": "Director, Editorial",
-    "jobSeqNo": "THTTRUUSJREQ189648EXTERNALENUS",
-    "postedDate": "2025-06-23T00:00:00.000+0000",
-    "dateCreated": "2025-04-30T00:38:50.774+0000",
-    "cityStateCountry": "Aichi, Japan",
-    "address": "Shinnippon Hoki Publishing Annex 7F 1-26-11 Sakae, Naka-ku, Nagoya-shi, Aichi, 460-0008, Japan",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/JPN-Aichi-Shinnippon-Hoki/Senior-Editorial-Manager_JREQ189648/apply",
-    "location": "Aichi, Japan",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Are you experienced in leading diverse teams and driving editorial excellence? Join us to shape high-quality content for the legal market in Japan, while managing stakeholder relationships and fostering talent. Bring your strategic vision and bilingual skills to make a real impact in a dynamic environment!",
-      "descriptionTeaser_first200": "Director, Editorial. We are seeking an experienced and strategic leader to join our team as a Director, Editorial, based in Japan. As a key member of our editorial team, you will play a vital role in...",
-      "descriptionTeaser_keyword": "Director, Editorial. We are seeking an experienced and strategic leader to join our team as a Director, Editorial, based in Japan. As a key member of our editorial team, you will play a vital role in...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 136.8966607,
-          "lat": 35.1636282
-        },
-        "location": "Aichi, Japan"
-      },
-      {
-        "latlong": {
-          "lon": 139.7488929,
-          "lat": 35.6621409
-        },
-        "location": "Tokyo, Japan"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Eagan, Minnesota",
     "country": "United States of America",
     "remote": "Remote",
@@ -4130,76 +3916,6 @@
           "lat": 35.6621409
         },
         "location": "Tokyo, Japan"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Mumbai, Maharashtra",
-    "country": "India",
-    "ml_skills": [
-      "journalism",
-      "english"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "We are looking for a dynamic writer with 4-6 years of journalism experience to produce timely news articles, conduct research on legal market trends, manage online content, and engage on social media. Strong writing skills and a collaborative spirit are essential for this fast-paced role.",
-    "state": "Maharashtra",
-    "visibilityType": "External",
-    "longitude": "72.8651798",
-    "siteType": "external",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ191090",
-    "jobId": "JREQ191090",
-    "city": "Mumbai",
-    "latitude": "19.0581602",
-    "locale": "en_US",
-    "multi_location": [
-      "Mumbai, Maharashtra, India",
-      "Bengaluru, Karnataka, India"
-    ],
-    "title": "Asia Writer",
-    "jobSeqNo": "THTTRUUSJREQ191090EXTERNALENUS",
-    "postedDate": "2025-05-27T00:00:00.000+0000",
-    "dateCreated": "2025-05-21T09:03:00.946+0000",
-    "cityStateCountry": "Mumbai, Maharashtra, India",
-    "address": "Office No. B101, level 15,, WeWork Enam Sambhav, G Block, C-20, Bandra Kurla Complex,, Mumbai- 400051, Maharashtra, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Mumbai-Bandra-Kurla-Complex/Asia-Writer_JREQ191090/apply",
-    "location": "Mumbai, Maharashtra, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "We are looking for a dynamic writer with 4-6 years of journalism experience to produce timely news articles, conduct research on legal market trends, manage online content, and engage on social media. Strong writing skills and a collaborative spirit are essential for this fast-paced role.",
-      "descriptionTeaser_first200": "Summary. Thomson Reuters is seeking a writer based in Mumbai or Bengaluru for its market-leading legal magazine, Asian Legal Business (ALB) and website www.legalbusinessonline. The role involves wr...",
-      "descriptionTeaser_keyword": "Summary. Thomson Reuters is seeking a writer based in Mumbai or Bengaluru for its market-leading legal magazine, Asian Legal Business (ALB) and website www. legalbusinessonline. The role involves writ...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 72.8651798,
-          "lat": 19.0581602
-        },
-        "location": "Mumbai, Maharashtra, India"
-      },
-      {
-        "latlong": {
-          "lon": 77.708722,
-          "lat": 12.9776035
-        },
-        "location": "Bengaluru, Karnataka, India"
       }
     ],
     "isMultiCategory": false,
@@ -4672,69 +4388,6 @@
     "badge": ""
   },
   {
-    "cityState": "Gdansk",
-    "country": "Poland",
-    "ml_skills": [
-      "accuracy",
-      "customer support",
-      "configuring"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "The Tax Associate, you will be responsible for researching, configuring and testing our product to ensure that ONESOURCE\u2122 complies with indirect tax rules in complex and demanding tax authorities, wit...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "18.5757343",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ189620",
-    "jobId": "JREQ189620",
-    "city": "Gdansk",
-    "latitude": "54.400578",
-    "locale": "en_US",
-    "multi_location": [
-      "Gdansk, Poland"
-    ],
-    "title": "Tax Associate (US Region)",
-    "jobSeqNo": "THTTRUUSJREQ189620EXTERNALENUS",
-    "postedDate": "2025-04-23T00:00:00.000+0000",
-    "dateCreated": "2025-04-23T16:37:44.639+0000",
-    "cityStateCountry": "Gdansk, Poland",
-    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/Tax-Associate--US-Region-_JREQ189620/apply",
-    "location": "Gdansk, Poland",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "The Tax Associate, you will be responsible for researching, configuring and testing our product to ensure that ONESOURCE\u2122 complies with indirect tax rules in complex and demanding tax authorities, wit...",
-      "descriptionTeaser_first200": "Tax Associate (US Region). This full-time, permanent role is based in Gdansk with hybrid working available. Are you an avid researcher? Want to use your research skills to help build and maintain a...",
-      "descriptionTeaser_keyword": "Tax Associate (US Region). This full-time, permanent role is based in Gdansk with hybrid working available. Are you an avid researcher? Want to use your research skills to help build and maintain a le...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 18.5757343,
-          "lat": 54.400578
-        },
-        "location": "Gdansk, Poland"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Bengaluru, Karnataka",
     "country": "India",
     "ml_skills": [
@@ -4785,72 +4438,6 @@
           "lat": 12.9776035
         },
         "location": "Bengaluru, Karnataka, India"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Manila",
-    "country": "Philippines",
-    "ml_skills": [
-      "legal research",
-      "accuracy",
-      "proofreading",
-      "pivot",
-      "collaborate",
-      "prioritize tasks"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Provide legal interpretation through analysis and research to develop and review content for customers. Maintain and develop legal knowledge and skills training as needed to complete your work and to...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "121.0497015",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ188394",
-    "jobId": "JREQ188394",
-    "city": "Manila",
-    "latitude": "14.5348768",
-    "locale": "en_US",
-    "multi_location": [
-      "Manila, Philippines"
-    ],
-    "title": "Attorney Editor",
-    "jobSeqNo": "THTTRUUSJREQ188394EXTERNALENUS",
-    "postedDate": "2025-04-18T00:00:00.000+0000",
-    "dateCreated": "2025-02-24T08:40:10.075+0000",
-    "cityStateCountry": "Manila, Philippines",
-    "address": "20 Upper McKinley Building, Upper McKinley Road, McKinley Hill, Manila, 1634, Philippines",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/PHL-Taguig-20-Upper-McKinley-Bldg/Attorney-Editor_JREQ188394/apply",
-    "location": "Manila, Philippines",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Provide legal interpretation through analysis and research to develop and review content for customers. Maintain and develop legal knowledge and skills training as needed to complete your work and to...",
-      "descriptionTeaser_first200": "Attorney Editor, Product - Research. Global Codes Attorney Editors are responsible for validating and directing the review and publishing of United States content updates for their assigned jurisdi...",
-      "descriptionTeaser_keyword": "Attorney Editor, Product - Research. Global Codes Attorney Editors are responsible for validating and directing the review and publishing of United States content updates for their assigned jurisdicti...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 121.0497015,
-          "lat": 14.5348768
-        },
-        "location": "Manila, Philippines"
       }
     ],
     "isMultiCategory": false,
