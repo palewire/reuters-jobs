@@ -1,79 +1,5 @@
 [
   {
-    "cityState": "Manila",
-    "country": "Philippines",
-    "ml_skills": [
-      "commercial",
-      "technical feasibility",
-      "model performance",
-      "workflows",
-      "application development",
-      "cloud",
-      "versioning",
-      "system design",
-      "ai",
-      "product engineering",
-      "generative ai",
-      "cloud platforms",
-      "ai systems",
-      "ai solutions"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Seeking a detail-oriented professional with a background in tax, accounting, or finance to craft and edit insightful articles for US tax and legal audiences. Utilize your writing expertise and analytical skills to stay ahead of regulatory changes while enjoying a flexible work environment that prioritizes work-life balance.",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "121.0497015",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ194011",
-    "jobId": "JREQ194011",
-    "city": "Manila",
-    "latitude": "14.5348768",
-    "locale": "en_US",
-    "multi_location": [
-      "Manila, Philippines"
-    ],
-    "title": "Editor",
-    "jobSeqNo": "THTTRUUSJREQ194011EXTERNALENUS",
-    "postedDate": "2025-08-15T00:00:00.000+0000",
-    "dateCreated": "2025-08-13T16:47:03.172+0000",
-    "cityStateCountry": "Manila, Philippines",
-    "address": "20 Upper McKinley Building, Upper McKinley Road, McKinley Hill, Manila, 1634, Philippines",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/PHL-Taguig-20-Upper-McKinley-Bldg/Editor_JREQ194011-1/apply",
-    "location": "Manila, Philippines",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Seeking a detail-oriented professional with a background in tax, accounting, or finance to craft and edit insightful articles for US tax and legal audiences. Utilize your writing expertise and analytical skills to stay ahead of regulatory changes while enjoying a flexible work environment that prioritizes work-life balance.",
-      "descriptionTeaser_first200": "Editor, Product - Research. Thomson Reuters is seeking an Editor with tax/business/accountancy/financial background or work experience to write and edit current awareness content for US tax, accountin...",
-      "descriptionTeaser_keyword": "Editor, Product - Research. Thomson Reuters is seeking an Editor with tax/business/accountancy/financial background or work experience to write and edit current awareness content for US tax, accountin...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 121.0497015,
-          "lat": 14.5348768
-        },
-        "location": "Manila, Philippines"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "New York, New York",
     "country": "United States of America",
     "ml_skills": [
@@ -145,6 +71,80 @@
           "lat": 44.851884
         },
         "location": "Eagan, Minnesota, United States of America"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Manila",
+    "country": "Philippines",
+    "ml_skills": [
+      "commercial",
+      "technical feasibility",
+      "model performance",
+      "workflows",
+      "application development",
+      "cloud",
+      "versioning",
+      "system design",
+      "ai",
+      "product engineering",
+      "generative ai",
+      "cloud platforms",
+      "ai systems",
+      "ai solutions"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Seeking a detail-oriented professional with a background in tax, accounting, or finance to craft and edit insightful articles for US tax and legal audiences. Utilize your writing expertise and analytical skills to stay ahead of regulatory changes while enjoying a flexible work environment that prioritizes work-life balance.",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "121.0497015",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ194011",
+    "jobId": "JREQ194011",
+    "city": "Manila",
+    "latitude": "14.5348768",
+    "locale": "en_US",
+    "multi_location": [
+      "Manila, Philippines"
+    ],
+    "title": "Editor",
+    "jobSeqNo": "THTTRUUSJREQ194011EXTERNALENUS",
+    "postedDate": "2025-08-15T00:00:00.000+0000",
+    "dateCreated": "2025-08-13T16:47:03.172+0000",
+    "cityStateCountry": "Manila, Philippines",
+    "address": "20 Upper McKinley Building, Upper McKinley Road, McKinley Hill, Manila, 1634, Philippines",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/PHL-Taguig-20-Upper-McKinley-Bldg/Editor_JREQ194011-1/apply",
+    "location": "Manila, Philippines",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Seeking a detail-oriented professional with a background in tax, accounting, or finance to craft and edit insightful articles for US tax and legal audiences. Utilize your writing expertise and analytical skills to stay ahead of regulatory changes while enjoying a flexible work environment that prioritizes work-life balance.",
+      "descriptionTeaser_first200": "Editor, Product - Research. Thomson Reuters is seeking an Editor with tax/business/accountancy/financial background or work experience to write and edit current awareness content for US tax, accountin...",
+      "descriptionTeaser_keyword": "Editor, Product - Research. Thomson Reuters is seeking an Editor with tax/business/accountancy/financial background or work experience to write and edit current awareness content for US tax, accountin...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 121.0497015,
+          "lat": 14.5348768
+        },
+        "location": "Manila, Philippines"
       }
     ],
     "isMultiCategory": false,
@@ -625,75 +625,6 @@
     "badge": ""
   },
   {
-    "cityState": "Gdansk",
-    "country": "Poland",
-    "ml_skills": [
-      "erp",
-      "e-invoicing",
-      "ms office",
-      "french",
-      "ai",
-      "english",
-      "mandarin",
-      "data integration",
-      "visualization tools"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Join a dynamic team where you\u2019ll analyze global regulatory requirements, create compliance content, and collaborate on market expansions. Bring your 1-3 years of experience in e-invoicing or tax technology to drive innovation in compliance solutions and make a real-world impact.",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "18.574447",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ194007",
-    "jobId": "JREQ194007",
-    "city": "Gdansk",
-    "latitude": "54.4008848",
-    "locale": "en_US",
-    "multi_location": [
-      "Gdansk, Poland"
-    ],
-    "title": "Regulatory Associate - Pagero",
-    "jobSeqNo": "THTTRUUSJREQ194007EXTERNALENUS",
-    "postedDate": "2025-08-13T00:00:00.000+0000",
-    "dateCreated": "2025-08-13T12:42:34.985+0000",
-    "cityStateCountry": "Gdansk, Poland",
-    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/Regulatory-Associate---Pagero_JREQ194007/apply",
-    "location": "Gdansk, Poland",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Join a dynamic team where you\u2019ll analyze global regulatory requirements, create compliance content, and collaborate on market expansions. Bring your 1-3 years of experience in e-invoicing or tax technology to drive innovation in compliance solutions and make a real-world impact.",
-      "descriptionTeaser_first200": "Regulatory Associate - Pagero. Are you ready to tackle the complexities of global regulatory compliance and drive innovation in e-invoicing and tax technology? As a member of the Regulatory Affairs te...",
-      "descriptionTeaser_keyword": "Regulatory Associate - Pagero. Are you ready to tackle the complexities of global regulatory compliance and drive innovation in e-invoicing and tax technology? As a member of the Regulatory Affairs te...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 18.574447,
-          "lat": 54.4008848
-        },
-        "location": "Gdansk, Poland"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "London",
     "country": "United Kingdom",
     "ml_skills": [
@@ -814,6 +745,75 @@
           "lat": 37.57382
         },
         "location": "Korea, Republic of"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Gdansk",
+    "country": "Poland",
+    "ml_skills": [
+      "erp",
+      "e-invoicing",
+      "ms office",
+      "french",
+      "ai",
+      "english",
+      "mandarin",
+      "data integration",
+      "visualization tools"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Join a dynamic team where you\u2019ll analyze global regulatory requirements, create compliance content, and collaborate on market expansions. Bring your 1-3 years of experience in e-invoicing or tax technology to drive innovation in compliance solutions and make a real-world impact.",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "18.574447",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ194007",
+    "jobId": "JREQ194007",
+    "city": "Gdansk",
+    "latitude": "54.4008848",
+    "locale": "en_US",
+    "multi_location": [
+      "Gdansk, Poland"
+    ],
+    "title": "Regulatory Associate - Pagero",
+    "jobSeqNo": "THTTRUUSJREQ194007EXTERNALENUS",
+    "postedDate": "2025-08-13T00:00:00.000+0000",
+    "dateCreated": "2025-08-13T12:42:34.985+0000",
+    "cityStateCountry": "Gdansk, Poland",
+    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/Regulatory-Associate---Pagero_JREQ194007/apply",
+    "location": "Gdansk, Poland",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Join a dynamic team where you\u2019ll analyze global regulatory requirements, create compliance content, and collaborate on market expansions. Bring your 1-3 years of experience in e-invoicing or tax technology to drive innovation in compliance solutions and make a real-world impact.",
+      "descriptionTeaser_first200": "Regulatory Associate - Pagero. Are you ready to tackle the complexities of global regulatory compliance and drive innovation in e-invoicing and tax technology? As a member of the Regulatory Affairs te...",
+      "descriptionTeaser_keyword": "Regulatory Associate - Pagero. Are you ready to tackle the complexities of global regulatory compliance and drive innovation in e-invoicing and tax technology? As a member of the Regulatory Affairs te...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 18.574447,
+          "lat": 54.4008848
+        },
+        "location": "Gdansk, Poland"
       }
     ],
     "isMultiCategory": false,
@@ -1154,6 +1154,73 @@
     "badge": ""
   },
   {
+    "cityState": "Mumbai, Maharashtra",
+    "country": "India",
+    "ml_skills": [
+      "accounting",
+      "audits",
+      "tax law",
+      "client interactions",
+      "microsoft office",
+      "microsoft office suite",
+      "adobe acrobat"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Seeking an experienced professional to review tax forms for accuracy and compliance, prepare legal documents, and assist clients with tax resolutions. Join a dynamic team and leverage your 1-3 years of tax experience while enjoying a flexible work environment and opportunities for growth.",
+    "state": "Maharashtra",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "72.8814089",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ192916",
+    "jobId": "JREQ192916",
+    "city": "Mumbai",
+    "latitude": "19.1114368",
+    "locale": "en_US",
+    "multi_location": [
+      "Mumbai, Maharashtra, India"
+    ],
+    "title": "Sr. Tax Verifier",
+    "jobSeqNo": "THTTRUUSJREQ192916EXTERNALENUS",
+    "postedDate": "2025-08-12T00:00:00.000+0000",
+    "dateCreated": "2025-07-28T12:39:51.776+0000",
+    "cityStateCountry": "Mumbai, Maharashtra, India",
+    "address": "4th Flr, Dhantak Plaza, Makwana Road, Marol, Andheri East, Mumbai- 400059, Maharashtra, India",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Mumbai-Dhantak-Plaza/Sr-Tax-Verifier_JREQ192916-1/apply",
+    "location": "Mumbai, Maharashtra, India",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Seeking an experienced professional to review tax forms for accuracy and compliance, prepare legal documents, and assist clients with tax resolutions. Join a dynamic team and leverage your 1-3 years of tax experience while enjoying a flexible work environment and opportunities for growth.",
+      "descriptionTeaser_first200": "We are looking for an experienced Tax Verifier to join our team of professionals in Hyderabad. The successful candidate will be responsible for reviewing tax forms and documentation for accuracy and c...",
+      "descriptionTeaser_keyword": "We are looking for an experienced Tax Verifier to join our team of professionals in Hyderabad. The successful candidate will be responsible for reviewing tax forms and documentation for accuracy and c...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 72.8814089,
+          "lat": 19.1114368
+        },
+        "location": "Mumbai, Maharashtra, India"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Montreal, Quebec",
     "country": "Canada",
     "ml_skills": [
@@ -1212,73 +1279,6 @@
           "lat": 45.500284
         },
         "location": "Montreal, Quebec, Canada"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Mumbai, Maharashtra",
-    "country": "India",
-    "ml_skills": [
-      "accounting",
-      "audits",
-      "tax law",
-      "client interactions",
-      "microsoft office",
-      "microsoft office suite",
-      "adobe acrobat"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Seeking an experienced professional to review tax forms for accuracy and compliance, prepare legal documents, and assist clients with tax resolutions. Join a dynamic team and leverage your 1-3 years of tax experience while enjoying a flexible work environment and opportunities for growth.",
-    "state": "Maharashtra",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "72.8814089",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ192916",
-    "jobId": "JREQ192916",
-    "city": "Mumbai",
-    "latitude": "19.1114368",
-    "locale": "en_US",
-    "multi_location": [
-      "Mumbai, Maharashtra, India"
-    ],
-    "title": "Sr. Tax Verifier",
-    "jobSeqNo": "THTTRUUSJREQ192916EXTERNALENUS",
-    "postedDate": "2025-08-12T00:00:00.000+0000",
-    "dateCreated": "2025-07-28T12:39:51.776+0000",
-    "cityStateCountry": "Mumbai, Maharashtra, India",
-    "address": "4th Flr, Dhantak Plaza, Makwana Road, Marol, Andheri East, Mumbai- 400059, Maharashtra, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Mumbai-Dhantak-Plaza/Sr-Tax-Verifier_JREQ192916-1/apply",
-    "location": "Mumbai, Maharashtra, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Seeking an experienced professional to review tax forms for accuracy and compliance, prepare legal documents, and assist clients with tax resolutions. Join a dynamic team and leverage your 1-3 years of tax experience while enjoying a flexible work environment and opportunities for growth.",
-      "descriptionTeaser_first200": "We are looking for an experienced Tax Verifier to join our team of professionals in Hyderabad. The successful candidate will be responsible for reviewing tax forms and documentation for accuracy and c...",
-      "descriptionTeaser_keyword": "We are looking for an experienced Tax Verifier to join our team of professionals in Hyderabad. The successful candidate will be responsible for reviewing tax forms and documentation for accuracy and c...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 72.8814089,
-          "lat": 19.1114368
-        },
-        "location": "Mumbai, Maharashtra, India"
       }
     ],
     "isMultiCategory": false,
@@ -1416,70 +1416,6 @@
     "badge": ""
   },
   {
-    "cityState": "Singapore",
-    "country": "Singapore",
-    "ml_skills": [
-      "video editing",
-      "journalism",
-      "script writing",
-      "latin"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Join a dynamic team where your passion for breaking news and strong video editing skills can shine. With at least 18 months of journalism experience, you'll deliver timely coverage, coordinate global news stories, and produce compelling content under pressure. Embrace the excitement of international news!",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "103.7934252",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ193715",
-    "jobId": "JREQ193715",
-    "city": "Singapore",
-    "latitude": "1.2938457",
-    "locale": "en_US",
-    "multi_location": [
-      "Singapore, Singapore"
-    ],
-    "title": "Video Desk Producer",
-    "jobSeqNo": "THTTRUUSJREQ193715EXTERNALENUS",
-    "postedDate": "2025-08-05T00:00:00.000+0000",
-    "dateCreated": "2025-08-05T08:39:11.531+0000",
-    "cityStateCountry": "Singapore, Singapore",
-    "address": "ALICE@Mediapolis, 29 Media Circle,  #09-05, Singapore 138565, Singapore",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/SGP-Singapore-ALICEMediapolis/Video-Desk-Producer_JREQ193715/apply",
-    "location": "Singapore, Singapore",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Join a dynamic team where your passion for breaking news and strong video editing skills can shine. With at least 18 months of journalism experience, you'll deliver timely coverage, coordinate global news stories, and produce compelling content under pressure. Embrace the excitement of international news!",
-      "descriptionTeaser_first200": "Reuters is looking for a talented television news journalist to join our team in Singapore. You will help deliver breaking and planned news coverage to more than 1,000 broadcasters and hundreds of dig...",
-      "descriptionTeaser_keyword": "Reuters is looking for a talented television news journalist to join our team in Singapore. You will help deliver breaking and planned news coverage to more than 1,000 broadcasters and hundreds of dig...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 103.7934252,
-          "lat": 1.2938457
-        },
-        "location": "Singapore, Singapore"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "New York, New York",
     "country": "United States of America",
     "ml_skills": [
@@ -1544,6 +1480,70 @@
           "lat": 40.756572
         },
         "location": "New York, New York, United States of America"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Hyderabad, Telangana",
+    "country": "India",
+    "ml_skills": [
+      "tax software",
+      "industry practices",
+      "written communication skills",
+      "communication skills"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "A seasoned finance expert in US taxation with 3 + years of reviewing tax returns and looks and ways and means of improving processes involved. Strong understanding of tax concepts, industry practices,...",
+    "state": "Telangana",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "78.38589340000001",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ187042",
+    "jobId": "JREQ187042",
+    "city": "Hyderabad",
+    "latitude": "17.4367243",
+    "locale": "en_US",
+    "multi_location": [
+      "Hyderabad, Telangana, India"
+    ],
+    "title": "Tax Specialist",
+    "jobSeqNo": "THTTRUUSJREQ187042EXTERNALENUS",
+    "postedDate": "2025-08-04T00:00:00.000+0000",
+    "dateCreated": "2025-07-28T12:39:51.778+0000",
+    "cityStateCountry": "Hyderabad, Telangana, India",
+    "address": "Floor 12, 13 & 14, Building 11, Raheja Mindspace, Madhapur, Hyderabad- 500081, Telangana, India",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Hyderabad-Raheja-Mindspace/Tax-Specialist_JREQ187042/apply",
+    "location": "Hyderabad, Telangana, India",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "A seasoned finance expert in US taxation with 3 + years of reviewing tax returns and looks and ways and means of improving processes involved. Strong understanding of tax concepts, industry practices,...",
+      "descriptionTeaser_first200": "A seasoned finance expert in US taxation with 3 + years of reviewing tax returns and looks and ways and means of improving processes involved.About The Role. Bachelor\u2019s degree in Commerce or a rela...",
+      "descriptionTeaser_keyword": "A seasoned finance expert in US taxation with 3 + years of reviewing tax returns and looks and ways and means of improving processes involved. About The Role. Bachelor\u2019s degree in Commerce or a relate...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 78.38589340000001,
+          "lat": 17.4367243
+        },
+        "location": "Hyderabad, Telangana, India"
       }
     ],
     "isMultiCategory": false,
@@ -1622,48 +1622,46 @@
     "badge": ""
   },
   {
-    "cityState": "Hyderabad, Telangana",
-    "country": "India",
+    "cityState": "Mexico City",
+    "country": "Mexico",
     "ml_skills": [
-      "tax software",
-      "industry practices",
-      "written communication skills",
-      "communication skills"
+      "verbal communication",
+      "technical skills"
     ],
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "A seasoned finance expert in US taxation with 3 + years of reviewing tax returns and looks and ways and means of improving processes involved. Strong understanding of tax concepts, industry practices,...",
-    "state": "Telangana",
+    "descriptionTeaser": "Analyst \u2013 Global Trade Content. In this opportunity as a Analyst \u2013 Global Trade Content, you will be responsible to. Research Trade Content Online for various countries from authorized Government Webs...",
+    "state": "",
     "visibilityType": "External",
     "siteType": "external",
-    "longitude": "78.38589340000001",
+    "longitude": "-99.15156759999999",
     "multi_category": [
       "News & Editorial Careers"
     ],
-    "reqId": "JREQ187042",
-    "jobId": "JREQ187042",
-    "city": "Hyderabad",
-    "latitude": "17.4367243",
+    "reqId": "JREQ193359",
+    "jobId": "JREQ193359",
+    "city": "Mexico City",
+    "latitude": "19.4342738",
     "locale": "en_US",
     "multi_location": [
-      "Hyderabad, Telangana, India"
+      "Mexico City, Mexico"
     ],
-    "title": "Tax Specialist",
-    "jobSeqNo": "THTTRUUSJREQ187042EXTERNALENUS",
-    "postedDate": "2025-08-04T00:00:00.000+0000",
-    "dateCreated": "2025-07-28T12:39:51.778+0000",
-    "cityStateCountry": "Hyderabad, Telangana, India",
-    "address": "Floor 12, 13 & 14, Building 11, Raheja Mindspace, Madhapur, Hyderabad- 500081, Telangana, India",
+    "title": "Analyst - Global Trade Content",
+    "jobSeqNo": "THTTRUUSJREQ193359EXTERNALENUS",
+    "postedDate": "2025-08-01T00:00:00.000+0000",
+    "dateCreated": "2025-07-25T20:36:32.205+0000",
+    "cityStateCountry": "Mexico City, Mexico",
+    "address": "Av. Paseo de la Reforma #26, Floor 36th, Colonia Ju\u00e1rez, Cuauht\u00e9moc, 06600 Mexico City, Mexico",
     "jobVisibility": [
       "external"
     ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Hyderabad-Raheja-Mindspace/Tax-Specialist_JREQ187042/apply",
-    "location": "Hyderabad, Telangana, India",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/MEX-Distrito-Federal-Reforma-26/Analyst---Global-Trade-Content_JREQ193359/apply",
+    "location": "Mexico City, Mexico",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "A seasoned finance expert in US taxation with 3 + years of reviewing tax returns and looks and ways and means of improving processes involved. Strong understanding of tax concepts, industry practices,...",
-      "descriptionTeaser_first200": "A seasoned finance expert in US taxation with 3 + years of reviewing tax returns and looks and ways and means of improving processes involved.About The Role. Bachelor\u2019s degree in Commerce or a rela...",
-      "descriptionTeaser_keyword": "A seasoned finance expert in US taxation with 3 + years of reviewing tax returns and looks and ways and means of improving processes involved. About The Role. Bachelor\u2019s degree in Commerce or a relate...",
+      "descriptionTeaser": "Analyst \u2013 Global Trade Content. In this opportunity as a Analyst \u2013 Global Trade Content, you will be responsible to. Research Trade Content Online for various countries from authorized Government Webs...",
+      "descriptionTeaser_first200": "Analyst \u2013 Global Trade Content. Are you passionate about the chance to bring your experience to a world-class company that is market-leading for both content and technology? If yes, we are looking ...",
+      "descriptionTeaser_keyword": "Analyst \u2013 Global Trade Content. Are you passionate about the chance to bring your experience to a world-class company that is market-leading for both content and technology? If yes, we are looking for...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
@@ -1671,10 +1669,10 @@
     "multi_location_array": [
       {
         "latlong": {
-          "lon": 78.38589340000001,
-          "lat": 17.4367243
+          "lon": -99.15156759999999,
+          "lat": 19.4342738
         },
-        "location": "Hyderabad, Telangana, India"
+        "location": "Mexico City, Mexico"
       }
     ],
     "isMultiCategory": false,
@@ -1736,68 +1734,6 @@
           "lat": 51.5056439
         },
         "location": "London, United Kingdom"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Mexico City",
-    "country": "Mexico",
-    "ml_skills": [
-      "verbal communication",
-      "technical skills"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Analyst \u2013 Global Trade Content. In this opportunity as a Analyst \u2013 Global Trade Content, you will be responsible to. Research Trade Content Online for various countries from authorized Government Webs...",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-99.15156759999999",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ193359",
-    "jobId": "JREQ193359",
-    "city": "Mexico City",
-    "latitude": "19.4342738",
-    "locale": "en_US",
-    "multi_location": [
-      "Mexico City, Mexico"
-    ],
-    "title": "Analyst - Global Trade Content",
-    "jobSeqNo": "THTTRUUSJREQ193359EXTERNALENUS",
-    "postedDate": "2025-08-01T00:00:00.000+0000",
-    "dateCreated": "2025-07-25T20:36:32.205+0000",
-    "cityStateCountry": "Mexico City, Mexico",
-    "address": "Av. Paseo de la Reforma #26, Floor 36th, Colonia Ju\u00e1rez, Cuauht\u00e9moc, 06600 Mexico City, Mexico",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/MEX-Distrito-Federal-Reforma-26/Analyst---Global-Trade-Content_JREQ193359/apply",
-    "location": "Mexico City, Mexico",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Analyst \u2013 Global Trade Content. In this opportunity as a Analyst \u2013 Global Trade Content, you will be responsible to. Research Trade Content Online for various countries from authorized Government Webs...",
-      "descriptionTeaser_first200": "Analyst \u2013 Global Trade Content. Are you passionate about the chance to bring your experience to a world-class company that is market-leading for both content and technology? If yes, we are looking ...",
-      "descriptionTeaser_keyword": "Analyst \u2013 Global Trade Content. Are you passionate about the chance to bring your experience to a world-class company that is market-leading for both content and technology? If yes, we are looking for...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -99.15156759999999,
-          "lat": 19.4342738
-        },
-        "location": "Mexico City, Mexico"
       }
     ],
     "isMultiCategory": false,
@@ -2431,6 +2367,67 @@
     "badge": ""
   },
   {
+    "cityState": "Hyderabad, Telangana",
+    "country": "India",
+    "ml_skills": [
+      "search"
+    ],
+    "remote": "On-Site",
+    "type": "Full time",
+    "descriptionTeaser": "Are you looking for a role where you can design and prepare legal and tax forms while ensuring accuracy and compliance? Join a team that values flexibility, work-life balance, and career growth, all while making a real-world impact in the pursuit of justice and transparency.",
+    "state": "Telangana",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "78.38589340000001",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ183413",
+    "jobId": "JREQ183413",
+    "city": "Hyderabad",
+    "latitude": "17.4367243",
+    "locale": "en_US",
+    "multi_location": [
+      "Hyderabad, Telangana, India"
+    ],
+    "title": "Process Associate",
+    "jobSeqNo": "THTTRUUSJREQ183413EXTERNALENUS",
+    "postedDate": "2025-07-28T00:00:00.000+0000",
+    "dateCreated": "2025-07-28T12:39:51.772+0000",
+    "cityStateCountry": "Hyderabad, Telangana, India",
+    "address": "Floor 12, 13 & 14, Building 11, Raheja Mindspace, Madhapur, Hyderabad- 500081, Telangana, India",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Hyderabad-Raheja-Mindspace/Process-Associate_JREQ183413/apply",
+    "location": "Hyderabad, Telangana, India",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Are you looking for a role where you can design and prepare legal and tax forms while ensuring accuracy and compliance? Join a team that values flexibility, work-life balance, and career growth, all while making a real-world impact in the pursuit of justice and transparency.",
+      "descriptionTeaser_first200": "Assists in the creation, design, preparation and delivery of legal and/or tax forms and information for use in various media platforms. About the Role. Captures and keys data from tax and/or legal sit...",
+      "descriptionTeaser_keyword": "Assists in the creation, design, preparation and delivery of legal and/or tax forms and information for use in various media platforms. About the Role. Captures and keys data from tax and/or legal sit...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 78.38589340000001,
+          "lat": 17.4367243
+        },
+        "location": "Hyderabad, Telangana, India"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Frisco, Texas",
     "country": "United States of America",
     "ml_skills": [
@@ -2586,67 +2583,6 @@
     "badge": ""
   },
   {
-    "cityState": "Hyderabad, Telangana",
-    "country": "India",
-    "ml_skills": [
-      "search"
-    ],
-    "remote": "On-Site",
-    "type": "Full time",
-    "descriptionTeaser": "Are you looking for a role where you can design and prepare legal and tax forms while ensuring accuracy and compliance? Join a team that values flexibility, work-life balance, and career growth, all while making a real-world impact in the pursuit of justice and transparency.",
-    "state": "Telangana",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "78.38589340000001",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ183413",
-    "jobId": "JREQ183413",
-    "city": "Hyderabad",
-    "latitude": "17.4367243",
-    "locale": "en_US",
-    "multi_location": [
-      "Hyderabad, Telangana, India"
-    ],
-    "title": "Process Associate",
-    "jobSeqNo": "THTTRUUSJREQ183413EXTERNALENUS",
-    "postedDate": "2025-07-28T00:00:00.000+0000",
-    "dateCreated": "2025-07-28T12:39:51.772+0000",
-    "cityStateCountry": "Hyderabad, Telangana, India",
-    "address": "Floor 12, 13 & 14, Building 11, Raheja Mindspace, Madhapur, Hyderabad- 500081, Telangana, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Hyderabad-Raheja-Mindspace/Process-Associate_JREQ183413/apply",
-    "location": "Hyderabad, Telangana, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Are you looking for a role where you can design and prepare legal and tax forms while ensuring accuracy and compliance? Join a team that values flexibility, work-life balance, and career growth, all while making a real-world impact in the pursuit of justice and transparency.",
-      "descriptionTeaser_first200": "Assists in the creation, design, preparation and delivery of legal and/or tax forms and information for use in various media platforms. About the Role. Captures and keys data from tax and/or legal sit...",
-      "descriptionTeaser_keyword": "Assists in the creation, design, preparation and delivery of legal and/or tax forms and information for use in various media platforms. About the Role. Captures and keys data from tax and/or legal sit...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 78.38589340000001,
-          "lat": 17.4367243
-        },
-        "location": "Hyderabad, Telangana, India"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Bengaluru, Karnataka",
     "country": "India",
     "ml_skills": [
@@ -2771,51 +2707,48 @@
     "badge": ""
   },
   {
-    "cityState": "Toronto, Ontario",
-    "country": "Canada",
+    "cityState": "Manila",
+    "country": "Philippines",
     "ml_skills": [
-      "corporate law",
-      "drafting skills",
-      "bankruptcy",
-      "ai",
-      "product development",
-      "technical support",
-      "model performance"
+      "westlaw",
+      "legal research",
+      "french",
+      "pivot"
     ],
-    "remote": "Remote",
+    "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "Develop and maintain insolvency and restructuring legal-know how content to be published on Practical Law\u2019s online services. Help set the strategic direction and drive the content plan for Practical L...",
-    "state": "Ontario",
+    "descriptionTeaser": "We are looking for detail-oriented legal professionals with strong analytical and writing skills to conduct research, analyze legal materials, and collaborate globally. If you thrive in a dynamic environment and are passionate about delivering top-quality legal content, this opportunity is for you!",
+    "state": "",
     "visibilityType": "External",
     "siteType": "external",
-    "longitude": "-79.3884094",
+    "longitude": "121.0497015",
     "multi_category": [
       "News & Editorial Careers"
     ],
-    "reqId": "JREQ192397",
-    "jobId": "JREQ192397",
-    "city": "Toronto",
-    "latitude": "43.6480117",
+    "reqId": "JREQ193393",
+    "jobId": "JREQ193393",
+    "city": "Manila",
+    "latitude": "14.5348768",
     "locale": "en_US",
     "multi_location": [
-      "Toronto, Ontario, Canada"
+      "Manila, Philippines"
     ],
-    "title": "Senior Lawyer Editor - PL Canada - Insolvency/Restructuring",
-    "jobSeqNo": "THTTRUUSJREQ192397EXTERNALENUS",
+    "title": "Attorney Editor - French Bilingual",
+    "jobSeqNo": "THTTRUUSJREQ193393EXTERNALENUS",
     "postedDate": "2025-07-22T00:00:00.000+0000",
-    "dateCreated": "2025-06-24T20:42:47.999+0000",
-    "cityStateCountry": "Toronto, Ontario, Canada",
-    "address": "19 Duncan Street, Toronto, ON M5H 3H1, Canada",
+    "dateCreated": "2025-07-22T08:37:59.018+0000",
+    "cityStateCountry": "Manila, Philippines",
+    "address": "20 Upper McKinley Building, Upper McKinley Road, McKinley Hill, Manila, 1634, Philippines",
     "jobVisibility": [
       "external"
     ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CAN-Toronto-19-Duncan-Street/Senior-Lawyer-Editor---PL-Canada---Insolvency-Restructuring_JREQ192397/apply",
-    "location": "Toronto, Ontario, Canada",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/PHL-Taguig-20-Upper-McKinley-Bldg/Attorney-Editor---French-Bilingual_JREQ193393/apply",
+    "location": "Manila, Philippines",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "Develop and maintain insolvency and restructuring legal-know how content to be published on Practical Law\u2019s online services. Help set the strategic direction and drive the content plan for Practical L...",
-      "descriptionTeaser_first200": "Practical Law Canada - Insolvency & Restructuring Senior Specialist Legal Editor. Role Summary. Practical Law Canada is looking for an Insolvency & Restructuring Editor who has a passion for resear...",
-      "descriptionTeaser_keyword": "Practical Law Canada - Insolvency & Restructuring Senior Specialist Legal Editor. Role Summary. Practical Law Canada is looking for an Insolvency & Restructuring Editor who has a passion for research...",
+      "descriptionTeaser": "We are looking for detail-oriented legal professionals with strong analytical and writing skills to conduct research, analyze legal materials, and collaborate globally. If you thrive in a dynamic environment and are passionate about delivering top-quality legal content, this opportunity is for you!",
+      "descriptionTeaser_first200": "Attorney Editor - Primary Law Editorial. Primary Law Attorney Editors are responsible for legal research, analysis, and writing to support the development and maintenance of Thomson Reuters\u2019 legal inf...",
+      "descriptionTeaser_keyword": "Attorney Editor - Primary Law Editorial. Primary Law Attorney Editors are responsible for legal research, analysis, and writing to support the development and maintenance of Thomson Reuters\u2019 legal inf...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
@@ -2823,10 +2756,84 @@
     "multi_location_array": [
       {
         "latlong": {
-          "lon": -79.3884094,
-          "lat": 43.6480117
+          "lon": 121.0497015,
+          "lat": 14.5348768
         },
-        "location": "Toronto, Ontario, Canada"
+        "location": "Manila, Philippines"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Willingham, Cambridgeshire",
+    "country": "United Kingdom",
+    "ml_skills": [
+      "software development",
+      "certified scrum master",
+      "release management",
+      "agile environment",
+      "user stories",
+      "project management",
+      "azure devops",
+      "backlog",
+      "lucidchart",
+      "product specifications",
+      "user story mapping",
+      "git/github",
+      "product development",
+      "account management"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Are you looking for a role where you can bridge the gap between product development and client needs? Join a dynamic team to craft user stories, manage requirements, and enhance project delivery in an Agile environment. Bring your analytical skills and collaborative spirit to drive impactful solutions.",
+    "state": "Cambridgeshire",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.037714",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ193415",
+    "jobId": "JREQ193415",
+    "city": "Willingham",
+    "latitude": "52.0834748",
+    "locale": "en_US",
+    "multi_location": [
+      "Willingham, Cambridgeshire, United Kingdom"
+    ],
+    "title": "Agile Business Analyst - Reuters Imagen",
+    "jobSeqNo": "THTTRUUSJREQ193415EXTERNALENUS",
+    "postedDate": "2025-07-22T00:00:00.000+0000",
+    "dateCreated": "2025-07-22T16:37:27.135+0000",
+    "cityStateCountry": "Willingham, Cambridgeshire, United Kingdom",
+    "address": "1 Grange Court, Covent Garden, Willingham, Cambridgeshire, CB24 5AH, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-Willingham-1-Grange-Court/Agile-Business-Analyst---Reuters-Imagen_JREQ193415/apply",
+    "location": "Willingham, Cambridgeshire, United Kingdom",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Are you looking for a role where you can bridge the gap between product development and client needs? Join a dynamic team to craft user stories, manage requirements, and enhance project delivery in an Agile environment. Bring your analytical skills and collaborative spirit to drive impactful solutions.",
+      "descriptionTeaser_first200": "Imagen helps sports and media companies manage and distribute their ever-growing video libraries, enabling fast, easy, secure and controlled access to content through a highly customisable content por...",
+      "descriptionTeaser_keyword": "Imagen helps sports and media companies manage and distribute their ever-growing video libraries, enabling fast, easy, secure and controlled access to content through a highly customisable content por...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.037714,
+          "lat": 52.0834748
+        },
+        "location": "Willingham, Cambridgeshire, United Kingdom"
       }
     ],
     "isMultiCategory": false,
@@ -2926,58 +2933,51 @@
     "badge": ""
   },
   {
-    "cityState": "Willingham, Cambridgeshire",
-    "country": "United Kingdom",
+    "cityState": "Toronto, Ontario",
+    "country": "Canada",
     "ml_skills": [
-      "software development",
-      "certified scrum master",
-      "release management",
-      "agile environment",
-      "user stories",
-      "project management",
-      "azure devops",
-      "backlog",
-      "lucidchart",
-      "product specifications",
-      "user story mapping",
-      "git/github",
+      "corporate law",
+      "drafting skills",
+      "bankruptcy",
+      "ai",
       "product development",
-      "account management"
+      "technical support",
+      "model performance"
     ],
-    "remote": "Hybrid",
+    "remote": "Remote",
     "type": "Full time",
-    "descriptionTeaser": "Are you looking for a role where you can bridge the gap between product development and client needs? Join a dynamic team to craft user stories, manage requirements, and enhance project delivery in an Agile environment. Bring your analytical skills and collaborative spirit to drive impactful solutions.",
-    "state": "Cambridgeshire",
+    "descriptionTeaser": "Develop and maintain insolvency and restructuring legal-know how content to be published on Practical Law\u2019s online services. Help set the strategic direction and drive the content plan for Practical L...",
+    "state": "Ontario",
     "visibilityType": "External",
     "siteType": "external",
-    "longitude": "-0.037714",
+    "longitude": "-79.3884094",
     "multi_category": [
       "News & Editorial Careers"
     ],
-    "reqId": "JREQ193415",
-    "jobId": "JREQ193415",
-    "city": "Willingham",
-    "latitude": "52.0834748",
+    "reqId": "JREQ192397",
+    "jobId": "JREQ192397",
+    "city": "Toronto",
+    "latitude": "43.6480117",
     "locale": "en_US",
     "multi_location": [
-      "Willingham, Cambridgeshire, United Kingdom"
+      "Toronto, Ontario, Canada"
     ],
-    "title": "Agile Business Analyst - Reuters Imagen",
-    "jobSeqNo": "THTTRUUSJREQ193415EXTERNALENUS",
+    "title": "Senior Lawyer Editor - PL Canada - Insolvency/Restructuring",
+    "jobSeqNo": "THTTRUUSJREQ192397EXTERNALENUS",
     "postedDate": "2025-07-22T00:00:00.000+0000",
-    "dateCreated": "2025-07-22T16:37:27.135+0000",
-    "cityStateCountry": "Willingham, Cambridgeshire, United Kingdom",
-    "address": "1 Grange Court, Covent Garden, Willingham, Cambridgeshire, CB24 5AH, United Kingdom",
+    "dateCreated": "2025-06-24T20:42:47.999+0000",
+    "cityStateCountry": "Toronto, Ontario, Canada",
+    "address": "19 Duncan Street, Toronto, ON M5H 3H1, Canada",
     "jobVisibility": [
       "external"
     ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-Willingham-1-Grange-Court/Agile-Business-Analyst---Reuters-Imagen_JREQ193415/apply",
-    "location": "Willingham, Cambridgeshire, United Kingdom",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CAN-Toronto-19-Duncan-Street/Senior-Lawyer-Editor---PL-Canada---Insolvency-Restructuring_JREQ192397/apply",
+    "location": "Toronto, Ontario, Canada",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "Are you looking for a role where you can bridge the gap between product development and client needs? Join a dynamic team to craft user stories, manage requirements, and enhance project delivery in an Agile environment. Bring your analytical skills and collaborative spirit to drive impactful solutions.",
-      "descriptionTeaser_first200": "Imagen helps sports and media companies manage and distribute their ever-growing video libraries, enabling fast, easy, secure and controlled access to content through a highly customisable content por...",
-      "descriptionTeaser_keyword": "Imagen helps sports and media companies manage and distribute their ever-growing video libraries, enabling fast, easy, secure and controlled access to content through a highly customisable content por...",
+      "descriptionTeaser": "Develop and maintain insolvency and restructuring legal-know how content to be published on Practical Law\u2019s online services. Help set the strategic direction and drive the content plan for Practical L...",
+      "descriptionTeaser_first200": "Practical Law Canada - Insolvency & Restructuring Senior Specialist Legal Editor. Role Summary. Practical Law Canada is looking for an Insolvency & Restructuring Editor who has a passion for resear...",
+      "descriptionTeaser_keyword": "Practical Law Canada - Insolvency & Restructuring Senior Specialist Legal Editor. Role Summary. Practical Law Canada is looking for an Insolvency & Restructuring Editor who has a passion for research...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
@@ -2985,74 +2985,10 @@
     "multi_location_array": [
       {
         "latlong": {
-          "lon": -0.037714,
-          "lat": 52.0834748
+          "lon": -79.3884094,
+          "lat": 43.6480117
         },
-        "location": "Willingham, Cambridgeshire, United Kingdom"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Manila",
-    "country": "Philippines",
-    "ml_skills": [
-      "westlaw",
-      "legal research",
-      "french",
-      "pivot"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "We are looking for detail-oriented legal professionals with strong analytical and writing skills to conduct research, analyze legal materials, and collaborate globally. If you thrive in a dynamic environment and are passionate about delivering top-quality legal content, this opportunity is for you!",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "121.0497015",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ193393",
-    "jobId": "JREQ193393",
-    "city": "Manila",
-    "latitude": "14.5348768",
-    "locale": "en_US",
-    "multi_location": [
-      "Manila, Philippines"
-    ],
-    "title": "Attorney Editor - French Bilingual",
-    "jobSeqNo": "THTTRUUSJREQ193393EXTERNALENUS",
-    "postedDate": "2025-07-22T00:00:00.000+0000",
-    "dateCreated": "2025-07-22T08:37:59.018+0000",
-    "cityStateCountry": "Manila, Philippines",
-    "address": "20 Upper McKinley Building, Upper McKinley Road, McKinley Hill, Manila, 1634, Philippines",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/PHL-Taguig-20-Upper-McKinley-Bldg/Attorney-Editor---French-Bilingual_JREQ193393/apply",
-    "location": "Manila, Philippines",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "We are looking for detail-oriented legal professionals with strong analytical and writing skills to conduct research, analyze legal materials, and collaborate globally. If you thrive in a dynamic environment and are passionate about delivering top-quality legal content, this opportunity is for you!",
-      "descriptionTeaser_first200": "Attorney Editor - Primary Law Editorial. Primary Law Attorney Editors are responsible for legal research, analysis, and writing to support the development and maintenance of Thomson Reuters\u2019 legal inf...",
-      "descriptionTeaser_keyword": "Attorney Editor - Primary Law Editorial. Primary Law Attorney Editors are responsible for legal research, analysis, and writing to support the development and maintenance of Thomson Reuters\u2019 legal inf...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 121.0497015,
-          "lat": 14.5348768
-        },
-        "location": "Manila, Philippines"
+        "location": "Toronto, Ontario, Canada"
       }
     ],
     "isMultiCategory": false,
