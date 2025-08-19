@@ -121,6 +121,81 @@
     "badge": ""
   },
   {
+    "cityState": "Eagan, Minnesota",
+    "country": "United States of America",
+    "ml_skills": [],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Are you looking for a dynamic role where you can research and craft insightful legal analysis articles? Join a team that values superior writing skills and a keen eye for detail, while engaging with the legal community on current developments in corporate transactions and regulations.",
+    "state": "Minnesota",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-93.108761",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ192776",
+    "jobId": "JREQ192776",
+    "city": "Eagan",
+    "latitude": "44.851884",
+    "locale": "en_US",
+    "multi_location": [
+      "Eagan, Minnesota, United States of America",
+      "New York, New York, United States of America",
+      "Washington, District of Columbia, United States of America"
+    ],
+    "title": "Editor/Attorney Editor for Westlaw Today",
+    "jobSeqNo": "THTTRUUSJREQ192776EXTERNALENUS",
+    "postedDate": "2025-08-19T00:00:00.000+0000",
+    "dateCreated": "2025-07-07T20:39:43.103+0000",
+    "cityStateCountry": "Eagan, Minnesota, United States of America",
+    "address": "2900 Ames Crossing Road, Ste 100, Eagan, MN 55121, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MSP-2900-Ames-Crossing-Road/Editor-Attorney-Editor-for-Westlaw-Today_JREQ192776-1/apply",
+    "location": "Eagan, Minnesota, United States of America",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Are you looking for a dynamic role where you can research and craft insightful legal analysis articles? Join a team that values superior writing skills and a keen eye for detail, while engaging with the legal community on current developments in corporate transactions and regulations.",
+      "descriptionTeaser_first200": "Editor/Attorney Editor for Westlaw Today. Role Summary. Thomson Reuters is seeking an Editor/Attorney Editor to write and edit current awareness content for Westlaw Today for legal practitioners ac...",
+      "descriptionTeaser_keyword": "Editor/Attorney Editor for Westlaw Today. Role Summary. Thomson Reuters is seeking an Editor/Attorney Editor to write and edit current awareness content for Westlaw Today for legal practitioners acros...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -93.108761,
+          "lat": 44.851884
+        },
+        "location": "Eagan, Minnesota, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -73.9867,
+          "lat": 40.756696
+        },
+        "location": "New York, New York, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -77.0311952,
+          "lat": 38.9004793
+        },
+        "location": "Washington, District of Columbia, United States of America"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Manila",
     "country": "Philippines",
     "ml_skills": [
@@ -251,88 +326,6 @@
           "lat": 14.5348768
         },
         "location": "Manila, Philippines"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "New York, New York",
-    "country": "United States of America",
-    "ml_skills": [
-      "westlaw",
-      "legal research",
-      "proview",
-      "content delivery",
-      "microsoft office 365",
-      "ai solutions"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Join a dynamic team to create and maintain high-quality legal content across various platforms. Utilize your legal expertise and editorial skills to manage relationships, stay ahead of trends, and deliver timely, accurate commentary. Enjoy a hybrid work model and opportunities for professional growth.",
-    "state": "New York",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-73.9867",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ191618",
-    "jobId": "JREQ191618",
-    "city": "New York",
-    "latitude": "40.756696",
-    "locale": "en_US",
-    "multi_location": [
-      "New York, New York, United States of America",
-      "Frisco, Texas, United States of America",
-      "Eagan, Minnesota, United States of America"
-    ],
-    "title": "Attorney Editor, US Legal Commentary",
-    "jobSeqNo": "THTTRUUSJREQ191618EXTERNALENUS",
-    "postedDate": "2025-08-15T00:00:00.000+0000",
-    "dateCreated": "2025-06-30T20:43:51.587+0000",
-    "cityStateCountry": "New York, New York, United States of America",
-    "address": "3 Times Square, New York, NY 10036, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-New-York-3-Times-Square/Attorney-Editor--US-Legal-Commentary_JREQ191618-1/apply",
-    "location": "New York, New York, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Join a dynamic team to create and maintain high-quality legal content across various platforms. Utilize your legal expertise and editorial skills to manage relationships, stay ahead of trends, and deliver timely, accurate commentary. Enjoy a hybrid work model and opportunities for professional growth.",
-      "descriptionTeaser_first200": "Attorney Editor, US Legal Commentary. Role Summary. Join our Global Legal Commentary team to source, create, edit, and maintain high-quality legal content for platforms like Westlaw, print, and Provie...",
-      "descriptionTeaser_keyword": "Attorney Editor, US Legal Commentary. Role Summary. Join our Global Legal Commentary team to source, create, edit, and maintain high-quality legal content for platforms like Westlaw, print, and Provie...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -73.9867,
-          "lat": 40.756696
-        },
-        "location": "New York, New York, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -96.833296,
-          "lat": 33.107199
-        },
-        "location": "Frisco, Texas, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -93.108761,
-          "lat": 44.851884
-        },
-        "location": "Eagan, Minnesota, United States of America"
       }
     ],
     "isMultiCategory": false,
@@ -1996,90 +1989,6 @@
           "lat": 14.5348768
         },
         "location": "Manila, Philippines"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "New York, New York",
-    "country": "United States of America",
-    "ml_skills": [
-      "journalism",
-      "corporate finance",
-      "product development",
-      "legal analysis",
-      "bankruptcy",
-      "legal research",
-      "westlaw",
-      "ai"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Are you looking for a dynamic role where you can research and craft insightful legal analysis articles? Join a team that values superior writing skills and a keen eye for detail, while engaging with the legal community on current developments in corporate transactions and regulations.",
-    "state": "New York",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-73.9870076",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ192776",
-    "jobId": "JREQ192776",
-    "city": "New York",
-    "latitude": "40.756572",
-    "locale": "en_US",
-    "multi_location": [
-      "New York, New York, United States of America",
-      "Eagan, Minnesota, United States of America",
-      "Washington, District of Columbia, United States of America"
-    ],
-    "title": "Editor/Attorney Editor for Westlaw Today",
-    "jobSeqNo": "THTTRUUSJREQ192776EXTERNALENUS",
-    "postedDate": "2025-07-29T00:00:00.000+0000",
-    "dateCreated": "2025-07-07T20:39:43.103+0000",
-    "cityStateCountry": "New York, New York, United States of America",
-    "address": "3 Times Square, New York, NY 10036, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-New-York-3-Times-Square/Editor-Attorney-Editor-for-Westlaw-Today_JREQ192776-1/apply",
-    "location": "New York, New York, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Are you looking for a dynamic role where you can research and craft insightful legal analysis articles? Join a team that values superior writing skills and a keen eye for detail, while engaging with the legal community on current developments in corporate transactions and regulations.",
-      "descriptionTeaser_first200": "Editor/Attorney Editor for Westlaw Today. Role Summary. Thomson Reuters is seeking an Editor/Attorney Editor to write and edit current awareness content for Westlaw Today for legal practitioners acros...",
-      "descriptionTeaser_keyword": "Editor/Attorney Editor for Westlaw Today. Role Summary. Thomson Reuters is seeking an Editor/Attorney Editor to write and edit current awareness content for Westlaw Today for legal practitioners acros...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -73.9870076,
-          "lat": 40.756572
-        },
-        "location": "New York, New York, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -93.10793129999999,
-          "lat": 44.8524402
-        },
-        "location": "Eagan, Minnesota, United States of America"
-      },
-      {
-        "latlong": {
-          "lon": -77.0311952,
-          "lat": 38.9004793
-        },
-        "location": "Washington, District of Columbia, United States of America"
       }
     ],
     "isMultiCategory": false,
