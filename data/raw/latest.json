@@ -1,70 +1,5 @@
 [
   {
-    "ml_skills": [
-      "journalism",
-      "photography",
-      "adobe photoshop",
-      "english",
-      "english language"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Are you looking for an exciting opportunity to enhance your journalism career? Join a dynamic global team as you edit and deliver compelling news images. Utilize your photography knowledge and sharp editing skills to contribute to breaking stories while collaborating with top industry professionals in a fast-paced environment.",
-    "state": "",
-    "siteType": "external",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ192653",
-    "city": "Gdansk",
-    "latitude": "54.4008848",
-    "multi_location": [
-      "Gdansk, Poland"
-    ],
-    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/Associate-Picture-Editor--Global-Pictures-Desk_JREQ192653/apply",
-    "ml_job_parser": {
-      "descriptionTeaser": "Are you looking for an exciting opportunity to enhance your journalism career? Join a dynamic global team as you edit and deliver compelling news images. Utilize your photography knowledge and sharp editing skills to contribute to breaking stories while collaborating with top industry professionals in a fast-paced environment.",
-      "descriptionTeaser_first200": "Reuters is looking for an enthusiastic journalist with advanced English and a sharp eye for detail who can effortlessly sift through the thousands of photos our photographers shoot every day. You w...",
-      "descriptionTeaser_keyword": "Reuters is looking for an enthusiastic journalist with advanced English and a sharp eye for detail who can effortlessly sift through the thousands of photos our photographers shoot every day. You will...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "cityState": "Gdansk",
-    "country": "Poland",
-    "visibilityType": "External",
-    "longitude": "18.574447",
-    "jobId": "JREQ192653",
-    "locale": "en_US",
-    "title": "Associate Picture Editor, Global Pictures Desk",
-    "jobSeqNo": "THTTRUUSJREQ192653EXTERNALENUS",
-    "postedDate": "2025-08-26T00:00:00.000+0000",
-    "dateCreated": "2025-06-25T16:40:02.210+0000",
-    "cityStateCountry": "Gdansk, Poland",
-    "jobVisibility": [
-      "external"
-    ],
-    "location": "Gdansk, Poland",
-    "category": "News & Editorial Careers",
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 18.574447,
-          "lat": 54.4008848
-        },
-        "location": "Gdansk, Poland"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Hyderabad, Telangana",
     "country": "India",
     "ml_skills": [
@@ -120,6 +55,71 @@
           "lat": 17.4383157
         },
         "location": "Hyderabad, Telangana, India"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "ml_skills": [
+      "journalism",
+      "photography",
+      "adobe photoshop",
+      "english",
+      "english language"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Are you looking for an exciting opportunity to enhance your journalism career? Join a dynamic global team as you edit and deliver compelling news images. Utilize your photography knowledge and sharp editing skills to contribute to breaking stories while collaborating with top industry professionals in a fast-paced environment.",
+    "state": "",
+    "siteType": "external",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ192653",
+    "city": "Gdansk",
+    "latitude": "54.4008848",
+    "multi_location": [
+      "Gdansk, Poland"
+    ],
+    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/Associate-Picture-Editor--Global-Pictures-Desk_JREQ192653/apply",
+    "ml_job_parser": {
+      "descriptionTeaser": "Are you looking for an exciting opportunity to enhance your journalism career? Join a dynamic global team as you edit and deliver compelling news images. Utilize your photography knowledge and sharp editing skills to contribute to breaking stories while collaborating with top industry professionals in a fast-paced environment.",
+      "descriptionTeaser_first200": "Reuters is looking for an enthusiastic journalist with advanced English and a sharp eye for detail who can effortlessly sift through the thousands of photos our photographers shoot every day. You w...",
+      "descriptionTeaser_keyword": "Reuters is looking for an enthusiastic journalist with advanced English and a sharp eye for detail who can effortlessly sift through the thousands of photos our photographers shoot every day. You will...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "cityState": "Gdansk",
+    "country": "Poland",
+    "visibilityType": "External",
+    "longitude": "18.574447",
+    "jobId": "JREQ192653",
+    "locale": "en_US",
+    "title": "Associate Picture Editor, Global Pictures Desk",
+    "jobSeqNo": "THTTRUUSJREQ192653EXTERNALENUS",
+    "postedDate": "2025-08-26T00:00:00.000+0000",
+    "dateCreated": "2025-06-25T16:40:02.210+0000",
+    "cityStateCountry": "Gdansk, Poland",
+    "jobVisibility": [
+      "external"
+    ],
+    "location": "Gdansk, Poland",
+    "category": "News & Editorial Careers",
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 18.574447,
+          "lat": 54.4008848
+        },
+        "location": "Gdansk, Poland"
       }
     ],
     "isMultiCategory": false,
