@@ -515,6 +515,71 @@
     "badge": ""
   },
   {
+    "cityState": "London",
+    "country": "United Kingdom",
+    "ml_skills": [
+      "storytelling",
+      "journalism",
+      "visual storytelling",
+      "investigative reporting",
+      "accuracy"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Join a dynamic team where your innovative storytelling and investigative prowess will shine. Collaborate with top journalists to produce impactful documentaries, leveraging data and diverse media. Shape compelling narratives that captivate audiences and redefine multi-platform journalism. Your vision could transform the future of investigative reporting!",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.0185088",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ194221",
+    "jobId": "JREQ194221",
+    "city": "London",
+    "latitude": "51.5056439",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom"
+    ],
+    "title": "Documentary Investigations Editor, Reuters",
+    "jobSeqNo": "THTTRUUSJREQ194221EXTERNALENUS",
+    "postedDate": "2025-09-05T00:00:00.000+0000",
+    "dateCreated": "2025-09-04T12:37:39.969+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Documentary-Investigations-Editor--Reuters_JREQ194221/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Join a dynamic team where your innovative storytelling and investigative prowess will shine. Collaborate with top journalists to produce impactful documentaries, leveraging data and diverse media. Shape compelling narratives that captivate audiences and redefine multi-platform journalism. Your vision could transform the future of investigative reporting!",
+      "descriptionTeaser_first200": "Documentary Investigations Editor, Reuters. This position will be based in London, UK. Reuters seeks a visionary and innovative editor to drive its prize-winning investigative and explanatory journali...",
+      "descriptionTeaser_keyword": "Documentary Investigations Editor, Reuters. This position will be based in London, UK. Reuters seeks a visionary and innovative editor to drive its prize-winning investigative and explanatory journali...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.0185088,
+          "lat": 51.5056439
+        },
+        "location": "London, United Kingdom"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "ml_skills": [
       "tax software",
       "industry practices",
@@ -570,71 +635,6 @@
           "lat": 17.4383157
         },
         "location": "Hyderabad, Telangana, India"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "London",
-    "country": "United Kingdom",
-    "ml_skills": [
-      "storytelling",
-      "journalism",
-      "visual storytelling",
-      "investigative reporting",
-      "accuracy"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Join a dynamic team where your innovative storytelling and investigative prowess will shine. Collaborate with top journalists to produce impactful documentaries, leveraging data and diverse media. Shape compelling narratives that captivate audiences and redefine multi-platform journalism. Your vision could transform the future of investigative reporting!",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-0.0185088",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ194221",
-    "jobId": "JREQ194221",
-    "city": "London",
-    "latitude": "51.5056439",
-    "locale": "en_US",
-    "multi_location": [
-      "London, United Kingdom"
-    ],
-    "title": "Documentary Investigations Editor, Reuters",
-    "jobSeqNo": "THTTRUUSJREQ194221EXTERNALENUS",
-    "postedDate": "2025-09-05T00:00:00.000+0000",
-    "dateCreated": "2025-09-04T12:37:39.969+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Documentary-Investigations-Editor--Reuters_JREQ194221/apply",
-    "location": "London, United Kingdom",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Join a dynamic team where your innovative storytelling and investigative prowess will shine. Collaborate with top journalists to produce impactful documentaries, leveraging data and diverse media. Shape compelling narratives that captivate audiences and redefine multi-platform journalism. Your vision could transform the future of investigative reporting!",
-      "descriptionTeaser_first200": "Documentary Investigations Editor, Reuters. This position will be based in London, UK. Reuters seeks a visionary and innovative editor to drive its prize-winning investigative and explanatory journali...",
-      "descriptionTeaser_keyword": "Documentary Investigations Editor, Reuters. This position will be based in London, UK. Reuters seeks a visionary and innovative editor to drive its prize-winning investigative and explanatory journali...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -0.0185088,
-          "lat": 51.5056439
-        },
-        "location": "London, United Kingdom"
       }
     ],
     "isMultiCategory": false,
@@ -2364,70 +2364,6 @@
     "badge": ""
   },
   {
-    "cityState": "Manila",
-    "country": "Philippines",
-    "ml_skills": [
-      "westlaw",
-      "legal research",
-      "french",
-      "pivot"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "We are looking for detail-oriented legal professionals with strong analytical and writing skills to conduct research, analyze legal materials, and collaborate globally. If you thrive in a dynamic environment and are passionate about delivering top-quality legal content, this opportunity is for you!",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "121.0497015",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ193393",
-    "jobId": "JREQ193393",
-    "city": "Manila",
-    "latitude": "14.5348768",
-    "locale": "en_US",
-    "multi_location": [
-      "Manila, Philippines"
-    ],
-    "title": "Attorney Editor - French Bilingual",
-    "jobSeqNo": "THTTRUUSJREQ193393EXTERNALENUS",
-    "postedDate": "2025-07-22T00:00:00.000+0000",
-    "dateCreated": "2025-07-22T08:37:59.018+0000",
-    "cityStateCountry": "Manila, Philippines",
-    "address": "20 Upper McKinley Building, Upper McKinley Road, McKinley Hill, Manila, 1634, Philippines",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/PHL-Taguig-20-Upper-McKinley-Bldg/Attorney-Editor---French-Bilingual_JREQ193393/apply",
-    "location": "Manila, Philippines",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "We are looking for detail-oriented legal professionals with strong analytical and writing skills to conduct research, analyze legal materials, and collaborate globally. If you thrive in a dynamic environment and are passionate about delivering top-quality legal content, this opportunity is for you!",
-      "descriptionTeaser_first200": "Attorney Editor - Primary Law Editorial. Primary Law Attorney Editors are responsible for legal research, analysis, and writing to support the development and maintenance of Thomson Reuters\u2019 legal inf...",
-      "descriptionTeaser_keyword": "Attorney Editor - Primary Law Editorial. Primary Law Attorney Editors are responsible for legal research, analysis, and writing to support the development and maintenance of Thomson Reuters\u2019 legal inf...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 121.0497015,
-          "lat": 14.5348768
-        },
-        "location": "Manila, Philippines"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Willingham, Cambridgeshire",
     "country": "United Kingdom",
     "ml_skills": [
@@ -2491,6 +2427,70 @@
           "lat": 52.0834748
         },
         "location": "Willingham, Cambridgeshire, United Kingdom"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Manila",
+    "country": "Philippines",
+    "ml_skills": [
+      "westlaw",
+      "legal research",
+      "french",
+      "pivot"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "We are looking for detail-oriented legal professionals with strong analytical and writing skills to conduct research, analyze legal materials, and collaborate globally. If you thrive in a dynamic environment and are passionate about delivering top-quality legal content, this opportunity is for you!",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "121.0497015",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ193393",
+    "jobId": "JREQ193393",
+    "city": "Manila",
+    "latitude": "14.5348768",
+    "locale": "en_US",
+    "multi_location": [
+      "Manila, Philippines"
+    ],
+    "title": "Attorney Editor - French Bilingual",
+    "jobSeqNo": "THTTRUUSJREQ193393EXTERNALENUS",
+    "postedDate": "2025-07-22T00:00:00.000+0000",
+    "dateCreated": "2025-07-22T08:37:59.018+0000",
+    "cityStateCountry": "Manila, Philippines",
+    "address": "20 Upper McKinley Building, Upper McKinley Road, McKinley Hill, Manila, 1634, Philippines",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/PHL-Taguig-20-Upper-McKinley-Bldg/Attorney-Editor---French-Bilingual_JREQ193393/apply",
+    "location": "Manila, Philippines",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "We are looking for detail-oriented legal professionals with strong analytical and writing skills to conduct research, analyze legal materials, and collaborate globally. If you thrive in a dynamic environment and are passionate about delivering top-quality legal content, this opportunity is for you!",
+      "descriptionTeaser_first200": "Attorney Editor - Primary Law Editorial. Primary Law Attorney Editors are responsible for legal research, analysis, and writing to support the development and maintenance of Thomson Reuters\u2019 legal inf...",
+      "descriptionTeaser_keyword": "Attorney Editor - Primary Law Editorial. Primary Law Attorney Editors are responsible for legal research, analysis, and writing to support the development and maintenance of Thomson Reuters\u2019 legal inf...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 121.0497015,
+          "lat": 14.5348768
+        },
+        "location": "Manila, Philippines"
       }
     ],
     "isMultiCategory": false,
