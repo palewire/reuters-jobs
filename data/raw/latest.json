@@ -1,5 +1,67 @@
 [
   {
+    "cityState": "Dakar",
+    "country": "Senegal",
+    "ml_skills": [
+      "french",
+      "english"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Work at speed, ensuring Reuters clients get the most important news first. Work closely with visuals colleagues and our network of stringers, many of whom work in French, to generate original and comp...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-17.4587217",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ194485",
+    "jobId": "JREQ194485",
+    "city": "Dakar",
+    "latitude": "14.7012813",
+    "locale": "en_US",
+    "multi_location": [
+      "Dakar, Senegal"
+    ],
+    "title": "Politics & General News Correspondent, West & Central Africa",
+    "jobSeqNo": "THTTRUUSJREQ194485EXTERNALENUS",
+    "postedDate": "2025-09-18T00:00:00.000+0000",
+    "dateCreated": "2025-09-17T16:36:15.573+0000",
+    "cityStateCountry": "Dakar, Senegal",
+    "address": "Rue des Ecrivains angle Rue G, Point E, 45541 Dakar, Senegal",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/SEN-Dakar-Rue-des-Ecrivains/Politics---General-News-Correspondent--West---Central-Africa_JREQ194485-1/apply",
+    "location": "Dakar, Senegal",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Work at speed, ensuring Reuters clients get the most important news first. Work closely with visuals colleagues and our network of stringers, many of whom work in French, to generate original and comp...",
+      "descriptionTeaser_first200": "Political & General News Correspondent, West and Central Africa. This position is based in Dakar, Senegal. Reuters is looking for an exceptional journalist to spearhead our coverage of the Democrat...",
+      "descriptionTeaser_keyword": "Political & General News Correspondent, West and Central Africa. This position is based in Dakar, Senegal. Reuters is looking for an exceptional journalist to spearhead our coverage of the Democratic...",
+      "descriptionTeaser_ats": "Political & General News Correspondent, West and Central AfricaThis position is based in Dakar, Senegal. Reuters is looking for an exceptional journalist to spearhead our coverage of the Democratic Re"
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -17.4587217,
+          "lat": 14.7012813
+        },
+        "location": "Dakar, Senegal"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Hyderabad, Telangana",
     "country": "India",
     "ml_skills": [
@@ -50,68 +112,6 @@
           "lat": 17.4383157
         },
         "location": "Hyderabad, Telangana, India"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Dakar",
-    "country": "Senegal",
-    "ml_skills": [
-      "french",
-      "english"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Join a dynamic team where you'll lead groundbreaking coverage in one of the world's most complex regions. Write fast, insightful stories on politics, mining, and security while collaborating on multimedia content. Embrace the challenge of reporting from the heart of Africa and shape global narratives.",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-17.4587217",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ194485",
-    "jobId": "JREQ194485",
-    "city": "Dakar",
-    "latitude": "14.7012813",
-    "locale": "en_US",
-    "multi_location": [
-      "Dakar, Senegal"
-    ],
-    "title": "Politics & General News Correspondent, West & Central Africa",
-    "jobSeqNo": "THTTRUUSJREQ194485EXTERNALENUS",
-    "postedDate": "2025-09-17T00:00:00.000+0000",
-    "dateCreated": "2025-09-17T16:36:15.573+0000",
-    "cityStateCountry": "Dakar, Senegal",
-    "address": "Rue des Ecrivains angle Rue G, Point E, 45541 Dakar, Senegal",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/SEN-Dakar-Rue-des-Ecrivains/Politics---General-News-Correspondent--West---Central-Africa_JREQ194485-1/apply",
-    "location": "Dakar, Senegal",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Join a dynamic team where you'll lead groundbreaking coverage in one of the world's most complex regions. Write fast, insightful stories on politics, mining, and security while collaborating on multimedia content. Embrace the challenge of reporting from the heart of Africa and shape global narratives.",
-      "descriptionTeaser_first200": "Political & General News Correspondent, West and Central Africa. This position is based in Dakar, Senegal. Reuters is looking for an exceptional journalist to spearhead our coverage of the Democratic...",
-      "descriptionTeaser_keyword": "Political & General News Correspondent, West and Central Africa. This position is based in Dakar, Senegal. Reuters is looking for an exceptional journalist to spearhead our coverage of the Democratic...",
-      "descriptionTeaser_ats": "Political & General News Correspondent, West and Central AfricaThis position is based in Dakar, Senegal. Reuters is looking for an exceptional journalist to spearhead our coverage of the Democratic Re"
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -17.4587217,
-          "lat": 14.7012813
-        },
-        "location": "Dakar, Senegal"
       }
     ],
     "isMultiCategory": false,
@@ -591,7 +591,7 @@
     "country": "Portugal",
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "Maintain and monitor up-to-date knowledge of regulatory requirements in markets that Pagero currently supports. Applicants with legal or compliance experience in digital, privacy and/or security areas...",
+    "descriptionTeaser": "Seeking a dynamic role in global regulatory compliance where you can leverage your 1-3 years of experience in e-invoicing and tax technology. Contribute to innovative solutions, analyze market regulations, and collaborate across teams to ensure compliance in a fast-paced, hybrid work environment. Join us in shaping the future!",
     "state": "Lisbon",
     "visibilityType": "External",
     "siteType": "external",
@@ -632,8 +632,8 @@
       "visualization tools"
     ],
     "ml_job_parser": {
-      "descriptionTeaser": "Maintain and monitor up-to-date knowledge of regulatory requirements in markets that Pagero currently supports. Applicants with legal or compliance experience in digital, privacy and/or security areas...",
-      "descriptionTeaser_first200": "Regulatory Associate - Pagero. Are you ready to tackle the complexities of global regulatory compliance and drive innovation in e-invoicing and tax technology? As a member of the Regulatory Affairs...",
+      "descriptionTeaser": "Seeking a dynamic role in global regulatory compliance where you can leverage your 1-3 years of experience in e-invoicing and tax technology. Contribute to innovative solutions, analyze market regulations, and collaborate across teams to ensure compliance in a fast-paced, hybrid work environment. Join us in shaping the future!",
+      "descriptionTeaser_first200": "Regulatory Associate - Pagero. Are you ready to tackle the complexities of global regulatory compliance and drive innovation in e-invoicing and tax technology? As a member of the Regulatory Affairs te...",
       "descriptionTeaser_keyword": "Regulatory Associate - Pagero. Are you ready to tackle the complexities of global regulatory compliance and drive innovation in e-invoicing and tax technology? As a member of the Regulatory Affairs te...",
       "descriptionTeaser_ats": "Regulatory Associate - PageroAre you ready to tackle the complexities of global regulatory compliance and drive innovation in e-invoicing and tax technology? As a member of the Regulatory Affairs team"
     },
