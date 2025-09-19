@@ -63,6 +63,73 @@
     "badge": ""
   },
   {
+    "cityState": "Gdansk",
+    "country": "Poland",
+    "ml_skills": [
+      "tax research",
+      "prioritizing",
+      "microsoft excel",
+      "accuracy",
+      "organizational skills",
+      "intermediate",
+      "verbal communication"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Research, analyze, interpret and document tax laws and regulations. You\u2019re a fit for the role of Tax Associate in our Tax Research and Content team if your background includes. Demonstrated tax resear...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "18.574447",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ194583",
+    "jobId": "JREQ194583",
+    "city": "Gdansk",
+    "latitude": "54.4008848",
+    "locale": "en_US",
+    "multi_location": [
+      "Gdansk, Poland"
+    ],
+    "title": "Tax Associate",
+    "jobSeqNo": "THTTRUUSJREQ194583EXTERNALENUS",
+    "postedDate": "2025-09-19T00:00:00.000+0000",
+    "dateCreated": "2025-09-19T16:38:44.024+0000",
+    "cityStateCountry": "Gdansk, Poland",
+    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/Tax-Associate_JREQ194583/apply",
+    "location": "Gdansk, Poland",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Research, analyze, interpret and document tax laws and regulations. You\u2019re a fit for the role of Tax Associate in our Tax Research and Content team if your background includes. Demonstrated tax resear...",
+      "descriptionTeaser_first200": "WE ARE LOOKING FOR A NEW COLLEAGUE. Tax Associate. YOU AND YOUR TEAM. The successful candidate will join the team responsible for the analyzing, researching, interpreting and documenting laws and r...",
+      "descriptionTeaser_keyword": "WE ARE LOOKING FOR A NEW COLLEAGUE. Tax Associate. YOU AND YOUR TEAM. The successful candidate will join the team responsible for the analyzing, researching, interpreting and documenting laws and regu...",
+      "descriptionTeaser_ats": "WE ARE LOOKING FOR A NEW COLLEAGUE . Tax AssociateYOU AND YOUR TEAMThe successful candidate will join the team responsible for the analyzing, researching, interpreting and documenting laws and regulatio"
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 18.574447,
+          "lat": 54.4008848
+        },
+        "location": "Gdansk, Poland"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Dakar",
     "country": "Senegal",
     "ml_skills": [
