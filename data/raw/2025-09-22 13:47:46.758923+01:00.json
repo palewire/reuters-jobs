@@ -1,68 +1,5 @@
 [
   {
-    "ml_skills": [
-      "accuracy",
-      "quality issues",
-      "search"
-    ],
-    "remote": "On-Site",
-    "type": "Full time",
-    "descriptionTeaser": "Are you looking for a role where you can design and prepare legal and tax forms while ensuring accuracy and compliance? Join a team that values flexibility, work-life balance, and career growth, all while making a real-world impact in the pursuit of justice and transparency.",
-    "state": "Telangana",
-    "siteType": "external",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ183413",
-    "city": "Hyderabad",
-    "latitude": "17.4383157",
-    "multi_location": [
-      "Hyderabad, Telangana, India"
-    ],
-    "address": "Floor 12, 13 & 14, Building 11, Raheja Mindspace, Madhapur, Hyderabad- 500081, Telangana, India",
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Hyderabad-Raheja-Mindspace/Process-Associate_JREQ183413/apply",
-    "ml_job_parser": {
-      "descriptionTeaser": "Are you looking for a role where you can design and prepare legal and tax forms while ensuring accuracy and compliance? Join a team that values flexibility, work-life balance, and career growth, all while making a real-world impact in the pursuit of justice and transparency.",
-      "descriptionTeaser_first200": "Assists in the creation, design, preparation and delivery of legal and/or tax forms and information for use in various media platforms. About the Role . Captures and keys data from tax and/or legal...",
-      "descriptionTeaser_keyword": "Assists in the creation, design, preparation and delivery of legal and/or tax forms and information for use in various media platforms. About the Role. Captures and keys data from tax and/or legal sit...",
-      "descriptionTeaser_ats": "Assists in the creation, design, preparation and delivery of legal and/or tax forms and information for use in various media platforms.About the Role  . Captures and keys data from tax and/or legal site"
-    },
-    "externalApply": true,
-    "cityState": "Hyderabad, Telangana",
-    "country": "India",
-    "visibilityType": "External",
-    "longitude": "78.3821476",
-    "jobId": "JREQ183413",
-    "locale": "en_US",
-    "title": "Process Associate",
-    "jobSeqNo": "THTTRUUSJREQ183413EXTERNALENUS",
-    "postedDate": "2025-09-19T00:00:00.000+0000",
-    "dateCreated": "2025-07-28T12:39:51.772+0000",
-    "cityStateCountry": "Hyderabad, Telangana, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "location": "Hyderabad, Telangana, India",
-    "category": "News & Editorial Careers",
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 78.3821476,
-          "lat": 17.4383157
-        },
-        "location": "Hyderabad, Telangana, India"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Gdansk",
     "country": "Poland",
     "ml_skills": [
@@ -132,10 +69,13 @@
   {
     "cityState": "Frisco, Texas",
     "country": "United States of America",
-    "ml_skills": [],
+    "ml_skills": [
+      "legal research",
+      "accuracy"
+    ],
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "In this role you will provide legal interpretation in the form of research, analysis, and writing to support the development and maintenance of Thomson Reuters Legal information in all media. To be mo...",
+    "descriptionTeaser": "We are looking for a detail-oriented legal professional to conduct research, analysis, and writing that shapes premium legal content. Utilize your J.D. and strong communication skills to navigate complex legal materials while ensuring accuracy and adherence to quality standards in a collaborative environment.",
     "state": "Texas",
     "visibilityType": "External",
     "siteType": "external",
@@ -166,8 +106,8 @@
     "location": "Frisco, Texas, United States of America",
     "category": "News & Editorial Careers",
     "ml_job_parser": {
-      "descriptionTeaser": "In this role you will provide legal interpretation in the form of research, analysis, and writing to support the development and maintenance of Thomson Reuters Legal information in all media. To be mo...",
-      "descriptionTeaser_first200": "Attorney Editor. In this role you will provide legal interpretation in the form of research, analysis, and writing to support the development and maintenance of Thomson Reuters Legal information in...",
+      "descriptionTeaser": "We are looking for a detail-oriented legal professional to conduct research, analysis, and writing that shapes premium legal content. Utilize your J.D. and strong communication skills to navigate complex legal materials while ensuring accuracy and adherence to quality standards in a collaborative environment.",
+      "descriptionTeaser_first200": "Attorney Editor. In this role you will provide legal interpretation in the form of research, analysis, and writing to support the development and maintenance of Thomson Reuters Legal information in al...",
       "descriptionTeaser_keyword": "Attorney Editor. In this role you will provide legal interpretation in the form of research, analysis, and writing to support the development and maintenance of Thomson Reuters Legal information in al...",
       "descriptionTeaser_ats": "Attorney EditorIn this role you will provide legal interpretation in the form of research, analysis, and writing to support the development and maintenance of Thomson Reuters Legal information in all"
     },
