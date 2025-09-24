@@ -61,6 +61,85 @@
     "badge": ""
   },
   {
+    "cityState": "London",
+    "country": "United Kingdom",
+    "ml_skills": [
+      "ai",
+      "devops",
+      "cloud",
+      "ci/cd",
+      "ml",
+      "software development",
+      "ai/ml",
+      "cloud platforms",
+      "web technologies",
+      "python",
+      "node.js",
+      "computer science",
+      "product engineering",
+      "technical expertise",
+      "product development",
+      "agile methodologies",
+      "stakeholder management",
+      "product manager",
+      "lead a team"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Are you experienced in private client law with a passion for writing? Join a dynamic team to create and maintain practical legal content while leveraging your expertise to shape AI-driven legal solutions. Enjoy a flexible work environment and opportunities for professional growth.",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.0185088",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ194574",
+    "jobId": "JREQ194574",
+    "city": "London",
+    "latitude": "51.5056439",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom"
+    ],
+    "title": "Senior Specialist Legal Editor, Practical Law Private Client",
+    "jobSeqNo": "THTTRUUSJREQ194574EXTERNALENUS",
+    "postedDate": "2025-09-24T00:00:00.000+0000",
+    "dateCreated": "2025-09-24T16:37:35.750+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Senior-Specialist-Legal-Editor--Practical-Law-Private-Client_JREQ194574/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Are you experienced in private client law with a passion for writing? Join a dynamic team to create and maintain practical legal content while leveraging your expertise to shape AI-driven legal solutions. Enjoy a flexible work environment and opportunities for professional growth.",
+      "descriptionTeaser_first200": "We are seeking an experienced private client lawyer to join the Practical Law Private Client team in the UK. Practical Law is a leading online know-how service providing expert-created, practical main...",
+      "descriptionTeaser_keyword": "We are seeking an experienced private client lawyer to join the Practical Law Private Client team in the UK. Practical Law is a leading online know-how service providing expert-created, practical main...",
+      "descriptionTeaser_ats": "We are seeking an experienced private client lawyer to join the Practical Law Private Client team in the UK.Practical Law is a leading online know-how service providing expert-created, practical maint"
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.0185088,
+          "lat": 51.5056439
+        },
+        "location": "London, United Kingdom"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Toronto, Ontario",
     "country": "Canada",
     "ml_skills": [
