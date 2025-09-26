@@ -345,76 +345,6 @@
     "badge": ""
   },
   {
-    "cityState": "Mexico City",
-    "country": "Mexico",
-    "ml_skills": [
-      "tax software",
-      "tax preparation",
-      "income tax",
-      "accounting",
-      "tax law",
-      "monitoring",
-      "english",
-      "technical writers",
-      "technical support",
-      "providing technical support"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "We are looking for a detail-oriented professional with 1-2 years of US tax preparation experience to analyze tax laws, implement software changes, and collaborate with internal teams. Join us to make a real-world impact while enjoying a flexible, supportive work environment.",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-99.1511017",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ194578",
-    "jobId": "JREQ194578",
-    "city": "Mexico City",
-    "latitude": "19.4342436",
-    "locale": "en_US",
-    "multi_location": [
-      "Mexico City, Mexico"
-    ],
-    "title": "U.S. Tax Accountant",
-    "jobSeqNo": "THTTRUUSJREQ194578EXTERNALENUS",
-    "postedDate": "2025-09-22T00:00:00.000+0000",
-    "dateCreated": "2025-09-22T16:43:58.084+0000",
-    "cityStateCountry": "Mexico City, Mexico",
-    "address": "Av. Paseo de la Reforma #26, Floor 36th, Colonia Ju\u00e1rez, Cuauht\u00e9moc, 06600 Mexico City, Mexico",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/MEX-Distrito-Federal-Reforma-26/US-Tax-Accountant_JREQ194578-1/apply",
-    "location": "Mexico City, Mexico",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "We are looking for a detail-oriented professional with 1-2 years of US tax preparation experience to analyze tax laws, implement software changes, and collaborate with internal teams. Join us to make a real-world impact while enjoying a flexible, supportive work environment.",
-      "descriptionTeaser_first200": "US Tax Accountant You will participate in the design, development, and testing of our GoSystem Tax using in-house development tools. In this role, you will collect, analyze, and prioritize requirement...",
-      "descriptionTeaser_keyword": "US Tax Accountant You will participate in the design, development, and testing of our GoSystem Tax using in-house development tools. In this role, you will collect, analyze, and prioritize requirement...",
-      "descriptionTeaser_ats": "US Tax Accountant You will participate in the design, development, and testing of our GoSystem Tax using in-house development tools. In this role, you will collect, analyze, and prioritize requiremen"
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -99.1511017,
-          "lat": 19.4342436
-        },
-        "location": "Mexico City, Mexico"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Toronto, Ontario",
     "country": "Canada",
     "ml_skills": [
@@ -474,6 +404,76 @@
           "lat": 43.648096
         },
         "location": "Toronto, Ontario, Canada"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Mexico City",
+    "country": "Mexico",
+    "ml_skills": [
+      "tax software",
+      "tax preparation",
+      "income tax",
+      "accounting",
+      "tax law",
+      "monitoring",
+      "english",
+      "technical writers",
+      "technical support",
+      "providing technical support"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "We are looking for a detail-oriented professional with 1-2 years of US tax preparation experience to analyze tax laws, implement software changes, and collaborate with internal teams. Join us to make a real-world impact while enjoying a flexible, supportive work environment.",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-99.1511017",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ194578",
+    "jobId": "JREQ194578",
+    "city": "Mexico City",
+    "latitude": "19.4342436",
+    "locale": "en_US",
+    "multi_location": [
+      "Mexico City, Mexico"
+    ],
+    "title": "U.S. Tax Accountant",
+    "jobSeqNo": "THTTRUUSJREQ194578EXTERNALENUS",
+    "postedDate": "2025-09-22T00:00:00.000+0000",
+    "dateCreated": "2025-09-22T16:43:58.084+0000",
+    "cityStateCountry": "Mexico City, Mexico",
+    "address": "Av. Paseo de la Reforma #26, Floor 36th, Colonia Ju\u00e1rez, Cuauht\u00e9moc, 06600 Mexico City, Mexico",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/MEX-Distrito-Federal-Reforma-26/US-Tax-Accountant_JREQ194578-1/apply",
+    "location": "Mexico City, Mexico",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "We are looking for a detail-oriented professional with 1-2 years of US tax preparation experience to analyze tax laws, implement software changes, and collaborate with internal teams. Join us to make a real-world impact while enjoying a flexible, supportive work environment.",
+      "descriptionTeaser_first200": "US Tax Accountant You will participate in the design, development, and testing of our GoSystem Tax using in-house development tools. In this role, you will collect, analyze, and prioritize requirement...",
+      "descriptionTeaser_keyword": "US Tax Accountant You will participate in the design, development, and testing of our GoSystem Tax using in-house development tools. In this role, you will collect, analyze, and prioritize requirement...",
+      "descriptionTeaser_ats": "US Tax Accountant You will participate in the design, development, and testing of our GoSystem Tax using in-house development tools. In this role, you will collect, analyze, and prioritize requiremen"
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -99.1511017,
+          "lat": 19.4342436
+        },
+        "location": "Mexico City, Mexico"
       }
     ],
     "isMultiCategory": false,
