@@ -1,5 +1,131 @@
 [
   {
+    "ml_skills": [],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Are you experienced in financial markets and ready to lead a dynamic breaking news team? Join a fast-paced environment where your editing and writing skills will shine as you cover major market developments in real time. Embrace the challenge and drive impactful journalism every day!",
+    "state": "New York",
+    "siteType": "external",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ192378",
+    "city": "New York",
+    "latitude": "40.756696",
+    "multi_location": [
+      "New York, New York, United States of America"
+    ],
+    "address": "3 Times Square, New York, NY 10036, United States of America",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-New-York-3-Times-Square/US-Breaking-News-Editor--Finance-and-Markets_JREQ192378/apply",
+    "ml_job_parser": {
+      "descriptionTeaser": "Are you experienced in financial markets and ready to lead a dynamic breaking news team? Join a fast-paced environment where your editing and writing skills will shine as you cover major market developments in real time. Embrace the challenge and drive impactful journalism every day!",
+      "descriptionTeaser_first200": "Reuters is looking for a strong journalist to lead its finance and markets breaking news team in the United States. The breaking news team is at the heart of the finance and markets team, serving the...",
+      "descriptionTeaser_keyword": "Reuters is looking for a strong journalist to lead its finance and markets breaking news team in the United States. The breaking news team is at the heart of the finance and markets team, serving the...",
+      "descriptionTeaser_ats": "Reuters is looking for a strong journalist to lead its finance and markets breaking news team in the United States. The breaking news team is at the heart of the finance and markets team, serving the"
+    },
+    "externalApply": true,
+    "cityState": "New York, New York",
+    "country": "United States of America",
+    "visibilityType": "External",
+    "longitude": "-73.9867",
+    "jobId": "JREQ192378",
+    "locale": "en_US",
+    "title": "U.S. Breaking News Editor, Finance and Markets",
+    "jobSeqNo": "THTTRUUSJREQ192378EXTERNALENUS",
+    "postedDate": "2025-09-26T00:00:00.000+0000",
+    "dateCreated": "2025-06-17T16:38:03.129+0000",
+    "cityStateCountry": "New York, New York, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "location": "New York, New York, United States of America",
+    "category": "News & Editorial Careers",
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -73.9867,
+          "lat": 40.756696
+        },
+        "location": "New York, New York, United States of America"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "London",
+    "country": "United Kingdom",
+    "ml_skills": [
+      "legal expertise",
+      "accuracy",
+      "english",
+      "strong writing skills",
+      "ai",
+      "curious mindset",
+      "generative ai"
+    ],
+    "remote": "Hybrid",
+    "type": "Part time",
+    "descriptionTeaser": "Are you experienced in private client law with a passion for writing? Join a dynamic team to create and maintain practical legal content while leveraging your expertise to shape AI-driven legal solutions. Enjoy a flexible work environment and opportunities for professional growth.",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.0185088",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ194574",
+    "jobId": "JREQ194574",
+    "city": "London",
+    "latitude": "51.5056439",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom"
+    ],
+    "title": "Senior Specialist Legal Editor, Practical Law Private Client",
+    "jobSeqNo": "THTTRUUSJREQ194574EXTERNALENUS",
+    "postedDate": "2025-09-25T00:00:00.000+0000",
+    "dateCreated": "2025-09-24T16:37:35.750+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Senior-Specialist-Legal-Editor--Practical-Law-Private-Client_JREQ194574/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Are you experienced in private client law with a passion for writing? Join a dynamic team to create and maintain practical legal content while leveraging your expertise to shape AI-driven legal solutions. Enjoy a flexible work environment and opportunities for professional growth.",
+      "descriptionTeaser_first200": "We are seeking an experienced private client lawyer to join the Practical Law Private Client team in the UK. Practical Law is a leading online know-how service providing expert-created, practical m...",
+      "descriptionTeaser_keyword": "We are seeking an experienced private client lawyer to join the Practical Law Private Client team in the UK. Practical Law is a leading online know-how service providing expert-created, practical main...",
+      "descriptionTeaser_ats": "We are seeking an experienced private client lawyer to join the Practical Law Private Client team in the UK.Practical Law is a leading online know-how service providing expert-created, practical maint"
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.0185088,
+          "lat": 51.5056439
+        },
+        "location": "London, United Kingdom"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "ml_skills": [
       "communication skills"
     ],
@@ -50,85 +176,6 @@
           "lat": 17.4383157
         },
         "location": "Hyderabad, Telangana, India"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "London",
-    "country": "United Kingdom",
-    "ml_skills": [
-      "ai",
-      "devops",
-      "cloud",
-      "ci/cd",
-      "ml",
-      "software development",
-      "ai/ml",
-      "cloud platforms",
-      "web technologies",
-      "python",
-      "node.js",
-      "computer science",
-      "product engineering",
-      "technical expertise",
-      "product development",
-      "agile methodologies",
-      "stakeholder management",
-      "product manager",
-      "lead a team"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Are you experienced in private client law with a passion for writing? Join a dynamic team to create and maintain practical legal content while leveraging your expertise to shape AI-driven legal solutions. Enjoy a flexible work environment and opportunities for professional growth.",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-0.0185088",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ194574",
-    "jobId": "JREQ194574",
-    "city": "London",
-    "latitude": "51.5056439",
-    "locale": "en_US",
-    "multi_location": [
-      "London, United Kingdom"
-    ],
-    "title": "Senior Specialist Legal Editor, Practical Law Private Client",
-    "jobSeqNo": "THTTRUUSJREQ194574EXTERNALENUS",
-    "postedDate": "2025-09-24T00:00:00.000+0000",
-    "dateCreated": "2025-09-24T16:37:35.750+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Senior-Specialist-Legal-Editor--Practical-Law-Private-Client_JREQ194574/apply",
-    "location": "London, United Kingdom",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Are you experienced in private client law with a passion for writing? Join a dynamic team to create and maintain practical legal content while leveraging your expertise to shape AI-driven legal solutions. Enjoy a flexible work environment and opportunities for professional growth.",
-      "descriptionTeaser_first200": "We are seeking an experienced private client lawyer to join the Practical Law Private Client team in the UK. Practical Law is a leading online know-how service providing expert-created, practical main...",
-      "descriptionTeaser_keyword": "We are seeking an experienced private client lawyer to join the Practical Law Private Client team in the UK. Practical Law is a leading online know-how service providing expert-created, practical main...",
-      "descriptionTeaser_ats": "We are seeking an experienced private client lawyer to join the Practical Law Private Client team in the UK.Practical Law is a leading online know-how service providing expert-created, practical maint"
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -0.0185088,
-          "lat": 51.5056439
-        },
-        "location": "London, United Kingdom"
       }
     ],
     "isMultiCategory": false,
@@ -357,76 +404,6 @@
     "badge": ""
   },
   {
-    "cityState": "Toronto, Ontario",
-    "country": "Canada",
-    "ml_skills": [
-      "lawyer",
-      "corporate law",
-      "bankruptcy",
-      "english",
-      "drafting skills",
-      "insolvency",
-      "technical support",
-      "ai",
-      "product development",
-      "model performance"
-    ],
-    "remote": "Remote",
-    "type": "Full time",
-    "descriptionTeaser": "We are looking for a seasoned legal expert with over eight years in commercial insolvency and restructuring. Join us to create essential resources, drive content strategy, and engage with legal professionals, all while embracing innovative AI initiatives in a flexible work environment.",
-    "state": "Ontario",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-79.388196",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ192397",
-    "jobId": "JREQ192397",
-    "city": "Toronto",
-    "latitude": "43.648096",
-    "locale": "en_US",
-    "multi_location": [
-      "Toronto, Ontario, Canada"
-    ],
-    "title": "Senior Lawyer Editor, Insolvency/Restructuring - PL Canada",
-    "jobSeqNo": "THTTRUUSJREQ192397EXTERNALENUS",
-    "postedDate": "2025-09-22T00:00:00.000+0000",
-    "dateCreated": "2025-06-24T20:42:47.999+0000",
-    "cityStateCountry": "Toronto, Ontario, Canada",
-    "address": "19 Duncan Street, Toronto, ON M5H 3H1, Canada",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CAN-Toronto-19-Duncan-Street/Senior-Lawyer-Editor---PL-Canada---Insolvency-Restructuring_JREQ192397/apply",
-    "location": "Toronto, Ontario, Canada",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "We are looking for a seasoned legal expert with over eight years in commercial insolvency and restructuring. Join us to create essential resources, drive content strategy, and engage with legal professionals, all while embracing innovative AI initiatives in a flexible work environment.",
-      "descriptionTeaser_first200": "Senior Specialist Legal Editor, Insolvency & Restructuring - Practical Law Canada. Role Summary. Thomson Reuters - Practical Law Canada is looking for an Insolvency & Restructuring Editor who has a pa...",
-      "descriptionTeaser_keyword": "Senior Specialist Legal Editor, Insolvency & Restructuring - Practical Law Canada. Role Summary. Thomson Reuters - Practical Law Canada is looking for an Insolvency & Restructuring Editor who has a pa...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -79.388196,
-          "lat": 43.648096
-        },
-        "location": "Toronto, Ontario, Canada"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Mexico City",
     "country": "Mexico",
     "ml_skills": [
@@ -486,6 +463,76 @@
           "lat": 19.4342436
         },
         "location": "Mexico City, Mexico"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Toronto, Ontario",
+    "country": "Canada",
+    "ml_skills": [
+      "lawyer",
+      "corporate law",
+      "bankruptcy",
+      "english",
+      "drafting skills",
+      "insolvency",
+      "technical support",
+      "ai",
+      "product development",
+      "model performance"
+    ],
+    "remote": "Remote",
+    "type": "Full time",
+    "descriptionTeaser": "We are looking for a seasoned legal expert with over eight years in commercial insolvency and restructuring. Join us to create essential resources, drive content strategy, and engage with legal professionals, all while embracing innovative AI initiatives in a flexible work environment.",
+    "state": "Ontario",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-79.388196",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ192397",
+    "jobId": "JREQ192397",
+    "city": "Toronto",
+    "latitude": "43.648096",
+    "locale": "en_US",
+    "multi_location": [
+      "Toronto, Ontario, Canada"
+    ],
+    "title": "Senior Lawyer Editor, Insolvency/Restructuring - PL Canada",
+    "jobSeqNo": "THTTRUUSJREQ192397EXTERNALENUS",
+    "postedDate": "2025-09-22T00:00:00.000+0000",
+    "dateCreated": "2025-06-24T20:42:47.999+0000",
+    "cityStateCountry": "Toronto, Ontario, Canada",
+    "address": "19 Duncan Street, Toronto, ON M5H 3H1, Canada",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CAN-Toronto-19-Duncan-Street/Senior-Lawyer-Editor---PL-Canada---Insolvency-Restructuring_JREQ192397/apply",
+    "location": "Toronto, Ontario, Canada",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "We are looking for a seasoned legal expert with over eight years in commercial insolvency and restructuring. Join us to create essential resources, drive content strategy, and engage with legal professionals, all while embracing innovative AI initiatives in a flexible work environment.",
+      "descriptionTeaser_first200": "Senior Specialist Legal Editor, Insolvency & Restructuring - Practical Law Canada. Role Summary. Thomson Reuters - Practical Law Canada is looking for an Insolvency & Restructuring Editor who has a pa...",
+      "descriptionTeaser_keyword": "Senior Specialist Legal Editor, Insolvency & Restructuring - Practical Law Canada. Role Summary. Thomson Reuters - Practical Law Canada is looking for an Insolvency & Restructuring Editor who has a pa...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -79.388196,
+          "lat": 43.648096
+        },
+        "location": "Toronto, Ontario, Canada"
       }
     ],
     "isMultiCategory": false,
@@ -1558,71 +1605,6 @@
     "badge": ""
   },
   {
-    "ml_skills": [
-      "journalism",
-      "photography",
-      "adobe photoshop",
-      "english",
-      "english language"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Are you looking for an exciting opportunity to enhance your journalism career? Join a dynamic global team as you edit and deliver compelling news images. Utilize your photography knowledge and sharp editing skills to contribute to breaking stories while collaborating with top industry professionals in a fast-paced environment.",
-    "state": "",
-    "siteType": "external",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ192653",
-    "city": "Gdansk",
-    "latitude": "54.4008848",
-    "multi_location": [
-      "Gdansk, Poland"
-    ],
-    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/Associate-Picture-Editor--Global-Pictures-Desk_JREQ192653/apply",
-    "ml_job_parser": {
-      "descriptionTeaser": "Are you looking for an exciting opportunity to enhance your journalism career? Join a dynamic global team as you edit and deliver compelling news images. Utilize your photography knowledge and sharp editing skills to contribute to breaking stories while collaborating with top industry professionals in a fast-paced environment.",
-      "descriptionTeaser_first200": "Reuters is looking for an enthusiastic journalist with advanced English and a sharp eye for detail who can effortlessly sift through the thousands of photos our photographers shoot every day. You w...",
-      "descriptionTeaser_keyword": "Reuters is looking for an enthusiastic journalist with advanced English and a sharp eye for detail who can effortlessly sift through the thousands of photos our photographers shoot every day. You will...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "cityState": "Gdansk",
-    "country": "Poland",
-    "visibilityType": "External",
-    "longitude": "18.574447",
-    "jobId": "JREQ192653",
-    "locale": "en_US",
-    "title": "Associate Picture Editor, Global Pictures Desk",
-    "jobSeqNo": "THTTRUUSJREQ192653EXTERNALENUS",
-    "postedDate": "2025-08-26T00:00:00.000+0000",
-    "dateCreated": "2025-06-25T16:40:02.210+0000",
-    "cityStateCountry": "Gdansk, Poland",
-    "jobVisibility": [
-      "external"
-    ],
-    "location": "Gdansk, Poland",
-    "category": "News & Editorial Careers",
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 18.574447,
-          "lat": 54.4008848
-        },
-        "location": "Gdansk, Poland"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Gdansk",
     "country": "Poland",
     "ml_skills": [
@@ -1816,65 +1798,6 @@
           "lat": 14.5348768
         },
         "location": "Manila, Philippines"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "ml_skills": [],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Are you looking for a fast-paced role where you can lead a dynamic team in breaking finance and markets news? Bring your deep understanding of markets and strong editing skills to deliver high-quality coverage and thrive in a collaborative environment. Join us and make an impact!",
-    "state": "New York",
-    "siteType": "external",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ192378",
-    "city": "New York",
-    "latitude": "40.756696",
-    "multi_location": [
-      "New York, New York, United States of America"
-    ],
-    "address": "3 Times Square, New York, NY 10036, United States of America",
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-New-York-3-Times-Square/US-Breaking-News-Editor--Finance-and-Markets_JREQ192378/apply",
-    "ml_job_parser": {
-      "descriptionTeaser": "Are you looking for a fast-paced role where you can lead a dynamic team in breaking finance and markets news? Bring your deep understanding of markets and strong editing skills to deliver high-quality coverage and thrive in a collaborative environment. Join us and make an impact!",
-      "descriptionTeaser_first200": "Reuters is looking for a strong journalist to lead its finance and markets breaking news team in the United States. The breaking news team is at the heart of the finance and markets team, serving t...",
-      "descriptionTeaser_keyword": "Reuters is looking for a strong journalist to lead its finance and markets breaking news team in the United States. The breaking news team is at the heart of the finance and markets team, serving the...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "cityState": "New York, New York",
-    "country": "United States of America",
-    "visibilityType": "External",
-    "longitude": "-73.9867",
-    "jobId": "JREQ192378",
-    "locale": "en_US",
-    "title": "U.S. Breaking News Editor, Finance and Markets",
-    "jobSeqNo": "THTTRUUSJREQ192378EXTERNALENUS",
-    "postedDate": "2025-08-20T00:00:00.000+0000",
-    "dateCreated": "2025-06-17T16:38:03.129+0000",
-    "cityStateCountry": "New York, New York, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "location": "New York, New York, United States of America",
-    "category": "News & Editorial Careers",
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -73.9867,
-          "lat": 40.756696
-        },
-        "location": "New York, New York, United States of America"
       }
     ],
     "isMultiCategory": false,
