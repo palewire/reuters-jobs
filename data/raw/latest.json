@@ -1,55 +1,115 @@
 [
   {
-    "cityState": "Pyrmont, New South Wales",
-    "country": "Australia",
-    "ml_skills": [
-      "reporter"
-    ],
+    "cityState": "Beijing, Beijing",
+    "country": "China",
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "Asia-Pacific Enterprise Reporter. Our Asia-Pacific Enterprise reporter will have to be able to work hand-in-hand with photographers, videographers, graphics journalists and story designers as partners...",
-    "state": "New South Wales",
+    "descriptionTeaser": "Visuals Researcher, Beijing Bureau\u00a0\u00a0\u00a0Reuters is looking for an energetic\u00a0Visuals Researcher\u00a0with strong news judgement to join our team in Beijing. The Visuals\u00a0Researcher\u00a0will be responsible for resea",
+    "state": "Beijing",
     "visibilityType": "External",
     "siteType": "external",
-    "longitude": "151.191502",
+    "longitude": "116.41197",
     "multi_category": [
       "News & Editorial Careers"
     ],
-    "reqId": "JREQ194387",
-    "jobId": "JREQ194387",
-    "city": "Pyrmont",
-    "latitude": "-33.866441",
+    "reqId": "JREQ194799",
+    "jobId": "JREQ194799",
+    "city": "Beijing",
+    "latitude": "39.90927",
     "locale": "en_US",
     "multi_location": [
-      "Pyrmont, New South Wales, Australia"
+      "Beijing, Beijing, China"
     ],
-    "title": "Asia-Pacific Enterprise Reporter",
-    "jobSeqNo": "THTTRUUSJREQ194387EXTERNALENUS",
+    "title": "Visuals Researcher, Beijing Bureau",
+    "jobSeqNo": "THTTRUUSJREQ194799EXTERNALENUS",
     "postedDate": "2025-09-29T00:00:00.000+0000",
-    "dateCreated": "2025-09-29T00:41:08.972+0000",
-    "cityStateCountry": "Pyrmont, New South Wales, Australia",
-    "address": "19 Harris Street, Pyrmont NSW 2009, Australia",
+    "dateCreated": "2025-09-29T04:40:37.112+0000",
+    "cityStateCountry": "Beijing, Beijing, China",
+    "address": "Units 5-12, 18F / 20F, Office Tower E1 of Oriental Plaza, No.1, East Chang An Avenue, Dong Cheng District, Beijing, 100738 Beijing, China",
     "jobVisibility": [
       "external"
     ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/AUS-Pyrmont-19-Harris-St/Asia-Pacific-Enterprise-Reporter_JREQ194387/apply",
-    "location": "Pyrmont, New South Wales, Australia",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CHN-Beijing-Oriental-Plaza/Visuals-Researcher--Beijing-Bureau_JREQ194799-1/apply",
+    "location": "Beijing, Beijing, China",
     "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Asia-Pacific Enterprise Reporter. Our Asia-Pacific Enterprise reporter will have to be able to work hand-in-hand with photographers, videographers, graphics journalists and story designers as partners...",
-      "descriptionTeaser_first200": "Asia-Pacific Enterprise Reporter. Reuters is seeking a tenacious and ambitious early career Enterprise reporter to cover the geopolitical, economic, and social challenges of the Asia-Pacific region...",
-      "descriptionTeaser_keyword": "Asia-Pacific Enterprise Reporter. Reuters is seeking a tenacious and ambitious early career Enterprise reporter to cover the geopolitical, economic, and social challenges of the Asia-Pacific region. T...",
-      "descriptionTeaser_ats": "Asia-Pacific Enterprise ReporterReuters is seeking a tenacious and ambitious early career Enterprise reporter to cover the geopolitical, economic, and social challenges of the Asia-Pacific region. The"
-    },
     "externalApply": true,
     "isMultiLocation": true,
     "multi_location_array": [
       {
         "latlong": {
-          "lon": 151.191502,
-          "lat": -33.866441
+          "lon": 116.41197,
+          "lat": 39.90927
         },
-        "location": "Pyrmont, New South Wales, Australia"
+        "location": "Beijing, Beijing, China"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "ml_skills": [
+      "journalism",
+      "video editing",
+      "story telling",
+      "script writing",
+      "story writing",
+      "english",
+      "storytelling",
+      "mandarin",
+      "mentor"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Inspire staff and contractors across all media to produce their best breaking news and storytelling work. Excellent news judgment and a solid track record of working in a breaking news environment. So...",
+    "state": "Beijing",
+    "siteType": "external",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ186718",
+    "city": "Beijing",
+    "latitude": "39.90927",
+    "multi_location": [
+      "Beijing, Beijing, China"
+    ],
+    "address": "Units 5-12, 18F / 20F, Office Tower E1 of Oriental Plaza, No.1, East Chang An Avenue, Dong Cheng District, Beijing, 100738 Beijing, China",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CHN-Beijing-Oriental-Plaza/Senior-Producer--China_JREQ186718/apply",
+    "ml_job_parser": {
+      "descriptionTeaser": "Inspire staff and contractors across all media to produce their best breaking news and storytelling work. Excellent news judgment and a solid track record of working in a breaking news environment. So...",
+      "descriptionTeaser_first200": "Senior Producer, China . Reuters is looking for a Senior Video Producer to manage our coverage from China. The successful candidate will lead a high-profile, high-performing team of journalists bas...",
+      "descriptionTeaser_keyword": "Senior Producer, China. Reuters is looking for a Senior Video Producer to manage our coverage from China. The successful candidate will lead a high-profile, high-performing team of journalists based i...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "cityState": "Beijing, Beijing",
+    "country": "China",
+    "visibilityType": "External",
+    "longitude": "116.41197",
+    "jobId": "JREQ186718",
+    "locale": "en_US",
+    "title": "Senior Producer, China",
+    "jobSeqNo": "THTTRUUSJREQ186718EXTERNALENUS",
+    "postedDate": "2025-09-29T00:00:00.000+0000",
+    "dateCreated": "2025-01-09T08:39:54.036+0000",
+    "cityStateCountry": "Beijing, Beijing, China",
+    "jobVisibility": [
+      "external"
+    ],
+    "location": "Beijing, Beijing, China",
+    "category": "News & Editorial Careers",
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 116.41197,
+          "lat": 39.90927
+        },
+        "location": "Beijing, Beijing, China"
       }
     ],
     "isMultiCategory": false,
@@ -465,76 +525,6 @@
     "badge": ""
   },
   {
-    "cityState": "Mexico City",
-    "country": "Mexico",
-    "ml_skills": [
-      "tax software",
-      "tax preparation",
-      "income tax",
-      "accounting",
-      "tax law",
-      "monitoring",
-      "english",
-      "technical writers",
-      "technical support",
-      "providing technical support"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "We are looking for a detail-oriented professional with 1-2 years of US tax preparation experience to analyze tax laws, implement software changes, and collaborate with internal teams. Join us to make a real-world impact while enjoying a flexible, supportive work environment.",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-99.1511017",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ194578",
-    "jobId": "JREQ194578",
-    "city": "Mexico City",
-    "latitude": "19.4342436",
-    "locale": "en_US",
-    "multi_location": [
-      "Mexico City, Mexico"
-    ],
-    "title": "U.S. Tax Accountant",
-    "jobSeqNo": "THTTRUUSJREQ194578EXTERNALENUS",
-    "postedDate": "2025-09-22T00:00:00.000+0000",
-    "dateCreated": "2025-09-22T16:43:58.084+0000",
-    "cityStateCountry": "Mexico City, Mexico",
-    "address": "Av. Paseo de la Reforma #26, Floor 36th, Colonia Ju\u00e1rez, Cuauht\u00e9moc, 06600 Mexico City, Mexico",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/MEX-Distrito-Federal-Reforma-26/US-Tax-Accountant_JREQ194578-1/apply",
-    "location": "Mexico City, Mexico",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "We are looking for a detail-oriented professional with 1-2 years of US tax preparation experience to analyze tax laws, implement software changes, and collaborate with internal teams. Join us to make a real-world impact while enjoying a flexible, supportive work environment.",
-      "descriptionTeaser_first200": "US Tax Accountant You will participate in the design, development, and testing of our GoSystem Tax using in-house development tools. In this role, you will collect, analyze, and prioritize requirement...",
-      "descriptionTeaser_keyword": "US Tax Accountant You will participate in the design, development, and testing of our GoSystem Tax using in-house development tools. In this role, you will collect, analyze, and prioritize requirement...",
-      "descriptionTeaser_ats": "US Tax Accountant You will participate in the design, development, and testing of our GoSystem Tax using in-house development tools. In this role, you will collect, analyze, and prioritize requiremen"
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -99.1511017,
-          "lat": 19.4342436
-        },
-        "location": "Mexico City, Mexico"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Toronto, Ontario",
     "country": "Canada",
     "ml_skills": [
@@ -594,6 +584,76 @@
           "lat": 43.648096
         },
         "location": "Toronto, Ontario, Canada"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Mexico City",
+    "country": "Mexico",
+    "ml_skills": [
+      "tax software",
+      "tax preparation",
+      "income tax",
+      "accounting",
+      "tax law",
+      "monitoring",
+      "english",
+      "technical writers",
+      "technical support",
+      "providing technical support"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "We are looking for a detail-oriented professional with 1-2 years of US tax preparation experience to analyze tax laws, implement software changes, and collaborate with internal teams. Join us to make a real-world impact while enjoying a flexible, supportive work environment.",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-99.1511017",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ194578",
+    "jobId": "JREQ194578",
+    "city": "Mexico City",
+    "latitude": "19.4342436",
+    "locale": "en_US",
+    "multi_location": [
+      "Mexico City, Mexico"
+    ],
+    "title": "U.S. Tax Accountant",
+    "jobSeqNo": "THTTRUUSJREQ194578EXTERNALENUS",
+    "postedDate": "2025-09-22T00:00:00.000+0000",
+    "dateCreated": "2025-09-22T16:43:58.084+0000",
+    "cityStateCountry": "Mexico City, Mexico",
+    "address": "Av. Paseo de la Reforma #26, Floor 36th, Colonia Ju\u00e1rez, Cuauht\u00e9moc, 06600 Mexico City, Mexico",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/MEX-Distrito-Federal-Reforma-26/US-Tax-Accountant_JREQ194578-1/apply",
+    "location": "Mexico City, Mexico",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "We are looking for a detail-oriented professional with 1-2 years of US tax preparation experience to analyze tax laws, implement software changes, and collaborate with internal teams. Join us to make a real-world impact while enjoying a flexible, supportive work environment.",
+      "descriptionTeaser_first200": "US Tax Accountant You will participate in the design, development, and testing of our GoSystem Tax using in-house development tools. In this role, you will collect, analyze, and prioritize requirement...",
+      "descriptionTeaser_keyword": "US Tax Accountant You will participate in the design, development, and testing of our GoSystem Tax using in-house development tools. In this role, you will collect, analyze, and prioritize requirement...",
+      "descriptionTeaser_ats": "US Tax Accountant You will participate in the design, development, and testing of our GoSystem Tax using in-house development tools. In this role, you will collect, analyze, and prioritize requiremen"
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -99.1511017,
+          "lat": 19.4342436
+        },
+        "location": "Mexico City, Mexico"
       }
     ],
     "isMultiCategory": false,
