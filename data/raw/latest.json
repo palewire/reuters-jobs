@@ -1,5 +1,66 @@
 [
   {
+    "cityState": "Pyrmont, New South Wales",
+    "country": "Australia",
+    "ml_skills": [
+      "reporter"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Asia-Pacific Enterprise Reporter. Our Asia-Pacific Enterprise reporter will have to be able to work hand-in-hand with photographers, videographers, graphics journalists and story designers as partners...",
+    "state": "New South Wales",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "151.191502",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ194387",
+    "jobId": "JREQ194387",
+    "city": "Pyrmont",
+    "latitude": "-33.866441",
+    "locale": "en_US",
+    "multi_location": [
+      "Pyrmont, New South Wales, Australia"
+    ],
+    "title": "Asia-Pacific Enterprise Reporter",
+    "jobSeqNo": "THTTRUUSJREQ194387EXTERNALENUS",
+    "postedDate": "2025-09-29T00:00:00.000+0000",
+    "dateCreated": "2025-09-29T00:41:08.972+0000",
+    "cityStateCountry": "Pyrmont, New South Wales, Australia",
+    "address": "19 Harris Street, Pyrmont NSW 2009, Australia",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/AUS-Pyrmont-19-Harris-St/Asia-Pacific-Enterprise-Reporter_JREQ194387/apply",
+    "location": "Pyrmont, New South Wales, Australia",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Asia-Pacific Enterprise Reporter. Our Asia-Pacific Enterprise reporter will have to be able to work hand-in-hand with photographers, videographers, graphics journalists and story designers as partners...",
+      "descriptionTeaser_first200": "Asia-Pacific Enterprise Reporter. Reuters is seeking a tenacious and ambitious early career Enterprise reporter to cover the geopolitical, economic, and social challenges of the Asia-Pacific region...",
+      "descriptionTeaser_keyword": "Asia-Pacific Enterprise Reporter. Reuters is seeking a tenacious and ambitious early career Enterprise reporter to cover the geopolitical, economic, and social challenges of the Asia-Pacific region. T...",
+      "descriptionTeaser_ats": "Asia-Pacific Enterprise ReporterReuters is seeking a tenacious and ambitious early career Enterprise reporter to cover the geopolitical, economic, and social challenges of the Asia-Pacific region. The"
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 151.191502,
+          "lat": -33.866441
+        },
+        "location": "Pyrmont, New South Wales, Australia"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "ml_skills": [],
     "remote": "Hybrid",
     "type": "Full time",
@@ -404,76 +465,6 @@
     "badge": ""
   },
   {
-    "cityState": "Toronto, Ontario",
-    "country": "Canada",
-    "ml_skills": [
-      "lawyer",
-      "corporate law",
-      "bankruptcy",
-      "english",
-      "drafting skills",
-      "insolvency",
-      "technical support",
-      "ai",
-      "product development",
-      "model performance"
-    ],
-    "remote": "Remote",
-    "type": "Full time",
-    "descriptionTeaser": "We are looking for a seasoned legal expert with over eight years in commercial insolvency and restructuring. Join us to create essential resources, drive content strategy, and engage with legal professionals, all while embracing innovative AI initiatives in a flexible work environment.",
-    "state": "Ontario",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-79.388196",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ192397",
-    "jobId": "JREQ192397",
-    "city": "Toronto",
-    "latitude": "43.648096",
-    "locale": "en_US",
-    "multi_location": [
-      "Toronto, Ontario, Canada"
-    ],
-    "title": "Senior Lawyer Editor, Insolvency/Restructuring - PL Canada",
-    "jobSeqNo": "THTTRUUSJREQ192397EXTERNALENUS",
-    "postedDate": "2025-09-22T00:00:00.000+0000",
-    "dateCreated": "2025-06-24T20:42:47.999+0000",
-    "cityStateCountry": "Toronto, Ontario, Canada",
-    "address": "19 Duncan Street, Toronto, ON M5H 3H1, Canada",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CAN-Toronto-19-Duncan-Street/Senior-Lawyer-Editor---PL-Canada---Insolvency-Restructuring_JREQ192397/apply",
-    "location": "Toronto, Ontario, Canada",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "We are looking for a seasoned legal expert with over eight years in commercial insolvency and restructuring. Join us to create essential resources, drive content strategy, and engage with legal professionals, all while embracing innovative AI initiatives in a flexible work environment.",
-      "descriptionTeaser_first200": "Senior Specialist Legal Editor, Insolvency & Restructuring - Practical Law Canada. Role Summary. Thomson Reuters - Practical Law Canada is looking for an Insolvency & Restructuring Editor who has a pa...",
-      "descriptionTeaser_keyword": "Senior Specialist Legal Editor, Insolvency & Restructuring - Practical Law Canada. Role Summary. Thomson Reuters - Practical Law Canada is looking for an Insolvency & Restructuring Editor who has a pa...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -79.388196,
-          "lat": 43.648096
-        },
-        "location": "Toronto, Ontario, Canada"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Mexico City",
     "country": "Mexico",
     "ml_skills": [
@@ -533,6 +524,76 @@
           "lat": 19.4342436
         },
         "location": "Mexico City, Mexico"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Toronto, Ontario",
+    "country": "Canada",
+    "ml_skills": [
+      "lawyer",
+      "corporate law",
+      "bankruptcy",
+      "english",
+      "drafting skills",
+      "insolvency",
+      "technical support",
+      "ai",
+      "product development",
+      "model performance"
+    ],
+    "remote": "Remote",
+    "type": "Full time",
+    "descriptionTeaser": "We are looking for a seasoned legal expert with over eight years in commercial insolvency and restructuring. Join us to create essential resources, drive content strategy, and engage with legal professionals, all while embracing innovative AI initiatives in a flexible work environment.",
+    "state": "Ontario",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-79.388196",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ192397",
+    "jobId": "JREQ192397",
+    "city": "Toronto",
+    "latitude": "43.648096",
+    "locale": "en_US",
+    "multi_location": [
+      "Toronto, Ontario, Canada"
+    ],
+    "title": "Senior Lawyer Editor, Insolvency/Restructuring - PL Canada",
+    "jobSeqNo": "THTTRUUSJREQ192397EXTERNALENUS",
+    "postedDate": "2025-09-22T00:00:00.000+0000",
+    "dateCreated": "2025-06-24T20:42:47.999+0000",
+    "cityStateCountry": "Toronto, Ontario, Canada",
+    "address": "19 Duncan Street, Toronto, ON M5H 3H1, Canada",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CAN-Toronto-19-Duncan-Street/Senior-Lawyer-Editor---PL-Canada---Insolvency-Restructuring_JREQ192397/apply",
+    "location": "Toronto, Ontario, Canada",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "We are looking for a seasoned legal expert with over eight years in commercial insolvency and restructuring. Join us to create essential resources, drive content strategy, and engage with legal professionals, all while embracing innovative AI initiatives in a flexible work environment.",
+      "descriptionTeaser_first200": "Senior Specialist Legal Editor, Insolvency & Restructuring - Practical Law Canada. Role Summary. Thomson Reuters - Practical Law Canada is looking for an Insolvency & Restructuring Editor who has a pa...",
+      "descriptionTeaser_keyword": "Senior Specialist Legal Editor, Insolvency & Restructuring - Practical Law Canada. Role Summary. Thomson Reuters - Practical Law Canada is looking for an Insolvency & Restructuring Editor who has a pa...",
+      "descriptionTeaser_ats": ""
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -79.388196,
+          "lat": 43.648096
+        },
+        "location": "Toronto, Ontario, Canada"
       }
     ],
     "isMultiCategory": false,
