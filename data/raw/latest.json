@@ -4,7 +4,7 @@
     "country": "China",
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "Visuals Researcher, Beijing Bureau\u00a0\u00a0\u00a0Reuters is looking for an energetic\u00a0Visuals Researcher\u00a0with strong news judgement to join our team in Beijing. The Visuals\u00a0Researcher\u00a0will be responsible for resea",
+    "descriptionTeaser": "Seeking an energetic researcher with strong news judgment to uncover compelling visuals-led stories. Collaborate with a dynamic team, monitor news coverage, and assist in breaking news. Fluency in English and Mandarin is essential. Join us to shape impactful narratives that reach billions worldwide!",
     "state": "Beijing",
     "visibilityType": "External",
     "siteType": "external",
@@ -22,7 +22,7 @@
     ],
     "title": "Visuals Researcher, Beijing Bureau",
     "jobSeqNo": "THTTRUUSJREQ194799EXTERNALENUS",
-    "postedDate": "2025-09-29T00:00:00.000+0000",
+    "postedDate": "2025-09-30T00:00:00.000+0000",
     "dateCreated": "2025-09-29T04:40:37.112+0000",
     "cityStateCountry": "Beijing, Beijing, China",
     "address": "Units 5-12, 18F / 20F, Office Tower E1 of Oriental Plaza, No.1, East Chang An Avenue, Dong Cheng District, Beijing, 100738 Beijing, China",
@@ -33,6 +33,17 @@
     "location": "Beijing, Beijing, China",
     "category": "News & Editorial Careers",
     "externalApply": true,
+    "ml_skills": [
+      "diplomacy",
+      "english",
+      "mandarin"
+    ],
+    "ml_job_parser": {
+      "descriptionTeaser": "Seeking an energetic researcher with strong news judgment to uncover compelling visuals-led stories. Collaborate with a dynamic team, monitor news coverage, and assist in breaking news. Fluency in English and Mandarin is essential. Join us to shape impactful narratives that reach billions worldwide!",
+      "descriptionTeaser_first200": "Visuals Researcher, Beijing Bureau. Reuters is looking for an energetic Visuals Researcher with strong news judgement to join our team in Beijing. The Visuals Researcher will be responsible for resear...",
+      "descriptionTeaser_keyword": "Visuals Researcher, Beijing Bureau. Reuters is looking for an energetic Visuals Researcher with strong news judgement to join our team in Beijing. The Visuals Researcher will be responsible for resear...",
+      "descriptionTeaser_ats": "Visuals Researcher, Beijing Bureau Reuters is looking for an energetic Visuals Researcher with strong news judgement to join our team in Beijing. The Visuals Researcher will be responsible for resea"
+    },
     "isMultiLocation": true,
     "multi_location_array": [
       {
@@ -41,6 +52,129 @@
           "lat": 39.90927
         },
         "location": "Beijing, Beijing, China"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Hyderabad, Telangana",
+    "country": "India",
+    "ml_skills": [
+      "accounting",
+      "tax preparer",
+      "tax preparation",
+      "income tax"
+    ],
+    "remote": "On-Site",
+    "type": "Full time",
+    "descriptionTeaser": "This role requires a understanding of U.S. tax regulations, attention to detail, and the ability to follow client-specific instructions. Prepare accurate and timely federal, state, and city tax return...",
+    "state": "Telangana",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "78.3821476",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ194833",
+    "jobId": "JREQ194833",
+    "city": "Hyderabad",
+    "latitude": "17.4383157",
+    "locale": "en_US",
+    "multi_location": [
+      "Hyderabad, Telangana, India"
+    ],
+    "title": "Process Associate",
+    "jobSeqNo": "THTTRUUSJREQ194833EXTERNALENUS",
+    "postedDate": "2025-09-30T00:00:00.000+0000",
+    "dateCreated": "2025-09-30T12:41:03.583+0000",
+    "cityStateCountry": "Hyderabad, Telangana, India",
+    "address": "Floor 12, 13 & 14, Building 11, Raheja Mindspace, Madhapur, Hyderabad- 500081, Telangana, India",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Hyderabad-Raheja-Mindspace/Process-Associate_JREQ194833/apply",
+    "location": "Hyderabad, Telangana, India",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "This role requires a understanding of U.S. tax regulations, attention to detail, and the ability to follow client-specific instructions. Prepare accurate and timely federal, state, and city tax return...",
+      "descriptionTeaser_first200": "As a U.S. Tax Preparer, you will be responsible for preparing accurate and timely federal and state income tax returns for individuals, estates, and exempt organizations. This role requires a under...",
+      "descriptionTeaser_keyword": "As a U.S. Tax Preparer, you will be responsible for preparing accurate and timely federal and state income tax returns for individuals, estates, and exempt organizations. This role requires a understa...",
+      "descriptionTeaser_ats": "As a U.S. Tax Preparer, you will be responsible for preparing accurate and timely federal and state income tax returns for individuals, estates, and exempt organizations. This role requires a understa"
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 78.3821476,
+          "lat": 17.4383157
+        },
+        "location": "Hyderabad, Telangana, India"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Hyderabad, Telangana",
+    "country": "India",
+    "ml_skills": [],
+    "remote": "On-Site",
+    "type": "Full time",
+    "descriptionTeaser": "This role requires a understanding of U.S. tax regulations, attention to detail, and the ability to follow client-specific instructions. Prepare accurate and timely federal, state, and city tax return...",
+    "state": "Telangana",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "78.3821476",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ194832",
+    "jobId": "JREQ194832",
+    "city": "Hyderabad",
+    "latitude": "17.4383157",
+    "locale": "en_US",
+    "multi_location": [
+      "Hyderabad, Telangana, India"
+    ],
+    "title": "Process Associate",
+    "jobSeqNo": "THTTRUUSJREQ194832EXTERNALENUS",
+    "postedDate": "2025-09-30T00:00:00.000+0000",
+    "dateCreated": "2025-09-30T12:41:03.582+0000",
+    "cityStateCountry": "Hyderabad, Telangana, India",
+    "address": "Floor 12, 13 & 14, Building 11, Raheja Mindspace, Madhapur, Hyderabad- 500081, Telangana, India",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Hyderabad-Raheja-Mindspace/Process-Associate_JREQ194832/apply",
+    "location": "Hyderabad, Telangana, India",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "This role requires a understanding of U.S. tax regulations, attention to detail, and the ability to follow client-specific instructions. Prepare accurate and timely federal, state, and city tax return...",
+      "descriptionTeaser_first200": "As a U.S. Tax Preparer, you will be responsible for preparing accurate and timely federal and state income tax returns for individuals, estates, and exempt organizations. This role requires a under...",
+      "descriptionTeaser_keyword": "As a U.S. Tax Preparer, you will be responsible for preparing accurate and timely federal and state income tax returns for individuals, estates, and exempt organizations. This role requires a understa...",
+      "descriptionTeaser_ats": "As a U.S. Tax Preparer, you will be responsible for preparing accurate and timely federal and state income tax returns for individuals, estates, and exempt organizations. This role requires a understa"
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 78.3821476,
+          "lat": 17.4383157
+        },
+        "location": "Hyderabad, Telangana, India"
       }
     ],
     "isMultiCategory": false,
@@ -2625,71 +2759,6 @@
       "descriptionTeaser": "We are looking for detail-oriented legal professionals with strong analytical and writing skills to conduct research, analyze legal materials, and collaborate globally. If you thrive in a dynamic environment and are passionate about delivering top-quality legal content, this opportunity is for you!",
       "descriptionTeaser_first200": "Attorney Editor - Primary Law Editorial. Primary Law Attorney Editors are responsible for legal research, analysis, and writing to support the development and maintenance of Thomson Reuters\u2019 legal inf...",
       "descriptionTeaser_keyword": "Attorney Editor - Primary Law Editorial. Primary Law Attorney Editors are responsible for legal research, analysis, and writing to support the development and maintenance of Thomson Reuters\u2019 legal inf...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 121.0497015,
-          "lat": 14.5348768
-        },
-        "location": "Manila, Philippines"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Manila",
-    "country": "Philippines",
-    "ml_skills": [
-      "video production",
-      "video editing",
-      "producer",
-      "premiere",
-      "adobe premiere"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Seeking a creative individual with strong script writing and editing skills to produce engaging video content for digital and social platforms. Ideal candidates have experience in a newsroom or video production, excellent video editing abilities, and a knack for storytelling. Flexibility for shifts and weekends is required.",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "121.0497015",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ191216",
-    "jobId": "JREQ191216",
-    "city": "Manila",
-    "latitude": "14.5348768",
-    "locale": "en_US",
-    "multi_location": [
-      "Manila, Philippines"
-    ],
-    "title": "Digital Producer, Packaged Video",
-    "jobSeqNo": "THTTRUUSJREQ191216EXTERNALENUS",
-    "postedDate": "2025-07-14T00:00:00.000+0000",
-    "dateCreated": "2025-05-19T12:38:52.715+0000",
-    "cityStateCountry": "Manila, Philippines",
-    "address": "20 Upper McKinley Building, Upper McKinley Road, McKinley Hill, Manila, 1634, Philippines",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/PHL-Taguig-20-Upper-McKinley-Bldg/Digital-Producer--Packaged-Video_JREQ191216/apply",
-    "location": "Manila, Philippines",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Seeking a creative individual with strong script writing and editing skills to produce engaging video content for digital and social platforms. Ideal candidates have experience in a newsroom or video production, excellent video editing abilities, and a knack for storytelling. Flexibility for shifts and weekends is required.",
-      "descriptionTeaser_first200": "Digital Producer, Packaged Video | Reuters News Publishing. This is a great opportunity to join a new team producing innovative video for the world\u2019s largest international multimedia news provider. Re...",
-      "descriptionTeaser_keyword": "Digital Producer, Packaged Video | Reuters News Publishing. This is a great opportunity to join a new team producing innovative video for the world\u2019s largest international multimedia news provider. Re...",
       "descriptionTeaser_ats": ""
     },
     "externalApply": true,
