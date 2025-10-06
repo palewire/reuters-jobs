@@ -76,7 +76,7 @@
     "country": "Philippines",
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "About the RoleIn this opportunity as Editor, you will:Research, write, and edit high-quality articles daily.Prioritize concurrent projects to meet challenging deadlines.Analyze and anticipate interest",
+    "descriptionTeaser": "Are you experienced in writing and editing high-quality articles? Join a dynamic team where you'll analyze legal and financial topics, meet challenging deadlines, and contribute to impactful content. Embrace flexibility and growth while making a difference in the pursuit of justice and transparency.",
     "state": "",
     "visibilityType": "External",
     "siteType": "external",
@@ -105,6 +105,20 @@
     "location": "Manila, Philippines",
     "category": "News & Editorial Careers",
     "externalApply": true,
+    "ml_skills": [
+      "journalism",
+      "english",
+      "content management systems",
+      "accuracy",
+      "product development",
+      "westlaw"
+    ],
+    "ml_job_parser": {
+      "descriptionTeaser": "Are you experienced in writing and editing high-quality articles? Join a dynamic team where you'll analyze legal and financial topics, meet challenging deadlines, and contribute to impactful content. Embrace flexibility and growth while making a difference in the pursuit of justice and transparency.",
+      "descriptionTeaser_first200": "About the Role. In this opportunity as Editor, you will. Research, write, and edit high-quality articles daily. Prioritize concurrent projects to meet challenging deadlines. Analyze and anticipate int...",
+      "descriptionTeaser_keyword": "About the Role. In this opportunity as Editor, you will. Research, write, and edit high-quality articles daily. Prioritize concurrent projects to meet challenging deadlines. Analyze and anticipate int...",
+      "descriptionTeaser_ats": "About the RoleIn this opportunity as Editor, you will . Research, write, and edit high-quality articles daily.Prioritize concurrent projects to meet challenging deadlines.Analyze and anticipate interest"
+    },
     "isMultiLocation": true,
     "multi_location_array": [
       {
@@ -113,6 +127,143 @@
           "lat": 14.5348768
         },
         "location": "Manila, Philippines"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Dubai",
+    "country": "United Arab Emirates",
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Join a dynamic team where your legal expertise will shape online content that interprets UAE and Saudi Arabian legal developments. Leverage your paralegal experience and passion for technology to create impactful resources while enjoying a flexible work environment and opportunities for growth.",
+    "state": "Dubai",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "55.1513852",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ194841",
+    "jobId": "JREQ194841",
+    "city": "",
+    "latitude": "25.0924892",
+    "locale": "en_US",
+    "multi_location": [
+      "Dubai, United Arab Emirates"
+    ],
+    "title": "Associate Editor, Practical Law (Middle East)",
+    "jobSeqNo": "THTTRUUSJREQ194841EXTERNALENUS",
+    "postedDate": "2025-10-03T00:00:00.000+0000",
+    "dateCreated": "2025-10-03T16:41:08.831+0000",
+    "cityStateCountry": "Dubai, United Arab Emirates",
+    "address": "Reuters Ltd, Office 501, Building 1, 5th Floor Dubai Media City, Dubai, United Arab Emirates",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/ARE-Dubai-Dubai-Media-City/Associate-Editor--Practical-Law--Middle-East-_JREQ194841/apply",
+    "location": "Dubai, United Arab Emirates",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "ml_skills": [
+      "paralegal",
+      "legal expertise",
+      "english",
+      "ai",
+      "generative ai",
+      "curious mindset"
+    ],
+    "ml_job_parser": {
+      "descriptionTeaser": "Join a dynamic team where your legal expertise will shape online content that interprets UAE and Saudi Arabian legal developments. Leverage your paralegal experience and passion for technology to create impactful resources while enjoying a flexible work environment and opportunities for growth.",
+      "descriptionTeaser_first200": "As an Associate Editor in Practical Law Middle East, you will work in conjunction with more experienced colleagues to interpret and explain United Arab Emirates (UAE) and Saudi Arabian legal, practice...",
+      "descriptionTeaser_keyword": "As an Associate Editor in Practical Law Middle East, you will work in conjunction with more experienced colleagues to interpret and explain United Arab Emirates (UAE) and Saudi Arabian legal, practice...",
+      "descriptionTeaser_ats": "As an Associate Editor in Practical Law Middle East, you will work in conjunction with more experienced colleagues to interpret and explain United Arab Emirates (UAE) and Saudi Arabian legal, practice"
+    },
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 55.1513852,
+          "lat": 25.0924892
+        },
+        "location": "Dubai, United Arab Emirates"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Eagan, Minnesota",
+    "country": "United States of America",
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Are you experienced in leading operational excellence and driving transformational change? Join a dynamic team where your strategic vision and tactical execution can shape processes, optimize capabilities, and influence cross-functional strategies in a fast-paced environment. Your leadership can make a real impact!",
+    "state": "Minnesota",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-93.108761",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ192826",
+    "jobId": "JREQ192826",
+    "city": "Eagan",
+    "latitude": "44.851884",
+    "locale": "en_US",
+    "multi_location": [
+      "Eagan, Minnesota, United States of America"
+    ],
+    "title": "Director - Operations",
+    "jobSeqNo": "THTTRUUSJREQ192826EXTERNALENUS",
+    "postedDate": "2025-10-03T00:00:00.000+0000",
+    "dateCreated": "2025-10-04T08:41:16.866+0000",
+    "cityStateCountry": "Eagan, Minnesota, United States of America",
+    "address": "2900 Ames Crossing Road, Ste 100, Eagan, MN 55121, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MSP-2900-Ames-Crossing-Road/Director---Operations_JREQ192826-1/apply",
+    "location": "Eagan, Minnesota, United States of America",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "ml_skills": [
+      "operations management",
+      "operational processes",
+      "talent development",
+      "project management",
+      "budget management",
+      "pmp",
+      "cost optimization",
+      "digital transformation",
+      "cross-functional collaboration",
+      "lean six sigma",
+      "influence stakeholders"
+    ],
+    "ml_job_parser": {
+      "descriptionTeaser": "Are you experienced in leading operational excellence and driving transformational change? Join a dynamic team where your strategic vision and tactical execution can shape processes, optimize capabilities, and influence cross-functional strategies in a fast-paced environment. Your leadership can make a real impact!",
+      "descriptionTeaser_first200": "Director, Operations. Are you ready to lead operational excellence and drive transformational change across a dynamic, fast-paced organization? Do you thrive in environments where strategic vision mee...",
+      "descriptionTeaser_keyword": "Director, Operations. Are you ready to lead operational excellence and drive transformational change across a dynamic, fast-paced organization? Do you thrive in environments where strategic vision mee...",
+      "descriptionTeaser_ats": "Director, OperationsAre you ready to lead operational excellence and drive transformational change across a dynamic, fast-paced organization? Do you thrive in environments where strategic vision meets"
+    },
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -93.108761,
+          "lat": 44.851884
+        },
+        "location": "Eagan, Minnesota, United States of America"
       }
     ],
     "isMultiCategory": false,
