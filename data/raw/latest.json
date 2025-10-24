@@ -123,6 +123,71 @@
     "badge": ""
   },
   {
+    "ml_skills": [
+      "verbal communication",
+      "networks",
+      "it infrastructure",
+      "tcp/ip",
+      "situational awareness"
+    ],
+    "remote": "On-Site",
+    "type": "Full time",
+    "descriptionTeaser": "Supervise and assess signal qualities, ensuring that all areas of the operation run to a high technical standard, and will take a key role in the preparation, testing and deployment of equipment for f...",
+    "state": "",
+    "siteType": "external",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ192923",
+    "city": "London",
+    "latitude": "51.50853",
+    "multi_location": [
+      "London, United Kingdom"
+    ],
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/MCR-Technical-Operations-Engineer---Reuters_JREQ192923/apply",
+    "ml_job_parser": {
+      "descriptionTeaser": "Supervise and assess signal qualities, ensuring that all areas of the operation run to a high technical standard, and will take a key role in the preparation, testing and deployment of equipment for f...",
+      "descriptionTeaser_first200": "MCR Technical Operations Engineer - Reuters. This position is based in Canary Wharf, London. Want to be part of the Master Control Room at one of the world's leading news agencies? Want to play a c...",
+      "descriptionTeaser_keyword": "MCR Technical Operations Engineer - Reuters. This position is based in Canary Wharf, London. Want to be part of the Master Control Room at one of the world's leading news agencies? Want to play a cruc...",
+      "descriptionTeaser_ats": "MCR Technical Operations Engineer - ReutersThis position is based in Canary Wharf, London.Want to be part of the Master Control Room at one of the world's leading news agencies? Want to play a crucial"
+    },
+    "externalApply": true,
+    "cityState": "London",
+    "country": "United Kingdom",
+    "visibilityType": "External",
+    "longitude": "-0.12574",
+    "jobId": "JREQ192923",
+    "locale": "en_US",
+    "title": "MCR Technical Operations Engineer - Reuters",
+    "jobSeqNo": "THTTRUUSJREQ192923EXTERNALENUS",
+    "postedDate": "2025-10-21T00:00:00.000+0000",
+    "dateCreated": "2025-07-11T20:45:46.501+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.12574,
+          "lat": 51.50853
+        },
+        "location": "London, United Kingdom"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Manila",
     "country": "Philippines",
     "remote": "Hybrid",
@@ -179,71 +244,6 @@
           "lat": 14.6042
         },
         "location": "Manila, Philippines"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "ml_skills": [
-      "verbal communication",
-      "networks",
-      "it infrastructure",
-      "tcp/ip",
-      "situational awareness"
-    ],
-    "remote": "On-Site",
-    "type": "Full time",
-    "descriptionTeaser": "Supervise and assess signal qualities, ensuring that all areas of the operation run to a high technical standard, and will take a key role in the preparation, testing and deployment of equipment for f...",
-    "state": "",
-    "siteType": "external",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ192923",
-    "city": "London",
-    "latitude": "51.50853",
-    "multi_location": [
-      "London, United Kingdom"
-    ],
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/MCR-Technical-Operations-Engineer---Reuters_JREQ192923/apply",
-    "ml_job_parser": {
-      "descriptionTeaser": "Supervise and assess signal qualities, ensuring that all areas of the operation run to a high technical standard, and will take a key role in the preparation, testing and deployment of equipment for f...",
-      "descriptionTeaser_first200": "MCR Technical Operations Engineer - Reuters. This position is based in Canary Wharf, London. Want to be part of the Master Control Room at one of the world's leading news agencies? Want to play a c...",
-      "descriptionTeaser_keyword": "MCR Technical Operations Engineer - Reuters. This position is based in Canary Wharf, London. Want to be part of the Master Control Room at one of the world's leading news agencies? Want to play a cruc...",
-      "descriptionTeaser_ats": "MCR Technical Operations Engineer - ReutersThis position is based in Canary Wharf, London.Want to be part of the Master Control Room at one of the world's leading news agencies? Want to play a crucial"
-    },
-    "externalApply": true,
-    "cityState": "London",
-    "country": "United Kingdom",
-    "visibilityType": "External",
-    "longitude": "-0.12574",
-    "jobId": "JREQ192923",
-    "locale": "en_US",
-    "title": "MCR Technical Operations Engineer - Reuters",
-    "jobSeqNo": "THTTRUUSJREQ192923EXTERNALENUS",
-    "postedDate": "2025-10-21T00:00:00.000+0000",
-    "dateCreated": "2025-07-11T20:45:46.501+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "jobVisibility": [
-      "external"
-    ],
-    "location": "London, United Kingdom",
-    "category": "News & Editorial Careers",
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -0.12574,
-          "lat": 51.50853
-        },
-        "location": "London, United Kingdom"
       }
     ],
     "isMultiCategory": false,
@@ -2847,72 +2847,6 @@
           "lat": 12.9776035
         },
         "location": "Bengaluru, Karnataka, India"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Beijing, Beijing",
-    "country": "China",
-    "ml_skills": [
-      "quantitative research",
-      "ai",
-      "analytical tools",
-      "mandarin",
-      "visual storytelling",
-      "video production"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Join a dynamic team where your research skills and news judgment will shine! Monitor and analyze news stories, assist in field coverage, and contribute to compelling text and visual storytelling. Bring your fluency in English and Mandarin, and collaborate with passionate professionals in a fast-paced environment.",
-    "state": "Beijing",
-    "visibilityType": "External",
-    "longitude": "116.41197",
-    "siteType": "external",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ190888",
-    "jobId": "JREQ190888",
-    "city": "Beijing",
-    "latitude": "39.90927",
-    "locale": "en_US",
-    "multi_location": [
-      "Beijing, Beijing, China"
-    ],
-    "title": "Researcher, Beijing Bureau",
-    "jobSeqNo": "THTTRUUSJREQ190888EXTERNALENUS",
-    "postedDate": "2025-06-27T00:00:00.000+0000",
-    "dateCreated": "2025-04-30T04:38:50.377+0000",
-    "cityStateCountry": "Beijing, Beijing, China",
-    "address": "Units 5-12, 18F / 20F, Office Tower E1 of Oriental Plaza, No.1, East Chang An Avenue, Dong Cheng District, Beijing, 100738 Beijing, China",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CHN-Beijing-Oriental-Plaza/Researcher--Beijing-Bureau_JREQ190888/apply",
-    "location": "Beijing, Beijing, China",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Join a dynamic team where your research skills and news judgment will shine! Monitor and analyze news stories, assist in field coverage, and contribute to compelling text and visual storytelling. Bring your fluency in English and Mandarin, and collaborate with passionate professionals in a fast-paced environment.",
-      "descriptionTeaser_first200": "Researcher, Beijing Bureau. Reuters is seeking an energetic Researcher with strong news judgment to join our Beijing team. Responsibilities include researching and monitoring news stories, assisting f...",
-      "descriptionTeaser_keyword": "Researcher, Beijing Bureau. Reuters is seeking an energetic Researcher with strong news judgment to join our Beijing team. Responsibilities include researching and monitoring news stories, assisting f...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 116.41197,
-          "lat": 39.90927
-        },
-        "location": "Beijing, Beijing, China"
       }
     ],
     "isMultiCategory": false,
