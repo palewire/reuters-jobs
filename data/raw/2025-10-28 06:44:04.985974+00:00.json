@@ -123,6 +123,71 @@
     "badge": ""
   },
   {
+    "ml_skills": [
+      "verbal communication",
+      "networks",
+      "it infrastructure",
+      "tcp/ip",
+      "situational awareness"
+    ],
+    "remote": "On-Site",
+    "type": "Full time",
+    "descriptionTeaser": "Supervise and assess signal qualities, ensuring that all areas of the operation run to a high technical standard, and will take a key role in the preparation, testing and deployment of equipment for f...",
+    "state": "",
+    "siteType": "external",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ192923",
+    "city": "London",
+    "latitude": "51.50853",
+    "multi_location": [
+      "London, United Kingdom"
+    ],
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/MCR-Technical-Operations-Engineer---Reuters_JREQ192923/apply",
+    "ml_job_parser": {
+      "descriptionTeaser": "Supervise and assess signal qualities, ensuring that all areas of the operation run to a high technical standard, and will take a key role in the preparation, testing and deployment of equipment for f...",
+      "descriptionTeaser_first200": "MCR Technical Operations Engineer - Reuters. This position is based in Canary Wharf, London. Want to be part of the Master Control Room at one of the world's leading news agencies? Want to play a c...",
+      "descriptionTeaser_keyword": "MCR Technical Operations Engineer - Reuters. This position is based in Canary Wharf, London. Want to be part of the Master Control Room at one of the world's leading news agencies? Want to play a cruc...",
+      "descriptionTeaser_ats": "MCR Technical Operations Engineer - ReutersThis position is based in Canary Wharf, London.Want to be part of the Master Control Room at one of the world's leading news agencies? Want to play a crucial"
+    },
+    "externalApply": true,
+    "cityState": "London",
+    "country": "United Kingdom",
+    "visibilityType": "External",
+    "longitude": "-0.12574",
+    "jobId": "JREQ192923",
+    "locale": "en_US",
+    "title": "MCR Technical Operations Engineer - Reuters",
+    "jobSeqNo": "THTTRUUSJREQ192923EXTERNALENUS",
+    "postedDate": "2025-10-21T00:00:00.000+0000",
+    "dateCreated": "2025-07-11T20:45:46.501+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.12574,
+          "lat": 51.50853
+        },
+        "location": "London, United Kingdom"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Manila",
     "country": "Philippines",
     "remote": "Hybrid",
@@ -179,71 +244,6 @@
           "lat": 14.6042
         },
         "location": "Manila, Philippines"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "ml_skills": [
-      "verbal communication",
-      "networks",
-      "it infrastructure",
-      "tcp/ip",
-      "situational awareness"
-    ],
-    "remote": "On-Site",
-    "type": "Full time",
-    "descriptionTeaser": "Supervise and assess signal qualities, ensuring that all areas of the operation run to a high technical standard, and will take a key role in the preparation, testing and deployment of equipment for f...",
-    "state": "",
-    "siteType": "external",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ192923",
-    "city": "London",
-    "latitude": "51.50853",
-    "multi_location": [
-      "London, United Kingdom"
-    ],
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/MCR-Technical-Operations-Engineer---Reuters_JREQ192923/apply",
-    "ml_job_parser": {
-      "descriptionTeaser": "Supervise and assess signal qualities, ensuring that all areas of the operation run to a high technical standard, and will take a key role in the preparation, testing and deployment of equipment for f...",
-      "descriptionTeaser_first200": "MCR Technical Operations Engineer - Reuters. This position is based in Canary Wharf, London. Want to be part of the Master Control Room at one of the world's leading news agencies? Want to play a c...",
-      "descriptionTeaser_keyword": "MCR Technical Operations Engineer - Reuters. This position is based in Canary Wharf, London. Want to be part of the Master Control Room at one of the world's leading news agencies? Want to play a cruc...",
-      "descriptionTeaser_ats": "MCR Technical Operations Engineer - ReutersThis position is based in Canary Wharf, London.Want to be part of the Master Control Room at one of the world's leading news agencies? Want to play a crucial"
-    },
-    "externalApply": true,
-    "cityState": "London",
-    "country": "United Kingdom",
-    "visibilityType": "External",
-    "longitude": "-0.12574",
-    "jobId": "JREQ192923",
-    "locale": "en_US",
-    "title": "MCR Technical Operations Engineer - Reuters",
-    "jobSeqNo": "THTTRUUSJREQ192923EXTERNALENUS",
-    "postedDate": "2025-10-21T00:00:00.000+0000",
-    "dateCreated": "2025-07-11T20:45:46.501+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "jobVisibility": [
-      "external"
-    ],
-    "location": "London, United Kingdom",
-    "category": "News & Editorial Careers",
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -0.12574,
-          "lat": 51.50853
-        },
-        "location": "London, United Kingdom"
       }
     ],
     "isMultiCategory": false,
@@ -778,83 +778,6 @@
     "badge": ""
   },
   {
-    "ml_skills": [
-      "income tax",
-      "timely approvals",
-      "deliverables",
-      "project management",
-      "resource allocation",
-      "resource planning",
-      "product development",
-      "accuracy",
-      "administrative tasks",
-      "manual testing",
-      "technical knowledge",
-      "test plans",
-      "product testing",
-      "xsd",
-      "troubleshoot",
-      "training sessions",
-      "gosystem"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "As a Lead Quality Assurance & E-file Analyst, you will ensure the accuracy and quality of GoSystem, OneSource, and UltraTax income tax products by testing, analyzing, and validating software features...",
-    "state": "Telangana",
-    "siteType": "external",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ192283",
-    "city": "Hyderabad",
-    "latitude": "17.38405",
-    "multi_location": [
-      "Hyderabad, Telangana, India"
-    ],
-    "address": "Floor 12, 13 & 14, Building 11, Raheja Mindspace, Madhapur, Hyderabad- 500081, Telangana, India",
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Hyderabad-Raheja-Mindspace/Senior-Quality-Assurance-and-E-File-Analyst_JREQ192283/apply",
-    "ml_job_parser": {
-      "descriptionTeaser": "As a Lead Quality Assurance & E-file Analyst, you will ensure the accuracy and quality of GoSystem, OneSource, and UltraTax income tax products by testing, analyzing, and validating software features...",
-      "descriptionTeaser_first200": "As a Lead Quality Assurance & E-file Analyst, you will ensure the accuracy and quality of GoSystem, OneSource, and UltraTax income tax products by testing, analyzing, and validating software featur...",
-      "descriptionTeaser_keyword": "As a Lead Quality Assurance & E-file Analyst, you will ensure the accuracy and quality of GoSystem, OneSource, and UltraTax income tax products by testing, analyzing, and validating software features...",
-      "descriptionTeaser_ats": "As a Lead Quality Assurance & E-file Analyst, you will ensure the accuracy and quality of GoSystem, OneSource, and UltraTax income tax products by testing, analyzing, and validating software features"
-    },
-    "externalApply": true,
-    "cityState": "Hyderabad, Telangana",
-    "country": "India",
-    "visibilityType": "External",
-    "longitude": "78.45636",
-    "jobId": "JREQ192283",
-    "locale": "en_US",
-    "title": "Lead QA and E-File Analyst - US Taxation",
-    "jobSeqNo": "THTTRUUSJREQ192283EXTERNALENUS",
-    "postedDate": "2025-10-14T00:00:00.000+0000",
-    "dateCreated": "2025-07-29T16:38:44.630+0000",
-    "cityStateCountry": "Hyderabad, Telangana, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "location": "Hyderabad, Telangana, India",
-    "category": "News & Editorial Careers",
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 78.45636,
-          "lat": 17.38405
-        },
-        "location": "Hyderabad, Telangana, India"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Bengaluru, Karnataka",
     "country": "India",
     "ml_skills": [
@@ -911,133 +834,6 @@
           "lat": 12.97194
         },
         "location": "Bengaluru, Karnataka, India"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "New York, New York",
-    "country": "United States of America",
-    "ml_skills": [
-      "video production",
-      "journalism",
-      "financial services",
-      "reinsurance"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Join a dynamic newsroom to produce compelling video stories that simplify complex financial topics. Collaborate with industry experts and journalists, leveraging your video production skills to cover the evolving global risk landscape. Embrace this opportunity to shape impactful narratives in financial journalism!",
-    "state": "New York",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-73.9867",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ194998",
-    "jobId": "JREQ194998",
-    "city": "New York",
-    "latitude": "40.756696",
-    "locale": "en_US",
-    "multi_location": [
-      "New York, New York, United States of America"
-    ],
-    "title": "Video Producer (Level 1 Journalist) \u2013 The Insurer",
-    "jobSeqNo": "THTTRUUSJREQ194998EXTERNALENUS",
-    "postedDate": "2025-10-08T00:00:00.000+0000",
-    "dateCreated": "2025-10-08T20:35:59.278+0000",
-    "cityStateCountry": "New York, New York, United States of America",
-    "address": "3 Times Square, New York, NY 10036, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/USA-New-York-3-Times-Square/Video-Producer--Level-1-Journalist----The-Insurer_JREQ194998/apply",
-    "location": "New York, New York, United States of America",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Join a dynamic newsroom to produce compelling video stories that simplify complex financial topics. Collaborate with industry experts and journalists, leveraging your video production skills to cover the evolving global risk landscape. Embrace this opportunity to shape impactful narratives in financial journalism!",
-      "descriptionTeaser_first200": "Are you a video journalist looking to cover a dynamic and significant segment of the global financial services sector from the heart of the Reuters newsroom? If so, this could be the opportunity for y...",
-      "descriptionTeaser_keyword": "Are you a video journalist looking to cover a dynamic and significant segment of the global financial services sector from the heart of the Reuters newsroom? If so, this could be the opportunity for y...",
-      "descriptionTeaser_ats": "Are you a video journalist looking to cover a dynamic and significant segment of the global financial services sector from the heart of the Reuters newsroom? If so, this could be the opportunity for y"
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -73.9867,
-          "lat": 40.756696
-        },
-        "location": "New York, New York, United States of America"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Hyderabad, Telangana",
-    "country": "India",
-    "ml_skills": [
-      "accounting",
-      "income tax",
-      "tax preparer"
-    ],
-    "remote": "On-Site",
-    "type": "Full time",
-    "descriptionTeaser": "Join a dynamic team where your expertise in tax preparation will shine! With 1-3 years of experience, you'll prepare accurate federal and state returns, engage with clients, and contribute to training initiatives. Enjoy a flexible hybrid work model and opportunities for professional growth in a supportive environment.",
-    "state": "Telangana",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "78.3821476",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ194905",
-    "jobId": "JREQ194905",
-    "city": "Hyderabad",
-    "latitude": "17.4383157",
-    "locale": "en_US",
-    "multi_location": [
-      "Hyderabad, Telangana, India"
-    ],
-    "title": "Process Associate",
-    "jobSeqNo": "THTTRUUSJREQ194905EXTERNALENUS",
-    "postedDate": "2025-10-07T00:00:00.000+0000",
-    "dateCreated": "2025-10-07T12:36:24.680+0000",
-    "cityStateCountry": "Hyderabad, Telangana, India",
-    "address": "Floor 12, 13 & 14, Building 11, Raheja Mindspace, Madhapur, Hyderabad- 500081, Telangana, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Hyderabad-Raheja-Mindspace/Process-Associate_JREQ194905/apply",
-    "location": "Hyderabad, Telangana, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Join a dynamic team where your expertise in tax preparation will shine! With 1-3 years of experience, you'll prepare accurate federal and state returns, engage with clients, and contribute to training initiatives. Enjoy a flexible hybrid work model and opportunities for professional growth in a supportive environment.",
-      "descriptionTeaser_first200": "As a U.S. Tax Preparer, you will be responsible for preparing accurate and timely federal and state income tax returns for individuals, estates, and exempt organizations. About The Role. Prepare accur...",
-      "descriptionTeaser_keyword": "As a U.S. Tax Preparer, you will be responsible for preparing accurate and timely federal and state income tax returns for individuals, estates, and exempt organizations. About The Role. Prepare accur...",
-      "descriptionTeaser_ats": "As a U.S. Tax Preparer, you will be responsible for preparing accurate and timely federal and state income tax returns for individuals, estates, and exempt organizations.About The Role .  Prepare accur"
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 78.3821476,
-          "lat": 17.4383157
-        },
-        "location": "Hyderabad, Telangana, India"
       }
     ],
     "isMultiCategory": false,
