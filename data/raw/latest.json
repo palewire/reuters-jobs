@@ -1,5 +1,70 @@
 [
   {
+    "cityState": "Gdansk",
+    "country": "Poland",
+    "ml_skills": [
+      "english",
+      "search",
+      "accuracy",
+      "stock markets",
+      "operation"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Reuters is seeking a candidate who can speak fluent English and Italian to join its real-time news operation in Gdansk, Poland. Write headlines and news summaries accurately, quickly and with high sta...",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "18.64912",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ195619",
+    "jobId": "JREQ195619",
+    "city": "Gdansk",
+    "latitude": "54.35227",
+    "locale": "en_US",
+    "multi_location": [
+      "Gdansk, Poland"
+    ],
+    "title": "News Reporter, Italian",
+    "jobSeqNo": "THTTRUUSJREQ195619EXTERNALENUS",
+    "postedDate": "2025-10-28T00:00:00.000+0000",
+    "dateCreated": "2025-10-28T12:43:30.731+0000",
+    "cityStateCountry": "Gdansk, Poland",
+    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/News-Reporter--Italian_JREQ195619/apply",
+    "location": "Gdansk, Poland",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Reuters is seeking a candidate who can speak fluent English and Italian to join its real-time news operation in Gdansk, Poland. Write headlines and news summaries accurately, quickly and with high sta...",
+      "descriptionTeaser_first200": "Reuters is seeking a candidate who can speak fluent English and Italian to join its real-time news operation in Gdansk, Poland. The reporter will work in fast-paced, international environment and g...",
+      "descriptionTeaser_keyword": "Reuters is seeking a candidate who can speak fluent English and Italian to join its real-time news operation in Gdansk, Poland. The reporter will work in fast-paced, international environment and get...",
+      "descriptionTeaser_ats": "Reuters is seeking a candidate who can speak fluent English and Italian to join its real-time news operation in Gdansk, Poland.The reporter will work in fast-paced, international environment and get t"
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 18.64912,
+          "lat": 54.35227
+        },
+        "location": "Gdansk, Poland"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Hong Kong",
     "country": "Hong Kong",
     "ml_skills": [
@@ -314,73 +379,6 @@
           "lat": 44.80413
         },
         "location": "Eagan, Minnesota, United States of America"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Gdansk",
-    "country": "Poland",
-    "ml_skills": [
-      "accounting",
-      "state tax",
-      "prioritizing",
-      "microsoft excel",
-      "westlaw",
-      "english",
-      "compliance software"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "We are looking for a detail-oriented professional to analyze and interpret tax laws, manage multi-state tax returns, and respond to client inquiries. Leverage your accounting expertise and research skills while enjoying a flexible hybrid work environment and opportunities for career growth. Join us in making a real-world impact!",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "18.64912",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ193593",
-    "jobId": "JREQ193593",
-    "city": "Gdansk",
-    "latitude": "54.35227",
-    "locale": "en_US",
-    "multi_location": [
-      "Gdansk, Poland"
-    ],
-    "title": "Tax Associate",
-    "jobSeqNo": "THTTRUUSJREQ193593EXTERNALENUS",
-    "postedDate": "2025-10-20T00:00:00.000+0000",
-    "dateCreated": "2025-08-04T08:40:18.882+0000",
-    "cityStateCountry": "Gdansk, Poland",
-    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/POL-Gdansk-Alchemia-3-Building/Tax-Associate--Tax-Calendar-_JREQ193593/apply",
-    "location": "Gdansk, Poland",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "We are looking for a detail-oriented professional to analyze and interpret tax laws, manage multi-state tax returns, and respond to client inquiries. Leverage your accounting expertise and research skills while enjoying a flexible hybrid work environment and opportunities for career growth. Join us in making a real-world impact!",
-      "descriptionTeaser_first200": "We are looking for a Tax Associate (Tax Calendar) to join our Team. In this role, you will be responsible for the analyzing, researching, interpreting and documenting laws and regulations and their po...",
-      "descriptionTeaser_keyword": "We are looking for a Tax Associate (Tax Calendar) to join our Team. In this role, you will be responsible for the analyzing, researching, interpreting and documenting laws and regulations and their po...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 18.64912,
-          "lat": 54.35227
-        },
-        "location": "Gdansk, Poland"
       }
     ],
     "isMultiCategory": false,
