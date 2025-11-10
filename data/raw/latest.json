@@ -4,7 +4,7 @@
     "country": "India",
     "remote": "On-Site",
     "type": "Full time",
-    "descriptionTeaser": "As a Tax Reviewer, review U.S. federal/state tax returns for accuracy and compliance, manage corrections and deadlines, mentor preparers, and finalize e-file-ready deliverables.About The RoleDetailed ",
+    "descriptionTeaser": "Join our team as a Tax Reviewer, where you will ensure the accuracy and compliance of U.S. tax returns, mentor preparers, and manage client deliverables. If you have a strong background in U.S. taxation and excellent analytical skills, we want to hear from you!",
     "state": "Telangana",
     "visibilityType": "External",
     "siteType": "external",
@@ -33,6 +33,29 @@
     "location": "Hyderabad, Telangana, India",
     "category": "News & Editorial Careers",
     "externalApply": true,
+    "ml_skills": [
+      "u.s. taxation",
+      "form 1065",
+      "form 1120s",
+      "form 1120",
+      "microsoft excel",
+      "tax software",
+      "accounting expertise",
+      "go system",
+      "cch axcess",
+      "ultratax",
+      "analytical skills",
+      "leadership",
+      "communication skills",
+      "time management",
+      "organizational abilities"
+    ],
+    "ml_job_parser": {
+      "descriptionTeaser": "Join our team as a Tax Reviewer, where you will ensure the accuracy and compliance of U.S. tax returns, mentor preparers, and manage client deliverables. If you have a strong background in U.S. taxation and excellent analytical skills, we want to hear from you!",
+      "descriptionTeaser_first200": "As a Tax Reviewer, review U.S. federal/state tax returns for accuracy and compliance, manage corrections and deadlines, mentor preparers, and finalize e-file-ready deliverables.About The RoleDetail...",
+      "descriptionTeaser_keyword": "As a Tax Reviewer, review U.S. federal/state tax returns for accuracy and compliance, manage corrections and deadlines, mentor preparers, and finalize e-file-ready deliverables. About The RoleDetailed...",
+      "descriptionTeaser_ats": "As a Tax Reviewer, review U.S. federal/state tax returns for accuracy and compliance, manage corrections and deadlines, mentor preparers, and finalize e-file-ready deliverables.About The RoleDetailed"
+    },
     "isMultiLocation": true,
     "multi_location_array": [
       {
@@ -1734,76 +1757,6 @@
           "lat": 51.5056439
         },
         "location": "London, United Kingdom"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Toronto, Ontario",
-    "country": "Canada",
-    "ml_skills": [
-      "lawyer",
-      "corporate law",
-      "bankruptcy",
-      "english",
-      "drafting skills",
-      "insolvency",
-      "technical support",
-      "ai",
-      "product development",
-      "model performance"
-    ],
-    "remote": "Remote",
-    "type": "Full time",
-    "descriptionTeaser": "Are you looking for an opportunity to leverage your extensive experience in commercial insolvency and restructuring? Join a dynamic team where you\u2019ll create essential legal resources, stay ahead of industry trends, and support innovative AI initiatives\u2014all while enjoying flexibility and a commitment to work-life balance.",
-    "state": "Ontario",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-79.388196",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ194435",
-    "jobId": "JREQ194435",
-    "city": "Toronto",
-    "latitude": "43.648096",
-    "locale": "en_US",
-    "multi_location": [
-      "Toronto, Ontario, Canada"
-    ],
-    "title": "Senior Lawyer Editor, Insolvency/Restructuring",
-    "jobSeqNo": "THTTRUUSJREQ194435EXTERNALENUS",
-    "postedDate": "2025-09-23T00:00:00.000+0000",
-    "dateCreated": "2025-09-09T20:40:12.441+0000",
-    "cityStateCountry": "Toronto, Ontario, Canada",
-    "address": "19 Duncan Street, Toronto, ON M5H 3H1, Canada",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/CAN-Toronto-19-Duncan-Street/Senior-Lawyer-Editor--Insolvency-Restructuring_JREQ194435/apply",
-    "location": "Toronto, Ontario, Canada",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Are you looking for an opportunity to leverage your extensive experience in commercial insolvency and restructuring? Join a dynamic team where you\u2019ll create essential legal resources, stay ahead of industry trends, and support innovative AI initiatives\u2014all while enjoying flexibility and a commitment to work-life balance.",
-      "descriptionTeaser_first200": "Senior Specialist Legal Editor, Insolvency & Restructuring. Role Summary. Practical Law Canada is looking for an Insolvency & Restructuring Editor who has a passion for research and writing on legal t...",
-      "descriptionTeaser_keyword": "Senior Specialist Legal Editor, Insolvency & Restructuring. Role Summary. Practical Law Canada is looking for an Insolvency & Restructuring Editor who has a passion for research and writing on legal t...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -79.388196,
-          "lat": 43.648096
-        },
-        "location": "Toronto, Ontario, Canada"
       }
     ],
     "isMultiCategory": false,
