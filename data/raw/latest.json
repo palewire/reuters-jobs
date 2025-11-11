@@ -361,73 +361,6 @@
     "badge": ""
   },
   {
-    "cityState": "Hyderabad, Telangana",
-    "country": "India",
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Creating concise, relevant and grammatically correct document summaries and posting to Highlights sections of Taxnet Pro.; assigning subject headings and posting items to site. Preparing documents for...",
-    "state": "Telangana",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "78.45636",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ195302",
-    "jobId": "JREQ195302",
-    "city": "Hyderabad",
-    "latitude": "17.38405",
-    "locale": "en_US",
-    "multi_location": [
-      "Hyderabad, Telangana, India"
-    ],
-    "title": "Publisher - Canadian Tax",
-    "jobSeqNo": "THTTRUUSJREQ195302EXTERNALENUS",
-    "postedDate": "2025-11-03T00:00:00.000+0000",
-    "dateCreated": "2025-11-03T12:49:44.430+0000",
-    "cityStateCountry": "Hyderabad, Telangana, India",
-    "address": "Floor 12, 13 & 14, Building 11, Raheja Mindspace, Madhapur, Hyderabad- 500081, Telangana, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Hyderabad-Raheja-Mindspace/Publisher---Canadian-Tax_JREQ195302/apply",
-    "location": "Hyderabad, Telangana, India",
-    "category": "News & Editorial Careers",
-    "externalApply": true,
-    "ml_skills": [
-      "html",
-      "adobe acrobat",
-      "accuracy",
-      "written communication skills",
-      "xhtml",
-      "generative ai",
-      "agile environment"
-    ],
-    "ml_job_parser": {
-      "descriptionTeaser": "Creating concise, relevant and grammatically correct document summaries and posting to Highlights sections of Taxnet Pro.; assigning subject headings and posting items to site. Preparing documents for...",
-      "descriptionTeaser_first200": "Join our dynamic team and play a pivotal role in delivering timely, accurate, and insightful tax-related content to professionals across Canada. As a key contributor, you'll be responsible for sour...",
-      "descriptionTeaser_keyword": "Join our dynamic team and play a pivotal role in delivering timely, accurate, and insightful tax-related content to professionals across Canada. As a key contributor, you'll be responsible for sourcin...",
-      "descriptionTeaser_ats": "Join our dynamic team and play a pivotal role in delivering timely, accurate, and insightful tax-related content to professionals across Canada. As a key contributor, you'll be responsible for sourcin"
-    },
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 78.45636,
-          "lat": 17.38405
-        },
-        "location": "Hyderabad, Telangana, India"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Bengaluru, Karnataka",
     "country": "India",
     "remote": "Hybrid",
@@ -539,6 +472,73 @@
           "lat": 12.97194
         },
         "location": "Bengaluru, Karnataka, India"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Hyderabad, Telangana",
+    "country": "India",
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Creating concise, relevant and grammatically correct document summaries and posting to Highlights sections of Taxnet Pro.; assigning subject headings and posting items to site. Preparing documents for...",
+    "state": "Telangana",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "78.45636",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ195302",
+    "jobId": "JREQ195302",
+    "city": "Hyderabad",
+    "latitude": "17.38405",
+    "locale": "en_US",
+    "multi_location": [
+      "Hyderabad, Telangana, India"
+    ],
+    "title": "Publisher - Canadian Tax",
+    "jobSeqNo": "THTTRUUSJREQ195302EXTERNALENUS",
+    "postedDate": "2025-11-03T00:00:00.000+0000",
+    "dateCreated": "2025-11-03T12:49:44.430+0000",
+    "cityStateCountry": "Hyderabad, Telangana, India",
+    "address": "Floor 12, 13 & 14, Building 11, Raheja Mindspace, Madhapur, Hyderabad- 500081, Telangana, India",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Hyderabad-Raheja-Mindspace/Publisher---Canadian-Tax_JREQ195302/apply",
+    "location": "Hyderabad, Telangana, India",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "ml_skills": [
+      "html",
+      "adobe acrobat",
+      "accuracy",
+      "written communication skills",
+      "xhtml",
+      "generative ai",
+      "agile environment"
+    ],
+    "ml_job_parser": {
+      "descriptionTeaser": "Creating concise, relevant and grammatically correct document summaries and posting to Highlights sections of Taxnet Pro.; assigning subject headings and posting items to site. Preparing documents for...",
+      "descriptionTeaser_first200": "Join our dynamic team and play a pivotal role in delivering timely, accurate, and insightful tax-related content to professionals across Canada. As a key contributor, you'll be responsible for sour...",
+      "descriptionTeaser_keyword": "Join our dynamic team and play a pivotal role in delivering timely, accurate, and insightful tax-related content to professionals across Canada. As a key contributor, you'll be responsible for sourcin...",
+      "descriptionTeaser_ats": "Join our dynamic team and play a pivotal role in delivering timely, accurate, and insightful tax-related content to professionals across Canada. As a key contributor, you'll be responsible for sourcin"
+    },
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 78.45636,
+          "lat": 17.38405
+        },
+        "location": "Hyderabad, Telangana, India"
       }
     ],
     "isMultiCategory": false,
@@ -951,73 +951,6 @@
     "badge": ""
   },
   {
-    "cityState": "Manila",
-    "country": "Philippines",
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "We are looking for talented legal writers to create concise, impactful abstracts of legal journal articles. Utilize your analytical skills and legal knowledge to support professionals in making informed research decisions while enjoying a flexible work environment that promotes career growth and work-life balance.",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "120.9822",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ194562",
-    "jobId": "JREQ194562",
-    "city": "Manila",
-    "latitude": "14.6042",
-    "locale": "en_US",
-    "multi_location": [
-      "Manila, Philippines"
-    ],
-    "title": "Legal Editor",
-    "jobSeqNo": "THTTRUUSJREQ194562EXTERNALENUS",
-    "postedDate": "2025-10-21T00:00:00.000+0000",
-    "dateCreated": "2025-10-21T08:39:24.059+0000",
-    "cityStateCountry": "Manila, Philippines",
-    "address": "20 Upper McKinley Building, Upper McKinley Road, McKinley Hill, Manila, 1634, Philippines",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/PHL-Taguig-20-Upper-McKinley-Bldg/Legal-Editor_JREQ194562/apply",
-    "location": "Manila, Philippines",
-    "category": "News & Editorial Careers",
-    "externalApply": true,
-    "ml_skills": [
-      "legal research",
-      "westlaw",
-      "accuracy",
-      "pivot",
-      "english communication",
-      "technical proficiency",
-      "generative ai"
-    ],
-    "ml_job_parser": {
-      "descriptionTeaser": "We are looking for talented legal writers to create concise, impactful abstracts of legal journal articles. Utilize your analytical skills and legal knowledge to support professionals in making informed research decisions while enjoying a flexible work environment that promotes career growth and work-life balance.",
-      "descriptionTeaser_first200": "Legal Editor - Legal Journal Abstract Writer (Job Profile: 104609 \u2013 Legal Editor TR6). In the Legal Journal Abstract Writer role, you will leverage your legal analytical and writing skills across a wi...",
-      "descriptionTeaser_keyword": "Legal Editor - Legal Journal Abstract Writer (Job Profile: 104609 \u2013 Legal Editor TR6). In the Legal Journal Abstract Writer role, you will leverage your legal analytical and writing skills across a wi...",
-      "descriptionTeaser_ats": "Legal Editor - Legal Journal Abstract Writer (Job Profile .  104609 \u2013 Legal Editor TR6)In the Legal Journal Abstract Writer role, you will leverage your legal analytical and writing skills across a wide"
-    },
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 120.9822,
-          "lat": 14.6042
-        },
-        "location": "Manila, Philippines"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Eagan, Minnesota",
     "country": "United States of America",
     "ml_skills": [
@@ -1077,6 +1010,73 @@
           "lat": 44.80413
         },
         "location": "Eagan, Minnesota, United States of America"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Manila",
+    "country": "Philippines",
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "We are looking for talented legal writers to create concise, impactful abstracts of legal journal articles. Utilize your analytical skills and legal knowledge to support professionals in making informed research decisions while enjoying a flexible work environment that promotes career growth and work-life balance.",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "120.9822",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ194562",
+    "jobId": "JREQ194562",
+    "city": "Manila",
+    "latitude": "14.6042",
+    "locale": "en_US",
+    "multi_location": [
+      "Manila, Philippines"
+    ],
+    "title": "Legal Editor",
+    "jobSeqNo": "THTTRUUSJREQ194562EXTERNALENUS",
+    "postedDate": "2025-10-21T00:00:00.000+0000",
+    "dateCreated": "2025-10-21T08:39:24.059+0000",
+    "cityStateCountry": "Manila, Philippines",
+    "address": "20 Upper McKinley Building, Upper McKinley Road, McKinley Hill, Manila, 1634, Philippines",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/PHL-Taguig-20-Upper-McKinley-Bldg/Legal-Editor_JREQ194562/apply",
+    "location": "Manila, Philippines",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "ml_skills": [
+      "legal research",
+      "westlaw",
+      "accuracy",
+      "pivot",
+      "english communication",
+      "technical proficiency",
+      "generative ai"
+    ],
+    "ml_job_parser": {
+      "descriptionTeaser": "We are looking for talented legal writers to create concise, impactful abstracts of legal journal articles. Utilize your analytical skills and legal knowledge to support professionals in making informed research decisions while enjoying a flexible work environment that promotes career growth and work-life balance.",
+      "descriptionTeaser_first200": "Legal Editor - Legal Journal Abstract Writer (Job Profile: 104609 \u2013 Legal Editor TR6). In the Legal Journal Abstract Writer role, you will leverage your legal analytical and writing skills across a wi...",
+      "descriptionTeaser_keyword": "Legal Editor - Legal Journal Abstract Writer (Job Profile: 104609 \u2013 Legal Editor TR6). In the Legal Journal Abstract Writer role, you will leverage your legal analytical and writing skills across a wi...",
+      "descriptionTeaser_ats": "Legal Editor - Legal Journal Abstract Writer (Job Profile .  104609 \u2013 Legal Editor TR6)In the Legal Journal Abstract Writer role, you will leverage your legal analytical and writing skills across a wide"
+    },
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 120.9822,
+          "lat": 14.6042
+        },
+        "location": "Manila, Philippines"
       }
     ],
     "isMultiCategory": false,
@@ -2647,68 +2647,6 @@
           "lat": 14.5510266
         },
         "location": "Makati City, Philippines"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Bengaluru, Karnataka",
-    "country": "India",
-    "ml_skills": [
-      "build",
-      "developing"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Join a dynamic team where your expertise in financial markets will shine! Lead engaging discussions in a vibrant chat community, connect with industry leaders, and promote insightful content. Bring your 3-6 years of experience and passion for market trends to foster collaboration and knowledge sharing.",
-    "state": "Karnataka",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "77.708722",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ191050",
-    "jobId": "JREQ191050",
-    "city": "Bengaluru",
-    "latitude": "12.9776035",
-    "locale": "en_US",
-    "multi_location": [
-      "Bengaluru, Karnataka, India"
-    ],
-    "title": "EMEA Editor, Global Markets Forum",
-    "jobSeqNo": "THTTRUUSJREQ191050EXTERNALENUS",
-    "postedDate": "2025-07-24T00:00:00.000+0000",
-    "dateCreated": "2025-06-06T12:43:45.302+0000",
-    "cityStateCountry": "Bengaluru, Karnataka, India",
-    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/EMEA-Editor--Global-Markets-Forum_JREQ191050-1/apply",
-    "location": "Bengaluru, Karnataka, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Join a dynamic team where your expertise in financial markets will shine! Lead engaging discussions in a vibrant chat community, connect with industry leaders, and promote insightful content. Bring your 3-6 years of experience and passion for market trends to foster collaboration and knowledge sharing.",
-      "descriptionTeaser_first200": "SUMMARY. Reuters is looking for an experienced financial markets journalist to lead our Global Markets Forum during EMEA working hours. The Global Markets Forum is a chat room hosted on the Reuters Me...",
-      "descriptionTeaser_keyword": "SUMMARY. Reuters is looking for an experienced financial markets journalist to lead our Global Markets Forum during EMEA working hours. The Global Markets Forum is a chat room hosted on the Reuters Me...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 77.708722,
-          "lat": 12.9776035
-        },
-        "location": "Bengaluru, Karnataka, India"
       }
     ],
     "isMultiCategory": false,
