@@ -1,5 +1,72 @@
 [
   {
+    "ml_skills": [
+      "paralegal",
+      "legal expertise",
+      "english",
+      "ai",
+      "attention to detail",
+      "generative ai",
+      "curious mindset"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Join a dynamic team where your legal expertise will shape online content that interprets UAE and Saudi Arabian legal developments. Leverage your paralegal experience and passion for technology to create impactful resources while enjoying a flexible work environment and opportunities for growth.",
+    "state": "Dubai",
+    "siteType": "external",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ194841",
+    "city": "",
+    "latitude": "25.07725",
+    "multi_location": [
+      "Dubai, United Arab Emirates"
+    ],
+    "address": "Dubai Loft Offices Building 1, Floor 2 Unit 204, Media City, Dubai, United Arab Emirates",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/ARE-Dubai-Dubai-Loft-Offices-Building-1/Associate-Editor--Practical-Law--Middle-East-_JREQ194841/apply",
+    "ml_job_parser": {
+      "descriptionTeaser": "Join a dynamic team where your legal expertise will shape online content that interprets UAE and Saudi Arabian legal developments. Leverage your paralegal experience and passion for technology to create impactful resources while enjoying a flexible work environment and opportunities for growth.",
+      "descriptionTeaser_first200": "As an Associate Editor in Practical Law Middle East, you will work in conjunction with more experienced colleagues to interpret and explain United Arab Emirates (UAE) and Saudi Arabian legal, pract...",
+      "descriptionTeaser_keyword": "As an Associate Editor in Practical Law Middle East, you will work in conjunction with more experienced colleagues to interpret and explain United Arab Emirates (UAE) and Saudi Arabian legal, practice...",
+      "descriptionTeaser_ats": "As an Associate Editor in Practical Law Middle East, you will work in conjunction with more experienced colleagues to interpret and explain United Arab Emirates (UAE) and Saudi Arabian legal, practice"
+    },
+    "externalApply": true,
+    "cityState": "Dubai",
+    "country": "United Arab Emirates",
+    "visibilityType": "External",
+    "longitude": "55.30927",
+    "jobId": "JREQ194841",
+    "locale": "en_US",
+    "title": "Associate Editor, Practical Law (Middle East)",
+    "jobSeqNo": "THTTRUUSJREQ194841EXTERNALENUS",
+    "postedDate": "2025-11-12T00:00:00.000+0000",
+    "dateCreated": "2025-10-03T16:41:08.831+0000",
+    "cityStateCountry": "Dubai, United Arab Emirates",
+    "jobVisibility": [
+      "external"
+    ],
+    "location": "Dubai, United Arab Emirates",
+    "category": "News & Editorial Careers",
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 55.30927,
+          "lat": 25.07725
+        },
+        "location": "Dubai, United Arab Emirates"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Hyderabad, Telangana",
     "country": "India",
     "remote": "On-Site",
@@ -189,96 +256,6 @@
       "descriptionTeaser_keyword": "As a U.S. Tax Reviewer, you will play a critical role in ensuring the accuracy, compliance, and timely delivery of federal and state income tax returns for a diverse portfolio of clients, including in...",
       "descriptionTeaser_ats": "As a U.S. Tax Reviewer, you will play a critical role in ensuring the accuracy, compliance, and timely delivery of federal and state income tax returns for a diverse portfolio of clients, including in"
     },
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 78.45636,
-          "lat": 17.38405
-        },
-        "location": "Hyderabad, Telangana, India"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "ml_skills": [
-      "application development",
-      "communication skills",
-      "cloud",
-      "mlops",
-      "ci/cd",
-      "distributed applications",
-      "aws",
-      "c++",
-      "c#",
-      "azure",
-      "nlp",
-      "java",
-      "azure devops",
-      "cloud platforms",
-      "github actions",
-      "cloud-native application",
-      "python",
-      "cloud infrastructure",
-      "github",
-      "software development",
-      "ci/cd tools",
-      "ai/ml",
-      "gcp",
-      "application architecture",
-      "software engineering",
-      "ai",
-      "computer science",
-      "kubernetes",
-      "version control",
-      "system design"
-    ],
-    "remote": "On-Site",
-    "type": "Full time",
-    "descriptionTeaser": "This role requires strong problem-solving skills, a willingness to learn, and the ability to work collaboratively in a fast-paced environment. Analysis of different documents and extraction of data fr...",
-    "state": "Telangana",
-    "siteType": "external",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ194915",
-    "city": "Hyderabad",
-    "latitude": "17.38405",
-    "multi_location": [
-      "Hyderabad, Telangana, India"
-    ],
-    "address": "Floor 12, 13 & 14, Building 11, Raheja Mindspace, Madhapur, Hyderabad- 500081, Telangana, India",
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-Hyderabad-Raheja-Mindspace/Process-Associate_JREQ194915/apply",
-    "ml_job_parser": {
-      "descriptionTeaser": "This role requires strong problem-solving skills, a willingness to learn, and the ability to work collaboratively in a fast-paced environment. Analysis of different documents and extraction of data fr...",
-      "descriptionTeaser_first200": "We are seeking a detail-oriented and proactive Process Associate to join our Team. The ideal candidate will be responsible for the analysis of the document and extraction of data from the document ...",
-      "descriptionTeaser_keyword": "We are seeking a detail-oriented and proactive Process Associate to join our Team. The ideal candidate will be responsible for the analysis of the document and extraction of data from the document by...",
-      "descriptionTeaser_ats": "We are seeking a detail-oriented and proactive Process Associate to join our Team. The ideal candidate will be responsible for the analysis of the document and extraction of data from the document by"
-    },
-    "externalApply": true,
-    "cityState": "Hyderabad, Telangana",
-    "country": "India",
-    "visibilityType": "External",
-    "longitude": "78.45636",
-    "jobId": "JREQ194915",
-    "locale": "en_US",
-    "title": "Process Associate",
-    "jobSeqNo": "THTTRUUSJREQ194915EXTERNALENUS",
-    "postedDate": "2025-11-04T00:00:00.000+0000",
-    "dateCreated": "2025-10-06T08:41:00.841+0000",
-    "cityStateCountry": "Hyderabad, Telangana, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "location": "Hyderabad, Telangana, India",
-    "category": "News & Editorial Careers",
     "isMultiLocation": true,
     "multi_location_array": [
       {
@@ -951,71 +928,6 @@
     "badge": ""
   },
   {
-    "ml_skills": [
-      "verbal communication",
-      "networks",
-      "it infrastructure",
-      "tcp/ip",
-      "situational awareness"
-    ],
-    "remote": "On-Site",
-    "type": "Full time",
-    "descriptionTeaser": "Supervise and assess signal qualities, ensuring that all areas of the operation run to a high technical standard, and will take a key role in the preparation, testing and deployment of equipment for f...",
-    "state": "",
-    "siteType": "external",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ192923",
-    "city": "London",
-    "latitude": "51.50853",
-    "multi_location": [
-      "London, United Kingdom"
-    ],
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/MCR-Technical-Operations-Engineer---Reuters_JREQ192923/apply",
-    "ml_job_parser": {
-      "descriptionTeaser": "Supervise and assess signal qualities, ensuring that all areas of the operation run to a high technical standard, and will take a key role in the preparation, testing and deployment of equipment for f...",
-      "descriptionTeaser_first200": "MCR Technical Operations Engineer - Reuters. This position is based in Canary Wharf, London. Want to be part of the Master Control Room at one of the world's leading news agencies? Want to play a c...",
-      "descriptionTeaser_keyword": "MCR Technical Operations Engineer - Reuters. This position is based in Canary Wharf, London. Want to be part of the Master Control Room at one of the world's leading news agencies? Want to play a cruc...",
-      "descriptionTeaser_ats": "MCR Technical Operations Engineer - ReutersThis position is based in Canary Wharf, London.Want to be part of the Master Control Room at one of the world's leading news agencies? Want to play a crucial"
-    },
-    "externalApply": true,
-    "cityState": "London",
-    "country": "United Kingdom",
-    "visibilityType": "External",
-    "longitude": "-0.12574",
-    "jobId": "JREQ192923",
-    "locale": "en_US",
-    "title": "MCR Technical Operations Engineer - Reuters",
-    "jobSeqNo": "THTTRUUSJREQ192923EXTERNALENUS",
-    "postedDate": "2025-10-21T00:00:00.000+0000",
-    "dateCreated": "2025-07-11T20:45:46.501+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "jobVisibility": [
-      "external"
-    ],
-    "location": "London, United Kingdom",
-    "category": "News & Editorial Careers",
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -0.12574,
-          "lat": 51.50853
-        },
-        "location": "London, United Kingdom"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Eagan, Minnesota",
     "country": "United States of America",
     "ml_skills": [
@@ -1366,73 +1278,6 @@
           "lat": 54.35227
         },
         "location": "Gdansk, Poland"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Bengaluru, Karnataka",
-    "country": "India",
-    "ml_skills": [
-      "english",
-      "strong writing skills",
-      "media relations",
-      "monitoring",
-      "accuracy",
-      "recalls",
-      "mergers"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Seeking an opportunity to lead a dynamic global news team? Leverage your 6+ years of experience in breaking news, strong writing skills, and sharp news judgment. Join a fast-paced environment where you'll monitor critical stories, mentor new talent, and make an impact on global journalism.",
-    "state": "Karnataka",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "77.59369",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ195138",
-    "jobId": "JREQ195138",
-    "city": "Bengaluru",
-    "latitude": "12.97194",
-    "locale": "en_US",
-    "multi_location": [
-      "Bengaluru, Karnataka, India"
-    ],
-    "title": "Deputy Editor in Charge, Global News Monitoring",
-    "jobSeqNo": "THTTRUUSJREQ195138EXTERNALENUS",
-    "postedDate": "2025-10-14T00:00:00.000+0000",
-    "dateCreated": "2025-10-14T12:37:00.200+0000",
-    "cityStateCountry": "Bengaluru, Karnataka, India",
-    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/Deputy-Editor-in-Charge--Global-News-Monitoring_JREQ195138/apply",
-    "location": "Bengaluru, Karnataka, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Seeking an opportunity to lead a dynamic global news team? Leverage your 6+ years of experience in breaking news, strong writing skills, and sharp news judgment. Join a fast-paced environment where you'll monitor critical stories, mentor new talent, and make an impact on global journalism.",
-      "descriptionTeaser_first200": "Deputy Editor in Charge, Global News Monitoring. Reuters is looking for a deputy Editor in Charge to join our growing Global News Monitoring (GNM) team in Bengaluru. Want to break some of the most ...",
-      "descriptionTeaser_keyword": "Deputy Editor in Charge, Global News Monitoring. Reuters is looking for a deputy Editor in Charge to join our growing Global News Monitoring (GNM) team in Bengaluru. Want to break some of the most imp...",
-      "descriptionTeaser_ats": "Deputy Editor in Charge, Global News Monitoring . Reuters is looking for a deputy Editor in Charge to join our growing Global News Monitoring (GNM) team in Bengaluru.Want to break some of the most impor"
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 77.59369,
-          "lat": 12.97194
-        },
-        "location": "Bengaluru, Karnataka, India"
       }
     ],
     "isMultiCategory": false,
@@ -2712,68 +2557,6 @@
           "lat": 14.5510266
         },
         "location": "Makati City, Philippines"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Bengaluru, Karnataka",
-    "country": "India",
-    "ml_skills": [
-      "build",
-      "developing"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Join a dynamic team where your expertise in financial markets will shine! Lead engaging discussions in a vibrant chat community, connect with industry leaders, and promote insightful content. Bring your 3-6 years of experience and passion for market trends to foster collaboration and knowledge sharing.",
-    "state": "Karnataka",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "77.708722",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ191050",
-    "jobId": "JREQ191050",
-    "city": "Bengaluru",
-    "latitude": "12.9776035",
-    "locale": "en_US",
-    "multi_location": [
-      "Bengaluru, Karnataka, India"
-    ],
-    "title": "EMEA Editor, Global Markets Forum",
-    "jobSeqNo": "THTTRUUSJREQ191050EXTERNALENUS",
-    "postedDate": "2025-07-24T00:00:00.000+0000",
-    "dateCreated": "2025-06-06T12:43:45.302+0000",
-    "cityStateCountry": "Bengaluru, Karnataka, India",
-    "address": "Salarpuria Sattva Knowledge Court, 4th Floor & 5th Floor of Office - 2, Wing B, Plot No. 9, Phase I, Doddenakkundi Industrial Area, Doddenakkundi Village, K R Puram Hobli, Bengaluru- 560048, Karnataka, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/EMEA-Editor--Global-Markets-Forum_JREQ191050-1/apply",
-    "location": "Bengaluru, Karnataka, India",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Join a dynamic team where your expertise in financial markets will shine! Lead engaging discussions in a vibrant chat community, connect with industry leaders, and promote insightful content. Bring your 3-6 years of experience and passion for market trends to foster collaboration and knowledge sharing.",
-      "descriptionTeaser_first200": "SUMMARY. Reuters is looking for an experienced financial markets journalist to lead our Global Markets Forum during EMEA working hours. The Global Markets Forum is a chat room hosted on the Reuters Me...",
-      "descriptionTeaser_keyword": "SUMMARY. Reuters is looking for an experienced financial markets journalist to lead our Global Markets Forum during EMEA working hours. The Global Markets Forum is a chat room hosted on the Reuters Me...",
-      "descriptionTeaser_ats": ""
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 77.708722,
-          "lat": 12.9776035
-        },
-        "location": "Bengaluru, Karnataka, India"
       }
     ],
     "isMultiCategory": false,
