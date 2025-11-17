@@ -403,7 +403,7 @@
     "country": "India",
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "You must consider the role if you can adeptly decipher earnings statements from around the world, have a passion for technology (well, AI) and data crunching and are buzzing with ideas to deliver news...",
+    "descriptionTeaser": "Join our team as a Desk Editor in AI News Production, where you'll drive innovative news delivery using AI technology. If you have a passion for journalism and a knack for data analysis, this is your chance to make an impact in the world of news.",
     "state": "Karnataka",
     "visibilityType": "External",
     "siteType": "external",
@@ -433,10 +433,21 @@
     "category": "News & Editorial Careers",
     "externalApply": true,
     "ml_skills": [
-      "ai"
+      "ai",
+      "data analysis",
+      "news editing",
+      "reporting",
+      "communication skills",
+      "editorial standards",
+      "automation",
+      "earnings analysis",
+      "multi-tasking",
+      "curiosity",
+      "team collaboration",
+      "production tools"
     ],
     "ml_job_parser": {
-      "descriptionTeaser": "You must consider the role if you can adeptly decipher earnings statements from around the world, have a passion for technology (well, AI) and data crunching and are buzzing with ideas to deliver news...",
+      "descriptionTeaser": "Join our team as a Desk Editor in AI News Production, where you'll drive innovative news delivery using AI technology. If you have a passion for journalism and a knack for data analysis, this is your chance to make an impact in the world of news.",
       "descriptionTeaser_first200": "Desk Editor, AI News Production, Bangalore Desk. Reuters is seeking tech-savvy newshounds in Bangalore \u2013 the largest Reuters newsroom \u2013 to be part of a team that will drive the delivery of Reuters\u2019...",
       "descriptionTeaser_keyword": "Desk Editor, AI News Production, Bangalore Desk. Reuters is seeking tech-savvy newshounds in Bangalore \u2013 the largest Reuters newsroom \u2013 to be part of a team that will drive the delivery of Reuters\u2019 fi...",
       "descriptionTeaser_ats": "Desk Editor, AI News Production, Bangalore Desk . Reuters is seeking tech-savvy newshounds in Bangalore \u2013 the largest Reuters newsroom \u2013 to be part of a team that will drive the delivery of Reuters\u2019 fir"
@@ -613,6 +624,77 @@
     "country": "Philippines",
     "remote": "Hybrid",
     "type": "Full time",
+    "descriptionTeaser": "Join our team as an Attorney Editor, Specialty Content, where you will leverage your legal expertise to create and enhance premium legal content. Collaborate globally, utilize AI solutions, and ensure the highest quality standards in legal research and writing. If you are passionate about law and technology, we want to hear from you!",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "120.9822",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ195407",
+    "jobId": "JREQ195407",
+    "city": "Manila",
+    "latitude": "14.6042",
+    "locale": "en_US",
+    "multi_location": [
+      "Manila, Philippines"
+    ],
+    "title": "Attorney Editor, Specialty Content",
+    "jobSeqNo": "THTTRUUSJREQ195407EXTERNALENUS",
+    "postedDate": "2025-10-29T00:00:00.000+0000",
+    "dateCreated": "2025-10-29T16:41:00.866+0000",
+    "cityStateCountry": "Manila, Philippines",
+    "address": "20 Upper McKinley Building, Upper McKinley Road, McKinley Hill, Manila, 1634, Philippines",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/PHL-Taguig-20-Upper-McKinley-Bldg/Attorney-Editor--Specialty-Content_JREQ195407/apply",
+    "location": "Manila, Philippines",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "ml_skills": [
+      "legal writing",
+      "ai solutions",
+      "editing skills",
+      "analytical skills",
+      "stakeholder communication",
+      "project management",
+      "detail orientation",
+      "u.s. jurisprudence",
+      "complex legal material",
+      "time management",
+      "legal analysis"
+    ],
+    "ml_job_parser": {
+      "descriptionTeaser": "Join our team as an Attorney Editor, Specialty Content, where you will leverage your legal expertise to create and enhance premium legal content. Collaborate globally, utilize AI solutions, and ensure the highest quality standards in legal research and writing. If you are passionate about law and technology, we want to hear from you!",
+      "descriptionTeaser_first200": "Attorney Editor, Specialty Content | Product Research. Attorney Editors within Specialty Content are responsible for legal research, analysis, and writing to support the development and maintenance...",
+      "descriptionTeaser_keyword": "Attorney Editor, Specialty Content | Product Research. Attorney Editors within Specialty Content are responsible for legal research, analysis, and writing to support the development and maintenance of...",
+      "descriptionTeaser_ats": "Attorney Editor, Specialty Content | Product ResearchAttorney Editors within Specialty Content are responsible for legal research, analysis, and writing to support the development and maintenance of T"
+    },
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 120.9822,
+          "lat": 14.6042
+        },
+        "location": "Manila, Philippines"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Manila",
+    "country": "Philippines",
+    "remote": "Hybrid",
+    "type": "Full time",
     "descriptionTeaser": "Seeking a role where your legal expertise shines? Utilize your analytical and writing skills to summarize civil jury verdicts and settlements, helping clients make informed decisions. Embrace a flexible work environment while contributing to impactful legal content that supports justice and transparency. Join us in making a difference!",
     "state": "",
     "visibilityType": "External",
@@ -654,72 +736,6 @@
       "descriptionTeaser_first200": "Jury Verdict Attorney Editor, Product - Research Products. In the Jury Verdict Attorney Editor role, you will leverage your legal analytical and writing skills to summarize judicial documents pertaini...",
       "descriptionTeaser_keyword": "Jury Verdict Attorney Editor, Product - Research Products. In the Jury Verdict Attorney Editor role, you will leverage your legal analytical and writing skills to summarize judicial documents pertaini...",
       "descriptionTeaser_ats": "Jury Verdict Attorney Editor, Product - Research ProductsIn the Jury Verdict Attorney Editor role, you will leverage your legal analytical and writing skills to summarize judicial documents pertaining"
-    },
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 120.9822,
-          "lat": 14.6042
-        },
-        "location": "Manila, Philippines"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Manila",
-    "country": "Philippines",
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Are you experienced in legal research and writing? Join a collaborative team to create and enhance premium legal content, utilizing AI tools while ensuring editorial quality. Embrace a flexible work environment that supports your career growth and work-life balance. Your expertise can make a real-world impact!",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "120.9822",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ195407",
-    "jobId": "JREQ195407",
-    "city": "Manila",
-    "latitude": "14.6042",
-    "locale": "en_US",
-    "multi_location": [
-      "Manila, Philippines"
-    ],
-    "title": "Attorney Editor, Specialty Content",
-    "jobSeqNo": "THTTRUUSJREQ195407EXTERNALENUS",
-    "postedDate": "2025-10-29T00:00:00.000+0000",
-    "dateCreated": "2025-10-29T16:41:00.866+0000",
-    "cityStateCountry": "Manila, Philippines",
-    "address": "20 Upper McKinley Building, Upper McKinley Road, McKinley Hill, Manila, 1634, Philippines",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/PHL-Taguig-20-Upper-McKinley-Bldg/Attorney-Editor--Specialty-Content_JREQ195407/apply",
-    "location": "Manila, Philippines",
-    "category": "News & Editorial Careers",
-    "externalApply": true,
-    "ml_skills": [
-      "accuracy",
-      "westlaw",
-      "balance",
-      "ai",
-      "ai solutions",
-      "workflows"
-    ],
-    "ml_job_parser": {
-      "descriptionTeaser": "Are you experienced in legal research and writing? Join a collaborative team to create and enhance premium legal content, utilizing AI tools while ensuring editorial quality. Embrace a flexible work environment that supports your career growth and work-life balance. Your expertise can make a real-world impact!",
-      "descriptionTeaser_first200": "Attorney Editor, Specialty Content | Product Research. Attorney Editors within Specialty Content are responsible for legal research, analysis, and writing to support the development and maintenance of...",
-      "descriptionTeaser_keyword": "Attorney Editor, Specialty Content | Product Research. Attorney Editors within Specialty Content are responsible for legal research, analysis, and writing to support the development and maintenance of...",
-      "descriptionTeaser_ats": "Attorney Editor, Specialty Content | Product ResearchAttorney Editors within Specialty Content are responsible for legal research, analysis, and writing to support the development and maintenance of T"
     },
     "isMultiLocation": true,
     "multi_location_array": [
