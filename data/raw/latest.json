@@ -80,58 +80,6 @@
     "badge": ""
   },
   {
-    "cityState": "London",
-    "country": "United Kingdom",
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "The Global Director of Photography is the senior editorial leader responsible for shaping the future of Reuters photojournalism and elevating coverage across all regions and key global themes. This ro",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-0.12574",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ196279",
-    "jobId": "JREQ196279",
-    "city": "London",
-    "latitude": "51.50853",
-    "locale": "en_US",
-    "multi_location": [
-      "London, United Kingdom"
-    ],
-    "title": "Global Director of Photography, Reuters",
-    "jobSeqNo": "THTTRUUSJREQ196279EXTERNALENUS",
-    "postedDate": "2025-11-26T00:00:00.000+0000",
-    "dateCreated": "2025-11-26T16:45:24.687+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Global-Director-of-Photography--Reuters_JREQ196279/apply",
-    "location": "London, United Kingdom",
-    "category": "News & Editorial Careers",
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -0.12574,
-          "lat": 51.50853
-        },
-        "location": "London, United Kingdom"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Toronto, Ontario",
     "country": "Canada",
     "remote": "Hybrid",
@@ -196,6 +144,79 @@
           "lat": 43.70011
         },
         "location": "Toronto, Ontario, Canada"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "London",
+    "country": "United Kingdom",
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Join our team as the Global Director of Photography, where you will shape the future of photojournalism at Reuters. Lead editorial excellence, drive innovation, and mentor talent while ensuring the highest standards in visual storytelling. Be part of a dynamic environment that values creativity and integrity.",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.12574",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ196279",
+    "jobId": "JREQ196279",
+    "city": "London",
+    "latitude": "51.50853",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom"
+    ],
+    "title": "Global Director of Photography, Reuters",
+    "jobSeqNo": "THTTRUUSJREQ196279EXTERNALENUS",
+    "postedDate": "2025-11-26T00:00:00.000+0000",
+    "dateCreated": "2025-11-26T16:45:24.687+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/GBR-London-5-Canada-Square/Global-Director-of-Photography--Reuters_JREQ196279/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "ml_skills": [
+      "photojournalism",
+      "visual storytelling",
+      "camera technology",
+      "ai integration",
+      "digital asset management",
+      "mentoring",
+      "strategic leadership",
+      "ethical standards",
+      "team collaboration",
+      "training programs",
+      "cross-format planning",
+      "market insights",
+      "award-winning content"
+    ],
+    "ml_job_parser": {
+      "descriptionTeaser": "Join our team as the Global Director of Photography, where you will shape the future of photojournalism at Reuters. Lead editorial excellence, drive innovation, and mentor talent while ensuring the highest standards in visual storytelling. Be part of a dynamic environment that values creativity and integrity.",
+      "descriptionTeaser_first200": "The Global Director of Photography is the senior editorial leader responsible for shaping the future of Reuters photojournalism and elevating coverage across all regions and key global themes. This...",
+      "descriptionTeaser_keyword": "The Global Director of Photography is the senior editorial leader responsible for shaping the future of Reuters photojournalism and elevating coverage across all regions and key global themes. This ro...",
+      "descriptionTeaser_ats": "The Global Director of Photography is the senior editorial leader responsible for shaping the future of Reuters photojournalism and elevating coverage across all regions and key global themes. This ro"
+    },
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.12574,
+          "lat": 51.50853
+        },
+        "location": "London, United Kingdom"
       }
     ],
     "isMultiCategory": false,
