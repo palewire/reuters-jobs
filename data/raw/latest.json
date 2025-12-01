@@ -436,78 +436,6 @@
     "badge": ""
   },
   {
-    "cityState": "Pyrmont, New South Wales",
-    "country": "Australia",
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Join our team as a Legal Data Editor and leverage your legal expertise to help Australian organizations stay ahead of legislative changes. You'll monitor legislative sources, update datasets, and ensure accuracy in legal information. If you have a law degree and a keen eye for detail, we want to hear from you!",
-    "state": "New South Wales",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "151.19402",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ195909",
-    "jobId": "JREQ195909",
-    "city": "Pyrmont",
-    "latitude": "-33.86985",
-    "locale": "en_US",
-    "multi_location": [
-      "Pyrmont, New South Wales, Australia"
-    ],
-    "title": "Legal Data Editor",
-    "jobSeqNo": "THTTRUUSJREQ195909EXTERNALENUS",
-    "postedDate": "2025-11-21T00:00:00.000+0000",
-    "dateCreated": "2025-11-21T08:50:19.355+0000",
-    "cityStateCountry": "Pyrmont, New South Wales, Australia",
-    "address": "19 Harris Street, Pyrmont NSW 2009, Australia",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Australia-Pyrmont-New-South-Wales/Legal-Data-Editor_JREQ195909/apply",
-    "location": "Pyrmont, New South Wales, Australia",
-    "category": "News & Editorial Careers",
-    "externalApply": true,
-    "ml_skills": [
-      "legal research",
-      "legislative monitoring",
-      "data entry",
-      "australian legal system",
-      "legal writing",
-      "parliamentary procedures",
-      "computer skills",
-      "attention to detail",
-      "time management",
-      "analytical skills",
-      "team collaboration",
-      "task prioritization"
-    ],
-    "ml_job_parser": {
-      "descriptionTeaser": "Join our team as a Legal Data Editor and leverage your legal expertise to help Australian organizations stay ahead of legislative changes. You'll monitor legislative sources, update datasets, and ensure accuracy in legal information. If you have a law degree and a keen eye for detail, we want to hear from you!",
-      "descriptionTeaser_first200": "Legal Data Editor. Ready to leverage your legal expertise to help Australian organisations stay ahead of legislative changes? TimeBase, now part of Thomson Reuters, has been a trusted authority on ...",
-      "descriptionTeaser_keyword": "Legal Data Editor. Ready to leverage your legal expertise to help Australian organisations stay ahead of legislative changes? TimeBase, now part of Thomson Reuters, has been a trusted authority on Aus...",
-      "descriptionTeaser_ats": "Legal Data EditorReady to leverage your legal expertise to help Australian organisations stay ahead of legislative changes?TimeBase, now part of Thomson Reuters, has been a trusted authority on Austra"
-    },
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 151.19402,
-          "lat": -33.86985
-        },
-        "location": "Pyrmont, New South Wales, Australia"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "ml_skills": [
       "legal writing",
       "legal research",
@@ -570,6 +498,78 @@
           "lat": 44.80413
         },
         "location": "Eagan, Minnesota, United States of America"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Pyrmont, New South Wales",
+    "country": "Australia",
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Join our team as a Legal Data Editor and leverage your legal expertise to help Australian organizations stay ahead of legislative changes. If you have a law degree and a sharp eye for detail, we want to hear from you!",
+    "state": "New South Wales",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "151.19402",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ195909",
+    "jobId": "JREQ195909",
+    "city": "Pyrmont",
+    "latitude": "-33.86985",
+    "locale": "en_US",
+    "multi_location": [
+      "Pyrmont, New South Wales, Australia"
+    ],
+    "title": "Legal Data Editor",
+    "jobSeqNo": "THTTRUUSJREQ195909EXTERNALENUS",
+    "postedDate": "2025-11-21T00:00:00.000+0000",
+    "dateCreated": "2025-11-21T08:50:19.355+0000",
+    "cityStateCountry": "Pyrmont, New South Wales, Australia",
+    "address": "19 Harris Street, Pyrmont NSW 2009, Australia",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Australia-Pyrmont-New-South-Wales/Legal-Data-Editor_JREQ195909/apply",
+    "location": "Pyrmont, New South Wales, Australia",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "ml_skills": [
+      "legal research",
+      "data entry",
+      "legislative monitoring",
+      "australian legal system knowledge",
+      "legal writing",
+      "legal analysis",
+      "computer skills",
+      "attention to detail",
+      "time management",
+      "team collaboration",
+      "task prioritization",
+      "problem solving"
+    ],
+    "ml_job_parser": {
+      "descriptionTeaser": "Join our team as a Legal Data Editor and leverage your legal expertise to help Australian organizations stay ahead of legislative changes. If you have a law degree and a sharp eye for detail, we want to hear from you!",
+      "descriptionTeaser_first200": "Legal Data Editor. Ready to leverage your legal expertise to help Australian organisations stay ahead of legislative changes? TimeBase, now part of Thomson Reuters, has been a trusted authority on ...",
+      "descriptionTeaser_keyword": "Legal Data Editor. Ready to leverage your legal expertise to help Australian organisations stay ahead of legislative changes? TimeBase, now part of Thomson Reuters, has been a trusted authority on Aus...",
+      "descriptionTeaser_ats": "Legal Data EditorReady to leverage your legal expertise to help Australian organisations stay ahead of legislative changes?TimeBase, now part of Thomson Reuters, has been a trusted authority on Austra"
+    },
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 151.19402,
+          "lat": -33.86985
+        },
+        "location": "Pyrmont, New South Wales, Australia"
       }
     ],
     "isMultiCategory": false,
@@ -727,156 +727,6 @@
     "badge": ""
   },
   {
-    "cityState": "Seoul",
-    "country": "Korea, Republic of",
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Are you passionate about shaping market-leading legal content? Join our team as a Commissioning Editor in Korea, where you will manage the commissioning and delivery of legal content, build strong partnerships, and ensure alignment with business objectives.",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "126.9784",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ195907",
-    "jobId": "JREQ195907",
-    "city": "Seoul",
-    "latitude": "37.566",
-    "locale": "en_US",
-    "multi_location": [
-      "Seoul, Korea, Republic of"
-    ],
-    "title": "Commissioning Editor,Korea(12 months contract)",
-    "jobSeqNo": "THTTRUUSJREQ195907EXTERNALENUS",
-    "postedDate": "2025-11-18T00:00:00.000+0000",
-    "dateCreated": "2025-11-19T00:44:21.571+0000",
-    "cityStateCountry": "Seoul, Korea, Republic of",
-    "address": "10th Floor S-Tower, 82 Saemunan-ro, Jongno-gu, 03185 Seoul, Korea, Republic of",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Korea-Republic-of-Seoul/Commissioning-Editor-Korea-12-months-contract-_JREQ195907/apply",
-    "location": "Seoul, Korea, Republic of",
-    "category": "News & Editorial Careers",
-    "externalApply": true,
-    "ml_skills": [
-      "legal content development",
-      "content management",
-      "stakeholder management",
-      "editorial coordination",
-      "problem-solving",
-      "collaboration",
-      "communication skills",
-      "korean legal materials",
-      "content licensing",
-      "manuscript delivery",
-      "regulatory updates",
-      "author relationships"
-    ],
-    "ml_job_parser": {
-      "descriptionTeaser": "Are you passionate about shaping market-leading legal content? Join our team as a Commissioning Editor in Korea, where you will manage the commissioning and delivery of legal content, build strong partnerships, and ensure alignment with business objectives.",
-      "descriptionTeaser_first200": "Commissioning Editor,Korea(12 months contract). Are you passionate about shaping market-leading legal content and building strong partnerships within the legal and publishing ecosystem in Korea? Do...",
-      "descriptionTeaser_keyword": "Commissioning Editor,Korea(12 months contract). Are you passionate about shaping market-leading legal content and building strong partnerships within the legal and publishing ecosystem in Korea? Do yo...",
-      "descriptionTeaser_ats": "Commissioning Editor,Korea(12 months contract)Are you passionate about shaping market-leading legal content and building strong partnerships within the legal and publishing ecosystem in Korea? Do you"
-    },
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 126.9784,
-          "lat": 37.566
-        },
-        "location": "Seoul, Korea, Republic of"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Hyderabad, Telangana",
-    "country": "India",
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Join our team as a U.S. Tax Reviewer, where you will ensure the accuracy and compliance of tax returns for a diverse client portfolio. This role requires strong leadership, attention to detail, and proficiency in tax software. If you have a passion for taxation and client interaction, we want to hear from you!",
-    "state": "Telangana",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "78.45636",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ195775",
-    "jobId": "JREQ195775",
-    "city": "Hyderabad",
-    "latitude": "17.38405",
-    "locale": "en_US",
-    "multi_location": [
-      "Hyderabad, Telangana, India"
-    ],
-    "title": "Tax Specialist",
-    "jobSeqNo": "THTTRUUSJREQ195775EXTERNALENUS",
-    "postedDate": "2025-11-18T00:00:00.000+0000",
-    "dateCreated": "2025-11-19T00:44:21.559+0000",
-    "cityStateCountry": "Hyderabad, Telangana, India",
-    "address": "Floor 12, 13 & 14, Building 11, Raheja Mindspace, Madhapur, Hyderabad- 500081, Telangana, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Hyderabad-Telangana/Tax-Specialist_JREQ195775/apply",
-    "location": "Hyderabad, Telangana, India",
-    "category": "News & Editorial Careers",
-    "externalApply": true,
-    "ml_skills": [
-      "u.s. taxation",
-      "spbinder",
-      "tax software",
-      "gosystem",
-      "cch axcess",
-      "ultratax",
-      "tax forms knowledge",
-      "tax concepts",
-      "leadership",
-      "client interaction",
-      "communication skills",
-      "industry practices",
-      "interpersonal skills",
-      "tax rates knowledge",
-      "attention to detail",
-      "problem solving",
-      "mentoring",
-      "goal planning"
-    ],
-    "ml_job_parser": {
-      "descriptionTeaser": "Join our team as a U.S. Tax Reviewer, where you will ensure the accuracy and compliance of tax returns for a diverse client portfolio. This role requires strong leadership, attention to detail, and proficiency in tax software. If you have a passion for taxation and client interaction, we want to hear from you!",
-      "descriptionTeaser_first200": "As a U.S. Tax Reviewer, you will play a critical role in ensuring the accuracy, compliance, and timely delivery of federal and state income tax returns for a diverse portfolio of clients, including...",
-      "descriptionTeaser_keyword": "As a U.S. Tax Reviewer, you will play a critical role in ensuring the accuracy, compliance, and timely delivery of federal and state income tax returns for a diverse portfolio of clients, including in...",
-      "descriptionTeaser_ats": "As a U.S. Tax Reviewer, you will play a critical role in ensuring the accuracy, compliance, and timely delivery of federal and state income tax returns for a diverse portfolio of clients, including in"
-    },
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 78.45636,
-          "lat": 17.38405
-        },
-        "location": "Hyderabad, Telangana, India"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Hyderabad, Telangana",
     "country": "India",
     "remote": "Hybrid",
@@ -938,6 +788,152 @@
           "lat": 17.38405
         },
         "location": "Hyderabad, Telangana, India"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Hyderabad, Telangana",
+    "country": "India",
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Join our team as a U.S. Tax Reviewer, where you will ensure the accuracy and compliance of federal and state income tax returns for a diverse client portfolio. Leverage your expertise in U.S. tax laws and lead a team of tax preparers to uphold quality standards and enhance efficiency.",
+    "state": "Telangana",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "78.45636",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ195775",
+    "jobId": "JREQ195775",
+    "city": "Hyderabad",
+    "latitude": "17.38405",
+    "locale": "en_US",
+    "multi_location": [
+      "Hyderabad, Telangana, India"
+    ],
+    "title": "Tax Specialist",
+    "jobSeqNo": "THTTRUUSJREQ195775EXTERNALENUS",
+    "postedDate": "2025-11-18T00:00:00.000+0000",
+    "dateCreated": "2025-11-19T00:44:21.559+0000",
+    "cityStateCountry": "Hyderabad, Telangana, India",
+    "address": "Floor 12, 13 & 14, Building 11, Raheja Mindspace, Madhapur, Hyderabad- 500081, Telangana, India",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Hyderabad-Telangana/Tax-Specialist_JREQ195775/apply",
+    "location": "Hyderabad, Telangana, India",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "ml_skills": [
+      "u.s. taxation",
+      "tax software",
+      "spbinder",
+      "tax forms",
+      "1040 forms",
+      "1041 forms",
+      "990 forms",
+      "tax concepts",
+      "leadership",
+      "client interaction",
+      "communication skills",
+      "interpersonal skills",
+      "mentoring",
+      "attention to detail"
+    ],
+    "ml_job_parser": {
+      "descriptionTeaser": "Join our team as a U.S. Tax Reviewer, where you will ensure the accuracy and compliance of federal and state income tax returns for a diverse client portfolio. Leverage your expertise in U.S. tax laws and lead a team of tax preparers to uphold quality standards and enhance efficiency.",
+      "descriptionTeaser_first200": "As a U.S. Tax Reviewer, you will play a critical role in ensuring the accuracy, compliance, and timely delivery of federal and state income tax returns for a diverse portfolio of clients, including...",
+      "descriptionTeaser_keyword": "As a U.S. Tax Reviewer, you will play a critical role in ensuring the accuracy, compliance, and timely delivery of federal and state income tax returns for a diverse portfolio of clients, including in...",
+      "descriptionTeaser_ats": "As a U.S. Tax Reviewer, you will play a critical role in ensuring the accuracy, compliance, and timely delivery of federal and state income tax returns for a diverse portfolio of clients, including in"
+    },
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 78.45636,
+          "lat": 17.38405
+        },
+        "location": "Hyderabad, Telangana, India"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Seoul",
+    "country": "Korea, Republic of",
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Are you passionate about shaping market-leading legal content? Join our team as a Commissioning Editor in Korea, where you will manage the commissioning and delivery of legal content, build strong partnerships, and ensure alignment with business objectives.",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "126.9784",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ195907",
+    "jobId": "JREQ195907",
+    "city": "Seoul",
+    "latitude": "37.566",
+    "locale": "en_US",
+    "multi_location": [
+      "Seoul, Korea, Republic of"
+    ],
+    "title": "Commissioning Editor,Korea(12 months contract)",
+    "jobSeqNo": "THTTRUUSJREQ195907EXTERNALENUS",
+    "postedDate": "2025-11-18T00:00:00.000+0000",
+    "dateCreated": "2025-11-19T00:44:21.571+0000",
+    "cityStateCountry": "Seoul, Korea, Republic of",
+    "address": "10th Floor S-Tower, 82 Saemunan-ro, Jongno-gu, 03185 Seoul, Korea, Republic of",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Korea-Republic-of-Seoul/Commissioning-Editor-Korea-12-months-contract-_JREQ195907/apply",
+    "location": "Seoul, Korea, Republic of",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "ml_skills": [
+      "legal content development",
+      "content management",
+      "stakeholder management",
+      "editorial coordination",
+      "problem-solving",
+      "collaboration",
+      "communication skills",
+      "korean legal materials",
+      "content licensing",
+      "manuscript delivery",
+      "regulatory updates",
+      "author relationships"
+    ],
+    "ml_job_parser": {
+      "descriptionTeaser": "Are you passionate about shaping market-leading legal content? Join our team as a Commissioning Editor in Korea, where you will manage the commissioning and delivery of legal content, build strong partnerships, and ensure alignment with business objectives.",
+      "descriptionTeaser_first200": "Commissioning Editor,Korea(12 months contract). Are you passionate about shaping market-leading legal content and building strong partnerships within the legal and publishing ecosystem in Korea? Do...",
+      "descriptionTeaser_keyword": "Commissioning Editor,Korea(12 months contract). Are you passionate about shaping market-leading legal content and building strong partnerships within the legal and publishing ecosystem in Korea? Do yo...",
+      "descriptionTeaser_ats": "Commissioning Editor,Korea(12 months contract)Are you passionate about shaping market-leading legal content and building strong partnerships within the legal and publishing ecosystem in Korea? Do you"
+    },
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 126.9784,
+          "lat": 37.566
+        },
+        "location": "Seoul, Korea, Republic of"
       }
     ],
     "isMultiCategory": false,
