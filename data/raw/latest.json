@@ -4,7 +4,7 @@
     "country": "Canada",
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "Titre du poste : \u00c9diteur juridique \u2013 DoctrineJoignez notre \u00e9quipe mondiale de doctrine juridique pour rechercher, cr\u00e9er, r\u00e9viser et maintenir un contenu juridique de haute qualit\u00e9 pour des livres impr",
+    "descriptionTeaser": "Rejoignez notre \u00e9quipe en tant qu'\u00c9diteur juridique et contribuez \u00e0 la cr\u00e9ation de contenu juridique de haute qualit\u00e9. Si vous avez une passion pour la recherche et la r\u00e9daction, et que vous souhaitez \u00e9voluer dans un environnement dynamique, ce poste est fait pour vous !",
     "state": "Quebec",
     "visibilityType": "External",
     "siteType": "external",
@@ -34,6 +34,26 @@
     "location": "Montreal, Quebec, Canada",
     "category": "News & Editorial Careers",
     "externalApply": true,
+    "ml_skills": [
+      "r\u00e9daction juridique",
+      "recherche juridique",
+      "analyse juridique",
+      "utilisation de westlaw",
+      "gestion des relations",
+      "communication efficace",
+      "ma\u00eetrise de microsoft office 365",
+      "esprit analytique",
+      "r\u00e9daction \u00e9ditoriale",
+      "collaboration",
+      "gestion de projet",
+      "bilinguisme"
+    ],
+    "ml_job_parser": {
+      "descriptionTeaser": "Rejoignez notre \u00e9quipe en tant qu'\u00c9diteur juridique et contribuez \u00e0 la cr\u00e9ation de contenu juridique de haute qualit\u00e9. Si vous avez une passion pour la recherche et la r\u00e9daction, et que vous souhaitez \u00e9voluer dans un environnement dynamique, ce poste est fait pour vous !",
+      "descriptionTeaser_first200": "Titre du poste : \u00c9diteur juridique \u2013 Doctrine. Joignez notre \u00e9quipe mondiale de doctrine juridique pour rechercher, cr\u00e9er, r\u00e9viser et maintenir un contenu juridique de haute qualit\u00e9 pour des livres...",
+      "descriptionTeaser_keyword": "Titre du poste : \u00c9diteur juridique \u2013 Doctrine. Joignez notre \u00e9quipe mondiale de doctrine juridique pour rechercher, cr\u00e9er, r\u00e9viser et maintenir un contenu juridique de haute qualit\u00e9 pour des livres im...",
+      "descriptionTeaser_ats": "Titre du poste  .  \u00c9diteur juridique \u2013 DoctrineJoignez notre \u00e9quipe mondiale de doctrine juridique pour rechercher, cr\u00e9er, r\u00e9viser et maintenir un contenu juridique de haute qualit\u00e9 pour des livres impr"
+    },
     "isMultiLocation": true,
     "multi_location_array": [
       {
