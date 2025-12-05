@@ -1,5 +1,81 @@
 [
   {
+    "cityState": "New York, New York",
+    "country": "United States of America",
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Reuters is seeking an experienced and talented editor to drive U.S. news coverage for our national news file, including stories ranging from natural disasters and school shootings to national politics",
+    "state": "New York",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-74.00597",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ196610",
+    "jobId": "JREQ196610",
+    "city": "New York",
+    "latitude": "40.71427",
+    "locale": "en_US",
+    "multi_location": [
+      "New York, New York, United States of America",
+      "Chicago, Illinois, United States of America",
+      "Houston, Texas, United States of America",
+      "Washington, District of Columbia, United States of America"
+    ],
+    "title": "Editor, U.S. News/Cross Format",
+    "jobSeqNo": "THTTRUUSJREQ196610EXTERNALENUS",
+    "postedDate": "2025-12-04T00:00:00.000+0000",
+    "dateCreated": "2025-12-04T20:46:40.532+0000",
+    "cityStateCountry": "New York, New York, United States of America",
+    "address": "3 Times Square, New York, NY 10036, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-New-York-New-York/Editor--US-News-Cross-Format_JREQ196610/apply",
+    "location": "New York, New York, United States of America",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -74.00597,
+          "lat": 40.71427
+        },
+        "location": "New York, New York, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -87.65005,
+          "lat": 41.85003
+        },
+        "location": "Chicago, Illinois, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -95.36327,
+          "lat": 29.76328
+        },
+        "location": "Houston, Texas, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -77.03637,
+          "lat": 38.89511
+        },
+        "location": "Washington, District of Columbia, United States of America"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "London",
     "country": "United Kingdom",
     "ml_skills": [
