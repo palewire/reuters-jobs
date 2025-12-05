@@ -1,5 +1,318 @@
 [
   {
+    "cityState": "New York, New York",
+    "country": "United States of America",
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Join our team as an Editor for U.S. News/Cross Format, where you will drive coverage of major breaking news stories and manage a talented team of reporters. If you have a deep understanding of U.S. political news and a passion for journalism, we want to hear from you!",
+    "state": "New York",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-74.00597",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ196610",
+    "jobId": "JREQ196610",
+    "city": "New York",
+    "latitude": "40.71427",
+    "locale": "en_US",
+    "multi_location": [
+      "New York, New York, United States of America",
+      "Chicago, Illinois, United States of America",
+      "Houston, Texas, United States of America",
+      "Washington, District of Columbia, United States of America"
+    ],
+    "title": "Editor, U.S. News/Cross Format",
+    "jobSeqNo": "THTTRUUSJREQ196610EXTERNALENUS",
+    "postedDate": "2025-12-04T00:00:00.000+0000",
+    "dateCreated": "2025-12-04T20:46:40.532+0000",
+    "cityStateCountry": "New York, New York, United States of America",
+    "address": "3 Times Square, New York, NY 10036, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-New-York-New-York/Editor--US-News-Cross-Format_JREQ196610/apply",
+    "location": "New York, New York, United States of America",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "ml_skills": [
+      "u.s. news coverage",
+      "video journalism",
+      "photojournalism",
+      "reporting",
+      "editing",
+      "u.s. political news",
+      "team management",
+      "story development",
+      "news coordination",
+      "organizational skills",
+      "enterprise stories",
+      "competitive pressure handling"
+    ],
+    "ml_job_parser": {
+      "descriptionTeaser": "Join our team as an Editor for U.S. News/Cross Format, where you will drive coverage of major breaking news stories and manage a talented team of reporters. If you have a deep understanding of U.S. political news and a passion for journalism, we want to hear from you!",
+      "descriptionTeaser_first200": "Reuters is seeking an experienced and talented editor to drive U.S. news coverage for our national news file, including stories ranging from natural disasters and school shootings to national polit...",
+      "descriptionTeaser_keyword": "Reuters is seeking an experienced and talented editor to drive U.S. news coverage for our national news file, including stories ranging from natural disasters and school shootings to national politics...",
+      "descriptionTeaser_ats": "Reuters is seeking an experienced and talented editor to drive U.S. news coverage for our national news file, including stories ranging from natural disasters and school shootings to national politics"
+    },
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -74.00597,
+          "lat": 40.71427
+        },
+        "location": "New York, New York, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -87.65005,
+          "lat": 41.85003
+        },
+        "location": "Chicago, Illinois, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -95.36327,
+          "lat": 29.76328
+        },
+        "location": "Houston, Texas, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -77.03637,
+          "lat": 38.89511
+        },
+        "location": "Washington, District of Columbia, United States of America"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "London",
+    "country": "United Kingdom",
+    "ml_skills": [
+      "private client law",
+      "wills and trusts",
+      "estate planning",
+      "inheritance tax",
+      "capital gains tax",
+      "legal writing",
+      "ai tools",
+      "collaboration",
+      "research skills",
+      "content editing",
+      "market analysis",
+      "client advisory",
+      "teamwork"
+    ],
+    "remote": "Hybrid",
+    "type": "Part time",
+    "descriptionTeaser": "Join our team as a Senior Specialist Legal Editor, where your expertise in private client law will shape AI-driven legal solutions. Collaborate with experienced colleagues to create impactful legal content and enhance productivity through innovative technologies. If you're passionate about legal writing and technology, this is the role for you!",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.12574",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ194574",
+    "jobId": "JREQ194574",
+    "city": "London",
+    "latitude": "51.50853",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom"
+    ],
+    "title": "Senior Specialist Legal Editor, Practical Law Private Client",
+    "jobSeqNo": "THTTRUUSJREQ194574EXTERNALENUS",
+    "postedDate": "2025-12-03T00:00:00.000+0000",
+    "dateCreated": "2025-09-24T16:37:35.750+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-Kingdom-London/Senior-Specialist-Legal-Editor--Practical-Law-Private-Client_JREQ194574/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "ml_job_parser": {
+      "descriptionTeaser": "Join our team as a Senior Specialist Legal Editor, where your expertise in private client law will shape AI-driven legal solutions. Collaborate with experienced colleagues to create impactful legal content and enhance productivity through innovative technologies. If you're passionate about legal writing and technology, this is the role for you!",
+      "descriptionTeaser_first200": "We are seeking an experienced private client lawyer to join the Practical Law Private Client team in the UK. Practical Law is a leading online know-how service providing expert-created, practical m...",
+      "descriptionTeaser_keyword": "We are seeking an experienced private client lawyer to join the Practical Law Private Client team in the UK. Practical Law is a leading online know-how service providing expert-created, practical main...",
+      "descriptionTeaser_ats": "We are seeking an experienced private client lawyer to join the Practical Law Private Client team in the UK.Practical Law is a leading online know-how service providing expert-created, practical maint"
+    },
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.12574,
+          "lat": 51.50853
+        },
+        "location": "London, United Kingdom"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Mexico City",
+    "country": "Mexico",
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Join our team as an International Investigations Editor, where you will drive multi-media storytelling and collaborate with news specialists to deliver impactful news coverage. If you are passionate about innovation and client engagement, this is the opportunity for you!",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-99.13315",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ195741",
+    "jobId": "JREQ195741",
+    "city": "Mexico City",
+    "latitude": "19.43195",
+    "locale": "en_US",
+    "multi_location": [
+      "Mexico City, Mexico"
+    ],
+    "title": "International Investigations Editor",
+    "jobSeqNo": "THTTRUUSJREQ195741EXTERNALENUS",
+    "postedDate": "2025-12-03T00:00:00.000+0000",
+    "dateCreated": "2025-12-04T00:45:47.356+0000",
+    "cityStateCountry": "Mexico City, Mexico",
+    "address": "Av. Paseo de la Reforma #26, Floor 36th, Colonia Ju\u00e1rez, Cuauht\u00e9moc, 06600 Mexico City, Mexico",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Mexico-Mexico-City/International-Investigations-Editor_JREQ195741/apply",
+    "location": "Mexico City, Mexico",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "ml_skills": [
+      "multi-media storytelling",
+      "cross-asset collaboration",
+      "news coverage direction",
+      "client engagement",
+      "performance assessment",
+      "innovation generation",
+      "budget management",
+      "risk management",
+      "stakeholder communication",
+      "team leadership",
+      "strategic planning",
+      "crisis management"
+    ],
+    "ml_job_parser": {
+      "descriptionTeaser": "Join our team as an International Investigations Editor, where you will drive multi-media storytelling and collaborate with news specialists to deliver impactful news coverage. If you are passionate about innovation and client engagement, this is the opportunity for you!",
+      "descriptionTeaser_first200": "About the role. Responsible for translating customer needs and business strategies into action in a specialist news area. Represents Editorial to internal and external customers, and meets directly...",
+      "descriptionTeaser_keyword": "About the role. Responsible for translating customer needs and business strategies into action in a specialist news area. Represents Editorial to internal and external customers, and meets directly wi...",
+      "descriptionTeaser_ats": "About the role\u2022 Responsible for translating customer needs and business strategies into action in a specialist news area. Represents Editorial to internal and external customers, and meets directly wi"
+    },
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -99.13315,
+          "lat": 19.43195
+        },
+        "location": "Mexico City, Mexico"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "London",
+    "country": "United Kingdom",
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Are you experienced in legal writing and analysis? Join our team as a Senior Legal Editor at Thomson Reuters, where you will synthesize complex legal judgments and collaborate with colleagues to produce high-quality content. Enjoy a flexible hybrid work environment and opportunities for career growth.",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-0.12574",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ195835",
+    "jobId": "JREQ195835",
+    "city": "London",
+    "latitude": "51.50853",
+    "locale": "en_US",
+    "multi_location": [
+      "London, United Kingdom"
+    ],
+    "title": "Senior Legal Editor",
+    "jobSeqNo": "THTTRUUSJREQ195835EXTERNALENUS",
+    "postedDate": "2025-12-03T00:00:00.000+0000",
+    "dateCreated": "2025-12-03T16:47:30.928+0000",
+    "cityStateCountry": "London, United Kingdom",
+    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-Kingdom-London/Senior-Legal-Editor_JREQ195835/apply",
+    "location": "London, United Kingdom",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "ml_skills": [
+      "legal writing",
+      "case analysis",
+      "legal research",
+      "judgment summarization",
+      "cross-site collaboration",
+      "attention to detail",
+      "generative ai technologies",
+      "independent work",
+      "deadline management",
+      "legal knowledge",
+      "content clarity",
+      "team collaboration"
+    ],
+    "ml_job_parser": {
+      "descriptionTeaser": "Are you experienced in legal writing and analysis? Join our team as a Senior Legal Editor at Thomson Reuters, where you will synthesize complex legal judgments and collaborate with colleagues to produce high-quality content. Enjoy a flexible hybrid work environment and opportunities for career growth.",
+      "descriptionTeaser_first200": "Do you have both an interest in the law and great writing skills? Can you synthesise the key information from a complex judgment in any area of law? If yes, this might be the role for you. Thomson ...",
+      "descriptionTeaser_keyword": "Do you have both an interest in the law and great writing skills? Can you synthesise the key information from a complex judgment in any area of law? If yes, this might be the role for you. Thomson Reu...",
+      "descriptionTeaser_ats": "Do you have both an interest in the law and great writing skills? Can you synthesise the key information from a complex judgment in any area of law? If yes, this might be the role for you.Thomson Reut"
+    },
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -0.12574,
+          "lat": 51.50853
+        },
+        "location": "London, United Kingdom"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "ml_skills": [
       "tax research",
       "document formatting",
@@ -233,77 +546,6 @@
     "badge": ""
   },
   {
-    "cityState": "North Hollywood, California",
-    "country": "United States of America",
-    "remote": "Remote",
-    "type": "Full time",
-    "descriptionTeaser": "Join our team as a Senior Attorney Editor, where you will leverage your expertise in California law to conduct in-depth legal research and shape comprehensive legal commentary. If you have a passion for legal writing and a commitment to accuracy, we want to hear from you!",
-    "state": "California",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-118.37897",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ196400",
-    "jobId": "JREQ196400",
-    "city": "North Hollywood",
-    "latitude": "34.17223",
-    "locale": "en_US",
-    "multi_location": [
-      "North Hollywood, California, United States of America"
-    ],
-    "title": "Senior Attorney Editor",
-    "jobSeqNo": "THTTRUUSJREQ196400EXTERNALENUS",
-    "postedDate": "2025-12-01T00:00:00.000+0000",
-    "dateCreated": "2025-12-02T00:46:20.912+0000",
-    "cityStateCountry": "North Hollywood, California, United States of America",
-    "address": "5161 Lankershim Blvd, North Hollywood, CA 91601, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-North-Hollywood-California/Senior-Attorney-Editor_JREQ196400/apply",
-    "location": "North Hollywood, California, United States of America",
-    "category": "News & Editorial Careers",
-    "externalApply": true,
-    "ml_skills": [
-      "legal research",
-      "california law",
-      "legal writing",
-      "analytical skills",
-      "editorial judgment",
-      "attention to detail",
-      "communication skills",
-      "interpersonal skills",
-      "microsoft office 365",
-      "content management systems",
-      "family law litigation"
-    ],
-    "ml_job_parser": {
-      "descriptionTeaser": "Join our team as a Senior Attorney Editor, where you will leverage your expertise in California law to conduct in-depth legal research and shape comprehensive legal commentary. If you have a passion for legal writing and a commitment to accuracy, we want to hear from you!",
-      "descriptionTeaser_first200": "Senior Attorney Editor. Role Summary. Thomson Reuters is seeking a Senior Attorney Editor to contribute to our highly respected Rutter Group Practice Guides. In this role, you will leverage your ex...",
-      "descriptionTeaser_keyword": "Senior Attorney Editor. Role Summary. Thomson Reuters is seeking a Senior Attorney Editor to contribute to our highly respected Rutter Group Practice Guides. In this role, you will leverage your exper...",
-      "descriptionTeaser_ats": "Senior Attorney EditorRole SummaryThomson Reuters is seeking a Senior Attorney Editor to contribute to our highly respected Rutter Group Practice Guides. In this role, you will leverage your expertise"
-    },
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -118.37897,
-          "lat": 34.17223
-        },
-        "location": "North Hollywood, California, United States of America"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Montreal, Quebec",
     "country": "Canada",
     "remote": "Hybrid",
@@ -373,6 +615,77 @@
           "lat": 43.70011
         },
         "location": "Toronto, Ontario, Canada"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "North Hollywood, California",
+    "country": "United States of America",
+    "remote": "Remote",
+    "type": "Full time",
+    "descriptionTeaser": "Join our team as a Senior Attorney Editor, where you will leverage your expertise in California law to conduct in-depth legal research and shape comprehensive legal commentary. If you have a passion for legal writing and a commitment to accuracy, we want to hear from you!",
+    "state": "California",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-118.37897",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ196400",
+    "jobId": "JREQ196400",
+    "city": "North Hollywood",
+    "latitude": "34.17223",
+    "locale": "en_US",
+    "multi_location": [
+      "North Hollywood, California, United States of America"
+    ],
+    "title": "Senior Attorney Editor",
+    "jobSeqNo": "THTTRUUSJREQ196400EXTERNALENUS",
+    "postedDate": "2025-12-01T00:00:00.000+0000",
+    "dateCreated": "2025-12-02T00:46:20.912+0000",
+    "cityStateCountry": "North Hollywood, California, United States of America",
+    "address": "5161 Lankershim Blvd, North Hollywood, CA 91601, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-North-Hollywood-California/Senior-Attorney-Editor_JREQ196400/apply",
+    "location": "North Hollywood, California, United States of America",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "ml_skills": [
+      "legal research",
+      "california law",
+      "legal writing",
+      "analytical skills",
+      "editorial judgment",
+      "attention to detail",
+      "communication skills",
+      "interpersonal skills",
+      "microsoft office 365",
+      "content management systems",
+      "family law litigation"
+    ],
+    "ml_job_parser": {
+      "descriptionTeaser": "Join our team as a Senior Attorney Editor, where you will leverage your expertise in California law to conduct in-depth legal research and shape comprehensive legal commentary. If you have a passion for legal writing and a commitment to accuracy, we want to hear from you!",
+      "descriptionTeaser_first200": "Senior Attorney Editor. Role Summary. Thomson Reuters is seeking a Senior Attorney Editor to contribute to our highly respected Rutter Group Practice Guides. In this role, you will leverage your ex...",
+      "descriptionTeaser_keyword": "Senior Attorney Editor. Role Summary. Thomson Reuters is seeking a Senior Attorney Editor to contribute to our highly respected Rutter Group Practice Guides. In this role, you will leverage your exper...",
+      "descriptionTeaser_ats": "Senior Attorney EditorRole SummaryThomson Reuters is seeking a Senior Attorney Editor to contribute to our highly respected Rutter Group Practice Guides. In this role, you will leverage your expertise"
+    },
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -118.37897,
+          "lat": 34.17223
+        },
+        "location": "North Hollywood, California, United States of America"
       }
     ],
     "isMultiCategory": false,
@@ -2240,78 +2553,6 @@
     "badge": ""
   },
   {
-    "cityState": "Beijing, Beijing",
-    "country": "China",
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Join our team as a Visuals Researcher in Beijing, where you will play a crucial role in shaping compelling visuals-led stories. If you have strong news judgement and a passion for research, we want to hear from you!",
-    "state": "Beijing",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "116.39723",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ194799",
-    "jobId": "JREQ194799",
-    "city": "Beijing",
-    "latitude": "39.9075",
-    "locale": "en_US",
-    "multi_location": [
-      "Beijing, Beijing, China"
-    ],
-    "title": "Visuals Researcher, Beijing Bureau",
-    "jobSeqNo": "THTTRUUSJREQ194799EXTERNALENUS",
-    "postedDate": "2025-09-30T00:00:00.000+0000",
-    "dateCreated": "2025-09-29T04:40:37.112+0000",
-    "cityStateCountry": "Beijing, Beijing, China",
-    "address": "Units 5-12, 18F / 20F, Office Tower E1 of Oriental Plaza, No.1, East Chang An Avenue, Dong Cheng District, Beijing, 100738 Beijing, China",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/China-Beijing-Beijing/Visuals-Researcher--Beijing-Bureau_JREQ194799-1/apply",
-    "location": "Beijing, Beijing, China",
-    "category": "News & Editorial Careers",
-    "externalApply": true,
-    "ml_skills": [
-      "visual research",
-      "news judgement",
-      "story conceptualization",
-      "social media monitoring",
-      "communication skills",
-      "team collaboration",
-      "diplomacy",
-      "logistics coordination",
-      "interviewing",
-      "field research",
-      "deadline management",
-      "bilingual communication"
-    ],
-    "ml_job_parser": {
-      "descriptionTeaser": "Join our team as a Visuals Researcher in Beijing, where you will play a crucial role in shaping compelling visuals-led stories. If you have strong news judgement and a passion for research, we want to hear from you!",
-      "descriptionTeaser_first200": "Visuals Researcher, Beijing Bureau . Reuters is looking for an energetic Visuals Researcher with strong news judgement to join our team in Beijing. The Visuals Researcher will be responsible for re...",
-      "descriptionTeaser_keyword": "Visuals Researcher, Beijing Bureau. Reuters is looking for an energetic Visuals Researcher with strong news judgement to join our team in Beijing. The Visuals Researcher will be responsible for resear...",
-      "descriptionTeaser_ats": "Visuals Researcher, Beijing Bureau Reuters is looking for an energetic Visuals Researcher with strong news judgement to join our team in Beijing. The Visuals Researcher will be responsible for resea"
-    },
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 116.39723,
-          "lat": 39.9075
-        },
-        "location": "Beijing, Beijing, China"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "ml_skills": [
       "video production",
       "video editing",
@@ -2375,151 +2616,6 @@
           "lat": 39.9075
         },
         "location": "Beijing, Beijing, China"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "ml_skills": [
-      "financial markets",
-      "market reporting",
-      "editing skills",
-      "writing skills",
-      "team management",
-      "cross-asset experience",
-      "journalistic skills",
-      "process improvement",
-      "collaboration",
-      "data analysis",
-      "strategic planning",
-      "news coverage"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Join our team as a U.S. Breaking News Editor for Finance and Markets, where you will lead a dynamic team in delivering real-time market coverage. If you have a passion for financial journalism and strong editing skills, this is your opportunity to make an impact in a fast-paced environment.",
-    "state": "New York",
-    "siteType": "external",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ192378",
-    "city": "New York",
-    "latitude": "40.71427",
-    "multi_location": [
-      "New York, New York, United States of America"
-    ],
-    "address": "3 Times Square, New York, NY 10036, United States of America",
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-New-York-New-York/US-Breaking-News-Editor--Finance-and-Markets_JREQ192378/apply",
-    "ml_job_parser": {
-      "descriptionTeaser": "Join our team as a U.S. Breaking News Editor for Finance and Markets, where you will lead a dynamic team in delivering real-time market coverage. If you have a passion for financial journalism and strong editing skills, this is your opportunity to make an impact in a fast-paced environment.",
-      "descriptionTeaser_first200": "Reuters is looking for a strong journalist to lead its finance and markets breaking news team in the United States. The breaking news team is at the heart of the finance and markets team, serving t...",
-      "descriptionTeaser_keyword": "Reuters is looking for a strong journalist to lead its finance and markets breaking news team in the United States. The breaking news team is at the heart of the finance and markets team, serving the...",
-      "descriptionTeaser_ats": "Reuters is looking for a strong journalist to lead its finance and markets breaking news team in the United States. The breaking news team is at the heart of the finance and markets team, serving the"
-    },
-    "externalApply": true,
-    "cityState": "New York, New York",
-    "country": "United States of America",
-    "visibilityType": "External",
-    "longitude": "-74.00597",
-    "jobId": "JREQ192378",
-    "locale": "en_US",
-    "title": "U.S. Breaking News Editor, Finance and Markets",
-    "jobSeqNo": "THTTRUUSJREQ192378EXTERNALENUS",
-    "postedDate": "2025-09-26T00:00:00.000+0000",
-    "dateCreated": "2025-06-17T16:38:03.129+0000",
-    "cityStateCountry": "New York, New York, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "location": "New York, New York, United States of America",
-    "category": "News & Editorial Careers",
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -74.00597,
-          "lat": 40.71427
-        },
-        "location": "New York, New York, United States of America"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "London",
-    "country": "United Kingdom",
-    "ml_skills": [
-      "private client law",
-      "wills and trusts",
-      "estate planning",
-      "inheritance tax",
-      "capital gains tax",
-      "legal writing",
-      "ai in legal practice",
-      "collaboration",
-      "technical skills",
-      "research skills",
-      "content development",
-      "client advisory",
-      "teamwork"
-    ],
-    "remote": "Hybrid",
-    "type": "Part time",
-    "descriptionTeaser": "Join our team as a Senior Specialist Legal Editor, where your expertise in private client law will shape AI-driven legal solutions. Collaborate with experienced colleagues to create impactful legal content and enhance productivity through innovative technologies. If you're passionate about legal writing and technology, this is the role for you!",
-    "state": "",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-0.12574",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ194574",
-    "jobId": "JREQ194574",
-    "city": "London",
-    "latitude": "51.50853",
-    "locale": "en_US",
-    "multi_location": [
-      "London, United Kingdom"
-    ],
-    "title": "Senior Specialist Legal Editor, Practical Law Private Client",
-    "jobSeqNo": "THTTRUUSJREQ194574EXTERNALENUS",
-    "postedDate": "2025-09-25T00:00:00.000+0000",
-    "dateCreated": "2025-09-24T16:37:35.750+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-Kingdom-London/Senior-Specialist-Legal-Editor--Practical-Law-Private-Client_JREQ194574/apply",
-    "location": "London, United Kingdom",
-    "category": "News & Editorial Careers",
-    "ml_job_parser": {
-      "descriptionTeaser": "Join our team as a Senior Specialist Legal Editor, where your expertise in private client law will shape AI-driven legal solutions. Collaborate with experienced colleagues to create impactful legal content and enhance productivity through innovative technologies. If you're passionate about legal writing and technology, this is the role for you!",
-      "descriptionTeaser_first200": "We are seeking an experienced private client lawyer to join the Practical Law Private Client team in the UK. Practical Law is a leading online know-how service providing expert-created, practical m...",
-      "descriptionTeaser_keyword": "We are seeking an experienced private client lawyer to join the Practical Law Private Client team in the UK. Practical Law is a leading online know-how service providing expert-created, practical main...",
-      "descriptionTeaser_ats": "We are seeking an experienced private client lawyer to join the Practical Law Private Client team in the UK.Practical Law is a leading online know-how service providing expert-created, practical maint"
-    },
-    "externalApply": true,
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -0.12574,
-          "lat": 51.50853
-        },
-        "location": "London, United Kingdom"
       }
     ],
     "isMultiCategory": false,
