@@ -4,7 +4,7 @@
     "country": "United States of America",
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "Reuters is seeking an experienced and talented editor to drive U.S. news coverage for our national news file, including stories ranging from natural disasters and school shootings to national politics",
+    "descriptionTeaser": "Join our team as an Editor for U.S. News/Cross Format, where you'll drive coverage of major breaking news stories and manage a talented team of reporters. If you have a strong background in journalism and a passion for impactful storytelling, we want to hear from you!",
     "state": "New York",
     "visibilityType": "External",
     "siteType": "external",
@@ -36,6 +36,26 @@
     "location": "New York, New York, United States of America",
     "category": "News & Editorial Careers",
     "externalApply": true,
+    "ml_skills": [
+      "text journalism",
+      "video journalism",
+      "photojournalism",
+      "u.s. political news",
+      "news coverage",
+      "editing",
+      "team management",
+      "story development",
+      "organizational skills",
+      "deadline management",
+      "creative management",
+      "collaboration"
+    ],
+    "ml_job_parser": {
+      "descriptionTeaser": "Join our team as an Editor for U.S. News/Cross Format, where you'll drive coverage of major breaking news stories and manage a talented team of reporters. If you have a strong background in journalism and a passion for impactful storytelling, we want to hear from you!",
+      "descriptionTeaser_first200": "Reuters is seeking an experienced and talented editor to drive U.S. news coverage for our national news file, including stories ranging from natural disasters and school shootings to national polit...",
+      "descriptionTeaser_keyword": "Reuters is seeking an experienced and talented editor to drive U.S. news coverage for our national news file, including stories ranging from natural disasters and school shootings to national politics...",
+      "descriptionTeaser_ats": "Reuters is seeking an experienced and talented editor to drive U.S. news coverage for our national news file, including stories ranging from natural disasters and school shootings to national politics"
+    },
     "isMultiLocation": true,
     "multi_location_array": [
       {
