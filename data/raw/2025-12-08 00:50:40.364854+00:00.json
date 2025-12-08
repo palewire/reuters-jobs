@@ -4,7 +4,7 @@
     "country": "United States of America",
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "Join our team as an Editor for U.S. News/Cross Format, where you'll drive coverage of major breaking news stories and manage a talented team of reporters. If you have a strong background in journalism and a passion for impactful storytelling, we want to hear from you!",
+    "descriptionTeaser": "Join our team as an Editor for U.S. News/Cross Format, where you will drive coverage of major breaking news stories and manage a talented team of reporters. If you have a deep understanding of U.S. political news and a passion for journalism, we want to hear from you!",
     "state": "New York",
     "visibilityType": "External",
     "siteType": "external",
@@ -37,21 +37,21 @@
     "category": "News & Editorial Careers",
     "externalApply": true,
     "ml_skills": [
-      "text journalism",
+      "u.s. news coverage",
       "video journalism",
       "photojournalism",
-      "u.s. political news",
-      "news coverage",
+      "reporting",
       "editing",
+      "u.s. political news",
       "team management",
       "story development",
+      "news coordination",
       "organizational skills",
-      "deadline management",
-      "creative management",
-      "collaboration"
+      "enterprise stories",
+      "competitive pressure handling"
     ],
     "ml_job_parser": {
-      "descriptionTeaser": "Join our team as an Editor for U.S. News/Cross Format, where you'll drive coverage of major breaking news stories and manage a talented team of reporters. If you have a strong background in journalism and a passion for impactful storytelling, we want to hear from you!",
+      "descriptionTeaser": "Join our team as an Editor for U.S. News/Cross Format, where you will drive coverage of major breaking news stories and manage a talented team of reporters. If you have a deep understanding of U.S. political news and a passion for journalism, we want to hear from you!",
       "descriptionTeaser_first200": "Reuters is seeking an experienced and talented editor to drive U.S. news coverage for our national news file, including stories ranging from natural disasters and school shootings to national polit...",
       "descriptionTeaser_keyword": "Reuters is seeking an experienced and talented editor to drive U.S. news coverage for our national news file, including stories ranging from natural disasters and school shootings to national politics...",
       "descriptionTeaser_ats": "Reuters is seeking an experienced and talented editor to drive U.S. news coverage for our national news file, including stories ranging from natural disasters and school shootings to national politics"
@@ -989,78 +989,6 @@
     "badge": ""
   },
   {
-    "ml_skills": [
-      "photojournalism",
-      "video editing",
-      "sports photography",
-      "communication skills",
-      "team collaboration",
-      "news judgment",
-      "photo editing software",
-      "caption writing",
-      "drone operation",
-      "fast-paced environment",
-      "storytelling",
-      "deadline management"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Join our team as a Photographer (Level 1 Journalist) at Reuters, where you'll cover breaking news and produce compelling images for our global audience. If you have a passion for storytelling through photography and video, we want to hear from you!",
-    "state": "District of Columbia",
-    "siteType": "external",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ196261",
-    "city": "Washington",
-    "latitude": "38.89511",
-    "multi_location": [
-      "Washington, District of Columbia, United States of America"
-    ],
-    "address": "1333 H Street NW, Suite 500, Washington, DC 20005, United States of America",
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Washington-District-of-Columbia/Photographer--Level-1-Journalist-_JREQ196261/apply",
-    "ml_job_parser": {
-      "descriptionTeaser": "Join our team as a Photographer (Level 1 Journalist) at Reuters, where you'll cover breaking news and produce compelling images for our global audience. If you have a passion for storytelling through photography and video, we want to hear from you!",
-      "descriptionTeaser_first200": "Reuters is seeking a talented Photographer (Level 1 Journalist) to join our team in DC. The photojournalist will be responsible for covering news, politics, entertainment and sports in DC and also ...",
-      "descriptionTeaser_keyword": "Reuters is seeking a talented Photographer (Level 1 Journalist) to join our team in DC. The photojournalist will be responsible for covering news, politics, entertainment and sports in DC and also rei...",
-      "descriptionTeaser_ats": "Reuters is seeking a talented Photographer (Level 1 Journalist) to join our team in DC. The photojournalist will be responsible for covering news, politics, entertainment and sports in DC and also rei"
-    },
-    "externalApply": true,
-    "cityState": "Washington, District of Columbia",
-    "country": "United States of America",
-    "visibilityType": "External",
-    "longitude": "-77.03637",
-    "jobId": "JREQ196261",
-    "locale": "en_US",
-    "title": "Photographer (Level 1 Journalist)",
-    "jobSeqNo": "THTTRUUSJREQ196261EXTERNALENUS",
-    "postedDate": "2025-11-25T00:00:00.000+0000",
-    "dateCreated": "2025-11-24T20:41:29.909+0000",
-    "cityStateCountry": "Washington, District of Columbia, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "location": "Washington, District of Columbia, United States of America",
-    "category": "News & Editorial Careers",
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -77.03637,
-          "lat": 38.89511
-        },
-        "location": "Washington, District of Columbia, United States of America"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Pyrmont, New South Wales",
     "country": "Australia",
     "remote": "Hybrid",
@@ -1197,77 +1125,6 @@
           "lat": 17.38405
         },
         "location": "Hyderabad, Telangana, India"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "ml_skills": [
-      "video signal formats",
-      "compression techniques",
-      "it infrastructure",
-      "tcp/ip networking",
-      "multi vlan networks",
-      "ip based video delivery",
-      "situational awareness",
-      "problem solving",
-      "communication skills",
-      "operational documentation",
-      "field operations support"
-    ],
-    "remote": "On-Site",
-    "type": "Full time",
-    "descriptionTeaser": "Join our team as a Technical Operations Engineer at Reuters, where you'll play a crucial role in ensuring live content reaches millions. Bring your expertise in video signal formats and IT infrastructure to our fast-paced Master Control Room in London.",
-    "state": "",
-    "siteType": "external",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ192923",
-    "city": "London",
-    "latitude": "51.50853",
-    "multi_location": [
-      "London, United Kingdom"
-    ],
-    "address": "5 Canada Square, Canary Wharf, London, E14 5AQ, United Kingdom",
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-Kingdom-London/MCR-Technical-Operations-Engineer---Reuters_JREQ192923/apply",
-    "ml_job_parser": {
-      "descriptionTeaser": "Join our team as a Technical Operations Engineer at Reuters, where you'll play a crucial role in ensuring live content reaches millions. Bring your expertise in video signal formats and IT infrastructure to our fast-paced Master Control Room in London.",
-      "descriptionTeaser_ats": "MCR Technical Operations Engineer - ReutersThis position is based in Canary Wharf, London.Want to be part of the Master Control Room at one of the world's leading news agencies? Want to play a crucial",
-      "descriptionTeaser_first200": "MCR Technical Operations Engineer - Reuters. This position is based in Canary Wharf, London. Want to be part of the Master Control Room at one of the world's leading news agencies? Want to play a c...",
-      "descriptionTeaser_keyword": "MCR Technical Operations Engineer - Reuters. This position is based in Canary Wharf, London. Want to be part of the Master Control Room at one of the world's leading news agencies? Want to play a cruc..."
-    },
-    "externalApply": true,
-    "cityState": "London",
-    "country": "United Kingdom",
-    "visibilityType": "External",
-    "longitude": "-0.12574",
-    "jobId": "JREQ192923",
-    "locale": "en_US",
-    "title": "MCR Technical Operations Engineer - Reuters",
-    "jobSeqNo": "THTTRUUSJREQ192923EXTERNALENUS",
-    "postedDate": "2025-11-19T00:00:00.000+0000",
-    "dateCreated": "2025-07-11T20:45:46.501+0000",
-    "cityStateCountry": "London, United Kingdom",
-    "jobVisibility": [
-      "external"
-    ],
-    "location": "London, United Kingdom",
-    "category": "News & Editorial Careers",
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -0.12574,
-          "lat": 51.50853
-        },
-        "location": "London, United Kingdom"
       }
     ],
     "isMultiCategory": false,
@@ -2616,78 +2473,6 @@
           "lat": 39.9075
         },
         "location": "Beijing, Beijing, China"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "ml_skills": [
-      "financial markets",
-      "market reporting",
-      "editing skills",
-      "writing skills",
-      "team management",
-      "cross-asset experience",
-      "journalistic skills",
-      "process improvement",
-      "collaboration",
-      "data analysis",
-      "strategic planning",
-      "news coverage"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Join our team as a U.S. Breaking News Editor for Finance and Markets, where you will lead a dynamic team in delivering real-time market coverage. If you have a passion for financial journalism and strong editing skills, this is your opportunity to make an impact in a fast-paced environment.",
-    "state": "New York",
-    "siteType": "external",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ192378",
-    "city": "New York",
-    "latitude": "40.71427",
-    "multi_location": [
-      "New York, New York, United States of America"
-    ],
-    "address": "3 Times Square, New York, NY 10036, United States of America",
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-New-York-New-York/US-Breaking-News-Editor--Finance-and-Markets_JREQ192378/apply",
-    "ml_job_parser": {
-      "descriptionTeaser": "Join our team as a U.S. Breaking News Editor for Finance and Markets, where you will lead a dynamic team in delivering real-time market coverage. If you have a passion for financial journalism and strong editing skills, this is your opportunity to make an impact in a fast-paced environment.",
-      "descriptionTeaser_first200": "Reuters is looking for a strong journalist to lead its finance and markets breaking news team in the United States. The breaking news team is at the heart of the finance and markets team, serving t...",
-      "descriptionTeaser_keyword": "Reuters is looking for a strong journalist to lead its finance and markets breaking news team in the United States. The breaking news team is at the heart of the finance and markets team, serving the...",
-      "descriptionTeaser_ats": "Reuters is looking for a strong journalist to lead its finance and markets breaking news team in the United States. The breaking news team is at the heart of the finance and markets team, serving the"
-    },
-    "externalApply": true,
-    "cityState": "New York, New York",
-    "country": "United States of America",
-    "visibilityType": "External",
-    "longitude": "-74.00597",
-    "jobId": "JREQ192378",
-    "locale": "en_US",
-    "title": "U.S. Breaking News Editor, Finance and Markets",
-    "jobSeqNo": "THTTRUUSJREQ192378EXTERNALENUS",
-    "postedDate": "2025-09-26T00:00:00.000+0000",
-    "dateCreated": "2025-06-17T16:38:03.129+0000",
-    "cityStateCountry": "New York, New York, United States of America",
-    "jobVisibility": [
-      "external"
-    ],
-    "location": "New York, New York, United States of America",
-    "category": "News & Editorial Careers",
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -74.00597,
-          "lat": 40.71427
-        },
-        "location": "New York, New York, United States of America"
       }
     ],
     "isMultiCategory": false,
