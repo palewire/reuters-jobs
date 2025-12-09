@@ -76,7 +76,7 @@
     "country": "United States of America",
     "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "Reuters is seeking a talented and driven photojournalist to join our Washington, D.C. bureau. This role is central to our coverage of the White House, Capitol Hill, U.S. politics, and government affai",
+    "descriptionTeaser": "Join our team as a Senior Photographer, where you will cover major political events and produce compelling visual narratives. If you have a passion for photojournalism and a deep understanding of U.S. politics, we want to hear from you!",
     "state": "District of Columbia",
     "visibilityType": "External",
     "siteType": "external",
@@ -105,6 +105,26 @@
     "location": "Washington, District of Columbia, United States of America",
     "category": "News & Editorial Careers",
     "externalApply": true,
+    "ml_skills": [
+      "photojournalism",
+      "visual storytelling",
+      "video production",
+      "photo editing software",
+      "u.s. politics",
+      "team collaboration",
+      "deadline management",
+      "communication skills",
+      "drone license",
+      "sports photography",
+      "wire service workflows",
+      "cross-format news coverage"
+    ],
+    "ml_job_parser": {
+      "descriptionTeaser": "Join our team as a Senior Photographer, where you will cover major political events and produce compelling visual narratives. If you have a passion for photojournalism and a deep understanding of U.S. politics, we want to hear from you!",
+      "descriptionTeaser_first200": "Reuters is seeking a talented and driven photojournalist to join our Washington, D.C. bureau. This role is central to our coverage of the White House, Capitol Hill, U.S. politics, and government af...",
+      "descriptionTeaser_keyword": "Reuters is seeking a talented and driven photojournalist to join our Washington, D.C. bureau. This role is central to our coverage of the White House, Capitol Hill, U.S. politics, and government affai...",
+      "descriptionTeaser_ats": "Reuters is seeking a talented and driven photojournalist to join our Washington, D.C. bureau. This role is central to our coverage of the White House, Capitol Hill, U.S. politics, and government affai"
+    },
     "isMultiLocation": true,
     "multi_location_array": [
       {
