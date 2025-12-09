@@ -221,78 +221,6 @@
     "badge": ""
   },
   {
-    "ml_skills": [
-      "e-invoicing",
-      "tax technology",
-      "indirect tax",
-      "regulatory compliance",
-      "ms office",
-      "stakeholder collaboration",
-      "written communication",
-      "verbal communication",
-      "content creation",
-      "data integration",
-      "project management",
-      "language proficiency"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Join our team as a Regulatory Associate and tackle the complexities of global regulatory compliance in e-invoicing and tax technology. Contribute to our innovative solutions while collaborating with stakeholders and ensuring compliance across various markets. Your expertise will help us lead in this critical field.",
-    "state": "",
-    "siteType": "external",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ189266",
-    "city": "Gothenburg",
-    "latitude": "57.70716",
-    "multi_location": [
-      "Gothenburg, Sweden"
-    ],
-    "address": "V\u00e4stra Hamngatan 1, 411 17 Gothenburg, Sweden",
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Sweden-Gothenburg/Regulatory-Associate_JREQ189266/apply",
-    "ml_job_parser": {
-      "descriptionTeaser": "Join our team as a Regulatory Associate and tackle the complexities of global regulatory compliance in e-invoicing and tax technology. Contribute to our innovative solutions while collaborating with stakeholders and ensuring compliance across various markets. Your expertise will help us lead in this critical field.",
-      "descriptionTeaser_first200": "Regulatory Associate - Pagero. Are you ready to tackle the complexities of global regulatory compliance and drive innovation in e-invoicing and tax technology? As a member of the Regulatory Affairs...",
-      "descriptionTeaser_keyword": "Regulatory Associate - Pagero. Are you ready to tackle the complexities of global regulatory compliance and drive innovation in e-invoicing and tax technology? As a member of the Regulatory Affairs te...",
-      "descriptionTeaser_ats": "Regulatory Associate - PageroAre you ready to tackle the complexities of global regulatory compliance and drive innovation in e-invoicing and tax technology? As a member of the Regulatory Affairs team"
-    },
-    "externalApply": true,
-    "cityState": "Gothenburg",
-    "country": "Sweden",
-    "visibilityType": "External",
-    "longitude": "11.96679",
-    "jobId": "JREQ189266",
-    "locale": "en_US",
-    "title": "Regulatory Specialist",
-    "jobSeqNo": "THTTRUUSJREQ189266EXTERNALENUS",
-    "postedDate": "2025-12-08T00:00:00.000+0000",
-    "dateCreated": "2025-05-12T12:37:23.933+0000",
-    "cityStateCountry": "Gothenburg, Sweden",
-    "jobVisibility": [
-      "external"
-    ],
-    "location": "Gothenburg, Sweden",
-    "category": "News & Editorial Careers",
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 11.96679,
-          "lat": 57.70716
-        },
-        "location": "Gothenburg, Sweden"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Washington, District of Columbia",
     "country": "United States of America",
     "remote": "Hybrid",
@@ -354,6 +282,78 @@
           "lat": 38.89511
         },
         "location": "Washington, District of Columbia, United States of America"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "ml_skills": [
+      "e-invoicing",
+      "tax technology",
+      "indirect tax",
+      "regulatory compliance",
+      "ms office",
+      "stakeholder collaboration",
+      "written communication",
+      "verbal communication",
+      "content creation",
+      "data integration",
+      "project management",
+      "language proficiency"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Join our team as a Regulatory Associate and tackle the complexities of global regulatory compliance in e-invoicing and tax technology. Contribute to our innovative solutions while collaborating with stakeholders and ensuring compliance across various markets. Your expertise will help us lead in this critical field.",
+    "state": "",
+    "siteType": "external",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ189266",
+    "city": "Gothenburg",
+    "latitude": "57.70716",
+    "multi_location": [
+      "Gothenburg, Sweden"
+    ],
+    "address": "V\u00e4stra Hamngatan 1, 411 17 Gothenburg, Sweden",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Sweden-Gothenburg/Regulatory-Associate_JREQ189266/apply",
+    "ml_job_parser": {
+      "descriptionTeaser": "Join our team as a Regulatory Associate and tackle the complexities of global regulatory compliance in e-invoicing and tax technology. Contribute to our innovative solutions while collaborating with stakeholders and ensuring compliance across various markets. Your expertise will help us lead in this critical field.",
+      "descriptionTeaser_first200": "Regulatory Associate - Pagero. Are you ready to tackle the complexities of global regulatory compliance and drive innovation in e-invoicing and tax technology? As a member of the Regulatory Affairs...",
+      "descriptionTeaser_keyword": "Regulatory Associate - Pagero. Are you ready to tackle the complexities of global regulatory compliance and drive innovation in e-invoicing and tax technology? As a member of the Regulatory Affairs te...",
+      "descriptionTeaser_ats": "Regulatory Associate - PageroAre you ready to tackle the complexities of global regulatory compliance and drive innovation in e-invoicing and tax technology? As a member of the Regulatory Affairs team"
+    },
+    "externalApply": true,
+    "cityState": "Gothenburg",
+    "country": "Sweden",
+    "visibilityType": "External",
+    "longitude": "11.96679",
+    "jobId": "JREQ189266",
+    "locale": "en_US",
+    "title": "Regulatory Specialist",
+    "jobSeqNo": "THTTRUUSJREQ189266EXTERNALENUS",
+    "postedDate": "2025-12-08T00:00:00.000+0000",
+    "dateCreated": "2025-05-12T12:37:23.933+0000",
+    "cityStateCountry": "Gothenburg, Sweden",
+    "jobVisibility": [
+      "external"
+    ],
+    "location": "Gothenburg, Sweden",
+    "category": "News & Editorial Careers",
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 11.96679,
+          "lat": 57.70716
+        },
+        "location": "Gothenburg, Sweden"
       }
     ],
     "isMultiCategory": false,
