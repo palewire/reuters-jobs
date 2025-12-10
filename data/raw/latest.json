@@ -1,62 +1,46 @@
 [
   {
-    "ml_skills": [
-      "problem-solving abilities",
-      "execution",
-      "effective planning",
-      "communication skills",
-      "verbal communication",
-      "excel",
-      "ms office tools",
-      "providing technical support"
-    ],
-    "remote": "On-Site",
+    "cityState": "Eagan, Minnesota",
+    "country": "United States of America",
+    "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "In this role, you will be responsible for integrating tax software with internal applications, ensuring alignment with the latest tax regulations, and providing technical support to both internal team...",
-    "state": "Telangana",
+    "descriptionTeaser": "Director, Codes EditorialRole SummaryProvides strategic leadership and direction for meeting department, product, people, and business goals and objectives. Responsible for meeting all schedules, targ",
+    "state": "Minnesota",
+    "visibilityType": "External",
     "siteType": "external",
+    "longitude": "-93.16689",
     "multi_category": [
       "News & Editorial Careers"
     ],
-    "reqId": "JREQ195517",
-    "city": "Hyderabad",
-    "latitude": "17.38405",
-    "multi_location": [
-      "Hyderabad, Telangana, India"
-    ],
-    "address": "Floor 12, 13 & 14, Building 11, Raheja Mindspace, Madhapur, Hyderabad- 500081, Telangana, India",
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Hyderabad-Telangana/Process-Associate_JREQ195517-1/apply",
-    "ml_job_parser": {
-      "descriptionTeaser": "In this role, you will be responsible for integrating tax software with internal applications, ensuring alignment with the latest tax regulations, and providing technical support to both internal team...",
-      "descriptionTeaser_first200": "We are looking for a detail-oriented and proactive Process Associate to join our team. In this role, you will be responsible for integrating tax software with internal applications, ensuring alignm...",
-      "descriptionTeaser_keyword": "We are looking for a detail-oriented and proactive Process Associate to join our team. In this role, you will be responsible for integrating tax software with internal applications, ensuring alignment...",
-      "descriptionTeaser_ats": "We are looking for a detail-oriented and proactive Process Associate to join our team. In this role, you will be responsible for integrating tax software with internal applications, ensuring alignment"
-    },
-    "externalApply": true,
-    "cityState": "Hyderabad, Telangana",
-    "country": "India",
-    "visibilityType": "External",
-    "longitude": "78.45636",
-    "jobId": "JREQ195517",
+    "reqId": "JREQ196651",
+    "jobId": "JREQ196651",
+    "city": "Eagan",
+    "latitude": "44.80413",
     "locale": "en_US",
-    "title": "Process Associate",
-    "jobSeqNo": "THTTRUUSJREQ195517EXTERNALENUS",
+    "multi_location": [
+      "Eagan, Minnesota, United States of America"
+    ],
+    "title": "Director, Codes Editorial",
+    "jobSeqNo": "THTTRUUSJREQ196651EXTERNALENUS",
     "postedDate": "2025-12-09T00:00:00.000+0000",
-    "dateCreated": "2025-11-19T00:44:21.560+0000",
-    "cityStateCountry": "Hyderabad, Telangana, India",
+    "dateCreated": "2025-12-09T20:46:34.432+0000",
+    "cityStateCountry": "Eagan, Minnesota, United States of America",
+    "address": "2900 Ames Crossing Road, Ste 100, Eagan, MN 55121, United States of America",
     "jobVisibility": [
       "external"
     ],
-    "location": "Hyderabad, Telangana, India",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Director--Codes-Editorial_JREQ196651/apply",
+    "location": "Eagan, Minnesota, United States of America",
     "category": "News & Editorial Careers",
+    "externalApply": true,
     "isMultiLocation": true,
     "multi_location_array": [
       {
         "latlong": {
-          "lon": 78.45636,
-          "lat": 17.38405
+          "lon": -93.16689,
+          "lat": 44.80413
         },
-        "location": "Hyderabad, Telangana, India"
+        "location": "Eagan, Minnesota, United States of America"
       }
     ],
     "isMultiCategory": false,
@@ -210,6 +194,158 @@
           "lat": 17.38405
         },
         "location": "Hyderabad, Telangana, India"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "ml_skills": [
+      "tax software integration",
+      "us taxation principles",
+      "ms office",
+      "technical support",
+      "analytical skills",
+      "decision making",
+      "communication skills",
+      "problem solving",
+      "collaboration",
+      "adaptability",
+      "learning agility",
+      "interpersonal skills"
+    ],
+    "remote": "On-Site",
+    "type": "Full time",
+    "descriptionTeaser": "Join our team as a Process Associate, where you will integrate tax software with internal applications and provide technical support. If you have strong problem-solving skills and a willingness to learn, we want to hear from you!",
+    "state": "Telangana",
+    "siteType": "external",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ195517",
+    "city": "Hyderabad",
+    "latitude": "17.38405",
+    "multi_location": [
+      "Hyderabad, Telangana, India"
+    ],
+    "address": "Floor 12, 13 & 14, Building 11, Raheja Mindspace, Madhapur, Hyderabad- 500081, Telangana, India",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Hyderabad-Telangana/Process-Associate_JREQ195517-1/apply",
+    "ml_job_parser": {
+      "descriptionTeaser": "Join our team as a Process Associate, where you will integrate tax software with internal applications and provide technical support. If you have strong problem-solving skills and a willingness to learn, we want to hear from you!",
+      "descriptionTeaser_first200": "We are looking for a detail-oriented and proactive Process Associate to join our team. In this role, you will be responsible for integrating tax software with internal applications, ensuring alignm...",
+      "descriptionTeaser_keyword": "We are looking for a detail-oriented and proactive Process Associate to join our team. In this role, you will be responsible for integrating tax software with internal applications, ensuring alignment...",
+      "descriptionTeaser_ats": "We are looking for a detail-oriented and proactive Process Associate to join our team. In this role, you will be responsible for integrating tax software with internal applications, ensuring alignment"
+    },
+    "externalApply": true,
+    "cityState": "Hyderabad, Telangana",
+    "country": "India",
+    "visibilityType": "External",
+    "longitude": "78.45636",
+    "jobId": "JREQ195517",
+    "locale": "en_US",
+    "title": "Process Associate",
+    "jobSeqNo": "THTTRUUSJREQ195517EXTERNALENUS",
+    "postedDate": "2025-12-09T00:00:00.000+0000",
+    "dateCreated": "2025-11-19T00:44:21.560+0000",
+    "cityStateCountry": "Hyderabad, Telangana, India",
+    "jobVisibility": [
+      "external"
+    ],
+    "location": "Hyderabad, Telangana, India",
+    "category": "News & Editorial Careers",
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 78.45636,
+          "lat": 17.38405
+        },
+        "location": "Hyderabad, Telangana, India"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Montreal, Quebec",
+    "country": "Canada",
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Rejoignez notre \u00e9quipe en tant qu'\u00c9diteur juridique et contribuez \u00e0 la cr\u00e9ation de contenu juridique de haute qualit\u00e9. Ce r\u00f4le hybride vous permettra de travailler sur des projets passionnants tout en d\u00e9veloppant vos comp\u00e9tences en r\u00e9daction et en recherche juridique.",
+    "state": "Quebec",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-73.58781",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ196409",
+    "jobId": "JREQ196409",
+    "city": "Montreal",
+    "latitude": "45.50884",
+    "locale": "en_US",
+    "multi_location": [
+      "Montreal, Quebec, Canada",
+      "Toronto, Ontario, Canada"
+    ],
+    "title": "Responsable de publication / Legal Writer",
+    "jobSeqNo": "THTTRUUSJREQ196409EXTERNALENUS",
+    "postedDate": "2025-12-09T00:00:00.000+0000",
+    "dateCreated": "2025-12-01T20:44:18.740+0000",
+    "cityStateCountry": "Montreal, Quebec, Canada",
+    "address": "1010 rue Ste-Catherine Ouest, Suite 200, Montreal, QC H3B 5L1, Canada",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Canada-Montreal-Quebec/Legal-Editor_JREQ196409/apply",
+    "location": "Montreal, Quebec, Canada",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "ml_skills": [
+      "r\u00e9daction juridique",
+      "recherche juridique",
+      "analyse juridique",
+      "utilisation de westlaw",
+      "r\u00e9daction \u00e9ditoriale",
+      "gestion des relations",
+      "ma\u00eetrise de microsoft office 365",
+      "comp\u00e9tences en communication",
+      "gestion de projet",
+      "esprit analytique",
+      "bilinguisme fran\u00e7ais/anglais",
+      "collaboration"
+    ],
+    "ml_job_parser": {
+      "descriptionTeaser": "Rejoignez notre \u00e9quipe en tant qu'\u00c9diteur juridique et contribuez \u00e0 la cr\u00e9ation de contenu juridique de haute qualit\u00e9. Ce r\u00f4le hybride vous permettra de travailler sur des projets passionnants tout en d\u00e9veloppant vos comp\u00e9tences en r\u00e9daction et en recherche juridique.",
+      "descriptionTeaser_first200": "Titre du poste : \u00c9diteur juridique \u2013 Doctrine. Joignez notre \u00e9quipe mondiale de doctrine juridique pour rechercher, cr\u00e9er, r\u00e9viser et maintenir un contenu juridique de haute qualit\u00e9 pour des livres...",
+      "descriptionTeaser_keyword": "Titre du poste : \u00c9diteur juridique \u2013 Doctrine. Joignez notre \u00e9quipe mondiale de doctrine juridique pour rechercher, cr\u00e9er, r\u00e9viser et maintenir un contenu juridique de haute qualit\u00e9 pour des livres im...",
+      "descriptionTeaser_ats": "Titre du poste  .  \u00c9diteur juridique \u2013 DoctrineJoignez notre \u00e9quipe mondiale de doctrine juridique pour rechercher, cr\u00e9er, r\u00e9viser et maintenir un contenu juridique de haute qualit\u00e9 pour des livres impr"
+    },
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -73.58781,
+          "lat": 45.50884
+        },
+        "location": "Montreal, Quebec, Canada"
+      },
+      {
+        "latlong": {
+          "lon": -79.4163,
+          "lat": 43.70011
+        },
+        "location": "Toronto, Ontario, Canada"
       }
     ],
     "isMultiCategory": false,
@@ -827,86 +963,6 @@
           "lat": 19.43195
         },
         "location": "Mexico City, Mexico"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Montreal, Quebec",
-    "country": "Canada",
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Rejoignez notre \u00e9quipe en tant qu'\u00c9diteur juridique et contribuez \u00e0 la cr\u00e9ation de contenu juridique de haute qualit\u00e9. Ce r\u00f4le hybride vous permettra de travailler sur des projets passionnants tout en d\u00e9veloppant vos comp\u00e9tences en r\u00e9daction et en recherche juridique.",
-    "state": "Quebec",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-73.58781",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ196409",
-    "jobId": "JREQ196409",
-    "city": "Montreal",
-    "latitude": "45.50884",
-    "locale": "en_US",
-    "multi_location": [
-      "Montreal, Quebec, Canada",
-      "Toronto, Ontario, Canada"
-    ],
-    "title": "Legal Editor",
-    "jobSeqNo": "THTTRUUSJREQ196409EXTERNALENUS",
-    "postedDate": "2025-12-01T00:00:00.000+0000",
-    "dateCreated": "2025-12-01T20:44:18.740+0000",
-    "cityStateCountry": "Montreal, Quebec, Canada",
-    "address": "1010 rue Ste-Catherine Ouest, Suite 200, Montreal, QC H3B 5L1, Canada",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Canada-Montreal-Quebec/Legal-Editor_JREQ196409/apply",
-    "location": "Montreal, Quebec, Canada",
-    "category": "News & Editorial Careers",
-    "externalApply": true,
-    "ml_skills": [
-      "r\u00e9daction juridique",
-      "recherche juridique",
-      "analyse juridique",
-      "utilisation de westlaw",
-      "r\u00e9daction \u00e9ditoriale",
-      "gestion des relations",
-      "ma\u00eetrise de microsoft office 365",
-      "comp\u00e9tences en communication",
-      "gestion de projet",
-      "esprit analytique",
-      "bilinguisme fran\u00e7ais/anglais",
-      "collaboration"
-    ],
-    "ml_job_parser": {
-      "descriptionTeaser": "Rejoignez notre \u00e9quipe en tant qu'\u00c9diteur juridique et contribuez \u00e0 la cr\u00e9ation de contenu juridique de haute qualit\u00e9. Ce r\u00f4le hybride vous permettra de travailler sur des projets passionnants tout en d\u00e9veloppant vos comp\u00e9tences en r\u00e9daction et en recherche juridique.",
-      "descriptionTeaser_first200": "Titre du poste : \u00c9diteur juridique \u2013 Doctrine. Joignez notre \u00e9quipe mondiale de doctrine juridique pour rechercher, cr\u00e9er, r\u00e9viser et maintenir un contenu juridique de haute qualit\u00e9 pour des livres...",
-      "descriptionTeaser_keyword": "Titre du poste : \u00c9diteur juridique \u2013 Doctrine. Joignez notre \u00e9quipe mondiale de doctrine juridique pour rechercher, cr\u00e9er, r\u00e9viser et maintenir un contenu juridique de haute qualit\u00e9 pour des livres im...",
-      "descriptionTeaser_ats": "Titre du poste  .  \u00c9diteur juridique \u2013 DoctrineJoignez notre \u00e9quipe mondiale de doctrine juridique pour rechercher, cr\u00e9er, r\u00e9viser et maintenir un contenu juridique de haute qualit\u00e9 pour des livres impr"
-    },
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -73.58781,
-          "lat": 45.50884
-        },
-        "location": "Montreal, Quebec, Canada"
-      },
-      {
-        "latlong": {
-          "lon": -79.4163,
-          "lat": 43.70011
-        },
-        "location": "Toronto, Ontario, Canada"
       }
     ],
     "isMultiCategory": false,
