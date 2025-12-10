@@ -1,5 +1,57 @@
 [
   {
+    "cityState": "Singapore",
+    "country": "Singapore",
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Asia Metals CorrespondentReuters is seeking an outstanding journalist with strong source-building skills, great story ideas and a track record of breaking news to join our Singapore-based team as Asia",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "103.8",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ196532",
+    "jobId": "JREQ196532",
+    "city": "Singapore",
+    "latitude": "1.36667",
+    "locale": "en_US",
+    "multi_location": [
+      "Singapore, Singapore"
+    ],
+    "title": "Asia Metals Correspondent",
+    "jobSeqNo": "THTTRUUSJREQ196532EXTERNALENUS",
+    "postedDate": "2025-12-10T00:00:00.000+0000",
+    "dateCreated": "2025-12-10T04:47:23.032+0000",
+    "cityStateCountry": "Singapore, Singapore",
+    "address": "ALICE@Mediapolis, 29 Media Circle,  #09-05, Singapore 138565, Singapore",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Singapore-Singapore/Asia-Metals-Correspondent_JREQ196532/apply",
+    "location": "Singapore, Singapore",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 103.8,
+          "lat": 1.36667
+        },
+        "location": "Singapore, Singapore"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
     "cityState": "Eagan, Minnesota",
     "country": "United States of America",
     "remote": "Hybrid",
