@@ -1,48 +1,165 @@
 [
   {
-    "ml_skills": [
-      "problem-solving abilities",
-      "execution",
-      "effective planning",
-      "communication skills",
-      "verbal communication",
-      "excel",
-      "ms office tools",
-      "providing technical support"
-    ],
-    "remote": "On-Site",
+    "cityState": "Washington, District of Columbia",
+    "country": "United States of America",
+    "remote": "Hybrid",
     "type": "Full time",
-    "descriptionTeaser": "In this role, you will be responsible for integrating tax software with internal applications, ensuring alignment with the latest tax regulations, and providing technical support to both internal team...",
+    "descriptionTeaser": "Reuters is looking for an ambitious and experienced journalist to help lead its text breaking\u00a0news team covering the United States and Canada. The\u00a0breaking\u00a0news team is at the heart of Reuters\u2019 politi",
+    "state": "District of Columbia",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-77.03637",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ196860",
+    "jobId": "JREQ196860",
+    "city": "Washington",
+    "latitude": "38.89511",
+    "locale": "en_US",
+    "multi_location": [
+      "Washington, District of Columbia, United States of America",
+      "New York, New York, United States of America"
+    ],
+    "title": "Duty Editor (Breaking News Team), Reuters",
+    "jobSeqNo": "THTTRUUSJREQ196860EXTERNALENUS",
+    "postedDate": "2025-12-11T00:00:00.000+0000",
+    "dateCreated": "2025-12-11T20:47:13.435+0000",
+    "cityStateCountry": "Washington, District of Columbia, United States of America",
+    "address": "1333 H Street NW, Suite 500, Washington, DC 20005, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Washington-District-of-Columbia/Duty-Editor--Breaking-News-Team---Reuters_JREQ196860/apply",
+    "location": "Washington, District of Columbia, United States of America",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -77.03637,
+          "lat": 38.89511
+        },
+        "location": "Washington, District of Columbia, United States of America"
+      },
+      {
+        "latlong": {
+          "lon": -74.00597,
+          "lat": 40.71427
+        },
+        "location": "New York, New York, United States of America"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Washington, District of Columbia",
+    "country": "United States of America",
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Reuters is looking for a skilled, creative and ambitious editor to oversee our coverage of Capitol Hill, U.S. politics generally and federal law enforcement. The ideal candidate would move easily betw",
+    "state": "District of Columbia",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-77.03637",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ196862",
+    "jobId": "JREQ196862",
+    "city": "Washington",
+    "latitude": "38.89511",
+    "locale": "en_US",
+    "multi_location": [
+      "Washington, District of Columbia, United States of America"
+    ],
+    "title": "U.S. Congress/Justice Editor, Reuters",
+    "jobSeqNo": "THTTRUUSJREQ196862EXTERNALENUS",
+    "postedDate": "2025-12-11T00:00:00.000+0000",
+    "dateCreated": "2025-12-11T16:44:37.408+0000",
+    "cityStateCountry": "Washington, District of Columbia, United States of America",
+    "address": "1333 H Street NW, Suite 500, Washington, DC 20005, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Washington-District-of-Columbia/US-Congress-Justice-Editor_JREQ196862/apply",
+    "location": "Washington, District of Columbia, United States of America",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -77.03637,
+          "lat": 38.89511
+        },
+        "location": "Washington, District of Columbia, United States of America"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "ml_skills": [
+      "tax research",
+      "document formatting",
+      "content publishing",
+      "html conversion",
+      "microsoft office",
+      "generative ai",
+      "quality assurance",
+      "analytical skills",
+      "attention to detail",
+      "interpersonal skills",
+      "project management",
+      "communication skills",
+      "team collaboration"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Join our team as a Tax Publisher and play a pivotal role in delivering insightful tax-related content. If you have strong analytical skills and a passion for tax research, we want to hear from you!",
     "state": "Telangana",
     "siteType": "external",
     "multi_category": [
       "News & Editorial Careers"
     ],
-    "reqId": "JREQ195517",
+    "reqId": "JREQ195302",
     "city": "Hyderabad",
     "latitude": "17.38405",
     "multi_location": [
       "Hyderabad, Telangana, India"
     ],
     "address": "Floor 12, 13 & 14, Building 11, Raheja Mindspace, Madhapur, Hyderabad- 500081, Telangana, India",
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Hyderabad-Telangana/Process-Associate_JREQ195517-1/apply",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Hyderabad-Telangana/Publisher---Canadian-Tax_JREQ195302/apply",
     "ml_job_parser": {
-      "descriptionTeaser": "In this role, you will be responsible for integrating tax software with internal applications, ensuring alignment with the latest tax regulations, and providing technical support to both internal team...",
-      "descriptionTeaser_first200": "We are looking for a detail-oriented and proactive Process Associate to join our team. In this role, you will be responsible for integrating tax software with internal applications, ensuring alignm...",
-      "descriptionTeaser_keyword": "We are looking for a detail-oriented and proactive Process Associate to join our team. In this role, you will be responsible for integrating tax software with internal applications, ensuring alignment...",
-      "descriptionTeaser_ats": "We are looking for a detail-oriented and proactive Process Associate to join our team. In this role, you will be responsible for integrating tax software with internal applications, ensuring alignment"
+      "descriptionTeaser": "Join our team as a Tax Publisher and play a pivotal role in delivering insightful tax-related content. If you have strong analytical skills and a passion for tax research, we want to hear from you!",
+      "descriptionTeaser_first200": "Join our dynamic team and play a pivotal role in delivering timely, accurate, and insightful tax-related content to professionals across Canada. As a key contributor, you'll be responsible for sour...",
+      "descriptionTeaser_keyword": "Join our dynamic team and play a pivotal role in delivering timely, accurate, and insightful tax-related content to professionals across Canada. As a key contributor, you'll be responsible for sourcin...",
+      "descriptionTeaser_ats": "Join our dynamic team and play a pivotal role in delivering timely, accurate, and insightful tax-related content to professionals across Canada. As a key contributor, you'll be responsible for sourcin"
     },
     "externalApply": true,
     "cityState": "Hyderabad, Telangana",
     "country": "India",
     "visibilityType": "External",
     "longitude": "78.45636",
-    "jobId": "JREQ195517",
+    "jobId": "JREQ195302",
     "locale": "en_US",
-    "title": "Process Associate",
-    "jobSeqNo": "THTTRUUSJREQ195517EXTERNALENUS",
-    "postedDate": "2025-12-09T00:00:00.000+0000",
-    "dateCreated": "2025-11-19T00:44:21.560+0000",
+    "title": "Publisher - Canadian Tax",
+    "jobSeqNo": "THTTRUUSJREQ195302EXTERNALENUS",
+    "postedDate": "2025-12-11T00:00:00.000+0000",
+    "dateCreated": "2025-11-03T12:49:44.430+0000",
     "cityStateCountry": "Hyderabad, Telangana, India",
     "jobVisibility": [
       "external"
@@ -57,6 +174,493 @@
           "lat": 17.38405
         },
         "location": "Hyderabad, Telangana, India"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Gdansk",
+    "country": "Poland",
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Reuters is seeking candidates who can speak fluent French and English to join its real-time news operation in Gdansk, Poland.The reporters will work in fast paced, international environment to produce",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "18.64912",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ196737",
+    "jobId": "JREQ196737",
+    "city": "Gdansk",
+    "latitude": "54.35227",
+    "locale": "en_US",
+    "multi_location": [
+      "Gdansk, Poland"
+    ],
+    "title": "News Reporter with French, Reuters",
+    "jobSeqNo": "THTTRUUSJREQ196737EXTERNALENUS",
+    "postedDate": "2025-12-11T00:00:00.000+0000",
+    "dateCreated": "2025-12-11T12:47:28.335+0000",
+    "cityStateCountry": "Gdansk, Poland",
+    "address": "Alchemia 3 Building, Aleja Grunwaldzka 415, 80-309 Gdansk, Poland",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Poland-Gdansk/News-Reporter-with-French--Reuters_JREQ196737/apply",
+    "location": "Gdansk, Poland",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 18.64912,
+          "lat": 54.35227
+        },
+        "location": "Gdansk, Poland"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Toronto, Ontario",
+    "country": "Canada",
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Are you experienced in tax advisory and compliance? Join our team as a Principal Tax Publisher and leverage your expertise to create industry-leading content while utilizing advanced technologies to enhance tax research and advisory services.",
+    "state": "Ontario",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-79.4163",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ195847",
+    "jobId": "JREQ195847",
+    "city": "Toronto",
+    "latitude": "43.70011",
+    "locale": "en_US",
+    "multi_location": [
+      "Toronto, Ontario, Canada"
+    ],
+    "title": "Principal Tax Editor",
+    "jobSeqNo": "THTTRUUSJREQ195847EXTERNALENUS",
+    "postedDate": "2025-12-10T00:00:00.000+0000",
+    "dateCreated": "2025-11-19T00:44:21.547+0000",
+    "cityStateCountry": "Toronto, Ontario, Canada",
+    "address": "19 Duncan Street, Toronto, ON M5H 3H1, Canada",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Canada-Toronto-Ontario/Principal-Publisher_JREQ195847/apply",
+    "location": "Toronto, Ontario, Canada",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "ml_skills": [
+      "tax advisory",
+      "tax compliance",
+      "cpa certification",
+      "ll.m in taxation",
+      "tax research tools",
+      "content creation",
+      "editing skills",
+      "analytical skills",
+      "communication skills",
+      "project management",
+      "interpersonal skills",
+      "generative ai technologies",
+      "team collaboration",
+      "attention to detail",
+      "agile environment"
+    ],
+    "ml_job_parser": {
+      "descriptionTeaser": "Are you experienced in tax advisory and compliance? Join our team as a Principal Tax Publisher and leverage your expertise to create industry-leading content while utilizing advanced technologies to enhance tax research and advisory services.",
+      "descriptionTeaser_first200": "Principal Tax Publisher. Role Summary. We are seeking a passionate tax professional who thrives on the complexity and intricacy of tax advisory work. The ideal candidate is a lifelong learner with ...",
+      "descriptionTeaser_keyword": "Principal Tax Publisher. Role Summary. We are seeking a passionate tax professional who thrives on the complexity and intricacy of tax advisory work. The ideal candidate is a lifelong learner with an...",
+      "descriptionTeaser_ats": "Principal Tax PublisherRole SummaryWe are seeking a passionate tax professional who thrives on the complexity and intricacy of tax advisory work. The ideal candidate is a lifelong learner with an insa"
+    },
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -79.4163,
+          "lat": 43.70011
+        },
+        "location": "Toronto, Ontario, Canada"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Eagan, Minnesota",
+    "country": "United States of America",
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Director, Codes EditorialRole SummaryProvides strategic leadership and direction for meeting department, product, people, and business goals and objectives. Responsible for meeting all schedules, targ",
+    "state": "Minnesota",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-93.16689",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ196651",
+    "jobId": "JREQ196651",
+    "city": "Eagan",
+    "latitude": "44.80413",
+    "locale": "en_US",
+    "multi_location": [
+      "Eagan, Minnesota, United States of America"
+    ],
+    "title": "Director, Codes Editorial",
+    "jobSeqNo": "THTTRUUSJREQ196651EXTERNALENUS",
+    "postedDate": "2025-12-10T00:00:00.000+0000",
+    "dateCreated": "2025-12-09T20:46:34.432+0000",
+    "cityStateCountry": "Eagan, Minnesota, United States of America",
+    "address": "2900 Ames Crossing Road, Ste 100, Eagan, MN 55121, United States of America",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Director--Codes-Editorial_JREQ196651/apply",
+    "location": "Eagan, Minnesota, United States of America",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -93.16689,
+          "lat": 44.80413
+        },
+        "location": "Eagan, Minnesota, United States of America"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Islamabad",
+    "country": "Pakistan",
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Reuters is looking for an experienced journalist to lead our coverage of Pakistan and Afghanistan, two volatile and strategically important nations at the heart of South Asia.\u00a0Pakistan's military has ",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "73.04329",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ196598",
+    "jobId": "JREQ196598",
+    "city": "Islamabad",
+    "latitude": "33.72148",
+    "locale": "en_US",
+    "multi_location": [
+      "Islamabad, Pakistan"
+    ],
+    "title": "Bureau Chief, Pakistan & Afghanistan",
+    "jobSeqNo": "THTTRUUSJREQ196598EXTERNALENUS",
+    "postedDate": "2025-12-10T00:00:00.000+0000",
+    "dateCreated": "2025-12-10T16:45:42.129+0000",
+    "cityStateCountry": "Islamabad, Pakistan",
+    "address": "Reuters News and Media Pakistan (Private Limited), Office 601-607, The Hive, 6th Floor (South Zone), Islamabad Stock Exchange Towers, Blue Area, F-7/1, Islamabad- 44000, Pakistan",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Pakistan-Islamabad/Bureau-Chief--Pakistan---Afghanistan_JREQ196598/apply",
+    "location": "Islamabad, Pakistan",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 73.04329,
+          "lat": 33.72148
+        },
+        "location": "Islamabad, Pakistan"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Manila",
+    "country": "Philippines",
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "UK Legislation Editor - Product ResearchAbout the Role:In this opportunity as UK Legislation Editor, you will:Provide legal interpretation through analysis and research to develop and review content f",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "120.9822",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ195036",
+    "jobId": "JREQ195036",
+    "city": "Manila",
+    "latitude": "14.6042",
+    "locale": "en_US",
+    "multi_location": [
+      "Manila, Philippines"
+    ],
+    "title": "UK Legislation Editor",
+    "jobSeqNo": "THTTRUUSJREQ195036EXTERNALENUS",
+    "postedDate": "2025-12-10T00:00:00.000+0000",
+    "dateCreated": "2025-12-10T08:48:08.879+0000",
+    "cityStateCountry": "Manila, Philippines",
+    "address": "20 Upper McKinley Building, Upper McKinley Road, McKinley Hill, Manila, 1634, Philippines",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Philippines-Manila/UK-Legislation-Editor_JREQ195036/apply",
+    "location": "Manila, Philippines",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 120.9822,
+          "lat": 14.6042
+        },
+        "location": "Manila, Philippines"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "ml_skills": [
+      "e-invoicing",
+      "tax technology",
+      "indirect tax",
+      "regulatory compliance",
+      "ms office",
+      "stakeholder collaboration",
+      "written communication",
+      "verbal communication",
+      "content creation",
+      "data integration",
+      "project management",
+      "language proficiency"
+    ],
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Join our team as a Regulatory Associate and tackle the complexities of global regulatory compliance in e-invoicing and tax technology. Contribute to our innovative solutions while collaborating with stakeholders and ensuring compliance across various markets. Your expertise will help us lead in this critical field.",
+    "state": "",
+    "siteType": "external",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ189266",
+    "city": "Gothenburg",
+    "latitude": "57.70716",
+    "multi_location": [
+      "Gothenburg, Sweden"
+    ],
+    "address": "V\u00e4stra Hamngatan 1, 411 17 Gothenburg, Sweden",
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Sweden-Gothenburg/Regulatory-Associate_JREQ189266/apply",
+    "ml_job_parser": {
+      "descriptionTeaser": "Join our team as a Regulatory Associate and tackle the complexities of global regulatory compliance in e-invoicing and tax technology. Contribute to our innovative solutions while collaborating with stakeholders and ensuring compliance across various markets. Your expertise will help us lead in this critical field.",
+      "descriptionTeaser_first200": "Regulatory Associate - Pagero. Are you ready to tackle the complexities of global regulatory compliance and drive innovation in e-invoicing and tax technology? As a member of the Regulatory Affairs...",
+      "descriptionTeaser_keyword": "Regulatory Associate - Pagero. Are you ready to tackle the complexities of global regulatory compliance and drive innovation in e-invoicing and tax technology? As a member of the Regulatory Affairs te...",
+      "descriptionTeaser_ats": "Regulatory Associate - PageroAre you ready to tackle the complexities of global regulatory compliance and drive innovation in e-invoicing and tax technology? As a member of the Regulatory Affairs team"
+    },
+    "externalApply": true,
+    "cityState": "Gothenburg",
+    "country": "Sweden",
+    "visibilityType": "External",
+    "longitude": "11.96679",
+    "jobId": "JREQ189266",
+    "locale": "en_US",
+    "title": "Regulatory Specialist",
+    "jobSeqNo": "THTTRUUSJREQ189266EXTERNALENUS",
+    "postedDate": "2025-12-10T00:00:00.000+0000",
+    "dateCreated": "2025-05-12T12:37:23.933+0000",
+    "cityStateCountry": "Gothenburg, Sweden",
+    "jobVisibility": [
+      "external"
+    ],
+    "location": "Gothenburg, Sweden",
+    "category": "News & Editorial Careers",
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 11.96679,
+          "lat": 57.70716
+        },
+        "location": "Gothenburg, Sweden"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Montreal, Quebec",
+    "country": "Canada",
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Rejoignez notre \u00e9quipe en tant qu'\u00c9diteur juridique et contribuez \u00e0 la cr\u00e9ation de contenu juridique de haute qualit\u00e9. Ce r\u00f4le hybride vous permettra de travailler sur des projets passionnants tout en d\u00e9veloppant vos comp\u00e9tences en r\u00e9daction et en recherche juridique.",
+    "state": "Quebec",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "-73.58781",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ196409",
+    "jobId": "JREQ196409",
+    "city": "Montreal",
+    "latitude": "45.50884",
+    "locale": "en_US",
+    "multi_location": [
+      "Montreal, Quebec, Canada",
+      "Toronto, Ontario, Canada"
+    ],
+    "title": "Responsable de publication / Legal Writer",
+    "jobSeqNo": "THTTRUUSJREQ196409EXTERNALENUS",
+    "postedDate": "2025-12-10T00:00:00.000+0000",
+    "dateCreated": "2025-12-01T20:44:18.740+0000",
+    "cityStateCountry": "Montreal, Quebec, Canada",
+    "address": "1010 rue Ste-Catherine Ouest, Suite 200, Montreal, QC H3B 5L1, Canada",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Canada-Montreal-Quebec/Legal-Editor_JREQ196409/apply",
+    "location": "Montreal, Quebec, Canada",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "ml_skills": [
+      "r\u00e9daction juridique",
+      "recherche juridique",
+      "analyse juridique",
+      "utilisation de westlaw",
+      "r\u00e9daction \u00e9ditoriale",
+      "gestion des relations",
+      "ma\u00eetrise de microsoft office 365",
+      "comp\u00e9tences en communication",
+      "gestion de projet",
+      "esprit analytique",
+      "bilinguisme fran\u00e7ais/anglais",
+      "collaboration"
+    ],
+    "ml_job_parser": {
+      "descriptionTeaser": "Rejoignez notre \u00e9quipe en tant qu'\u00c9diteur juridique et contribuez \u00e0 la cr\u00e9ation de contenu juridique de haute qualit\u00e9. Ce r\u00f4le hybride vous permettra de travailler sur des projets passionnants tout en d\u00e9veloppant vos comp\u00e9tences en r\u00e9daction et en recherche juridique.",
+      "descriptionTeaser_first200": "Titre du poste : \u00c9diteur juridique \u2013 Doctrine. Joignez notre \u00e9quipe mondiale de doctrine juridique pour rechercher, cr\u00e9er, r\u00e9viser et maintenir un contenu juridique de haute qualit\u00e9 pour des livres...",
+      "descriptionTeaser_keyword": "Titre du poste : \u00c9diteur juridique \u2013 Doctrine. Joignez notre \u00e9quipe mondiale de doctrine juridique pour rechercher, cr\u00e9er, r\u00e9viser et maintenir un contenu juridique de haute qualit\u00e9 pour des livres im...",
+      "descriptionTeaser_ats": "Titre du poste  .  \u00c9diteur juridique \u2013 DoctrineJoignez notre \u00e9quipe mondiale de doctrine juridique pour rechercher, cr\u00e9er, r\u00e9viser et maintenir un contenu juridique de haute qualit\u00e9 pour des livres impr"
+    },
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": -73.58781,
+          "lat": 45.50884
+        },
+        "location": "Montreal, Quebec, Canada"
+      },
+      {
+        "latlong": {
+          "lon": -79.4163,
+          "lat": 43.70011
+        },
+        "location": "Toronto, Ontario, Canada"
+      }
+    ],
+    "isMultiCategory": false,
+    "multi_category_array": [
+      {
+        "category": "News & Editorial Careers"
+      }
+    ],
+    "badge": ""
+  },
+  {
+    "cityState": "Singapore",
+    "country": "Singapore",
+    "remote": "Hybrid",
+    "type": "Full time",
+    "descriptionTeaser": "Asia Metals CorrespondentReuters is seeking an outstanding journalist with strong source-building skills, great story ideas and a track record of breaking news to join our Singapore-based team as Asia",
+    "state": "",
+    "visibilityType": "External",
+    "siteType": "external",
+    "longitude": "103.8",
+    "multi_category": [
+      "News & Editorial Careers"
+    ],
+    "reqId": "JREQ196532",
+    "jobId": "JREQ196532",
+    "city": "Singapore",
+    "latitude": "1.36667",
+    "locale": "en_US",
+    "multi_location": [
+      "Singapore, Singapore"
+    ],
+    "title": "Asia Metals Correspondent",
+    "jobSeqNo": "THTTRUUSJREQ196532EXTERNALENUS",
+    "postedDate": "2025-12-10T00:00:00.000+0000",
+    "dateCreated": "2025-12-10T04:47:23.032+0000",
+    "cityStateCountry": "Singapore, Singapore",
+    "address": "ALICE@Mediapolis, 29 Media Circle,  #09-05, Singapore 138565, Singapore",
+    "jobVisibility": [
+      "external"
+    ],
+    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Singapore-Singapore/Asia-Metals-Correspondent_JREQ196532/apply",
+    "location": "Singapore, Singapore",
+    "category": "News & Editorial Careers",
+    "externalApply": true,
+    "isMultiLocation": true,
+    "multi_location_array": [
+      {
+        "latlong": {
+          "lon": 103.8,
+          "lat": 1.36667
+        },
+        "location": "Singapore, Singapore"
       }
     ],
     "isMultiCategory": false,
@@ -210,78 +814,6 @@
           "lat": 17.38405
         },
         "location": "Hyderabad, Telangana, India"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "ml_skills": [
-      "e-invoicing",
-      "tax technology",
-      "indirect tax",
-      "regulatory compliance",
-      "ms office",
-      "stakeholder collaboration",
-      "written communication",
-      "verbal communication",
-      "content creation",
-      "data integration",
-      "project management",
-      "language proficiency"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Join our team as a Regulatory Associate and tackle the complexities of global regulatory compliance in e-invoicing and tax technology. Contribute to our innovative solutions while collaborating with stakeholders and ensuring compliance across various markets. Your expertise will help us lead in this critical field.",
-    "state": "",
-    "siteType": "external",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ189266",
-    "city": "Gothenburg",
-    "latitude": "57.70716",
-    "multi_location": [
-      "Gothenburg, Sweden"
-    ],
-    "address": "V\u00e4stra Hamngatan 1, 411 17 Gothenburg, Sweden",
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Sweden-Gothenburg/Regulatory-Associate_JREQ189266/apply",
-    "ml_job_parser": {
-      "descriptionTeaser": "Join our team as a Regulatory Associate and tackle the complexities of global regulatory compliance in e-invoicing and tax technology. Contribute to our innovative solutions while collaborating with stakeholders and ensuring compliance across various markets. Your expertise will help us lead in this critical field.",
-      "descriptionTeaser_first200": "Regulatory Associate - Pagero. Are you ready to tackle the complexities of global regulatory compliance and drive innovation in e-invoicing and tax technology? As a member of the Regulatory Affairs...",
-      "descriptionTeaser_keyword": "Regulatory Associate - Pagero. Are you ready to tackle the complexities of global regulatory compliance and drive innovation in e-invoicing and tax technology? As a member of the Regulatory Affairs te...",
-      "descriptionTeaser_ats": "Regulatory Associate - PageroAre you ready to tackle the complexities of global regulatory compliance and drive innovation in e-invoicing and tax technology? As a member of the Regulatory Affairs team"
-    },
-    "externalApply": true,
-    "cityState": "Gothenburg",
-    "country": "Sweden",
-    "visibilityType": "External",
-    "longitude": "11.96679",
-    "jobId": "JREQ189266",
-    "locale": "en_US",
-    "title": "Regulatory Specialist",
-    "jobSeqNo": "THTTRUUSJREQ189266EXTERNALENUS",
-    "postedDate": "2025-12-08T00:00:00.000+0000",
-    "dateCreated": "2025-05-12T12:37:23.933+0000",
-    "cityStateCountry": "Gothenburg, Sweden",
-    "jobVisibility": [
-      "external"
-    ],
-    "location": "Gothenburg, Sweden",
-    "category": "News & Editorial Careers",
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 11.96679,
-          "lat": 57.70716
-        },
-        "location": "Gothenburg, Sweden"
       }
     ],
     "isMultiCategory": false,
@@ -605,79 +1137,6 @@
     "badge": ""
   },
   {
-    "ml_skills": [
-      "tax research",
-      "document formatting",
-      "content publishing",
-      "html conversion",
-      "microsoft office",
-      "generative ai",
-      "quality assurance",
-      "analytical skills",
-      "attention to detail",
-      "interpersonal skills",
-      "project management",
-      "communication skills",
-      "team collaboration"
-    ],
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Join our team as a Tax Publisher and play a pivotal role in delivering insightful tax-related content. If you have strong analytical skills and a passion for tax research, we want to hear from you!",
-    "state": "Telangana",
-    "siteType": "external",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ195302",
-    "city": "Hyderabad",
-    "latitude": "17.38405",
-    "multi_location": [
-      "Hyderabad, Telangana, India"
-    ],
-    "address": "Floor 12, 13 & 14, Building 11, Raheja Mindspace, Madhapur, Hyderabad- 500081, Telangana, India",
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Hyderabad-Telangana/Publisher---Canadian-Tax_JREQ195302/apply",
-    "ml_job_parser": {
-      "descriptionTeaser": "Join our team as a Tax Publisher and play a pivotal role in delivering insightful tax-related content. If you have strong analytical skills and a passion for tax research, we want to hear from you!",
-      "descriptionTeaser_first200": "Join our dynamic team and play a pivotal role in delivering timely, accurate, and insightful tax-related content to professionals across Canada. As a key contributor, you'll be responsible for sour...",
-      "descriptionTeaser_keyword": "Join our dynamic team and play a pivotal role in delivering timely, accurate, and insightful tax-related content to professionals across Canada. As a key contributor, you'll be responsible for sourcin...",
-      "descriptionTeaser_ats": "Join our dynamic team and play a pivotal role in delivering timely, accurate, and insightful tax-related content to professionals across Canada. As a key contributor, you'll be responsible for sourcin"
-    },
-    "externalApply": true,
-    "cityState": "Hyderabad, Telangana",
-    "country": "India",
-    "visibilityType": "External",
-    "longitude": "78.45636",
-    "jobId": "JREQ195302",
-    "locale": "en_US",
-    "title": "Publisher - Canadian Tax",
-    "jobSeqNo": "THTTRUUSJREQ195302EXTERNALENUS",
-    "postedDate": "2025-12-02T00:00:00.000+0000",
-    "dateCreated": "2025-11-03T12:49:44.430+0000",
-    "cityStateCountry": "Hyderabad, Telangana, India",
-    "jobVisibility": [
-      "external"
-    ],
-    "location": "Hyderabad, Telangana, India",
-    "category": "News & Editorial Careers",
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": 78.45636,
-          "lat": 17.38405
-        },
-        "location": "Hyderabad, Telangana, India"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "Eagan, Minnesota",
     "country": "United States of America",
     "remote": "Hybrid",
@@ -838,86 +1297,6 @@
     "badge": ""
   },
   {
-    "cityState": "Montreal, Quebec",
-    "country": "Canada",
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Rejoignez notre \u00e9quipe en tant qu'\u00c9diteur juridique et contribuez \u00e0 la cr\u00e9ation de contenu juridique de haute qualit\u00e9. Ce r\u00f4le hybride vous permettra de travailler sur des projets passionnants tout en d\u00e9veloppant vos comp\u00e9tences en r\u00e9daction et en recherche juridique.",
-    "state": "Quebec",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-73.58781",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ196409",
-    "jobId": "JREQ196409",
-    "city": "Montreal",
-    "latitude": "45.50884",
-    "locale": "en_US",
-    "multi_location": [
-      "Montreal, Quebec, Canada",
-      "Toronto, Ontario, Canada"
-    ],
-    "title": "Legal Editor",
-    "jobSeqNo": "THTTRUUSJREQ196409EXTERNALENUS",
-    "postedDate": "2025-12-01T00:00:00.000+0000",
-    "dateCreated": "2025-12-01T20:44:18.740+0000",
-    "cityStateCountry": "Montreal, Quebec, Canada",
-    "address": "1010 rue Ste-Catherine Ouest, Suite 200, Montreal, QC H3B 5L1, Canada",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Canada-Montreal-Quebec/Legal-Editor_JREQ196409/apply",
-    "location": "Montreal, Quebec, Canada",
-    "category": "News & Editorial Careers",
-    "externalApply": true,
-    "ml_skills": [
-      "r\u00e9daction juridique",
-      "recherche juridique",
-      "analyse juridique",
-      "utilisation de westlaw",
-      "r\u00e9daction \u00e9ditoriale",
-      "gestion des relations",
-      "ma\u00eetrise de microsoft office 365",
-      "comp\u00e9tences en communication",
-      "gestion de projet",
-      "esprit analytique",
-      "bilinguisme fran\u00e7ais/anglais",
-      "collaboration"
-    ],
-    "ml_job_parser": {
-      "descriptionTeaser": "Rejoignez notre \u00e9quipe en tant qu'\u00c9diteur juridique et contribuez \u00e0 la cr\u00e9ation de contenu juridique de haute qualit\u00e9. Ce r\u00f4le hybride vous permettra de travailler sur des projets passionnants tout en d\u00e9veloppant vos comp\u00e9tences en r\u00e9daction et en recherche juridique.",
-      "descriptionTeaser_first200": "Titre du poste : \u00c9diteur juridique \u2013 Doctrine. Joignez notre \u00e9quipe mondiale de doctrine juridique pour rechercher, cr\u00e9er, r\u00e9viser et maintenir un contenu juridique de haute qualit\u00e9 pour des livres...",
-      "descriptionTeaser_keyword": "Titre du poste : \u00c9diteur juridique \u2013 Doctrine. Joignez notre \u00e9quipe mondiale de doctrine juridique pour rechercher, cr\u00e9er, r\u00e9viser et maintenir un contenu juridique de haute qualit\u00e9 pour des livres im...",
-      "descriptionTeaser_ats": "Titre du poste  .  \u00c9diteur juridique \u2013 DoctrineJoignez notre \u00e9quipe mondiale de doctrine juridique pour rechercher, cr\u00e9er, r\u00e9viser et maintenir un contenu juridique de haute qualit\u00e9 pour des livres impr"
-    },
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -73.58781,
-          "lat": 45.50884
-        },
-        "location": "Montreal, Quebec, Canada"
-      },
-      {
-        "latlong": {
-          "lon": -79.4163,
-          "lat": 43.70011
-        },
-        "location": "Toronto, Ontario, Canada"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
     "cityState": "North Hollywood, California",
     "country": "United States of America",
     "remote": "Remote",
@@ -1051,81 +1430,6 @@
           "lat": 51.50853
         },
         "location": "London, United Kingdom"
-      }
-    ],
-    "isMultiCategory": false,
-    "multi_category_array": [
-      {
-        "category": "News & Editorial Careers"
-      }
-    ],
-    "badge": ""
-  },
-  {
-    "cityState": "Toronto, Ontario",
-    "country": "Canada",
-    "remote": "Hybrid",
-    "type": "Full time",
-    "descriptionTeaser": "Are you experienced in tax advisory and compliance? Join our team as a Principal Tax Publisher and leverage your expertise to create industry-leading content while utilizing advanced technologies to enhance tax research and advisory services.",
-    "state": "Ontario",
-    "visibilityType": "External",
-    "siteType": "external",
-    "longitude": "-79.4163",
-    "multi_category": [
-      "News & Editorial Careers"
-    ],
-    "reqId": "JREQ195847",
-    "jobId": "JREQ195847",
-    "city": "Toronto",
-    "latitude": "43.70011",
-    "locale": "en_US",
-    "multi_location": [
-      "Toronto, Ontario, Canada"
-    ],
-    "title": "Principal Tax Publisher",
-    "jobSeqNo": "THTTRUUSJREQ195847EXTERNALENUS",
-    "postedDate": "2025-11-26T00:00:00.000+0000",
-    "dateCreated": "2025-11-19T00:44:21.547+0000",
-    "cityStateCountry": "Toronto, Ontario, Canada",
-    "address": "19 Duncan Street, Toronto, ON M5H 3H1, Canada",
-    "jobVisibility": [
-      "external"
-    ],
-    "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Canada-Toronto-Ontario/Principal-Publisher_JREQ195847/apply",
-    "location": "Toronto, Ontario, Canada",
-    "category": "News & Editorial Careers",
-    "externalApply": true,
-    "ml_skills": [
-      "tax advisory",
-      "tax compliance",
-      "cpa certification",
-      "ll.m in taxation",
-      "tax research tools",
-      "content creation",
-      "editing skills",
-      "analytical skills",
-      "communication skills",
-      "project management",
-      "interpersonal skills",
-      "generative ai technologies",
-      "team collaboration",
-      "attention to detail",
-      "agile environment"
-    ],
-    "ml_job_parser": {
-      "descriptionTeaser": "Are you experienced in tax advisory and compliance? Join our team as a Principal Tax Publisher and leverage your expertise to create industry-leading content while utilizing advanced technologies to enhance tax research and advisory services.",
-      "descriptionTeaser_first200": "Principal Tax Publisher. Role Summary. We are seeking a passionate tax professional who thrives on the complexity and intricacy of tax advisory work. The ideal candidate is a lifelong learner with ...",
-      "descriptionTeaser_keyword": "Principal Tax Publisher. Role Summary. We are seeking a passionate tax professional who thrives on the complexity and intricacy of tax advisory work. The ideal candidate is a lifelong learner with an...",
-      "descriptionTeaser_ats": "Principal Tax PublisherRole SummaryWe are seeking a passionate tax professional who thrives on the complexity and intricacy of tax advisory work. The ideal candidate is a lifelong learner with an insa"
-    },
-    "isMultiLocation": true,
-    "multi_location_array": [
-      {
-        "latlong": {
-          "lon": -79.4163,
-          "lat": 43.70011
-        },
-        "location": "Toronto, Ontario, Canada"
       }
     ],
     "isMultiCategory": false,
