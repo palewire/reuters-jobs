@@ -15,7 +15,7 @@ def cli():
     print(f"Screenshoting {len(data)} listings")
     for obj in data:
         os.system(
-            f"shot-scraper http://localhost:8000/job/?id={obj['id']} -s '.module-border-wrap' -o {utils.DATA_DIR / 'img'}/{obj['id']}.png -w 1200 -h 630"
+            f"shot-scraper http://localhost:8000/job/?id={obj['id']} -s '.module-border-wrap' -o {utils.DATA_DIR / 'img'}/{obj['id']}.png -w 960 -h 1230"
         )
         time.sleep(2)
 
